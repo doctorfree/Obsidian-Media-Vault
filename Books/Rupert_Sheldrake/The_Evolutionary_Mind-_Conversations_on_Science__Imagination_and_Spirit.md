@@ -1,0 +1,39 @@
+---
+book id: 369075
+title: "The Evolutionary Mind: Conversations on Science, Imagination & Spirit"
+author: Rupert Sheldrake
+authors: Terence McKenna, Ralph H. Abraham
+isbn: 0974935972
+isbn13: 9780974935973
+rating: 0
+avgrating: 4.15
+publisher: Monkfish Book Publishing
+binding: Paperback
+pages: 224
+published: 1998
+shelves: to-read, philosophy, science
+shelf: to-read
+review: 
+---
+
+# "The Evolutionary Mind: Conversations on Science, Imagination & Spirit"
+
+By Rupert Sheldrake
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925424l/369075.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/369075)
+
+- ISBN: 0974935972
+- ISBN13: 9780974935973
+- Rating: 0
+- Average Rating: 4.15
+- Published: 1998
+- Publisher: Monkfish Book Publishing
+- Binding: Paperback
+- Shelves: to-read, philosophy, science
+- Shelf: to-read
+- Pages: 224
+

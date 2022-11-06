@@ -1,0 +1,39 @@
+---
+book id: 941509
+title: Space Vampires
+author: Colin Wilson
+authors: 
+isbn: 0671836374
+isbn13: 9780671836375
+rating: 0
+avgrating: 3.35
+publisher: Pocket
+binding: Mass Market Paperback
+pages: 220
+published: 1976
+shelves: to-read, science-fiction, novels
+shelf: to-read
+review: 
+---
+
+# Space Vampires
+
+By Colin Wilson
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434243061l/941509._SY475_.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/941509)
+
+- ISBN: 0671836374
+- ISBN13: 9780671836375
+- Rating: 0
+- Average Rating: 3.35
+- Published: 1976
+- Publisher: Pocket
+- Binding: Mass Market Paperback
+- Shelves: to-read, science-fiction, novels
+- Shelf: to-read
+- Pages: 220
+

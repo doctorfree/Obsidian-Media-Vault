@@ -1,0 +1,39 @@
+---
+book id: 26228034
+title: "The Obelisk Gate (The Broken Earth, #2)"
+author: N.K. Jemisin
+authors: 
+isbn: 
+isbn13: 
+rating: 5
+avgrating: 4.31
+publisher: Orbit
+binding: Paperback
+pages: 410
+published: 2016
+shelves: science-fiction
+shelf: read
+review: 
+---
+
+# "The Obelisk Gate (The Broken Earth, #2)"
+
+By N.K. Jemisin
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660867781l/26228034._SY475_.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/26228034)
+
+- ISBN: 
+- ISBN13: 
+- Rating: 5
+- Average Rating: 4.31
+- Published: 2016
+- Publisher: Orbit
+- Binding: Paperback
+- Shelves: science-fiction
+- Shelf: read
+- Pages: 410
+

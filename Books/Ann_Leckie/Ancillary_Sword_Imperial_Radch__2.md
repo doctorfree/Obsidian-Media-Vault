@@ -1,0 +1,39 @@
+---
+book id: 20706284
+title: "Ancillary Sword (Imperial Radch, #2)"
+author: Ann Leckie
+authors: 
+isbn: 0316246654
+isbn13: 9780316246651
+rating: 5
+avgrating: 4.06
+publisher: Orbit
+binding: Paperback
+pages: 359
+published: 2014
+shelves: science-fiction
+shelf: read
+review: 
+---
+
+# "Ancillary Sword (Imperial Radch, #2)"
+
+By Ann Leckie
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597476183l/20706284._SY475_.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/20706284)
+
+- ISBN: 0316246654
+- ISBN13: 9780316246651
+- Rating: 5
+- Average Rating: 4.06
+- Published: 2014
+- Publisher: Orbit
+- Binding: Paperback
+- Shelves: science-fiction
+- Shelf: read
+- Pages: 359
+

@@ -1,0 +1,39 @@
+---
+book id: 1840511
+title: Snuff
+author: Chuck Palahniuk
+authors: 
+isbn: 0385517882
+isbn13: 9780385517881
+rating: 5
+avgrating: 3.21
+publisher: Doubleday
+binding: Hardcover
+pages: 208
+published: 2008
+shelves: fiction, novels, palahniuk
+shelf: read
+review: 
+---
+
+# Snuff
+
+By Chuck Palahniuk
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446089918l/1840511._SX318_.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/1840511)
+
+- ISBN: 0385517882
+- ISBN13: 9780385517881
+- Rating: 5
+- Average Rating: 3.21
+- Published: 2008
+- Publisher: Doubleday
+- Binding: Hardcover
+- Shelves: fiction, novels, palahniuk
+- Shelf: read
+- Pages: 208
+

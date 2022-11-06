@@ -1,0 +1,39 @@
+---
+book id: 6301084
+title: The Iliad
+author: Homer
+authors: 
+isbn: 
+isbn13: 
+rating: 4
+avgrating: 3.89
+publisher: 
+binding: Kindle Edition
+pages: 482
+published: -800
+shelves: 
+shelf: read
+review: 
+---
+
+# The Iliad
+
+By Homer
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328054035l/6301084.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/6301084)
+
+- ISBN: 
+- ISBN13: 
+- Rating: 4
+- Average Rating: 3.89
+- Published: -800
+- Publisher: 
+- Binding: Kindle Edition
+- Shelves: 
+- Shelf: read
+- Pages: 482
+

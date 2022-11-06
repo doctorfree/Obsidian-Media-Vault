@@ -1,0 +1,12 @@
+#!/bin/bash
+
+[ -d ../bookdata ] || mkdir ../bookdata
+cd csv
+for book in *.csv
+do
+  [ "${book}" == "*.csv" ] && continue
+  ../scripts/csv2md ${book}
+  md=`echo ${book} | sed -e "s/\.csv/.md/"`
+  [ -f ${md} ] || continue
+  mv ${md} ../../bookdata
+done

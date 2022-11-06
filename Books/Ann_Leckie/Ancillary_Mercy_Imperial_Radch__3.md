@@ -1,0 +1,39 @@
+---
+book id: 23533039
+title: "Ancillary Mercy (Imperial Radch, #3)"
+author: Ann Leckie
+authors: 
+isbn: 0356502422
+isbn13: 9780356502427
+rating: 5
+avgrating: 4.20
+publisher: Orbit
+binding: Paperback
+pages: 330
+published: 2015
+shelves: science-fiction
+shelf: read
+review: 
+---
+
+# "Ancillary Mercy (Imperial Radch, #3)"
+
+By Ann Leckie
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/23533039)
+
+- ISBN: 0356502422
+- ISBN13: 9780356502427
+- Rating: 5
+- Average Rating: 4.20
+- Published: 2015
+- Publisher: Orbit
+- Binding: Paperback
+- Shelves: science-fiction
+- Shelf: read
+- Pages: 330
+

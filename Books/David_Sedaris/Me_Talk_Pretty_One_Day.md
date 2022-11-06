@@ -1,0 +1,39 @@
+---
+book id: 4137
+title: Me Talk Pretty One Day
+author: David Sedaris
+authors: 
+isbn: 0349113912
+isbn13: 9780349113913
+rating: 5
+avgrating: 4.00
+publisher: Little, Brown and Company
+binding: Paperback
+pages: 272
+published: 2000
+shelves: literature, short-stories
+shelf: read
+review: 
+---
+
+# Me Talk Pretty One Day
+
+By David Sedaris
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639l/4137.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/4137)
+
+- ISBN: 0349113912
+- ISBN13: 9780349113913
+- Rating: 5
+- Average Rating: 4.00
+- Published: 2000
+- Publisher: Little, Brown and Company
+- Binding: Paperback
+- Shelves: literature, short-stories
+- Shelf: read
+- Pages: 272
+

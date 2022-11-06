@@ -1,0 +1,39 @@
+---
+book id: 18773624
+title: Wuthering Heights
+author: Emily Brontë
+authors: 
+isbn: 
+isbn13: 
+rating: 5
+avgrating: 3.88
+publisher: The Folio Society
+binding: Hardcover
+pages: 275
+published: 1847
+shelves: fiction, literature, novels
+shelf: read
+review: 
+---
+
+# Wuthering Heights
+
+By Emily Brontë
+
+![](https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/18773624)
+
+- ISBN: 
+- ISBN13: 
+- Rating: 5
+- Average Rating: 3.88
+- Published: 1847
+- Publisher: The Folio Society
+- Binding: Hardcover
+- Shelves: fiction, literature, novels
+- Shelf: read
+- Pages: 275
+

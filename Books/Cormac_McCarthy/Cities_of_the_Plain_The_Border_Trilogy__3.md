@@ -1,0 +1,43 @@
+---
+book id: 40470
+title: "Cities of the Plain (The Border Trilogy, #3)"
+author: Cormac McCarthy
+authors: 
+isbn: 0679747192
+isbn13: 9780679747192
+rating: 5
+avgrating: 4.11
+publisher: Vintage Books
+binding: Paperback
+pages: 292
+published: 1998
+shelves: fiction, literature
+shelf: read
+review: Everytime I finish a Cormac McCarthy novel I ask myself why haven't I read all of his works ? Clearly he is the greatest of our living writers.
+---
+
+# "Cities of the Plain (The Border Trilogy, #3)"
+
+By Cormac McCarthy
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581254344l/40470.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/40470)
+
+- ISBN: 0679747192
+- ISBN13: 9780679747192
+- Rating: 5
+- Average Rating: 4.11
+- Published: 1998
+- Publisher: Vintage Books
+- Binding: Paperback
+- Shelves: fiction, literature
+- Shelf: read
+- Pages: 292
+
+## Review
+
+Everytime I finish a Cormac McCarthy novel I ask myself why haven't I read all of his works ? Clearly he is the greatest of our living writers.
+

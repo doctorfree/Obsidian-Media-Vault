@@ -1,0 +1,39 @@
+---
+book id: 3557919
+title: Big Sur
+author: Jack Kerouac
+authors: 
+isbn: 
+isbn13: 
+rating: 0
+avgrating: 3.85
+publisher: Bantam Books
+binding: Paperback
+pages: 200
+published: 1962
+shelves: to-read
+shelf: to-read
+review: 
+---
+
+# Big Sur
+
+By Jack Kerouac
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1214525899l/3557919.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/3557919)
+
+- ISBN: 
+- ISBN13: 
+- Rating: 0
+- Average Rating: 3.85
+- Published: 1962
+- Publisher: Bantam Books
+- Binding: Paperback
+- Shelves: to-read
+- Shelf: to-read
+- Pages: 200
+

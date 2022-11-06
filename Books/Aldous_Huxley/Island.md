@@ -1,0 +1,39 @@
+---
+book id: 5130
+title: Island
+author: Aldous Huxley
+authors: 
+isbn: 0060085495
+isbn13: 9780060085490
+rating: 5
+avgrating: 3.86
+publisher: Harper Perennial Classics
+binding: Paperback
+pages: 354
+published: 1962
+shelves: literature, science-fiction, novels, huxley, fiction
+shelf: read
+review: 
+---
+
+# Island
+
+By Aldous Huxley
+
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375947541l/5130.jpg)
+
+## Book data
+
+[GoodReads ID/URL](https://www.goodreads.com/book/show/5130)
+
+- ISBN: 0060085495
+- ISBN13: 9780060085490
+- Rating: 5
+- Average Rating: 3.86
+- Published: 1962
+- Publisher: Harper Perennial Classics
+- Binding: Paperback
+- Shelves: literature, science-fiction, novels, huxley, fiction
+- Shelf: read
+- Pages: 354
+
