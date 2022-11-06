@@ -1,5 +1,5 @@
 ---
-book id: 19523454
+bookid: 19523454
 title: Beautiful You
 author: Chuck Palahniuk
 authors: 

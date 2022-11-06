@@ -1,5 +1,5 @@
 ---
-book id: 1840511
+bookid: 1840511
 title: Snuff
 author: Chuck Palahniuk
 authors: 

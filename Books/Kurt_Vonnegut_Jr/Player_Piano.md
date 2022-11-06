@@ -1,5 +1,5 @@
 ---
-book id: 9597
+bookid: 9597
 title: Player Piano
 author: Kurt Vonnegut Jr.
 authors: 

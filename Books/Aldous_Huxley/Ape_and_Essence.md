@@ -1,5 +1,5 @@
 ---
-book id: 30561
+bookid: 30561
 title: Ape and Essence
 author: Aldous Huxley
 authors: 

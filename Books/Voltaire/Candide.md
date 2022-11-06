@@ -1,5 +1,5 @@
 ---
-book id: 13329016
+bookid: 13329016
 title: Candide
 author: Voltaire
 authors: 

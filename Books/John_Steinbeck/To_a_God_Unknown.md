@@ -1,5 +1,5 @@
 ---
-book id: 111300
+bookid: 111300
 title: To a God Unknown
 author: John Steinbeck
 authors: Robert DeMott

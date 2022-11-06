@@ -1,5 +1,5 @@
 ---
-book id: 400
+bookid: 400
 title: Libra
 author: Don DeLillo
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 24998977
+bookid: 24998977
 title: Kiss the Sky: My Weekend in Monterey at the Greatest Concert Ever
 author: Dusty Baker
 authors: 

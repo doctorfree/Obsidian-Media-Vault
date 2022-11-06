@@ -1,5 +1,5 @@
 ---
-book id: 12570
+bookid: 12570
 title: A Confederate General from Big Sur / Dreaming of Babylon / The Hawkline Monster
 author: Richard Brautigan
 authors: 

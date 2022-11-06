@@ -1,5 +1,5 @@
 ---
-book id: 27400601
+bookid: 27400601
 title: The Short Stories of Ernest Hemingway
 author: Ernest Hemingway
 authors: 

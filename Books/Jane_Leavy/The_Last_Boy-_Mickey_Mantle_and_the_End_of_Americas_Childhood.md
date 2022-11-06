@@ -1,5 +1,5 @@
 ---
-book id: 6899530
+bookid: 6899530
 title: The Last Boy: Mickey Mantle and the End of America's Childhood
 author: Jane Leavy
 authors: 

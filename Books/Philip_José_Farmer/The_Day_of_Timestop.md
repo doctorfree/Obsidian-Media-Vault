@@ -1,5 +1,5 @@
 ---
-book id: 6557235
+bookid: 6557235
 title: The Day of Timestop
 author: Philip José Farmer
 authors: 

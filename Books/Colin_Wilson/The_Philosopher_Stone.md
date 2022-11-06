@@ -1,5 +1,5 @@
 ---
-book id: 2472325
+bookid: 2472325
 title: The Philosopher Stone
 author: Colin Wilson
 authors: 

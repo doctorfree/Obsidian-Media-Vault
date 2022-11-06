@@ -1,5 +1,5 @@
 ---
-book id: 2905378
+bookid: 2905378
 title: The Man in the High Castle
 author: Philip K. Dick
 authors: 

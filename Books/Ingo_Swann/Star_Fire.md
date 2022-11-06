@@ -1,5 +1,5 @@
 ---
-book id: 687730
+bookid: 687730
 title: Star Fire
 author: Ingo Swann
 authors: 

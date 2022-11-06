@@ -1,5 +1,5 @@
 ---
-book id: 591745
+bookid: 591745
 title: Flesh
 author: Philip José Farmer
 authors: 

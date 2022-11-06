@@ -1,5 +1,5 @@
 ---
-book id: 63461
+bookid: 63461
 title: Terms of Endearment
 author: Larry McMurtry
 authors: 

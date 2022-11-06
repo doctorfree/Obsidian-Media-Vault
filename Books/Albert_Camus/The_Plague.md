@@ -1,5 +1,5 @@
 ---
-book id: 441870
+bookid: 441870
 title: The Plague
 author: Albert Camus
 authors: Stuart Gilbert

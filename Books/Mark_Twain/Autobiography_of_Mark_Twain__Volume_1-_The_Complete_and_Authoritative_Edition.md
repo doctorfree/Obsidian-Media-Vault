@@ -1,5 +1,5 @@
 ---
-book id: 8192278
+bookid: 8192278
 title: "Autobiography of Mark Twain, Volume 1: The Complete and Authoritative Edition"
 author: Mark Twain
 authors: Harriet E. Smith, Benjamin Griffin, Victor Fischer, Michael B. Frank, Sharon K. Goetz, Leslie Diane Myrick

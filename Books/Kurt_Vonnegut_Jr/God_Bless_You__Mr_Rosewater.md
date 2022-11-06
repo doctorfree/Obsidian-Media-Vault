@@ -1,5 +1,5 @@
 ---
-book id: 9590
+bookid: 9590
 title: "God Bless You, Mr. Rosewater"
 author: Kurt Vonnegut Jr.
 authors: 

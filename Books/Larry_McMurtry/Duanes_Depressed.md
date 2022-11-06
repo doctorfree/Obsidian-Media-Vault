@@ -1,5 +1,5 @@
 ---
-book id: 54816
+bookid: 54816
 title: Duane's Depressed
 author: Larry McMurtry
 authors: 

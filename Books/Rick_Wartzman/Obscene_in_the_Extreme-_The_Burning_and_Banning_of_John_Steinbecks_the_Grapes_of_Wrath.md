@@ -1,5 +1,5 @@
 ---
-book id: 2801664
+bookid: 2801664
 title: Obscene in the Extreme: The Burning and Banning of John Steinbeck's the Grapes of Wrath
 author: Rick Wartzman
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 12574
+bookid: 12574
 title: Tokyo-Montana Express
 author: Richard Brautigan
 authors: Robert Pépin

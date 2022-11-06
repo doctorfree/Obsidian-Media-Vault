@@ -1,5 +1,5 @@
 ---
-book id: 25463452
+bookid: 25463452
 title: Power Shift: From Fossil Energy to Dynamic Solar Power
 author: Robert Arthur Stayton
 authors: 

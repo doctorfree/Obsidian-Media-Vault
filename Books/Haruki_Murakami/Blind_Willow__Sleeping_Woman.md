@@ -1,5 +1,5 @@
 ---
-book id: 45296
+bookid: 45296
 title: "Blind Willow, Sleeping Woman"
 author: Haruki Murakami
 authors: Jay Rubin, Philip Gabriel

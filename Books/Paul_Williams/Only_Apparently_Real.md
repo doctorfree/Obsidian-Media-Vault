@@ -1,5 +1,5 @@
 ---
-book id: 839056
+bookid: 839056
 title: Only Apparently Real
 author: Paul Williams
 authors: 

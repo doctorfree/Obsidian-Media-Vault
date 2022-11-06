@@ -1,5 +1,5 @@
 ---
-book id: 6218049
+bookid: 6218049
 title: Possible Worlds of Science Fiction
 author: Groff Conklin
 authors: John Berryman

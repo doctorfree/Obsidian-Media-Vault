@@ -1,5 +1,5 @@
 ---
-book id: 434412
+bookid: 434412
 title: The Youngest Science
 author: Lewis Thomas
 authors: 

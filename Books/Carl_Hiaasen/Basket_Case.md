@@ -1,5 +1,5 @@
 ---
-book id: 13063
+bookid: 13063
 title: Basket Case
 author: Carl Hiaasen
 authors: 

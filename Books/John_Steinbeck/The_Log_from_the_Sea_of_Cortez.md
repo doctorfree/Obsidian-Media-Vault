@@ -1,5 +1,5 @@
 ---
-book id: 4803
+bookid: 4803
 title: The Log from the Sea of Cortez
 author: John Steinbeck
 authors: Richard Astro

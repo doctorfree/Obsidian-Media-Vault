@@ -1,5 +1,5 @@
 ---
-book id: 13066
+bookid: 13066
 title: "Sick Puppy (Skink, #4)"
 author: Carl Hiaasen
 authors: 

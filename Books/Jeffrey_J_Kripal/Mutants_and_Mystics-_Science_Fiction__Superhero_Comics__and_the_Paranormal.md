@@ -1,5 +1,5 @@
 ---
-book id: 11909762
+bookid: 11909762
 title: "Mutants and Mystics: Science Fiction, Superhero Comics, and the Paranormal"
 author: Jeffrey J. Kripal
 authors: 

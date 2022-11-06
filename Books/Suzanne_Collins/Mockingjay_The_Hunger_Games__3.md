@@ -1,5 +1,5 @@
 ---
-book id: 7260188
+bookid: 7260188
 title: "Mockingjay (The Hunger Games, #3)"
 author: Suzanne Collins
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 9594
+bookid: 9594
 title: Timequake
 author: Kurt Vonnegut Jr.
 authors: 

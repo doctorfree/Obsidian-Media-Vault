@@ -1,5 +1,5 @@
 ---
-book id: 4138
+bookid: 4138
 title: Naked
 author: David Sedaris
 authors: 

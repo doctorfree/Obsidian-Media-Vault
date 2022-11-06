@@ -1,5 +1,5 @@
 ---
-book id: 2249196
+bookid: 2249196
 title: "All-Star Superman, Vol. 2"
 author: Grant Morrison
 authors: Frank Quitely

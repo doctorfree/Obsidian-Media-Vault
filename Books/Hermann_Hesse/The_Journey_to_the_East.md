@@ -1,5 +1,5 @@
 ---
-book id: 13519
+bookid: 13519
 title: The Journey to the East
 author: Hermann Hesse
 authors: Hilda Rosner

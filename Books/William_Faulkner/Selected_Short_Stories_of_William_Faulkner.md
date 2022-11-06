@@ -1,5 +1,5 @@
 ---
-book id: 18680461
+bookid: 18680461
 title: Selected Short Stories of William Faulkner
 author: William Faulkner
 authors: 

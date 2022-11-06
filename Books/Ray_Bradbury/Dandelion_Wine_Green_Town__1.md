@@ -1,5 +1,5 @@
 ---
-book id: 50033
+bookid: 50033
 title: "Dandelion Wine (Green Town, #1)"
 author: Ray Bradbury
 authors: 

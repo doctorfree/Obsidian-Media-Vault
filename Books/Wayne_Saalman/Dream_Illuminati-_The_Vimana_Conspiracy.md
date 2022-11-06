@@ -1,5 +1,5 @@
 ---
-book id: 997888
+bookid: 997888
 title: Dream Illuminati: The Vimana Conspiracy
 author: Wayne Saalman
 authors: 

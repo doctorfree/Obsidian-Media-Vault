@@ -1,5 +1,5 @@
 ---
-book id: 3556999
+bookid: 3556999
 title: Black Elk Speaks
 author: John G. Neihardt
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 422906
+bookid: 422906
 title: The Ethics of Star Trek
 author: Judith A. Barad
 authors: Ed Robertson

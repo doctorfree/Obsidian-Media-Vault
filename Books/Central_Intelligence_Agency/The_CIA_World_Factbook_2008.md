@@ -1,5 +1,5 @@
 ---
-book id: 11697009
+bookid: 11697009
 title: The CIA World Factbook 2008
 author: Central Intelligence Agency
 authors: 

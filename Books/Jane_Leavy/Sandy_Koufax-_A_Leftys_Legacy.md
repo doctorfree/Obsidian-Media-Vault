@@ -1,5 +1,5 @@
 ---
-book id: 653118
+bookid: 653118
 title: Sandy Koufax: A Lefty's Legacy
 author: Jane Leavy
 authors: 

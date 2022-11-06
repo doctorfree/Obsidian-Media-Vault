@@ -1,5 +1,5 @@
 ---
-book id: 869539
+bookid: 869539
 title: Dynamics The Geometry Of Behavior
 author: Ralph H. Abraham
 authors: Christopher D. Shaw

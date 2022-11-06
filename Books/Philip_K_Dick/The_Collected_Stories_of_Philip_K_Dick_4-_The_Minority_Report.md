@@ -1,5 +1,5 @@
 ---
-book id: 156724
+bookid: 156724
 title: The Collected Stories of Philip K. Dick 4: The Minority Report
 author: Philip K. Dick
 authors: 

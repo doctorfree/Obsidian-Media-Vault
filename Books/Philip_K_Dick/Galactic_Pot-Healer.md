@@ -1,5 +1,5 @@
 ---
-book id: 498123
+bookid: 498123
 title: Galactic Pot-Healer
 author: Philip K. Dick
 authors: 

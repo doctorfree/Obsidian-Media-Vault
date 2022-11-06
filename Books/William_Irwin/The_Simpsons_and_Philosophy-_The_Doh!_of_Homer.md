@@ -1,5 +1,5 @@
 ---
-book id: 31813
+bookid: 31813
 title: The Simpsons and Philosophy: The D'oh! of Homer
 author: William Irwin
 authors: Mark T. Conard, Aeon J. Skoble, Raja Halwani, Eric Bronson, Gerald J. Erion, Joseph A. Zeccardi, J.R. Lombardo, Deborah Knight, Carl Matheson, Dale E. Snow, James J. Snow, James Lawler, Paul A. Cantor, Jason Holt, Daniel Barwick, David Vessey, Jennifer L. McMahon, James M. Wallace, David L. G. Arnold, Kelly Dean Jolley

@@ -1,5 +1,5 @@
 ---
-book id: 13038865
+bookid: 13038865
 title: Woe to Live on
 author: Daniel Woodrell
 authors: Ron Rash

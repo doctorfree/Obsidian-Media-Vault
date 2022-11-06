@@ -1,5 +1,5 @@
 ---
-book id: 1179647
+bookid: 1179647
 title: 13 Great Stories of Science Fiction
 author: Groff Conklin
 authors: John Wyndham, Algis Budrys, Poul Anderson, Wyman Guin, Arthur C. Clarke, William T. Powers, Alan Nelson, William Morrison, G.C. Edmondson, Damon Knight, Lion Miller, Theodore Sturgeon, Richard Gehman

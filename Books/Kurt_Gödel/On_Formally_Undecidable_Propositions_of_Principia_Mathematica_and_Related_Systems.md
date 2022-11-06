@@ -1,5 +1,5 @@
 ---
-book id: 208288
+bookid: 208288
 title: On Formally Undecidable Propositions of Principia Mathematica and Related Systems
 author: Kurt Gödel
 authors: Bernard Meltzer

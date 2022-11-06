@@ -1,5 +1,5 @@
 ---
-book id: 15757119
+bookid: 15757119
 title: The Fall
 author: Albert Camus
 authors: Justin O'Brien

@@ -1,5 +1,5 @@
 ---
-book id: 6290235
+bookid: 6290235
 title: Complete Poetical Works
 author: Edgar Allan Poe
 authors: 

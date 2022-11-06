@@ -1,5 +1,5 @@
 ---
-book id: 2024223
+bookid: 2024223
 title: Armageddon in Retrospect: And Other New and Unpublished Writings on War and Peace
 author: Kurt Vonnegut Jr.
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 2767052
+bookid: 2767052
 title: "The Hunger Games (The Hunger Games, #1)"
 author: Suzanne Collins
 authors: 

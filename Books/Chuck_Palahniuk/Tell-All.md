@@ -1,5 +1,5 @@
 ---
-book id: 6855294
+bookid: 6855294
 title: Tell-All
 author: Chuck Palahniuk
 authors: 

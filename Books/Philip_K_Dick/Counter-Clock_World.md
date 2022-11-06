@@ -1,5 +1,5 @@
 ---
-book id: 156723
+bookid: 156723
 title: Counter-Clock World
 author: Philip K. Dick
 authors: 

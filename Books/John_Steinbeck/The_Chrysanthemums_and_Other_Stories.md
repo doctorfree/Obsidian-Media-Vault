@@ -1,5 +1,5 @@
 ---
-book id: 123852
+bookid: 123852
 title: The Chrysanthemums and Other Stories
 author: John Steinbeck
 authors: 

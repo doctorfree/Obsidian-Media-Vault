@@ -1,5 +1,5 @@
 ---
-book id: 171066
+bookid: 171066
 title: Venus on the Half-Shell
 author: Philip José Farmer
 authors: Kilgore Trout

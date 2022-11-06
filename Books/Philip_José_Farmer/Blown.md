@@ -1,5 +1,5 @@
 ---
-book id: 6550930
+bookid: 6550930
 title: Blown
 author: Philip José Farmer
 authors: 

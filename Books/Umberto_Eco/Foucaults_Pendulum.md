@@ -1,5 +1,5 @@
 ---
-book id: 863942
+bookid: 863942
 title: Foucault's Pendulum
 author: Umberto Eco
 authors: 

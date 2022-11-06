@@ -1,5 +1,5 @@
 ---
-book id: 293625
+bookid: 293625
 title: Child of God
 author: Cormac McCarthy
 authors: 

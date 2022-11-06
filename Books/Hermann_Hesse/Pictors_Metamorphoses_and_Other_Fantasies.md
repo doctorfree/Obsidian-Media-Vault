@@ -1,5 +1,5 @@
 ---
-book id: 13515
+bookid: 13515
 title: Pictor's Metamorphoses and Other Fantasies
 author: Hermann Hesse
 authors: Rika Lesser, Theodore Ziolkowski

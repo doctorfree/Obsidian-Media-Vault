@@ -1,5 +1,5 @@
 ---
-book id: 361838
+bookid: 361838
 title: "Everything Is Under Control: Conspiracies, Cults and Cover-ups"
 author: Robert Anton Wilson
 authors: Miriam Joan Hill

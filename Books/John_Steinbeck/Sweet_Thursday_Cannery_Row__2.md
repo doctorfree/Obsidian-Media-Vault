@@ -1,5 +1,5 @@
 ---
-book id: 826381
+bookid: 826381
 title: "Sweet Thursday (Cannery Row, #2)"
 author: John Steinbeck
 authors: 

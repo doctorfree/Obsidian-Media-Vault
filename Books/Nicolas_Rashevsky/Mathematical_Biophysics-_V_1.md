@@ -1,5 +1,5 @@
 ---
-book id: 6550682
+bookid: 6550682
 title: Mathematical Biophysics: V. 1
 author: Nicolas Rashevsky
 authors: 

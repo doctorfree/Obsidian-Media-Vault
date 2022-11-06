@@ -1,5 +1,5 @@
 ---
-book id: 4934
+bookid: 4934
 title: The Brothers Karamazov
 author: Fyodor Dostoevsky
 authors: Richard Pevear, Larissa Volokhonsky, Borut Kraševec, Ива Николова

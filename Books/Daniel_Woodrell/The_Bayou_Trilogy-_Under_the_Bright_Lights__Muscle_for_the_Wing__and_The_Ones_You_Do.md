@@ -1,5 +1,5 @@
 ---
-book id: 9477992
+bookid: 9477992
 title: "The Bayou Trilogy: Under the Bright Lights, Muscle for the Wing, and The Ones You Do"
 author: Daniel Woodrell
 authors: 

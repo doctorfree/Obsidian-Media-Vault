@@ -1,5 +1,5 @@
 ---
-book id: 5129
+bookid: 5129
 title: Brave New World
 author: Aldous Huxley
 authors: 

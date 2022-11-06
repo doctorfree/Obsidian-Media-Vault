@@ -1,5 +1,5 @@
 ---
-book id: 890
+bookid: 890
 title: Of Mice and Men
 author: John Steinbeck
 authors: 

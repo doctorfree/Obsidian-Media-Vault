@@ -1,5 +1,5 @@
 ---
-book id: 964806
+bookid: 964806
 title: The Game-Players of Titan
 author: Philip K. Dick
 authors: 

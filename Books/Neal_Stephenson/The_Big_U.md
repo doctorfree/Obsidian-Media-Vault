@@ -1,5 +1,5 @@
 ---
-book id: 826
+bookid: 826
 title: The Big U
 author: Neal Stephenson
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 19288239
+bookid: 19288239
 title: Colorless Tsukuru Tazaki and His Years of Pilgrimage
 author: Haruki Murakami
 authors: Philip Gabriel

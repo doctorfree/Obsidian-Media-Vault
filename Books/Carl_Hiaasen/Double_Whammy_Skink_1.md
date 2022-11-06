@@ -1,5 +1,5 @@
 ---
-book id: 13068
+bookid: 13068
 title: Double Whammy (Skink #1)
 author: Carl Hiaasen
 authors: 

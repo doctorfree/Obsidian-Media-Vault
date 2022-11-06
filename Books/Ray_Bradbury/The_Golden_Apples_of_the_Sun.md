@@ -1,5 +1,5 @@
 ---
-book id: 50035
+bookid: 50035
 title: The Golden Apples of the Sun
 author: Ray Bradbury
 authors: 

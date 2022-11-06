@@ -1,5 +1,5 @@
 ---
-book id: 9569
+bookid: 9569
 title: Villa Incognito
 author: Tom Robbins
 authors: 

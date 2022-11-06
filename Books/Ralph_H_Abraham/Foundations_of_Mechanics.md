@@ -1,5 +1,5 @@
 ---
-book id: 3372518
+bookid: 3372518
 title: Foundations of Mechanics
 author: Ralph H. Abraham
 authors: Jerrold E. Marsden

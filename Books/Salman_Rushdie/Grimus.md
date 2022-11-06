@@ -1,5 +1,5 @@
 ---
-book id: 13626341
+bookid: 13626341
 title: Grimus
 author: Salman Rushdie
 authors: 

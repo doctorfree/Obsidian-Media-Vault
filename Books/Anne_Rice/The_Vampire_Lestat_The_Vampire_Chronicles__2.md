@@ -1,5 +1,5 @@
 ---
-book id: 43814
+bookid: 43814
 title: "The Vampire Lestat (The Vampire Chronicles, #2)"
 author: Anne Rice
 authors: 

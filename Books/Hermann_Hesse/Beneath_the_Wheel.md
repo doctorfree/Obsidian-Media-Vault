@@ -1,5 +1,5 @@
 ---
-book id: 25905
+bookid: 25905
 title: Beneath the Wheel
 author: Hermann Hesse
 authors: Michael Roloff

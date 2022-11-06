@@ -1,5 +1,5 @@
 ---
-book id: 400270
+bookid: 400270
 title: We Can Build You
 author: Philip K. Dick
 authors: 

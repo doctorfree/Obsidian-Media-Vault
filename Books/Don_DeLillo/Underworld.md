@@ -1,5 +1,5 @@
 ---
-book id: 399
+bookid: 399
 title: Underworld
 author: Don DeLillo
 authors: 

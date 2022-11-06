@@ -1,5 +1,5 @@
 ---
-book id: 6461180
+bookid: 6461180
 title: We Philologists
 author: Friedrich Nietzsche
 authors: 

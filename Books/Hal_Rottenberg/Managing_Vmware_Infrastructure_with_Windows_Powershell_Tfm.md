@@ -1,5 +1,5 @@
 ---
-book id: 7058997
+bookid: 7058997
 title: Managing Vmware Infrastructure with Windows Powershell Tfm
 author: Hal Rottenberg
 authors: 

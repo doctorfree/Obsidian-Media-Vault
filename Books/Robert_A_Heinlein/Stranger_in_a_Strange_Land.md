@@ -1,5 +1,5 @@
 ---
-book id: 350
+bookid: 350
 title: Stranger in a Strange Land
 author: Robert A. Heinlein
 authors: James Warhola

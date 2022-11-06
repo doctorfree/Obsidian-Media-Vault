@@ -1,5 +1,5 @@
 ---
-book id: 6557240
+bookid: 6557240
 title: Strange Relations
 author: Philip José Farmer
 authors: Bob Haberfield

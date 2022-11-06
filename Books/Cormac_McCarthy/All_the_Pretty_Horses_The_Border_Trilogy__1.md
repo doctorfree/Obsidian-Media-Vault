@@ -1,5 +1,5 @@
 ---
-book id: 469571
+bookid: 469571
 title: "All the Pretty Horses (The Border Trilogy, #1)"
 author: Cormac McCarthy
 authors: 

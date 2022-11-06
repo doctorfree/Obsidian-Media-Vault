@@ -1,5 +1,5 @@
 ---
-book id: 883589
+bookid: 883589
 title: Dr. Bloodmoney
 author: Philip K. Dick
 authors: 

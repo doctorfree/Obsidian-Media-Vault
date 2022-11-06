@@ -1,5 +1,5 @@
 ---
-book id: 16634
+bookid: 16634
 title: The Glass Bead Game
 author: Hermann Hesse
 authors: Richard Winston, Clara Winston, Theodore Ziolkowski

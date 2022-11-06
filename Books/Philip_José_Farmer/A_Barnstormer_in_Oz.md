@@ -1,5 +1,5 @@
 ---
-book id: 722527
+bookid: 722527
 title: A Barnstormer in Oz
 author: Philip José Farmer
 authors: 

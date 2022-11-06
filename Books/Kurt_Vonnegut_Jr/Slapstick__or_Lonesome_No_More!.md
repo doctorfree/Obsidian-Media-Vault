@@ -1,5 +1,5 @@
 ---
-book id: 9595
+bookid: 9595
 title: "Slapstick, or Lonesome No More!"
 author: Kurt Vonnegut Jr.
 authors: 

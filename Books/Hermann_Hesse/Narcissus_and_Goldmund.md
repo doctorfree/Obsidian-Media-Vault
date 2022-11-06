@@ -1,5 +1,5 @@
 ---
-book id: 5954
+bookid: 5954
 title: Narcissus and Goldmund
 author: Hermann Hesse
 authors: Ursule Molinaro

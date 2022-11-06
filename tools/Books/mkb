@@ -69,7 +69,7 @@ do
     shelf=`echo ${line} | csvcut -c 19 | sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
     review=`echo ${line} | csvcut -c 20 | sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
     echo "---" > ${BOOKS}/${authordir}/${filename}.md
-    echo "book id: ${bookid}" >> ${BOOKS}/${authordir}/${filename}.md
+    echo "bookid: ${bookid}" >> ${BOOKS}/${authordir}/${filename}.md
     echo "title: ${title}" >> ${BOOKS}/${authordir}/${filename}.md
     echo "author: ${author}" >> ${BOOKS}/${authordir}/${filename}.md
     echo "authors: ${authors}" >> ${BOOKS}/${authordir}/${filename}.md

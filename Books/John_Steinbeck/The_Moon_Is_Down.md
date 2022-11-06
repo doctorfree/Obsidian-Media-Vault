@@ -1,5 +1,5 @@
 ---
-book id: 12722
+bookid: 12722
 title: The Moon Is Down
 author: John Steinbeck
 authors: 

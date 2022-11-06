@@ -1,5 +1,5 @@
 ---
-book id: 216399
+bookid: 216399
 title: A Maze of Death
 author: Philip K. Dick
 authors: 

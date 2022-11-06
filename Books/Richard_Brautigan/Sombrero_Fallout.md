@@ -1,5 +1,5 @@
 ---
-book id: 379499
+bookid: 379499
 title: Sombrero Fallout
 author: Richard Brautigan
 authors: 

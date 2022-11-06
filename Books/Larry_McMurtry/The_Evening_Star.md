@@ -1,5 +1,5 @@
 ---
-book id: 2039969
+bookid: 2039969
 title: The Evening Star
 author: Larry McMurtry
 authors: 

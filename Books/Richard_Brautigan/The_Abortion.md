@@ -1,5 +1,5 @@
 ---
-book id: 160588
+bookid: 160588
 title: The Abortion
 author: Richard Brautigan
 authors: 

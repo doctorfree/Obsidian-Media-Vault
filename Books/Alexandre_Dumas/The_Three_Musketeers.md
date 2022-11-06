@@ -1,5 +1,5 @@
 ---
-book id: 6202772
+bookid: 6202772
 title: The Three Musketeers
 author: Alexandre Dumas
 authors: 

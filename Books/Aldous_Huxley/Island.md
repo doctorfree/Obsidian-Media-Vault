@@ -1,5 +1,5 @@
 ---
-book id: 5130
+bookid: 5130
 title: Island
 author: Aldous Huxley
 authors: 

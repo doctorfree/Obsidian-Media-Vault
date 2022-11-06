@@ -1,5 +1,5 @@
 ---
-book id: 6323011
+bookid: 6323011
 title: The Art of War
 author: Sun Tzu
 authors: 

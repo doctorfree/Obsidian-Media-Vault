@@ -1,5 +1,5 @@
 ---
-book id: 112525
+bookid: 112525
 title: Winter's Bone
 author: Daniel Woodrell
 authors: 

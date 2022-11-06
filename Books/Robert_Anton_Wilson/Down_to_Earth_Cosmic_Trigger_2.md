@@ -1,5 +1,5 @@
 ---
-book id: 48622
+bookid: 48622
 title: Down to Earth (Cosmic Trigger #2)
 author: Robert Anton Wilson
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 1056946
+bookid: 1056946
 title: "The Diamond Age: or, A Young Lady's Illustrated Primer"
 author: Neal Stephenson
 authors: 

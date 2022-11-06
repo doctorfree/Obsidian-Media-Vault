@@ -1,5 +1,5 @@
 ---
-book id: 22285
+bookid: 22285
 title: Rant
 author: Chuck Palahniuk
 authors: 

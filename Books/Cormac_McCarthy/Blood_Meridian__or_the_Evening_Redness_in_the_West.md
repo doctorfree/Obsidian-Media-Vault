@@ -1,5 +1,5 @@
 ---
-book id: 394535
+bookid: 394535
 title: "Blood Meridian, or the Evening Redness in the West"
 author: Cormac McCarthy
 authors: 

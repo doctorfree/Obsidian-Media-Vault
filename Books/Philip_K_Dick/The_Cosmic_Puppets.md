@@ -1,5 +1,5 @@
 ---
-book id: 2905348
+bookid: 2905348
 title: The Cosmic Puppets
 author: Philip K. Dick
 authors: 

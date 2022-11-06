@@ -1,5 +1,5 @@
 ---
-book id: 4381
+bookid: 4381
 title: Fahrenheit 451
 author: Ray Bradbury
 authors: Alfredo Crespo

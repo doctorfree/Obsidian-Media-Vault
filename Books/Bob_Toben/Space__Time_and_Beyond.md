@@ -1,5 +1,5 @@
 ---
-book id: 691586
+bookid: 691586
 title: "Space, Time and Beyond"
 author: Bob Toben
 authors: Fred Alan Wolf

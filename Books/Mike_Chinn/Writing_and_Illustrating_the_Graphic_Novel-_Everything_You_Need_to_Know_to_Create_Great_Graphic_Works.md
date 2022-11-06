@@ -1,5 +1,5 @@
 ---
-book id: 160446
+bookid: 160446
 title: Writing and Illustrating the Graphic Novel: Everything You Need to Know to Create Great Graphic Works
 author: Mike Chinn
 authors: Paul Forrester

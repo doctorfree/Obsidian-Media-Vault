@@ -1,5 +1,5 @@
 ---
-book id: 226476
+bookid: 226476
 title: The Simulacra
 author: Philip K. Dick
 authors: 

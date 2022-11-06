@@ -1,5 +1,5 @@
 ---
-book id: 6083231
+bookid: 6083231
 title: Etiquette
 author: Emily Post
 authors: 

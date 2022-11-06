@@ -1,5 +1,5 @@
 ---
-book id: 7897478
+bookid: 7897478
 title: "The Bedwetter: Stories of Courage, Redemption, and Pee"
 author: Sarah Silverman
 authors: 

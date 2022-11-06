@@ -1,5 +1,5 @@
 ---
-book id: 6553579
+bookid: 6553579
 title: "Hypatia, or, Woman and Knowledge"
 author: Dora Russell
 authors: 

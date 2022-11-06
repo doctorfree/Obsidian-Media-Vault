@@ -1,5 +1,5 @@
 ---
-book id: 18050057
+bookid: 18050057
 title: Bark
 author: Lorrie Moore
 authors: 

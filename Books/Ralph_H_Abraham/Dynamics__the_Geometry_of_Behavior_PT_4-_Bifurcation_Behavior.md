@@ -1,5 +1,5 @@
 ---
-book id: 6549672
+bookid: 6549672
 title: "Dynamics, the Geometry of Behavior PT. 4: Bifurcation Behavior"
 author: Ralph H. Abraham
 authors: Christopher D. Shaw

@@ -1,5 +1,5 @@
 ---
-book id: 22581
+bookid: 22581
 title: The Collected Stories of Philip K. Dick 2: We Can Remember it for You Wholesale
 author: Philip K. Dick
 authors: Norman Spinrad

@@ -1,5 +1,5 @@
 ---
-book id: 1179648
+bookid: 1179648
 title: Great Science Fiction by Scientists
 author: Groff Conklin
 authors: 

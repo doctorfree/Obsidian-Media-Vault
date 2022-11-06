@@ -1,5 +1,5 @@
 ---
-book id: 58652
+bookid: 58652
 title: Lost Girls
 author: Alan Moore
 authors: Melinda Gebbie

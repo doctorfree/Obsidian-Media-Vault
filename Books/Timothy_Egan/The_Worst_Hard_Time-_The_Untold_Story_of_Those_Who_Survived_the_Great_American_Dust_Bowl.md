@@ -1,5 +1,5 @@
 ---
-book id: 72223
+bookid: 72223
 title: The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl
 author: Timothy Egan
 authors: 

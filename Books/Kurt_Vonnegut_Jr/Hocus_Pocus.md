@@ -1,5 +1,5 @@
 ---
-book id: 9589
+bookid: 9589
 title: Hocus Pocus
 author: Kurt Vonnegut Jr.
 authors: 

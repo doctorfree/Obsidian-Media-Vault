@@ -1,5 +1,5 @@
 ---
-book id: 317819
+bookid: 317819
 title: Cadillac Jack
 author: Larry McMurtry
 authors: 

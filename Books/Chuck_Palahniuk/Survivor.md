@@ -1,5 +1,5 @@
 ---
-book id: 851178
+bookid: 851178
 title: Survivor
 author: Chuck Palahniuk
 authors: 

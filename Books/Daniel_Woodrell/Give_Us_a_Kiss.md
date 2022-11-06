@@ -1,5 +1,5 @@
 ---
-book id: 13087968
+bookid: 13087968
 title: Give Us a Kiss
 author: Daniel Woodrell
 authors: Pinckney Benedict

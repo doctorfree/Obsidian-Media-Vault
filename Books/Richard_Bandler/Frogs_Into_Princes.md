@@ -1,5 +1,5 @@
 ---
-book id: 81766
+bookid: 81766
 title: Frogs Into Princes
 author: Richard Bandler
 authors: John Grinder

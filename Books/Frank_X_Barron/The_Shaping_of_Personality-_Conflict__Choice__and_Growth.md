@@ -1,5 +1,5 @@
 ---
-book id: 4369088
+bookid: 4369088
 title: "The Shaping of Personality: Conflict, Choice, and Growth"
 author: Frank X. Barron
 authors: 

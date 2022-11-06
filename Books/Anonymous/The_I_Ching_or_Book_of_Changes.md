@@ -1,5 +1,5 @@
 ---
-book id: 534289
+bookid: 534289
 title: The I Ching or Book of Changes
 author: Anonymous
 authors: Cary F. Baynes, Richard Wilhelm, C.G. Jung

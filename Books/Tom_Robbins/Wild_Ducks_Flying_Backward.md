@@ -1,5 +1,5 @@
 ---
-book id: 8675
+bookid: 8675
 title: Wild Ducks Flying Backward
 author: Tom Robbins
 authors: 

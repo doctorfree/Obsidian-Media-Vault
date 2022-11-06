@@ -1,5 +1,5 @@
 ---
-book id: 845074
+bookid: 845074
 title: Venus Plus X
 author: Theodore Sturgeon
 authors: 

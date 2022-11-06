@@ -1,5 +1,5 @@
 ---
-book id: 370902
+bookid: 370902
 title: Nothing Burns in Hell
 author: Philip José Farmer
 authors: 

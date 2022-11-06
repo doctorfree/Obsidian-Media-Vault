@@ -1,5 +1,5 @@
 ---
-book id: 4979
+bookid: 4979
 title: A Man Without a Country
 author: Kurt Vonnegut Jr.
 authors: Daniel Simon

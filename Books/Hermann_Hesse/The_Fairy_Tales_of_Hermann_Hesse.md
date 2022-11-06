@@ -1,5 +1,5 @@
 ---
-book id: 13514
+bookid: 13514
 title: The Fairy Tales of Hermann Hesse
 author: Hermann Hesse
 authors: Jack D. Zipes, David Frampton

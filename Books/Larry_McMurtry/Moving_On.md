@@ -1,5 +1,5 @@
 ---
-book id: 54823
+bookid: 54823
 title: Moving On
 author: Larry McMurtry
 authors: 

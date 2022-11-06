@@ -1,5 +1,5 @@
 ---
-book id: 16071701
+bookid: 16071701
 title: "Bad Monkey (Andrew Yancy, #1)"
 author: Carl Hiaasen
 authors: 

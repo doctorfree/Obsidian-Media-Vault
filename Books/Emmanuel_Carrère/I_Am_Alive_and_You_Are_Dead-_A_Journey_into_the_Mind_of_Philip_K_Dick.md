@@ -1,5 +1,5 @@
 ---
-book id: 22593
+bookid: 22593
 title: I Am Alive and You Are Dead: A Journey into the Mind of Philip K. Dick
 author: Emmanuel Carrère
 authors: Timothy Bent

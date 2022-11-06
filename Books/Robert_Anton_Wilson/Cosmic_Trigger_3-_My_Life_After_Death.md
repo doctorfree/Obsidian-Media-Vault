@@ -1,5 +1,5 @@
 ---
-book id: 48620
+bookid: 48620
 title: Cosmic Trigger 3: My Life After Death
 author: Robert Anton Wilson
 authors: 

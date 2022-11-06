@@ -1,5 +1,5 @@
 ---
-book id: 294609
+bookid: 294609
 title: Antic Hay
 author: Aldous Huxley
 authors: 

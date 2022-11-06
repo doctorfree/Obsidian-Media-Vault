@@ -1,5 +1,5 @@
 ---
-book id: 226477
+bookid: 226477
 title: The Zap Gun
 author: Philip K. Dick
 authors: Zoltán Pék

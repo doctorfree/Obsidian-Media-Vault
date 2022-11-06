@@ -1,5 +1,5 @@
 ---
-book id: 3735283
+bookid: 3735283
 title: B Is for Beer
 author: Tom Robbins
 authors: 

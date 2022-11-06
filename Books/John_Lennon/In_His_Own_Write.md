@@ -1,5 +1,5 @@
 ---
-book id: 95044
+bookid: 95044
 title: In His Own Write
 author: John Lennon
 authors: Yoko Ono

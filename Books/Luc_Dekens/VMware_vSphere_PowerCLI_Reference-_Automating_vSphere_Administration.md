@@ -1,5 +1,5 @@
 ---
-book id: 9718906
+bookid: 9718906
 title: VMware vSphere PowerCLI Reference: Automating vSphere Administration
 author: Luc Dekens
 authors: Alan Renouf, Glenn Sizemore, Arnim van Lieshout, Brian Graf, Andrew Sullivan, Jonathan Medd, Stephen Herrod, Matt Boren, Jeffrey Snover

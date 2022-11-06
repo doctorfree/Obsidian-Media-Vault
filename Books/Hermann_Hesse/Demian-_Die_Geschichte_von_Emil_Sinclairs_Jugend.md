@@ -1,5 +1,5 @@
 ---
-book id: 24861
+bookid: 24861
 title: Demian: Die Geschichte von Emil Sinclairs Jugend
 author: Hermann Hesse
 authors: Thomas Mann

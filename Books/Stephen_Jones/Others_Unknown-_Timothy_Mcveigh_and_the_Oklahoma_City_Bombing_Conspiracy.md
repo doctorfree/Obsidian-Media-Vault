@@ -1,5 +1,5 @@
 ---
-book id: 438098
+bookid: 438098
 title: Others Unknown: Timothy Mcveigh and the Oklahoma City Bombing Conspiracy
 author: Stephen Jones
 authors: Peter Israel

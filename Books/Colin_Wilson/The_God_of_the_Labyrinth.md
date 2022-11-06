@@ -1,5 +1,5 @@
 ---
-book id: 55470
+bookid: 55470
 title: The God of the Labyrinth
 author: Colin Wilson
 authors: 

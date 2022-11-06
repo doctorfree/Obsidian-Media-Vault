@@ -1,5 +1,5 @@
 ---
-book id: 1123312
+bookid: 1123312
 title: So the Wind Won't Blow It All Away
 author: Richard Brautigan
 authors: 

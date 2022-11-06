@@ -1,5 +1,5 @@
 ---
-book id: 216378
+bookid: 216378
 title: Now Wait for Last Year
 author: Philip K. Dick
 authors: 

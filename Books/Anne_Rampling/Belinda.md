@@ -1,5 +1,5 @@
 ---
-book id: 31334
+bookid: 31334
 title: Belinda
 author: Anne Rampling
 authors: Anne Rice

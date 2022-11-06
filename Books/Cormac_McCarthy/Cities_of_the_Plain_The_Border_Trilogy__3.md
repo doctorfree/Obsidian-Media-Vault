@@ -1,5 +1,5 @@
 ---
-book id: 40470
+bookid: 40470
 title: "Cities of the Plain (The Border Trilogy, #3)"
 author: Cormac McCarthy
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 22586
+bookid: 22586
 title: The Crack in Space
 author: Philip K. Dick
 authors: 

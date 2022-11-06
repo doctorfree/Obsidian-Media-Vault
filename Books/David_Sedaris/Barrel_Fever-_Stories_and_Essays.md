@@ -1,5 +1,5 @@
 ---
-book id: 4143
+bookid: 4143
 title: Barrel Fever: Stories and Essays
 author: David Sedaris
 authors: 

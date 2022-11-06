@@ -1,5 +1,5 @@
 ---
-book id: 43763
+bookid: 43763
 title: "Interview with the Vampire (The Vampire Chronicles, #1)"
 author: Anne Rice
 authors: 

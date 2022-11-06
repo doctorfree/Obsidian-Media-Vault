@@ -1,5 +1,5 @@
 ---
-book id: 6192934
+bookid: 6192934
 title: Gulliver's Travels
 author: Jonathan Swift
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 8680
+bookid: 8680
 title: Fierce Invalids Home from Hot Climates
 author: Tom Robbins
 authors: 

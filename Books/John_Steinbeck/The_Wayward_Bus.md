@@ -1,5 +1,5 @@
 ---
-book id: 78275
+bookid: 78275
 title: The Wayward Bus
 author: John Steinbeck
 authors: Gary Scharnhorst

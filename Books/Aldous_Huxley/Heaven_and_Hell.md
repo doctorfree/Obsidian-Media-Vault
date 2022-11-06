@@ -1,5 +1,5 @@
 ---
-book id: 64284
+bookid: 64284
 title: Heaven and Hell
 author: Aldous Huxley
 authors: 

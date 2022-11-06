@@ -1,5 +1,5 @@
 ---
-book id: 6330
+bookid: 6330
 title: The Best of Roald Dahl
 author: Roald Dahl
 authors: 

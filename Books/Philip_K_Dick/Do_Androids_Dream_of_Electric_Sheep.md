@@ -1,5 +1,5 @@
 ---
-book id: 7082
+bookid: 7082
 title: Do Androids Dream of Electric Sheep?
 author: Philip K. Dick
 authors: Roger Zelazny

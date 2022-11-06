@@ -1,5 +1,5 @@
 ---
-book id: 274230
+bookid: 274230
 title: Gaia: A New Look at Life on Earth
 author: James E. Lovelock
 authors: 

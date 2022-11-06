@@ -1,5 +1,5 @@
 ---
-book id: 79356
+bookid: 79356
 title: Pillar of Fire: America in the King Years 1963-65
 author: Taylor Branch
 authors: 

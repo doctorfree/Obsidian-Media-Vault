@@ -1,5 +1,5 @@
 ---
-book id: 5308
+bookid: 5308
 title: The Pearl
 author: John Steinbeck
 authors: 

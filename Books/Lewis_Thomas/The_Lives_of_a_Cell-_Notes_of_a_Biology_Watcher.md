@@ -1,5 +1,5 @@
 ---
-book id: 294368
+bookid: 294368
 title: The Lives of a Cell: Notes of a Biology Watcher
 author: Lewis Thomas
 authors: 

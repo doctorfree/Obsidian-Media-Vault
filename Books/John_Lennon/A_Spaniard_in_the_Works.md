@@ -1,5 +1,5 @@
 ---
-book id: 613618
+bookid: 613618
 title: A Spaniard in the Works
 author: John Lennon
 authors: 

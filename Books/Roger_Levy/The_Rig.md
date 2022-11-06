@@ -1,5 +1,5 @@
 ---
-book id: 36398794
+bookid: 36398794
 title: The Rig
 author: Roger Levy
 authors: 

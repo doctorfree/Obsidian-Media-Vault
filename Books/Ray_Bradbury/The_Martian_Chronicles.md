@@ -1,5 +1,5 @@
 ---
-book id: 76778
+bookid: 76778
 title: The Martian Chronicles
 author: Ray Bradbury
 authors: 

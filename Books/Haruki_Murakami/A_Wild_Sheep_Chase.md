@@ -1,5 +1,5 @@
 ---
-book id: 46134
+bookid: 46134
 title: A Wild Sheep Chase
 author: Haruki Murakami
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 6496604
+bookid: 6496604
 title: Hillary Clinton
 author: Alan Smithee
 authors: Ryan Howe

@@ -1,5 +1,5 @@
 ---
-book id: 6301084
+bookid: 6301084
 title: The Iliad
 author: Homer
 authors: 

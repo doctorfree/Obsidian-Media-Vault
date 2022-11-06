@@ -1,5 +1,5 @@
 ---
-book id: 1957444
+bookid: 1957444
 title: Analytical Theory of Biological Populations
 author: Alfred J. Lotka
 authors: 

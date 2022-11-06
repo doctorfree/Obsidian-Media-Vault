@@ -1,5 +1,5 @@
 ---
-book id: 22583
+bookid: 22583
 title: The Minority Report
 author: Philip K. Dick
 authors: James Tiptree Jr.

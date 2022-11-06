@@ -1,5 +1,5 @@
 ---
-book id: 5899779
+bookid: 5899779
 title: "Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)"
 author: Seth Grahame-Smith
 authors: Jane Austen

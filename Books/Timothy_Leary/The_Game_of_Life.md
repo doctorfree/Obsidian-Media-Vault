@@ -1,5 +1,5 @@
 ---
-book id: 1488993
+bookid: 1488993
 title: The Game of Life
 author: Timothy Leary
 authors: 

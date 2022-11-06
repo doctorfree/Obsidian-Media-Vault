@@ -1,5 +1,5 @@
 ---
-book id: 6455596
+bookid: 6455596
 title: Household Gods
 author: Aleister Crowley
 authors: 

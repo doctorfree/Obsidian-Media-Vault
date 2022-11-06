@@ -1,5 +1,5 @@
 ---
-book id: 205658
+bookid: 205658
 title: The Science of Hitting
 author: Ted Williams
 authors: John Underwood

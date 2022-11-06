@@ -1,5 +1,5 @@
 ---
-book id: 12505
+bookid: 12505
 title: The Idiot
 author: Fyodor Dostoevsky
 authors: Anna Brailovsky, Joseph Frank, Constance Garnett

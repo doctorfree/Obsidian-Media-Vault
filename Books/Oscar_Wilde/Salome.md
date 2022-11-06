@@ -1,5 +1,5 @@
 ---
-book id: 6558232
+bookid: 6558232
 title: Salome
 author: Oscar Wilde
 authors: Alfred Bruce Douglas, Valenti Angelo, Holbrook Jackson

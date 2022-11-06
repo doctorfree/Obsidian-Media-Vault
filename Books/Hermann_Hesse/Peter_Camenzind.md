@@ -1,5 +1,5 @@
 ---
-book id: 71943
+bookid: 71943
 title: Peter Camenzind
 author: Hermann Hesse
 authors: Michael Roloff

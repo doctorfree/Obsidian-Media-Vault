@@ -1,5 +1,5 @@
 ---
-book id: 541024
+bookid: 541024
 title: More Than Human
 author: Theodore Sturgeon
 authors: 

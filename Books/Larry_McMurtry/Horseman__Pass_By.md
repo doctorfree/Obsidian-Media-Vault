@@ -1,5 +1,5 @@
 ---
-book id: 54825
+bookid: 54825
 title: "Horseman, Pass By"
 author: Larry McMurtry
 authors: 

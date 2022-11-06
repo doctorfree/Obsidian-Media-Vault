@@ -1,5 +1,5 @@
 ---
-book id: 383920
+bookid: 383920
 title: Elementary Geometry
 author: Roy David Gustafson
 authors: Peter D. Frisk

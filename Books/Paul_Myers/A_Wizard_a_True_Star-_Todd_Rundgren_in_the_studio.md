@@ -1,5 +1,5 @@
 ---
-book id: 8695857
+bookid: 8695857
 title: A Wizard a True Star: Todd Rundgren in the studio
 author: Paul Myers
 authors: 

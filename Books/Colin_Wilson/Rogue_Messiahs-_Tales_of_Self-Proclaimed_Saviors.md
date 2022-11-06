@@ -1,5 +1,5 @@
 ---
-book id: 36029
+bookid: 36029
 title: Rogue Messiahs: Tales of Self-Proclaimed Saviors
 author: Colin Wilson
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 54817
+bookid: 54817
 title: Film Flam: Essays on Hollywood
 author: Larry McMurtry
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 1271823
+bookid: 1271823
 title: Math Doesn't Suck: How to Survive Middle-School Math Without Losing Your Mind or Breaking a Nail
 author: Danica McKellar
 authors: 

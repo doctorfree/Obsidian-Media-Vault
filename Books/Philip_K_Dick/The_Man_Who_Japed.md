@@ -1,5 +1,5 @@
 ---
-book id: 6005230
+bookid: 6005230
 title: The Man Who Japed
 author: Philip K. Dick
 authors: Dean Ellis

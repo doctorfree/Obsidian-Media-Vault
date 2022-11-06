@@ -1,5 +1,5 @@
 ---
-book id: 22584
+bookid: 22584
 title: "Flow My Tears, the Policeman Said"
 author: Philip K. Dick
 authors: Chris Moore

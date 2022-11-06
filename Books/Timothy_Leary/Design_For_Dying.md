@@ -1,5 +1,5 @@
 ---
-book id: 460053
+bookid: 460053
 title: Design For Dying
 author: Timothy Leary
 authors: R.U. Sirius

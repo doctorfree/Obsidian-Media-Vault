@@ -1,5 +1,5 @@
 ---
-book id: 23168817
+bookid: 23168817
 title: "The Dark Forest (Remembrance of Earth’s Past, #2)"
 author: Liu Cixin
 authors: Eisso Post, Joel Martinsen, Bruno Roubicek, Richard Heufkens

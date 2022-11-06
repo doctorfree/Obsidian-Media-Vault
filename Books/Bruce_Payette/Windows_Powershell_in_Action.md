@@ -1,5 +1,5 @@
 ---
-book id: 11467371
+bookid: 11467371
 title: Windows Powershell in Action
 author: Bruce Payette
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 13062
+bookid: 13062
 title: "Skin Tight (Mick Stranahan, #1)"
 author: Carl Hiaasen
 authors: 

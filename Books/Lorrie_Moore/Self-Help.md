@@ -1,5 +1,5 @@
 ---
-book id: 90872
+bookid: 90872
 title: Self-Help
 author: Lorrie Moore
 authors: 

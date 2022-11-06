@@ -1,5 +1,5 @@
 ---
-book id: 96647
+bookid: 96647
 title: Scar Tissue
 author: Anthony Kiedis
 authors: Larry Sloman

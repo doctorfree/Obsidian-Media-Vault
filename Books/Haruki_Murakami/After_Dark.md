@@ -1,5 +1,5 @@
 ---
-book id: 17803
+bookid: 17803
 title: After Dark
 author: Haruki Murakami
 authors: Jay Rubin

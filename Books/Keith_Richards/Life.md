@@ -1,5 +1,5 @@
 ---
-book id: 9439303
+bookid: 9439303
 title: Life
 author: Keith Richards
 authors: James Fox

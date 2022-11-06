@@ -1,5 +1,5 @@
 ---
-book id: 216377
+bookid: 216377
 title: VALIS
 author: Philip K. Dick
 authors: 

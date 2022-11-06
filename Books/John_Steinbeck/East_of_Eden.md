@@ -1,5 +1,5 @@
 ---
-book id: 4406
+bookid: 4406
 title: East of Eden
 author: John Steinbeck
 authors: 

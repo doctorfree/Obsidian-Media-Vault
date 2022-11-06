@@ -1,5 +1,5 @@
 ---
-book id: 13592458
+bookid: 13592458
 title: Windows PowerShell for Developers
 author: Douglas Finke
 authors: 

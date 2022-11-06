@@ -1,5 +1,5 @@
 ---
-book id: 65030
+bookid: 65030
 title: Confessions of a Crap Artist
 author: Philip K. Dick
 authors: 

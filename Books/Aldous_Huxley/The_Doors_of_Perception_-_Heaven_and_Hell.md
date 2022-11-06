@@ -1,5 +1,5 @@
 ---
-book id: 5128
+bookid: 5128
 title: The Doors of Perception / Heaven and Hell
 author: Aldous Huxley
 authors: 

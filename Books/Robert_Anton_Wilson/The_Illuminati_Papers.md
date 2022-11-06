@@ -1,5 +1,5 @@
 ---
-book id: 2728821
+bookid: 2728821
 title: The Illuminati Papers
 author: Robert Anton Wilson
 authors: 

@@ -1,5 +1,5 @@
 ---
-book id: 346636
+bookid: 346636
 title: Stories of Five Decades
 author: Hermann Hesse
 authors: 

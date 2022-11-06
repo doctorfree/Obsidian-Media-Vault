@@ -1,5 +1,5 @@
 ---
-book id: 74586
+bookid: 74586
 title: I Sing the Body Electric! & Other Stories
 author: Ray Bradbury
 authors: Arne Herløv Petersen

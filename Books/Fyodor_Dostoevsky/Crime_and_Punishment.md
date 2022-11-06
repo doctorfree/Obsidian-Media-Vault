@@ -1,5 +1,5 @@
 ---
-book id: 7144
+bookid: 7144
 title: Crime and Punishment
 author: Fyodor Dostoevsky
 authors: David McDuff, Joseph Frank, Fyodor Dostoyevsky

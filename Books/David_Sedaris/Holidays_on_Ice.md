@@ -1,5 +1,5 @@
 ---
-book id: 4136
+bookid: 4136
 title: Holidays on Ice
 author: David Sedaris
 authors: 

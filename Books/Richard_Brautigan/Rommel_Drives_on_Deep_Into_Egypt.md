@@ -1,5 +1,5 @@
 ---
-book id: 76552
+bookid: 76552
 title: Rommel Drives on Deep Into Egypt
 author: Richard Brautigan
 authors: 

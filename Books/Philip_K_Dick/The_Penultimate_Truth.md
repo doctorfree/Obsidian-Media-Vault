@@ -1,5 +1,5 @@
 ---
-book id: 41064
+bookid: 41064
 title: The Penultimate Truth
 author: Philip K. Dick
 authors: 

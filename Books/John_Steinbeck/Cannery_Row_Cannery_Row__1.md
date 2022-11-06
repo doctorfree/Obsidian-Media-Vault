@@ -1,5 +1,5 @@
 ---
-book id: 968636
+bookid: 968636
 title: "Cannery Row (Cannery Row, #1)"
 author: John Steinbeck
 authors: 

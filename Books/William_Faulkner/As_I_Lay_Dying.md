@@ -1,5 +1,5 @@
 ---
-book id: 77013
+bookid: 77013
 title: As I Lay Dying
 author: William Faulkner
 authors: 

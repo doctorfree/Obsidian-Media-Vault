@@ -1,5 +1,5 @@
 ---
-book id: 895525
+bookid: 895525
 title: Time Out of Joint
 author: Philip K. Dick
 authors: 
