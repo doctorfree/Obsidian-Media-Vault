@@ -35,3 +35,8 @@ By Suzanne Collins
 - Shelf: read
 - Pages: 391
 
+
+## See also
+
+- ["Mockingjay (The Hunger Games, #3)"](Mockingjay_The_Hunger_Games__3.md)
+- ["The Hunger Games (The Hunger Games, #1)"](The_Hunger_Games_The_Hunger_Games__1.md)

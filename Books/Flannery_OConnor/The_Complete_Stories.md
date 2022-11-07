@@ -41,3 +41,7 @@ By Flannery O'Connor
 
 Is Flannery O'Connor the greatest short story writer of our time ? Perhaps. Anyway, I love her. What a great read this collection is, including her letters. How does she manage to be so dark and so funn ? Love her stories about her peacocks. I wonder what the Mark Twain re-writers will do when they discover O'Connor's use of the N-word ?
 
+
+## See also
+
+- [Collected Works](Collected_Works-_Wise_Blood_-_A_Good_Man_Is_Hard_to_Find_-_The_Violent_Bear_It_Away_-_Everything_That_Rises_Must_Converge_-_Essays_and_Letters.md)

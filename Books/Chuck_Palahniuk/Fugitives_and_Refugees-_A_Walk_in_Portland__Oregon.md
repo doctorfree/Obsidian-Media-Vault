@@ -37,3 +37,12 @@ By Chuck Palahniuk
 - Shelf: read
 - Pages: 176
 
+
+## See also
+
+- [Beautiful You](Beautiful_You.md)
+- [Make Something Up](Make_Something_Up-_Stories_You_Cant_Unread.md)
+- [Rant](Rant.md)
+- [Snuff](Snuff.md)
+- [Survivor](Survivor.md)
+- [Tell-All](Tell-All.md)

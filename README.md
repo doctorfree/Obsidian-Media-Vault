@@ -73,3 +73,8 @@ The Books sub-vault is organized by author subfolders. For example, all books by
 ## Tools
 
 See the [Tools](tools.md) document for a detailed description of the tools used to generate this vault.
+
+## See also
+
+- [media_queries](media_queries.md)
+- [tools](tools.md)

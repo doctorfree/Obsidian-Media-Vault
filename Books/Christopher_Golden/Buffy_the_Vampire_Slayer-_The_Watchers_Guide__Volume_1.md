@@ -37,3 +37,7 @@ By Christopher Golden
 - Shelf: read
 - Pages: 298
 
+
+## See also
+
+- ["The Sunnydale High Yearbook (Buffy the Vampire Slayer](The_Sunnydale_High_Yearbook_Buffy_the_Vampire_Slayer-_Season_3__24.md)

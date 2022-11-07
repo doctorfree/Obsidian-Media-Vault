@@ -50,3 +50,7 @@ WHERE author = "Kurt Vonnegut Jr." and published < 1970
 SORT published ASC
 ```
 
+## See also
+
+- [README](README.md)
+- [tools](tools.md)

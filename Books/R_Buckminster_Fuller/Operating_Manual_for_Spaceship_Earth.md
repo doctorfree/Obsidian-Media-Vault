@@ -37,3 +37,8 @@ By R. Buckminster Fuller
 - Shelf: read
 - Pages: 128
 
+
+## See also
+
+- [Critical Path](Critical_Path.md)
+- [Synergetics](Synergetics.md)

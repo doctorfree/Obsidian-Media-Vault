@@ -37,3 +37,11 @@ By David Sedaris
 - Shelf: read
 - Pages: 176
 
+
+## See also
+
+- [Barrel Fever](Barrel_Fever-_Stories_and_Essays.md)
+- [Me Talk Pretty One Day](Me_Talk_Pretty_One_Day.md)
+- [Naked](Naked.md)
+- [Squirrel Seeks Chipmunk](Squirrel_Seeks_Chipmunk.md)
+- [When You Are Engulfed in Flames](When_You_Are_Engulfed_in_Flames.md)

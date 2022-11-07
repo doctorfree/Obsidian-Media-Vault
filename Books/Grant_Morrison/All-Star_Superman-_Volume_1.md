@@ -37,3 +37,7 @@ By Grant Morrison
 - Shelf: read
 - Pages: 160
 
+
+## See also
+
+- ["All-Star Superman, Vol. 2"](All-Star_Superman__Vol_2.md)

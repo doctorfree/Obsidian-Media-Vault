@@ -1,0 +1,81 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+DIRS="Ambrosia \
+Blind_Faith \
+Charlie \
+Chicago \
+Cream \
+Eddie_Jobson_-_Zinc \
+Emitt_Rhodes_-_Chris_Price \
+Focus \
+Four_Cats \
+Honk \
+Jack_White \
+Jellyfish \
+Johnny_Lee \
+Kansas \
+Kate_Smith \
+Latimore \
+Oliver \
+Poco \
+Renaissance \
+Richard_M_Sherman_And_Bill_Lee \
+Ricky_Nelson \
+Shawn_Phillips \
+Slash \
+Smith \
+Spirit \
+Squeeze \
+The_Association \
+The_Cascades \
+The_Heads \
+The_Jackson \
+The_Sequins \
+The_Sidekicks \
+The_Special_Guests \
+The_Velvet_Underground_and_Nico \
+UK \
+Utopia \
+Wings"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+rm -f /tmp/success
+rm -f /tmp/failure
+touch /tmp/success
+touch /tmp/failure
+for artist in ${DIRS}
+do
+  [ -d "${artist}" ] || continue
+  cd "${artist}"
+  for album in *.md
+  do
+    [ "${album}" == "*.md" ] && continue
+    grep "/assets/albumcovers/" ${album} > /dev/null || {
+      # Get album cover art for this album
+      if [ -f "../../assets/albumcovers/${artist}-${album}.png" ]
+      then
+        echo "Cover art exists for ${artist} - ${album} but not linked!"
+      else
+        rartist=`echo ${artist} | sed -e "s/_/ /g"`
+        ralbum=`echo ${album} | sed -e "s/_/ /g" -e "s/\.md//"`
+        echo "Downloading cover art for ${rartist} - ${ralbum}"
+        sacad "${rartist}" "${ralbum}" 600 \
+          ../../assets/albumcovers/${artist}-${album}.png 2> /dev/null
+        if [ -f "../../assets/albumcovers/${artist}-${album}.png" ]
+        then
+          echo "Success: ${artist}/${album}" | tee -a /tmp/success
+        else
+          echo "Failure: ${artist}/${album}" | tee -a /tmp/failure
+        fi
+      fi
+    }
+  done
+  cd ..
+done

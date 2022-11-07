@@ -1,0 +1,30 @@
+#!/bin/bash
+#
+# Columns:
+# 1: Catalog#
+# 2: Artist
+# 3: Title
+# 4: Label
+# 5: Format
+# 6: Rating
+# 7: Released
+# 8: release_id
+# 9: CollectionFolder
+#10: Date Added
+#11: Collection Media Condition
+#12: Collection Sleeve Condition
+#13: Collection Speed
+#14: Collection Weight
+#15: Collection Notes
+
+rm -f Vinyl.md
+touch Vinyl.md
+csvcut -c 1,2,3,4,5,6,7,8,11,12,13,14,15 data/doctorfree-collection-discogs.csv | \
+    csvformat -D \| | while read line
+    do
+        echo "| ${line} |" >> Vinyl.md
+        [ "${first}" ] || {
+            echo "|--|--|--|--|--|--|--|--|--|--|--|--|--|" >> Vinyl.md
+            first=1
+        }
+    done

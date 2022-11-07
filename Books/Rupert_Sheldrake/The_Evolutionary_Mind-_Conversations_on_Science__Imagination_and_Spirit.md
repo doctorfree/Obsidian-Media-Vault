@@ -37,3 +37,7 @@ By Rupert Sheldrake
 - Shelf: to-read
 - Pages: 224
 
+
+## See also
+
+- ["Chaos, Creativity and Cosmic Consciousness"](Chaos__Creativity_and_Cosmic_Consciousness.md)

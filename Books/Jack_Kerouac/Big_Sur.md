@@ -37,3 +37,8 @@ By Jack Kerouac
 - Shelf: to-read
 - Pages: 200
 
+
+## See also
+
+- [Maggie Cassidy](Maggie_Cassidy.md)
+- [The Dharma Bums](The_Dharma_Bums.md)

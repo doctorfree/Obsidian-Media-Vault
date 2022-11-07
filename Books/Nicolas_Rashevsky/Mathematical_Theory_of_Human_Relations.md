@@ -37,3 +37,8 @@ By Nicolas Rashevsky
 - Shelf: read
 - Pages: 202
 
+
+## See also
+
+- [Mathematical Biophysics](Mathematical_Biophysics-_Physico-Mathematical_Foundations_of_Biology.md)
+- [Mathematical Biophysics](Mathematical_Biophysics-_V_1.md)

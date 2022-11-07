@@ -37,3 +37,8 @@ By R. Buckminster Fuller
 - Shelf: read
 - Pages: 471
 
+
+## See also
+
+- [Operating Manual for Spaceship Earth](Operating_Manual_for_Spaceship_Earth.md)
+- [Synergetics](Synergetics.md)

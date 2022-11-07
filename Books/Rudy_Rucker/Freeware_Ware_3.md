@@ -37,3 +37,8 @@ By Rudy Rucker
 - Shelf: read
 - Pages: 262
 
+
+## See also
+
+- ["Software (Ware, #1)"](Software_Ware__1.md)
+- [Wetware (Ware #2)](Wetware_Ware_2.md)

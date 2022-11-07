@@ -37,3 +37,7 @@ By Alfred J. Lotka
 - Shelf: to-read
 - Pages: 220
 
+
+## See also
+
+- [Elements of Mathematical Biology](Elements_of_Mathematical_Biology.md)

@@ -37,3 +37,7 @@ By Albert Camus
 - Shelf: read
 - Pages: 147
 
+
+## See also
+
+- [The Plague](The_Plague.md)

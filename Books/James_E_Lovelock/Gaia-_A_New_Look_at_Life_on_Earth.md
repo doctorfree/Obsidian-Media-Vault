@@ -37,3 +37,7 @@ By James E. Lovelock
 - Shelf: read
 - Pages: 176
 
+
+## See also
+
+- [The Ages of Gaia](The_Ages_of_Gaia-_A_Biography_of_Our_Living_Earth.md)

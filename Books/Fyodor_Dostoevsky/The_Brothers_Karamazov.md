@@ -37,3 +37,8 @@ By Fyodor Dostoevsky
 - Shelf: read
 - Pages: 796
 
+
+## See also
+
+- [Crime and Punishment](Crime_and_Punishment.md)
+- [The Idiot](The_Idiot.md)

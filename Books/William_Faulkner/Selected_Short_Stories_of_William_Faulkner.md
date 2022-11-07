@@ -37,3 +37,8 @@ By William Faulkner
 - Shelf: read
 - Pages: 310
 
+
+## See also
+
+- [As I Lay Dying](As_I_Lay_Dying.md)
+- [The Sound and the Fury](The_Sound_and_the_Fury.md)

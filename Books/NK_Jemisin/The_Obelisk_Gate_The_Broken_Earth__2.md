@@ -37,3 +37,8 @@ By N.K. Jemisin
 - Shelf: read
 - Pages: 410
 
+
+## See also
+
+- ["The Fifth Season (The Broken Earth, #1)"](The_Fifth_Season_The_Broken_Earth__1.md)
+- ["The Stone Sky (The Broken Earth, #3)"](The_Stone_Sky_The_Broken_Earth__3.md)

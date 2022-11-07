@@ -22,7 +22,7 @@ shelves="anthologies biography bob brautigan conklin essays farmer fiction \
          read to-read"
 
 # Enter the path to your Vault or XML download folder
-vaultpath="/home/ronnie/Documents/Obsidian/Books/tools/data/xml"
+vaultpath="/home/ronnie/Documents/Obsidian/Books/Tools/data/xml"
 
 for shelf in ${shelves}
 do
@@ -177,3 +177,8 @@ do
   fi
 done
 ```
+
+## See also
+
+- [README](README.md)
+- [media_queries](media_queries.md)

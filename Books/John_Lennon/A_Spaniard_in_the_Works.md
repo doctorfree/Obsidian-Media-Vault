@@ -37,3 +37,7 @@ By John Lennon
 - Shelf: read
 - Pages: 95
 
+
+## See also
+
+- [In His Own Write](In_His_Own_Write.md)

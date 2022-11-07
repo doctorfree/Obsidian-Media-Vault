@@ -37,3 +37,7 @@ By Christopher Golden
 - Shelf: read
 - Pages: 112
 
+
+## See also
+
+- ["Buffy the Vampire Slayer](Buffy_the_Vampire_Slayer-_The_Watchers_Guide__Volume_1.md)

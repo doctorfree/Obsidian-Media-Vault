@@ -37,3 +37,7 @@ By Alfred J. Lotka
 - Shelf: read
 - Pages: 465
 
+
+## See also
+
+- [Analytical Theory of Biological Populations](Analytical_Theory_of_Biological_Populations.md)

@@ -37,3 +37,10 @@ By Anne Rice
 - Shelf: read
 - Pages: 1207
 
+
+## See also
+
+- ["Interview with the Vampire (The Vampire Chronicles, #1)"](Interview_with_the_Vampire_The_Vampire_Chronicles__1.md)
+- ["The Queen of the Damned (The Vampire Chronicles, #3)"](The_Queen_of_the_Damned_The_Vampire_Chronicles__3.md)
+- ["The Tale of the Body Thief (The Vampire Chronicles, #4)"](The_Tale_of_the_Body_Thief_The_Vampire_Chronicles__4.md)
+- ["The Vampire Lestat (The Vampire Chronicles, #2)"](The_Vampire_Lestat_The_Vampire_Chronicles__2.md)

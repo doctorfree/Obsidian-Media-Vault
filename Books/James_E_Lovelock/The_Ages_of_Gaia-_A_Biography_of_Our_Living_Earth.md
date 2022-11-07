@@ -37,3 +37,7 @@ By James E. Lovelock
 - Shelf: read
 - Pages: 255
 
+
+## See also
+
+- [Gaia](Gaia-_A_New_Look_at_Life_on_Earth.md)

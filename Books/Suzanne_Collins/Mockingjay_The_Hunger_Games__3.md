@@ -35,3 +35,8 @@ By Suzanne Collins
 - Shelf: read
 - Pages: 398
 
+
+## See also
+
+- ["Catching Fire (The Hunger Games, #2)"](Catching_Fire_The_Hunger_Games__2.md)
+- ["The Hunger Games (The Hunger Games, #1)"](The_Hunger_Games_The_Hunger_Games__1.md)

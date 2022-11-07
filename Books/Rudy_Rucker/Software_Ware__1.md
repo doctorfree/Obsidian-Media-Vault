@@ -37,3 +37,8 @@ By Rudy Rucker
 - Shelf: read
 - Pages: 167
 
+
+## See also
+
+- [Freeware (Ware #3)](Freeware_Ware_3.md)
+- [Wetware (Ware #2)](Wetware_Ware_2.md)

@@ -37,3 +37,11 @@ By Daniel Woodrell
 - Shelf: read
 - Pages: 496
 
+
+## See also
+
+- [Give Us a Kiss](Give_Us_a_Kiss.md)
+- [The Death of Sweet Mister](The_Death_of_Sweet_Mister.md)
+- [Tomato Red](Tomato_Red.md)
+- [Winter's Bone](Winters_Bone.md)
+- [Woe to Live on](Woe_to_Live_on.md)

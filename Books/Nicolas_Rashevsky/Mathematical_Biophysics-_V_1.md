@@ -37,3 +37,8 @@ By Nicolas Rashevsky
 - Shelf: to-read
 - Pages: ""
 
+
+## See also
+
+- [Mathematical Biophysics](Mathematical_Biophysics-_Physico-Mathematical_Foundations_of_Biology.md)
+- [Mathematical Theory of Human Relations](Mathematical_Theory_of_Human_Relations.md)

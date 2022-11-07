@@ -37,3 +37,8 @@ By N.K. Jemisin
 - Shelf: read
 - Pages: 468
 
+
+## See also
+
+- ["The Obelisk Gate (The Broken Earth, #2)"](The_Obelisk_Gate_The_Broken_Earth__2.md)
+- ["The Stone Sky (The Broken Earth, #3)"](The_Stone_Sky_The_Broken_Earth__3.md)

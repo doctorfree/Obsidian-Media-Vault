@@ -37,3 +37,7 @@ By Rupert Sheldrake
 - Shelf: to-read
 - Pages: 208
 
+
+## See also
+
+- ["The Evolutionary Mind](The_Evolutionary_Mind-_Conversations_on_Science__Imagination_and_Spirit.md)

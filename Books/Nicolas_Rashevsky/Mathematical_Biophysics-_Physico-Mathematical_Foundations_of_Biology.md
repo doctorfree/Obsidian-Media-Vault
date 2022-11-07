@@ -37,3 +37,8 @@ By Nicolas Rashevsky
 - Shelf: to-read
 - Pages: 462
 
+
+## See also
+
+- [Mathematical Biophysics](Mathematical_Biophysics-_V_1.md)
+- [Mathematical Theory of Human Relations](Mathematical_Theory_of_Human_Relations.md)

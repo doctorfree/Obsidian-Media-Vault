@@ -35,3 +35,12 @@ By Colin Wilson
 - Shelf: currently-reading
 - Pages: 256
 
+
+## See also
+
+- [Poetry and Mysticism](Poetry_and_Mysticism.md)
+- [Rogue Messiahs](Rogue_Messiahs-_Tales_of_Self-Proclaimed_Saviors.md)
+- [Space Vampires](Space_Vampires.md)
+- [The God of the Labyrinth](The_God_of_the_Labyrinth.md)
+- [The Outsider](The_Outsider.md)
+- [The Philosopher Stone](The_Philosopher_Stone.md)

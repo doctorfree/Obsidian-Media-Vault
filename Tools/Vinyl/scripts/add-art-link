@@ -1,0 +1,73 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+
+FILES="Ambrosia/Somewhere_Ive_Never_Travelled.md
+Charlie/Lines.md
+Cream/Disraeli_Gears.md
+Cream/Wheels_Of_Fire.md
+Eddie_Jobson_-_Zinc/Turn_It_Over.md
+Emitt_Rhodes_-_Chris_Price/How_Can_You_Mend_A_Broken_Heart_-_Please_Read_Me.md
+Focus/Hocus_Pocus.md
+Honk/The_Original_Sound_Track_from_Five_Summer_Stories.md
+Jack_White/Acoustic_Recordings_1998-2016.md
+Jack_White/Lazaretto.md
+Jellyfish/Bellybutton.md
+Jellyfish/Radio_Jellyfish.md
+Johnny_Lee/You_Cant_Fly_Like_An_Eagle.md
+Kansas/Carry_On_Wayward_Son.md
+Kansas/Leftoverture.md
+Kate_Smith/God_Bless_America_-_My_Old_Kentucky_Home.md
+Oliver/Good_Morning_Starshine.md
+Poco/Crazy_Eyes.md
+Renaissance/Scheherazade_And_Other_Stories.md
+Ricky_Nelson/Lonesome_Town.md
+Smith/A_Group_Called_Smith.md
+Smith/Take_A_Look_Around.md
+Spirit/Twelve_Dreams_Of_Dr_Sardonicus.md
+Squeeze/Argybargy.md
+Squeeze/Sweets_From_A_Stranger.md
+The_Cascades/Cinderella_-_A_Little_Like_Lovin.md
+The_Heads/Relaxing_With.md
+The_Sequins/Hideaway.md
+The_Sidekicks/Suspicions.md
+The_Special_Guests/Im_In_Love_With_You_-_Its_Not_You.md
+The_Velvet_Underground_and_Nico/The_Velvet_Underground_and_Nico.md
+UK/Danger_Money.md
+Utopia/Ra.md
+Utopia/Swing_To_The_Right.md
+Wings/Goodnight_Tonight.md
+Wings/London_Town.md
+Wings/Venus_And_Mars.md
+Wings/Wild_Life.md"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for album in ${FILES}
+do
+  [ -f ${album} ] || {
+    echo "${album} does not exist. Skipping."
+    continue
+  }
+  grep "/assets/albumcovers/" ${album} > /dev/null || {
+    artist=`echo ${album} | awk -F '/' ' { print $1 } '`
+    ralbum=`echo ${album} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+    # Insert album cover art link for this album
+    if [ -f "../assets/albumcovers/${artist}-${ralbum}.png" ]
+    then
+      echo "Inserting cover art link for ${artist} - ${ralbum}"
+      echo "![](../../assets/albumcovers/${artist}-${ralbum}.png)" > /tmp/__insert__
+      echo "" >> /tmp/__insert__
+      sed '/## Album Data/e cat /tmp/__insert__' ${album} > /tmp/foo$$
+      cp /tmp/foo$$ ${album}
+      rm -f /tmp/foo$$ /tmp/__insert__
+    else
+      echo "Cover art does not exist for ${artist} - ${ralbum}"
+    fi
+  }
+done

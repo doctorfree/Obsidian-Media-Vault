@@ -1,0 +1,30 @@
+#!/bin/bash
+#
+# Columns:
+# 1: Cat No
+# 2: Artist
+# 3: Title
+# 4: Tracks
+# 5: Release Date
+# 6: Discs
+# 7: Box Set
+# 8: Length
+# 9: Genre
+#10: Label
+#11: Format
+#12: Original Release Year
+#13: Songwriter
+#14: Producer
+#15: Musician
+
+rm -f CD.md
+touch CD.md
+csvcut -c 1,2,3,4,6,7,8,9,10,11,12,13,14,15 data/export_albums.csv | \
+    csvformat -D \| | while read line
+    do
+        echo "| ${line} |" >> CD.md
+        [ "${first}" ] || {
+            echo "|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" >> CD.md
+            first=1
+        }
+    done

@@ -37,3 +37,8 @@ By R. Buckminster Fuller
 - Shelf: read
 - Pages: 876
 
+
+## See also
+
+- [Critical Path](Critical_Path.md)
+- [Operating Manual for Spaceship Earth](Operating_Manual_for_Spaceship_Earth.md)

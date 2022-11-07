@@ -35,3 +35,8 @@ By William Faulkner
 - Shelf: read
 - Pages: 288
 
+
+## See also
+
+- [Selected Short Stories of William Faulkner](Selected_Short_Stories_of_William_Faulkner.md)
+- [The Sound and the Fury](The_Sound_and_the_Fury.md)

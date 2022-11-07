@@ -1,5 +1,6 @@
 .obsidian/*
 !.obsidian/*.json
+.obsidian/graph.json
 .obsidian/workspace.json
 !.obsidian/themes
 .obsidian/themes/*
@@ -9,6 +10,8 @@
 !.obsidian/themes/Doctorfree/theme.css
 !.obsidian/plugins
 !.obsidian/plugins/*
+
+Tools/Vinyl/scripts/tmp/*
 
 .index
 tmp/*

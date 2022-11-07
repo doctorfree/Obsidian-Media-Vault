@@ -37,3 +37,8 @@ By Fyodor Dostoevsky
 - Shelf: read
 - Pages: 671
 
+
+## See also
+
+- [The Brothers Karamazov](The_Brothers_Karamazov.md)
+- [The Idiot](The_Idiot.md)

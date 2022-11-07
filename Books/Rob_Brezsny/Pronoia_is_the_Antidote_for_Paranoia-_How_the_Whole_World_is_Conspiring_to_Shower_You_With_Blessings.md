@@ -37,3 +37,8 @@ By Rob Brezsny
 - Shelf: read
 - Pages: 296
 
+
+## See also
+
+- [Images Are Dangerous](Images_Are_Dangerous.md)
+- [The Televisionary Oracle](The_Televisionary_Oracle.md)
