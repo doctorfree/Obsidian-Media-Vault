@@ -1,6 +1,7 @@
 ---
 bookid: 2318155
 title: Omnibus of Science Fiction
+authorsort: Conklin, Groff
 author: Groff Conklin
 authors: Alan E. Nourse, Ralph Williams, Raymond F. Jones, Ray Bradbury, Fredric Brown, Lester del Rey, Arthur C. Clarke, David H. Keller, Lewis Padgett, Fletcher Pratt, Damon Knight, Mark Clifton, L. Sprague de Camp, Paul Ernst, Murray Leinster, Ross Rocklynne, H.B. Fyfe, Jack London, H.P. Lovecraft, Eric Frank Russell, John D. MacDonald, Theodore Sturgeon, Ann Griffith, Isaac Asimov, James Blish, Donald A. Wollheim, A.E. van Vogt, William Tenn, Katherine Anne MacLean, Jack Vance, Anthony Boucher, Richard Matheson, André Maurois, Wyman Guin, Robert Abernathy, Chester S. Geier, A.J. Deutsch, Russ Winterbotham, W. Hilton-Young, John Leimert, Ralph Robin, B.F. Ruby, Will H. Gray
 isbn: 0517453703

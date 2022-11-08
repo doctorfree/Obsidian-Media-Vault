@@ -1,6 +1,7 @@
 ---
 bookid: 13063
 title: Basket Case
+authorsort: Hiaasen, Carl
 author: Carl Hiaasen
 authors: 
 isbn: 0446695645

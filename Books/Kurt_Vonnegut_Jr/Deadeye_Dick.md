@@ -1,6 +1,7 @@
 ---
 bookid: 1018880
 title: Deadeye Dick
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0385282001

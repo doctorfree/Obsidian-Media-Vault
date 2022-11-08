@@ -1,6 +1,7 @@
 ---
 bookid: 6550697
 title: The Psychedelic Experience
+authorsort: Leary, Timothy
 author: Timothy Leary
 authors: Ralph Metzner, Richard Alpert
 isbn: 

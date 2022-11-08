@@ -1,6 +1,7 @@
 ---
 bookid: 1697544
 title: Chaos
+authorsort: Holden, Arun V.
 author: Arun V. Holden
 authors: 
 isbn: 0691084246

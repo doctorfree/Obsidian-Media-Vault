@@ -1,6 +1,7 @@
 ---
 bookid: 106484
 title: Hard-Boiled Wonderland and the End of the World
+authorsort: Murakami, Haruki
 author: Haruki Murakami
 authors: Alfred Birnbaum
 isbn: 

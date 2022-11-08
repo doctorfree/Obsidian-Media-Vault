@@ -1,6 +1,7 @@
 ---
 bookid: 25499718
 title: "Children of Time (Children of Time, #1)"
+authorsort: Tchaikovsky, Adrian
 author: Adrian Tchaikovsky
 authors: 
 isbn: 1447273281

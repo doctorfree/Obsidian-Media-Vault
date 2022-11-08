@@ -1,6 +1,7 @@
 ---
 bookid: 9590
 title: "God Bless You, Mr. Rosewater"
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0385333471

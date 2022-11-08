@@ -1,6 +1,7 @@
 ---
 bookid: 226490
 title: The Golden Man
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: Mark Hurst
 isbn: 0417062001

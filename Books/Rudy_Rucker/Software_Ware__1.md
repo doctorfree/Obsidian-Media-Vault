@@ -1,6 +1,7 @@
 ---
 bookid: 274043
 title: "Software (Ware, #1)"
+authorsort: Rucker, Rudy
 author: Rudy Rucker
 authors: 
 isbn: 0380701774

@@ -1,6 +1,7 @@
 ---
 bookid: 12574
 title: Tokyo-Montana Express
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: Robert Pépin
 isbn: 2267002892

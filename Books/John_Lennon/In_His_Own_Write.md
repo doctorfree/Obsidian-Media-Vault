@@ -1,6 +1,7 @@
 ---
 bookid: 95044
 title: In His Own Write
+authorsort: Lennon, John
 author: John Lennon
 authors: Yoko Ono
 isbn: 0684868075

@@ -1,6 +1,7 @@
 ---
 bookid: 13539193
 title: Jane
+authorsort: Maxwell, Robin
 author: Robin Maxwell
 authors: 
 isbn: 0765333597

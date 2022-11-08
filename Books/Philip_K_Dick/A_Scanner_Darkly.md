@@ -1,6 +1,7 @@
 ---
 bookid: 14817
 title: A Scanner Darkly
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 057507681X

@@ -1,6 +1,7 @@
 ---
 bookid: 54814
 title: Texasville
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: 
 isbn: 0684857502

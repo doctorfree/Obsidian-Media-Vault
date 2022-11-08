@@ -1,6 +1,7 @@
 ---
 bookid: 294368
 title: The Lives of a Cell: Notes of a Biology Watcher
+authorsort: Thomas, Lewis
 author: Lewis Thomas
 authors: 
 isbn: 0140047433

@@ -1,6 +1,7 @@
 ---
 bookid: 76778
 title: The Martian Chronicles
+authorsort: Bradbury, Ray
 author: Ray Bradbury
 authors: 
 isbn: 0553278223

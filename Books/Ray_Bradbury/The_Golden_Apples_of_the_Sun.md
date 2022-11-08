@@ -1,6 +1,7 @@
 ---
 bookid: 50035
 title: The Golden Apples of the Sun
+authorsort: Bradbury, Ray
 author: Ray Bradbury
 authors: 
 isbn: 0380730391

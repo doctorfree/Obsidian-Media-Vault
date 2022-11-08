@@ -1,6 +1,7 @@
 ---
 bookid: 12843127
 title: Tomato Red
+authorsort: Woodrell, Daniel
 author: Daniel Woodrell
 authors: Megan Abbott
 isbn: 0316206210

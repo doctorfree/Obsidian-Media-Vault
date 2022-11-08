@@ -1,6 +1,7 @@
 ---
 bookid: 226475
 title: Radio Free Albemuth
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0679781374

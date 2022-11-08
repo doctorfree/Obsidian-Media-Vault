@@ -1,6 +1,7 @@
 ---
 bookid: 117336
 title: The Pill vs. the Springhill Mine Disaster
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0224619330

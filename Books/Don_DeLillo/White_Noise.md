@@ -1,6 +1,7 @@
 ---
 bookid: 6719051
 title: White Noise
+authorsort: DeLillo, Don
 author: Don DeLillo
 authors: Richard Powers
 isbn: 0143105981

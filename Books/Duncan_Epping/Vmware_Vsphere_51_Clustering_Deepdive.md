@@ -1,6 +1,7 @@
 ---
 bookid: 16209142
 title: Vmware Vsphere 5.1 Clustering Deepdive
+authorsort: Epping, Duncan
 author: Duncan Epping
 authors: Frank Denneman
 isbn: 1478183411

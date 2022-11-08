@@ -1,6 +1,7 @@
 ---
 bookid: 151533
 title: The Complete Idiot's Guide to Creating a Graphic Novel
+authorsort: Gertler, Nat
 author: Nat Gertler
 authors: Steve Lieber
 isbn: 1592572332

@@ -1,6 +1,7 @@
 ---
 bookid: 63916
 title: Downstream From Trout Fishing In America: A Memoir Of Richard Brautigan
+authorsort: Abbott, Keith
 author: Keith Abbott
 authors: 
 isbn: 0884963047

@@ -1,6 +1,7 @@
 ---
 bookid: 400
 title: Libra
+authorsort: DeLillo, Don
 author: Don DeLillo
 authors: 
 isbn: 0140156046

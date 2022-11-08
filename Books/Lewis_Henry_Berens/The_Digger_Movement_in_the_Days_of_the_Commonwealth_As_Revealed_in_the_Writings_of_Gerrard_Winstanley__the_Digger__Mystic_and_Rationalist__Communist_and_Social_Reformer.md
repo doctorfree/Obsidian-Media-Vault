@@ -1,6 +1,7 @@
 ---
 bookid: 22393419
 title: "The Digger Movement in the Days of the Commonwealth As Revealed in the Writings of Gerrard Winstanley, the Digger, Mystic and Rationalist, Communist and Social Reformer"
+authorsort: Berens, Lewis Henry
 author: Lewis Henry Berens
 authors: 
 isbn: 

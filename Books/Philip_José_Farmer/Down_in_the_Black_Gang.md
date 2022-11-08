@@ -1,6 +1,7 @@
 ---
 bookid: 6557140
 title: Down in the Black Gang
+authorsort: Farmer, Philip José
 author: Philip José Farmer
 authors: 
 isbn: 

@@ -1,6 +1,7 @@
 ---
 bookid: 11275
 title: The Wind-Up Bird Chronicle
+authorsort: Murakami, Haruki
 author: Haruki Murakami
 authors: Jay Rubin
 isbn: 0965341984

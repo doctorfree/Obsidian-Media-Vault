@@ -1,6 +1,7 @@
 ---
 bookid: 3557919
 title: Big Sur
+authorsort: Kerouac, Jack
 author: Jack Kerouac
 authors: 
 isbn: 

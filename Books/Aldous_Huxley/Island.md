@@ -1,6 +1,7 @@
 ---
 bookid: 5130
 title: Island
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 0060085495

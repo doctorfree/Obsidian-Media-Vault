@@ -1,6 +1,7 @@
 ---
 bookid: 137044
 title: Right Where You Are Sitting Now
+authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson
 authors: 
 isbn: 0914171453

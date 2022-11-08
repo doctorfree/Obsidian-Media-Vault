@@ -1,6 +1,7 @@
 ---
 bookid: 90872
 title: Self-Help
+authorsort: Moore, Lorrie
 author: Lorrie Moore
 authors: 
 isbn: 0307277291

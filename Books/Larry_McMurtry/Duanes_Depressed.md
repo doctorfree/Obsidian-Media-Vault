@@ -1,6 +1,7 @@
 ---
 bookid: 54816
 title: Duane's Depressed
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: 
 isbn: 0743230159

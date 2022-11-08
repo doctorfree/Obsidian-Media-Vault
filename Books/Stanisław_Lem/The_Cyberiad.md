@@ -1,6 +1,7 @@
 ---
 bookid: 18194
 title: The Cyberiad
+authorsort: Lem, Stanisław
 author: Stanisław Lem
 authors: Michael Kandel, Daniel Mróz
 isbn: 0156027593

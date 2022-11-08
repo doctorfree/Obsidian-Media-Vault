@@ -1,6 +1,7 @@
 ---
 bookid: 241888
 title: Masks of the Illuminati
+authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson
 authors: 
 isbn: 0671825852

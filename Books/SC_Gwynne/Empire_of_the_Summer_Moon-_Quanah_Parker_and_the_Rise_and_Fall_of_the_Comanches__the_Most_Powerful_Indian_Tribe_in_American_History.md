@@ -1,6 +1,7 @@
 ---
 bookid: 7648269
 title: "Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History"
+authorsort: Gwynne, S.C.
 author: S.C. Gwynne
 authors: 
 isbn: 1416591052

@@ -1,6 +1,7 @@
 ---
 bookid: 22446
 title: Book of Lies: The Disinformation Guide to Magick and the Occult
+authorsort: Metzger, Richard
 author: Richard Metzger
 authors: Grant Morrison, Michael Moynihan, Tracy R. Twyman, Vere C. Chappell, Mark Pesce, Genesis P-Orridge, Paul Laffoley, Daniel Pinchbeck, Nevill Drury, Donald Tyson, Erik Davis
 isbn: 097139427X

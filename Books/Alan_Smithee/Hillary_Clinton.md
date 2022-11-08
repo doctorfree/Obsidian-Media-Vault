@@ -1,6 +1,7 @@
 ---
 bookid: 6496604
 title: Hillary Clinton
+authorsort: Smithee, Alan
 author: Alan Smithee
 authors: Ryan Howe
 isbn: 1427638861

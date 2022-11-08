@@ -1,6 +1,7 @@
 ---
 bookid: 135479
 title: Cat's Cradle
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0140285601

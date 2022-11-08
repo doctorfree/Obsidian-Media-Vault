@@ -1,6 +1,7 @@
 ---
 bookid: 65030
 title: Confessions of a Crap Artist
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0679741143

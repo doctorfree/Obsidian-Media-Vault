@@ -1,6 +1,7 @@
 ---
 bookid: 2996489
 title: The Widow's Son
+authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson
 authors: 
 isbn: 0312944578

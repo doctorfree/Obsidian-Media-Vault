@@ -1,6 +1,7 @@
 ---
 bookid: 46654
 title: "The Foundation Trilogy (Foundation, #1-3)"
+authorsort: Asimov, Isaac
 author: Isaac Asimov
 authors: 
 isbn: 0380508567

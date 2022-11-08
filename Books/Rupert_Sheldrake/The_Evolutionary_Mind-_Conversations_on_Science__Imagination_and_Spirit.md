@@ -1,6 +1,7 @@
 ---
 bookid: 369075
 title: "The Evolutionary Mind: Conversations on Science, Imagination & Spirit"
+authorsort: Sheldrake, Rupert
 author: Rupert Sheldrake
 authors: Terence McKenna, Ralph H. Abraham
 isbn: 0974935972

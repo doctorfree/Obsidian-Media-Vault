@@ -1,6 +1,7 @@
 ---
 bookid: 17864526
 title: The Hemingway Hoax - Hugo & Nebula Winning Novella
+authorsort: Haldeman, Joe
 author: Joe Haldeman
 authors: 
 isbn: 1612421369

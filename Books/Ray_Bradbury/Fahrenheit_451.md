@@ -1,6 +1,7 @@
 ---
 bookid: 4381
 title: Fahrenheit 451
+authorsort: Bradbury, Ray
 author: Ray Bradbury
 authors: Alfredo Crespo
 isbn: 0307347974

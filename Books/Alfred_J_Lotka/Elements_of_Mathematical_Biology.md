@@ -1,6 +1,7 @@
 ---
 bookid: 1985180
 title: Elements of Mathematical Biology
+authorsort: Lotka, Alfred J.
 author: Alfred J. Lotka
 authors: 
 isbn: 0486603466

@@ -1,6 +1,7 @@
 ---
 bookid: 9589
 title: Hocus Pocus
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0425161293

@@ -1,6 +1,7 @@
 ---
 bookid: 284996
 title: The Complete Stories
+authorsort: O'Connor, Flannery
 author: Flannery O'Connor
 authors: Robert Giroux
 isbn: 

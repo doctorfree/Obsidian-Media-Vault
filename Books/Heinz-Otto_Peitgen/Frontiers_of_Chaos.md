@@ -1,6 +1,7 @@
 ---
 bookid: 6549735
 title: Frontiers of Chaos
+authorsort: Peitgen, Heinz-Otto
 author: Heinz-Otto Peitgen
 authors: Peter Richter
 isbn: 3920699653

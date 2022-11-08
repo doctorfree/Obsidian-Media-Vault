@@ -1,6 +1,7 @@
 ---
 bookid: 56083
 title: In Dubious Battle
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: Warren G. French
 isbn: 0143039636

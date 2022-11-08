@@ -1,6 +1,7 @@
 ---
 bookid: 54828
 title: Somebody's Darling
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: 
 isbn: 0684853892

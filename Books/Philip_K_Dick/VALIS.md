@@ -1,6 +1,7 @@
 ---
 bookid: 216377
 title: VALIS
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0679734465

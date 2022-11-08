@@ -1,6 +1,7 @@
 ---
 bookid: 6080337
 title: "The Year of the Flood (MaddAddam, #2)"
+authorsort: Atwood, Margaret
 author: Margaret Atwood
 authors: 
 isbn: 0385528779

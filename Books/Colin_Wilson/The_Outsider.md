@@ -1,6 +1,7 @@
 ---
 bookid: 67880
 title: The Outsider
+authorsort: Wilson, Colin
 author: Colin Wilson
 authors: 
 isbn: 0753814323

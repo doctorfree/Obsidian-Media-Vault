@@ -1,6 +1,7 @@
 ---
 bookid: 3073942
 title: 12 Great Classics of Science Fiction
+authorsort: Conklin, Groff
 author: Groff Conklin
 authors: Robert Sheckley, William W. Stuart, Robert F. Young, J.T. McIntosh, Fredric Brown, Zenna Henderson, George Sumner Albee, J.F. Bone, Poul Anderson, Cordwainer Smith, Algis Budrys, A. Bertram Chandler
 isbn: 2449013660

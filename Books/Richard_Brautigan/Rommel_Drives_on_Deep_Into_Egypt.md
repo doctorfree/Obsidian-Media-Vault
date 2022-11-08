@@ -1,6 +1,7 @@
 ---
 bookid: 76552
 title: Rommel Drives on Deep Into Egypt
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0385288646

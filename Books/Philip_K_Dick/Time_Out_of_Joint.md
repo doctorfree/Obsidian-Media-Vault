@@ -1,6 +1,7 @@
 ---
 bookid: 895525
 title: Time Out of Joint
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0140096329

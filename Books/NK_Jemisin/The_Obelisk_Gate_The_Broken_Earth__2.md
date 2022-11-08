@@ -1,6 +1,7 @@
 ---
 bookid: 26228034
 title: "The Obelisk Gate (The Broken Earth, #2)"
+authorsort: Jemisin, N.K.
 author: N.K. Jemisin
 authors: 
 isbn: 

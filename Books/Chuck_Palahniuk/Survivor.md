@@ -1,6 +1,7 @@
 ---
 bookid: 851178
 title: Survivor
+authorsort: Palahniuk, Chuck
 author: Chuck Palahniuk
 authors: 
 isbn: 0393047024

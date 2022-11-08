@@ -1,6 +1,7 @@
 ---
 bookid: 4929
 title: Kafka on the Shore
+authorsort: Murakami, Haruki
 author: Haruki Murakami
 authors: Philip Gabriel
 isbn: 1400079276

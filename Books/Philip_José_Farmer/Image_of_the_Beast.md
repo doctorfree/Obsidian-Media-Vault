@@ -1,6 +1,7 @@
 ---
 bookid: 370898
 title: Image of the Beast
+authorsort: Farmer, Philip José
 author: Philip José Farmer
 authors: Theodore Sturgeon, Jim Burns
 isbn: 1902197240

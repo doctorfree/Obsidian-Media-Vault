@@ -1,6 +1,7 @@
 ---
 bookid: 5308
 title: The Pearl
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: 
 isbn: 0142000698

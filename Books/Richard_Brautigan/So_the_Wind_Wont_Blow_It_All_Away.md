@@ -1,6 +1,7 @@
 ---
 bookid: 1123312
 title: So the Wind Won't Blow It All Away
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0440081955

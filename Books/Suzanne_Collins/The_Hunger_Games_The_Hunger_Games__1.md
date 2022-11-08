@@ -1,6 +1,7 @@
 ---
 bookid: 2767052
 title: "The Hunger Games (The Hunger Games, #1)"
+authorsort: Collins, Suzanne
 author: Suzanne Collins
 authors: 
 isbn: 0439023483

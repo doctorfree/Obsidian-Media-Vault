@@ -1,6 +1,7 @@
 ---
 bookid: 8461105
 title: "The Hemlock Cup: Socrates, Athens and the Search for the Good Life"
+authorsort: Hughes, Bettany
 author: Bettany Hughes
 authors: 
 isbn: 1400041791

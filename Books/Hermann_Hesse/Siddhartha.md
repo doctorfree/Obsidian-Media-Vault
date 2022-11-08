@@ -1,6 +1,7 @@
 ---
 bookid: 52036
 title: Siddhartha
+authorsort: Hesse, Hermann
 author: Hermann Hesse
 authors: Hilda Rosner, Zigmantas Ardickas
 isbn: 

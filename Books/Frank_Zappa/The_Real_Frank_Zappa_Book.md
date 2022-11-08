@@ -1,6 +1,7 @@
 ---
 bookid: 39671
 title: The Real Frank Zappa Book
+authorsort: Zappa, Frank
 author: Frank Zappa
 authors: Peter Occhiogrosso
 isbn: 0330316257

@@ -1,6 +1,7 @@
 ---
 bookid: 2805525
 title: "Dynamics, the Geometry of Behavior: Global Behavior/Part 3 (Visual Mathematicals Library)"
+authorsort: Abraham, Ralph H.
 author: Ralph H. Abraham
 authors: Christopher D. Shaw
 isbn: 0942344030

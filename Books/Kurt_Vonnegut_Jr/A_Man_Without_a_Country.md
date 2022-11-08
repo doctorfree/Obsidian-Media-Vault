@@ -1,6 +1,7 @@
 ---
 bookid: 4979
 title: A Man Without a Country
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: Daniel Simon
 isbn: 081297736X

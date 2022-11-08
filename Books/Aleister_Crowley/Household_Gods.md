@@ -1,6 +1,7 @@
 ---
 bookid: 6455596
 title: Household Gods
+authorsort: Crowley, Aleister
 author: Aleister Crowley
 authors: 
 isbn: 

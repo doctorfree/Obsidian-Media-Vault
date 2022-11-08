@@ -1,6 +1,7 @@
 ---
 bookid: 1837886
 title: Chaos in Discrete Dynamical Systems: A Visual Introduction in 2 Dimensions
+authorsort: Abraham, Ralph H.
 author: Ralph H. Abraham
 authors: 
 isbn: 0387943005

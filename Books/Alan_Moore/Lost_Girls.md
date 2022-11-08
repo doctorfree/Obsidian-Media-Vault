@@ -1,6 +1,7 @@
 ---
 bookid: 58652
 title: Lost Girls
+authorsort: Moore, Alan
 author: Alan Moore
 authors: Melinda Gebbie
 isbn: 1891830740

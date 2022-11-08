@@ -1,6 +1,7 @@
 ---
 bookid: 1840511
 title: Snuff
+authorsort: Palahniuk, Chuck
 author: Chuck Palahniuk
 authors: 
 isbn: 0385517882

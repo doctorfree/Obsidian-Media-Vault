@@ -1,6 +1,7 @@
 ---
 bookid: 140456
 title: Slayer Slang: A Buffy the Vampire Slayer Lexicon
+authorsort: Adams, Michael
 author: Michael Adams
 authors: 
 isbn: 0195175999

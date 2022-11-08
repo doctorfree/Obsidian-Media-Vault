@@ -1,6 +1,7 @@
 ---
 bookid: 6148028
 title: "Catching Fire (The Hunger Games, #2)"
+authorsort: Collins, Suzanne
 author: Suzanne Collins
 authors: 
 isbn: 0439023491

@@ -1,6 +1,7 @@
 ---
 bookid: 25147580
 title: Reckless: My Life as a Pretender
+authorsort: Hynde, Chrissie
 author: Chrissie Hynde
 authors: 
 isbn: 0385540612

@@ -1,6 +1,7 @@
 ---
 bookid: 3735283
 title: B Is for Beer
+authorsort: Robbins, Tom
 author: Tom Robbins
 authors: 
 isbn: 0061687278

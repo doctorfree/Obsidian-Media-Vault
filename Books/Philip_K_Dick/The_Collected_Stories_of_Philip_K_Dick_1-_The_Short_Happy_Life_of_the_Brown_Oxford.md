@@ -1,6 +1,7 @@
 ---
 bookid: 22592
 title: The Collected Stories of Philip K. Dick 1: The Short Happy Life of the Brown Oxford
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: Roger Zelazny, Steven Owen Godersky
 isbn: 0806511532

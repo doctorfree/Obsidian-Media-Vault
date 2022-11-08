@@ -1,6 +1,7 @@
 ---
 bookid: 4395
 title: The Grapes of Wrath
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: 
 isbn: 

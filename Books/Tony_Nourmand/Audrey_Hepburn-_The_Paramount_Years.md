@@ -1,6 +1,7 @@
 ---
 bookid: 168567
 title: Audrey Hepburn: The Paramount Years
+authorsort: Nourmand, Tony
 author: Tony Nourmand
 authors: Christopher Frayling
 isbn: 0811858022

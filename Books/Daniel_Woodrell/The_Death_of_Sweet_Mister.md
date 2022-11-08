@@ -1,6 +1,7 @@
 ---
 bookid: 12868107
 title: The Death of Sweet Mister
+authorsort: Woodrell, Daniel
 author: Daniel Woodrell
 authors: Dennis Lehane
 isbn: 0316206148

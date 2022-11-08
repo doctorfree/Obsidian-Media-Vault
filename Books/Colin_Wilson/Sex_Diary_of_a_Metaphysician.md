@@ -1,6 +1,7 @@
 ---
 bookid: 2157352
 title: Sex Diary of a Metaphysician
+authorsort: Wilson, Colin
 author: Colin Wilson
 authors: 
 isbn: 0914171593

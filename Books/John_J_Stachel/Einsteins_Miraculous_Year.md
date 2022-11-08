@@ -1,6 +1,7 @@
 ---
 bookid: 363202
 title: Einstein's Miraculous Year
+authorsort: Stachel, John J.
 author: John J. Stachel
 authors: Roger Penrose, Albert Einstein
 isbn: 0691122288

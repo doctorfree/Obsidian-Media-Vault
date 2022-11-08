@@ -1,6 +1,7 @@
 ---
 bookid: 4369088
 title: "The Shaping of Personality: Conflict, Choice, and Growth"
+authorsort: Barron, Frank X.
 author: Frank X. Barron
 authors: 
 isbn: 006040504X

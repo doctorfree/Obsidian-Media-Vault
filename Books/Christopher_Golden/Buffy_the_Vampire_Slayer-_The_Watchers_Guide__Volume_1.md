@@ -1,6 +1,7 @@
 ---
 bookid: 293389
 title: "Buffy the Vampire Slayer: The Watcher's Guide, Volume 1"
+authorsort: Golden, Christopher
 author: Christopher Golden
 authors: Nancy Holder
 isbn: 0671024337

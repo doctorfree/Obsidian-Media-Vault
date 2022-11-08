@@ -1,6 +1,7 @@
 ---
 bookid: 541024
 title: More Than Human
+authorsort: Sturgeon, Theodore
 author: Theodore Sturgeon
 authors: 
 isbn: 0375703713

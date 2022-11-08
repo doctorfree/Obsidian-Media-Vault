@@ -1,6 +1,7 @@
 ---
 bookid: 836581
 title: "Pop It in the Toaster Oven: From Entrees to Desserts, More Than 250 Delectable, Healthy, and Convenient Recipes"
+authorsort: Dewitt, Lois
 author: Lois Dewitt
 authors: 
 isbn: 0609807684

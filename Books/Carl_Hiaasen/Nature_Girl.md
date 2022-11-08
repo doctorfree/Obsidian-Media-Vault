@@ -1,6 +1,7 @@
 ---
 bookid: 13060
 title: Nature Girl
+authorsort: Hiaasen, Carl
 author: Carl Hiaasen
 authors: 
 isbn: 0307262995

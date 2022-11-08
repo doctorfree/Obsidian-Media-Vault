@@ -1,6 +1,7 @@
 ---
 bookid: 9597
 title: Player Piano
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0385333781

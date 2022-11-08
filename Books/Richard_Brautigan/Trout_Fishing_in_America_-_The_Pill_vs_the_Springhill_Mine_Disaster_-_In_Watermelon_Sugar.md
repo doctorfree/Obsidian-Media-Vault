@@ -1,6 +1,7 @@
 ---
 bookid: 12568
 title: Trout Fishing in America / The Pill vs. the Springhill Mine Disaster / In Watermelon Sugar
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0395500761

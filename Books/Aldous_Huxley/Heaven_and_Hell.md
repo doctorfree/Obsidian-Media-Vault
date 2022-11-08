@@ -1,6 +1,7 @@
 ---
 bookid: 64284
 title: Heaven and Hell
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 0060802197

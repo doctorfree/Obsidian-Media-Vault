@@ -1,6 +1,7 @@
 ---
 bookid: 16543
 title: Dayworld (Dayworld #1)
+authorsort: Farmer, Philip José
 author: Philip José Farmer
 authors: 
 isbn: 0441140017

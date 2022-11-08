@@ -1,6 +1,7 @@
 ---
 bookid: 890
 title: Of Mice and Men
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: 
 isbn: 0142000671

@@ -1,6 +1,7 @@
 ---
 bookid: 125310
 title: Schrödinger's Cat 1: The Universe Next Door
+authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson
 authors: 
 isbn: 0671821148

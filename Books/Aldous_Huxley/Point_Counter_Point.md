@@ -1,6 +1,7 @@
 ---
 bookid: 5135
 title: Point Counter Point
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: Mîna Urgan
 isbn: 

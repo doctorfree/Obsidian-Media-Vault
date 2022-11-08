@@ -1,6 +1,7 @@
 ---
 bookid: 285092
 title: High Fidelity
+authorsort: Hornby, Nick
 author: Nick Hornby
 authors: 
 isbn: 1573225517

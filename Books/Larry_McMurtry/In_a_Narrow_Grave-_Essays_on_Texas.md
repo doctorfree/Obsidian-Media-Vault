@@ -1,6 +1,7 @@
 ---
 bookid: 63456
 title: In a Narrow Grave: Essays on Texas
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: 
 isbn: 0684868695

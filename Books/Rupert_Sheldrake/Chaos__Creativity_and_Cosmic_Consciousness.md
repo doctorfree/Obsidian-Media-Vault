@@ -1,6 +1,7 @@
 ---
 bookid: 369072
 title: "Chaos, Creativity and Cosmic Consciousness"
+authorsort: Sheldrake, Rupert
 author: Rupert Sheldrake
 authors: Terence McKenna, Ralph H. Abraham, Jean Houston
 isbn: 0892819774

@@ -1,6 +1,7 @@
 ---
 bookid: 71943
 title: Peter Camenzind
+authorsort: Hesse, Hermann
 author: Hermann Hesse
 authors: Michael Roloff
 isbn: 0312422636

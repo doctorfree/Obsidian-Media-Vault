@@ -1,6 +1,7 @@
 ---
 bookid: 434412
 title: The Youngest Science
+authorsort: Thomas, Lewis
 author: Lewis Thomas
 authors: 
 isbn: 0001402432

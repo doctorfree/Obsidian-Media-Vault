@@ -1,6 +1,7 @@
 ---
 bookid: 20576746
 title: Dance Dance Dance
+authorsort: Murakami, Haruki
 author: Haruki Murakami
 authors: Alfred Birnbaum
 isbn: 

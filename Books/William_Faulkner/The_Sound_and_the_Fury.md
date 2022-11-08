@@ -1,6 +1,7 @@
 ---
 bookid: 10975
 title: The Sound and the Fury
+authorsort: Faulkner, William
 author: William Faulkner
 authors: 
 isbn: 

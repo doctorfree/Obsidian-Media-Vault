@@ -1,6 +1,7 @@
 ---
 bookid: 941509
 title: Space Vampires
+authorsort: Wilson, Colin
 author: Colin Wilson
 authors: 
 isbn: 0671836374

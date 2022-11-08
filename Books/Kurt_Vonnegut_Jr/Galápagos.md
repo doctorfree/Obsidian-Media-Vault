@@ -1,6 +1,7 @@
 ---
 bookid: 9593
 title: Galápagos
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0385333870

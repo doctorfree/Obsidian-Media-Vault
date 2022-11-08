@@ -1,6 +1,7 @@
 ---
 bookid: 2325421
 title: All-Star Superman: Volume 1
+authorsort: Morrison, Grant
 author: Grant Morrison
 authors: Frank Quitely
 isbn: 140121102X

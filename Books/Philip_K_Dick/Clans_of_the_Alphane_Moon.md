@@ -1,6 +1,7 @@
 ---
 bookid: 5998075
 title: Clans of the Alphane Moon
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: Ed Valigursky
 isbn: 

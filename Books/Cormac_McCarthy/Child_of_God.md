@@ -1,6 +1,7 @@
 ---
 bookid: 293625
 title: Child of God
+authorsort: McCarthy, Cormac
 author: Cormac McCarthy
 authors: 
 isbn: 0679728740

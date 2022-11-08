@@ -1,6 +1,7 @@
 ---
 bookid: 964806
 title: The Game-Players of Titan
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0722129599

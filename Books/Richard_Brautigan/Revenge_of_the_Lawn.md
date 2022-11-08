@@ -1,6 +1,7 @@
 ---
 bookid: 248343
 title: Revenge of the Lawn
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0671209612

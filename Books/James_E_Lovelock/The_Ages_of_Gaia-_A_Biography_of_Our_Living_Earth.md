@@ -1,6 +1,7 @@
 ---
 bookid: 274236
 title: The Ages of Gaia: A Biography of Our Living Earth
+authorsort: Lovelock, James E.
 author: James E. Lovelock
 authors: 
 isbn: 0192862170

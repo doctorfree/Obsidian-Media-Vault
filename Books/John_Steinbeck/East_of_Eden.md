@@ -1,6 +1,7 @@
 ---
 bookid: 4406
 title: East of Eden
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: 
 isbn: 0142000655

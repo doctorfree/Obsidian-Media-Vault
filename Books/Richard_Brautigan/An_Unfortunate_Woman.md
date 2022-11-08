@@ -1,6 +1,7 @@
 ---
 bookid: 12571
 title: An Unfortunate Woman
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0312277105

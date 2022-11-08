@@ -1,6 +1,7 @@
 ---
 bookid: 46134
 title: A Wild Sheep Chase
+authorsort: Murakami, Haruki
 author: Haruki Murakami
 authors: 
 isbn: 0008701190

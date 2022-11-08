@@ -1,6 +1,7 @@
 ---
 bookid: 43763
 title: "Interview with the Vampire (The Vampire Chronicles, #1)"
+authorsort: Rice, Anne
 author: Anne Rice
 authors: 
 isbn: 0345476875

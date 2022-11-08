@@ -1,6 +1,7 @@
 ---
 bookid: 531548
 title: The Earth Will Shake (Historical Illuminatus Chronicles 1)
+authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson
 authors: 
 isbn: 0312941285

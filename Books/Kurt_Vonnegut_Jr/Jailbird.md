@@ -1,6 +1,7 @@
 ---
 bookid: 4987
 title: Jailbird
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0385333900

@@ -1,6 +1,7 @@
 ---
 bookid: 7857195
 title: Squirrel Seeks Chipmunk
+authorsort: Sedaris, David
 author: David Sedaris
 authors: Ian Falconer
 isbn: 0316038393

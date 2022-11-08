@@ -1,6 +1,7 @@
 ---
 bookid: 1913753
 title: Ubik
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0879978597

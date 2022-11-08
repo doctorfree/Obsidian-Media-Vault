@@ -1,6 +1,7 @@
 ---
 bookid: 883629
 title: The Three Stigmata of Palmer Eldritch
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0532122968

@@ -1,6 +1,7 @@
 ---
 bookid: 13079
 title: "Skinny Dip (Skink, #5; Mick Stranahan #2)"
+authorsort: Hiaasen, Carl
 author: Carl Hiaasen
 authors: 
 isbn: 0446615129

@@ -1,6 +1,7 @@
 ---
 bookid: 274005
 title: Wetware (Ware #2)
+authorsort: Rucker, Rudy
 author: Rudy Rucker
 authors: 
 isbn: 0380701782

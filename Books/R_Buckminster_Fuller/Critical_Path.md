@@ -1,6 +1,7 @@
 ---
 bookid: 190038
 title: Critical Path
+authorsort: Fuller, R. Buckminster
 author: R. Buckminster Fuller
 authors: Kiyoshi Kuromiya
 isbn: 0312174918

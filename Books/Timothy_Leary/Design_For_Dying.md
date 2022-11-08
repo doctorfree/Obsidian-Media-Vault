@@ -1,6 +1,7 @@
 ---
 bookid: 460053
 title: Design For Dying
+authorsort: Leary, Timothy
 author: Timothy Leary
 authors: R.U. Sirius
 isbn: 0060928662

@@ -1,6 +1,7 @@
 ---
 bookid: 744388
 title: "The Crossing (The Border Trilogy, #2)"
+authorsort: McCarthy, Cormac
 author: Cormac McCarthy
 authors: 
 isbn: 0679760849

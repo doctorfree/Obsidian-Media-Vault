@@ -1,6 +1,7 @@
 ---
 bookid: 31817749
 title: "The Stone Sky (The Broken Earth, #3)"
+authorsort: Jemisin, N.K.
 author: N.K. Jemisin
 authors: 
 isbn: 

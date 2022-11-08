@@ -1,6 +1,7 @@
 ---
 bookid: 9566
 title: Still Life with Woodpecker
+authorsort: Robbins, Tom
 author: Tom Robbins
 authors: 
 isbn: 184243022X

@@ -1,6 +1,7 @@
 ---
 bookid: 6557235
 title: The Day of Timestop
+authorsort: Farmer, Philip José
 author: Philip José Farmer
 authors: 
 isbn: 

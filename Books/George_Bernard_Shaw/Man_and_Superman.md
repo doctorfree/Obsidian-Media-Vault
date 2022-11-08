@@ -1,6 +1,7 @@
 ---
 bookid: 6323710
 title: Man and Superman
+authorsort: Shaw, George Bernard
 author: George Bernard Shaw
 authors: 
 isbn: 

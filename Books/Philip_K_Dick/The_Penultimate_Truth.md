@@ -1,6 +1,7 @@
 ---
 bookid: 41064
 title: The Penultimate Truth
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0575074817

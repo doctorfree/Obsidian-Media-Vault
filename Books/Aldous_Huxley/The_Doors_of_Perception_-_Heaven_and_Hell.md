@@ -1,6 +1,7 @@
 ---
 bookid: 5128
 title: The Doors of Perception / Heaven and Hell
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 0060595183

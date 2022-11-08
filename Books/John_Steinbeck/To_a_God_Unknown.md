@@ -1,6 +1,7 @@
 ---
 bookid: 111300
 title: To a God Unknown
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: Robert DeMott
 isbn: 0141185503

@@ -1,6 +1,7 @@
 ---
 bookid: 6323011
 title: The Art of War
+authorsort: Tzu, Sun
 author: Sun Tzu
 authors: 
 isbn: 

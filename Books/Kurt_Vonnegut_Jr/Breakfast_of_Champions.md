@@ -1,6 +1,7 @@
 ---
 bookid: 4980
 title: Breakfast of Champions
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0385334206

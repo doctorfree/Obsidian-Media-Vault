@@ -1,6 +1,7 @@
 ---
 bookid: 294609
 title: Antic Hay
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 0766196445

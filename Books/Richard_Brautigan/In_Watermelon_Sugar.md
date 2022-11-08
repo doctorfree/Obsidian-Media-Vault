@@ -1,6 +1,7 @@
 ---
 bookid: 961585
 title: In Watermelon Sugar
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0440340268

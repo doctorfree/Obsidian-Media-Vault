@@ -1,6 +1,7 @@
 ---
 bookid: 1179648
 title: Great Science Fiction by Scientists
+authorsort: Conklin, Groff
 author: Groff Conklin
 authors: 
 isbn: 0020190301

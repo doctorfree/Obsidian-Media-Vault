@@ -1,6 +1,7 @@
 ---
 bookid: 997888
 title: Dream Illuminati: The Vimana Conspiracy
+authorsort: Saalman, Wayne
 author: Wayne Saalman
 authors: 
 isbn: 0941404722

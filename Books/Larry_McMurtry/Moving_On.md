@@ -1,6 +1,7 @@
 ---
 bookid: 54823
 title: Moving On
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: 
 isbn: 0684853884

@@ -1,6 +1,7 @@
 ---
 bookid: 18498559
 title: Tibetan Peach Pie: A True Account of an Imaginative Life
+authorsort: Robbins, Tom
 author: Tom Robbins
 authors: 
 isbn: 006226740X

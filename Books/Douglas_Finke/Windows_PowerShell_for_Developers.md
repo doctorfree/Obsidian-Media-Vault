@@ -1,6 +1,7 @@
 ---
 bookid: 13592458
 title: Windows PowerShell for Developers
+authorsort: Finke, Douglas
 author: Douglas Finke
 authors: 
 isbn: 1449322700

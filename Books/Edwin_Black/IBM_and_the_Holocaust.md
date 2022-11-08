@@ -1,6 +1,7 @@
 ---
 bookid: 48838
 title: IBM and the Holocaust
+authorsort: Black, Edwin
 author: Edwin Black
 authors: 
 isbn: 0751531995

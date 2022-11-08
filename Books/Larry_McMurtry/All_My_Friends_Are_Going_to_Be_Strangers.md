@@ -1,6 +1,7 @@
 ---
 bookid: 54827
 title: All My Friends Are Going to Be Strangers
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: Raymond L. Neinstein
 isbn: 0684853825

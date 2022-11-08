@@ -1,6 +1,7 @@
 ---
 bookid: 6558201
 title: First Lessons in Philology
+authorsort: Bigsby, Bernard
 author: Bernard Bigsby
 authors: 
 isbn: 

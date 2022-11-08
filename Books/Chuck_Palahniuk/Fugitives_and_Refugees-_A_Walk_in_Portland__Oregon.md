@@ -1,6 +1,7 @@
 ---
 bookid: 22289
 title: "Fugitives and Refugees: A Walk in Portland, Oregon"
+authorsort: Palahniuk, Chuck
 author: Chuck Palahniuk
 authors: 
 isbn: 1400047838

@@ -1,6 +1,7 @@
 ---
 bookid: 18680461
 title: Selected Short Stories of William Faulkner
+authorsort: Faulkner, William
 author: William Faulkner
 authors: 
 isbn: 9780679424

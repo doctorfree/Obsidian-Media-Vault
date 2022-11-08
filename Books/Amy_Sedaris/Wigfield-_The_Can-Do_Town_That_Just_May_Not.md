@@ -1,6 +1,7 @@
 ---
 bookid: 564182
 title: Wigfield: The Can-Do Town That Just May Not
+authorsort: Sedaris, Amy
 author: Amy Sedaris
 authors: Stephen Colbert, Paul Dinello
 isbn: 0786868120

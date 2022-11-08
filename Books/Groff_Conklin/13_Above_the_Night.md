@@ -1,6 +1,7 @@
 ---
 bookid: 869082
 title: 13 Above the Night
+authorsort: Conklin, Groff
 author: Groff Conklin
 authors: C.M. Kornbluth, Eric Frank Russell, Stephen Barr, Avram Davidson, Isaac Asimov, Morton Klass, Gordon R. Dickson, Judith Merril, James White, J.F. Bone, Frank Herbert, Fritz Leiber, Mack Reynolds, J. Lincoln Paine
 isbn: 1400087414

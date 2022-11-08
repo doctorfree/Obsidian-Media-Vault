@@ -1,6 +1,7 @@
 ---
 bookid: 2969455
 title: The Illustrated Man
+authorsort: Bradbury, Ray
 author: Ray Bradbury
 authors: Dean Ellis
 isbn: 

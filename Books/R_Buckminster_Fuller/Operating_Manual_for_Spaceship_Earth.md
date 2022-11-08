@@ -1,6 +1,7 @@
 ---
 bookid: 316362
 title: Operating Manual for Spaceship Earth
+authorsort: Fuller, R. Buckminster
 author: R. Buckminster Fuller
 authors: 
 isbn: 089190235X

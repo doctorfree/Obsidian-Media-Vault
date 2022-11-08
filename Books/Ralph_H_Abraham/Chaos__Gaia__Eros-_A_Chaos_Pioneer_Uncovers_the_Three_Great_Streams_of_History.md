@@ -1,6 +1,7 @@
 ---
 bookid: 869540
 title: "Chaos, Gaia, Eros: A Chaos Pioneer Uncovers the Three Great Streams of History"
+authorsort: Abraham, Ralph H.
 author: Ralph H. Abraham
 authors: 
 isbn: 0062500139

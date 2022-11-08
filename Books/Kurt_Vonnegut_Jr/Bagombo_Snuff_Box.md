@@ -1,6 +1,7 @@
 ---
 bookid: 4984
 title: Bagombo Snuff Box
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0099282968

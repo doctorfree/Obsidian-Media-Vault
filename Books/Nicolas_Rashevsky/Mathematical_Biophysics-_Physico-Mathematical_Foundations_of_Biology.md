@@ -1,6 +1,7 @@
 ---
 bookid: 6550683
 title: Mathematical Biophysics: Physico-Mathematical Foundations of Biology
+authorsort: Rashevsky, Nicolas
 author: Nicolas Rashevsky
 authors: 
 isbn: 0123688167

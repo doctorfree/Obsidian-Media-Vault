@@ -1,6 +1,7 @@
 ---
 bookid: 275301
 title: The Politics of Ecstasy
+authorsort: Leary, Timothy
 author: Timothy Leary
 authors: R.U. Sirius, Tom Robbins
 isbn: 1579510310

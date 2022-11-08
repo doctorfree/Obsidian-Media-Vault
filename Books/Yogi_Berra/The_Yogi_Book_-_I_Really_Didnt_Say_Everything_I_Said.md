@@ -1,6 +1,7 @@
 ---
 bookid: 808152
 title: The Yogi Book : I Really Didn't Say Everything I Said
+authorsort: Berra, Yogi
 author: Yogi Berra
 authors: 
 isbn: 0761115684

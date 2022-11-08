@@ -1,6 +1,7 @@
 ---
 bookid: 2393511
 title: Seven Come Infinity
+authorsort: Conklin, Groff
 author: Groff Conklin
 authors: Murray Leinster, William Tenn, Chad Oliver, Clifford D. Simak, Charles V. de Vet, Eric Frank Russell, Raymond F. Jones
 isbn: 4049017520

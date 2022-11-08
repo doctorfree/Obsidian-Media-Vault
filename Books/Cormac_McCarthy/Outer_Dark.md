@@ -1,6 +1,7 @@
 ---
 bookid: 395143
 title: Outer Dark
+authorsort: McCarthy, Cormac
 author: Cormac McCarthy
 authors: 
 isbn: 0679728732

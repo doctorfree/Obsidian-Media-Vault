@@ -1,6 +1,7 @@
 ---
 bookid: 22285
 title: Rant
+authorsort: Palahniuk, Chuck
 author: Chuck Palahniuk
 authors: 
 isbn: 0385517874

@@ -1,6 +1,7 @@
 ---
 bookid: 31334
 title: Belinda
+authorsort: Rampling, Anne
 author: Anne Rampling
 authors: Anne Rice
 isbn: 0425176657

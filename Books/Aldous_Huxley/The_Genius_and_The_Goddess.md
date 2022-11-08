@@ -1,6 +1,7 @@
 ---
 bookid: 6550385
 title: The Genius and The Goddess
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 

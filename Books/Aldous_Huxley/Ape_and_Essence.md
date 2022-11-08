@@ -1,6 +1,7 @@
 ---
 bookid: 30561
 title: Ape and Essence
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 0929587782

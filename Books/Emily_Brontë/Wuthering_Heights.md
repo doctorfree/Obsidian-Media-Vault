@@ -1,6 +1,7 @@
 ---
 bookid: 18773624
 title: Wuthering Heights
+authorsort: Brontë, Emily
 author: Emily Brontë
 authors: 
 isbn: 

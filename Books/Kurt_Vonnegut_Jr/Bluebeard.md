@@ -1,6 +1,7 @@
 ---
 bookid: 9601
 title: Bluebeard
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 038533351X

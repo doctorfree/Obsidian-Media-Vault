@@ -1,6 +1,7 @@
 ---
 bookid: 160588
 title: The Abortion
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0224007793

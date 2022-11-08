@@ -1,6 +1,7 @@
 ---
 bookid: 13626341
 title: Grimus
+authorsort: Rushdie, Salman
 author: Salman Rushdie
 authors: 
 isbn: 

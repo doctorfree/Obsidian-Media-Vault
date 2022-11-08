@@ -1,6 +1,7 @@
 ---
 bookid: 137022
 title: Pronoia is the Antidote for Paranoia: How the Whole World is Conspiring to Shower You With Blessings
+authorsort: Brezsny, Rob
 author: Rob Brezsny
 authors: 
 isbn: 1583941231

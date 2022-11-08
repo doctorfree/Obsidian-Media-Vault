@@ -1,6 +1,7 @@
 ---
 bookid: 137021
 title: Sex and Drugs: A Journey Beyond Limits
+authorsort: Wilson, Robert Anton
 author: Robert Anton Wilson
 authors: 
 isbn: 094140448X

@@ -1,6 +1,7 @@
 ---
 bookid: 285356
 title: Synergetics
+authorsort: Fuller, R. Buckminster
 author: R. Buckminster Fuller
 authors: 
 isbn: 0020653204

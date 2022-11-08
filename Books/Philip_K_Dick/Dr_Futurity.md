@@ -1,6 +1,7 @@
 ---
 bookid: 5045793
 title: Dr. Futurity
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 

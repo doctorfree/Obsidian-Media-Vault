@@ -1,6 +1,7 @@
 ---
 bookid: 2905378
 title: The Man in the High Castle
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0244151806

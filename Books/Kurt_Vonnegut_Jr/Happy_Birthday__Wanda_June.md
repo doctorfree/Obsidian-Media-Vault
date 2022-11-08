@@ -1,6 +1,7 @@
 ---
 bookid: 844841
 title: "Happy Birthday, Wanda June"
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: Jill Krementz
 isbn: 0385283865

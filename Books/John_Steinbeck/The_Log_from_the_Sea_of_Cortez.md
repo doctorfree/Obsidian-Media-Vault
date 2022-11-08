@@ -1,6 +1,7 @@
 ---
 bookid: 4803
 title: The Log from the Sea of Cortez
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: Richard Astro
 isbn: 0141186070

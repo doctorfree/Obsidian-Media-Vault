@@ -1,6 +1,7 @@
 ---
 bookid: 20518872
 title: "The Three-Body Problem (Remembrance of Earth’s Past, #1)"
+authorsort: Cixin, Liu
 author: Liu Cixin
 authors: Ken Liu
 isbn: 0765377063

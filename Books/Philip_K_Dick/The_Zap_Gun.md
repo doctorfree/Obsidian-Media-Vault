@@ -1,6 +1,7 @@
 ---
 bookid: 226477
 title: The Zap Gun
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: Zoltán Pék
 isbn: 0375719369

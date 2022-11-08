@@ -1,6 +1,7 @@
 ---
 bookid: 3282409
 title: Crome Yellow
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 000654729X

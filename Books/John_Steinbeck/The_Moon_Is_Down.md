@@ -1,6 +1,7 @@
 ---
 bookid: 12722
 title: The Moon Is Down
+authorsort: Steinbeck, John
 author: John Steinbeck
 authors: 
 isbn: 0141185538

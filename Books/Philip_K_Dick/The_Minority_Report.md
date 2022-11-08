@@ -1,6 +1,7 @@
 ---
 bookid: 22583
 title: The Minority Report
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: James Tiptree Jr.
 isbn: 0806523794

@@ -1,6 +1,7 @@
 ---
 bookid: 6550673
 title: Mathematical Theory of Human Relations
+authorsort: Rashevsky, Nicolas
 author: Nicolas Rashevsky
 authors: 
 isbn: 

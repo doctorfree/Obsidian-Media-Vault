@@ -1,6 +1,7 @@
 ---
 bookid: 7908638
 title: "Star Island (Skink, #6)"
+authorsort: Hiaasen, Carl
 author: Carl Hiaasen
 authors: 
 isbn: 0307272583

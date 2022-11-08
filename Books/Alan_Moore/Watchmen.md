@@ -1,6 +1,7 @@
 ---
 bookid: 472331
 title: Watchmen
+authorsort: Moore, Alan
 author: Alan Moore
 authors: Dave Gibbons, John Higgins
 isbn: 0930289234

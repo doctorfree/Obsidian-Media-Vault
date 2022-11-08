@@ -1,6 +1,7 @@
 ---
 bookid: 13832134
 title: What Is Life?: With Mind and Matter and Autobiographical Sketches
+authorsort: Schrödinger, Erwin
 author: Erwin Schrödinger
 authors: Roger Penrose
 isbn: 1107604664

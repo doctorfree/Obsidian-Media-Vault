@@ -1,6 +1,7 @@
 ---
 bookid: 4982
 title: The Sirens of Titan
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: Ligia Caranfil, Chris Moore
 isbn: 

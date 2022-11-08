@@ -1,6 +1,7 @@
 ---
 bookid: 1886921
 title: Confessions Of A Hope Fiend
+authorsort: Leary, Timothy
 author: Timothy Leary
 authors: 
 isbn: 0552680702

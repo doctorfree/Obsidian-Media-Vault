@@ -1,6 +1,7 @@
 ---
 bookid: 1044355
 title: When You Are Engulfed in Flames
+authorsort: Sedaris, David
 author: David Sedaris
 authors: 
 isbn: 0316143472

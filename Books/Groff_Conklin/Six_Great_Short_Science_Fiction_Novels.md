@@ -1,6 +1,7 @@
 ---
 bookid: 78845
 title: Six Great Short Science Fiction Novels
+authorsort: Conklin, Groff
 author: Groff Conklin
 authors: Isaac Asimov, Judith Merril, Clifford D. Simak, Algis Budrys, Damon Knight, Katherine Anne MacLean
 isbn: 

@@ -1,6 +1,7 @@
 ---
 bookid: 55470
 title: The God of the Labyrinth
+authorsort: Wilson, Colin
 author: Colin Wilson
 authors: 
 isbn: 0914728393

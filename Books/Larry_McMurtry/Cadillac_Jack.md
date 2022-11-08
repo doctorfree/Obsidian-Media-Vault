@@ -1,6 +1,7 @@
 ---
 bookid: 317819
 title: Cadillac Jack
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: 
 isbn: 0684853833

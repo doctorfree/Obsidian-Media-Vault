@@ -1,6 +1,7 @@
 ---
 bookid: 19161852
 title: "The Fifth Season (The Broken Earth, #1)"
+authorsort: Jemisin, N.K.
 author: N.K. Jemisin
 authors: 
 isbn: 

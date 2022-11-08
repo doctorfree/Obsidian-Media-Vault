@@ -1,6 +1,7 @@
 ---
 bookid: 8682
 title: Jitterbug Perfume
+authorsort: Robbins, Tom
 author: Tom Robbins
 authors: 
 isbn: 1842430351

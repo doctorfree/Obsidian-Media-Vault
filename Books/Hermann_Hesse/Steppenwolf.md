@@ -1,6 +1,7 @@
 ---
 bookid: 16631
 title: Steppenwolf
+authorsort: Hesse, Hermann
 author: Hermann Hesse
 authors: Basil Creighton
 isbn: 0140282580

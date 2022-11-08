@@ -1,6 +1,7 @@
 ---
 bookid: 13514
 title: The Fairy Tales of Hermann Hesse
+authorsort: Hesse, Hermann
 author: Hermann Hesse
 authors: Jack D. Zipes, David Frampton
 isbn: 0553377760

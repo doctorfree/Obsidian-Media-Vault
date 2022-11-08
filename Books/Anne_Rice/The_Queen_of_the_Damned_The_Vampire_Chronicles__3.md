@@ -1,6 +1,7 @@
 ---
 bookid: 43758
 title: "The Queen of the Damned (The Vampire Chronicles, #3)"
+authorsort: Rice, Anne
 author: Anne Rice
 authors: 
 isbn: 0345419626

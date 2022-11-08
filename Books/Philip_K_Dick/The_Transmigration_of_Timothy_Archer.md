@@ -1,6 +1,7 @@
 ---
 bookid: 106585
 title: The Transmigration of Timothy Archer
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0679734449

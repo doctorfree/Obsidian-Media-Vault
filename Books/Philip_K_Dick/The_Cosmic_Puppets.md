@@ -1,6 +1,7 @@
 ---
 bookid: 2905348
 title: The Cosmic Puppets
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0425062767

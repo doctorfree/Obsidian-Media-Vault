@@ -1,6 +1,7 @@
 ---
 bookid: 6890220
 title: "Mind Games (The Disillusionists, #1)"
+authorsort: Crane, Carolyn
 author: Carolyn Crane
 authors: 
 isbn: 0553592610

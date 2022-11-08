@@ -1,6 +1,7 @@
 ---
 bookid: 11467371
 title: Windows Powershell in Action
+authorsort: Payette, Bruce
 author: Bruce Payette
 authors: 
 isbn: 1935182137

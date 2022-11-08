@@ -1,6 +1,7 @@
 ---
 bookid: 826
 title: The Big U
+authorsort: Stephenson, Neal
 author: Neal Stephenson
 authors: 
 isbn: 0380816032

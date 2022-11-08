@@ -1,6 +1,7 @@
 ---
 bookid: 7260188
 title: "Mockingjay (The Hunger Games, #3)"
+authorsort: Collins, Suzanne
 author: Suzanne Collins
 authors: 
 isbn: 0439023513

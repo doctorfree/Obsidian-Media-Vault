@@ -1,6 +1,7 @@
 ---
 bookid: 8675
 title: Wild Ducks Flying Backward
+authorsort: Robbins, Tom
 author: Tom Robbins
 authors: 
 isbn: 0553383531

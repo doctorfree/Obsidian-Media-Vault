@@ -1,6 +1,7 @@
 ---
 bookid: 469571
 title: "All the Pretty Horses (The Border Trilogy, #1)"
+authorsort: McCarthy, Cormac
 author: Cormac McCarthy
 authors: 
 isbn: 0679744398

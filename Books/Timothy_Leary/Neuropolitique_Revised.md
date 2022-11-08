@@ -1,6 +1,7 @@
 ---
 bookid: 817625
 title: Neuropolitique (Revised)
+authorsort: Leary, Timothy
 author: Timothy Leary
 authors: Robert Anton Wilson, George A. Koopman
 isbn: 1561840122

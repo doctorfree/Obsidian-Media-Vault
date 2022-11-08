@@ -1,6 +1,7 @@
 ---
 bookid: 216361
 title: The World Jones Made
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0679742190

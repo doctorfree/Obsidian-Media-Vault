@@ -1,6 +1,7 @@
 ---
 bookid: 5129
 title: Brave New World
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 0060929871

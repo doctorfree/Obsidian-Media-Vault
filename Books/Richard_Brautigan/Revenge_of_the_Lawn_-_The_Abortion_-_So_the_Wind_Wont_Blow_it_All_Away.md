@@ -1,6 +1,7 @@
 ---
 bookid: 12569
 title: Revenge of the Lawn / The Abortion / So the Wind Won't Blow it All Away
+authorsort: Brautigan, Richard
 author: Richard Brautigan
 authors: 
 isbn: 0395706742

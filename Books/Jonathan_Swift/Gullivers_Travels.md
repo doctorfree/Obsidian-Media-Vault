@@ -1,6 +1,7 @@
 ---
 bookid: 6192934
 title: Gulliver's Travels
+authorsort: Swift, Jonathan
 author: Jonathan Swift
 authors: 
 isbn: 

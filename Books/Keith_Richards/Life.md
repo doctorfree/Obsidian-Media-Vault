@@ -1,6 +1,7 @@
 ---
 bookid: 9439303
 title: Life
+authorsort: Richards, Keith
 author: Keith Richards
 authors: James Fox
 isbn: 0297854399

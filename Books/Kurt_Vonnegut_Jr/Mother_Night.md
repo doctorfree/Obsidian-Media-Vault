@@ -1,6 +1,7 @@
 ---
 bookid: 9592
 title: Mother Night
+authorsort: Jr., Kurt Vonnegut
 author: Kurt Vonnegut Jr.
 authors: 
 isbn: 0385334141

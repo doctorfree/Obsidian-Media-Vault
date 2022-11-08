@@ -1,6 +1,7 @@
 ---
 bookid: 6330
 title: The Best of Roald Dahl
+authorsort: Dahl, Roald
 author: Roald Dahl
 authors: 
 isbn: 0679729917

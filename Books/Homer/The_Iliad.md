@@ -1,6 +1,7 @@
 ---
 bookid: 6301084
 title: The Iliad
+authorsort: Homer, Homer
 author: Homer
 authors: 
 isbn: 

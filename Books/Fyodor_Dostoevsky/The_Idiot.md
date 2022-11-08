@@ -1,6 +1,7 @@
 ---
 bookid: 12505
 title: The Idiot
+authorsort: Dostoevsky, Fyodor
 author: Fyodor Dostoevsky
 authors: Anna Brailovsky, Joseph Frank, Constance Garnett
 isbn: 0679642420

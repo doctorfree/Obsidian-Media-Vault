@@ -1,6 +1,7 @@
 ---
 bookid: 92343
 title: The Televisionary Oracle
+authorsort: Brezsny, Rob
 author: Rob Brezsny
 authors: 
 isbn: 1583940006

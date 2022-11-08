@@ -1,6 +1,7 @@
 ---
 bookid: 53314
 title: The Desert Rose
+authorsort: McMurtry, Larry
 author: Larry McMurtry
 authors: 
 isbn: 0684853841

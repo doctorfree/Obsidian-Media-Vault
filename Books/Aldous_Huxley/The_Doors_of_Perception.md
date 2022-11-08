@@ -1,6 +1,7 @@
 ---
 bookid: 3372279
 title: The Doors of Perception
+authorsort: Huxley, Aldous
 author: Aldous Huxley
 authors: 
 isbn: 0060801719

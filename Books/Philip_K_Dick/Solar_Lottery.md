@@ -1,6 +1,7 @@
 ---
 bookid: 92504
 title: Solar Lottery
+authorsort: Dick, Philip K.
 author: Philip K. Dick
 authors: 
 isbn: 0575074558

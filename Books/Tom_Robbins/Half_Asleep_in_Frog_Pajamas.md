@@ -1,6 +1,7 @@
 ---
 bookid: 9567
 title: Half Asleep in Frog Pajamas
+authorsort: Robbins, Tom
 author: Tom Robbins
 authors: 
 isbn: 184243036X

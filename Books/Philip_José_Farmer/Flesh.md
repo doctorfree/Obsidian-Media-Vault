@@ -1,6 +1,7 @@
 ---
 bookid: 591745
 title: Flesh
+authorsort: Farmer, Philip José
 author: Philip José Farmer
 authors: 
 isbn: 0451050975

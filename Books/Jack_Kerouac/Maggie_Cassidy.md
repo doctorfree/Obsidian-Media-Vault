@@ -1,6 +1,7 @@
 ---
 bookid: 2754234
 title: Maggie Cassidy
+authorsort: Kerouac, Jack
 author: Jack Kerouac
 authors: 
 isbn: 
