@@ -19,7 +19,7 @@ musician:
 
 By The Pretenders
 
-![](../../assets/cdcovers/The_Pretenders-The_Pretenders.png)
+![](../../assets/cdcovers/Pretenders-Pretenders.png)
 
 ## Album Data
 
@@ -39,6 +39,6 @@ By The Pretenders
 
 ## See also
 
-- [Pretenders Ii [deluxe Special Edition] (Disc 2 )](Pretenders_Ii_[deluxe_Special_Edition]_Disc_2_.md)
-- [Pretenders Ii](Pretenders_Ii.md)
+- [Pretenders II \[deluxe Special Edition\] (Disc 2 )](Pretenders_II_[deluxe_Special_Edition]_Disc_2_.md)
+- [Pretenders II](Pretenders_II.md)
 - [The Pretenders (Disc 2)](The_Pretenders_Disc_2.md)

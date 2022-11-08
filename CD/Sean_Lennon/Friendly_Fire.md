@@ -40,6 +40,6 @@ By Sean Lennon
 ## See also
 
 - [Into The Sun](Into_The_Sun.md)
-- [Rosencrautz And Guildenstern Are Undead](Rosencrautz_And_Guildenstern_Are_Undead.md)
+- [Rosencrantz And Guildenstern Are Undead](Rosencrantz_And_Guildenstern_Are_Undead.md)
 - [Acoustic Sessions](../The_Ghost_Of_A_Saber_Tooth_Tiger/Acoustic_Sessions.md)
 - [The Monolith of Phobos](../The_Claypool_Lennon_Delirium/The_Monolith_of_Phobos.md)

@@ -1,37 +1,37 @@
 ---
-catalog: 88697915502-13
-title: ...That's The Way It Is
-artist: Harry Nilsson
-label: RCA Legacy
+catalog: 
+title: Nilsson Sings Newman (Remastered + Expanded)
+artist: Nilsson
+label: 
 format: CD
-tracks: 11
+tracks: 15
 released: 
 discs: 1
 boxset: 
-length: 33:36
-genre: Popular
+length: 39:37
+genre: 
 songwriter: 
 producer: 
 musician: 
 ---
 
-# ...That's The Way It Is
+# Nilsson Sings Newman (Remastered + Expanded)
 
-By Harry Nilsson
+By Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Thats_The_Way_It_Is.png)
+![](../../assets/cdcovers/Harry_Nilsson-Nilsson_Sings_Newman.png)
 
 ## Album Data
 
-- Catalog #: 88697915502-13
-- Label: RCA Legacy
+- Catalog #: 
+- Label: 
 - Format: CD
-- Tracks: 11
+- Tracks: 15
 - Released: 
 - Discs: 1
 - Box Set: 
-- Length: 33:36
-- Genre: Popular
+- Length: 39:37
+- Genre: 
 - Songwriter: 
 - Producer: 
 - Musician: 
@@ -53,5 +53,5 @@ By Harry Nilsson
 - [Pussy Cats](Pussy_Cats.md)
 - [Sandman](Sandman.md)
 - [Son Of Schmilsson](Son_Of_Schmilsson.md)
+- [...That's The Way It Is](Thats_The_Way_It_Is.md)
 - [The Point!](The_Point!.md)
-- [Nilsson Sings Newman (Remastered + Expanded)](Nilsson_Sings_Newman_Remastered_+_Expanded.md)

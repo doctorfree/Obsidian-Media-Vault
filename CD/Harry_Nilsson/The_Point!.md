@@ -54,3 +54,4 @@ By Harry Nilsson
 - [Sandman](Sandman.md)
 - [Son Of Schmilsson](Son_Of_Schmilsson.md)
 - [...That's The Way It Is](Thats_The_Way_It_Is.md)
+- [Nilsson Sings Newman (Remastered + Expanded)](Nilsson_Sings_Newman_Remastered_+_Expanded.md)

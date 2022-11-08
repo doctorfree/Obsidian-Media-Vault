@@ -1,6 +1,6 @@
 ---
 catalog: 
-title: Rosencrautz And Guildenstern Are Undead
+title: Rosencrantz And Guildenstern Are Undead
 artist: Sean Lennon
 label: 
 format: CD
@@ -15,9 +15,11 @@ producer:
 musician: 
 ---
 
-# Rosencrautz And Guildenstern Are Undead
+# Rosencrantz And Guildenstern Are Undead
 
 By Sean Lennon
+
+![](../../assets/cdcovers/Sean_Lennon-Rosencrantz_and_Guildenstern_are_Undead.png)
 
 ## Album Data
 

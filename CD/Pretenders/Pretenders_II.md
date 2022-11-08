@@ -1,36 +1,36 @@
 ---
 catalog: 
-title: Pretenders Ii [deluxe Special Edition] (Disc 2 )
-artist: The Pretenders
+title: Pretenders II
+artist: Pretenders
 label: 
 format: CD
-tracks: 20
+tracks: 12
 released: 
 discs: 1
 boxset: 
-length: 1:17:26
+length: 46:18
 genre: 
 songwriter: 
 producer: 
 musician: 
 ---
 
-# Pretenders Ii [deluxe Special Edition] (Disc 2 )
+# Pretenders II
 
-By The Pretenders
+By Pretenders
 
-![](../../assets/cdcovers/The_Pretenders-Pretenders_Ii_[deluxe_Special_Edition]_.png)
+![](../../assets/cdcovers/Pretenders-Pretenders_II.png)
 
 ## Album Data
 
 - Catalog #: 
 - Label: 
 - Format: CD
-- Tracks: 20
+- Tracks: 12
 - Released: 
 - Discs: 1
 - Box Set: 
-- Length: 1:17:26
+- Length: 46:18
 - Genre: 
 - Songwriter: 
 - Producer: 
@@ -39,6 +39,6 @@ By The Pretenders
 
 ## See also
 
-- [Pretenders Ii](Pretenders_Ii.md)
+- [Pretenders II \[Deluxe Special Edition\] (Disc 2 )](Pretenders_II_[Deluxe_Special_Edition]_Disc_2_.md)
 - [The Pretenders (Disc 1)](The_Pretenders_Disc_1.md)
 - [The Pretenders (Disc 2)](The_Pretenders_Disc_2.md)

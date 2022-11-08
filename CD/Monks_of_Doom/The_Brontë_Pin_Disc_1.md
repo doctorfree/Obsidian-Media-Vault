@@ -19,7 +19,7 @@ musician:
 
 By Monks of Doom
 
-![](../../assets/cdcovers/Monks_of_Doom-The_Brontë_Pin.png)
+![](../../assets/cdcovers/Monks_of_Doom-The_Bronte_Pin.png)
 
 ## Album Data
 
