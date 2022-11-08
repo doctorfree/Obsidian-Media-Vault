@@ -19,6 +19,8 @@ musician:
 
 By Donovan
 
+![](../../assets/cdcovers/Donovan-Try_For_The_Sun_The_Journey_Of_Donovan.png)
+
 ## Album Data
 
 - Catalog #: MHCP-916

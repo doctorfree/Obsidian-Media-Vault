@@ -19,6 +19,8 @@ musician:
 
 By "Emerson, Lake & Palmer"
 
+![](../../assets/cdcovers/Emerson_Lake_and_Palmer-Trilogy.png)
+
 ## Album Data
 
 - Catalog #: 88875004902

@@ -19,6 +19,8 @@ musician:
 
 By INXS
 
+![](../../assets/cdcovers/INXS-X.png)
+
 ## Album Data
 
 - Catalog #: 7 82140-2

@@ -19,6 +19,8 @@ musician:
 
 By Led Zeppelin
 
+![](../../assets/cdcovers/Led_Zeppelin-Physical_Graffiti.png)
+
 ## Album Data
 
 - Catalog #: SS 200-2

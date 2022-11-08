@@ -19,6 +19,8 @@ musician:
 
 By David Bowie
 
+![](../../assets/cdcovers/David_Bowie-Bowie_At_The_Beeb.png)
+
 ## Album Data
 
 - Catalog #: 7243 5 28958 2 3

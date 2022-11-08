@@ -19,6 +19,8 @@ musician:
 
 By King Crimson
 
+![](../../assets/cdcovers/King_Crimson-Larks_Tongues_In_Aspic.png)
+
 ## Album Data
 
 - Catalog #: KCSP5

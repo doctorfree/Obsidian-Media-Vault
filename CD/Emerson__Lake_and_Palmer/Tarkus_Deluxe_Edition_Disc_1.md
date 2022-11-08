@@ -19,6 +19,8 @@ musician:
 
 By "Emerson, Lake & Palmer"
 
+![](../../assets/cdcovers/Emerson_Lake_and_Palmer-Tarkus_Deluxe_Edition.png)
+
 ## Album Data
 
 - Catalog #: 88691937962

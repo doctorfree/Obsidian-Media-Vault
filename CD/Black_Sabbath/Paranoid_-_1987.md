@@ -19,6 +19,8 @@ musician:
 
 By Black Sabbath
 
+![](../../assets/cdcovers/Black_Sabbath-Paranoid.png)
+
 ## Album Data
 
 - Catalog #: 3104-2

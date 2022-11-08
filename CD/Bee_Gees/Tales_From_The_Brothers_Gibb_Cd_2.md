@@ -19,7 +19,7 @@ musician:
 
 By The Bee Gees
 
-![](../../assets/cdcovers/The_Bee_Gees-Tales_From_The_Brothers_Gibb_Cd_2.png)
+![](../../assets/cdcovers/Bee_Gees-Tales_From_The_Brothers_Gibb.png)
 
 ## Album Data
 

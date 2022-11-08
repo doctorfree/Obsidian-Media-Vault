@@ -19,6 +19,8 @@ musician:
 
 By Creedence Clearwater Revival
 
+![](../../assets/cdcovers/Creedence_Clearwater_Revival-Ultimate.png)
+
 ## Album Data
 
 - Catalog #: 0888072341623

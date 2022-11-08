@@ -19,6 +19,8 @@ musician:
 
 By Jellyfish
 
+![](../../assets/cdcovers/Jellyfish-Bellybutton-Deluxe_Edition.png)
+
 ## Album Data
 
 - Catalog #: OVCD-5

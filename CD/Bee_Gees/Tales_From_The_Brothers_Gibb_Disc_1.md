@@ -19,6 +19,8 @@ musician:
 
 By Bee Gees
 
+![](../../assets/cdcovers/Bee_Gees-Tales_From_The_Brothers_Gibb.png)
+
 ## Album Data
 
 - Catalog #: 

@@ -19,6 +19,8 @@ musician:
 
 By Led Zeppelin
 
+![](../../assets/cdcovers/Led_Zeppelin-The_Complete_BBC_Sessions.png)
+
 ## Album Data
 
 - Catalog #: R2-556277

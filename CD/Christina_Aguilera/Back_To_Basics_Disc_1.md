@@ -19,6 +19,8 @@ musician:
 
 By Christina Aguilera
 
+![](../../assets/cdcovers/Christina_Aguilera-Back_to_Basics.png)
+
 ## Album Data
 
 - Catalog #: 82876-82639-2

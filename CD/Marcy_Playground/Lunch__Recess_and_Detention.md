@@ -19,7 +19,7 @@ musician:
 
 By Marcy Playground
 
-![](../../assets/cdcovers/Marcy_Playground-Lunch__Recess_and_Detention.png)
+![](../../assets/cdcovers/Marcy_Playground-Lunch_Recess_and_Detention.png)
 
 ## Album Data
 

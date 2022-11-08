@@ -1,6 +1,6 @@
 ---
 catalog: 
-title: Asylum Chior Ii
+title: Asylum Choir II
 artist: Leon Russel & Marc Benno
 label: 
 format: CD
@@ -15,9 +15,11 @@ producer:
 musician: 
 ---
 
-# Asylum Chior Ii
+# Asylum Choir II
 
 By Leon Russel & Marc Benno
+
+![](../../assets/cdcovers/Leon_Russell-Asylum_Choir_II.png)
 
 ## Album Data
 

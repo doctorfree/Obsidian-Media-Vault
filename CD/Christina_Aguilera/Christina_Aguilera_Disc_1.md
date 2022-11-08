@@ -19,6 +19,8 @@ musician:
 
 By Christina Aguilera
 
+![](../../assets/cdcovers/Christina_Aguilera-Christina_Aguilera.png)
+
 ## Album Data
 
 - Catalog #: 74321780542

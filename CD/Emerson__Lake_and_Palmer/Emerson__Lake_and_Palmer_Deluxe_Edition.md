@@ -19,7 +19,7 @@ musician:
 
 By "Emerson, Lake & Palmer"
 
-![](../../assets/cdcovers/Emerson__Lake_and_Palmer-Emerson__Lake_and_Palmer_Deluxe_Edition.png)
+![](../../assets/cdcovers/Emerson_Lake_and_Palmer-Deluxe_Edition.png)
 
 ## Album Data
 

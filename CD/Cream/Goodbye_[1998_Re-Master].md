@@ -19,6 +19,8 @@ musician:
 
 By Cream
 
+![](../../assets/cdcovers/Cream-Goodbye.png)
+
 ## Album Data
 
 - Catalog #: 531815-2

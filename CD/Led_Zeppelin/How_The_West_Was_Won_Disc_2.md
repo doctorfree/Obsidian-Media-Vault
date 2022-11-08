@@ -19,6 +19,8 @@ musician:
 
 By Led Zeppelin
 
+![](../../assets/cdcovers/Led_Zeppelin-How_The_West_Was_Won.png)
+
 ## Album Data
 
 - Catalog #: 83587-2

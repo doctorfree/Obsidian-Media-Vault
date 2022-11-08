@@ -19,6 +19,8 @@ musician:
 
 By Jefferson Airplane
 
+![](../../assets/cdcovers/Jefferson_Airplane-Early_Flight.png)
+
 ## Album Data
 
 - Catalog #: 

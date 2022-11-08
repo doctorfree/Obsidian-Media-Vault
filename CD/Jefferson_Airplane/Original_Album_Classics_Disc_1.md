@@ -19,6 +19,8 @@ musician:
 
 By Jefferson Airplane
 
+![](../../assets/cdcovers/Jefferson_Airplane-Original_Album_Classics.png)
+
 ## Album Data
 
 - Catalog #: LC 00316

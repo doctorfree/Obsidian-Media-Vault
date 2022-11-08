@@ -19,6 +19,8 @@ musician:
 
 By Jethro Tull
 
+![](../../assets/cdcovers/Jethro_Tull-20_Years_Of_Jethro_Tull.png)
+
 ## Album Data
 
 - Catalog #: 353 404

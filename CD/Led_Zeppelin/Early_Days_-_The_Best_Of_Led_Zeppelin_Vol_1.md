@@ -19,6 +19,8 @@ musician:
 
 By Led Zeppelin
 
+![](../../assets/cdcovers/Led_Zeppelin-Early_Days_-_The_Best_Of_Led_Zeppelin.png)
+
 ## Album Data
 
 - Catalog #: 7567-83268-2

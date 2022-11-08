@@ -19,7 +19,7 @@ musician:
 
 By "Emerson, Lake & Palmer"
 
-![](../../assets/cdcovers/Emerson__Lake_and_Palmer-Trilogy.png)
+![](../../assets/cdcovers/Emerson_Lake_and_Palmer-Trilogy.png)
 
 ## Album Data
 

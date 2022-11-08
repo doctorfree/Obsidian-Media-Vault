@@ -19,6 +19,8 @@ musician:
 
 By Andrew Lloyd Webber
 
+![](../../assets/cdcovers/Andrew_Lloyd_Webber-Jesus_Christ_Superstar.png)
+
 ## Album Data
 
 - Catalog #: 533971

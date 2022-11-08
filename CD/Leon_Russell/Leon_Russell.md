@@ -39,4 +39,4 @@ By Leon Russell
 
 ## See also
 
-- [Asylum Chior Ii](Asylum_Chior_Ii.md)
+- [Asylum Choir II](Asylum_Choir_II.md)
