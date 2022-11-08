@@ -19,6 +19,8 @@ musician:
 
 By Blue Öyster Cult
 
+![](../../assets/cdcovers/Blue_Oyster_Cult-The_Columbia_Albums_Collection.png)
+
 ## Album Data
 
 - Catalog #: 82796 96408 2
