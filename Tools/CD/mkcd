@@ -75,10 +75,11 @@ do
     [ -f ${CDS}/${artistdir}/${filename}.md ] && continue
 
     # Download album cover art
-    [ -f "../../assets/cdcovers/${artistdir}-${filename}.png" ] || {
+    image=`echo ${filename} | sed -e "s/_Disc_[0-9]//" -e "s/_(Disc_[0-9])//"`
+    [ -f "../../assets/cdcovers/${artistdir}-${image}.png" ] || {
       echo "Downloading cover art for ${artist} - ${title}"
       sacad "${artist}" "${title}" 600 \
-        ../../assets/cdcovers/${artistdir}-${filename}.png 2> /dev/null
+        ../../assets/cdcovers/${artistdir}-${image}.png 2> /dev/null
     }
     [ -d ${CDS}/${artistdir} ] || mkdir ${CDS}/${artistdir}
     tracks=`echo ${line} | csvcut -c 4 | \
@@ -124,9 +125,9 @@ do
     echo "" >> ${CDS}/${artistdir}/${filename}.md
     echo "By ${artist}" >> ${CDS}/${artistdir}/${filename}.md
     echo "" >> ${CDS}/${artistdir}/${filename}.md
-    if [ -f "../../assets/cdcovers/${artistdir}-${filename}.png" ]
+    if [ -f "../../assets/cdcovers/${artistdir}-${image}.png" ]
     then
-      coverurl="../../assets/cdcovers/${artistdir}-${filename}.png"
+      coverurl="../../assets/cdcovers/${artistdir}-${image}.png"
     else
       coverurl=
     fi

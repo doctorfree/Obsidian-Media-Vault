@@ -11,7 +11,7 @@
 !.obsidian/plugins
 !.obsidian/plugins/*
 
-Tools/Vinyl/scripts/tmp/*
+Tools/*/scripts/tmp/*
 
 .index
 tmp/*

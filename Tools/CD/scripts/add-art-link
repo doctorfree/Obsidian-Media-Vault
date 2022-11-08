@@ -1,0 +1,94 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/CD"
+
+FILES="Andrew_Lloyd_Webber/Jesus_Christ_Superstar_Disc_1.md \
+Andrew_Lloyd_Webber/Jesus_Christ_Superstar_Disc_2.md \
+Bee_Gees/Tales_From_The_Brothers_Gibb_Disc_1.md \
+Black_Sabbath/Paranoid_-_1987.md \
+Blue_Öyster_Cult/The_Columbia_Albums_Collection_Disc_10.md \
+Blue_Öyster_Cult/The_Columbia_Albums_Collection_Disc_12.md \
+Blue_Öyster_Cult/The_Columbia_Albums_Collection_Disc_4.md \
+Blue_Öyster_Cult/The_Columbia_Albums_Collection_Disc_8.md \
+Blue_Öyster_Cult/The_Columbia_Albums_Collection_Disc_9.md \
+Christina_Aguilera/Back_To_Basics_Disc_1.md \
+Christina_Aguilera/Back_To_Basics_Disc_2.md \
+Christina_Aguilera/Christina_Aguilera_Disc_1.md \
+Cream/Goodbye_[1998_Re-Master].md \
+Creedence_Clearwater_Revival/Ultimate__Greatest_Hits_and_All-Time_Classics__Disc_1.md \
+Creedence_Clearwater_Revival/Ultimate__Greatest_Hits_and_All-Time_Classics__Disc_2.md \
+David_Bowie/Bowie_At_The_Beeb_Disc_3.md \
+Donovan/Try_For_The_Sun-_The_Journey_Of_Donovan_Disc_1.md \
+Donovan/Try_For_The_Sun-_The_Journey_Of_Donovan_Disc_2.md \
+Donovan/Try_For_The_Sun-_The_Journey_Of_Donovan_Disc_3.md \
+Emerson__Lake_and_Palmer/Emerson__Lake_and_Palmer_2012_Deluxe_Ed_Ition_Disc_1.md \
+Emerson__Lake_and_Palmer/Tarkus_Deluxe_Edition_Disc_1.md \
+Emerson__Lake_and_Palmer/Tarkus_Deluxe_Edition_Disc_2.md \
+Emerson__Lake_and_Palmer/Trilogy_2cd_and_Dvd-Audio_Disc_2.md \
+INXS/X_-_Gatefold_Cover.md \
+Jefferson_Airplane/Early_Flight_Thirty_Seconds_Over_Winterland.md \
+Jefferson_Airplane/Original_Album_Classics_Disc_1.md \
+Jellyfish/Bellybutton_-_Deluxe_Edition_Disc_2.md \
+Jellyfish/Bellybutton_Disc_1.md \
+Jethro_Tull/20_Years_Of_Jethro_Tull_-_The_Definitive_Collection_Disc_1.md \
+Jethro_Tull/20_Years_Of_Jethro_Tull_-_The_Definitive_Collection_Disc_2.md \
+Jethro_Tull/20_Years_Of_Jethro_Tull_-_The_Definitive_Collection_Disc_3.md \
+King_Crimson/In_The_Court_Of_The_Crimson_King_-_An_Observation_By_King_Crimson_Disc_1.md \
+King_Crimson/Larks_Tongues_In_Aspic_40th_Anniversary_Edition.md \
+Led_Zeppelin/Early_Days_-_The_Best_Of_Led_Zeppelin_Vol_1.md \
+Led_Zeppelin/How_The_West_Was_Won_Disc_1.md \
+Led_Zeppelin/How_The_West_Was_Won_Disc_2.md \
+Led_Zeppelin/Physical_Graffiti_Disc_1_Disc_1.md \
+Led_Zeppelin/The_Complete_Bbc_Sessions_Disc_1.md \
+Led_Zeppelin/The_Complete_Bbc_Sessions_Disc_2.md \
+Leon_Russell/Asylum_Chior_Ii.md \
+Pretenders/The_Pretenders_Disc_2.md \
+Sean_Lennon/Rosencrautz_And_Guildenstern_Are_Undead.md \
+The_Beatles/1_Cd_and_2_Bluray_Edition_Disc_1.md \
+The_Kinks/The_Anthology_1964_-_1971_Disc_1.md \
+The_Kinks/The_Anthology_1964_-_1971_Disc_2.md \
+The_Kinks/The_Anthology_1964_-_1971_Disc_3.md \
+The_Kinks/The_Anthology_1964_-_1971_Disc_4.md \
+The_Kinks/The_Anthology_1964_-_1971_Disc_5.md"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for album in ${FILES}
+do
+  [ -f ${album} ] || {
+    echo "${album} does not exist. Skipping."
+    continue
+  }
+  grep "/assets/cdcovers/" ${album} > /dev/null || {
+    artist=`echo ${album} | awk -F '/' ' { print $1 } '`
+    ralbum=`echo ${album} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+    # Insert album cover art link for this album
+    if [ -f "../assets/cdcovers/${artist}-${ralbum}.png" ]
+    then
+      echo "Inserting cover art link for ${artist} - ${ralbum}"
+#     echo "![](../../assets/cdcovers/${artist}-${ralbum}.png)" > /tmp/__insert__
+#     echo "" >> /tmp/__insert__
+#     sed '/## Album Data/e cat /tmp/__insert__' ${album} > /tmp/foo$$
+#     cp /tmp/foo$$ ${album}
+#     rm -f /tmp/foo$$ /tmp/__insert__
+    else
+      ralbum=`echo ${ralbum} | sed -e "s/_Disc_[0-9]//" -e "s/_(Disc_[0-9])//"`
+      if [ -f "../assets/cdcovers/${artist}-${ralbum}.png" ]
+      then
+        echo "Inserting cover art link for ${artist} - ${ralbum}"
+#     echo "![](../../assets/cdcovers/${artist}-${ralbum}.png)" > /tmp/__insert__
+#     echo "" >> /tmp/__insert__
+#     sed '/## Album Data/e cat /tmp/__insert__' ${album} > /tmp/foo$$
+#     cp /tmp/foo$$ ${album}
+#     rm -f /tmp/foo$$ /tmp/__insert__
+      else
+        echo "Cover art does not exist for ${artist} - ${ralbum}"
+      fi
+    fi
+  }
+done

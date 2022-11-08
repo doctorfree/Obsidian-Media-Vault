@@ -1,0 +1,37 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/CD"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  cd "${artist}"
+  numalbums=`ls -1 *.md | wc -l`
+  [ ${numalbums} -gt 1 ] && {
+    echo "Appending see also for ${artist}"
+    for album in *.md
+    do
+      [ "${album}" == "*.md" ] && continue
+      echo "" >> ${album}
+      echo "## See also" >> ${album}
+      echo "" >> ${album}
+      for aalbum in *.md
+      do
+        [ "${aalbum}" == "*.md" ] && continue
+        [ "${aalbum}" == "${album}" ] && continue
+        title=`grep "title:" ${aalbum} | awk -F ':' ' { print $2 } ' | \
+          sed -e 's/^ *//' -e 's/ *$//'`
+        echo "- [${title}](${aalbum})" >> ${album}
+      done
+    done
+  }
+  cd ..
+done

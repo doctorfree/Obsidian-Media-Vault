@@ -1,8 +1,7 @@
 #!/bin/bash
 #
 
-BOOKS="../../Books"
-COVERS="${BOOKS}/assets/bookcovers"
+COVERS="../../assets/bookcovers"
 
 overwrite=
 [ "$1" == "-f" ] && overwrite=1
