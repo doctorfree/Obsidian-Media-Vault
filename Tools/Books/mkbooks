@@ -2,29 +2,47 @@
 
 TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
 
+usage() {
+  printf "\nUsage: mkbooks [-f] [-p /path/to/Books] [-t] [-u]"
+  printf "\nWhere:"
+  printf "\n\t-f indicates overwrite any pre-existing Books index markdown"
+  printf "\n\t-p /path/to/Books specifies the full path to the Books folder"
+  printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books)"
+  printf "\n\t-t indicates create a table rather than listing"
+  printf "\n\t-u displays this usage message and exits\n\n"
+  exit 1
+}
+
+mktable=
+overwrite=
+book_index="Books_by_Title"
+
+while getopts "fp:tu" flag; do
+    case $flag in
+        f)
+            overwrite=1
+            ;;
+        p)
+            TOP="${OPTARG}"
+            ;;
+        t)
+            mktable=1
+            numcols=1
+            book_index="Table_of_Books_by_Author"
+            ;;
+        u)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
 [ -d "${TOP}" ] || {
   echo "$TOP does not exist or is not a directory. Exiting."
   exit 1
 }
 
 cd "${TOP}"
-
-mktable=
-overwrite=
-book_index="Books_by_Title"
-
-# As yet, minimal argument processing so -f must precede -t if both are provided
-[ "$1" == "-f" ] && {
-  overwrite=1
-  shift
-}
-
-[ "$1" == "-t" ] && {
-  mktable=1
-  numcols=1
-  book_index="Books_by_Author"
-  shift
-}
 
 [ "${overwrite}" ] && rm -f ../${book_index}.md
 
@@ -38,7 +56,7 @@ else
   echo "" >> ../${book_index}.md
   if [ "${mktable}" ]
   then
-    echo "## Index of Books by Author" >> ../${book_index}.md
+    echo "## Table of Books by Author" >> ../${book_index}.md
   else
     echo "## Index of Books by Title" >> ../${book_index}.md
     echo "" >> ../${book_index}.md
