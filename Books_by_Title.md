@@ -2,6 +2,10 @@
 
 ## Index of Books by Title
 
+| **[A](#a)** | **[B](#b)** | **[C](#c)** | **[D](#d)** | **[E](#e)** | **[F](#f)** | **[G](#g)** | **[H](#h)** | **[I](#i)** | **[J](#j)** | **[K](#k)** | **[L](#l)** | **[M](#m)** | **[N](#n)** | **[O](#o)** | **[P](#p)** | **[Q](#q)** | **[R](#r)** | **[S](#s)** | **[T](#t)** | **[U](#u)** | **[V](#v)** | **[W](#w)** | **[X](#x)** | **[Y](#y)** | **[Z](#z)** |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+
+
 ### 0-9
 
 - [12 Great Classics of Science Fiction](Books/Groff_Conklin/12_Great_Classics_of_Science_Fiction.md) by Groff Conklin
@@ -116,6 +120,7 @@
 - [Down to Earth (Cosmic Trigger #2)](Books/Robert_Anton_Wilson/Down_to_Earth_Cosmic_Trigger_2.md) by Robert Anton Wilson
 - [Dr. Bloodmoney](Books/Philip_K_Dick/Dr_Bloodmoney.md) by Philip K. Dick
 - [Dream Illuminati](Books/Wayne_Saalman/Dream_Illuminati-_The_Vimana_Conspiracy.md) by Wayne Saalman
+- [Dreaming of Babylon](Books/Richard_Brautigan/Dreaming_of_Babylon.md) by Richard Brautigan
 - [Dr. Futurity](Books/Philip_K_Dick/Dr_Futurity.md) by Philip K. Dick
 - [Duane's Depressed](Books/Larry_McMurtry/Duanes_Depressed.md) by Larry McMurtry
 - [Dynamics, the Geometry of Behavior](Books/Ralph_H_Abraham/Dynamics__the_Geometry_of_Behavior-_Global_Behavior-Part_3_Visual_Mathematicals_Library.md) by Ralph H. Abraham
@@ -511,7 +516,3 @@
 ### Z
 
 - [Zodiac](Books/Neal_Stephenson/Zodiac-_The_Eco-Thriller.md) by Neal Stephenson
-
-### د
-
-- [در رؤیای بابل](Books/Richard_Brautigan/در_رؤیای_بابل.md) by Richard Brautigan
