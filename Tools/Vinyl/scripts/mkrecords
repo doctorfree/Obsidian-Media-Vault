@@ -1,0 +1,60 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+numcols=1
+overwrite=
+[ "$1" == "-f" ] && overwrite=1
+
+[ "${overwrite}" ] && rm -f ../Vinyl_Index.md
+
+[ -f ../Vinyl_Index.md ] || {
+  echo "# Vinyl Records" > ../Vinyl_Index.md
+  echo "" >> ../Vinyl_Index.md
+  echo "## Index of Vinyl Records in Vault" >> ../Vinyl_Index.md
+  echo "" >> ../Vinyl_Index.md
+  echo "| **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** |" >> ../Vinyl_Index.md
+  echo "|--|--|--|--|--|" >> ../Vinyl_Index.md
+
+  for artist in *
+  do
+    [ "${artist}" == "*" ] && continue
+    [ -d "${artist}" ] || continue
+    cd "${artist}"
+    artistname=
+    for album in *.md
+    do
+      [ "${album}" == "*.md" ] && continue
+      [ "${album}" == "${artist}.md" ] && continue
+      [ "${artistname}" ] || {
+        artistname=`grep "artist:" ${album} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      }
+      title=`grep "title:" ${album} | awk -F ':' ' { print $2 } ' | \
+        sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+      if [ ${numcols} -gt 4 ]
+      then
+        printf "| ${artistname}: [${title}](Vinyl/${artist}/${album}) |\n" >> ../../Vinyl_Index.md
+        numcols=1
+      else
+        printf "| ${artistname}: [${title}](Vinyl/${artist}/${album}) " >> ../../Vinyl_Index.md
+        numcols=$((numcols+1))
+      fi
+    done
+    cd ..
+  done
+
+  while [ ${numcols} -lt 5 ]
+  do
+    printf "| " >> ../Vinyl_Index.md
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../Vinyl_Index.md
+}

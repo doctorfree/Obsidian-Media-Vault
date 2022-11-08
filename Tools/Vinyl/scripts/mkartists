@@ -1,0 +1,90 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+mkartists=
+numcols=1
+overwrite=
+remove=
+[ "$1" == "-f" ] && overwrite=1
+[ "$1" == "-r" ] && remove=1
+
+[ "${remove}" ] || [ "${overwrite}" ] && rm -f ../Vinyl_Artists.md
+
+[ -f ../Vinyl_Artists.md ] || {
+  mkartists=1
+  echo "# Vinyl Artists" > ../Vinyl_Artists.md
+  echo "" >> ../Vinyl_Artists.md
+  echo "## List of Vinyl Artists in Vault" >> ../Vinyl_Artists.md
+  echo "" >> ../Vinyl_Artists.md
+  echo "| **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** |" >> ../Vinyl_Artists.md
+  echo "|--|--|--|--|--|" >> ../Vinyl_Artists.md
+}
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  [ "${remove}" ] && {
+    rm -f ${artist}/${artist}.md
+    continue
+  }
+  if [ "${overwrite}" ]
+  then
+    rm -f ${artist}/${artist}.md
+  else
+    [ -f ${artist}/${artist}.md ] && continue
+  fi
+  cd "${artist}"
+  echo "" > /tmp/sa$$
+  echo "## Records" >> /tmp/sa$$
+  echo "" >> /tmp/sa$$
+  artistname=
+  for album in *.md
+  do
+    [ "${album}" == "*.md" ] && continue
+    [ "${album}" == "${artist}.md" ] && continue
+    [ "${artistname}" ] || {
+      artistname=`grep "artist:" ${album} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    }
+    title=`grep "title:" ${album} | awk -F ':' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+    echo "- [${title}](${album})" >> /tmp/sa$$
+  done
+  wikilink=`echo ${artistname} | sed -e "s/ /_/g"`
+  echo "# ${artistname}" > /tmp/au$$
+  echo "" >> /tmp/au$$
+  echo "[Wikipedia entry](https://en.wikipedia.org/wiki/${wikilink})" >> /tmp/au$$
+  cat /tmp/au$$ /tmp/sa$$ > ${artist}.md
+  rm -f /tmp/au$$ /tmp/sa$$
+  cd ..
+  [ "${mkartists}" ] && {
+    [ -f "${artist}/${artist}.md" ] && {
+      if [ ${numcols} -gt 4 ]
+      then
+        printf "| [${artistname}](Vinyl/${artist}/${artist}.md) |\n" >> ../Vinyl_Artists.md
+        numcols=1
+      else
+        printf "| [${artistname}](Vinyl/${artist}/${artist}.md) " >> ../Vinyl_Artists.md
+        numcols=$((numcols+1))
+      fi
+    }
+  }
+done
+
+[ "${mkartists}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ../Vinyl_Artists.md
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../Vinyl_Artists.md
+}
