@@ -1,12 +1,60 @@
 #!/bin/bash
 
-[ -d ../bookdata ] || mkdir ../bookdata
-cd csv
-for book in *.csv
-do
-  [ "${book}" == "*.csv" ] && continue
-  ../scripts/csv2md ${book}
-  md=`echo ${book} | sed -e "s/\.csv/.md/"`
-  [ -f ${md} ] || continue
-  mv ${md} ../../bookdata
-done
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+numcols=1
+overwrite=
+[ "$1" == "-f" ] && overwrite=1
+
+[ "${overwrite}" ] && rm -f ../Book_Index.md
+
+[ -f ../Book_Index.md ] || {
+  echo "# Books" > ../Book_Index.md
+  echo "" >> ../Book_Index.md
+  echo "## Index of Books in Vault" >> ../Book_Index.md
+  echo "" >> ../Book_Index.md
+  echo "| **Author: Title** | **Author: Title** | **Author: Title** | **Author: Title** | **Author: Title** |" >> ../Book_Index.md
+  echo "|--|--|--|--|--|" >> ../Book_Index.md
+
+  for author in *
+  do
+    [ "${author}" == "*" ] && continue
+    [ -d "${author}" ] || continue
+    cd "${author}"
+    authorname=
+    for book in *.md
+    do
+      [ "${book}" == "*.md" ] && continue
+      [ "${book}" == "${author}.md" ] && continue
+      [ "${authorname}" ] || {
+        authorname=`grep "author:" ${book} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      }
+      title=`grep "title:" ${book} | awk -F ':' ' { print $2 } ' | \
+        sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+      if [ ${numcols} -gt 4 ]
+      then
+        printf "| ${authorname}: [${title}](Books/${author}/${book}) |\n" >> ../../Book_Index.md
+        numcols=1
+      else
+        printf "| ${authorname}: [${title}](Books/${author}/${book}) " >> ../../Book_Index.md
+        numcols=$((numcols+1))
+      fi
+    done
+    cd ..
+  done
+
+  while [ ${numcols} -lt 5 ]
+  do
+    printf "| " >> ../Book_Index.md
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../Book_Index.md
+}

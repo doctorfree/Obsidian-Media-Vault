@@ -18,7 +18,7 @@ remove=
 
 [ "${remove}" ] || [ "${overwrite}" ] && rm -f ../Authors.md
 
-[ -f Authors.md ] || {
+[ -f ../Authors.md ] || {
   mkauthors=1
   echo "# Authors" > ../Authors.md
   echo "" >> ../Authors.md
@@ -80,8 +80,11 @@ do
   }
 done
 
-while [ ${numcols} -lt 4 ]
-do
-  printf "| " >> ../Authors.md
-done
-printf "|\n" >> ../Authors.md
+[ "${mkauthors}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ../Authors.md
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../Authors.md
+}
