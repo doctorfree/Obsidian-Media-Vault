@@ -19,7 +19,7 @@ musician:
 
 By Shania Twain
 
-![](../../assets/cdcovers/Shania_Twain-Ka-Ching!_[cd1].png)
+![](../../assets/cdcovers/Shania_Twain-Ka-Ching.png)
 
 ## Album Data
 

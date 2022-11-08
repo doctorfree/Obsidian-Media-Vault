@@ -19,7 +19,7 @@ musician:
 
 By Shania Twain
 
-![](../../assets/cdcovers/Shania_Twain-Up!.png)
+![](../../assets/cdcovers/Shania_Twain-Up.png)
 
 ## Album Data
 

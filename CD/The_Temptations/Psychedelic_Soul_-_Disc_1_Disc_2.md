@@ -19,7 +19,7 @@ musician:
 
 By The Temptations
 
-![](../../assets/cdcovers/The_Temptations-Psychedelic_Soul_-_Disc_2.png)
+![](../../assets/cdcovers/The_Temptations-Psychedelic_Soul.png)
 
 ## Album Data
 

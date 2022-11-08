@@ -1,7 +1,7 @@
 ---
 catalog: 82808
 title: Manassas
-artist: "Stills, Stephen"
+artist: Stephen Stills
 label: Atlantic
 format: CD
 tracks: 21
@@ -17,7 +17,7 @@ musician:
 
 # Manassas
 
-By "Stills, Stephen"
+By Stephen Stills
 
 ![](../../assets/cdcovers/Stills__Stephen-Manassas.png)
 

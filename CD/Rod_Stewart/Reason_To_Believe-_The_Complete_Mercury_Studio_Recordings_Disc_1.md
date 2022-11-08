@@ -1,7 +1,7 @@
 ---
 catalog: 
 title: Reason To Believe: The Complete Mercury Studio Recordings (Disc 1)
-artist: "Stewart, Rod"
+artist: Rod Stewart
 label: Mercury
 format: CD
 tracks: 18
@@ -17,9 +17,9 @@ musician:
 
 # Reason To Believe: The Complete Mercury Studio Recordings (Disc 1)
 
-By "Stewart, Rod"
+By Rod Stewart
 
-![](../../assets/cdcovers/Stewart__Rod-Reason_To_Believe-_The_Complete_Mercury_Studio_Recordings.png)
+![](../../assets/cdcovers/Rod_Stewart-Reason_To_Believe.png)
 
 ## Album Data
 

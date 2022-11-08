@@ -9,7 +9,7 @@ released:
 discs: 1
 boxset: 
 length: 1:08:26
-genre: *Rock | 60's | British Invasion
+genre: Rock | 60's | British Invasion
 songwriter: 
 producer: 
 musician: 
@@ -18,6 +18,8 @@ musician:
 # The Anthology 1964 - 1971 (Disc 5)
 
 By The Kinks
+
+![](../../assets/cdcovers/The_Kinks-The_Anthology.png)
 
 ## Album Data
 

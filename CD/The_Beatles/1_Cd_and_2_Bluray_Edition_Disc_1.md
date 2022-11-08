@@ -19,6 +19,8 @@ musician:
 
 By The Beatles
 
+![](../../assets/cdcovers/Beatles-1.png)
+
 ## Album Data
 
 - Catalog #: 602547567819
