@@ -1,0 +1,131 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+mktable=
+overwrite=
+book_index="Books_by_Title"
+
+# As yet, minimal argument processing so -f must precede -t if both are provided
+[ "$1" == "-f" ] && {
+  overwrite=1
+  shift
+}
+
+[ "$1" == "-t" ] && {
+  mktable=1
+  numcols=1
+  book_index="Books_by_Author"
+  shift
+}
+
+[ "${overwrite}" ] && rm -f ../${book_index}.md
+
+if [ -f ../${book_index}.md ]
+then
+  echo "${book_index}.md already exists. Use '-f' to overwrite an existing index."
+  echo "Exiting without changes."
+  exit 1
+else
+  echo "# Books" > ../${book_index}.md
+  echo "" >> ../${book_index}.md
+  if [ "${mktable}" ]
+  then
+    echo "## Index of Books by Author" >> ../${book_index}.md
+  else
+    echo "## Index of Books by Title" >> ../${book_index}.md
+  fi
+  echo "" >> ../${book_index}.md
+  if [ "${mktable}" ]
+  then
+    echo "| **Author: Title** | **Author: Title** | **Author: Title** | **Author: Title** | **Author: Title** |" >> ../${book_index}.md
+    echo "|--|--|--|--|--|" >> ../${book_index}.md
+  else
+    heading="0-9"
+    echo "### ${heading}" >> ../${book_index}.md
+    echo "" >> ../${book_index}.md
+  fi
+
+  if [ "${mktable}" ]
+  then
+    for author in *
+    do
+      [ "${author}" == "*" ] && continue
+      [ -d "${author}" ] || continue
+      cd "${author}"
+      authorname=
+      for book in *.md
+      do
+        [ "${book}" == "*.md" ] && continue
+        [ "${book}" == "${author}.md" ] && continue
+        [ "${authorname}" ] || {
+          authorname=`grep "author:" ${book} | head -1 | \
+            awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+        }
+        title=`grep "title:" ${book} | awk -F ':' ' { print $2 } ' | \
+          sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| ${authorname}: [${title}](Books/${author}/${book}) |\n" >> ../../${book_index}.md
+          numcols=1
+        else
+          printf "| ${authorname}: [${title}](Books/${author}/${book}) " >> ../../${book_index}.md
+          numcols=$((numcols+1))
+        fi
+      done
+      cd ..
+    done
+
+    while [ ${numcols} -lt 5 ]
+    do
+      printf "| " >> ../${book_index}.md
+      numcols=$((numcols+1))
+    done
+    printf "|\n" >> ../${book_index}.md
+  else
+    ls -1 */*.md | sort -k 2 -t'/' > /tmp/books$$
+    while read book
+    do
+      author=`echo ${book} | awk -F '/' ' { print $1 } '`
+      filename=`echo ${book} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+      [ "${author}" == "${filename}" ] && continue
+      authorname=`grep "author:" ${book} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${authorname}" ] || {
+        echo "${book} needs an author: tag. Skipping."
+        continue
+      }
+      title=`grep "title:" ${book} | awk -F ':' ' { print $2 } ' | \
+        sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+      [ "${title}" ] || {
+        echo "${book} needs a title: tag. Skipping."
+        continue
+      }
+      first=${title:0:1}
+      if [ "${heading}" == "0-9" ]
+      then
+        [ "${first}" -eq "${first}" ] 2> /dev/null || {
+          heading=${first}
+          echo "" >> ../${book_index}.md
+          echo "### ${heading}" >> ../${book_index}.md
+          echo "" >> ../${book_index}.md
+        }
+      else
+        [ "${first}" == "${heading}" ] || {
+          heading=${first}
+          echo "" >> ../${book_index}.md
+          echo "### ${heading}" >> ../${book_index}.md
+          echo "" >> ../${book_index}.md
+        }
+      fi
+      echo "- [${title}](Books/${book}) by ${authorname}" >> ../${book_index}.md
+    done < <(cat /tmp/books$$)
+  fi
+fi

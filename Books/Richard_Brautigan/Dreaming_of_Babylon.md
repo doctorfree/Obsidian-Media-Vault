@@ -1,42 +1,41 @@
 ---
-bookid: 1056198
-title: در رؤیای بابل
+bookid: 1131032
+title: Dreaming of Babylon
 author: Richard Brautigan
-authors: پیام یزدانجو, دامون آذری, آرمان سلطان‌زاده
-isbn: 
-isbn13: 
+authors: 
+isbn: 0440021464
+isbn13: 9780440021469
 rating: 5
-avgrating: 3.79
-publisher: نشر چشمه
-binding: Paperback
-pages: 238
+avgrating: 3.97
+publisher: Delacorte Press/Seymour Lawrence (NY)
+binding: Hardcover
+pages: 236
 published: 1977
 shelves: literature, novels, brautigan, fiction
 shelf: read
 review: 
 ---
 
-# در رؤیای بابل
+# The Abortion
 
 By Richard Brautigan
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376739100l/1056198.jpg)
+![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568362022l/1131032._SX318_.jpg)
 
 ## Book data
 
-[GoodReads ID/URL](https://www.goodreads.com/book/show/1056198)
+[GoodReads ID/URL](https://www.goodreads.com/book/show/1131032)
 
-- ISBN: 
-- ISBN13: 
+- ISBN: 0440021464
+- ISBN13: 9780440021469
 - Rating: 5
-- Average Rating: 3.79
+- Average Rating: 3.97
 - Published: 1977
-- Publisher: نشر چشمه
-- Binding: Paperback
+- Publisher: Delacorte Press/Seymour Lawrence (NY)
+- Binding: Hardcover
 - Shelves: literature, novels, brautigan, fiction
 - Shelf: read
-- Pages: 238
-
+- Pages: 236
 
 ## See also
 
@@ -49,7 +48,6 @@ By Richard Brautigan
 - [Rommel Drives on Deep Into Egypt](Rommel_Drives_on_Deep_Into_Egypt.md)
 - [Sombrero Fallout](Sombrero_Fallout.md)
 - [So the Wind Won't Blow It All Away](So_the_Wind_Wont_Blow_It_All_Away.md)
-- [The Abortion](The_Abortion.md)
 - [The Edna Webster Collection of Undiscovered Writing](The_Edna_Webster_Collection_of_Undiscovered_Writing.md)
 - [The Hawkline Monster](The_Hawkline_Monster.md)
 - [The Pill vs. the Springhill Mine Disaster](The_Pill_vs_the_Springhill_Mine_Disaster.md)
