@@ -1,7 +1,7 @@
 ---
 catalog: 7243 8 27986 20
 title: American Highway Flower
-artist: dada
+artist: Dada
 label: I.R.S.
 format: CD
 tracks: 13
@@ -17,9 +17,9 @@ musician:
 
 # American Highway Flower
 
-By dada
+By Dada
 
-![](../../assets/cdcovers/dada-American_Highway_Flower.png)
+![](../../assets/cdcovers/Dada-American_Highway_Flower.png)
 
 ## Album Data
 

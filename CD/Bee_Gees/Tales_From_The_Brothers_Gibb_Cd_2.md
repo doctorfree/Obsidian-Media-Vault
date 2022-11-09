@@ -1,7 +1,7 @@
 ---
 catalog: 
 title: Tales From The Brothers Gibb Cd 2
-artist: The Bee Gees
+artist: Bee Gees
 label: Philips
 format: CD
 tracks: 17
@@ -17,7 +17,7 @@ musician:
 
 # Tales From The Brothers Gibb Cd 2
 
-By The Bee Gees
+By Bee Gees
 
 ![](../../assets/cdcovers/Bee_Gees-Tales_From_The_Brothers_Gibb.png)
 

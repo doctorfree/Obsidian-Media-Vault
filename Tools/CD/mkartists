@@ -1,0 +1,72 @@
+#!/bin/bash
+
+VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+TOP="${VAULT}/CD"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+mkartists=
+numcols=1
+overwrite=
+[ "$1" == "-f" ] && overwrite=1
+
+[ "${overwrite}" ] && rm -f ${VAULT}/CD_Artists.md
+
+if [ -f ${VAULT}/CD_Artists.md ]
+then
+  echo "${VAULT}/CD_Artists.md exists. Use -f option to overwrite. Exiting."
+  exit 1
+else
+  mkartists=1
+  echo "# CD Artists" > ${VAULT}/CD_Artists.md
+  echo "" >> ${VAULT}/CD_Artists.md
+  echo "## List of CD Artists in Vault" >> ${VAULT}/CD_Artists.md
+  echo "" >> ${VAULT}/CD_Artists.md
+  echo "| **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** |" >> ${VAULT}/CD_Artists.md
+  echo "|--|--|--|--|--|" >> ${VAULT}/CD_Artists.md
+fi
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  artistname=
+  for album in */*.md
+  do
+    [ "${album}" == "*/*.md" ] && continue
+    [ "${artistname}" ] || {
+      artistname=`grep "artist:" ${album} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    }
+    [ "${artistname}" ] || continue
+    title=`grep "title:" ${album} | awk -F ':' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+    [ "${title}" ] || continue
+  done
+  [ "${mkartists}" ] && {
+    [ -f "${artist}/${artist}.md" ] && {
+      if [ ${numcols} -gt 4 ]
+      then
+        printf "| [${artistname}](CD/${artist}/${artist}.md) |\n" >> ${VAULT}/CD_Artists.md
+        numcols=1
+      else
+        printf "| [${artistname}](CD/${artist}/${artist}.md) " >> ${VAULT}/CD_Artists.md
+        numcols=$((numcols+1))
+      fi
+    }
+  }
+done
+
+[ "${mkartists}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ${VAULT}/CD_Artists.md
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ${VAULT}/CD_Artists.md
+}

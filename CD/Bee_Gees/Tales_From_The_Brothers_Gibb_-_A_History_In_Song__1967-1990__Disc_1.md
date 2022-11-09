@@ -1,7 +1,7 @@
 ---
 catalog: 843 911-2
 title: Tales From The Brothers Gibb / A History In Song ( 1967-1990 ) (Disc 1)
-artist: The Bee Gees
+artist: Bee Gees
 label: Polydor
 format: CD
 tracks: 16
@@ -17,7 +17,7 @@ musician:
 
 # Tales From The Brothers Gibb / A History In Song ( 1967-1990 ) (Disc 1)
 
-By The Bee Gees
+By Bee Gees
 
 ![](../../assets/cdcovers/The_Bee_Gees-Tales_From_The_Brothers_Gibb_-_A_History_In_Song__1967-1990_.png)
 

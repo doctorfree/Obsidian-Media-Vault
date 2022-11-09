@@ -1,7 +1,7 @@
 ---
 catalog: 72438 34168 20
 title: El Subliminoso
-artist: dada
+artist: Dada
 label: I.R.S.
 format: CD
 tracks: 12
@@ -17,9 +17,9 @@ musician:
 
 # El Subliminoso
 
-By dada
+By Dada
 
-![](../../assets/cdcovers/dada-El_Subliminoso.png)
+![](../../assets/cdcovers/Dada-El_Subliminoso.png)
 
 ## Album Data
 
