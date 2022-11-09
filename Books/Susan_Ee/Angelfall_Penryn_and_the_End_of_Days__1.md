@@ -21,7 +21,7 @@ review:
 
 By Susan Ee
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346235303l/13623817.jpg)
+![](../../1346235303l/13623817.jpg)
 
 ## Book data
 

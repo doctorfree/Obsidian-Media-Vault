@@ -21,7 +21,7 @@ review:
 
 By Roger Levy
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507828284l/36398794.jpg)
+![](../../1507828284l/36398794.jpg)
 
 ## Book data
 

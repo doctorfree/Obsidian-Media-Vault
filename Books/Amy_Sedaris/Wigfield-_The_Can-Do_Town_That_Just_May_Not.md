@@ -21,7 +21,7 @@ review:
 
 By Amy Sedaris
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348795329l/564182.jpg)
+![](../../1348795329l/564182.jpg)
 
 ## Book data
 

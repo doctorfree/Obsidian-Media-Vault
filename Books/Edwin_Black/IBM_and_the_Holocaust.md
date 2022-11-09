@@ -21,7 +21,7 @@ review:
 
 By Edwin Black
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170356670l/48838._SY475_.jpg)
+![](../../1170356670l/48838._SY475_.jpg)
 
 ## Book data
 

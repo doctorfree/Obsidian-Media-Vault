@@ -21,7 +21,7 @@ review: Perhaps the most important book ever written.
 
 By Colin Wilson
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1183487922l/1425317.jpg)
+![](../../1183487922l/1425317.jpg)
 
 ## Book data
 

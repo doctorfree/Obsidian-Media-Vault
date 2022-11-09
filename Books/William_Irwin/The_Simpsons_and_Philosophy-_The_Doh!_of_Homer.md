@@ -21,7 +21,7 @@ review:
 
 By William Irwin
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328811688l/31813.jpg)
+![](../../1328811688l/31813.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Anonymous
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406503668l/534289.jpg)
+![](../../1406503668l/534289.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Michael Adams
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340737779l/140456.jpg)
+![](../../1340737779l/140456.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Richard Brautigan
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166504982l/12574.jpg)
+![](../../1166504982l/12574.jpg)
 
 ## Book data
 

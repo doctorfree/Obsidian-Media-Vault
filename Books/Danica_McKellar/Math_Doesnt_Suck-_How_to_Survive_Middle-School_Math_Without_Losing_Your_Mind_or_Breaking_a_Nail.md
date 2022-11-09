@@ -21,7 +21,7 @@ review:
 
 By Danica McKellar
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442777171l/1271823._SY475_.jpg)
+![](../../1442777171l/1271823._SY475_.jpg)
 
 ## Book data
 

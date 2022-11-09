@@ -21,7 +21,7 @@ review:
 
 By Roald Dahl
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642047762l/6330.jpg)
+![](../../1642047762l/6330.jpg)
 
 ## Book data
 

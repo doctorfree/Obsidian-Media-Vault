@@ -21,7 +21,7 @@ review: By far the best book on Brautigan I have read. Most reviewers just never
 
 By Keith Abbott
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399236735l/63916.jpg)
+![](../../1399236735l/63916.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Sun Tzu
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328308024l/6323011.jpg)
+![](../../1328308024l/6323011.jpg)
 
 ## Book data
 

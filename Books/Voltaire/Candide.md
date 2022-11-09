@@ -21,7 +21,7 @@ review:
 
 By Voltaire
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325084726l/13329016.jpg)
+![](../../1325084726l/13329016.jpg)
 
 ## Book data
 

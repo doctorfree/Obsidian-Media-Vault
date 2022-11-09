@@ -21,7 +21,7 @@ review:
 
 By Richard Metzger
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403206437l/22446.jpg)
+![](../../1403206437l/22446.jpg)
 
 ## Book data
 

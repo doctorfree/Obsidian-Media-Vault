@@ -21,7 +21,7 @@ review: Is Flannery O'Connor the greatest short story writer of our time ? Perha
 
 By Flannery O'Connor
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557999886l/284996._SY475_.jpg)
+![](../../1557999886l/284996._SY475_.jpg)
 
 ## Book data
 

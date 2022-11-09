@@ -21,7 +21,7 @@ review: “Children Of Time” by Adrian Tchaikovsky, recipient of the Arthur C.
 
 By Adrian Tchaikovsky
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431014197l/25499718.jpg)
+![](../../1431014197l/25499718.jpg)
 
 ## Book data
 

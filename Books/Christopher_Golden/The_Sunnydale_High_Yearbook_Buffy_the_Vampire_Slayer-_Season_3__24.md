@@ -21,7 +21,7 @@ review:
 
 By Christopher Golden
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388221981l/293364.jpg)
+![](../../1388221981l/293364.jpg)
 
 ## Book data
 

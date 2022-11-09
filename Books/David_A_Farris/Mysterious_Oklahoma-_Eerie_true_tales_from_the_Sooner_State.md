@@ -21,7 +21,7 @@ review:
 
 By David A. Farris
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387664591l/3364099.jpg)
+![](../../1387664591l/3364099.jpg)
 
 ## Book data
 

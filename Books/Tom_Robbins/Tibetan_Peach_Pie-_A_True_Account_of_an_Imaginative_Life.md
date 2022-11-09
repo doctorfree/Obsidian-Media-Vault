@@ -21,7 +21,7 @@ review: I finally got around to reading the Tom Robbins memoir "Tibetan Peach Pi
 
 By Tom Robbins
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394730060l/18498559.jpg)
+![](../../1394730060l/18498559.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Stephen Jones
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454067l/438098.jpg)
+![](../../1347454067l/438098.jpg)
 
 ## Book data
 

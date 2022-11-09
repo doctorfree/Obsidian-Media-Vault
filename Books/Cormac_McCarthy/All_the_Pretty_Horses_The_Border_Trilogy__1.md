@@ -21,7 +21,7 @@ review:
 
 By Cormac McCarthy
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538659953l/469571._SY475_.jpg)
+![](../../1538659953l/469571._SY475_.jpg)
 
 ## Book data
 

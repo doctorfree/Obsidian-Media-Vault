@@ -21,7 +21,7 @@ review:
 
 By Erwin Schrödinger
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337531762l/13832134.jpg)
+![](../../1337531762l/13832134.jpg)
 
 ## Book data
 

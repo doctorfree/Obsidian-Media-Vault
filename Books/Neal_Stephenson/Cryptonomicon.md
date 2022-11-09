@@ -21,7 +21,7 @@ review:
 
 By Neal Stephenson
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327931476l/816.jpg)
+![](../../1327931476l/816.jpg)
 
 ## Book data
 

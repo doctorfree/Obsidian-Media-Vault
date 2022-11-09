@@ -21,7 +21,7 @@ review:
 
 By Satchidananda
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352793612l/649512.jpg)
+![](../../1352793612l/649512.jpg)
 
 ## Book data
 

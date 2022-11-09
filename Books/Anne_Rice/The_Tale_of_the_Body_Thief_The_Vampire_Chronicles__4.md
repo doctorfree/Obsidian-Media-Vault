@@ -21,7 +21,7 @@ review:
 
 By Anne Rice
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556274035l/31336.jpg)
+![](../../1556274035l/31336.jpg)
 
 ## Book data
 

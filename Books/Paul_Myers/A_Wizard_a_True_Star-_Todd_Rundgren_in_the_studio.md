@@ -21,7 +21,7 @@ review: Really well researched details of Todd's work in the recording studio pr
 
 By Paul Myers
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328693575l/8695857.jpg)
+![](../../1328693575l/8695857.jpg)
 
 ## Book data
 

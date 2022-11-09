@@ -21,7 +21,7 @@ review:
 
 By Mike Chinn
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348758697l/160446.jpg)
+![](../../1348758697l/160446.jpg)
 
 ## Book data
 

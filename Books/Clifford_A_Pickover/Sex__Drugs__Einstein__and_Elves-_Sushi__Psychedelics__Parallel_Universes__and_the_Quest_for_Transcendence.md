@@ -21,7 +21,7 @@ review:
 
 By Clifford A. Pickover
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347685068l/147859.jpg)
+![](../../1347685068l/147859.jpg)
 
 ## Book data
 

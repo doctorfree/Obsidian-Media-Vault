@@ -21,7 +21,7 @@ review:
 
 By Fyodor Dostoevsky
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126l/4934.jpg)
+![](../../1427728126l/4934.jpg)
 
 ## Book data
 

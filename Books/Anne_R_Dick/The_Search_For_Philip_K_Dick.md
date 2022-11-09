@@ -21,7 +21,7 @@ review: Maybe this book is TMI but for a Phil Dick fanatic like myself it is jui
 
 By Anne R. Dick
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327864748l/10398865.jpg)
+![](../../1327864748l/10398865.jpg)
 
 ## Book data
 

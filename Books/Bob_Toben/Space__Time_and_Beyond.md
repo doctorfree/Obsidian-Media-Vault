@@ -21,7 +21,7 @@ review:
 
 By Bob Toben
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245453176l/691586.jpg)
+![](../../1245453176l/691586.jpg)
 
 ## Book data
 

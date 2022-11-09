@@ -21,7 +21,7 @@ review:
 
 By Yogi Berra
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387703014l/808152.jpg)
+![](../../assets/bookcovers/1387703014l/808152.jpg)
 
 ## Book data
 

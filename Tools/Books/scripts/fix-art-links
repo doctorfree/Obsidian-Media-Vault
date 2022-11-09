@@ -26,19 +26,19 @@ do
       echo "${book}: Pattern not found. Skipping." | tee -a /tmp/notfound
       continue
     }
-    author=`echo ${book} | awk -F '/' ' { print $1 } '`
-    rbook=`echo ${book} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+    imgurl=`grep "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/" ${book}`
+    imgpath=`echo ${imgurl} | awk -F '/' ' { print $8 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    imgfile=`echo ${imgurl} | awk -F '/' ' { print $9 } ' | awk -F ')' ' { print $1 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+#   echo "imgpath = ${imgpath}"
+#   echo "imgfile = ${imgfile}"
     # Replace book cover art link for this book
-    if [ -f "../assets/bookcovers/${author}-${rbook}.png" ]
+    if [ -f ../assets/bookcovers/${imgpath}/${imgfile} ]
     then
-      echo "Inserting cover art link for ${author} - ${rbook}"
-      echo "![](../../assets/bookcovers/${author}-${rbook}.png)" > /tmp/__insert__
-      echo "" >> /tmp/__insert__
-      sed '/## Album Data/e cat /tmp/__insert__' ${book} > /tmp/foo$$
-      cp /tmp/foo$$ ${book}
-      rm -f /tmp/foo$$ /tmp/__insert__
+      cat ${book} | sed -e "s%https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books%../..%" > /tmp/book$$
+      cp /tmp/book$$ ${book}
+      rm -f /tmp/book$$
     else
-      echo "Cover art does not exist for ${author} - ${rbook}" | tee -a /tmp/missingart
+      echo "Cover art does not exist for ${imgpath}/${imgfile}" | tee -a /tmp/missingart
     fi
   }
 done

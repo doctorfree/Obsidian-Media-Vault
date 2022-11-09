@@ -21,7 +21,7 @@ review:
 
 By Aleister Crowley
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328314807l/6455596.jpg)
+![](../../1328314807l/6455596.jpg)
 
 ## Book data
 

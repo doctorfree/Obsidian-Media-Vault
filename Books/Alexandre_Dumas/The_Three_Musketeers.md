@@ -21,7 +21,7 @@ review:
 
 By Alexandre Dumas
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328304469l/6202772.jpg)
+![](../../1328304469l/6202772.jpg)
 
 ## Book data
 

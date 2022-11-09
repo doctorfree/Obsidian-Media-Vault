@@ -21,7 +21,7 @@ review:
 
 By Lewis Henry Berens
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401733516l/22393419.jpg)
+![](../../1401733516l/22393419.jpg)
 
 ## Book data
 

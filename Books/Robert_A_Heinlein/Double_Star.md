@@ -21,7 +21,7 @@ review:
 
 By Robert A. Heinlein
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402626036l/22462852.jpg)
+![](../../1402626036l/22462852.jpg)
 
 ## Book data
 

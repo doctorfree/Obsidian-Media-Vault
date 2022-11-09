@@ -21,7 +21,7 @@ review:
 
 By Carl Hiaasen
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359148688l/16071701.jpg)
+![](../../1359148688l/16071701.jpg)
 
 ## Book data
 

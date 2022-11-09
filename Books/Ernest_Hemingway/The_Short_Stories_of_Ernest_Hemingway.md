@@ -21,7 +21,7 @@ review:
 
 By Ernest Hemingway
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446311614l/27400601._SX318_.jpg)
+![](../../1446311614l/27400601._SX318_.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Robert Anton Wilson
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388900821l/361838.jpg)
+![](../../1388900821l/361838.jpg)
 
 ## Book data
 

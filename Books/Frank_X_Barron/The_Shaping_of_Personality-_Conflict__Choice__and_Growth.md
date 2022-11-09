@@ -21,7 +21,7 @@ review:
 
 By Frank X. Barron
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1244925434l/4369088.jpg)
+![](../../1244925434l/4369088.jpg)
 
 ## Book data
 

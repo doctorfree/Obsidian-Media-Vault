@@ -21,7 +21,7 @@ review:
 
 By Lewis Thomas
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526767061l/434412.jpg)
+![](../../1526767061l/434412.jpg)
 
 ## Book data
 

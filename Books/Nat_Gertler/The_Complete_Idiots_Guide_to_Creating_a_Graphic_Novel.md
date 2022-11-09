@@ -21,7 +21,7 @@ review:
 
 By Nat Gertler
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309285850l/151533.jpg)
+![](../../1309285850l/151533.jpg)
 
 ## Book data
 

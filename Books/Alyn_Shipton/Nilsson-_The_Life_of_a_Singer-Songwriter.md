@@ -21,7 +21,7 @@ review:
 
 By Alyn Shipton
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357704698l/17070423.jpg)
+![](../../1357704698l/17070423.jpg)
 
 ## Book data
 

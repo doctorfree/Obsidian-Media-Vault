@@ -21,7 +21,7 @@ review: It's as good as everybody says it is. That is, "Snow Crash" is one of th
 
 By Neal Stephenson
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493892300l/35061344._SY475_.jpg)
+![](../../1493892300l/35061344._SY475_.jpg)
 
 ## Book data
 

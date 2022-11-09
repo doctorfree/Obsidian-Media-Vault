@@ -21,7 +21,7 @@ review:
 
 By Colin Wilson
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391295024l/55470.jpg)
+![](../../1391295024l/55470.jpg)
 
 ## Book data
 

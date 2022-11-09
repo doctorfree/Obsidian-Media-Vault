@@ -21,7 +21,7 @@ review:
 
 By Grant Morrison
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388207107l/2325421.jpg)
+![](../../1388207107l/2325421.jpg)
 
 ## Book data
 

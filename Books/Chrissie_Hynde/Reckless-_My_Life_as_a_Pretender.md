@@ -21,7 +21,7 @@ review:
 
 By Chrissie Hynde
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435597696l/25147580.jpg)
+![](../../1435597696l/25147580.jpg)
 
 ## Book data
 

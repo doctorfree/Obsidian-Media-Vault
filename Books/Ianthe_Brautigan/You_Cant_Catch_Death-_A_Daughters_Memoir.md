@@ -21,7 +21,7 @@ review:
 
 By Ianthe Brautigan
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312023740l/851879.jpg)
+![](../../1312023740l/851879.jpg)
 
 ## Book data
 

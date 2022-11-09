@@ -21,7 +21,7 @@ review:
 
 By Ted Williams
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924399l/205658.jpg)
+![](../../1386924399l/205658.jpg)
 
 ## Book data
 

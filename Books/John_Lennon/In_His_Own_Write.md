@@ -21,7 +21,7 @@ review:
 
 By John Lennon
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327956873l/95044.jpg)
+![](../../1327956873l/95044.jpg)
 
 ## Book data
 

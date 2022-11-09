@@ -21,7 +21,7 @@ review:
 
 By Ralph H. Abraham
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245089192l/6100757.jpg)
+![](../../1245089192l/6100757.jpg)
 
 ## Book data
 

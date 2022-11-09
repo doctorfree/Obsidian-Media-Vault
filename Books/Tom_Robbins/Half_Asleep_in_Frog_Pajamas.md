@@ -21,7 +21,7 @@ review:
 
 By Tom Robbins
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347326626l/9567.jpg)
+![](../../1347326626l/9567.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Oscar Wilde
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245455046l/6558232.jpg)
+![](../../1245455046l/6558232.jpg)
 
 ## Book data
 

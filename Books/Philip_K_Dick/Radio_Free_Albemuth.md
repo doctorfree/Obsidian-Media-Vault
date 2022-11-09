@@ -21,7 +21,7 @@ review:
 
 By Philip K. Dick
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355312826l/226475.jpg)
+![](../../1355312826l/226475.jpg)
 
 ## Book data
 

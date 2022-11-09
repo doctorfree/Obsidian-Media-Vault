@@ -21,7 +21,7 @@ review:
 
 By Jonathan Swift
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328106571l/6192934.jpg)
+![](../../1328106571l/6192934.jpg)
 
 ## Book data
 

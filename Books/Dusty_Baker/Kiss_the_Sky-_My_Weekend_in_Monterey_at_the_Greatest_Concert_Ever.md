@@ -21,7 +21,7 @@ review:
 
 By Dusty Baker
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442968126l/24998977._SX318_.jpg)
+![](../../1442968126l/24998977._SX318_.jpg)
 
 ## Book data
 

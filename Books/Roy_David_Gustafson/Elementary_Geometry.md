@@ -21,7 +21,7 @@ review:
 
 By Roy David Gustafson
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388640715l/383920.jpg)
+![](../../1388640715l/383920.jpg)
 
 ## Book data
 

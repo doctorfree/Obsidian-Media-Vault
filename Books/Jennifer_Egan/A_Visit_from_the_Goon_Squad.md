@@ -21,7 +21,7 @@ review: A different kind of novel. Short stories, perhaps, but still a novel. Po
 
 By Jennifer Egan
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327858274l/11713909.jpg)
+![](../../1327858274l/11713909.jpg)
 
 ## Book data
 

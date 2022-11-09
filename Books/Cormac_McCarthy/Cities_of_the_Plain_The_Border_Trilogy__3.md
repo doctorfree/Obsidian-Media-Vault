@@ -21,7 +21,7 @@ review: Everytime I finish a Cormac McCarthy novel I ask myself why haven't I re
 
 By Cormac McCarthy
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1581254344l/40470.jpg)
+![](../../1581254344l/40470.jpg)
 
 ## Book data
 

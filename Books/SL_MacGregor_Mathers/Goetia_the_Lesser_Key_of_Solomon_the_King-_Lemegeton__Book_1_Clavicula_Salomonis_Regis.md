@@ -21,7 +21,7 @@ review:
 
 By S.L. MacGregor Mathers
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348847343l/433322.jpg)
+![](../../1348847343l/433322.jpg)
 
 ## Book data
 

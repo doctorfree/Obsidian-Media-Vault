@@ -21,7 +21,7 @@ review:
 
 By Margaret Atwood
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435552l/18811245.jpg)
+![](../../1451435552l/18811245.jpg)
 
 ## Book data
 

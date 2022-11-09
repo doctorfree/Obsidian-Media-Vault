@@ -21,7 +21,7 @@ review:
 
 By Emmanuel Carrère
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312053865l/22593.jpg)
+![](../../1312053865l/22593.jpg)
 
 ## Book data
 

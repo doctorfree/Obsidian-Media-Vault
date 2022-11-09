@@ -21,7 +21,7 @@ review:
 
 By Bathroom Readers' Institute
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390335646l/8642149.jpg)
+![](../../1390335646l/8642149.jpg)
 
 ## Book data
 

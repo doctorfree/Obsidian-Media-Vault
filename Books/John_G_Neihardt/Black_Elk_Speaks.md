@@ -21,7 +21,7 @@ review:
 
 By John G. Neihardt
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348343394l/3556999.jpg)
+![](../../1348343394l/3556999.jpg)
 
 ## Book data
 

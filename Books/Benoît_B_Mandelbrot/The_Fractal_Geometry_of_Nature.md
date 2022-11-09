@@ -21,7 +21,7 @@ review:
 
 By Benoît B. Mandelbrot
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315596427l/558059.jpg)
+![](../../1315596427l/558059.jpg)
 
 ## Book data
 

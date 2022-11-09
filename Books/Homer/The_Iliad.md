@@ -21,7 +21,7 @@ review:
 
 By Homer
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328054035l/6301084.jpg)
+![](../../1328054035l/6301084.jpg)
 
 ## Book data
 

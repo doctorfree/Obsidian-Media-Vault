@@ -21,7 +21,7 @@ review:
 
 By Paul Williams
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348823277l/839056.jpg)
+![](../../1348823277l/839056.jpg)
 
 ## Book data
 

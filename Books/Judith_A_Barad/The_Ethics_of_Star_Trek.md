@@ -21,7 +21,7 @@ review:
 
 By Judith A. Barad
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312063106l/422906.jpg)
+![](../../1312063106l/422906.jpg)
 
 ## Book data
 

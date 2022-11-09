@@ -21,7 +21,7 @@ review:
 
 By Friedrich Nietzsche
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328315090l/6461180.jpg)
+![](../../1328315090l/6461180.jpg)
 
 ## Book data
 

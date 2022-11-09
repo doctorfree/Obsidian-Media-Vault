@@ -21,7 +21,7 @@ review:
 
 By Liu Cixin
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872.jpg)
+![](../../1415428227l/20518872.jpg)
 
 ## Book data
 

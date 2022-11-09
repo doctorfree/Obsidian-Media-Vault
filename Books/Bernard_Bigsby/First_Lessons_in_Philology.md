@@ -21,7 +21,7 @@ review:
 
 By Bernard Bigsby
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245453859l/6558201.jpg)
+![](../../1245453859l/6558201.jpg)
 
 ## Book data
 
