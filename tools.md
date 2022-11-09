@@ -2,56 +2,39 @@
 
 Several custom scripts and utilities were used to automate the generation of markdown files in the Obsidian Media Vault. For example, the source data used in the generation of the Books sub-vault consisted of a CSV export of a Goodreads library along with XML format RSS feeds of all the bookshelves in that Goodreads library. The CSV and XML were processed using tools like [csvkit](https://csvkit.readthedocs.io/en/latest), `grep`, `sed`, `awk`, and other system utilities.
 
-## Books
+## Overview
 
-The script used to generate the Markdown from Goodreads shelf XML RSS feeds:
+If your media libraries are cataloged in an online service such as [Discogs](https://discogs.com) or [Goodreads](https://goodreads.com) or in a media management system such as [CLZ Music](https://connect.collectorz.com) or [Invelos DVD Profiler](http://www.invelos.com/) then it is usually possible to export your online library to a file format that can be converted to markdown. Usually there is an option to export the data to CSV format and that is typically what I used although in some cases all that is available is XML format. Either will work.
 
-```shell
-#!/bin/bash
+**[Note:]** Invelos DVD Profiler only supports data export on Windows. Each service has its own quirks and limitations. The above examples are not recommendations, they are just what I found I had to deal with in exporting my libraries. I would not recommend any of Invelos' products as they are not free and they are not supported well on Linux or Mac.
 
-# Enter urls to your goodreads rss feed below.
-# You can find it by navigating to one of your goodreads shelves and
-# clicking the "RSS" button at the bottom of the page.
+The first step is gathering data sources. That step, for me, was exporting data from various services and applications to CSV and XML format files that I could manipulate locally.
 
-baseurl="https://www.goodreads.com/review/list_rss/2401015?key=S32et3Fz0RHR5EvFXCAxe6F3vqx_GasSQVSDLnEQMQ_uO2kT&shelf="
+## Requirements
 
-shelves="anthologies biography bob brautigan conklin essays farmer fiction \
-         huxley leary literature mathematics mcmurtry murakami nonfiction \
-         novels p-k-dick palahniuk philosophy poetry reference robbins science \
-         science-fiction short-stories steinbeck vonnegut currently-reading \
-         read to-read"
+Most of the download, conversion, creation, and curation process was performed on Linux using the standard utilities included with every Linux distribution. It is probably also possible to use these same tools on Mac OS as its underlying operating system and utilities are BSD. I doubt this will work on Windows but maybe with WSL. Use Linux.
 
-# Enter the path to your Vault or XML download folder
-vaultpath="/home/ronnie/Documents/Obsidian/Books/Tools/data/xml"
+In addition to the standard Linux utilities, some of the conversion tools require either [Pandoc](https://pandoc.org) or [Sqlite](https://www.sqlite.org/index.html).
 
-for shelf in ${shelves}
-do
-  echo "Processing ${shelf}"
-  url="${baseurl}${shelf}"
-  # Get the last componenet of the url
-  this_shelf=`echo ${url} | awk -F '=' ' { print $NF } '`
-  # This grabs the data from the rss feed and formats it
-  IFS=$'\n' feed=$(curl --silent "$url" | grep -E '(book_large_image_url>|book_id>)' | \
-  sed -e 's/<!\[CDATA\[//' -e 's/\]\]>//' \
-    -e "s/Ron.s bookshelf: ${this_shelf}//" \
-    -e 's/<book_large_image_url>//' -e 's/<\/book_large_image_url>/ | /' \
-    -e 's/<book_id>//' -e 's/<\/book_id>/ | /' \
-    -e 's/^[ \t]*//' -e 's/[ \t]*$//' | \
-    tail +3 | \
-    fmt | paste -s -d' \n'
-  )
+The CSV and XML were processed using [csvkit](https://csvkit.readthedocs.io/en/latest).
 
-  # Save the formatted rss feed data
-  echo "${feed}" > ${vaultpath}/${this_shelf}.md
+If your Linux distribution does not include `curl` then that will also need to be installed.
 
-  # Save the unformatted rss feed data
-  curl --silent "$url" > ${vaultpath}/${this_shelf}.xml
-done
-```
+## Books library
 
-The script used to generate all the individual book's Markdown:
+My books are catalogued in Goodreads. To export a Goodreads book library, login to Goodreads and click `My Books`. Scroll down and click `Import and export` on the left. Click the `Export` button and wait for Goodreads to generate a link to your library export CSV file. Download that file by right clicking the generated link and saving to local disk.
+
+I wrote the following scripts to generate Markdown format files for each of the books in the downloaded CSV format Goodreads export, download the Goodreads RSS feed XML for specified bookshelves, and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
+
+<details>
+  <p>
+
+Script to generate Markdown format files for each of the books in the downloaded CSV format Goodreads export.
+
+### [Tools/Books/csv2md](Tools/Books/csv2md.md) (click to collapse/expand)
 
 ```shell
+
 #!/bin/bash
 #
 # Produce markdown table entries with csvcut
@@ -72,7 +55,6 @@ update=
 
 [ -d ${BOOKS} ] || mkdir ${BOOKS}
 
-# goodreads_library_export.csv is my exported Goodreads library
 cat data/goodreads_library_export.csv | while read line
 do
   if [ "${first}" ]
@@ -145,7 +127,6 @@ do
     echo "" >> ${BOOKS}/${authordir}/${filename}.md
     echo "By ${author}" >> ${BOOKS}/${authordir}/${filename}.md
     echo "" >> ${BOOKS}/${authordir}/${filename}.md
-    # book_covers.md was generated from the XML of all my shelves
     coverurl=`grep "|${bookid}|" data/book_covers.md | tail -1 | awk -F '|' ' { print $3 } '`
     [ "${coverurl}" ] && {
       echo "![](${coverurl})" >> ${BOOKS}/${authordir}/${filename}.md
@@ -176,7 +157,383 @@ do
     first=1
   fi
 done
+
 ```
+
+  </p>
+</details>
+
+<details>
+  <p>
+
+Unfortunately, the Goodreads CSV export does not include the book cover images. If you want the links to the book covers for your library in Goodreads they are available in the RSS feeds for the Goodread shelves you have created. In Goodreads, go to a shelf (`My Books` then click on a shelf listed under `Bookshelves`) and at the bottom right corner there should be an RSS feed icon. Right click the RSS icon and copy the link. The RSS feed link should look something like `https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=anthologies` where `XXXXXXX` and `YYYblablablaYYY` are private codes representing your Goodreads ID and the shelf key. Take note of the last component of the RSS feed URL, the part in the example above with `&shelf=anthologies`. The `anthologies` part is the name of the shelf, in your case it will be something else, whatever the name of the shelf you selected.
+
+I wrote a script to make it easier to download the bookshelves RSS feed XML data. All you need to use this script is the first part of any RSS feed URL in your Goodreads bookshelves. In the example above that would be `https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=`. That is, everything but the shelf name.
+
+Replace the `baseurl` URL in the following script with your Goodreads base URL from an RSS feed URL of one of your shelves. Also replace the list of Goodreads shelves below in the variable `shelves` with a list of the shelves in your Goodreads library that you wish to export to XML.
+
+After configuring the script with your private base Goodreads RSS feed URL and the list of your Goodreads bookshelves, simply run the script and it will download all the XML exports for the listed Goodreads shelves. These contain the links to the book cover images.
+
+**[Note:]** Goodreads RSS feeds only include the first 100 entries of a shelf. I had to create new shelves and split any existing Goodreads shelves over 100 entries in size up into multiple shelves. What a pain. So, everything cannot be automated because services are lame.
+
+The script used to generate the Markdown from Goodreads shelf XML RSS feeds:
+
+### [Tools/Books/get_goodreads_xml.sh](Tools/Books/get_goodreads_xml.sh.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+
+# Enter urls to your goodreads rss feed below.
+# You can find it by navigating to one of your goodreads shelves and
+# clicking the "RSS" button at the bottom of the page.
+
+baseurl="https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf="
+
+shelves="anthologies biography bob brautigan conklin essays farmer fiction \
+         huxley leary literature mathematics mcmurtry murakami nonfiction \
+         novels p-k-dick palahniuk philosophy poetry reference robbins science \
+         science-fiction short-stories steinbeck vonnegut currently-reading \
+         read to-read"
+
+# Enter the path to your Vault or XML download folder
+vaultpath="/home/ronnie/Documents/Obsidian/Books/Tools/data/xml"
+
+for shelf in ${shelves}
+do
+  echo "Processing ${shelf}"
+  url="${baseurl}${shelf}"
+  # Get the last componenet of the url
+  this_shelf=`echo ${url} | awk -F '=' ' { print $NF } '`
+  # This grabs the data from the rss feed and formats it
+  IFS=$'\n' feed=$(curl --silent "$url" | grep -E '(book_large_image_url>|book_id>)' | \
+  sed -e 's/<!\[CDATA\[//' -e 's/\]\]>//' \
+    -e "s/Ron.s bookshelf: ${this_shelf}//" \
+    -e 's/<book_large_image_url>//' -e 's/<\/book_large_image_url>/ | /' \
+    -e 's/<book_id>//' -e 's/<\/book_id>/ | /' \
+    -e 's/^[ \t]*//' -e 's/[ \t]*$//' | \
+    tail +3 | \
+    fmt | paste -s -d' \n'
+  )
+
+  # Save the formatted rss feed data
+  echo "${feed}" > ${vaultpath}/${this_shelf}.md
+
+  # Save the unformatted rss feed data
+  curl --silent "$url" > ${vaultpath}/${this_shelf}.xml
+done
+
+```
+
+  </p>
+</details>
+
+<details>
+  <p>
+
+I wrote the following script to generate various indexes into the Markdown format files created in the Obsidian vault with the previous scripts. This script can generate lists of books sorted by author or title in list or table format.
+
+### [Tools/Books/mkbooks](Tools/Books/mkbooks.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+
+VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+TOP="${VAULT}/Books"
+
+usage() {
+  printf "\nUsage: mkbooks [-A] [-T] [-f] [-p /path/to/Books] [-t] [-u]"
+  printf "\nWhere:"
+  printf "\n\t-A indicates sort by Author"
+  printf "\n\t-T indicates sort by Title (default)"
+  printf "\n\t-f indicates overwrite any pre-existing Books index markdown"
+  printf "\n\t-p /path/to/Books specifies the full path to the Books folder"
+  printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books)"
+  printf "\n\t-t indicates create a table rather than listing"
+  printf "\n\t-u displays this usage message and exits\n\n"
+  exit 1
+}
+
+mktable=
+overwrite=
+sortorder="title"
+
+while getopts "ATfp:tu" flag; do
+    case $flag in
+        A)
+            sortorder="author"
+            ;;
+        T)
+            sortorder="title"
+            ;;
+        f)
+            overwrite=1
+            ;;
+        p)
+            TOP="${OPTARG}"
+            ;;
+        t)
+            mktable=1
+            numcols=1
+            ;;
+        u)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+if [ "${mktable}" ]
+then
+  if [ "${sortorder}" == "title" ]
+  then
+    book_index="Table_of_Books_by_Title"
+  else
+    book_index="Table_of_Books_by_Author"
+  fi
+else
+  if [ "${sortorder}" == "title" ]
+  then
+    book_index="Books_by_Title"
+  else
+    book_index="Books_by_Author"
+  fi
+fi
+
+cd "${TOP}"
+
+[ "${overwrite}" ] && rm -f ${VAULT}/${book_index}.md
+
+if [ -f ${VAULT}/${book_index}.md ]
+then
+  echo "${book_index}.md already exists. Use '-f' to overwrite an existing index."
+  echo "Exiting without changes."
+  exit 1
+else
+  echo "# Books" > ${VAULT}/${book_index}.md
+  echo "" >> ${VAULT}/${book_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Table of Books by Title" >> ${VAULT}/${book_index}.md
+    else
+      echo "## Table of Books by Author" >> ${VAULT}/${book_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Index of Books by Title" >> ${VAULT}/${book_index}.md
+    else
+      echo "## Index of Books by Author" >> ${VAULT}/${book_index}.md
+    fi
+    echo "" >> ${VAULT}/${book_index}.md
+    echo "| **[A](#a)** | **[B](#b)** | **[C](#c)** | **[D](#d)** | **[E](#e)** | **[F](#f)** | **[G](#g)** | **[H](#h)** | **[I](#i)** | **[J](#j)** | **[K](#k)** | **[L](#l)** | **[M](#m)** | **[N](#n)** | **[O](#o)** | **[P](#p)** | **[Q](#q)** | **[R](#r)** | **[S](#s)** | **[T](#t)** | **[U](#u)** | **[V](#v)** | **[W](#w)** | **[X](#x)** | **[Y](#y)** | **[Z](#z)** |" >> ${VAULT}/${book_index}.md
+    echo "|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" >> ${VAULT}/${book_index}.md
+    echo "" >> ${VAULT}/${book_index}.md
+  fi
+  echo "" >> ${VAULT}/${book_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "| **Title by Author** | **Title by Author** | **Title by Author** | **Title by Author** | **Title by Author** |" >> ${VAULT}/${book_index}.md
+    else
+      echo "| **Author: Title** | **Author: Title** | **Author: Title** | **Author: Title** | **Author: Title** |" >> ${VAULT}/${book_index}.md
+    fi
+    echo "|--|--|--|--|--|" >> ${VAULT}/${book_index}.md
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      heading="0-9"
+    else
+      heading="A"
+      author_heading=
+    fi
+    echo "### ${heading}" >> ${VAULT}/${book_index}.md
+    echo "" >> ${VAULT}/${book_index}.md
+  fi
+
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/books$$
+      while read book
+      do
+        author=`echo ${book} | awk -F '/' ' { print $1 } '`
+        filename=`echo ${book} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+        [ "${author}" == "${filename}" ] && continue
+        authorname=`grep "author:" ${book} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+        [ "${authorname}" ] || {
+          echo "${book} needs an author: tag. Skipping."
+          continue
+        }
+        title=`grep "title:" ${book} | awk -F ':' ' { print $2 } ' | \
+          sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+        [ "${title}" ] || {
+          echo "${book} needs a title: tag. Skipping."
+          continue
+        }
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${title}](Books/${book}) by ${authorname} |\n" >> ${VAULT}/${book_index}.md
+          numcols=1
+        else
+          printf "| [${title}](Books/${book}) by ${authorname} " >> ${VAULT}/${book_index}.md
+          numcols=$((numcols+1))
+        fi
+      done < <(cat /tmp/books$$)
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${book_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${book_index}.md
+      rm -f /tmp/books$$
+    else
+      for author in *
+      do
+        [ "${author}" == "*" ] && continue
+        [ -d "${author}" ] || continue
+        cd "${author}"
+        authorname=
+        for book in *.md
+        do
+          [ "${book}" == "*.md" ] && continue
+          [ "${book}" == "${author}.md" ] && continue
+          [ "${authorname}" ] || {
+            authorname=`grep "author:" ${book} | head -1 | \
+              awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          }
+          title=`grep "title:" ${book} | awk -F ':' ' { print $2 } ' | \
+            sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+          if [ ${numcols} -gt 4 ]
+          then
+            printf "| ${authorname}: [${title}](Books/${author}/${book}) |\n" >> ${VAULT}/${book_index}.md
+            numcols=1
+          else
+            printf "| ${authorname}: [${title}](Books/${author}/${book}) " >> ${VAULT}/${book_index}.md
+            numcols=$((numcols+1))
+          fi
+        done
+        cd ..
+      done
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${book_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${book_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/books$$
+      removetmp=
+    else
+      mkdir ../../tmp$$
+      removetmp=1
+      declare -A author_array
+      for bookmd in */*.md
+      do
+        author=`echo ${bookmd} | awk -F '/' ' { print $1 } '`
+        filename=`echo ${bookmd} | awk -F '/' ' { print $2 } '`
+        [ "${author}.md" == "${filename}" ] && continue
+        authorsort=`grep "authorsort:" ${bookmd} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//' -e "s/,//" -e "s/ /_/g"`
+        [ "${authorsort}" ] || {
+          echo "${bookmd} needs an authorsort: tag. Skipping."
+          continue
+        }
+        # Make a duplicate Books folder with new filenames based on author sort names
+        [ -d "../../tmp$$/${authorsort}" ] || mkdir -p "../../tmp$$/${authorsort}"
+        cp ${bookmd} "../../tmp$$/${authorsort}"
+        author_array["${authorsort}/${filename}"]="${bookmd}"
+      done
+      cd "../../tmp$$"
+      ls -1 */*.md | sort -k 1 -t'/' > /tmp/books$$
+    fi
+    while read book
+    do
+      author=`echo ${book} | awk -F '/' ' { print $1 } '`
+      filename=`echo ${book} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+      [ "${author}" == "${filename}" ] && continue
+      if [ "${sortorder}" == "title" ]
+      then
+        authorname=`grep "author:" ${book} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      else
+        authorname=`grep "authorsort:" ${book} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      fi
+      [ "${authorname}" ] || {
+        echo "${book} needs an author: tag. Skipping."
+        continue
+      }
+      title=`grep "title:" ${book} | awk -F ':' ' { print $2 } ' | \
+        sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+      [ "${title}" ] || {
+        echo "${book} needs a title: tag. Skipping."
+        continue
+      }
+      if [ "${sortorder}" == "title" ]
+      then
+        first=${title:0:1}
+      else
+        first=${authorname:0:1}
+      fi
+      if [ "${heading}" == "0-9" ]
+      then
+        [ "${first}" -eq "${first}" ] 2> /dev/null || {
+          heading=${first}
+          echo "" >> ${VAULT}/${book_index}.md
+          echo "### ${heading}" >> ${VAULT}/${book_index}.md
+          echo "" >> ${VAULT}/${book_index}.md
+        }
+      else
+        [ "${first}" == "${heading}" ] || {
+          heading=${first}
+          echo "" >> ${VAULT}/${book_index}.md
+          echo "### ${heading}" >> ${VAULT}/${book_index}.md
+          echo "" >> ${VAULT}/${book_index}.md
+        }
+      fi
+      if [ "${sortorder}" == "title" ]
+      then
+        echo "- [${title}](Books/${book}) by ${authorname}" >> ${VAULT}/${book_index}.md
+      else
+        [ "${authorname}" == "${author_heading}" ] || {
+          author_heading=${authorname}
+          echo "" >> ${VAULT}/${book_index}.md
+          echo "#### ${author_heading}" >> ${VAULT}/${book_index}.md
+          echo "" >> ${VAULT}/${book_index}.md
+        }
+        booklink="${author_array[${book}]}"
+        echo "- [${title}](Books/${booklink})" >> ${VAULT}/${book_index}.md
+      fi
+    done < <(cat /tmp/books$$)
+    rm -f /tmp/books$$
+    [ "${removetmp}" ] && {
+      cd ..
+      [ -d tmp$$ ] && rm -rf tmp$$
+    }
+  fi
+fi
+
+```
+
+  </p>
+</details>
 
 ## See also
 
