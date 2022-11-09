@@ -4,7 +4,7 @@
 
 This repository is organized as an Obsidian vault containing Media descriptions in markdown format. It can be viewed using any markdown viewer (e.g. almost any browser) but if Obsidian is used then many additional features will be available including queries using the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [Obsidian](https://obsidian.md/).
 
-The `Obsidian-Media-Vault` repository reflects the partial contents of my personal library of books, cds, and records. As such, it may be relevant only to a few. However, the process by which this repository was created and curated as well as the tools used in its creation and curation may be useful to a wider audience. I am making it public and freely licensed so that others may examine, adapt, clone, and use in whatever manner they choose. See the [description of tools](tools.md) for an overview of the process and tools employed in the creation of this repository.
+The `Obsidian-Media-Vault` repository reflects the partial contents of my personal library of books, cds, and records. As such, it may be relevant only to a few. However, the process by which this repository was created and curated as well as the tools used in its creation and curation may be useful to a wider audience. I am making it public and freely licensed so that others may examine, adapt, clone, and use in whatever manner they choose. See the [description of Process](Process.md) for an overview of the process and tools employed in the creation of this repository.
 
 ## Usage
 
@@ -18,7 +18,7 @@ The `Obsidian-Media-Vault` repository reflects the partial contents of my person
 
 ## Dataview
 
-The Obsidian Media Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Media Queries](media_queries.md) document.
+The Obsidian Media Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Media Queries](Media_Queries.md) document.
 
 The Obsidian Media Vault markdown contains metadata with tags allowing a variety of Obsidian Dataview queries. For example, the markdown of the book "Timequake" by Kurt Vonnegut Jr. has the following YAML prelude:
 
@@ -60,23 +60,23 @@ SORT published ASC
 
 ![Dataview Queries](assets/dataview.png)
 
-Sample queries along with the code used to perform them can be viewed in the [Media Queries](media_queries.md) document.
+Sample queries along with the code used to perform them can be viewed in the [Media Queries](Media_Queries.md) document.
 
 ## Books
 
 The 'Books' subfolder of this Obsidian vault was created by exporting my Goodreads library of books to CSV. I then used [csvkit](https://csvkit.readthedocs.io/en/latest) and command line tools to convert the CSV format Goodreads data to Markdown. Each Markdown document created in this way contains extensive metadata that can be used to query the vault with Dataview.
 
-See the [Tools section below](#tools) for details on this vault setup procedure.
+See the [Process section below](#process) for details on this vault setup procedure.
 
 ## Structure
 
 The Books sub-vault is organized by author subfolders. For example, all books by Kurt Vonnegut Jr. are in the `Books/Kurt_Vonnegut_Jr/` folder.
 
-## Tools
+## Process
 
-See the [Tools](tools.md) document for a detailed description of the tools used to generate this vault.
+See the [Process](Process.md) document for a detailed description of the tools and process used to generate this vault.
 
 ## See also
 
-- [media_queries](media_queries.md)
-- [tools](tools.md)
+- [Media Queries](Media_Queries.md)
+- [Process](Process.md)

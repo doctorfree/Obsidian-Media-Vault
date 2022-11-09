@@ -538,4 +538,4 @@ fi
 ## See also
 
 - [README](README.md)
-- [media_queries](media_queries.md)
+- [Media Queries](Media_Queries.md)
