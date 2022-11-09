@@ -1,3 +1,6 @@
+# mkrecords
+
+```shell
 #!/bin/bash
 #
 # mkrecords
@@ -168,3 +171,4 @@ do
     first=1
   fi
 done
+```

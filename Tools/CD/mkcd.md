@@ -1,3 +1,6 @@
+# mkcd
+
+```shell
 #!/bin/bash
 #
 # mkcd
@@ -160,3 +163,4 @@ do
     first=1
   fi
 done
+```

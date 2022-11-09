@@ -2,6 +2,45 @@
 
 ```shell
 #!/bin/bash
+#
+# get_goodreads_xml.sh
+#
+# Unfortunately, the Goodreads CSV export does not include the book cover images.
+# If you want the links to the book covers for your library in Goodreads they are
+# available in the RSS feeds for the Goodread shelves you have created. In Goodreads,
+# go to a shelf (`My Books` then click on a shelf listed under `Bookshelves`) and at
+# the bottom right corner there should be an RSS feed icon. Right click the RSS icon
+# and copy the link. The RSS feed link should look something like
+#
+# https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=anthologies
+#
+# where `XXXXXXX` and `YYYblablablaYYY` are private codes representing your Goodreads
+# ID and the shelf key. Take note of the last component of the RSS feed URL, the part
+# in the example above with `&shelf=anthologies`. The `anthologies` part is the name
+# of the shelf, in your case it will be something else, whatever the name of the shelf
+# you selected.
+#
+# I wrote this script to make it easier to download the bookshelves RSS feed XML data.
+# All you need to use this script is the first part of any RSS feed URL in your
+# Goodreads bookshelves. In the example above that would be
+# https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=
+# 
+# That is, everything but the shelf name.
+# 
+# Replace the `baseurl` URL in the following script with your Goodreads base URL
+# from an RSS feed URL of one of your shelves. Also replace the list of Goodreads
+# shelves below in the variable `shelves` with a list of the shelves in your
+# Goodreads library that you wish to export to XML.
+# 
+# After configuring the script with your private base Goodreads RSS feed URL and
+# the list of your Goodreads bookshelves, simply run the script and it will
+# download all the XML exports for the listed Goodreads shelves. These contain
+# the links to the book cover images.
+# 
+# **[Note:]** Goodreads RSS feeds only include the first 100 entries of a shelf.
+# I had to create new shelves and split any existing Goodreads shelves over 100
+# entries in size up into multiple shelves. What a pain. So, everything cannot
+# be automated because services are lame.
 
 # Enter urls to your goodreads rss feed below.
 # You can find it by navigating to one of your goodreads shelves and

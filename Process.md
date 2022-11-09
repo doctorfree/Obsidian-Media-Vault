@@ -2,6 +2,15 @@
 
 Several custom scripts and utilities were used to automate the generation of markdown files in the Obsidian Media Vault. For example, the source data used in the generation of the Books sub-vault consisted of a CSV export of a Goodreads library along with XML format RSS feeds of all the bookshelves in that Goodreads library. The CSV and XML were processed using tools like [csvkit](https://csvkit.readthedocs.io/en/latest), `grep`, `sed`, `awk`, and other system utilities.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Requirements](#requirements)
+- [Books_library](#books_library)
+- [Vinyl_library](#vinyl_library)
+- [CD_library](#cd_library)
+- [See_also](#see_also)
+
 ## Overview
 
 If your media libraries are cataloged in an online service such as [Discogs](https://discogs.com) or [Goodreads](https://goodreads.com) or in a media management system such as [CLZ Music](https://connect.collectorz.com) or [Invelos DVD Profiler](http://www.invelos.com/) then it is usually possible to export your online library to a file format that can be converted to markdown. Usually there is an option to export the data to CSV format and that is typically what I used although in some cases all that is available is XML format. Either will work.
@@ -20,7 +29,7 @@ The CSV and XML were processed using [csvkit](https://csvkit.readthedocs.io/en/l
 
 If your Linux distribution does not include `curl` then that will also need to be installed.
 
-## Books library
+## Books_library
 
 My books are catalogued in Goodreads. To export a Goodreads book library, login to Goodreads and click `My Books`. Scroll down and click `Import and export` on the left. Click the `Export` button and wait for Goodreads to generate a link to your library export CSV file. Download that file by right clicking the generated link and saving to local disk.
 
@@ -535,7 +544,960 @@ fi
   </p>
 </details>
 
-## See also
+## Vinyl_library
+
+My vinyl records are catalogued in [Discogs](https://www.discogs.com). To export a Discogs library, login to Discogs and click the `Dashboard` icon or your profile dropdown and `Dashboard`. At your Discogs dashboard, which should be something like [https://www.discogs.com/my](https://www.discogs.com/my), click `Export` at the top of the dashboard. In the `What to export` dropdown select `Collection`. Click the `Request Data Export` button and wait for Discogs to generate the export. Download the generated Discogs CSV export file by clicking the `Download` button.
+
+I wrote the following scripts to generate Markdown format files for each of the records in the downloaded CSV format Discogs export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
+
+<details>
+  <p>
+
+Script to generate Markdown format files for each of the records in the downloaded CSV format Discogs export. You will need to modify this script, changing `data/doctorfree-collection-discogs.csv` to the location of your downloaded Discogs CSV export.
+
+### [Tools/Vinyl/mkrecords](Tools/Vinyl/mkrecords.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+#
+# Columns:
+# 1: Catalog#
+# 2: Artist
+# 3: Title
+# 4: Label
+# 5: Format
+# 6: Rating
+# 7: Released
+# 8: release_id
+# 9: CollectionFolder
+#10: Date Added
+#11: Collection Media Condition
+#12: Collection Sleeve Condition
+#13: Collection Speed
+#14: Collection Weight
+#15: Collection Notes
+
+RECORDS="../../Vinyl"
+update=
+numknown=1
+[ "$1" == "-u" ] && update=1
+
+[ -d ${RECORDS} ] || mkdir ${RECORDS}
+
+cat data/doctorfree-collection-discogs.csv | while read line
+do
+  if [ "${first}" ]
+  then
+    title=`echo ${line} | csvcut -c 3`
+    releaseid=`echo ${line} | csvcut -c 8 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    filename=`echo ${title} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+    [ "${filename}" ] || {
+      if [ "${releaseid}" ]
+      then
+        filename="Unknown-${releaseid}"
+      else
+        filename="Unknown-${numknown}"
+        $((numknown + 1))
+      fi
+    }
+    echo "Processing ${filename}"
+    artist=`echo ${line} | csvcut -c 2`
+    artistdir=`echo ${artist} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+
+    [ -f ${RECORDS}/${artistdir}/${filename}.md ] && continue
+
+    # Download album cover art
+    [ -f "../../assets/albumcovers/${artistdir}-${filename}.png" ] || {
+      echo "Downloading cover art for ${artist} - ${title}"
+      sacad "${artist}" "${title}" 600 \
+        ../../assets/albumcovers/${artistdir}-${filename}.png 2> /dev/null
+    }
+    [ -d ${RECORDS}/${artistdir} ] || mkdir ${RECORDS}/${artistdir}
+    catalog=`echo ${line} | csvcut -c 1 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    label=`echo ${line} | csvcut -c 4 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    format=`echo ${line} | csvcut -c 5 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    rating=`echo ${line} | csvcut -c 6 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    released=`echo ${line} | csvcut -c 7 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    mediacondition=`echo ${line} | csvcut -c 11 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    sleevecondition=`echo ${line} | csvcut -c 12 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    speed=`echo ${line} | csvcut -c 13 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    weight=`echo ${line} | csvcut -c 14 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    notes=`echo ${line} | csvcut -c 15 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    echo "---" > ${RECORDS}/${artistdir}/${filename}.md
+    echo "catalog: ${catalog}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "title: ${title}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "artist: ${artist}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "label: ${label}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "format: ${format}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "rating: ${rating}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "released: ${released}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "releaseid: ${releaseid}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "mediacondition: ${mediacondition}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "sleevecondition: ${sleevecondition}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "speed: ${speed}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "weight: ${weight}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "notes: ${notes}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "---" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "# ${title}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "By ${artist}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    if [ -f "../../assets/albumcovers/${artistdir}-${filename}.png" ]
+    then
+      coverurl="../../assets/albumcovers/${artistdir}-${filename}.png"
+    else
+      coverurl=
+    fi
+    [ "${coverurl}" ] && {
+      echo "![](${coverurl})" >> ${RECORDS}/${artistdir}/${filename}.md
+      echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    }
+    echo "## Album Data" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    [ "${releaseid}" ] && {
+      artisturl=`echo "${artist}" | sed -e "s/ /-/g"`
+      titleurl=`echo "${title}" | sed -e "s/ /-/g"`
+      releaseurl="https://www.discogs.com/release/${releaseid}-${artisturl}-${titleurl}"
+      echo "[Discogs URL](${releaseurl})" >> ${RECORDS}/${artistdir}/${filename}.md
+      echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    }
+    echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Catalog #: ${catalog}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Label: ${label}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Format: ${format}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Rating: ${rating}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Released: ${released}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Release ID: ${releaseid}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Media condition: ${mediacondition}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Sleeve condition: ${sleevecondition}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Speed: ${speed}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "- Weight: ${weight}" >> ${RECORDS}/${artistdir}/${filename}.md
+    echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    [ "${notes}" ] && {
+      echo "## Notes" >> ${RECORDS}/${artistdir}/${filename}.md
+      echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+      echo "${notes}" >> ${RECORDS}/${artistdir}/${filename}.md
+      echo "" >> ${RECORDS}/${artistdir}/${filename}.md
+    }
+  else
+    first=1
+  fi
+done
+
+```
+
+  </p>
+</details>
+
+<details>
+  <p>
+
+I wrote the following script to generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of records sorted by artist or title in list or table format.
+
+### [Tools/Vinyl/mkvinyl](Tools/Vinyl/mkvinyl.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+
+VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+TOP="${VAULT}/Vinyl"
+
+usage() {
+  printf "\nUsage: mkvinyl [-A] [-T] [-f] [-p /path/to/Vinyl] [-t] [-u]"
+  printf "\nWhere:"
+  printf "\n\t-A indicates sort by Artist"
+  printf "\n\t-T indicates sort by Title (default)"
+  printf "\n\t-f indicates overwrite any pre-existing Vinyl index markdown"
+  printf "\n\t-p /path/to/Vinyl specifies the full path to the Vinyl folder"
+  printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl)"
+  printf "\n\t-t indicates create a table rather than listing"
+  printf "\n\t-u displays this usage message and exits\n\n"
+  exit 1
+}
+
+mktable=
+overwrite=
+sortorder="title"
+
+while getopts "ATfp:tu" flag; do
+    case $flag in
+        A)
+            sortorder="artist"
+            ;;
+        T)
+            sortorder="title"
+            ;;
+        f)
+            overwrite=1
+            ;;
+        p)
+            TOP="${OPTARG}"
+            ;;
+        t)
+            mktable=1
+            numcols=1
+            ;;
+        u)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+if [ "${mktable}" ]
+then
+  if [ "${sortorder}" == "title" ]
+  then
+    vinyl_index="Table_of_Vinyl_by_Title"
+  else
+    vinyl_index="Table_of_Vinyl_by_Artist"
+  fi
+else
+  if [ "${sortorder}" == "title" ]
+  then
+    vinyl_index="Vinyl_by_Title"
+  else
+    vinyl_index="Vinyl_by_Artist"
+  fi
+fi
+
+cd "${TOP}"
+
+[ "${overwrite}" ] && rm -f ${VAULT}/${vinyl_index}.md
+
+if [ -f ${VAULT}/${vinyl_index}.md ]
+then
+  echo "${vinyl_index}.md already exists. Use '-f' to overwrite an existing index."
+  echo "Exiting without changes."
+  exit 1
+else
+  echo "# Vinyl" > ${VAULT}/${vinyl_index}.md
+  echo "" >> ${VAULT}/${vinyl_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Table of Vinyl by Title" >> ${VAULT}/${vinyl_index}.md
+    else
+      echo "## Table of Vinyl by Artist" >> ${VAULT}/${vinyl_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Index of Vinyl by Title" >> ${VAULT}/${vinyl_index}.md
+    else
+      echo "## Index of Vinyl by Artist" >> ${VAULT}/${vinyl_index}.md
+    fi
+    echo "" >> ${VAULT}/${vinyl_index}.md
+    echo "| **[A](#a)** | **[B](#b)** | **[C](#c)** | **[D](#d)** | **[E](#e)** | **[F](#f)** | **[G](#g)** | **[H](#h)** | **[I](#i)** | **[J](#j)** | **[K](#k)** | **[L](#l)** | **[M](#m)** | **[N](#n)** | **[O](#o)** | **[P](#p)** | **[Q](#q)** | **[R](#r)** | **[S](#s)** | **[T](#t)** | **[U](#u)** | **[V](#v)** | **[W](#w)** | **[X](#x)** | **[Y](#y)** | **[Z](#z)** |" >> ${VAULT}/${vinyl_index}.md
+    echo "|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" >> ${VAULT}/${vinyl_index}.md
+    echo "" >> ${VAULT}/${vinyl_index}.md
+  fi
+  echo "" >> ${VAULT}/${vinyl_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "| **Title by Artist** | **Title by Artist** | **Title by Artist** | **Title by Artist** | **Title by Artist** |" >> ${VAULT}/${vinyl_index}.md
+    else
+      echo "| **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** |" >> ${VAULT}/${vinyl_index}.md
+    fi
+    echo "|--|--|--|--|--|" >> ${VAULT}/${vinyl_index}.md
+  else
+    heading="0-9"
+    artist_heading=
+    echo "### ${heading}" >> ${VAULT}/${vinyl_index}.md
+    echo "" >> ${VAULT}/${vinyl_index}.md
+  fi
+
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/vinyls$$
+      while read vinyl
+      do
+        artist=`echo ${vinyl} | awk -F '/' ' { print $1 } '`
+        filename=`echo ${vinyl} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+        [ "${artist}" == "${filename}" ] && continue
+        artistname=`grep "artist:" ${vinyl} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+        [ "${artistname}" ] || {
+          echo "${vinyl} needs an artist: tag. Skipping."
+          continue
+        }
+        title=`grep "title:" ${vinyl} | awk -F ':' ' { print $2 } ' | \
+          sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+        [ "${title}" ] || {
+          echo "${vinyl} needs a title: tag. Skipping."
+          continue
+        }
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${title}](Vinyl/${vinyl}) by ${artistname} |\n" >> ${VAULT}/${vinyl_index}.md
+          numcols=1
+        else
+          printf "| [${title}](Vinyl/${vinyl}) by ${artistname} " >> ${VAULT}/${vinyl_index}.md
+          numcols=$((numcols+1))
+        fi
+      done < <(cat /tmp/vinyls$$)
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${vinyl_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${vinyl_index}.md
+      rm -f /tmp/vinyls$$
+    else
+      for artist in *
+      do
+        [ "${artist}" == "*" ] && continue
+        [ -d "${artist}" ] || continue
+        cd "${artist}"
+        artistname=
+        for vinyl in *.md
+        do
+          [ "${vinyl}" == "*.md" ] && continue
+          [ "${vinyl}" == "${artist}.md" ] && continue
+          [ "${artistname}" ] || {
+            artistname=`grep "artist:" ${vinyl} | head -1 | \
+              awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          }
+          title=`grep "title:" ${vinyl} | awk -F ':' ' { print $2 } ' | \
+            sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+          if [ ${numcols} -gt 4 ]
+          then
+            printf "| ${artistname}: [${title}](Vinyl/${artist}/${vinyl}) |\n" >> ${VAULT}/${vinyl_index}.md
+            numcols=1
+          else
+            printf "| ${artistname}: [${title}](Vinyl/${artist}/${vinyl}) " >> ${VAULT}/${vinyl_index}.md
+            numcols=$((numcols+1))
+          fi
+        done
+        cd ..
+      done
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${vinyl_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${vinyl_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/vinyls$$
+    else
+      ls -1 */*.md | sort -k 1 -t'/' > /tmp/vinyls$$
+    fi
+    while read vinyl
+    do
+      artist=`echo ${vinyl} | awk -F '/' ' { print $1 } '`
+      filename=`echo ${vinyl} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+      [ "${artist}" == "${filename}" ] && continue
+      artistname=`grep "artist:" ${vinyl} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${artistname}" ] || {
+        echo "${vinyl} needs an artist: tag. Skipping."
+        continue
+      }
+      title=`grep "title:" ${vinyl} | awk -F ':' ' { print $2 } ' | \
+        sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+      [ "${title}" ] || {
+        echo "${vinyl} needs a title: tag. Skipping."
+        continue
+      }
+      if [ "${sortorder}" == "title" ]
+      then
+        first=${title:0:1}
+      else
+        first=${artistname:0:1}
+      fi
+      if [ "${heading}" == "0-9" ]
+      then
+        [ "${first}" -eq "${first}" ] 2> /dev/null || {
+          [ "${first}" == "#" ] || {
+            [ "${first}" == "?" ] || {
+              [ "${first}" == "_" ] || {
+                heading=${first}
+                echo "" >> ${VAULT}/${vinyl_index}.md
+                echo "### ${heading}" >> ${VAULT}/${vinyl_index}.md
+                echo "" >> ${VAULT}/${vinyl_index}.md
+              }
+            }
+          }
+        }
+      else
+        [ "${first}" == "${heading}" ] || {
+          heading=${first}
+          echo "" >> ${VAULT}/${vinyl_index}.md
+          echo "### ${heading}" >> ${VAULT}/${vinyl_index}.md
+          echo "" >> ${VAULT}/${vinyl_index}.md
+        }
+      fi
+      if [ "${sortorder}" == "title" ]
+      then
+        echo "- [${title}](Vinyl/${vinyl}) by **${artistname}**" >> ${VAULT}/${vinyl_index}.md
+      else
+        [ "${artistname}" == "${artist_heading}" ] || {
+          artist_heading=${artistname}
+          echo "" >> ${VAULT}/${vinyl_index}.md
+          echo "#### ${artist_heading}" >> ${VAULT}/${vinyl_index}.md
+          echo "" >> ${VAULT}/${vinyl_index}.md
+        }
+        echo "- [${title}](Vinyl/${vinyl})" >> ${VAULT}/${vinyl_index}.md
+      fi
+    done < <(cat /tmp/vinyls$$)
+    rm -f /tmp/vinyls$$
+  fi
+fi
+
+```
+
+  </p>
+</details>
+
+## CD_library
+
+My CDs are catalogued in [Collectorz](https://cloud.collectorz.com). To export a Collectorz library:
+
+- Login to Collectorz
+- Click the upper left corner dropdown menu
+- Click `Export to CSV/TXT`
+- On the `Export to CSV / TXT` page select the `CSV` tab
+- In the `Settings` section
+    - Select `Field Delimiter` to `Comma`
+    - Select `Field Enclosure` to `Double Quote`
+    - Select `Options` to `Include Field Names as First Row`
+    - Leave the `Filename` as `export_albums`
+- In the `Columns` section
+    - Click on `Manage`
+    - Select `My List View columns` and click on `Edit`
+    - Select the columns you wish to manage in your CD library and click `Save`
+
+For my scripts to work without much modification you will need to have selected the same columns as I did and sort them in the same order. These are:
+
+```text
+  1: Cat No
+  2: Artist
+  3: Title
+  4: Tracks
+  5: Release Date
+  6: Discs
+  7: Box Set
+  8: Length
+  9: Genre
+ 10: Label
+ 11: Format
+ 12: Original Release Year
+ 13: Songwriter
+ 14: Producer
+ 15: Musician
+```
+
+When done selecting columns click the `Generate file` button at the bottom.
+
+I wrote the following scripts to generate Markdown format files for each of the CDs in the downloaded CSV format Collectorz export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
+
+<details>
+  <p>
+
+Script to generate Markdown format files for each of the CDs in the downloaded CSV format Collectorz export. You will need to modify this script, changing `data/export_albums.csv` to the location of your downloaded Collectorz CSV export.
+
+### [Tools/CD/mkcd](Tools/CD/mkcd.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+#
+# Columns:
+# 1: Cat No
+# 2: Artist
+# 3: Title
+# 4: Tracks
+# 5: Release Date
+# 6: Discs
+# 7: Box Set
+# 8: Length
+# 9: Genre
+#10: Label
+#11: Format
+#12: Original Release Year
+#13: Songwriter
+#14: Producer
+#15: Musician
+
+CDS="../../CD"
+update=
+numknown=1
+[ "$1" == "-u" ] && update=1
+
+[ -d ${CDS} ] || mkdir ${CDS}
+[ -d ../../assets/cdcovers ] || mkdir -p ../../assets/cdcovers
+
+cat data/export_albums.csv | while read line
+do
+  if [ "${first}" ]
+  then
+    title=`echo ${line} | csvcut -c 3`
+    catalog=`echo ${line} | csvcut -c 1 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    filename=`echo ${title} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+    [ "${filename}" ] || {
+      if [ "${catalog}" ]
+      then
+        filename="Unknown-${catalog}"
+      else
+        filename="Unknown-${numknown}"
+        $((numknown + 1))
+      fi
+    }
+    echo "Processing ${filename}"
+    artist=`echo ${line} | csvcut -c 2`
+    artistdir=`echo ${artist} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+
+    [ -f ${CDS}/${artistdir}/${filename}.md ] && continue
+
+    # Download album cover art
+    image=`echo ${filename} | sed -e "s/_Disc_[0-9]//" -e "s/_(Disc_[0-9])//"`
+    [ -f "../../assets/cdcovers/${artistdir}-${image}.png" ] || {
+      echo "Downloading cover art for ${artist} - ${title}"
+      sacad "${artist}" "${title}" 600 \
+        ../../assets/cdcovers/${artistdir}-${image}.png 2> /dev/null
+    }
+    [ -d ${CDS}/${artistdir} ] || mkdir ${CDS}/${artistdir}
+    tracks=`echo ${line} | csvcut -c 4 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    discs=`echo ${line} | csvcut -c 6 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    boxset=`echo ${line} | csvcut -c 7 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    length=`echo ${line} | csvcut -c 8 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    genre=`echo ${line} | csvcut -c 9 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    label=`echo ${line} | csvcut -c 10 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    format=`echo ${line} | csvcut -c 11 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    released=`echo ${line} | csvcut -c 12 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    songwriter=`echo ${line} | csvcut -c 13 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    producer=`echo ${line} | csvcut -c 14 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    musician=`echo ${line} | csvcut -c 15 | \
+      sed -e "s/^\"//" -e "s/\"$//" -e "s/\"\"/\"/g"`
+    echo "---" > ${CDS}/${artistdir}/${filename}.md
+    echo "catalog: ${catalog}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "title: ${title}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "artist: ${artist}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "label: ${label}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "format: ${format}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "tracks: ${tracks}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "released: ${released}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "discs: ${discs}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "boxset: ${boxset}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "length: ${length}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "genre: ${genre}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "songwriter: ${songwriter}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "producer: ${producer}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "musician: ${musician}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "---" >> ${CDS}/${artistdir}/${filename}.md
+    echo "" >> ${CDS}/${artistdir}/${filename}.md
+    echo "# ${title}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "" >> ${CDS}/${artistdir}/${filename}.md
+    echo "By ${artist}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "" >> ${CDS}/${artistdir}/${filename}.md
+    if [ -f "../../assets/cdcovers/${artistdir}-${image}.png" ]
+    then
+      coverurl="../../assets/cdcovers/${artistdir}-${image}.png"
+    else
+      coverurl=
+    fi
+    [ "${coverurl}" ] && {
+      echo "![](${coverurl})" >> ${CDS}/${artistdir}/${filename}.md
+      echo "" >> ${CDS}/${artistdir}/${filename}.md
+    }
+    echo "## Album Data" >> ${CDS}/${artistdir}/${filename}.md
+    echo "" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Catalog #: ${catalog}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Label: ${label}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Format: ${format}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Tracks: ${tracks}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Released: ${released}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Discs: ${discs}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Box Set: ${boxset}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Length: ${length}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Genre: ${genre}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Songwriter: ${songwriter}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Producer: ${producer}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "- Musician: ${musician}" >> ${CDS}/${artistdir}/${filename}.md
+    echo "" >> ${CDS}/${artistdir}/${filename}.md
+  else
+    first=1
+  fi
+done
+
+```
+
+  </p>
+</details>
+
+<details>
+  <p>
+
+I wrote the following script to generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of CDs sorted by artist or title in list or table format.
+
+### [Tools/CD/mkdisc](Tools/CD/mkdisc.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+
+VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+TOP="${VAULT}/CD"
+
+usage() {
+  printf "\nUsage: mkdisc [-A] [-T] [-f] [-p /path/to/CD] [-t] [-u]"
+  printf "\nWhere:"
+  printf "\n\t-A indicates sort by Artist"
+  printf "\n\t-T indicates sort by Title (default)"
+  printf "\n\t-f indicates overwrite any pre-existing CD index markdown"
+  printf "\n\t-p /path/to/CD specifies the full path to the CD folder"
+  printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Media-Vault/CD)"
+  printf "\n\t-t indicates create a table rather than listing"
+  printf "\n\t-u displays this usage message and exits\n\n"
+  exit 1
+}
+
+mktable=
+overwrite=
+sortorder="title"
+
+while getopts "ATfp:tu" flag; do
+    case $flag in
+        A)
+            sortorder="artist"
+            ;;
+        T)
+            sortorder="title"
+            ;;
+        f)
+            overwrite=1
+            ;;
+        p)
+            TOP="${OPTARG}"
+            ;;
+        t)
+            mktable=1
+            numcols=1
+            ;;
+        u)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+if [ "${mktable}" ]
+then
+  if [ "${sortorder}" == "title" ]
+  then
+    disc_index="Table_of_CD_by_Title"
+  else
+    disc_index="Table_of_CD_by_Artist"
+  fi
+else
+  if [ "${sortorder}" == "title" ]
+  then
+    disc_index="CD_by_Title"
+  else
+    disc_index="CD_by_Artist"
+  fi
+fi
+
+cd "${TOP}"
+
+[ "${overwrite}" ] && rm -f ${VAULT}/${disc_index}.md
+
+if [ -f ${VAULT}/${disc_index}.md ]
+then
+  echo "${disc_index}.md already exists. Use '-f' to overwrite an existing index."
+  echo "Exiting without changes."
+  exit 1
+else
+  echo "# CD" > ${VAULT}/${disc_index}.md
+  echo "" >> ${VAULT}/${disc_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Table of CD by Title" >> ${VAULT}/${disc_index}.md
+    else
+      echo "## Table of CD by Artist" >> ${VAULT}/${disc_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Index of CD by Title" >> ${VAULT}/${disc_index}.md
+    else
+      echo "## Index of CD by Artist" >> ${VAULT}/${disc_index}.md
+    fi
+    echo "" >> ${VAULT}/${disc_index}.md
+    echo "| **[A](#a)** | **[B](#b)** | **[C](#c)** | **[D](#d)** | **[E](#e)** | **[F](#f)** | **[G](#g)** | **[H](#h)** | **[I](#i)** | **[J](#j)** | **[K](#k)** | **[L](#l)** | **[M](#m)** | **[N](#n)** | **[O](#o)** | **[P](#p)** | **[Q](#q)** | **[R](#r)** | **[S](#s)** | **[T](#t)** | **[U](#u)** | **[V](#v)** | **[W](#w)** | **[X](#x)** | **[Y](#y)** | **[Z](#z)** |" >> ${VAULT}/${disc_index}.md
+    echo "|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" >> ${VAULT}/${disc_index}.md
+    echo "" >> ${VAULT}/${disc_index}.md
+  fi
+  echo "" >> ${VAULT}/${disc_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "| **Title by Artist** | **Title by Artist** | **Title by Artist** | **Title by Artist** | **Title by Artist** |" >> ${VAULT}/${disc_index}.md
+    else
+      echo "| **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** |" >> ${VAULT}/${disc_index}.md
+    fi
+    echo "|--|--|--|--|--|" >> ${VAULT}/${disc_index}.md
+  else
+    heading="0-9"
+    artist_heading=
+    echo "### ${heading}" >> ${VAULT}/${disc_index}.md
+    echo "" >> ${VAULT}/${disc_index}.md
+  fi
+
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/discs$$
+      while read disc
+      do
+        artist=`echo ${disc} | awk -F '/' ' { print $1 } '`
+        filename=`echo ${disc} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+        [ "${artist}" == "${filename}" ] && continue
+        artistname=`grep "artist:" ${disc} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+        [ "${artistname}" ] || {
+          echo "${disc} needs an artist: tag. Skipping."
+          continue
+        }
+        title=`grep "title:" ${disc} | awk -F ':' ' { print $2 } ' | \
+          sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+        [ "${title}" ] || {
+          echo "${disc} needs a title: tag. Skipping."
+          continue
+        }
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${title}](CD/${disc}) by ${artistname} |\n" >> ${VAULT}/${disc_index}.md
+          numcols=1
+        else
+          printf "| [${title}](CD/${disc}) by ${artistname} " >> ${VAULT}/${disc_index}.md
+          numcols=$((numcols+1))
+        fi
+      done < <(cat /tmp/discs$$)
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${disc_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${disc_index}.md
+      rm -f /tmp/discs$$
+    else
+      for artist in *
+      do
+        [ "${artist}" == "*" ] && continue
+        [ -d "${artist}" ] || continue
+        cd "${artist}"
+        artistname=
+        for disc in *.md
+        do
+          [ "${disc}" == "*.md" ] && continue
+          [ "${disc}" == "${artist}.md" ] && continue
+          [ "${artistname}" ] || {
+            artistname=`grep "artist:" ${disc} | head -1 | \
+              awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          }
+          title=`grep "title:" ${disc} | awk -F ':' ' { print $2 } ' | \
+            sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+          if [ ${numcols} -gt 4 ]
+          then
+            printf "| ${artistname}: [${title}](CD/${artist}/${disc}) |\n" >> ${VAULT}/${disc_index}.md
+            numcols=1
+          else
+            printf "| ${artistname}: [${title}](CD/${artist}/${disc}) " >> ${VAULT}/${disc_index}.md
+            numcols=$((numcols+1))
+          fi
+        done
+        cd ..
+      done
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${disc_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${disc_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/discs$$
+    else
+      ls -1 */*.md | sort -k 1 -t'/' > /tmp/discs$$
+    fi
+    while read disc
+    do
+      artist=`echo ${disc} | awk -F '/' ' { print $1 } '`
+      filename=`echo ${disc} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+      [ "${artist}" == "${filename}" ] && continue
+      artistname=`grep "artist:" ${disc} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${artistname}" ] || {
+        echo "${disc} needs an artist: tag. Skipping."
+        continue
+      }
+      title=`grep "title:" ${disc} | awk -F ':' ' { print $2 } ' | \
+        sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+      [ "${title}" ] || {
+        echo "${disc} needs a title: tag. Skipping."
+        continue
+      }
+      if [ "${sortorder}" == "title" ]
+      then
+        first=${title:0:1}
+      else
+        first=${artistname:0:1}
+      fi
+      if [ "${heading}" == "0-9" ]
+      then
+        [ "${first}" -eq "${first}" ] 2> /dev/null || {
+          [ "${first}" == "#" ] || {
+            [ "${first}" == "?" ] || {
+              [ "${first}" == "_" ] || {
+                heading=${first}
+                echo "" >> ${VAULT}/${disc_index}.md
+                echo "### ${heading}" >> ${VAULT}/${disc_index}.md
+                echo "" >> ${VAULT}/${disc_index}.md
+              }
+            }
+          }
+        }
+      else
+        [ "${first}" == "${heading}" ] || {
+          [ "${first}" == "." ] || {
+            [ "${first}" == "Æ" ] || {
+              heading=${first}
+              echo "" >> ${VAULT}/${disc_index}.md
+              echo "### ${heading}" >> ${VAULT}/${disc_index}.md
+              echo "" >> ${VAULT}/${disc_index}.md
+            }
+          }
+        }
+      fi
+      if [ "${sortorder}" == "title" ]
+      then
+        echo "- [${title}](CD/${disc}) by **${artistname}**" >> ${VAULT}/${disc_index}.md
+      else
+        [ "${artistname}" == "${artist_heading}" ] || {
+          artist_heading=${artistname}
+          echo "" >> ${VAULT}/${disc_index}.md
+          echo "#### ${artist_heading}" >> ${VAULT}/${disc_index}.md
+          echo "" >> ${VAULT}/${disc_index}.md
+        }
+        echo "- [${title}](CD/${disc})" >> ${VAULT}/${disc_index}.md
+      fi
+    done < <(cat /tmp/discs$$)
+    rm -f /tmp/discs$$
+  fi
+fi
+
+```
+
+  </p>
+</details>
+
+## See_also
 
 - [README](README.md)
 - [Media Queries](Media_Queries.md)

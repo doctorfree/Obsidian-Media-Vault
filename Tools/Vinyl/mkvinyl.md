@@ -1,3 +1,6 @@
+# mkvinyl
+
+```shell
 #!/bin/bash
 #
 # mkvinyl
@@ -265,3 +268,4 @@ else
     rm -f /tmp/vinyls$$
   fi
 fi
+```

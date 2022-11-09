@@ -1,4 +1,10 @@
 #!/bin/bash
+#
+# mkbooks
+#
+# Generate various indexes into the Markdown format files created in the
+# Obsidian vault with the previous scripts. This script can generate lists
+# of books sorted by author or title in list or table format.
 
 VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
 TOP="${VAULT}/Books"

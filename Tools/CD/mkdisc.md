@@ -1,3 +1,6 @@
+# mkdisc
+
+```shell
 #!/bin/bash
 #
 # mkdisc
@@ -269,3 +272,4 @@ else
     rm -f /tmp/discs$$
   fi
 fi
+```

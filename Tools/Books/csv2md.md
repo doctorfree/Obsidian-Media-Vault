@@ -3,6 +3,11 @@
 ```shell
 #!/bin/bash
 #
+# csv2md
+#
+# Script to generate Markdown format files for each of the books
+# in the downloaded CSV format Goodreads export
+#
 # Produce markdown table entries with csvcut
 # csvcut -c 1,2,3 data/good*.csv | csvformat -D \|
 #
