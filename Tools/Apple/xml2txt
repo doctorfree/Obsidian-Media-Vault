@@ -1,6 +1,6 @@
 #!/bin/bash
 
-files=`grep 'Location' data/xml/Library.xml | \
+files=`grep 'Location' /home/ronnie/transfers/Library.xml | \
 sed 's/<key>Location<\/key><string>//g'| sed 's/<\/string>//g' \
 | sed 's/%20/ /g' | sort`;
 

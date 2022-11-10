@@ -1,7 +1,7 @@
 import pandas as pd
 import xml.etree.ElementTree as ET ## XML parsing
 
-lib = r'data/Library.xml'
+lib = r'/home/ronnie/transfers/Library.xml'
 
 tree = ET.parse(lib)
 root = tree.getroot()
