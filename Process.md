@@ -13,7 +13,7 @@ Several custom scripts and utilities were used to automate the generation of mar
 
 ## Overview
 
-If your media libraries are cataloged in an online service such as [Discogs](https://discogs.com) or [Goodreads](https://goodreads.com) or in a media management system such as [CLZ Music](https://connect.collectorz.com) or [Invelos DVD Profiler](http://www.invelos.com/) then it is usually possible to export your online library to a file format that can be converted to markdown. Usually there is an option to export the data to CSV format and that is typically what I used although in some cases all that is available is XML format. Either will work.
+If your media libraries are cataloged in an online service such as [Discogs](https://discogs.com) or [Goodreads](https://goodreads.com) or in a media management system such as [CLZ Music](https://connect.collectorz.com) or [Invelos DVD Profiler](http://www.invelos.com/) then it is usually possible to export your online library to a file format that can be converted to markdown. Usually there is an option to export the data to CSV format and that is typically what I used although in some cases all that is available is XML format. Either will work although CSV format is much easier to parse using `csvkit`.
 
 **[Note:]** Invelos DVD Profiler only supports data export on Windows. Each service has its own quirks and limitations. The above examples are not recommendations, they are just what I found I had to deal with in exporting my libraries. I would not recommend any of Invelos' products as they are not free and they are not supported well on Linux or Mac.
 

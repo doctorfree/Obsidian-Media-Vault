@@ -1,0 +1,33 @@
+Number of Podcast tracks:  0
+Number of Purchased tracks:  254
+Number of Apple Music tracks:  9041
+{'Rating', 'Bit Rate', 'Size', 'Album Rating', 'Album Artist', 'Year', 'Sort Artist', 'Explicit', 'Compilation', 'Track ID', 'Comments', 'Kind', 'Sort Album Artist', 'Composer', 'Skip Count', 'Genre', 'Sort Name', 'Name', 'Track Count', 'Track Number', 'Play Date', 'Purchased', 'Date Modified', 'Skip Date', 'Sort Composer', 'Album', 'Play Date UTC', 'Total Time', 'Persistent ID', 'Track Type', 'Disc Count', 'Album Rating Computed', 'Normalization', 'Artist', 'Artwork Count', 'Sort Album', 'Play Count', 'Release Date', 'Disc Number', 'Date Added', 'Sample Rate'}
+Podcast:  Empty DataFrame
+Columns: []
+Index: []
+Purchased:                                            Album                 Album Artist  ... Track Type  Year
+0                             When You Fly - EP                    Frostbyte  ...     Remote  2008
+1                                     True Love                Ebba Forsberg  ...     Remote  2005
+2  Gettin' Over You (feat. Fergie & LMFAO) - EP  David Guetta & Chris Willis  ...     Remote  2010
+3                           Styx: Greatest Hits                         Styx  ...     Remote  1995
+4                   The Very Best of Supertramp                   Supertramp  ...     Remote  2001
+
+[5 rows x 41 columns]
+Apple Music:                                                 Album Album Artist  ... Work  Year
+0  The Dukes of Stratosphear: Chips from the Choc...          XTC  ...  NaN  1987
+1  The Dukes of Stratosphear: Chips from the Choc...          XTC  ...  NaN  1987
+2  The Dukes of Stratosphear: Chips from the Choc...          XTC  ...  NaN  1987
+3  The Dukes of Stratosphear: Chips from the Choc...          XTC  ...  NaN  1987
+4  The Dukes of Stratosphear: Chips from the Choc...          XTC  ...  NaN  1987
+
+[5 rows x 55 columns]
+Traceback (most recent call last):
+  File "./analyze-library", line 77, in <module>
+    df_songs[['track_id','play_count','skip_count','year_of_release']] = df_songs[['track_id',\
+  File "/home/ronnie/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 3511, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "/home/ronnie/.local/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 5782, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/ronnie/.local/lib/python3.8/site-packages/pandas/core/indexes/base.py", line 5842, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['track_id', 'play_count', 'skip_count', 'year_of_release'], dtype='object')] are in the [columns]"

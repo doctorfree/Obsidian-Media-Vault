@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+
+import pandas as pd
+import xml.etree.ElementTree as ET ## XML parsing
+
+lib = r'data/xml/Library.xml'
+
+tree = ET.parse(lib)
+root = tree.getroot()
+main_dict=root.findall('dict')
+for item in list(main_dict[0]):
+    if item.tag=="dict":
+        tracks_dict=item
+        break
+
+tracklist=list(tracks_dict.findall('dict'))
+
+podcast=[] #All podcast elements
+purchased=[] # All purchased music
+apple_music=[] # Music added to lirary through subscription
+for item in tracklist:
+    x=list(item)
+    for i in range(len(x)):
+        if x[i].text=="Genre" and x[i+1].text=="Podcast": #          
+            podcast.append(list(item))
+        if x[i].text=="Kind" and x[i+1].text=="Purchased AAC audio file":
+            purchased.append(list(item)) 
+        if x[i].text=="Kind" and x[i+1].text=="Apple Music AAC audio file":
+            apple_music.append(list(item))
+
+print ("Number of Podcast tracks: ",str(len(podcast)))
+print ("Number of Purchased tracks: ",str(len(purchased)))
+print ("Number of Apple Music tracks: ",str(len(apple_music)))
+
+def cols(kind):
+    cols=[]
+    for i in range(len(kind)):
+        for j in range(len(kind[i])):
+            if kind[i][j].tag=="key":
+                cols.append(kind[i][j].text)
+    return set(cols)
+
+podcast_cols=cols(podcast)
+purchased_cols=cols(purchased)
+apple_music_cols=cols(apple_music)
+
+print (purchased_cols)
+
+def df_creation(kind,cols):
+    df=pd.DataFrame(columns=cols)
+    dict1={}
+    for i in range(len(kind)):
+        for j in range(len(kind[i])):
+            if kind[i][j].tag=="key":
+                dict1[kind[i][j].text]=kind[i][j+1].text
+        list_values=[i for i in dict1.values()]
+        list_keys=[j for j in dict1.keys()]
+        df_temp=pd.DataFrame([list_values],columns=list_keys)
+        df = pd.concat([df,df_temp],axis=0,ignore_index=True,sort=True)
+    return df
+df_apple_music = df_creation(apple_music,apple_music_cols)
+df_podcast = df_creation(podcast,podcast_cols)
+df_purchased = df_creation(purchased,purchased_cols)
+
+print ("Podcast: ", df_podcast.head())
+print ("Purchased: ", df_purchased.head())
+print ("Apple Music: ", df_apple_music.head())
+
+temp_apple = df_apple_music.loc[:,['Track ID','Name','Play Count','Skip Count','Album',\
+ 'Artist','Genre','Kind','Persistent ID','Year','Play Date UTC',\
+ 'Skip Date','Release Date','Date Modified']]
+temp_purchased = df_purchased.loc[:,['Track ID','Name','Play Count','Skip Count', \
+ 'Album','Artist','Genre','Kind','Persistent ID','Year',\
+ 'Play Date UTC','Skip Date','Release Date','Date Modified']]
+df_songs = pd.concat([temp_purchased,temp_apple],axis = 0)
+
+df_songs[['track_id','play_count','skip_count','year_of_release']] = df_songs[['track_id',\
+        'play_count','skip_count','year_of_release']].apply(pd.to_numeric)
+df_songs[['play_date','skip_date','release_date','date_modified']] = df_songs[['play_date',\
+        'skip_date','release_date','date_modified']].apply(pd.to_datetime)
+df_songs.columns = ['track_id','song_name','play_count','skip_count','album','artist','genre','kind','persistent_id','year_of_release','play_date','skip_date','release_date','date_modified']
+
+print ("Songs: ", df_songs.head(5))

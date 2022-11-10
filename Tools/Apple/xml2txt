@@ -1,0 +1,19 @@
+#!/bin/bash
+
+files=`grep 'Location' data/xml/Library.xml | \
+sed 's/<key>Location<\/key><string>//g'| sed 's/<\/string>//g' \
+| sed 's/%20/ /g' | sort`;
+
+old_IFS=$IFS
+
+# IFS by default is space tab return, and stands for 
+# Internal Field Separator.
+IFS='
+'
+
+for i in $files
+do
+  `echo $i >> data/txt/Library-$$.txt`;
+done
+
+IFS=$old_IFS
