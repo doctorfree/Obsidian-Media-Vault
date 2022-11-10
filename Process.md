@@ -9,6 +9,7 @@ Several custom scripts and utilities were used to automate the generation of mar
 - [Books_library](#books_library)
 - [Vinyl_library](#vinyl_library)
 - [CD_library](#cd_library)
+- [Apple_Music](#apple_music)
 - [See_also](#see_also)
 
 ## Overview
@@ -1861,6 +1862,14 @@ done
 
   </p>
 </details>
+
+## Apple_Music
+
+The creation and curation of an Apple Music markdown format index is a work in progress. An XML format export of an Apple Music library can be generated in Apple Music by selecting `File -> Library -> Export Library`. The exported XML can be very large for large music libraries. Included in this repository are several scripts used to convert and process the Apple Music XML export into Markdown.
+
+Using this [excellent tutorial at Movable Type](https://www.movable-type.co.uk/scripts/itunes-albumlist.html) I was able to craft an XSLT stylesheet to convert the XML to HTML. The HTML formatted Apple Music library export was than converted to Markdown using `pandoc`. The results, after splitting the large markdown, can be seen at [Apple/Albums_by_Genre/Albums_by_Genre.md](Apple/Albums_by_Genre/Albums_by_Genre.md).
+
+The scripts used to perform this initial pass at an Apple Music markdown index can be found in the `Tools/Apple/` folder. Working with XML is unpleasant and I no longer use Apple Music that frequently so this sub-project is languishing due to lack of motivation or interest. If you would like to contribute please do so.
 
 ## See_also
 

@@ -82,7 +82,7 @@ EOF
 else
   if [ "${have_pandoc}" ]
   then
-    pandoc -f csv -t markdown -o ${outputFile} ${inputFile}
+    pandoc -f csv -t markdown_mmd -o ${outputFile} ${inputFile}
   else
     echo "Neither sqlite3 nor pandoc found. No conversion performed."
   fi
