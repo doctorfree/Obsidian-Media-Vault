@@ -1,6 +1,6 @@
-# Vinyl
+# Vinyl Records
 
-## Table of Vinyl by Artist
+## Records sorted by Artist
 
 | **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** |
 |--|--|--|--|--|

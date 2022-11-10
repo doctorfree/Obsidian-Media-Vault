@@ -1,0 +1,119 @@
+# mkartists
+
+```shell
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/CD"
+OUT="CD_Artists.md"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+mkartists=
+numcols=1
+overwrite=
+remove=
+[ "$1" == "-f" ] && overwrite=1
+[ "$1" == "-r" ] && remove=1
+
+[ "${remove}" ] || [ "${overwrite}" ] && rm -f ../${OUT}
+
+[ -f ../${OUT} ] || {
+  mkartists=1
+  echo "# CD Artists" > ../${OUT}
+  echo "" >> ../${OUT}
+  echo "## List of CD Artists in Vault" >> ../${OUT}
+  echo "" >> ../${OUT}
+  echo "| **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** |" >> ../${OUT}
+  echo "|--|--|--|--|--|" >> ../${OUT}
+}
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  album="${artist}"
+  grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+  [ "${remove}" ] && {
+    rm -f ${artist}/${album}.md
+    continue
+  }
+  if [ "${overwrite}" ]
+  then
+    grep "title:" ${artist}/${album}.md > /dev/null && continue
+    rm -f ${artist}/${album}.md
+  else
+    [ -f ${artist}/${album}.md ] && continue
+  fi
+  cd "${artist}"
+  echo "" > /tmp/sa$$
+  echo "## CD" >> /tmp/sa$$
+  echo "" >> /tmp/sa$$
+  artistname=
+  for disc in *.md
+  do
+    [ "${disc}" == "*.md" ] && continue
+    [ "${disc}" == "${album}.md" ] && continue
+    [ "${artistname}" ] || {
+      artistname=`grep "artist:" ${disc} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    }
+    title=`grep "title:" ${disc} | awk -F ':' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+    echo "- [${title}](${disc})" >> /tmp/sa$$
+  done
+  wikilink=`echo ${artistname} | sed -e "s/ /_/g"`
+  echo "# ${artistname}" > /tmp/au$$
+  echo "" >> /tmp/au$$
+  echo "[Wikipedia entry](https://en.wikipedia.org/wiki/${wikilink})" >> /tmp/au$$
+  cat /tmp/au$$ /tmp/sa$$ > ${album}.md
+  rm -f /tmp/au$$ /tmp/sa$$
+  cd ..
+done
+
+cd "${TOP}"
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  [ "${mkartists}" ] && {
+    album="${artist}"
+    grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+    [ -f "${artist}/${album}.md" ] && {
+      for disc in ${artist}/*.md
+      do
+        [ "${disc}" == "${artist}/*.md" ] && continue
+        [ "${disc}" == "${artist}/${album}.md" ] && continue
+        grep "artist:" ${disc} > /dev/null && {
+          artistname=`grep "artist:" ${disc} | head -1 | \
+            awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          break
+        }
+      done
+      [ "${artistname}" ] && {
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${artistname}](CD/${artist}/${album}.md) |\n" >> ../${OUT}
+          numcols=1
+        else
+          printf "| [${artistname}](CD/${artist}/${album}.md) " >> ../${OUT}
+          numcols=$((numcols+1))
+        fi
+      }
+    }
+  }
+done
+
+[ "${mkartists}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ../${OUT}
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../${OUT}
+}
+```

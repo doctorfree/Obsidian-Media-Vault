@@ -33,7 +33,7 @@ If your Linux distribution does not include `curl` then that will also need to b
 
 My books are catalogued in Goodreads. To export a Goodreads book library, login to Goodreads and click `My Books`. Scroll down and click `Import and export` on the left. Click the `Export` button and wait for Goodreads to generate a link to your library export CSV file. Download that file by right clicking the generated link and saving to local disk.
 
-I wrote the following scripts to generate Markdown format files for each of the books in the downloaded CSV format Goodreads export, download the Goodreads RSS feed XML for specified bookshelves, and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
+The following scripts generate Markdown format files for each of the books in the downloaded CSV format Goodreads export, download the Goodreads RSS feed XML for specified bookshelves, and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
 
 <details>
   <p>
@@ -177,7 +177,7 @@ done
 
 Unfortunately, the Goodreads CSV export does not include the book cover images. If you want the links to the book covers for your library in Goodreads they are available in the RSS feeds for the Goodread shelves you have created. In Goodreads, go to a shelf (`My Books` then click on a shelf listed under `Bookshelves`) and at the bottom right corner there should be an RSS feed icon. Right click the RSS icon and copy the link. The RSS feed link should look something like `https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=anthologies` where `XXXXXXX` and `YYYblablablaYYY` are private codes representing your Goodreads ID and the shelf key. Take note of the last component of the RSS feed URL, the part in the example above with `&shelf=anthologies`. The `anthologies` part is the name of the shelf, in your case it will be something else, whatever the name of the shelf you selected.
 
-I wrote a script to make it easier to download the bookshelves RSS feed XML data. All you need to use this script is the first part of any RSS feed URL in your Goodreads bookshelves. In the example above that would be `https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=`. That is, everything but the shelf name.
+This script makes it easier to download the bookshelves RSS feed XML data. All you need to use this script is the first part of any RSS feed URL in your Goodreads bookshelves. In the example above that would be `https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=`. That is, everything but the shelf name.
 
 Replace the `baseurl` URL in the following script with your Goodreads base URL from an RSS feed URL of one of your shelves. Also replace the list of Goodreads shelves below in the variable `shelves` with a list of the shelves in your Goodreads library that you wish to export to XML.
 
@@ -240,7 +240,7 @@ done
 <details>
   <p>
 
-I wrote the following script to generate various indexes into the Markdown format files created in the Obsidian vault with the previous scripts. This script can generate lists of books sorted by author or title in list or table format.
+Generate various indexes into the Markdown format files created in the Obsidian vault with the previous scripts. This script can generate lists of books sorted by author or title in list or table format.
 
 ### [Tools/Books/mkbooks](Tools/Books/mkbooks.md) (click to collapse/expand)
 
@@ -544,11 +544,116 @@ fi
   </p>
 </details>
 
+<details>
+  <p>
+
+Generate markdown for each of the authors with a link to their Wikipedia article and links to their books. Also generate a markdown document with a table of all authors.
+
+### [Tools/Books/mkauthors](Tools/Books/mkauthors.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+mkauthors=
+numcols=1
+overwrite=
+remove=
+[ "$1" == "-f" ] && overwrite=1
+[ "$1" == "-r" ] && remove=1
+
+[ "${remove}" ] || [ "${overwrite}" ] && rm -f ../Authors.md
+
+[ -f ../Authors.md ] || {
+  mkauthors=1
+  echo "# Authors" > ../Authors.md
+  echo "" >> ../Authors.md
+  echo "## List of Authors in Vault" >> ../Authors.md
+  echo "" >> ../Authors.md
+  echo "| **Author Name** | **Author Name** | **Author Name** | **Author Name** | **Author Name** |" >> ../Authors.md
+  echo "|--|--|--|--|--|" >> ../Authors.md
+}
+
+for author in *
+do
+  [ "${author}" == "*" ] && continue
+  [ -d "${author}" ] || continue
+  [ "${remove}" ] && {
+    rm -f ${author}/${author}.md
+    continue
+  }
+  if [ "${overwrite}" ]
+  then
+    rm -f ${author}/${author}.md
+  else
+    [ -f ${author}/${author}.md ] && continue
+  fi
+  cd "${author}"
+  echo "" > /tmp/sa$$
+  echo "## Books" >> /tmp/sa$$
+  echo "" >> /tmp/sa$$
+  authorname=
+  for book in *.md
+  do
+    [ "${book}" == "*.md" ] && continue
+    [ "${book}" == "${author}.md" ] && continue
+    [ "${authorname}" ] || {
+      authorname=`grep "author:" ${book} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    }
+    title=`grep "title:" ${book} | awk -F ':' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+    echo "- [${title}](${book})" >> /tmp/sa$$
+  done
+  wikilink=`echo ${authorname} | sed -e "s/ /_/g"`
+  echo "# ${authorname}" > /tmp/au$$
+  echo "" >> /tmp/au$$
+  echo "[Wikipedia entry](https://en.wikipedia.org/wiki/${wikilink})" >> /tmp/au$$
+  cat /tmp/au$$ /tmp/sa$$ > ${author}.md
+  rm -f /tmp/au$$ /tmp/sa$$
+  cd ..
+  [ "${mkauthors}" ] && {
+    [ -f "${author}/${author}.md" ] && {
+      if [ ${numcols} -gt 4 ]
+      then
+        printf "| [${authorname}](Books/${author}/${author}.md) |\n" >> ../Authors.md
+        numcols=1
+      else
+        printf "| [${authorname}](Books/${author}/${author}.md) " >> ../Authors.md
+        numcols=$((numcols+1))
+      fi
+    }
+  }
+done
+
+[ "${mkauthors}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ../Authors.md
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../Authors.md
+}
+
+```
+
+  </p>
+</details>
+
 ## Vinyl_library
 
 My vinyl records are catalogued in [Discogs](https://www.discogs.com). To export a Discogs library, login to Discogs and click the `Dashboard` icon or your profile dropdown and `Dashboard`. At your Discogs dashboard, which should be something like [https://www.discogs.com/my](https://www.discogs.com/my), click `Export` at the top of the dashboard. In the `What to export` dropdown select `Collection`. Click the `Request Data Export` button and wait for Discogs to generate the export. Download the generated Discogs CSV export file by clicking the `Download` button.
 
-I wrote the following scripts to generate Markdown format files for each of the records in the downloaded CSV format Discogs export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
+The following scripts generate Markdown format files for each of the records in the downloaded CSV format Discogs export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
 
 <details>
   <p>
@@ -731,7 +836,7 @@ done
 <details>
   <p>
 
-I wrote the following script to generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of records sorted by artist or title in list or table format.
+Generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of records sorted by artist or title in list or table format.
 
 ### [Tools/Vinyl/mkvinyl](Tools/Vinyl/mkvinyl.md) (click to collapse/expand)
 
@@ -1004,6 +1109,136 @@ fi
   </p>
 </details>
 
+<details>
+  <p>
+
+Generate markdown for each of the vinyl artists with a link to their Wikipedia article and links to their record releases. Also generate a markdown document with a table of all vinyl artists.
+
+### [Tools/Vinyl/mkartists](Tools/Vinyl/mkartists.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+OUT="Vinyl_Artists.md"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+mkartists=
+numcols=1
+overwrite=
+remove=
+[ "$1" == "-f" ] && overwrite=1
+[ "$1" == "-r" ] && remove=1
+
+[ "${remove}" ] || [ "${overwrite}" ] && rm -f ../${OUT}
+
+[ -f ../${OUT} ] || {
+  mkartists=1
+  echo "# Vinyl Artists" > ../${OUT}
+  echo "" >> ../${OUT}
+  echo "## List of Vinyl Artists in Vault" >> ../${OUT}
+  echo "" >> ../${OUT}
+  echo "| **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** |" >> ../${OUT}
+  echo "|--|--|--|--|--|" >> ../${OUT}
+}
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  album="${artist}"
+  grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+  [ "${remove}" ] && {
+    rm -f ${artist}/${album}.md
+    continue
+  }
+  if [ "${overwrite}" ]
+  then
+    grep "title:" ${artist}/${album}.md > /dev/null && continue
+    rm -f ${artist}/${album}.md
+  else
+    [ -f ${artist}/${album}.md ] && continue
+  fi
+  cd "${artist}"
+  echo "" > /tmp/sa$$
+  echo "## Vinyl" >> /tmp/sa$$
+  echo "" >> /tmp/sa$$
+  artistname=
+  for disc in *.md
+  do
+    [ "${disc}" == "*.md" ] && continue
+    [ "${disc}" == "${album}.md" ] && continue
+    [ "${artistname}" ] || {
+      artistname=`grep "artist:" ${disc} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    }
+    title=`grep "title:" ${disc} | awk -F ':' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+    echo "- [${title}](${disc})" >> /tmp/sa$$
+  done
+  wikilink=`echo ${artistname} | sed -e "s/ /_/g"`
+  echo "# ${artistname}" > /tmp/au$$
+  echo "" >> /tmp/au$$
+  echo "[Wikipedia entry](https://en.wikipedia.org/wiki/${wikilink})" >> /tmp/au$$
+  cat /tmp/au$$ /tmp/sa$$ > ${album}.md
+  rm -f /tmp/au$$ /tmp/sa$$
+  cd ..
+done
+
+cd "${TOP}"
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  [ "${mkartists}" ] && {
+    album="${artist}"
+    grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+    [ -f "${artist}/${album}.md" ] && {
+      for disc in ${artist}/*.md
+      do
+        [ "${disc}" == "${artist}/*.md" ] && continue
+        [ "${disc}" == "${artist}/${album}.md" ] && continue
+        grep "artist:" ${disc} > /dev/null && {
+          artistname=`grep "artist:" ${disc} | head -1 | \
+            awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          break
+        }
+      done
+      [ "${artistname}" ] && {
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${artistname}](Vinyl/${artist}/${album}.md) |\n" >> ../${OUT}
+          numcols=1
+        else
+          printf "| [${artistname}](Vinyl/${artist}/${album}.md) " >> ../${OUT}
+          numcols=$((numcols+1))
+        fi
+      }
+    }
+  }
+done
+
+[ "${mkartists}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ../${OUT}
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../${OUT}
+}
+
+```
+
+  </p>
+</details>
+
 ## CD_library
 
 My CDs are catalogued in [Collectorz](https://cloud.collectorz.com). To export a Collectorz library:
@@ -1044,7 +1279,7 @@ For my scripts to work without much modification you will need to have selected 
 
 When done selecting columns click the `Generate file` button at the bottom.
 
-I wrote the following scripts to generate Markdown format files for each of the CDs in the downloaded CSV format Collectorz export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
+The following scripts generate Markdown format files for each of the CDs in the downloaded CSV format Collectorz export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
 
 <details>
   <p>
@@ -1220,7 +1455,7 @@ done
 <details>
   <p>
 
-I wrote the following script to generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of CDs sorted by artist or title in list or table format.
+Generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of CDs sorted by artist or title in list or table format.
 
 ### [Tools/CD/mkdisc](Tools/CD/mkdisc.md) (click to collapse/expand)
 
@@ -1491,6 +1726,136 @@ else
     rm -f /tmp/discs$$
   fi
 fi
+
+```
+
+  </p>
+</details>
+
+<details>
+  <p>
+
+Generate markdown for each of the CD artists with a link to their Wikipedia article and links to their CD releases. Also generate a markdown document with a table of all CD artists.
+
+### [Tools/CD/mkartists](Tools/CD/mkartists.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/CD"
+OUT="CD_Artists.md"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+mkartists=
+numcols=1
+overwrite=
+remove=
+[ "$1" == "-f" ] && overwrite=1
+[ "$1" == "-r" ] && remove=1
+
+[ "${remove}" ] || [ "${overwrite}" ] && rm -f ../${OUT}
+
+[ -f ../${OUT} ] || {
+  mkartists=1
+  echo "# CD Artists" > ../${OUT}
+  echo "" >> ../${OUT}
+  echo "## List of CD Artists in Vault" >> ../${OUT}
+  echo "" >> ../${OUT}
+  echo "| **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** |" >> ../${OUT}
+  echo "|--|--|--|--|--|" >> ../${OUT}
+}
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  album="${artist}"
+  grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+  [ "${remove}" ] && {
+    rm -f ${artist}/${album}.md
+    continue
+  }
+  if [ "${overwrite}" ]
+  then
+    grep "title:" ${artist}/${album}.md > /dev/null && continue
+    rm -f ${artist}/${album}.md
+  else
+    [ -f ${artist}/${album}.md ] && continue
+  fi
+  cd "${artist}"
+  echo "" > /tmp/sa$$
+  echo "## CD" >> /tmp/sa$$
+  echo "" >> /tmp/sa$$
+  artistname=
+  for disc in *.md
+  do
+    [ "${disc}" == "*.md" ] && continue
+    [ "${disc}" == "${album}.md" ] && continue
+    [ "${artistname}" ] || {
+      artistname=`grep "artist:" ${disc} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    }
+    title=`grep "title:" ${disc} | awk -F ':' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+    echo "- [${title}](${disc})" >> /tmp/sa$$
+  done
+  wikilink=`echo ${artistname} | sed -e "s/ /_/g"`
+  echo "# ${artistname}" > /tmp/au$$
+  echo "" >> /tmp/au$$
+  echo "[Wikipedia entry](https://en.wikipedia.org/wiki/${wikilink})" >> /tmp/au$$
+  cat /tmp/au$$ /tmp/sa$$ > ${album}.md
+  rm -f /tmp/au$$ /tmp/sa$$
+  cd ..
+done
+
+cd "${TOP}"
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  [ "${mkartists}" ] && {
+    album="${artist}"
+    grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+    [ -f "${artist}/${album}.md" ] && {
+      for disc in ${artist}/*.md
+      do
+        [ "${disc}" == "${artist}/*.md" ] && continue
+        [ "${disc}" == "${artist}/${album}.md" ] && continue
+        grep "artist:" ${disc} > /dev/null && {
+          artistname=`grep "artist:" ${disc} | head -1 | \
+            awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          break
+        }
+      done
+      [ "${artistname}" ] && {
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${artistname}](CD/${artist}/${album}.md) |\n" >> ../${OUT}
+          numcols=1
+        else
+          printf "| [${artistname}](CD/${artist}/${album}.md) " >> ../${OUT}
+          numcols=$((numcols+1))
+        fi
+      }
+    }
+  }
+done
+
+[ "${mkartists}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ../${OUT}
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../${OUT}
+}
 
 ```
 
