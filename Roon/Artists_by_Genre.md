@@ -1,0 +1,1667 @@
+# Roon Artists by Genre
+
+|  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|
+| **[Pop/Rock](#pop_rock)** | **[Classical](#classical)** | **[Country](#country)** | **[Electronic](#electronic)** | **[Jazz](#jazz)** | **[R&B](#r&b)** | **[Folk](#folk)** |
+| **[Rock](#rock)** | **[Blues](#blues)** | **[Stage & Screen](#stage_&_screen)** | **[Vocal](#vocal)** | **[International](#international)** | **[Avant-Garde](#avant_garde)** | **[Rap](#rap)** |
+| **[Latin](#latin)** | **[New Age](#new_age)** | **[Other](#other)** | **[Easy Listening](#easy_listening)** | **[Comedy/Spoken](#comedy_spoken)** | **[Religious](#religious)** | **[Alternative](#alternative)** |
+| **[Soundtrack](#soundtrack)** | **[Country & Folk](#country_folk)** | **[Alternative Rock](#alternative_rock)** | **[Folk Rock](#folk_rock)** | **[Alternative & Punk](#alternative_Punk)** | **[Reggae](#reggae)** | **[Holiday](#holiday)** |
+| **[Mashup](#mashup)** | **[Soul Funk](#soul_funk)** | **[Vocal Rock](#vocal_rock)** | **[Blues Rock](#blues_rock)** | **[Unknown Genre](#unknown_genre)** | **[Dance & DJ](#dance_dj)** | **[Folk Punk](#folk_punk)** |
+| **[Psychedelic Rock](#psychedelic_rock)** | **[Electronic Music](#electronic_music)** | **[Art Music > Classical](#art_music_classical)** | **[Alternative/Rock](#alternative_rock)** | **[Prog Rock](#prog_rock)** | **[Surf Rock](#surf_rock)** | **[Unclassifiable](#unclassifiable)** |
+| **[Metal](#metal)** | **[Pop/Rock Vocal](#pop_rock_vocal)** | **[Children's](#children's)** | **[Powerpop](#powerpop)** | **[Indie](#indie)** | **[Johnny Depp](#johnny_depp)** | **[Classic Rock](#classic_rock)** |
+| **[Spoken & Audio](#spoken_audio)** | **[Global](#global)** | **[Christian & Gospel](#christian_gospel)** |  |  |  |  |
+
+##  Pop_Rock
+- 10,000 Maniacs
+- 10cc
+- The 1975
+- 4 Non Blondes
+- 801
+- A Fine Frenzy
+- A*Teens
+- ABBA
+- Adele
+- Aerosmith
+- Aimee Mann
+- Al Kooper
+- Al Stewart
+- Alan Parsons
+- The Alan Parsons Project
+- Alanis Morissette
+- Alejandro Escovedo
+- Aleka's Attic
+- Alice Cooper (band)
+- Alien Ant Farm
+- Alison Krauss
+- The Allman Brothers Band
+- alt-J
+- Amanda Shires
+- Ambrosia
+- America
+- Ani DiFranco
+- Animal Collective
+- Anne‐Marie
+- Annie Haslam
+- April Stevens
+- Arcade Fire
+- Argent
+- Arthur Brown
+- Arthur Brown’s Kingdom Come
+- The Association
+- The Asylum Choir
+- At the Drive‐In
+- Atoms for Peace
+- Automat
+- Avishai Cohen
+- The B‐52s
+- Backstreet Boys
+- Bad Religion
+- The Band
+- Bangles
+- The Baseball Project
+- Be Bop Deluxe
+- The Beach Boys
+- Beastie Boys
+- Beat Farmers
+- The Beatles
+- The Beatnigs
+- The Beau Brummels
+- Bebe Rexha
+- Beck
+- Bee Gees
+- Beirut
+- Believable Picnic
+- Berliner Philharmoniker
+- Bibio
+- Big Brother & the Holding Company
+- Bill Miller
+- Billie Eilish
+- Billy Joe Shaver
+- Billy Joel
+- Billy Sandness
+- Billy Strings
+- The Bird and the Bee
+- Bishop Briggs
+- Björk
+- Black Eyed Peas
+- The Black Keys
+- Black Oak Arkansas
+- Black Pumas
+- Black Rebel Motorcycle Club
+- Black Sabbath
+- The Blessed Madonna
+- Blind Faith
+- blink‐182
+- Blondie
+- Blood, Sweat & Tears
+- Blue Floyd
+- Blue Öyster Cult
+- Blur
+- BNQT
+- BoA
+- Bob Dylan
+- Bob Moses
+- Bob Seger
+- Bob Seger & The Last Heard
+- Bob Stanley
+- Bobbie Gentry
+- Bobby Darin
+- Bobby Gillespie
+- Bobby Vee
+- Bobby Vinton
+- Boston
+- Boz Scaggs
+- Boz Scaggs & Band
+- Brandi Carlile
+- Bread
+- Brenda Lee
+- Bret McKenzie
+- Brewer & Shipley
+- Brian Eno
+- Brian Wilson
+- Britney Spears
+- Broken Bells
+- The Brothers Johnson
+- Bruno Mars
+- Bryan Ferry
+- The Buckinghams
+- Buddy & Julie Miller
+- Buddy Miller
+- Buffalo Springfield
+- Built to Spill
+- Burt Bacharach
+- Butterfly Jones
+- The Byrds
+- Cactus
+- Cadillac Tramps
+- Cage the Elephant
+- CAKE
+- Calexico
+- The Call
+- Camila Cabello
+- Camper Van Beethoven
+- Can
+- Canned Heat
+- Captain Beefheart
+- Captain Beefheart & His Magic Band
+- Captain Beyond
+- Carl Perkins
+- Carlos Santana
+- Carly Simon
+- Carole King
+- Carpenters
+- The Cars
+- Cass Elliot
+- Cat Power
+- Cat Stevens
+- Cheap Trick
+- The Cheetah Girls
+- Cher
+- Chicago
+- Chickenfoot
+- Chris Cacavas
+- Chris Cornell
+- Chris Robinson
+- The Chris Robinson Brotherhood
+- Christina Aguilera
+- Christopher Clark
+- Christopher Wolstenholme
+- Christy McWilson
+- Church of the Cosmic Skull
+- The Clash
+- Claypool Lennon Delirium
+- Cliff Martinez
+- Clint Mansell
+- Colin Blunstone
+- Commander Cody and His Lost Planet Airmen
+- Concrete Blonde
+- Cosmo’s Midnight
+- The Count Five
+- Counting Crows
+- Courtney Barnett
+- Cracker
+- The Cranberries
+- Crazy Horse
+- The Crazy World of Arthur Brown
+- Cream
+- Creedence Clearwater Revival
+- Cristobal Tapia de Veer
+- Crosby & Nash
+- Crosby, Stills & Nash
+- Crosby, Stills, Nash & Young
+- Cyrus Faryar
+- dada
+- Dada
+- Damn Yankees
+- Dan Auerbach
+- Dan Fogelberg
+- Dan Hicks
+- Dan Hicks and The Hot Licks
+- Danger Mouse
+- Dave Alvin
+- Dave Alvin & The Guilty Women
+- The Dave Clark Five
+- Dave Grohl
+- Dave Mason
+- David Allan Coe
+- David Bowie
+- David Byrne
+- David Crosby
+- David Freiberg
+- David Gray
+- David Guetta
+- David Rawlings
+- Dean Ween
+- The Dean Ween Group
+- Deep Purple
+- Del Shannon
+- Delbert McClinton
+- Demi Lovato
+- Dennis Wilson
+- The Devil Makes Three
+- DEVO
+- Diego's Umbrella
+- Dion
+- Dire Straits
+- The Disco Biscuits
+- Dominic Howard
+- Don Henley
+- Donovan
+- The Doobie Brothers
+- The Doors
+- Dr. Dog
+- Dr. John
+- Dua Lipa
+- The Dukes of Stratosphear
+- Duran Duran
+- Dusty Springfield
+- Dwight Yoakam
+- E
+- Eagles
+- Earth Opera
+- Ebba Forsberg
+- Edgar Winter
+- The Edgar Winter Group
+- Edie Brickell
+- Edie Brickell & New Bohemians
+- Edward Abbiah
+- EELS
+- Electric Flag
+- Electric Light Orchestra
+- Elton John
+- Elvis Costello
+- Elvis Costello & The Attractions
+- Elvis Costello & The Imposters
+- EMA
+- Emerson, Lake & Palmer
+- Emitt Rhodes
+- Emmylou Harris
+- English Chamber Choir
+- Eric Barao
+- Eric Burdon
+- Eric Clapton
+- Ethel
+- Eumir Deodato
+- Evanescence
+- The Everly Brothers
+- Faces
+- Faith Hill
+- Fanny
+- Fastball
+- Father John Misty
+- Fifth Harmony
+- Fiona Apple
+- Five Man Electrical Band
+- The Flaming Lips
+- Flash
+- Fleet Foxes
+- Fleetwood Mac
+- Flo & Eddie
+- The Flock
+- Florence + the Machine
+- Focus
+- The Four Seasons
+- Foxboro Hot Tubs
+- Foxy Shazam
+- Frank Foster
+- Frank Sinatra
+- Frank Zappa
+- Frankie Goes to Hollywood
+- Frankie Valli
+- Franz Ferdinand
+- Free
+- Funkadelic
+- The Fuzztones
+- Galactic
+- Garbage
+- Gareth Emery
+- Gary Moore
+- Gary Moore & G-Force
+- Gene Clark
+- Gene Pitney
+- Gentle Giant
+- George Harrison
+- The Ghost of a Saber Tooth Tiger
+- Giles, Giles & Fripp
+- Gillian Welch
+- Girls
+- The Giving Tree Band
+- Glen Campbell
+- The Go‐Go’s
+- GoGo Penguin
+- Gogol Bordello
+- Golden Earring
+- Golden Smog
+- Goo Goo Dolls
+- Good Riddance
+- Gorillaz
+- Grace Jones
+- Grace Slick
+- Graham Nash
+- Grand Funk Railroad
+- The Grass Roots
+- Grateful Dead
+- The Green Car Motel
+- Green Day
+- The Green Pajamas
+- Greg Laswell
+- Greg Saunier
+- Greta Van Fleet
+- Grizzly Bear
+- Gruppo Sportivo
+- Guster
+- Gwen Stefani
+- Halsey
+- Hank Williams III
+- Harry Nilsson
+- Hawkwind
+- Hayley Williams
+- The Heads
+- Heart
+- The Heavy Heavy
+- The Heavy
+- High Pulp
+- Hilary Duff
+- The Hollies
+- The Holy Mackerel
+- Hot Tuna
+- Ian Anderson
+- Ian Hunter
+- Icecream Hands
+- Idle Jets
+- Imogen Heap
+- Inara George
+- INXS
+- Iron Butterfly
+- Isabella Summers
+- Jack Casady
+- Jack Johnson
+- Jack White
+- Jackson Browne
+- James Brown
+- James Gang
+- James McMurtry
+- James Taylor
+- Jane’s Addiction
+- Janis Joplin
+- Janis Joplin & the Full Tilt Boogie Band
+- Jarvis Humby
+- Jay Bellerose
+- The Jayhawks
+- Jeff Beck
+- Jeff Lynne
+- Jefferson Airplane
+- Jefferson Starship
+- Jehnny Beth
+- Jellyfish
+- Jennifer Warnes
+- Jeremih
+- Jesse ‘Ed’ Davis
+- Jethro Tull
+- Jimi Hendrix
+- The Jimi Hendrix Experience
+- Jimmy Eat World
+- Jimmy Webb
+- Jo Jo Gunne
+- Joe Cocker
+- Joe Jackson
+- Joe Satriani
+- Joe Walsh
+- John Camp
+- John Doe
+- John Eddie
+- John Fogerty
+- John Frusciante
+- John Hartford
+- John Lennon
+- John Mayall
+- John Mayall & the Bluesbreakers
+- John Mellencamp
+- John Paul Jones
+- John Phillips
+- John Prine
+- John Tout
+- Johnny Cash
+- Johnny Mathis
+- Johnny Mercer
+- Johnny Rivers
+- Jonathan Segel
+- Joni Mitchell
+- Jools Holland
+- Jorma Kaukonen
+- José Feliciano
+- Josh Clayton-Felt
+- Joy Division
+- Joy of Cooking
+- Judee Sill
+- Julie London
+- Julie Miller
+- Justin Timberlake
+- k.d. lang
+- Kaleidoscope
+- Kaminanda
+- Kansas
+- Kat DeLuna
+- Katie Melua
+- Katy Perry
+- KBC Band
+- Keef Hartley
+- Keef Hartley Band
+- Keefus Ciancia
+- Kemp & Eden
+- Kid Rock
+- The Killers
+- King Crimson
+- King Radio
+- Kings of Leon
+- The Kinks
+- Kito
+- KT Tunstall
+- Kurt Vile
+- Labrinth
+- Lady Gaga
+- Lady Lamb
+- Lady Lamb
+- Lana Del Rey
+- Led Zeppelin
+- Lee Hazlewood
+- Lee Michaels
+- Legendary Grape
+- Leif Shackelford
+- Leon Russell
+- Lily Allen
+- The Linda Lindas
+- Linda McCartney
+- Linda Ronstadt
+- Lindsey Buckingham
+- Link Wray
+- Little Feat
+- Loggins & Messina
+- London Contemporary Orchestra
+- London Symphony Orchestra
+- Long John Baldry
+- Lorde
+- Los Lobos
+- loscil
+- Love
+- The Lovin’ Spoonful
+- Low
+- Lowell George
+- LSD
+- Lucinda Williams
+- Lukas Nelson
+- Lukas Nelson & Promise of the Real
+- Luna
+- Lynne Me Your Ears
+- Lynyrd Skynyrd
+- M Ross Perkins
+- M. Ward
+- Mac DeMarco
+- Madonna
+- The Mamas & the Papas
+- Mammatus
+- Man Man
+- Manassas
+- Mandrill
+- Manfred Mann
+- Manfred Mann
+- Manfred Mann’s Earth Band
+- Marc Benno
+- Marcus King
+- The Marcus King Band
+- Marcy Playground
+- Maria Muldaur
+- Mariah Carey
+- Marillion
+- Marilyn Manson
+- Marilyn Monroe
+- Mark Jonathan Davis
+- Mark Knopfler
+- Maroon 5
+- Martika
+- Marty Balin
+- Marvin Gaye
+- Massive Attack
+- Matchbox Twenty
+- Matt Bellamy
+- Matt Berry
+- Matthew Sweet
+- Me First and the Gimme Gimmes
+- Meat Loaf
+- Meat Puppets
+- Melanie
+- Melting Euphoria
+- The Melvilles
+- Mermen
+- Metallica
+- Metric
+- Metropole Orkest
+- MGMT
+- Mick Fleetwood
+- Mike Batt
+- Mike Bloomfield
+- Mike Campbell
+- Mike Campbell & The Dirty Knobs
+- Mike Oldfield
+- Miles Davis
+- Miley Cyrus
+- Mitch Ryder
+- Mitch Ryder & The Detroit Wheels
+- Moby Grape
+- Mockingbirds
+- moe.
+- The Monks of Doom
+- The Moody Blues
+- Morningwood
+- The Mothers of Invention
+- Mott the Hoople
+- The Move
+- Mudcrutch
+- Murder by Death
+- Muse
+- My Morning Jacket
+- Mystical Weapons
+- Nancy Sinatra
+- Nancy Sinatra & Lee Hazlewood
+- Natalie Cole
+- Natalie Merchant
+- Neil Young
+- Neil Young & Crazy Horse
+- New Order
+- The New Pornographers
+- New Riders of the Purple Sage
+- Nick Drake
+- Nick Raskulinecz
+- Nicky Hopkins
+- Nicolette Larson
+- Nightwish
+- Nine Inch Nails
+- Nino Tempo
+- Nino Tempo & April Stevens
+- The Nitty Gritty Dirt Band
+- No Doubt
+- Norah Jones
+- of Montreal
+- Old & In the Way
+- Oliver Tree
+- Os Mutantes
+- Ozark Mountain Daredevils
+- Ozomatli
+- P. Hux
+- P!nk
+- The Pack A.D.
+- Paloma Mami
+- Panic! at the Disco
+- Paramore
+- Parquet Courts
+- Parthenon Huxley
+- Patti Smith
+- Paul Butterfield
+- The Paul Butterfield Blues Band
+- Paul Kantner
+- Paul Kaspian
+- Paul McCartney
+- Paul Revere & the Raiders
+- Paul Simon
+- Paul Thorn
+- Paul Williams
+- Pavement
+- Pearl Charles
+- Pearl Harbor & the Explosions
+- Pete Bernhard
+- Pete Wiggs
+- Peter Banks
+- Peter Gabriel
+- Phil Manzanera
+- Philadelphia Orchestra
+- Phish
+- The Pineapple Thief
+- Pink Floyd
+- Pixies
+- Placebo
+- Plastic Ono Band
+- Player
+- Poco
+- The Police
+- Polo & Pan
+- The Polyphonic Spree
+- Porcupine Tree
+- Portishead
+- Portugal. The Man
+- Prefab Sprout
+- Pretenders
+- The Pretty Things
+- Prince
+- Priscilla Ahn
+- Procol Harum
+- Public Service Broadcasting
+- Pulp
+- PWR BTTM
+- Quasi Stellular Object
+- Queen
+- Queens of the Stone Age
+- Quicksilver Messenger Service
+- R.E.M.
+- Rachel Sweet
+- The Raconteurs
+- Radiohead
+- Railroad Earth
+- Ramones
+- Randy Newman
+- Rare Earth
+- The Rascals
+- The Raspberries
+- Ray Charles
+- The Record Company
+- Red Hot Chili Peppers
+- Red Rider
+- Redbone
+- Regina Spektor
+- Renaissance
+- Return to Forever
+- The Reverend Peyton’s Big Damn Band
+- The Revivalists
+- The Revolution
+- Richard Cheese & Lounge Against The Machine
+- Richard Harris
+- Rick Nelson & The Stone Canyon Band
+- Rick Wakeman
+- Rickie Lee Jones
+- Ricky Nelson
+- Rina Sawayama
+- Ringo Starr
+- Rivers Cuomo
+- Robert Fripp
+- Robert Palmer
+- Robert Plant
+- Robyn Hitchcock
+- Rod Stewart
+- Rodrigo y Gabriela
+- The Rolling Stones
+- The Rooks
+- The Rowan Brothers
+- Roxy Music
+- Roy Harper
+- Roy Orbison
+- Rufus Wainwright
+- Rush
+- Rusted Root
+- Santana
+- Savages
+- School of Fish
+- Sean Lennon
+- Selena Gomez
+- Shakira
+- The Shangri‐Las
+- Shania Twain
+- The Shazam
+- She & Him
+- Sheryl Crow
+- Shocking Blue
+- Sierra Ferrell
+- Silver Apples
+- Silver Synthetic
+- Silversun Pickups
+- Sister Double Happiness
+- Slash
+- Sleigh Bells
+- Sly & the Family Stone
+- The Smashing Pumpkins
+- Snail
+- The Sons of Champlin
+- Sound Tribe Sector 9
+- Soundgarden
+- Soundtrack
+- The Souther, Hillman, Furay Band
+- The Spencer Davis Group
+- Spirit
+- Spoon
+- Spot 1019
+- Squeeze
+- St. Vincent
+- Stardeath and White Dwarfs
+- Status Quo
+- Steely Dan
+- Stephen Sondheim
+- Stephen Stills
+- Steppenwolf
+- Steve Earle
+- Steve Howe
+- Steve Miller
+- Steve Miller
+- Steve Miller Band
+- Steve Winwood
+- Steven Wilson
+- Stevie Nicks
+- Stevie Wonder
+- Stone Poneys
+- The Stone Roses
+- The Strawbs
+- Sturgill Simpson
+- Sublime
+- The Sugarcubes
+- Sugarloaf
+- Super Furry Animals
+- Supergrass
+- Supertramp
+- Suzanne Vega
+- The Swingers
+- System of a Down
+- T‐Bone Burnett
+- T. Rex
+- Talking Heads
+- Tame Impala
+- Taylor Hawkins
+- Taylor Swift
+- Tears for Fears
+- Tedeschi Trucks Band
+- Television
+- Ten Years After
+- Tenacious D
+- Terry Reid
+- Terry Sullivan
+- Terry & the Pirates
+- Them
+- Thin Lizzy
+- Thom Yorke
+- Three Dog Night
+- Tim Buckley
+- Tim Connell
+- The Ting Tings
+- Todd Rundgren
+- Todd Rundgren & Utopia
+- Tom Jones
+- Tom Petty
+- Tom Petty & the Heartbreakers
+- Tom Tom Club
+- Tom Waits
+- Tommy James & the Shondells
+- Tommy Roe
+- Tool
+- Tori Amos
+- Tracy Chapman
+- Traffic
+- Train
+- The Traveling Wilburys
+- Triumvirat
+- The Tubes
+- The Turtles
+- Ty Segall
+- Unit 4+2
+- Uriah Heep
+- Utopia
+- Van Dyke Parks
+- Van Halen
+- Van Morrison
+- Vanilla Fudge
+- Velvet Revolver
+- The Ventures
+- Wallflowers
+- The Wallflowers
+- Wanda Jackson
+- War
+- Ween
+- Weezer
+- Wet Leg
+- The White Stripes
+- Whitney Houston
+- The Who
+- Will Bates
+- Willie Nelson
+- Willis Alan Ramsey
+- Wilson Pickett
+- Wings
+- Wishbone Ash
+- The Wondermints
+- World Entertainment War
+- Wrecking Crew
+- X
+- XTC
+- The Yardbirds
+- Yellow Matter Custard
+- Yes
+- Ylvis
+- Yoko Ono
+- The Youngbloods
+- Yuna
+- The Zombies
+- 池玲子 (Ike Reiko)
+##  Classical
+- “Sir” Roland Hanna
+- Aaron Copland
+- Akademie für Alte Musik Berlin
+- Amsterdam Sinfonietta
+- Andrew Litton
+- Andrew Lloyd Webber
+- Ann Murray
+- Anne Akiko Meyers
+- Anne‐Sophie Mutter
+- Annie Haslam
+- Antoine Tamestit
+- Augustin Hadelich
+- Avishai Cohen
+- Berliner Philharmoniker
+- Billy Joel
+- Billy Strayhorn
+- Brian Eno
+- Burt Bacharach
+- Cameron Carpenter
+- Carducci String Quartet
+- Carlo Maria Giulini
+- Carlos Kleiber
+- Carly Simon
+- Charles Mingus
+- Chick Corea
+- Christopher Wolstenholme
+- Claudio Abbado
+- Cliff Martinez
+- Clint Mansell
+- Colin Davis
+- Columbia Symphony Orchestra
+- Curtis Mayfield
+- Daniel Barenboim
+- Dave Brubeck
+- David Byrne
+- Diana Krall
+- Diplo
+- Dominic Howard
+- Dong-Hyek Lim
+- Duke Ellington
+- Elton John
+- Emanuel Ax
+- Emerson, Lake & Palmer
+- Engegårdkvartetten
+- English Chamber Choir
+- Ethel
+- Fatboy Slim
+- Frank Foster
+- Frank Sinatra
+- Frank Zappa
+- George Gershwin
+- Göteborgs Symfoniker
+- Gudni A. Emilsson
+- Gustavo Dudamel
+- Hans Zimmer
+- Harry Nilsson
+- Hélène Grimaud
+- Herbert von Karajan
+- Igor Oistrakh, George Malcolm, Georg Fischer,  Wiener Symphoniker,  Royal Philharmonic Orchestra, Eugene Goossens, David Oistrakh
+- Irving Berlin
+- Isabelle Faust
+- James Brown
+- Jesse Cook
+- Jimmy Webb
+- Johannes Brahms
+- Joseph Trapanese
+- Judy Garland
+- Julia Fischer
+- Lang Lang
+- Leonard Bernstein
+- Linda McCartney
+- London Contemporary Orchestra
+- London Symphony Orchestra
+- Los Angeles Philharmonic
+- Manfred Honeck
+- Marco Schiavo
+- Marilyn Monroe
+- Mark Knopfler
+- Martha Argerich
+- Max Roach
+- Metropole Orkest
+- Michael Tilson Thomas
+- Mike Batt
+- Mike Oldfield
+- Münchner Philharmoniker
+- Neil Young
+- Neville Marriner
+- New York Philharmonic
+- Nick Raskulinecz
+- Paul McCartney
+- Paul Winter
+- Peter Gabriel
+- Philadelphia Orchestra
+- Philip Glass
+- Pretenders
+- Randy Newman
+- Richard Harris
+- Rick Wakeman
+- Ricky Nelson
+- Roy Orbison
+- Royal Philharmonic Orchestra
+- Rufus Wainwright
+- Russian National Orchestra
+- San Francisco Symphony
+- Staatskapelle Berlin
+- Stephen Sondheim
+- Steve Miller
+- Thomas Beecham
+- Tibor Varga
+- Tolga Kashif
+- Tom Waits
+- TrondheimSolistene
+- Valery Gergiev
+- Van Cliburn
+- Van Dyke Parks
+- Walter Süsskind
+- Wendy Carlos
+- West Side Story Cast Ensemble
+- Wiener Philharmoniker
+- Wiener Symphoniker
+- Yakov Kreizberg
+- Yannick Nézet‐Séguin
+- Yuja Wang
+- Yundi Li
+##  Country
+- Alejandro Escovedo
+- Alison Krauss
+- Amanda Shires
+- Bill Miller
+- Billy Joe Shaver
+- Billy Strings
+- Bobbie Gentry
+- Brandi Carlile
+- Brenda Lee
+- Buddy & Julie Miller
+- Buddy Miller
+- The Cactus Blossoms
+- Calexico
+- Carl Perkins
+- Chet Atkins
+- Chris Rowan
+- Christy McWilson
+- Commander Cody and His Lost Planet Airmen
+- Dan Hicks
+- Dan Hicks and The Hot Licks
+- Dave Alvin
+- Dave Clark
+- David Allan Coe
+- Delbert McClinton
+- The Devil Makes Three
+- Doc & Merle Watson
+- Doc Watson
+- Donnie Record
+- Dwight Yoakam
+- Earl Scruggs
+- The Earl Scruggs Revue
+- Emmylou Harris
+- The Everly Brothers
+- Faith Hill
+- Fleet Foxes
+- Gene Clark
+- Gillian Welch
+- The Giving Tree Band
+- Glen Campbell
+- The Good Luck Thrift Store Outfit
+- Hank Williams
+- Hank Williams III
+- James McMurtry
+- The Jayhawks
+- John Hartford
+- Johnny Cash
+- Jorma Kaukonen
+- Julie Miller
+- k.d. lang
+- k.d. lang and The Reclines
+- Lee Hazlewood
+- Linda Ronstadt
+- Little Feat
+- Lorin Rowan
+- Los Lobos
+- The Louvin Brothers
+- Lucinda Williams
+- Lukas Nelson
+- Margo Price
+- Maria Muldaur
+- Mark Knopfler
+- Merle Watson
+- Nancy Sinatra
+- Nefesh Mountain
+- Nicolette Larson
+- The Nitty Gritty Dirt Band
+- No Justice
+- Old & In the Way
+- Patti Page
+- Paul Thorn
+- Pearl Charles
+- Pete Bernhard
+- Peter Rowan
+- Railroad Earth
+- Randy Scruggs
+- The Rowan Brothers
+- The Rowans
+- Shania Twain
+- Shaver
+- Sierra Ferrell
+- The Souther, Hillman, Furay Band
+- Steve Earle
+- Sturgill Simpson
+- Suzy Bogguss
+- Taylor Swift
+- Tennessee Ernie Ford
+- Tom Jones
+- Tony Rice
+- Vince Gill
+- Wanda Jackson
+- Wheeler Walker Jr.
+- Willie Nelson
+##  Electronic
+- A*Teens
+- Ampersounds
+- Armin van Buuren
+- Bebe Rexha
+- Beck
+- Bibio
+- Björk
+- Black Eyed Peas
+- The Blessed Madonna
+- Blondie
+- Bob Moses
+- Bobby Gillespie
+- Brian Eno
+- Cher
+- Clark
+- Cliff Martinez
+- Clint Mansell
+- Cosmo’s Midnight
+- Cristobal Tapia de Veer
+- Daft Punk
+- David Byrne
+- David Guetta
+- Demi Lovato
+- Diplo
+- Ekali
+- Erol Sarp
+- Fatboy Slim
+- Ferry Corsten
+- Frankie Goes to Hollywood
+- Gareth Emery
+- Grace Jones
+- Grandbrothers
+- Gwen Stefani
+- High Pulp
+- Jack Ü
+- James Brown
+- Jim Jacobsen
+- John Frusciante
+- Jon Hopkins
+- Joris Delacroix
+- Junkie XL
+- Justin Martin
+- Kaminanda
+- Kat DeLuna
+- Kito
+- Krista Richards
+- Lady Gaga
+- Lee Hazlewood
+- loscil
+- LSD
+- Lukas Vogel
+- Madonna
+- Magic Sound Fabric
+- Malaa
+- Massive Attack
+- matHame
+- Moby
+- Mr. Scruff
+- Oliver Tree
+- Park Hye Jin
+- Paul van Dyk
+- Plaid
+- Polo & Pan
+- Porcupine Tree
+- Portishead
+- Prince
+- The Prodigy
+- Public Service Broadcasting
+- Satori (Nl)
+- Selena Gomez
+- Shakira
+- Skrillex
+- Soul II Soul
+- Sound Tribe Sector 9
+- Tiësto
+- Tom Jones
+- Ugress
+- Wendy Carlos
+- ZHU
+##  Jazz
+- “Brother” Jack McDuff
+- “Sir” Roland Hanna
+- Artemis
+- Avishai Cohen
+- The Balkan Noyz Boyz
+- Billy Strayhorn
+- Carlos Santana
+- Charles Mingus
+- Chick Corea
+- Count Basie
+- Count Basie Orchestra
+- Dave Brubeck
+- The Dave Brubeck Quartet
+- Diana Krall
+- Don Preston
+- Duke Ellington
+- Ethel
+- Eumir Deodato
+- Frank Foster
+- Frank Sinatra
+- Frank Zappa
+- Frankie Valli
+- Galactic
+- George Gershwin
+- GoGo Penguin
+- Göteborgs Symfoniker
+- Greg Saunier
+- High Pulp
+- Howlin’ Wolf
+- Isfar Sarabski
+- The J.B.’s
+- Jeff Beck
+- João Gilberto
+- Joe Pass
+- Joe Satriani
+- John Handy
+- John Handy and Ali Akbar Khan
+- Johnny Mercer
+- Joni Mitchell
+- Jools Holland
+- Julie London
+- Keefus Ciancia
+- Les Paul
+- Los Angeles Philharmonic
+- Max Roach
+- Melody Gardot
+- Metropole Orkest
+- Miles Davis
+- Natalie Cole
+- Nino Tempo
+- Norah Jones
+- Paul Winter
+- Philip Glass
+- Phish
+- Ray Bryant Combo
+- Ray Charles
+- Return to Forever
+- Santana
+- Stan Getz
+- Steve Howe
+- Stevie Wonder
+- Tim Buckley
+- Tony Bennett
+##  R&B
+- ABBA
+- Al Kooper
+- Aretha Franklin
+- B.B. King
+- Barrett Strong
+- Bee Gees
+- Black Pumas
+- Bobbie Gentry
+- Booker T. & the MG’s
+- Boz Scaggs
+- The Brothers Johnson
+- Brownie McGhee
+- Bruno Mars
+- Burt Bacharach
+- Christina Aguilera
+- Curtis Mayfield
+- David Bowie
+- Dion
+- The Doobie Brothers
+- Dr. John
+- Dusty Springfield
+- Eumir Deodato
+- The Four Seasons
+- Frankie Valli
+- Funkadelic
+- Galactic
+- Grace Jones
+- H.E.R.
+- The Heavy
+- High Pulp
+- Howlin’ Wolf
+- The Impressions
+- The J.B.’s
+- James Brown
+- James Brown & The Famous Flames
+- Jeremih
+- Jimi Hendrix
+- Johnny Mathis
+- Justin Timberlake
+- Lee Michaels
+- Mandrill
+- Mariah Carey
+- Marvin Gaye
+- The Meters
+- Mitch Ryder
+- Mitch Ryder & The Detroit Wheels
+- Natalie Cole
+- Prince
+- Rare Earth
+- The Rascals
+- Ray Charles
+- The Revolution
+- Robert Palmer
+- Rod Stewart
+- Sly & the Family Stone
+- Sonny Terry
+- Soul II Soul
+- Soundtrack
+- The Spencer Davis Group
+- Steve Winwood
+- Stevie Wonder
+- Tank and the Bangas
+- Todd Rundgren
+- Tom Jones
+- Tower of Power
+- Van Morrison
+- War
+- Whitney Houston
+- Wilson Pickett
+- Wrecking Crew
+- Yuna
+##  Folk
+- Amanda Shires
+- Ani DiFranco
+- Beirut
+- Bill Miller
+- Bob Dylan
+- Bobby Darin
+- Brewer & Shipley
+- The Byrds
+- Crosby, Stills, Nash & Young
+- David Crosby
+- David Gray
+- David Rawlings
+- The Devil Makes Three
+- Doc & Merle Watson
+- Doc Watson
+- Donovan
+- Earl Scruggs
+- The Earl Scruggs Revue
+- Edie Brickell
+- Edie Brickell & New Bohemians
+- Gillian Welch
+- The Giving Tree Band
+- Ian Anderson
+- James McMurtry
+- John Hartford
+- John Mellencamp
+- John Prine
+- Jorma Kaukonen
+- Julie Miller
+- Lee Hazlewood
+- Leo Kottke
+- Lucinda Williams
+- Maelstrom Quartet
+- Melanie
+- Michael Hedges
+- Nefesh Mountain
+- Nick Drake
+- The Nitty Gritty Dirt Band
+- Paul Kaspian
+- Pete Bernhard
+- Peter Rowan
+- Priscilla Ahn
+- Regina Spektor
+- Roy Harper
+- Sonny Terry
+- Steve Earle
+- Stone Poneys
+- The Strawbs
+- Suzanne Vega
+- Terry & the Pirates
+- Tim Buckley
+- Tony Rice
+- Tracy Chapman
+- Traffic
+##  Rock
+- The Baseball Project
+- The Beach Boys
+- The Beatles
+- Believable Picnic
+- Blue Floyd
+- Blue Öyster Cult
+- Burlacticus Undertow
+- Butterfly Jones
+- Camper Van Beethoven
+- Colin Blunstone
+- dada
+- Deth Specula
+- The Doors
+- E
+- Eagles
+- Electric Light Orchestra
+- Fanny
+- The Heads
+- The Holy Sisters Of The Gaga Dada
+- Idle Jets
+- Jefferson Starship
+- KBC Band
+- King Radio
+- The Kinks
+- Legendary Grape
+- Lynne Me Your Ears
+- MC Hawking
+- The Melvilles
+- Mermen
+- Mike Batt
+- Moby Grape
+- moe.
+- Murder by Death
+- P. Hux
+- The Redlight District
+- Ringo Starr
+- Rocky & Friends
+- Spot 1019
+- Todd Rundgren
+- Triumvirat
+- Uriah Heep
+- The Wondermints
+- World Entertainment War
+- Yellow Matter Custard
+##  Blues
+- The Allman Brothers Band
+- B.B. King
+- Blind Faith
+- Brownie McGhee
+- Buddy Miller
+- Canned Heat
+- Count Basie
+- Cream
+- Delbert McClinton
+- Doc & Merle Watson
+- Dr. John
+- Eric Clapton
+- Fleetwood Mac
+- Hot Tuna
+- Howlin’ Wolf
+- Jeff Beck
+- John Mayall
+- John Mayall & the Bluesbreakers
+- Jorma Kaukonen
+- Keef Hartley
+- Keef Hartley Band
+- Led Zeppelin
+- Long John Baldry
+- Marc Benno
+- Maria Muldaur
+- Mick Fleetwood
+- Mike Bloomfield
+- Paul Butterfield
+- The Paul Butterfield Blues Band
+- The Pretty Things
+- Ray Charles
+- The Reverend Peyton’s Big Damn Band
+- Rivers Cuomo
+- Rod Stewart
+- The Rolling Stones
+- Sonny Terry
+- Sonny Terry & Brownie McGhee
+- Soundtrack
+- Tedeschi Trucks Band
+- Ten Years After
+- Them
+- The Yardbirds
+##  Stage_&_Screen
+- Andrew Lloyd Webber
+- Arnold Brown
+- Bret McKenzie
+- Burt Bacharach
+- Cliff Martinez
+- Clint Mansell
+- Curtis Mayfield
+- Daniele Luppi
+- Frank Sinatra
+- George Gershwin
+- Hans Zimmer
+- Harry Nilsson
+- Imogen Heap
+- Irving Berlin
+- Isabella Summers
+- James Brown
+- John Doe
+- Johnny Mathis
+- Jon Hopkins
+- Joseph Trapanese
+- Judy Garland
+- Junkie XL
+- k.d. lang
+- Labrinth
+- Leonard Bernstein
+- London Symphony Orchestra
+- Mark Knopfler
+- Marvin Gaye
+- Michael Tilson Thomas
+- New York Philharmonic
+- Original Broadway Cast
+- Paul Williams
+- Philip Glass
+- Randy Newman
+- Richard Harris
+- Rick Wakeman
+- Royal Philharmonic Orchestra
+- Shirley Bassey
+- Stephen Sondheim
+- Tony Bennett
+- Wiener Philharmoniker
+##  Vocal
+- “Sir” Roland Hanna
+- April Stevens
+- Bobby Darin
+- Bobby Vinton
+- Diana Krall
+- Duke Ellington
+- The Four Seasons
+- Frank Sinatra
+- Frankie Valli
+- George Gershwin
+- Irving Berlin
+- Joe Pass
+- Johnny Mathis
+- Johnny Mercer
+- Judy Garland
+- Julie London
+- Leonard Bernstein
+- Les Paul
+- Linda Ronstadt
+- Los Angeles Philharmonic
+- Marilyn Monroe
+- Melody Gardot
+- Metropole Orkest
+- Nancy Sinatra & Lee Hazlewood
+- Nino Tempo & April Stevens
+- Norah Jones
+- Patti Page
+- Paul Williams
+- Richard Harris
+- Shirley Bassey
+- Stephen Sondheim
+- Tolga Kashif
+- Tom Jones
+- Tony Bennett
+- Wiener Symphoniker
+- Willie Nelson
+##  International
+- Anne‐Sophie Mutter
+- Avishai Cohen
+- Bill Miller
+- BoA
+- Bomba Estéreo
+- C.U.B.A.
+- Camper Van Beethoven
+- Chet Atkins
+- David Byrne
+- Doc & Merle Watson
+- Doc Watson
+- Eumir Deodato
+- Fela Kuti
+- Fela Kuti & Africa 70
+- Gogol Bordello
+- Göteborgs Symfoniker
+- Jesse Cook
+- João Gilberto
+- John Handy
+- King Radio
+- Leo Kottke
+- Nefesh Mountain
+- Os Mutantes
+- Paul Simon
+- Peter Gabriel
+- Rain Sultanov
+- Rodrigo y Gabriela
+- Stan Getz
+- Yuna
+##  Avant_Garde
+- Aaron Copland
+- Brian Eno
+- Can
+- Carducci String Quartet
+- Clark
+- David Byrne
+- Ethel
+- Frank Zappa
+- George Gershwin
+- Leonard Bernstein
+- loscil
+- Mike Oldfield
+- Philip Glass
+- Pink Floyd
+- Robert Fripp
+- Silver Apples
+- Steve Miller
+- Wendy Carlos
+- Yoko Ono
+##  Rap
+- Atmosphere
+- Awkwafina
+- Beastie Boys
+- Black Eyed Peas
+- Danger Mouse
+- Diplo
+- Dr. Dre
+- Gorillaz
+- Jack Ü
+- Kid Rock
+- MC Hawking
+- Oliver Tree
+- Ozomatli
+- Park Hye Jin
+- Status Quo
+- Tank and the Bangas
+##  Latin
+- Bomba Estéreo
+- Camila Cabello
+- Daniel Barenboim
+- Eumir Deodato
+- José Feliciano
+- KAROL G
+- Kat DeLuna
+- Los Lobos
+- Ozomatli
+- Paloma Mami
+- Phil Manzanera
+- Rodrigo y Gabriela
+- Selena Gomez
+- Shakira
+##  New_Age
+- Brian Eno
+- Hans Zimmer
+- Ian Anderson
+- Ingo Swann and Steven Halpern
+- Jesse Cook
+- Jim Jacobsen
+- Michael Hedges
+- Mike Oldfield
+- Oliver Wakeman
+- Paul Winter
+- Paul Winter Consort
+- Phil Manzanera
+- Philip Glass
+##  Other
+- Blue Floyd
+- Burlacticus Undertow
+- Caradura de California
+- Deth Specula
+- Eric Barao
+- Grand Atlantic
+- Private Jets
+- Sneaky Creekans
+- The Solicitors
+- Sons of the Great Dane
+##  Easy_Listening
+- April Stevens
+- Daniele Luppi
+- London Symphony Orchestra
+- Mike Batt
+- Münchner Philharmoniker
+- Philadelphia Orchestra
+- Royal Philharmonic Orchestra
+- Staatskapelle Berlin
+- Walter Süsskind
+##  Comedy_Spoken
+- Bret McKenzie
+- Flo & Eddie
+- Frank Zappa
+- Mark Jonathan Davis
+- MC Hawking
+- Me First and the Gimme Gimmes
+- Richard Harris
+- Steven Wright
+- Tom Waits
+- Ylvis
+##  Religious
+- Aretha Franklin
+- Believable Picnic
+- Buddy Miller
+- Johnny Cash
+- Julie Miller
+- The Louvin Brothers
+- Maria Muldaur
+- Tennessee Ernie Ford
+- Wanda Jackson
+##  Alternative
+- Bryan Ferry
+- dada
+- Dada
+- Grizzly Bear
+- John Frusciante
+- Jools Holland
+##  Soundtrack
+- The Cheetah Girls
+- Paul Williams
+- Soundtrack
+- Wrecking Crew
+##  Country_Folk
+- Delbert McClinton
+- The Devil Makes Three
+- Dwight Yoakam
+##  Alternative_Rock
+- Aleka's Attic
+- BNQT
+- Muse
+##  Folk_Rock
+- Al Kooper
+- Mike Bloomfield
+- Stephen Stills
+##  Alternative_Punk
+- Camper Van Beethoven
+- Gorillaz
+##  Reggae
+- Diplo
+- Horace Andy
+##  Holiday
+- Annie Haslam
+- London Symphony Orchestra
+##  Mashup
+- A Plus D
+##  Soul_Funk
+- Drixxxe
+##  Vocal_Rock
+- The Beatles
+##  Blues_Rock
+- Electric Flag
+##  Unknown_Genre
+- Electric Light Orchestra
+##  Dance_DJ
+- Gareth Emery
+##  Folk_Punk
+- Camper Van Beethoven
+##  Psychedelic_Rock
+- The Ghost of a Saber Tooth Tiger
+##  Electronic_Music
+- Wendy Carlos
+##  Art_Music_Classical
+- Engegårdkvartetten
+##  Alternative_Rock
+- Arcade Fire
+##  Prog_Rock
+- Marillion
+##  Surf_Rock
+- Mermen
+##  Unclassifiable
+- Burlacticus Undertow
+##  Metal
+- Evanescence
+##  Pop_Rock_Vocal
+- Pop Geek Heaven
