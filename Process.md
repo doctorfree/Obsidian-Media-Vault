@@ -1,4 +1,4 @@
-# Tools
+# Process
 
 Several custom scripts and utilities were used to automate the generation of markdown files in the Obsidian Media Vault. For example, the source data used in the generation of the Books sub-vault consisted of a CSV export of a Goodreads library along with XML format RSS feeds of all the bookshelves in that Goodreads library. The CSV and XML were processed using tools like [csvkit](https://csvkit.readthedocs.io/en/latest), `grep`, `sed`, `awk`, and other system utilities.
 
@@ -37,7 +37,6 @@ My books are catalogued in Goodreads. To export a Goodreads book library, login 
 The following scripts generate Markdown format files for each of the books in the downloaded CSV format Goodreads export, download the Goodreads RSS feed XML for specified bookshelves, and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
 
 <Details markdown="block">
-  <p>
 
 Script to generate Markdown format files for each of the books in the downloaded CSV format Goodreads export.
 
@@ -170,11 +169,9 @@ done
 
 ```
 
-  </p>
 </Details>
 
 <Details markdown="block">
-  <p>
 
 Unfortunately, the Goodreads CSV export does not include the book cover images. If you want the links to the book covers for your library in Goodreads they are available in the RSS feeds for the Goodread shelves you have created. In Goodreads, go to a shelf (`My Books` then click on a shelf listed under `Bookshelves`) and at the bottom right corner there should be an RSS feed icon. Right click the RSS icon and copy the link. The RSS feed link should look something like `https://www.goodreads.com/review/list_rss/XXXXXXX?key=YYYsomelongstringofdigitsandnumbersYYYE&shelf=anthologies` where `XXXXXXX` and `YYYblablablaYYY` are private codes representing your Goodreads ID and the shelf key. Take note of the last component of the RSS feed URL, the part in the example above with `&shelf=anthologies`. The `anthologies` part is the name of the shelf, in your case it will be something else, whatever the name of the shelf you selected.
 
@@ -235,11 +232,9 @@ done
 
 ```
 
-  </p>
 </Details>
 
 <Details markdown="block">
-  <p>
 
 Generate various indexes into the Markdown format files created in the Obsidian vault with the previous scripts. This script can generate lists of books sorted by author or title in list or table format.
 
@@ -542,11 +537,9 @@ fi
 
 ```
 
-  </p>
 </Details>
 
 <Details markdown="block">
-  <p>
 
 Generate markdown for each of the authors with a link to their Wikipedia article and links to their books. Also generate a markdown document with a table of all authors.
 
@@ -647,7 +640,6 @@ done
 
 ```
 
-  </p>
 </Details>
 
 ## Vinyl_library
@@ -657,7 +649,6 @@ My vinyl records are catalogued in [Discogs](https://www.discogs.com). To export
 The following scripts generate Markdown format files for each of the records in the downloaded CSV format Discogs export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
 
 <Details markdown="block">
-  <p>
 
 Script to generate Markdown format files for each of the records in the downloaded CSV format Discogs export. You will need to modify this script, changing `data/doctorfree-collection-discogs.csv` to the location of your downloaded Discogs CSV export.
 
@@ -831,11 +822,9 @@ done
 
 ```
 
-  </p>
 </Details>
 
 <Details markdown="block">
-  <p>
 
 Generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of records sorted by artist or title in list or table format.
 
@@ -1107,11 +1096,9 @@ fi
 
 ```
 
-  </p>
 </Details>
 
 <Details markdown="block">
-  <p>
 
 Generate markdown for each of the vinyl artists with a link to their Wikipedia article and links to their record releases. Also generate a markdown document with a table of all vinyl artists.
 
@@ -1237,7 +1224,6 @@ done
 
 ```
 
-  </p>
 </Details>
 
 ## CD_library
@@ -1283,7 +1269,6 @@ When done selecting columns click the `Generate file` button at the bottom.
 The following scripts generate Markdown format files for each of the CDs in the downloaded CSV format Collectorz export and create various indexes of the generated Obsidian vault. Click the arrow to the left of the details link to expand or collapse each script.
 
 <Details markdown="block">
-  <p>
 
 Script to generate Markdown format files for each of the CDs in the downloaded CSV format Collectorz export. You will need to modify this script, changing `data/export_albums.csv` to the location of your downloaded Collectorz CSV export.
 
@@ -1450,11 +1435,9 @@ done
 
 ```
 
-  </p>
 </Details>
 
 <Details markdown="block">
-  <p>
 
 Generate various indexes into the Markdown format files created in the Obsidian vault with the previous script. This script can generate lists of CDs sorted by artist or title in list or table format.
 
@@ -1730,11 +1713,9 @@ fi
 
 ```
 
-  </p>
 </Details>
 
 <Details markdown="block">
-  <p>
 
 Generate markdown for each of the CD artists with a link to their Wikipedia article and links to their CD releases. Also generate a markdown document with a table of all CD artists.
 
@@ -1860,7 +1841,6 @@ done
 
 ```
 
-  </p>
 </Details>
 
 ## Apple_Music
