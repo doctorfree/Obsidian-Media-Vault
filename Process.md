@@ -1873,7 +1873,12 @@ The scripts used to perform this initial pass at an Apple Music markdown index c
 
 ## Roon Audio System
 
-To index and categorize a [Roon Audio System](https://roonlabs.com) library, the [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme) package can be used. RoonCommandLine provides command line utilities that can be used to list various aspects of a Roon library. The scripts used to produce the Roon markdown for this repository can be found in `Tools/Roon/`. Example Roon markdown can be viewed at [Roon/Albums_by_Artist.md](Roon/Albums_by_Artist.md) and [Roon/Tracks_by_Artist.md](Roon/Tracks_by_Artist.md).
+To index and categorize a [Roon Audio System](https://roonlabs.com) library, the [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme) package can be used. RoonCommandLine provides command line utilities that can be used to list various aspects of a Roon library. The scripts used to produce the Roon markdown for this repository can be found in `Tools/Roon/`. Example Roon markdown can be viewed at:
+
+- [Roon Albums by Artist](Roon/Albums_by_Artist.md)
+- [Roon Albums by Composer](Roon/Albums_by_Composer.md)
+- [Roon Albums by Genre](Roon/Albums_by_Genre.md)
+- [Roon Tracks by Artist](Roon/Tracks_by_Artist.md)
 
 ## See_also
 
