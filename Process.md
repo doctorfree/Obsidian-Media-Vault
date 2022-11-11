@@ -1871,6 +1871,10 @@ Using this [excellent tutorial at Movable Type](https://www.movable-type.co.uk/s
 
 The scripts used to perform this initial pass at an Apple Music markdown index can be found in the `Tools/Apple/` folder. Working with XML is unpleasant and I no longer use Apple Music that frequently so this sub-project is languishing due to lack of motivation or interest. If you would like to contribute please do so.
 
+## Roon Audio System
+
+To index and categorize a [Roon Audio System](https://roonlabs.com) library, the [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme) package can be used. RoonCommandLine provides command line utilities that can be used to list various aspects of a Roon library. The scripts used to produce the Roon markdown for this repository can be found in `Tools/Roon/`. Example Roon markdown can be viewed at [Roon/Albums_by_Artist.md](Roon/Albums_by_Artist.md) and [Roon/Tracks_by_Artist.md](Roon/Tracks_by_Artist.md).
+
 ## See_also
 
 - [README](README.md)
