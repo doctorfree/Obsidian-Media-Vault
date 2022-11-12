@@ -21,7 +21,7 @@ review:
 
 By John Steinbeck
 
-![](../../1179886349l/968636.jpg)
+![](../../assets/bookcovers/1179886349l/968636.jpg)
 
 ## Book data
 

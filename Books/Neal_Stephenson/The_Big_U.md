@@ -21,7 +21,7 @@ review:
 
 By Neal Stephenson
 
-![](../../1407709321l/826.jpg)
+![](../../assets/bookcovers/1407709321l/826.jpg)
 
 ## Book data
 

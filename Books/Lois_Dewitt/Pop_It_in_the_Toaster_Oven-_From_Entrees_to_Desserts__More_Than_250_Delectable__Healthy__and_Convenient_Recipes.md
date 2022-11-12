@@ -21,7 +21,7 @@ review:
 
 By Lois Dewitt
 
-![](../../1320547498l/836581.jpg)
+![](../../assets/bookcovers/1320547498l/836581.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Ted Williams
 
-![](../../1386924399l/205658.jpg)
+![](../../assets/bookcovers/1386924399l/205658.jpg)
 
 ## Book data
 

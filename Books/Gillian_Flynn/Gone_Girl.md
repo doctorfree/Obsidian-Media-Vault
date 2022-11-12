@@ -21,7 +21,7 @@ review:
 
 By Gillian Flynn
 
-![](../../1554086139l/19288043.jpg)
+![](../../assets/bookcovers/1554086139l/19288043.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Ursula K. Le Guin
 
-![](../../1488213612l/18423._SY475_.jpg)
+![](../../assets/bookcovers/1488213612l/18423._SY475_.jpg)
 
 ## Book data
 

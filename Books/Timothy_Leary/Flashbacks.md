@@ -21,7 +21,7 @@ review:
 
 By Timothy Leary
 
-![](../../1171046059l/83491.jpg)
+![](../../assets/bookcovers/1171046059l/83491.jpg)
 
 ## Book data
 

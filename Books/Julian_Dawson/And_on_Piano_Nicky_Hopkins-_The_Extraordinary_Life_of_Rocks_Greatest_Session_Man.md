@@ -21,7 +21,7 @@ review:
 
 By Julian Dawson
 
-![](../../1328056420l/10577306.jpg)
+![](../../assets/bookcovers/1328056420l/10577306.jpg)
 
 ## Book data
 

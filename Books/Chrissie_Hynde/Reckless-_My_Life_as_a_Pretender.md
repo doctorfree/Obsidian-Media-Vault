@@ -21,7 +21,7 @@ review:
 
 By Chrissie Hynde
 
-![](../../1435597696l/25147580.jpg)
+![](../../assets/bookcovers/1435597696l/25147580.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Haruki Murakami
 
-![](../../1437952316l/17803._SY475_.jpg)
+![](../../assets/bookcovers/1437952316l/17803._SY475_.jpg)
 
 ## Book data
 

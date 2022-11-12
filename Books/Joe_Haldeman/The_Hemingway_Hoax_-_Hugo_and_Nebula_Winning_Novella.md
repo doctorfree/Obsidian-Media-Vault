@@ -21,7 +21,7 @@ review:
 
 By Joe Haldeman
 
-![](../../1384023528l/17864526.jpg)
+![](../../assets/bookcovers/1384023528l/17864526.jpg)
 
 ## Book data
 

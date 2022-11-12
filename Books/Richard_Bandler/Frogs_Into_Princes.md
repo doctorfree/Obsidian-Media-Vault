@@ -21,7 +21,7 @@ review:
 
 By Richard Bandler
 
-![](../../1435959317l/81766._SY475_.jpg)
+![](../../assets/bookcovers/1435959317l/81766._SY475_.jpg)
 
 ## Book data
 

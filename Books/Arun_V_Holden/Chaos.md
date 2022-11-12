@@ -21,7 +21,7 @@ review:
 
 By Arun V. Holden
 
-![](../../1245120003l/1697544.jpg)
+![](../../assets/bookcovers/1245120003l/1697544.jpg)
 
 ## Book data
 

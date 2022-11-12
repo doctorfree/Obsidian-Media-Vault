@@ -21,7 +21,7 @@ review: I really loved this novel. Sort of a hybrid between a hard-bitten detect
 
 By Haruki Murakami
 
-![](../../1320525702l/106484.jpg)
+![](../../assets/bookcovers/1320525702l/106484.jpg)
 
 ## Book data
 

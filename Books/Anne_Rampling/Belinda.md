@@ -21,7 +21,7 @@ review:
 
 By Anne Rampling
 
-![](../../1442192796l/31334._SY475_.jpg)
+![](../../assets/bookcovers/1442192796l/31334._SY475_.jpg)
 
 ## Book data
 

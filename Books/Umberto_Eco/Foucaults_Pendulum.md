@@ -21,7 +21,7 @@ review:
 
 By Umberto Eco
 
-![](../../1179000348l/863942.jpg)
+![](../../assets/bookcovers/1179000348l/863942.jpg)
 
 ## Book data
 

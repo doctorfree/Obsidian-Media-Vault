@@ -21,7 +21,7 @@ review:
 
 By Dora Russell
 
-![](../../1245208752l/6553579.jpg)
+![](../../assets/bookcovers/1245208752l/6553579.jpg)
 
 ## Book data
 

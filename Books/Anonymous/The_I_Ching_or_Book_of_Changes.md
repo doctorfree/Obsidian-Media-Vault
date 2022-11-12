@@ -21,7 +21,7 @@ review:
 
 By Anonymous
 
-![](../../1406503668l/534289.jpg)
+![](../../assets/bookcovers/1406503668l/534289.jpg)
 
 ## Book data
 

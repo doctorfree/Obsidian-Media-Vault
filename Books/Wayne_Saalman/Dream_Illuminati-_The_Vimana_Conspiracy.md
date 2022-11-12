@@ -21,7 +21,7 @@ review:
 
 By Wayne Saalman
 
-![](../../1348238244l/997888.jpg)
+![](../../assets/bookcovers/1348238244l/997888.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Rupert Sheldrake
 
-![](../../1386925424l/369075.jpg)
+![](../../assets/bookcovers/1386925424l/369075.jpg)
 
 ## Book data
 

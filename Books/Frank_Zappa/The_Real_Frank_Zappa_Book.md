@@ -21,7 +21,7 @@ review:
 
 By Frank Zappa
 
-![](../../1454520887l/39671._SX318_.jpg)
+![](../../assets/bookcovers/1454520887l/39671._SX318_.jpg)
 
 ## Book data
 

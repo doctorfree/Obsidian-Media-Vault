@@ -1,5 +1,7 @@
 # Groff Conklin
 
+Edward Groff Conklin (September 6, 1904, Glen Ridge, New Jersey - July 19, 1968, Pawling, New York) was a leading science fiction anthologist. Conklin edited 41 anthologies of science fiction, wrote books on home improvement and was a freelance writer on scientific subjects. From 1950 to 1955, he was the book critic for Galaxy Science Fiction.
+
 [Wikipedia entry](https://en.wikipedia.org/wiki/Groff_Conklin)
 
 ## Books

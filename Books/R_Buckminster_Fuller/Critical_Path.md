@@ -21,7 +21,7 @@ review:
 
 By R. Buckminster Fuller
 
-![](../../1388184191l/190038.jpg)
+![](../../assets/bookcovers/1388184191l/190038.jpg)
 
 ## Book data
 

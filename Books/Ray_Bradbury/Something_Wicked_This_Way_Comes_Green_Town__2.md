@@ -21,7 +21,7 @@ review:
 
 By Ray Bradbury
 
-![](../../1409596011l/248596.jpg)
+![](../../assets/bookcovers/1409596011l/248596.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Stanisław Lem
 
-![](../../1166889908l/18194.jpg)
+![](../../assets/bookcovers/1166889908l/18194.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Philip José Farmer
 
-![](../../1245133511l/6550930.jpg)
+![](../../assets/bookcovers/1245133511l/6550930.jpg)
 
 ## Book data
 

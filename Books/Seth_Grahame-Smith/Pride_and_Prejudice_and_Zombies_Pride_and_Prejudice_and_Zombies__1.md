@@ -21,7 +21,7 @@ review:
 
 By Seth Grahame-Smith
 
-![](../../1320449653l/5899779.jpg)
+![](../../assets/bookcovers/1320449653l/5899779.jpg)
 
 ## Book data
 

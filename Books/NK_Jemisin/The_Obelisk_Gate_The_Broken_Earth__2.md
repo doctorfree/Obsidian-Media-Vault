@@ -21,7 +21,7 @@ review:
 
 By N.K. Jemisin
 
-![](../../1660867781l/26228034._SY475_.jpg)
+![](../../assets/bookcovers/1660867781l/26228034._SY475_.jpg)
 
 ## Book data
 

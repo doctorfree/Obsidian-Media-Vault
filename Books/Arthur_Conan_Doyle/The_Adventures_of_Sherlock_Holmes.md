@@ -21,7 +21,7 @@ review:
 
 By Arthur Conan Doyle
 
-![](../../1394754946l/18626857.jpg)
+![](../../assets/bookcovers/1394754946l/18626857.jpg)
 
 ## Book data
 

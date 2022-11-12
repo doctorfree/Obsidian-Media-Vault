@@ -21,7 +21,7 @@ review:
 
 By James B. South
 
-![](../../1327190130l/31912.jpg)
+![](../../assets/bookcovers/1327190130l/31912.jpg)
 
 ## Book data
 

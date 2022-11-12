@@ -21,7 +21,7 @@ review:
 
 By Jane Leavy
 
-![](../../1383166267l/6899530.jpg)
+![](../../assets/bookcovers/1383166267l/6899530.jpg)
 
 ## Book data
 

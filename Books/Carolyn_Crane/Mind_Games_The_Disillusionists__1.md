@@ -21,7 +21,7 @@ review:
 
 By Carolyn Crane
 
-![](../../1388350276l/6890220.jpg)
+![](../../assets/bookcovers/1388350276l/6890220.jpg)
 
 ## Book data
 

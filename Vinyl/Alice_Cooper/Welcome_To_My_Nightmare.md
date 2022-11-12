@@ -18,7 +18,7 @@ notes:
 
 By Alice Cooper
 
-![](../../assets/albumcovers/Alice_Cooper-Welcome_To_My_Nightmare.md.png)
+![](../../assets/albumcovers/Alice_Cooper-Welcome_To_My_Nightmare.png)
 
 ## Album Data
 

@@ -21,7 +21,7 @@ review:
 
 By David A. Farris
 
-![](../../1387664591l/3364099.jpg)
+![](../../assets/bookcovers/1387664591l/3364099.jpg)
 
 ## Book data
 

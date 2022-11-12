@@ -21,7 +21,7 @@ review:
 
 By Aldous Huxley
 
-![](../../1343875941l/3282409.jpg)
+![](../../assets/bookcovers/1343875941l/3282409.jpg)
 
 ## Book data
 

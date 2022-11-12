@@ -21,7 +21,7 @@ review:
 
 By James E. Lovelock
 
-![](../../1432696530l/274230._SY475_.jpg)
+![](../../assets/bookcovers/1432696530l/274230._SY475_.jpg)
 
 ## Book data
 

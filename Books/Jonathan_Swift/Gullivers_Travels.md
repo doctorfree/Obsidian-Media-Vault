@@ -21,7 +21,7 @@ review:
 
 By Jonathan Swift
 
-![](../../1328106571l/6192934.jpg)
+![](../../assets/bookcovers/1328106571l/6192934.jpg)
 
 ## Book data
 

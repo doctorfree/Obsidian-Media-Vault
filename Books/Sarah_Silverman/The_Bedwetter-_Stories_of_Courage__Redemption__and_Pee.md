@@ -21,7 +21,7 @@ review: As you would expect - hilarious! But, what I did not expect, it's a self
 
 By Sarah Silverman
 
-![](../../1269295414l/7897478.jpg)
+![](../../assets/bookcovers/1269295414l/7897478.jpg)
 
 ## Book data
 

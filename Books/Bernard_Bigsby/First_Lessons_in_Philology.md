@@ -21,7 +21,7 @@ review:
 
 By Bernard Bigsby
 
-![](../../1245453859l/6558201.jpg)
+![](../../assets/bookcovers/1245453859l/6558201.jpg)
 
 ## Book data
 

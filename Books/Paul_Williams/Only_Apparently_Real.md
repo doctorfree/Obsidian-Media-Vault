@@ -21,7 +21,7 @@ review:
 
 By Paul Williams
 
-![](../../1348823277l/839056.jpg)
+![](../../assets/bookcovers/1348823277l/839056.jpg)
 
 ## Book data
 

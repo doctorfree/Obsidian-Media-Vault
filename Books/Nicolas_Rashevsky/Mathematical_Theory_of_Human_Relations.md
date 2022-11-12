@@ -21,7 +21,7 @@ review:
 
 By Nicolas Rashevsky
 
-![](../../1366057537l/6550673.jpg)
+![](../../assets/bookcovers/1366057537l/6550673.jpg)
 
 ## Book data
 

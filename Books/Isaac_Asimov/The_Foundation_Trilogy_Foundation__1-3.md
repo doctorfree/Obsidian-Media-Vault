@@ -21,7 +21,7 @@ review:
 
 By Isaac Asimov
 
-![](../../1316412178l/46654.jpg)
+![](../../assets/bookcovers/1316412178l/46654.jpg)
 
 ## Book data
 

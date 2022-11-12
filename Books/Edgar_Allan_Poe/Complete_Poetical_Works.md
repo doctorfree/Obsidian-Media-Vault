@@ -21,7 +21,7 @@ review:
 
 By Edgar Allan Poe
 
-![](../../1328306746l/6290235.jpg)
+![](../../assets/bookcovers/1328306746l/6290235.jpg)
 
 ## Book data
 

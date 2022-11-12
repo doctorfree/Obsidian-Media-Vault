@@ -21,7 +21,7 @@ review:
 
 By George Bernard Shaw
 
-![](../../1328308074l/6323710.jpg)
+![](../../assets/bookcovers/1328308074l/6323710.jpg)
 
 ## Book data
 

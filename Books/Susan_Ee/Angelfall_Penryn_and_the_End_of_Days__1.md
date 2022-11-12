@@ -21,7 +21,7 @@ review:
 
 By Susan Ee
 
-![](../../1346235303l/13623817.jpg)
+![](../../assets/bookcovers/1346235303l/13623817.jpg)
 
 ## Book data
 

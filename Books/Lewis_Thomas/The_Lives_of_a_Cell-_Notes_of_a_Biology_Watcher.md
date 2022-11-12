@@ -21,7 +21,7 @@ review:
 
 By Lewis Thomas
 
-![](../../1348684638l/294368.jpg)
+![](../../assets/bookcovers/1348684638l/294368.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Ann Leckie
 
-![](../../1493642929l/23533039.jpg)
+![](../../assets/bookcovers/1493642929l/23533039.jpg)
 
 ## Book data
 

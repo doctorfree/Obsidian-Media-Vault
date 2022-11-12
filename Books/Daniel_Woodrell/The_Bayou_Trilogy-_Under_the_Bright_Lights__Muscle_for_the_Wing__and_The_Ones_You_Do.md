@@ -21,7 +21,7 @@ review:
 
 By Daniel Woodrell
 
-![](../../1442190886l/9477992._SY475_.jpg)
+![](../../assets/bookcovers/1442190886l/9477992._SY475_.jpg)
 
 ## Book data
 

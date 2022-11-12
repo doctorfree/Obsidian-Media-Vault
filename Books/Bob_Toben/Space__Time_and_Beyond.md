@@ -21,7 +21,7 @@ review:
 
 By Bob Toben
 
-![](../../1245453176l/691586.jpg)
+![](../../assets/bookcovers/1245453176l/691586.jpg)
 
 ## Book data
 

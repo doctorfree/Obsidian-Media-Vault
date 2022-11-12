@@ -21,7 +21,7 @@ review:
 
 By Theodore Sturgeon
 
-![](../../1403192694l/541024.jpg)
+![](../../assets/bookcovers/1403192694l/541024.jpg)
 
 ## Book data
 

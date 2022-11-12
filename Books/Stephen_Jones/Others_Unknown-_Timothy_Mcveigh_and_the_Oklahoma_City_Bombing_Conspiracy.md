@@ -21,7 +21,7 @@ review:
 
 By Stephen Jones
 
-![](../../1347454067l/438098.jpg)
+![](../../assets/bookcovers/1347454067l/438098.jpg)
 
 ## Book data
 

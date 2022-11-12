@@ -21,7 +21,7 @@ review:
 
 By Frank X. Barron
 
-![](../../1244925434l/4369088.jpg)
+![](../../assets/bookcovers/1244925434l/4369088.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By William Irwin
 
-![](../../1328811688l/31813.jpg)
+![](../../assets/bookcovers/1328811688l/31813.jpg)
 
 ## Book data
 

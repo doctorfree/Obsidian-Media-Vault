@@ -21,7 +21,7 @@ review:
 
 By Heinz-Otto Peitgen
 
-![](../../1245091834l/6549735.jpg)
+![](../../assets/bookcovers/1245091834l/6549735.jpg)
 
 ## Book data
 

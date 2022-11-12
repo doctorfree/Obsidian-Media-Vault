@@ -21,7 +21,7 @@ review:
 
 By Bettany Hughes
 
-![](../../1320523412l/8461105.jpg)
+![](../../assets/bookcovers/1320523412l/8461105.jpg)
 
 ## Book data
 

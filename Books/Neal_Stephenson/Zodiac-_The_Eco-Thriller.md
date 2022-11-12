@@ -21,7 +21,7 @@ review: Stephenson's writing improves dramatically in this, his 2nd novel. It's 
 
 By Neal Stephenson
 
-![](../../1328856914l/142913.jpg)
+![](../../assets/bookcovers/1328856914l/142913.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Alfred J. Lotka
 
-![](../../1328848872l/1957444.jpg)
+![](../../assets/bookcovers/1328848872l/1957444.jpg)
 
 ## Book data
 

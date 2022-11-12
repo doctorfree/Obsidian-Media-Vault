@@ -21,7 +21,7 @@ review:
 
 By Oscar Wilde
 
-![](../../1245455046l/6558232.jpg)
+![](../../assets/bookcovers/1245455046l/6558232.jpg)
 
 ## Book data
 

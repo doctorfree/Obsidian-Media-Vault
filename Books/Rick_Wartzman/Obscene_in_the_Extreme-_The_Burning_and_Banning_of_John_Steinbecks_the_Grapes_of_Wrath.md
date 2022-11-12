@@ -21,7 +21,7 @@ review:
 
 By Rick Wartzman
 
-![](../../1328759345l/2801664.jpg)
+![](../../assets/bookcovers/1328759345l/2801664.jpg)
 
 ## Book data
 

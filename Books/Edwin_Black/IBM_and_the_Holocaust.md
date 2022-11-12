@@ -21,7 +21,7 @@ review:
 
 By Edwin Black
 
-![](../../1170356670l/48838._SY475_.jpg)
+![](../../assets/bookcovers/1170356670l/48838._SY475_.jpg)
 
 ## Book data
 

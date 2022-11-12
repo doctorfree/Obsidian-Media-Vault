@@ -21,7 +21,7 @@ review:
 
 By Kurt Gödel
 
-![](../../1328862649l/208288.jpg)
+![](../../assets/bookcovers/1328862649l/208288.jpg)
 
 ## Book data
 

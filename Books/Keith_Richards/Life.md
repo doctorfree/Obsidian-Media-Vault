@@ -21,7 +21,7 @@ review: Be sure to read all the way to the end of this fairly long book so as no
 
 By Keith Richards
 
-![](../../1327960451l/9439303.jpg)
+![](../../assets/bookcovers/1327960451l/9439303.jpg)
 
 ## Book data
 

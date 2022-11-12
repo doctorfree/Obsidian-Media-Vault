@@ -21,7 +21,7 @@ review: This extensively researched history of the Comanche should be required r
 
 By S.C. Gwynne
 
-![](../../1395176404l/7648269.jpg)
+![](../../assets/bookcovers/1395176404l/7648269.jpg)
 
 ## Book data
 

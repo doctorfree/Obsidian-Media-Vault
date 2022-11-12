@@ -21,7 +21,7 @@ review:
 
 By Tom Robbins
 
-![](../../1468160857l/3735283.jpg)
+![](../../assets/bookcovers/1468160857l/3735283.jpg)
 
 ## Book data
 

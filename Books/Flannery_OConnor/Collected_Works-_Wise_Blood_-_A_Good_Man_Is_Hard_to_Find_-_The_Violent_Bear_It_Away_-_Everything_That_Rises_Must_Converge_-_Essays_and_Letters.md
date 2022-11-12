@@ -21,7 +21,7 @@ review:
 
 By Flannery O'Connor
 
-![](../../1412900634l/48462.jpg)
+![](../../assets/bookcovers/1412900634l/48462.jpg)
 
 ## Book data
 

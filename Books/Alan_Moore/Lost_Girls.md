@@ -21,7 +21,7 @@ review:
 
 By Alan Moore
 
-![](../../1388194140l/58652.jpg)
+![](../../assets/bookcovers/1388194140l/58652.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By "J.R. ""Bob"" Dobbs"
 
-![](../../1244922298l/3746492.jpg)
+![](../../assets/bookcovers/1244922298l/3746492.jpg)
 
 ## Book data
 

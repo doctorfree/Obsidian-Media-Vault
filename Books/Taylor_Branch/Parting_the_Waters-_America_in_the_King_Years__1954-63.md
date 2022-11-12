@@ -21,7 +21,7 @@ review:
 
 By Taylor Branch
 
-![](../../1441025384l/414077._SY475_.jpg)
+![](../../assets/bookcovers/1441025384l/414077._SY475_.jpg)
 
 ## Book data
 

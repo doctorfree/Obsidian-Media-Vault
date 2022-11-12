@@ -21,7 +21,7 @@ review:
 
 By Hermann Hesse
 
-![](../../1386923584l/25905.jpg)
+![](../../assets/bookcovers/1386923584l/25905.jpg)
 
 ## Book data
 

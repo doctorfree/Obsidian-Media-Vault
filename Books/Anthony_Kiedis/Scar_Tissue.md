@@ -21,7 +21,7 @@ review:
 
 By Anthony Kiedis
 
-![](../../1348688305l/96647.jpg)
+![](../../assets/bookcovers/1348688305l/96647.jpg)
 
 ## Book data
 

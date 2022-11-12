@@ -21,7 +21,7 @@ review:
 
 By Rob Brezsny
 
-![](../../1440258189l/137022._SX318_.jpg)
+![](../../assets/bookcovers/1440258189l/137022._SX318_.jpg)
 
 ## Book data
 

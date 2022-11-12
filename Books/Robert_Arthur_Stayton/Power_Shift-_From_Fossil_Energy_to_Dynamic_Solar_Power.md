@@ -21,7 +21,7 @@ review: "Power Shift" really should be required reading for all. This book clear
 
 By Robert Arthur Stayton
 
-![](../../1430508761l/25463452.jpg)
+![](../../assets/bookcovers/1430508761l/25463452.jpg)
 
 ## Book data
 

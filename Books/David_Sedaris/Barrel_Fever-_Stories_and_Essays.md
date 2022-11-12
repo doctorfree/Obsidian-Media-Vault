@@ -21,7 +21,7 @@ review:
 
 By David Sedaris
 
-![](../../1453273003l/4143._SY475_.jpg)
+![](../../assets/bookcovers/1453273003l/4143._SY475_.jpg)
 
 ## Book data
 

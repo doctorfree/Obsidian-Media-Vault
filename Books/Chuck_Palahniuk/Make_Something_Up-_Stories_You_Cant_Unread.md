@@ -21,7 +21,7 @@ review:
 
 By Chuck Palahniuk
 
-![](../../1417407855l/22822857.jpg)
+![](../../assets/bookcovers/1417407855l/22822857.jpg)
 
 ## Book data
 

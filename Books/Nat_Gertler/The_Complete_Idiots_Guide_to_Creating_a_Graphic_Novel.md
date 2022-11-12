@@ -21,7 +21,7 @@ review:
 
 By Nat Gertler
 
-![](../../1309285850l/151533.jpg)
+![](../../assets/bookcovers/1309285850l/151533.jpg)
 
 ## Book data
 

@@ -21,11 +21,13 @@ review:
 
 By Groff Conklin
 
-![](https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png)
+![](../../assets/no-picture-available.png)
 
 ## Book data
 
 [GoodReads ID/URL](https://www.goodreads.com/book/show/6550338)
+
+[Paperback Edition](Big_Book_of_Science_Fiction_paperback.md)
 
 - ISBN: 
 - ISBN13: 

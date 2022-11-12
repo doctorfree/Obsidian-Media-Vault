@@ -21,7 +21,7 @@ review: This may, in fact, be the best book ever written. Apologies to Tom Robbi
 
 By Chuck Palahniuk
 
-![](../../1388248283l/22285.jpg)
+![](../../assets/bookcovers/1388248283l/22285.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By Lorrie Moore
 
-![](../../1377707408l/18050057.jpg)
+![](../../assets/bookcovers/1377707408l/18050057.jpg)
 
 ## Book data
 

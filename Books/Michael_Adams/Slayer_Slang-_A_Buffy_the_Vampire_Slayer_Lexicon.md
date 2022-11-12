@@ -21,7 +21,7 @@ review:
 
 By Michael Adams
 
-![](../../1340737779l/140456.jpg)
+![](../../assets/bookcovers/1340737779l/140456.jpg)
 
 ## Book data
 

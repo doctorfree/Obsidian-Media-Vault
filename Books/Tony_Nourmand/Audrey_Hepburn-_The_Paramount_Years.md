@@ -21,7 +21,7 @@ review:
 
 By Tony Nourmand
 
-![](../../1436549988l/168567._SX318_.jpg)
+![](../../assets/bookcovers/1436549988l/168567._SX318_.jpg)
 
 ## Book data
 

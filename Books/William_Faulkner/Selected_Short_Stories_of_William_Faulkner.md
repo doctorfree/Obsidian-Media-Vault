@@ -21,7 +21,7 @@ review:
 
 By William Faulkner
 
-![](../../1446234372l/18680461._SX318_.jpg)
+![](../../assets/bookcovers/1446234372l/18680461._SX318_.jpg)
 
 ## Book data
 

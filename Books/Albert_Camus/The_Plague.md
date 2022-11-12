@@ -21,7 +21,7 @@ review:
 
 By Albert Camus
 
-![](../../1314404429l/441870.jpg)
+![](../../assets/bookcovers/1314404429l/441870.jpg)
 
 ## Book data
 

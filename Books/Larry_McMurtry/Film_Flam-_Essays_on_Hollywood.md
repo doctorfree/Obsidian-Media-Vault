@@ -21,7 +21,7 @@ review:
 
 By Larry McMurtry
 
-![](../../1390785150l/54817.jpg)
+![](../../assets/bookcovers/1390785150l/54817.jpg)
 
 ## Book data
 

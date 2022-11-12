@@ -21,7 +21,7 @@ review:
 
 By Rudy Rucker
 
-![](../../1390015769l/274005.jpg)
+![](../../assets/bookcovers/1390015769l/274005.jpg)
 
 ## Book data
 

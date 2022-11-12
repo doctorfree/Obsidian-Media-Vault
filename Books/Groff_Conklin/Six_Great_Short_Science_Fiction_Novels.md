@@ -21,7 +21,7 @@ review:
 
 By Groff Conklin
 
-![](../../1227589744l/78845.jpg)
+![](../../assets/bookcovers/1227589744l/78845.jpg)
 
 ## Book data
 

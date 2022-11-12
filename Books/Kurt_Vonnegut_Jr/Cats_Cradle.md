@@ -21,7 +21,7 @@ review:
 
 By Kurt Vonnegut Jr.
 
-![](../../1327867150l/135479.jpg)
+![](../../assets/bookcovers/1327867150l/135479.jpg)
 
 ## Book data
 

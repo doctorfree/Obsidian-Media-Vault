@@ -21,7 +21,7 @@ review:
 
 By Jack Kerouac
 
-![](../../1203191520l/2754234.jpg)
+![](../../assets/bookcovers/1203191520l/2754234.jpg)
 
 ## Book data
 

@@ -21,7 +21,7 @@ review:
 
 By John J. Stachel
 
-![](../../1347703263l/363202.jpg)
+![](../../assets/bookcovers/1347703263l/363202.jpg)
 
 ## Book data
 

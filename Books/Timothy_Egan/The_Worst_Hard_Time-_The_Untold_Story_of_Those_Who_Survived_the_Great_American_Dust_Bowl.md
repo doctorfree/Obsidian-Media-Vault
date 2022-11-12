@@ -21,7 +21,7 @@ review:
 
 By Timothy Egan
 
-![](../../1441676713l/72223._SY475_.jpg)
+![](../../assets/bookcovers/1441676713l/72223._SY475_.jpg)
 
 ## Book data
 

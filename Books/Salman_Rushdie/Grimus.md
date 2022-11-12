@@ -21,7 +21,7 @@ review:
 
 By Salman Rushdie
 
-![](../../1335686927l/13626341.jpg)
+![](../../assets/bookcovers/1335686927l/13626341.jpg)
 
 ## Book data
 

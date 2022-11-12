@@ -21,7 +21,7 @@ review: From the author bio at the end of the book:<br/><br/>INGO SWANN is Ameri
 
 By Ingo Swann
 
-![](../../1365799676l/687730.jpg)
+![](../../assets/bookcovers/1365799676l/687730.jpg)
 
 ## Book data
 
