@@ -19,7 +19,7 @@ musician:
 
 By Pink Floyd
 
-![](../../assets/cdcovers/Pink_Floyd-Animals_[2011_Remaster].png)
+![](../../assets/cdcovers/Pink_Floyd-Animals_2011_Remaster.png)
 
 ## Album Data
 

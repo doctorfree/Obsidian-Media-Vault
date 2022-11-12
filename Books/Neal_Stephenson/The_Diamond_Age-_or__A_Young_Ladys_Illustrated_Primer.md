@@ -21,7 +21,7 @@ review: Perhaps his best book? Better than [b:Snow Crash|40651883|Snow Crash|Nea
 
 By Neal Stephenson
 
-![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328213351l/1056946.jpg)
+![](../../assets/bookcovers/1328213351l/1056946.jpg)
 
 ## Book data
 
