@@ -19,7 +19,7 @@ musician:
 
 By Paul & Linda McCartney
 
-![](../../assets/cdcovers/Paul_and_Linda_McCartney-Ram.png)
+![](../../assets/albumcovers/Paul_and_Linda_McCartney-Ram.png)
 
 ## Album Data
 

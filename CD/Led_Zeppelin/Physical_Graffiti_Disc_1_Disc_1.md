@@ -19,7 +19,7 @@ musician:
 
 By Led Zeppelin
 
-![](../../assets/cdcovers/Led_Zeppelin-Physical_Graffiti.png)
+![](../../assets/albumcovers/Led_Zeppelin-Physical_Graffiti.png)
 
 ## Album Data
 

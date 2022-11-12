@@ -19,7 +19,7 @@ musician:
 
 By Pink Floyd
 
-![](../../assets/cdcovers/Pink_Floyd-Meddle.png)
+![](../../assets/albumcovers/Pink_Floyd-Meddle.png)
 
 ## Album Data
 

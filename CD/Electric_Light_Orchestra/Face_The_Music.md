@@ -19,7 +19,7 @@ musician:
 
 By Electric Light Orchestra
 
-![](../../assets/cdcovers/Electric_Light_Orchestra-Face_The_Music.png)
+![](../../assets/albumcovers/Electric_Light_Orchestra-Face_The_Music.png)
 
 ## Album Data
 

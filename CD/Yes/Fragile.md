@@ -19,7 +19,7 @@ musician:
 
 By Yes
 
-![](../../assets/cdcovers/Yes-Fragile.png)
+![](../../assets/albumcovers/Yes-Fragile.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By Jefferson Airplane
 
-![](../../assets/cdcovers/Jefferson_Airplane-After_Bathing_At_Baxters.png)
+![](../../assets/albumcovers/Jefferson_Airplane-After_Bathing_At_Baxters.png)
 
 ## Album Data
 

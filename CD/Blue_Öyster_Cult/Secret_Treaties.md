@@ -19,7 +19,7 @@ musician:
 
 By Blue Öyster Cult
 
-![](../../assets/cdcovers/Blue_Öyster_Cult-Secret_Treaties.png)
+![](../../assets/albumcovers/Blue_Öyster_Cult-Secret_Treaties.png)
 
 ## Album Data
 

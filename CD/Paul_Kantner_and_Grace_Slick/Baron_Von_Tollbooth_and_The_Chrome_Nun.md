@@ -19,7 +19,7 @@ musician:
 
 By "Paul Kantner, Grace Slick & David Freiberg"
 
-![](../../assets/cdcovers/Paul_Kantner__Grace_Slick_and_David_Freiberg-Baron_Von_Tollbooth_and_The_Chrome_Nun.png)
+![](../../assets/albumcovers/Paul_Kantner__Grace_Slick_and_David_Freiberg-Baron_Von_Tollbooth_and_The_Chrome_Nun.png)
 
 ## Album Data
 

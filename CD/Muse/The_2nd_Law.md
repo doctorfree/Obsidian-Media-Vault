@@ -19,7 +19,7 @@ musician:
 
 By Muse
 
-![](../../assets/cdcovers/Muse-The_2nd_Law.png)
+![](../../assets/albumcovers/Muse-The_2nd_Law.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By Blue Öyster Cult
 
-![](../../assets/cdcovers/Blue_Öyster_Cult-Agents_Of_Fortune.png)
+![](../../assets/albumcovers/Blue_Öyster_Cult-Agents_Of_Fortune.png)
 
 ## Album Data
 

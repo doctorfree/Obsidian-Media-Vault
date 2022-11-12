@@ -19,7 +19,7 @@ musician:
 
 By Pink Floyd
 
-![](../../assets/cdcovers/Pink_Floyd-Wish_You_Were_Here.png)
+![](../../assets/albumcovers/Pink_Floyd-Wish_You_Were_Here.png)
 
 ## Album Data
 

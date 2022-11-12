@@ -19,7 +19,7 @@ musician:
 
 By The Moody Blues
 
-![](../../assets/cdcovers/The_Moody_Blues-A_Question_Of_Balance.png)
+![](../../assets/albumcovers/The_Moody_Blues-A_Question_Of_Balance.png)
 
 ## Album Data
 

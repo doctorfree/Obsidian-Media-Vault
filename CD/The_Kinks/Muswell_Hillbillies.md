@@ -19,7 +19,7 @@ musician:
 
 By The Kinks
 
-![](../../assets/cdcovers/The_Kinks-Muswell_Hillbillies.png)
+![](../../assets/albumcovers/The_Kinks-Muswell_Hillbillies.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By The Moody Blues
 
-![](../../assets/cdcovers/The_Moody_Blues-On_The_Threshold_Of_A_Dream.png)
+![](../../assets/albumcovers/The_Moody_Blues-On_The_Threshold_Of_A_Dream.png)
 
 ## Album Data
 

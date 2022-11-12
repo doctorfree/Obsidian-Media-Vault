@@ -19,7 +19,7 @@ musician:
 
 By Silver Apples
 
-![](../../assets/cdcovers/Silver_Apples-Silver_Apples.png)
+![](../../assets/albumcovers/Silver_Apples-Silver_Apples.png)
 
 ## Album Data
 

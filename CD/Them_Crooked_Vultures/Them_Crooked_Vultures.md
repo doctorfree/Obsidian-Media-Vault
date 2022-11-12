@@ -19,7 +19,7 @@ musician:
 
 By Them Crooked Vultures
 
-![](../../assets/cdcovers/Them_Crooked_Vultures-Them_Crooked_Vultures.png)
+![](../../assets/albumcovers/Them_Crooked_Vultures-Them_Crooked_Vultures.png)
 
 ## Album Data
 

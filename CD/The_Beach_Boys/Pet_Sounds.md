@@ -19,7 +19,7 @@ musician:
 
 By The Beach Boys
 
-![](../../assets/cdcovers/The_Beach_Boys-Pet_Sounds.png)
+![](../../assets/albumcovers/The_Beach_Boys-Pet_Sounds.png)
 
 ## Album Data
 

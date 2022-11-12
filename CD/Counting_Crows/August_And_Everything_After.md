@@ -19,7 +19,7 @@ musician:
 
 By Counting Crows
 
-![](../../assets/cdcovers/Counting_Crows-August_And_Everything_After.png)
+![](../../assets/albumcovers/Counting_Crows-August_And_Everything_After.png)
 
 ## Album Data
 

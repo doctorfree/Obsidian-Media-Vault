@@ -19,7 +19,7 @@ musician:
 
 By No Doubt
 
-![](../../assets/cdcovers/No_Doubt-Tragic_Kingdom.png)
+![](../../assets/albumcovers/No_Doubt-Tragic_Kingdom.png)
 
 ## Album Data
 

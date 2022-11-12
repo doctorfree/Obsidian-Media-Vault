@@ -19,7 +19,7 @@ musician:
 
 By Todd Rundgren
 
-![](../../assets/cdcovers/Todd_Rundgren-Todd.png)
+![](../../assets/albumcovers/Todd_Rundgren-Todd.png)
 
 ## Album Data
 

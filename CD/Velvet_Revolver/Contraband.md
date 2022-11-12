@@ -19,7 +19,7 @@ musician:
 
 By Velvet Revolver
 
-![](../../assets/cdcovers/Velvet_Revolver-Contraband.png)
+![](../../assets/albumcovers/Velvet_Revolver-Contraband.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By The Who
 
-![](../../assets/cdcovers/The_Who-Tommy.png)
+![](../../assets/albumcovers/The_Who-Tommy.png)
 
 ## Album Data
 

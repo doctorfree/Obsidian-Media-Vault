@@ -19,7 +19,7 @@ musician:
 
 By Steppenwolf
 
-![](../../assets/cdcovers/Steppenwolf-Steppenwolf.png)
+![](../../assets/albumcovers/Steppenwolf-Steppenwolf.png)
 
 ## Album Data
 

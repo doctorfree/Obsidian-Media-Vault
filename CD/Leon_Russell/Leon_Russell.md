@@ -19,7 +19,7 @@ musician:
 
 By Leon Russell
 
-![](../../assets/cdcovers/Leon_Russell-Leon_Russell.png)
+![](../../assets/albumcovers/Leon_Russell-Leon_Russell.png)
 
 ## Album Data
 

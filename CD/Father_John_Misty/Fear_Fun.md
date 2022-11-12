@@ -19,7 +19,7 @@ musician:
 
 By Father John Misty
 
-![](../../assets/cdcovers/Father_John_Misty-Fear_Fun.png)
+![](../../assets/albumcovers/Father_John_Misty-Fear_Fun.png)
 
 ## Album Data
 

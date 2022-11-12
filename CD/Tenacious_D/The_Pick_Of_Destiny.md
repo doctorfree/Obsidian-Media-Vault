@@ -19,7 +19,7 @@ musician:
 
 By Tenacious D
 
-![](../../assets/cdcovers/Tenacious_D-The_Pick_Of_Destiny.png)
+![](../../assets/albumcovers/Tenacious_D-The_Pick_Of_Destiny.png)
 
 ## Album Data
 

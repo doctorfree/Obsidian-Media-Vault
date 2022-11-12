@@ -19,7 +19,7 @@ musician:
 
 By Procol Harum
 
-![](../../assets/cdcovers/Procol_Harum-Live_In_Concert_With_The_Edmonton_Symphony_Orchestra.png)
+![](../../assets/albumcovers/Procol_Harum-Live_In_Concert_With_The_Edmonton_Symphony_Orchestra.png)
 
 ## Album Data
 

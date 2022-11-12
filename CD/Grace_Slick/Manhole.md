@@ -19,7 +19,7 @@ musician:
 
 By Grace Slick
 
-![](../../assets/cdcovers/Grace_Slick-Manhole.png)
+![](../../assets/albumcovers/Grace_Slick-Manhole.png)
 
 ## Album Data
 

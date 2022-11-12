@@ -19,7 +19,7 @@ musician:
 
 By King Crimson
 
-![](../../assets/cdcovers/King_Crimson-In_The_Court_Of_The_Crimson_King.png)
+![](../../assets/albumcovers/King_Crimson-In_The_Court_Of_The_Crimson_King.png)
 
 ## Album Data
 

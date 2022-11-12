@@ -19,7 +19,7 @@ musician:
 
 By Muse
 
-![](../../assets/cdcovers/Muse-Absolution.png)
+![](../../assets/albumcovers/Muse-Absolution.png)
 
 ## Album Data
 

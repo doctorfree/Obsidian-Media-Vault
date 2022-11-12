@@ -19,7 +19,7 @@ musician:
 
 By Black Sabbath
 
-![](../../assets/cdcovers/Black_Sabbath-Paranoid.png)
+![](../../assets/albumcovers/Black_Sabbath-Paranoid.png)
 
 ## Album Data
 

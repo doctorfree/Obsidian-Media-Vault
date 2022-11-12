@@ -19,7 +19,7 @@ musician:
 
 By Tenacious D
 
-![](../../assets/cdcovers/Tenacious_D-Tenacious_D.png)
+![](../../assets/albumcovers/Tenacious_D-Tenacious_D.png)
 
 ## Album Data
 

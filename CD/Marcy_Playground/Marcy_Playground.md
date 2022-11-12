@@ -19,7 +19,7 @@ musician:
 
 By Marcy Playground
 
-![](../../assets/cdcovers/Marcy_Playground-Marcy_Playground.png)
+![](../../assets/albumcovers/Marcy_Playground-Marcy_Playground.png)
 
 ## Album Data
 

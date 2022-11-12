@@ -19,7 +19,7 @@ musician:
 
 By The Moody Blues
 
-![](../../assets/cdcovers/The_Moody_Blues-In_Search_Of_The_Lost_Chord.png)
+![](../../assets/albumcovers/The_Moody_Blues-In_Search_Of_The_Lost_Chord.png)
 
 ## Album Data
 
