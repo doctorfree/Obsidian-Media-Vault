@@ -18,7 +18,7 @@ notes:
 
 By Reiko Ike
 
-![]("../../assets/albumcovers/Reiko_Ike-You__Baby_恍惚の世界.png")
+![]("../../assets/albumcovers/You_Baby-Kokotsu_No_Sekai-Ike_Reiko.png)
 
 ## Album Data
 

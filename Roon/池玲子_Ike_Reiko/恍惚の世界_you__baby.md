@@ -9,7 +9,7 @@ format: Digital, Album
 
 By 池玲子 (Ike Reiko)
 
-![](../../assets/albumcovers/池玲子_Ike_Reiko-恍惚の世界_you__baby.png)
+![](../../assets/albumcovers/You_Baby-Kokotsu_No_Sekai-Ike_Reiko.png)
 
 ## Album Data
 

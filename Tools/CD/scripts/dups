@@ -1,0 +1,86 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+
+cd ${TOP}
+
+DUPS="Bee_Gees-Tales_From_The_Brothers_Gibb.png \
+Blue_Öyster_Cult-Imaginos.png \
+Blue_Öyster_Cult-Rarities.png \
+Blue_Öyster_Cult-Spectres.png \
+Britney_Spears-The_Singles_Collection.png \
+Christina_Aguilera-Stripped.png \
+Cracker-Cracker.png \
+Cracker-Forever.png \
+Cracker-The_Golden_Age.png \
+Dada-American_Highway_Flower.png \
+Dada-El_Subliminoso.png \
+David_Byrne-Rei_Momo.png \
+Demi_Lovato-Confident.png \
+Electric_Light_Orchestra-A_New_World_Record.png \
+Electric_Light_Orchestra-Discovery.png \
+Electric_Light_Orchestra-Eldorado.png \
+Electric_Light_Orchestra-No_Answer.png \
+Electric_Light_Orchestra-Secret_Messages.png \
+Electric_Light_Orchestra-Time.png \
+Fastball-All_The_Pain_Money_Can_Buy.png \
+Grace_Slick-Dreams.png \
+Harry_Nilsson-Aerial_Pandemonium_Ballet.png \
+Harry_Nilsson-Duit_On_Mon_Dei.png \
+Harry_Nilsson-Harry.png \
+Harry_Nilsson-Nilsson_Sings_Newman.png \
+Harry_Nilsson-Pandemonium_Shadow_Show.png \
+Harry_Nilsson-Pussy_Cats.png \
+Harry_Nilsson-Sandman.png \
+Harry_Nilsson-The_Point!.png \
+Jack_White-Blunderbuss.png \
+Jefferson_Airplane-Long_John_Silver.png \
+Jefferson_Starship-Winds_Of_Change.png \
+Jeff_Lynne-Armchair_Theatre.png \
+Katy_Perry-One_Of_The_Boys.png \
+King_Crimson-Lizard.png \
+Marcy_Playground-Indaba_Remixes_From_Wonderland.png \
+Marcy_Playground-Shapeshifter.png \
+Meat_Puppets-Too_High_To_Die.png \
+Morningwood-Morningwood.png \
+Muse-Drones.png \
+Peter_Rowan-Dust_Bowl_Children.png \
+Pink_Floyd-The_Division_Bell.png \
+Pretenders-Pretenders_II.png \
+Pretenders-Pretenders.png \
+REM-Monster.png \
+Sean_Lennon-Friendly_Fire.png \
+Sean_Lennon-Into_The_Sun.png \
+Sheryl_Crow-Tuesday_Night_Music_Club.png \
+Steely_Dan-Aja.png \
+Steely_Dan-Countdown_To_Ecstasy.png \
+Steely_Dan-Pretzel_Logic.png \
+Steppenwolf-The_Second.png \
+Steve_Earle-Copperhead_Road.png \
+Steve_Miller_Band-Book_Of_Dreams.png \
+Steve_Miller_Band-The_Joker.png \
+The_Moody_Blues-Every_Good_Boy_Deserves_Favour.png \
+The_Moody_Blues-To_Our_Childrens_Childrens_Children.png \
+The_Pretty_Things-Get_The_Picture.png \
+The_Ting_Tings-We_Started_Nothing.png \
+The_Tubes-Remote_Control.png \
+The_Tubes-The_Completion_Backward_Principle.png \
+The_Tubes-The_Tubes.png \
+The_Zombies-Still_Got_That_Hunger.png \
+Willis_Alan_Ramsey-Willis_Alan_Ramsey.png"
+
+for dup in ${DUPS}
+do
+  [ -f assets/cdcovers/${dup} ] && [ -f assets/albumcovers/${dup} ] && {
+    find CD -type f | while read cd
+    do
+      grep assets/cdcovers/${dup} ${cd} > /dev/null && {
+        echo "Fixing ${cd} link to ${dup}"
+        cat ${cd} | sed -e "s%assets/cdcovers/${dup}%assets/albumcovers/${dup}%" > /tmp/cd$$
+        cp /tmp/cd$$ ${cd}
+        rm -f /tmp/cd$$
+        git rm assets/cdcovers/${dup}
+      }
+    done
+  }
+done
