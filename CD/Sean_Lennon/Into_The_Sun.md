@@ -19,7 +19,7 @@ musician:
 
 By Sean Lennon
 
-![](../../assets/cdcovers/Sean_Lennon-Into_The_Sun.png)
+![](../../assets/albumcovers/Sean_Lennon-Into_The_Sun.png)
 
 ## Album Data
 

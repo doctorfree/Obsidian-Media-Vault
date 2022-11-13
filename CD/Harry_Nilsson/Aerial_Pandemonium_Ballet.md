@@ -19,7 +19,7 @@ musician:
 
 By Harry Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Aerial_Pandemonium_Ballet.png)
+![](../../assets/albumcovers/Harry_Nilsson-Aerial_Pandemonium_Ballet.png)
 
 ## Album Data
 

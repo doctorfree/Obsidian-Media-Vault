@@ -19,7 +19,7 @@ musician:
 
 By Grace Slick
 
-![](../../assets/cdcovers/Grace_Slick-Dreams.png)
+![](../../assets/albumcovers/Grace_Slick-Dreams.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By The Moody Blues
 
-![](../../assets/cdcovers/The_Moody_Blues-Every_Good_Boy_Deserves_Favour.png)
+![](../../assets/albumcovers/The_Moody_Blues-Every_Good_Boy_Deserves_Favour.png)
 
 ## Album Data
 

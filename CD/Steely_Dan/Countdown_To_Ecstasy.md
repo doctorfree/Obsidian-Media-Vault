@@ -19,7 +19,7 @@ musician:
 
 By Steely Dan
 
-![](../../assets/cdcovers/Steely_Dan-Countdown_To_Ecstasy.png)
+![](../../assets/albumcovers/Steely_Dan-Countdown_To_Ecstasy.png)
 
 ## Album Data
 

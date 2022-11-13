@@ -19,7 +19,7 @@ musician:
 
 By Electric Light Orchestra
 
-![](../../assets/cdcovers/Electric_Light_Orchestra-A_New_World_Record.png)
+![](../../assets/albumcovers/Electric_Light_Orchestra-A_New_World_Record.png)
 
 ## Album Data
 

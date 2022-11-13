@@ -19,7 +19,7 @@ musician:
 
 By Dada
 
-![](../../assets/cdcovers/Dada-El_Subliminoso.png)
+![](../../assets/albumcovers/Dada-El_Subliminoso.png)
 
 ## Album Data
 

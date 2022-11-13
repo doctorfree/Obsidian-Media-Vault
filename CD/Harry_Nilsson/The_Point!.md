@@ -19,7 +19,7 @@ musician:
 
 By Harry Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-The_Point!.png)
+![](../../assets/albumcovers/Harry_Nilsson-The_Point!.png)
 
 ## Album Data
 

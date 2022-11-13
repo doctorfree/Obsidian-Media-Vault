@@ -19,7 +19,7 @@ musician:
 
 By Pink Floyd
 
-![](../../assets/cdcovers/Pink_Floyd-The_Division_Bell.png)
+![](../../assets/albumcovers/Pink_Floyd-The_Division_Bell.png)
 
 ## Album Data
 

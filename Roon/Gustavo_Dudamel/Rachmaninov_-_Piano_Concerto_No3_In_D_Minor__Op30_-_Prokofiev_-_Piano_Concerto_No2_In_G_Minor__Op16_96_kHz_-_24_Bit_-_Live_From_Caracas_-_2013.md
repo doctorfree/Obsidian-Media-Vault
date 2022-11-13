@@ -1,0 +1,18 @@
+---
+catalog: Roon
+title: Rachmaninov : Piano Concerto No.3 In D Minor, Op.30 - Prokofiev : Piano Concerto No.2 In G Minor, Op.16 (96 kHz / 24 Bit / Live From Caracas / 2013)
+artist: Gustavo Dudamel
+format: Digital, Album
+---
+
+# Rachmaninov : Piano Concerto No.3 In D Minor, Op.30 - Prokofiev : Piano Concerto No.2 In G Minor, Op.16 (96 kHz / 24 Bit / Live From Caracas / 2013)
+
+By Gustavo Dudamel
+
+![](../../assets/albumcovers/Gustavo_Dudamel-Rachmaninov_-_Piano_Concerto_No3_In_D_Minor__Op30_-_Prokofiev_-_Piano_Concerto_No2_In_G_Minor__Op16_96_kHz_-_24_Bit_-_Live_From_Caracas_-_2013.png)
+
+## Album Data
+
+- Catalog #: Roon
+- Format: Digital, Album
+

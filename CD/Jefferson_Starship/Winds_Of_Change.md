@@ -19,7 +19,7 @@ musician:
 
 By Jefferson Starship
 
-![](../../assets/cdcovers/Jefferson_Starship-Winds_Of_Change.png)
+![](../../assets/albumcovers/Jefferson_Starship-Winds_Of_Change.png)
 
 ## Album Data
 

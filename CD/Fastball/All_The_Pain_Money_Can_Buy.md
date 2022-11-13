@@ -19,7 +19,7 @@ musician:
 
 By Fastball
 
-![](../../assets/cdcovers/Fastball-All_The_Pain_Money_Can_Buy.png)
+![](../../assets/albumcovers/Fastball-All_The_Pain_Money_Can_Buy.png)
 
 ## Album Data
 

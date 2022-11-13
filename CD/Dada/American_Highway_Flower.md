@@ -19,7 +19,7 @@ musician:
 
 By Dada
 
-![](../../assets/cdcovers/Dada-American_Highway_Flower.png)
+![](../../assets/albumcovers/Dada-American_Highway_Flower.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By Cracker
 
-![](../../assets/cdcovers/Cracker-Cracker.png)
+![](../../assets/albumcovers/Cracker-Cracker.png)
 
 ## Album Data
 

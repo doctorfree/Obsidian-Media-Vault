@@ -19,7 +19,7 @@ musician:
 
 By Willis Alan Ramsey
 
-![](../../assets/cdcovers/Willis_Alan_Ramsey-Willis_Alan_Ramsey.png)
+![](../../assets/albumcovers/Willis_Alan_Ramsey-Willis_Alan_Ramsey.png)
 
 ## Album Data
 

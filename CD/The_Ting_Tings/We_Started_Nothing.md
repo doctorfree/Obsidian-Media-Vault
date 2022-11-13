@@ -19,7 +19,7 @@ musician:
 
 By The Ting Tings
 
-![](../../assets/cdcovers/The_Ting_Tings-We_Started_Nothing.png)
+![](../../assets/albumcovers/The_Ting_Tings-We_Started_Nothing.png)
 
 ## Album Data
 

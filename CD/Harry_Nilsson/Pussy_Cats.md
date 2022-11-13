@@ -19,7 +19,7 @@ musician:
 
 By Harry Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Pussy_Cats.png)
+![](../../assets/albumcovers/Harry_Nilsson-Pussy_Cats.png)
 
 ## Album Data
 

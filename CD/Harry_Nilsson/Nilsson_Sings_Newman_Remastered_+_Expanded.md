@@ -19,7 +19,7 @@ musician:
 
 By Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Nilsson_Sings_Newman.png)
+![](../../assets/albumcovers/Harry_Nilsson-Nilsson_Sings_Newman.png)
 
 ## Album Data
 

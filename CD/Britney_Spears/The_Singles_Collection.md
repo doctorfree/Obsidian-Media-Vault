@@ -19,7 +19,7 @@ musician:
 
 By Britney Spears
 
-![](../../assets/cdcovers/Britney_Spears-The_Singles_Collection.png)
+![](../../assets/albumcovers/Britney_Spears-The_Singles_Collection.png)
 
 ## Album Data
 

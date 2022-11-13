@@ -19,7 +19,7 @@ musician:
 
 By Electric Light Orchestra
 
-![](../../assets/cdcovers/Electric_Light_Orchestra-Eldorado.png)
+![](../../assets/albumcovers/Electric_Light_Orchestra-Eldorado.png)
 
 ## Album Data
 

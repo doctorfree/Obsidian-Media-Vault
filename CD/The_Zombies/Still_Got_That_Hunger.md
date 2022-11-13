@@ -19,7 +19,7 @@ musician:
 
 By The Zombies
 
-![](../../assets/cdcovers/The_Zombies-Still_Got_That_Hunger.png)
+![](../../assets/albumcovers/The_Zombies-Still_Got_That_Hunger.png)
 
 ## Album Data
 

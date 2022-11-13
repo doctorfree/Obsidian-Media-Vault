@@ -1,0 +1,18 @@
+---
+catalog: Roon
+title: A Night at the Opera (Remastered 2011)
+artist: Queen
+format: Digital, Album
+---
+
+# A Night at the Opera (Remastered 2011)
+
+By Queen
+
+![](../../assets/albumcovers/Queen-A_Night_at_the_Opera_Remastered_2011.png)
+
+## Album Data
+
+- Catalog #: Roon
+- Format: Digital, Album
+

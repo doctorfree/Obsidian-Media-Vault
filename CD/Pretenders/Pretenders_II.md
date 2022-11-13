@@ -19,7 +19,7 @@ musician:
 
 By Pretenders
 
-![](../../assets/cdcovers/Pretenders-Pretenders_II.png)
+![](../../assets/albumcovers/Pretenders-Pretenders_II.png)
 
 ## Album Data
 

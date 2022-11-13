@@ -19,7 +19,7 @@ musician:
 
 By Steely Dan
 
-![](../../assets/cdcovers/Steely_Dan-Pretzel_Logic.png)
+![](../../assets/albumcovers/Steely_Dan-Pretzel_Logic.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By Blue Öyster Cult
 
-![](../../assets/cdcovers/Blue_Öyster_Cult-Rarities.png)
+![](../../assets/albumcovers/Blue_Öyster_Cult-Rarities.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By Steely Dan
 
-![](../../assets/cdcovers/Steely_Dan-Aja.png)
+![](../../assets/albumcovers/Steely_Dan-Aja.png)
 
 ## Album Data
 

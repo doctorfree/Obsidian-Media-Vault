@@ -19,7 +19,7 @@ musician:
 
 By The Tubes
 
-![](../../assets/cdcovers/The_Tubes-The_Tubes.png)
+![](../../assets/albumcovers/The_Tubes-The_Tubes.png)
 
 ## Album Data
 

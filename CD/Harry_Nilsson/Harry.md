@@ -19,7 +19,7 @@ musician:
 
 By Harry Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Harry.png)
+![](../../assets/albumcovers/Harry_Nilsson-Harry.png)
 
 ## Album Data
 

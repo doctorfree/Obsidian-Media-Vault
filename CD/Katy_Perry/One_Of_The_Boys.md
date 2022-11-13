@@ -19,7 +19,7 @@ musician:
 
 By Katy Perry
 
-![](../../assets/cdcovers/Katy_Perry-One_Of_The_Boys.png)
+![](../../assets/albumcovers/Katy_Perry-One_Of_The_Boys.png)
 
 ## Album Data
 

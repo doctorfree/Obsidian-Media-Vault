@@ -19,7 +19,7 @@ musician:
 
 By Jefferson Airplane
 
-![](../../assets/cdcovers/Jefferson_Airplane-Long_John_Silver.png)
+![](../../assets/albumcovers/Jefferson_Airplane-Long_John_Silver.png)
 
 ## Album Data
 

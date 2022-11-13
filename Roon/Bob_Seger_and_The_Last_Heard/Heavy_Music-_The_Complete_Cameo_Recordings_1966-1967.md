@@ -1,0 +1,18 @@
+---
+catalog: Roon
+title: Heavy Music: The Complete Cameo Recordings 1966-1967
+artist: Bob Seger & The Last Heard
+format: Digital, Album
+---
+
+# Heavy Music: The Complete Cameo Recordings 1966-1967
+
+By Bob Seger & The Last Heard
+
+![](../../assets/albumcovers/Bob_Seger_and_The_Last_Heard-Heavy_Music-_The_Complete_Cameo_Recordings_1966-1967.png)
+
+## Album Data
+
+- Catalog #: Roon
+- Format: Digital, Album
+

@@ -19,7 +19,7 @@ musician:
 
 By Harry Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Pandemonium_Shadow_Show.png)
+![](../../assets/albumcovers/Harry_Nilsson-Pandemonium_Shadow_Show.png)
 
 ## Album Data
 

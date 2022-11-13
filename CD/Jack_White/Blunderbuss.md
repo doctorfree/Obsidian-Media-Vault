@@ -19,7 +19,7 @@ musician:
 
 By Jack White
 
-![](../../assets/cdcovers/Jack_White-Blunderbuss.png)
+![](../../assets/albumcovers/Jack_White-Blunderbuss.png)
 
 ## Album Data
 

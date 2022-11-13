@@ -19,7 +19,7 @@ musician:
 
 By Morningwood
 
-![](../../assets/cdcovers/Morningwood-Morningwood.png)
+![](../../assets/albumcovers/Morningwood-Morningwood.png)
 
 ## Album Data
 

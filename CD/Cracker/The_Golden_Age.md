@@ -19,7 +19,7 @@ musician:
 
 By Cracker
 
-![](../../assets/cdcovers/Cracker-The_Golden_Age.png)
+![](../../assets/albumcovers/Cracker-The_Golden_Age.png)
 
 ## Album Data
 

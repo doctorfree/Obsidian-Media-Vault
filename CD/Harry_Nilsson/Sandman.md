@@ -19,7 +19,7 @@ musician:
 
 By Harry Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Sandman.png)
+![](../../assets/albumcovers/Harry_Nilsson-Sandman.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By The Pretty Things
 
-![](../../assets/cdcovers/The_Pretty_Things-Get_The_Picture.png)
+![](../../assets/albumcovers/The_Pretty_Things-Get_The_Picture.png)
 
 ## Album Data
 

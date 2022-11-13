@@ -19,7 +19,7 @@ musician:
 
 By The Moody Blues
 
-![](../../assets/cdcovers/The_Moody_Blues-To_Our_Childrens_Childrens_Children.png)
+![](../../assets/albumcovers/The_Moody_Blues-To_Our_Childrens_Childrens_Children.png)
 
 ## Album Data
 

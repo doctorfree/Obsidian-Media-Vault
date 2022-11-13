@@ -19,7 +19,7 @@ musician:
 
 By Steve Miller Band
 
-![](../../assets/cdcovers/Steve_Miller_Band-The_Joker.png)
+![](../../assets/albumcovers/Steve_Miller_Band-The_Joker.png)
 
 ## Album Data
 

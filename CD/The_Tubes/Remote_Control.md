@@ -19,7 +19,7 @@ musician:
 
 By The Tubes
 
-![](../../assets/cdcovers/The_Tubes-Remote_Control.png)
+![](../../assets/albumcovers/The_Tubes-Remote_Control.png)
 
 ## Album Data
 

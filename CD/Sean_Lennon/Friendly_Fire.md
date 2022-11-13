@@ -19,7 +19,7 @@ musician:
 
 By Sean Lennon
 
-![](../../assets/cdcovers/Sean_Lennon-Friendly_Fire.png)
+![](../../assets/albumcovers/Sean_Lennon-Friendly_Fire.png)
 
 ## Album Data
 

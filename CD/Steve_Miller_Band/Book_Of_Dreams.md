@@ -19,7 +19,7 @@ musician:
 
 By Steve Miller Band
 
-![](../../assets/cdcovers/Steve_Miller_Band-Book_Of_Dreams.png)
+![](../../assets/albumcovers/Steve_Miller_Band-Book_Of_Dreams.png)
 
 ## Album Data
 

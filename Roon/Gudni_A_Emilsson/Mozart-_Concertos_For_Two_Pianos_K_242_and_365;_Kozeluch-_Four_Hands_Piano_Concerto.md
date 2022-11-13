@@ -1,0 +1,18 @@
+---
+catalog: Roon
+title: Mozart: Concertos For Two Pianos K 242 & 365; Kozeluch: Four Hands Piano Concerto
+artist: Gudni A. Emilsson
+format: Digital, Album
+---
+
+# Mozart: Concertos For Two Pianos K 242 & 365; Kozeluch: Four Hands Piano Concerto
+
+By Gudni A. Emilsson
+
+![](../../assets/albumcovers/Gudni_A_Emilsson-Mozart-_Concertos_For_Two_Pianos_K_242_and_365;_Kozeluch-_Four_Hands_Piano_Concerto.png)
+
+## Album Data
+
+- Catalog #: Roon
+- Format: Digital, Album
+

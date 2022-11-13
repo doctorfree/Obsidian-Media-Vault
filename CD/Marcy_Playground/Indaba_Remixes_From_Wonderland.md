@@ -19,7 +19,7 @@ musician:
 
 By Marcy Playground
 
-![](../../assets/cdcovers/Marcy_Playground-Indaba_Remixes_From_Wonderland.png)
+![](../../assets/albumcovers/Marcy_Playground-Indaba_Remixes_From_Wonderland.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By Electric Light Orchestra
 
-![](../../assets/cdcovers/Electric_Light_Orchestra-Time.png)
+![](../../assets/albumcovers/Electric_Light_Orchestra-Time.png)
 
 ## Album Data
 

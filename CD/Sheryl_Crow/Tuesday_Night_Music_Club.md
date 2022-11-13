@@ -19,7 +19,7 @@ musician:
 
 By Sheryl Crow
 
-![](../../assets/cdcovers/Sheryl_Crow-Tuesday_Night_Music_Club.png)
+![](../../assets/albumcovers/Sheryl_Crow-Tuesday_Night_Music_Club.png)
 
 ## Album Data
 

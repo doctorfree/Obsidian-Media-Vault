@@ -19,7 +19,7 @@ musician:
 
 By Peter Rowan
 
-![](../../assets/cdcovers/Peter_Rowan-Dust_Bowl_Children.png)
+![](../../assets/albumcovers/Peter_Rowan-Dust_Bowl_Children.png)
 
 ## Album Data
 

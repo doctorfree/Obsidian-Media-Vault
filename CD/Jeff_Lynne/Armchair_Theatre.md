@@ -19,7 +19,7 @@ musician:
 
 By Jeff Lynne
 
-![](../../assets/cdcovers/Jeff_Lynne-Armchair_Theatre.png)
+![](../../assets/albumcovers/Jeff_Lynne-Armchair_Theatre.png)
 
 ## Album Data
 

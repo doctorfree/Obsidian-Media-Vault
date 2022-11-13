@@ -19,7 +19,7 @@ musician:
 
 By David Byrne
 
-![](../../assets/cdcovers/David_Byrne-Rei_Momo.png)
+![](../../assets/albumcovers/David_Byrne-Rei_Momo.png)
 
 ## Album Data
 

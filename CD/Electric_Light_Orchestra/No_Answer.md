@@ -19,7 +19,7 @@ musician:
 
 By Electric Light Orchestra
 
-![](../../assets/cdcovers/Electric_Light_Orchestra-No_Answer.png)
+![](../../assets/albumcovers/Electric_Light_Orchestra-No_Answer.png)
 
 ## Album Data
 

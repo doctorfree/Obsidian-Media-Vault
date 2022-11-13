@@ -19,7 +19,7 @@ musician:
 
 By Harry Nilsson
 
-![](../../assets/cdcovers/Harry_Nilsson-Duit_On_Mon_Dei.png)
+![](../../assets/albumcovers/Harry_Nilsson-Duit_On_Mon_Dei.png)
 
 ## Album Data
 

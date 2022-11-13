@@ -19,7 +19,7 @@ musician:
 
 By Electric Light Orchestra
 
-![](../../assets/cdcovers/Electric_Light_Orchestra-Secret_Messages.png)
+![](../../assets/albumcovers/Electric_Light_Orchestra-Secret_Messages.png)
 
 ## Album Data
 

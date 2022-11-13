@@ -19,7 +19,7 @@ musician:
 
 By R.E.M.
 
-![](../../assets/cdcovers/REM-Monster.png)
+![](../../assets/albumcovers/REM-Monster.png)
 
 ## Album Data
 

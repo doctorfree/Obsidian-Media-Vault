@@ -19,7 +19,7 @@ musician:
 
 By Demi Lovato
 
-![](../../assets/cdcovers/Demi_Lovato-Confident.png)
+![](../../assets/albumcovers/Demi_Lovato-Confident.png)
 
 ## Album Data
 

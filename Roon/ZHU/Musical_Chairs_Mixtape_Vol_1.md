@@ -1,0 +1,18 @@
+---
+catalog: Roon
+title: Musical Chairs Mixtape (Vol. 1)
+artist: ZHU
+format: Digital, Album
+---
+
+# Musical Chairs Mixtape (Vol. 1)
+
+By ZHU
+
+![](../../assets/albumcovers/ZHU-Musical_Chairs_Mixtape_Vol_1.png)
+
+## Album Data
+
+- Catalog #: Roon
+- Format: Digital, Album
+

@@ -19,7 +19,7 @@ musician:
 
 By The Tubes
 
-![](../../assets/cdcovers/The_Tubes-The_Completion_Backward_Principle.png)
+![](../../assets/albumcovers/The_Tubes-The_Completion_Backward_Principle.png)
 
 ## Album Data
 

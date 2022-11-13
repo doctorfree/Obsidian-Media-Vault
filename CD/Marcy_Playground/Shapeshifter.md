@@ -19,7 +19,7 @@ musician:
 
 By Marcy Playground
 
-![](../../assets/cdcovers/Marcy_Playground-Shapeshifter.png)
+![](../../assets/albumcovers/Marcy_Playground-Shapeshifter.png)
 
 ## Album Data
 

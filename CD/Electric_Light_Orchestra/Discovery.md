@@ -19,7 +19,7 @@ musician:
 
 By Electric Light Orchestra
 
-![](../../assets/cdcovers/Electric_Light_Orchestra-Discovery.png)
+![](../../assets/albumcovers/Electric_Light_Orchestra-Discovery.png)
 
 ## Album Data
 

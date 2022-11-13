@@ -19,7 +19,7 @@ musician:
 
 By Christina Aguilera
 
-![](../../assets/cdcovers/Christina_Aguilera-Stripped.png)
+![](../../assets/albumcovers/Christina_Aguilera-Stripped.png)
 
 ## Album Data
 

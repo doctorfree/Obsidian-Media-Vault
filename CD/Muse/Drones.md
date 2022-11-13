@@ -19,7 +19,7 @@ musician:
 
 By Muse
 
-![](../../assets/cdcovers/Muse-Drones.png)
+![](../../assets/albumcovers/Muse-Drones.png)
 
 ## Album Data
 

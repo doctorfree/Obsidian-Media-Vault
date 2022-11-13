@@ -19,7 +19,7 @@ musician:
 
 By King Crimson
 
-![](../../assets/cdcovers/King_Crimson-Lizard.png)
+![](../../assets/albumcovers/King_Crimson-Lizard.png)
 
 ## Album Data
 

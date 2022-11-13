@@ -19,7 +19,7 @@ musician:
 
 By Steve Earle
 
-![](../../assets/cdcovers/Steve_Earle-Copperhead_Road.png)
+![](../../assets/albumcovers/Steve_Earle-Copperhead_Road.png)
 
 ## Album Data
 

@@ -19,7 +19,7 @@ musician:
 
 By Meat Puppets
 
-![](../../assets/cdcovers/Meat_Puppets-Too_High_To_Die.png)
+![](../../assets/albumcovers/Meat_Puppets-Too_High_To_Die.png)
 
 ## Album Data
 
