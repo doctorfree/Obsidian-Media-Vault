@@ -6,6 +6,8 @@ This repository is organized as an Obsidian vault containing Media descriptions 
 
 The `Obsidian-Media-Vault` repository reflects the partial contents of my personal library of books, cds, and records. As such, it may be relevant only to a few. However, the process by which this repository was created and curated as well as the tools used in its creation and curation may be useful to a wider audience. I am making it public and freely licensed so that others may examine, adapt, clone, and use in whatever manner they choose. See the [description of Process](Process.md) for an overview of the process and tools employed in the creation of this repository.
 
+Get started browsing the [Obsidian Media Vault](Media_Index.md).
+
 ## Usage
 
 ### **For the optimal experience, open this vault in Obsidian!**
@@ -78,6 +80,7 @@ See the [Process](Process.md) document for a detailed description of the tools a
 
 ## See also
 
+- [Index of the Media Vault](Media_Index.md)
 - [Media Queries](Media_Queries.md)
 - [Process](Process.md)
 

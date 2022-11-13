@@ -1,5 +1,12 @@
 # Authors
 
+## See also
+
+- [Books by Author](Books_by_Author.md)
+- [Books by Title](Books_by_Title.md)
+- [Table of Books by Author](Table_of_Books_by_Author.md)
+- [Table of Books by Title](Table_of_Books_by_Title.md)
+
 ## List of Authors in Vault
 
 | **Author Name** | **Author Name** | **Author Name** | **Author Name** | **Author Name** |

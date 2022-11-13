@@ -152,7 +152,8 @@
     "Books_by_Author.md",
     "Vinyl_by_Title.md",
     "Vinyl_by_Artist.md",
-    "folder:/"
+    "folder:/",
+    "Media_Index.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
