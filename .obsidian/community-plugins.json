@@ -2,5 +2,7 @@
   "dataview",
   "obsidian-hider",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "excalibrain"
 ]
