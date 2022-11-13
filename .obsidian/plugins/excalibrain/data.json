@@ -150,10 +150,12 @@
     "README.md",
     "Process.md",
     "Books_by_Author.md",
-    "Vinyl_by_Title.md",
     "Vinyl_by_Artist.md",
     "folder:/",
-    "Media_Index.md"
+    "Media_Index.md",
+    "Roon_Albums_by_Artist.md",
+    "Digital_Music_Libraries.md",
+    "Vinyl_by_Title.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
