@@ -16,3 +16,12 @@ By Bishop Briggs
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Lessons of the Fire (from the Netflix Series "Devil In Ohio")
+2. The Water is Wide (from the Netflix Series "Devil In Ohio")
+3. Salvation From the Dawn (from the Netflix Series "Devil In Ohio")
+4. The Gift of the Rose (from the Netflix Series "Devil In Ohio")
+

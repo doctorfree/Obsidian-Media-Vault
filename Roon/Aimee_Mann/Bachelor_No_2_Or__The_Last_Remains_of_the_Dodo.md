@@ -16,3 +16,21 @@ By Aimee Mann
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. How I Am Different
+2. Nothing Is Good Enough
+3. Red Vines
+4. The Fall of the World's Own Optimist
+5. Satellite
+6. Deathly
+7. Ghost World
+8. Calling It Quits
+9. Driving Sideways
+10. Just Like Anyone
+11. Susan
+12. It Takes All Kinds
+13. You Do
+

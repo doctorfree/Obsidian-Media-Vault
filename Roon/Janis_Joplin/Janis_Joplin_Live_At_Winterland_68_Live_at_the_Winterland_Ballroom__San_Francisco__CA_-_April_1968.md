@@ -16,3 +16,22 @@ By Janis Joplin
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Down on Me
+2. Flower in the Sun
+3. I Need a Man to Love
+4. Bye Bye Baby
+5. Easy Rider
+6. Combination of the Two
+7. Farewell Song
+8. Piece of My Heart
+9. Catch Me Daddy
+10. Magic of Love
+11. Summertime
+12. Light Is Faster Than Sound
+13. Ball and Chain
+14. Down On Me (2)
+

@@ -16,3 +16,15 @@ By Hot Tuna
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. John's Other
+2. Candy Man
+3. Been So Long
+4. Want You to Know
+5. Keep Your Lamps Trimmed and Burning
+6. Never Happen No More
+7. Come Back Baby
+

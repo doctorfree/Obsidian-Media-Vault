@@ -16,3 +16,18 @@ By Flo & Eddie
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Mama, Open Up
+2. The Love You Gave Away
+3. Hot
+4. Best Friends (Theme From the Unsold T.V. Pilot)
+5. Best Possible Me
+6. Keep It Warm
+7. Guns
+8. Elenore
+9. Sway When You Walk
+10. Moving Targets
+

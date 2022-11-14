@@ -16,3 +16,25 @@ By Roy Orbison
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. In Dreams
+2. Crying
+3. I'm Hurtin'
+4. Oh, Pretty Woman
+5. It's Over
+6. Dream Baby
+7. Blue Angel
+8. Love Hurts
+9. Uptown
+10. Mean Woman Blues
+11. Only the Lonely (Know the Way I Feel)
+12. Running Scared
+13. I Drove All Night
+14. You Got It
+15. A Love So Beautiful
+16. Pretty Paper
+17. I Drove All Night (Duet with Ward Thomas)
+

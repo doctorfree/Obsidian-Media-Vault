@@ -16,3 +16,18 @@ By Van Morrison
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. And It Stoned Me
+2. Moondance
+3. Crazy Love
+4. Caravan
+5. Into the Mystic
+6. Come Running
+7. These Dreams of You
+8. Brand New Day
+9. Everyone
+10. Glad Tidings
+

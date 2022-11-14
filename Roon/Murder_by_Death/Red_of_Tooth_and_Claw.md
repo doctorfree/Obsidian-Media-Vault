@@ -16,3 +16,19 @@ By Murder by Death
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. I'm Comin' Home
+2. Ball & Chain
+3. Rum Brave
+4. Fuego!
+5. Theme [For Ennio Morricone]
+6. A Second Opinion
+7. Steal Away
+8. Ash
+9. Black Spot
+10. '52 Ford
+11. Spring Break 1899
+

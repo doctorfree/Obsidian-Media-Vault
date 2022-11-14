@@ -16,3 +16,19 @@ By David Bowie
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Speed of Life
+2. Breaking Glass
+3. What in the World
+4. Sound and Vision
+5. Always Crashing in the Same Car
+6. Be My Wife
+7. A New Career in a New Town
+8. Warszawa
+9. Art Decade
+10. Weeping Wall
+11. Subterraneans
+

@@ -16,3 +16,18 @@ By Black Sabbath
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Wheels of Confusion/The Straightener
+2. Tomorrow's Dream
+3. Changes
+4. FX
+5. Supernaut
+6. Snow Blind
+7. Cornucopia
+8. Laguna Sunrise
+9. St. Vitus Dance
+10. Under the Sun/Every Day Comes and Goes
+

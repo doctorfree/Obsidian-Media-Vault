@@ -16,3 +16,14 @@ By Frank Zappa
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Peaches en Regalia
+2. Willie the Pimp
+3. Son of Mr. Green Genes
+4. Little Umbrellas
+5. The Gumbo Variations
+6. It Must Be a Camel
+

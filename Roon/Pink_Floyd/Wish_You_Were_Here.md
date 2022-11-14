@@ -16,3 +16,13 @@ By Pink Floyd
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Shine on You Crazy Diamond, Pts. 1-5
+2. Welcome to the Machine
+3. Have a Cigar
+4. Wish You Were Here
+5. Shine on You Crazy Diamond, Pts. 6-9
+

@@ -16,3 +16,21 @@ By The Baseball Project
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. 1976
+2. Panda and the Freak
+3. Fair Weather Fans
+4. Don't Call Them Twinkies
+5. Chin Music
+6. Buckner's Bolero
+7. Tony (Boston's Chosen Son)
+8. Ichiro Goes to the Moon
+9. The Straw That Stirs the Drink
+10. Look Out Mom
+11. Pete Rose Way
+12. Twilight of My Career
+13. Here Lies Carl Mays
+

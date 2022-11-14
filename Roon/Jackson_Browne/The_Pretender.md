@@ -16,3 +16,16 @@ By Jackson Browne
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Fuse
+2. Your Bright Baby Blues
+3. Linda Paloma
+4. Here Come Those Tears Again
+5. The Only Child
+6. Daddy's Tune
+7. Sleep's Dark and Silent Gate
+8. The Pretender
+

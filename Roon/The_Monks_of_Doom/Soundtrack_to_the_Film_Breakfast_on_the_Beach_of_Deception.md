@@ -16,3 +16,21 @@ By The Monks of Doom
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. In Anticipation of the Pope
+2. Blues on Sunday
+3. Facts About Spiders
+4. Ukranian Technological Faith Dance
+5. Lappish Tea Song
+6. B-Music
+7. Fall From Grace
+8. Save Me From Myself
+9. Visions From the Acid Couch
+10. Insana and Her Manchild
+11. Jim Gore and the Ghost of Missouri
+12. The Haunting of an Eastern Man's Mind
+13. Eldridge Street
+

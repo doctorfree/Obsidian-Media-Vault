@@ -16,3 +16,12 @@ By Michael Tilson Thomas
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Symphony No. 6 in A Minor: Allegro energico, ma non troppo. Heftig, aber markig
+2. Symphony No. 6 in A Minor: Scherzo (Wuchtig)
+3. Symphony No. 6 in A Minor: Andante moderato
+4. Symphony No. 6 in A Minor: Finale. Allegro moderato - Allegro energico
+

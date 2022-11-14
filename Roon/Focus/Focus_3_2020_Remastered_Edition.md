@@ -16,3 +16,16 @@ By Focus
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Round Goes The Gossip
+2. Love Remembered
+3. Sylvia
+4. Carnival Fugue
+5. Focus III
+6. Answers? Questions! Questions? Answers!
+7. Elspeth Of Nottingham
+8. Anonymus II
+

@@ -16,3 +16,20 @@ By The Grass Roots
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Where Were You When I Needed You
+2. Let's Live for Today
+3. Things I Should Have Said
+4. Midnight Confessions
+5. Bella Linda
+6. The River Is Wide
+7. I'd Wait a Million Years
+8. Heaven Knows
+9. Baby Hold On
+10. Temptation Eyes
+11. Sooner or Later
+12. Two Divided by Love
+

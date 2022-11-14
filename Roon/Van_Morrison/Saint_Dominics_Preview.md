@@ -16,3 +16,15 @@ By Van Morrison
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Jackie Wilson Said (I'm in Heaven When You Smile)
+2. Gypsy
+3. I Will Be There
+4. Listen to the Lion
+5. Saint Dominic's Preview
+6. Redwood Tree
+7. Almost Independence Day
+

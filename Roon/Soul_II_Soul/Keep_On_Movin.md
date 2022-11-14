@@ -16,3 +16,18 @@ By Soul II Soul
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Keep On Movin'
+2. Fairplay
+3. Holdin' On (Bambelala)
+4. Feeling Free (live rap)
+5. African Dance
+6. Dance
+7. Feel Free
+8. Happiness (dub)
+9. Back to Life
+10. Jazzie's Groove
+

@@ -16,3 +16,29 @@ By Electric Flag
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+10. Soul Searchin'
+11. Tuning
+12. Milk Cow Blues
+13. Tuning
+14. Groovin' Is Easy
+15. I'd Rather Drink Muddy Water
+16. Hey Joe
+17. I've Been Loving You Too Long
+
+
+## Track listing
+
+
+10. Soul Searchin'
+11. Tuning
+12. Milk Cow Blues
+13. Tuning
+14. Groovin' Is Easy
+15. I'd Rather Drink Muddy Water
+16. Hey Joe
+17. I've Been Loving You Too Long
+

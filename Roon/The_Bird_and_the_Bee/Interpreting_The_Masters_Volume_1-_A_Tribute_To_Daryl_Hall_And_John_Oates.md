@@ -16,3 +16,17 @@ By The Bird and the Bee
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Heard It On The Radio
+2. I Can't Go For That
+3. Rich Girl
+4. Sara Smile
+5. Kiss On My List
+6. Maneater
+7. She's Gone
+8. Private Eyes
+9. One On One
+

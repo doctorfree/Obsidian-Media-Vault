@@ -16,3 +16,18 @@ By The Traveling Wilburys
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Handle with Care
+2. Dirty World
+3. Rattled
+4. Last Night
+5. Not Alone Any More
+6. Congratulations
+7. Heading for the Light
+8. Margarita
+9. Tweeter and the Monkey Man
+10. End of the Line
+

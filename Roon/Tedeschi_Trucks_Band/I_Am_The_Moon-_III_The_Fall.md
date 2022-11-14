@@ -16,3 +16,14 @@ By Tedeschi Trucks Band
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Somehow
+2. None Above
+3. Yes We Will
+4. Gravity
+5. Emmaline
+6. Take Me as I Am
+

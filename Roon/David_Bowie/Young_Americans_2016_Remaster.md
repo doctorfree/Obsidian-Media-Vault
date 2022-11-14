@@ -16,3 +16,16 @@ By David Bowie
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Young Americans
+2. Win
+3. Fascination
+4. Right
+5. Somebody Up There Likes Me
+6. Across the Universe
+7. Can You Hear Me
+8. Fame
+

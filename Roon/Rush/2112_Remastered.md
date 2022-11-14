@@ -16,3 +16,14 @@ By Rush
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. 2112: Overture/The Temples of Syrinx/Discovery
+2. A Passage to Bangkok
+3. The Twilight Zone
+4. Lessons
+5. Tears
+6. Something for Nothing
+

@@ -16,3 +16,13 @@ By MC Hawking
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+0. Crazy As F*ck
+0. Entropy
+0. Led Zeppelin Medley
+0. The Mighty Stephen Hawking
+10. F*ck the Creationists
+

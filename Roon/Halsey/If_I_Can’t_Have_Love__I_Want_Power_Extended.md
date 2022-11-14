@@ -16,3 +16,24 @@ By Halsey
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Tradition
+2. Bells in Santa Fe
+3. Easier Than Lying
+4. Lilith
+5. Girl Is a Gun
+6. You Asked for This
+7. Darling
+8. 1121
+9. Honey
+10. Whispers
+11. I Am Not a Woman, I'm a God
+12. The Lighthouse
+13. Ya'aburnee
+14. Nightmare
+15. Nightmare (reprise)
+16. People disappear here
+

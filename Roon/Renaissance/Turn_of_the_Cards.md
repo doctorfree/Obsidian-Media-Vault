@@ -16,3 +16,14 @@ By Renaissance
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Running Hard
+2. I Think of You
+3. Things I Don't Understand
+4. Black Flame
+5. Cold Is Being
+6. Mother Russia
+

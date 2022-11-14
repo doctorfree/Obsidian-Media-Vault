@@ -16,3 +16,16 @@ By Emanuel Ax
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Piano Concerto No. 3 in C minor, Opus 37: Allegro con brio
+2. Piano Concerto No. 3 in C minor, Opus 37: Largo
+3. Piano Concerto No. 3 in C minor, Opus 37: Rondo: Allegro
+4. Mass in C major, Opus 86: Kyrie
+5. Mass in C major, Opus 86: Gloria
+6. Mass in C major, Opus 86: Credo
+7. Mass in C major, Opus 86: Sanctus
+8. Mass in C major, Opus 86: Agnus Dei
+

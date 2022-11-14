@@ -16,3 +16,19 @@ By James McMurtry
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Painting by Numbers
+2. Terry
+3. Shining Eyes
+4. Outskirts
+5. Song for a Deck Hand's Daughter
+6. I'm Not from Here
+7. Too Long in the Wasteland
+8. Crazy Wind
+9. Poor Lost Soul
+10. Angeline
+11. Talkin' at the Texaco
+

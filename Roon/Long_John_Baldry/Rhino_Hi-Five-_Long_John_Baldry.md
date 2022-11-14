@@ -16,3 +16,13 @@ By Long John Baldry
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Conditional Discharge
+2. Don't Try to Lay No Boogie-Woogie on the King of Rock and Roll
+3. It Ain't Easy
+4. Come Back Again
+5. Only Love Can Break Your Heart
+

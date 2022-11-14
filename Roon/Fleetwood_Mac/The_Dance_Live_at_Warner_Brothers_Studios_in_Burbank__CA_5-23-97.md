@@ -16,3 +16,25 @@ By Fleetwood Mac
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Chain
+2. Dreams
+3. Everywhere
+4. Rhiannon
+5. I'm So Afraid
+6. Temporary One
+7. Bleed to Love Her
+8. Big Love
+9. Landslide
+10. Say You Love Me
+11. My Little Demon
+12. Silver Springs
+13. You Make Loving Fun
+14. Sweet Girl
+15. Go Your Own Way
+16. Tusk
+17. Don't Stop
+

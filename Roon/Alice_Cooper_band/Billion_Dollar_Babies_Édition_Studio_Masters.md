@@ -16,3 +16,18 @@ By Alice Cooper (band)
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Hello Hooray
+2. Raped and Freezin'
+3. Elected
+4. Billion Dollar Babies
+5. Unfinished Sweet
+6. No More Mr. Nice Guy
+7. Generation Landslide
+8. Sick Things
+9. Mary Ann
+10. I Love the Dead
+

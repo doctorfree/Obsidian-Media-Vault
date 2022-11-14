@@ -16,3 +16,25 @@ By Selena Gomez
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Boyfriend
+2. Lose You to Love Me
+3. Rare
+4. Souvenir
+5. Look at Her Now
+6. She
+7. Crowded Room
+8. Vulnerable
+9. Dance Again
+10. Ring
+11. A Sweeter Place
+12. People You Know
+13. Cut You Off
+14. Let Me Get Me
+15. Kinda Crazy
+16. Fun
+17. Feel Me
+

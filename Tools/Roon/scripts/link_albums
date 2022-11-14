@@ -1,0 +1,92 @@
+#!/bin/bash
+#
+# link_albums
+#
+# Modify list of albums an insert link to newly created album markdown
+#
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+ROON="${TOP}/Roon"
+ALBUMS="${TOP}/Roon_Albums_by_Artist.md"
+update=
+numknown=1
+[ "$1" == "-u" ] && update=1
+
+[ -f ${ALBUMS} ] || {
+  echo "${ALBUMS} does not exist. Exiting."
+  exit 1
+}
+
+rm -f /tmp/aba$$
+touch /tmp/aba$$
+cat ${ALBUMS} | while read line
+do
+  marker=`echo ${line} | awk ' { print $1 } '`
+  if [ "${marker}" == "###" ]
+  then
+    type="artist"
+    artist=`echo ${line} | sed -e "s/### //" | sed -e 's/^ *//' -e 's/ *$//'`
+    artistdir=`echo ${artist} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+  else
+    if [ "${marker}" == "-" ]
+    then
+      type="album"
+      album=`echo ${line} | sed -e "s/- //" | sed -e 's/^ *//' -e 's/ *$//'`
+      filename=`echo ${album} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+      [ "${filename}" ] || {
+        echo "Empty filename for ${artist}/${album}"
+        echo "${line}" >> /tmp/aba$$
+        continue
+      }
+    else
+      echo "${line}" >> /tmp/aba$$
+      continue
+    fi
+  fi
+  if [ "${type}" == "album" ]
+  then
+    [ "${artist}" ] && [ "${album}" ] && {
+      echo "Processing ${filename} for ${artist}"
+      [ -f ${ROON}/${artistdir}/${filename}.md ] || {
+        echo "${artistdir}/${filename}.md does not exist. Skipping."
+        echo "${line}" >> /tmp/aba$$
+        continue
+      }
+      # Insert link here
+      newline=`echo "${line}" | \
+        sed -e "s%${album}%[${album}](Roon/${artistdir}/${filename}.md)%"`
+      echo "${newline}" >> /tmp/aba$$
+    }
+  else
+    echo "${line}" >> /tmp/aba$$
+  fi
+done
+
+cp /tmp/aba$$ ${ALBUMS}
+rm -f /tmp/aba$$

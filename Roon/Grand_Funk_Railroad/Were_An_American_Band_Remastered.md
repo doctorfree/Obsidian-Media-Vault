@@ -16,3 +16,16 @@ By Grand Funk Railroad
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. We're an American Band
+2. Stop Lookin' Back
+3. Creepin'
+4. Black Licorice
+5. The Railroad
+6. Ain't Got Nobody
+7. Walk Like a Man (You Can Call Me Your Man)
+8. Loneliest Rider
+

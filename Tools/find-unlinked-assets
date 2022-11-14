@@ -4,9 +4,9 @@ TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
 
 cd ${TOP}
 
-# find assets -type f -print0 | while read asset
 find assets -type f | while read asset
 do
-  found=$(find -L . -path ./.git -prune -o ! -type d -print0 | xargs -0 grep -l ${asset})
+  gasset=`echo "${asset}" | sed -e "s/\[/\\\\\[/g" -e "s/\]/\\\\\]/g"`
+  found=$(find -L . -path ./.git -prune -o ! -type d -print0 | xargs -0 grep -l "${gasset}")
   [ "${found}" ] || echo "${asset}"
 done

@@ -16,3 +16,17 @@ By Rodrigo y Gabriela
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Tamacun
+2. Diablo Rojo
+3. Vikingman
+4. Satori
+5. Ixtapa
+6. Stairway to Heaven
+7. Orion
+8. Juan Loco
+9. PPA
+

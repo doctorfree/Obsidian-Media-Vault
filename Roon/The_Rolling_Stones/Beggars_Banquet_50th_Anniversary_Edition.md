@@ -16,3 +16,18 @@ By The Rolling Stones
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Sympathy for the Devil
+2. No Expectations
+3. Dear Doctor
+4. Parachute Woman
+5. Jig-Saw Puzzle
+6. Street Fighting Man
+7. Prodigal Son
+8. Stray Cat Blues
+9. Factory Girl
+10. Salt of the Earth
+

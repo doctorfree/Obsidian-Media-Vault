@@ -16,3 +16,21 @@ By blink‐182
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Anthem, Pt. 2
+2. Online Songs
+3. First Date
+4. Happy Holidays
+5. Story of a Lonely Guy
+6. The Rock Show
+7. Stay Together for the Kids
+8. Roller Coaster
+9. Reckless Abandon
+10. Everytime I Look for You
+11. Give Me One Good Reason
+12. Shut Up
+13. Please Take Me Home
+

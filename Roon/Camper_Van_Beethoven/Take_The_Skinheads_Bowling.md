@@ -16,3 +16,13 @@ By Camper Van Beethoven
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Take The Skinheads Bowling
+2. Cowboys From Hollywood
+3. Epigram
+4. Atkuda
+5. Epigram - Colonel Enrique Adalofo Bermudez
+

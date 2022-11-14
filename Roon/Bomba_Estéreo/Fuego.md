@@ -16,3 +16,11 @@ By Bomba Estéreo
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Como Lo Pedí
+2. Amor Amor
+3. Tamborero
+

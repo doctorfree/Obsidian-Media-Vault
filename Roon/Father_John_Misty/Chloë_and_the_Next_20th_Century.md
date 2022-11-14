@@ -16,3 +16,19 @@ By Father John Misty
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Chloë
+2. Goodbye Mr. Blue
+3. Kiss Me (I Loved You)
+4. (Everything But) Her Love
+5. Buddy's Rendezvous
+6. Q4
+7. Olvidado (Otro Momento)
+8. Funny Girl
+9. Only a Fool
+10. We Could Be Strangers
+11. The Next 20th Century
+

@@ -16,3 +16,21 @@ By Rufus Wainwright
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. How Deep Is the Ocean
+2. Foolish Love
+3. Excursion à Venise
+4. Tristes Apprêts
+5. Go Leave
+6. Gay Messiah
+7. Who by Fire
+8. All I Want
+9. Argentina
+10. I'm Going In
+11. L'Ile Inconnue
+12. Arachne
+13. Amsterdam
+

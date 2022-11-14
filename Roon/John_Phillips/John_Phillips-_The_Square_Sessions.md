@@ -16,3 +16,13 @@ By John Phillips
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Loving Tears
+2. The Pain of Love
+3. Blue Lonesome Days
+4. Instrumental
+5. Draft Dodge Rag
+

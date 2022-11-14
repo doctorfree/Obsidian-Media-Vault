@@ -16,3 +16,12 @@ By Daft Punk
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Harder, Better, Faster, Stronger (album version)
+2. Harder, Better, Faster, Stronger [Breakers Break Remix]
+3. Harder, Better, Faster, Stronger [The Neptunes Remix]
+4. Harder, Better, Faster, Stronger [Pete Heller's Stylus Mix]
+

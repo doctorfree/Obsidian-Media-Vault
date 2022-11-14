@@ -16,3 +16,14 @@ By Chick Corea
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. You're Everything
+2. Light as a Feather
+3. Captain Marvel
+4. 500 Miles High
+5. Children's Song
+6. Spain
+

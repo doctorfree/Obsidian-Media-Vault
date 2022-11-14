@@ -16,3 +16,19 @@ By The Meters
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Out in the Country
+2. Fire on the Bayou
+3. Love Slip Upon Ya
+4. Talkin' 'Bout New Orleans
+5. They All Ask'd for You
+6. Can You Do Without?
+7. Liar
+8. You're a Friend of Mine
+9. Middle of the Road
+10. Running Fast
+11. Mardi Gras Mambo
+

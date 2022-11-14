@@ -16,3 +16,18 @@ By Jackson Browne
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Jamaica Say You Will
+2. A Child in These Hills
+3. Song for Adam
+4. Doctor My Eyes
+5. From Silver Lake
+6. Something Fine
+7. Under the Falling Sky
+8. Looking into You
+9. Rock Me on the Water
+10. My Opening Farewell
+

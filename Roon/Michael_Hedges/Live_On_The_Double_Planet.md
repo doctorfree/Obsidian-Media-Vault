@@ -16,3 +16,20 @@ By Michael Hedges
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. All Along the Watchtower
+2. Because It's There
+3. Silent Anticipations
+4. Ready or Not
+5. A Love Bizarre
+6. Breakfast in the Field
+7. Rikki's Shuffle
+8. Woman of the World
+9. The Double Planet
+10. The Funky Avocado
+11. Come Together
+12. Two Days Old
+

@@ -16,3 +16,15 @@ By Deep Purple
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Highway Star
+2. Maybe I'm a Leo
+3. Pictures of Home
+4. Never Before
+5. Smoke On the Water
+6. Lazy
+7. Space Truckin'
+

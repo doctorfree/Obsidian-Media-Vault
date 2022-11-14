@@ -16,3 +16,14 @@ By Grace Slick
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Jay
+2. Theme from the Movie "Manhole"
+3. Come Again? Toucan
+4. It's Only Music
+5. Better Lying Down
+6. Epic (#38)
+

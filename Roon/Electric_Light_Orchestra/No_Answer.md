@@ -16,3 +16,17 @@ By Electric Light Orchestra
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. 10538 Overture
+2. Look at Me Now
+3. Nellie Takes Her Bow
+4. The Battle of Marston Moor (July 2nd, 1644)
+5. First Movement (Jumping Biz)
+6. Mr. Radio
+7. Manhattan Rumble (49th Street Massacre)
+8. Queens of the Hours
+9. Whisper in the Night
+

@@ -16,3 +16,13 @@ By Golden Smog
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Son (We've Kept the Room Just the Way You Left It)
+2. Easy to Be Hard
+3. Shooting Star
+4. Backstreet Girl
+5. Cowboy Song
+

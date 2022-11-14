@@ -16,3 +16,11 @@ By Bomba Estéreo
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Ahora
+2. Profundo
+3. Se acabó
+

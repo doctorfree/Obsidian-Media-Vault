@@ -16,3 +16,22 @@ By Man Man
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Knuckle Down
+2. Piranhas Club
+3. Steak Knives
+4. Dark Arts
+5. Haute Tropique
+6. Shameless
+7. Spooky Jookie
+8. Eel Bros
+9. Bangkok Necktie
+10. Life Fantastic
+11. Oh, La Brea
+12. Mayan Nights
+13. Trunk Eyes
+14. Hourglass
+

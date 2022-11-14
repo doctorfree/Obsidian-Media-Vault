@@ -16,3 +16,13 @@ By Golden Earring
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Radar Love
+2. Candy's Going Bad
+3. Vanilla Queen
+4. Big Tree, Blue Sea
+5. Are You Receiving Me
+

@@ -16,3 +16,12 @@ By Satori (Nl)
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Days Without You
+2. The Wishing Spell
+3. Bad Looking Trouble
+4. The Greatest Against the World
+

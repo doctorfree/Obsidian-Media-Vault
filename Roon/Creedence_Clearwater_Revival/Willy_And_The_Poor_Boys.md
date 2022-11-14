@@ -16,3 +16,18 @@ By Creedence Clearwater Revival
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Down on the Corner
+2. It Came Out of the Sky
+3. Cotton Fields (The Cotton Song)
+4. Poorboy Shuffle
+5. Feelin' Blue
+6. Fortunate Son
+7. Don't Look Now (It Ain't You or Me)
+8. The Midnight Special
+9. Side O' the Road
+10. Effigy
+

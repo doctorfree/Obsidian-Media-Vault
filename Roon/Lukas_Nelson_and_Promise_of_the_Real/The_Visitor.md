@@ -16,3 +16,18 @@ By Lukas Nelson & Promise of the Real
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Already Great
+2. Fly by Night Deal
+3. Almost Always
+4. Stand Tall
+5. Change of Heart
+6. Carnival
+7. Diggin' a Hole
+8. Children of Destiny
+9. When Bad Got Good
+10. Forever
+

@@ -16,3 +16,20 @@ By Beat Farmers
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Bigger Stones
+2. There She Goes Again
+3. Reason to Believe
+4. Lost Weekend
+5. California Kid
+6. Never Goin' Back
+7. Goldmine
+8. Showbiz
+9. Lonesome Hound
+10. Where Do They Go
+11. Selfish Heart
+12. Happy Boy
+

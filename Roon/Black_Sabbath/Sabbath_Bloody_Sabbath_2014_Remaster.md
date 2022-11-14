@@ -16,3 +16,16 @@ By Black Sabbath
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Sabbath Bloody Sabbath
+2. A National Acrobat
+3. Fluff
+4. Sabbra Cadabra
+5. Killing Yourself to Live
+6. Who Are You?
+7. Looking For Today
+8. Spiral Architect
+

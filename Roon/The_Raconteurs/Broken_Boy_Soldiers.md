@@ -16,3 +16,18 @@ By The Raconteurs
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Steady, As She Goes
+2. Hands
+3. Broken Boy Soldier
+4. Intimate Secretary
+5. Together
+6. Level
+7. Store Bought Bones
+8. Yellow Sun
+9. Call It a Day
+10. Blue Veins
+

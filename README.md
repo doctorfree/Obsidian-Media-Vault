@@ -22,6 +22,8 @@ Get started browsing the [Obsidian Media Vault](Media_Index.md).
 
 The Obsidian Media Vault has been curated with metadata allowing queries to be performed using the Obsidian Dataview plugin. Sample queries along with the code used to perform them can be viewed in the [Media Queries](Media_Queries.md) document.
 
+Additional visual representations of the Media Vault, also based upon Dataview queries, are provided by the [Excalibrain](https://github.com/zsviczian/excalibrain) Obsidian plugin.
+
 The Obsidian Media Vault markdown contains metadata with tags allowing a variety of Obsidian Dataview queries. For example, the markdown of the book "Timequake" by Kurt Vonnegut Jr. has the following YAML prelude:
 
 ```yaml
@@ -77,6 +79,22 @@ The Books sub-vault is organized by author subfolders. For example, all books by
 ## Process
 
 See the [Process](Process.md) document for a detailed description of the tools and process used to generate this vault.
+
+## Recommended Obsidian Plugins
+
+Obsidian community plugins we have found useful and can recommend include the following:
+
+- [Contextual Typography](https://github.com/mgmeyers/obsidian-contextual-typography): Enables enhanced preview typography
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview): Treats an Obsidian Vault as a database from which you can query
+- [Excalibrain](https://github.com/zsviczian/excalibrain): An interactive structured mind-map of an Obsidian vault
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin): Edit and view Excalidraw in Obsidian
+- [Hider](https://github.com/kepano/obsidian-hider): Hides various elements of the UI
+- [Hover-editor](https://github.com/nothingislost/obsidian-hover-editor): Turns the hover popover into a full featured editor
+- [Pandoc](https://github.com/OliverBalfour/obsidian-pandoc): Adds command palette options to export your notes to a variety of formats
+- [Quickadd](https://github.com/chhoumann/quickadd): Quickly add content to a vault
+- [Shellcommands](https://github.com/Taitava/obsidian-shellcommands): Define and run shell commands
+- [Style Settings](https://github.com/mgmeyers/obsidian-style-settings): Enables theme customization
+- [Templater](https://github.com/SilentVoid13/Templater): Defines a powerful templating language
 
 ## See also
 

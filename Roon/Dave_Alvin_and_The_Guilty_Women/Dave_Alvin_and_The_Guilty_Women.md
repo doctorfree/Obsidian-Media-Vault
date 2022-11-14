@@ -16,3 +16,20 @@ By Dave Alvin & The Guilty Women
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Marie Marie
+2. California's Burning
+3. Downey Girl
+4. Weight Of The World
+5. Anyway
+6. Boss Of The Blues
+7. Potter's Field
+8. River Under The Road
+9. These Times We're Living In
+10. Nana And Jimi
+11. Don't Make Promises
+12. Que Sera, Sera (Whatever Will Be, Will Be)
+

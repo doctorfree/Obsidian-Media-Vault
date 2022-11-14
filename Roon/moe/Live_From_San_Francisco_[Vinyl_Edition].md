@@ -16,3 +16,15 @@ By moe.
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Annihilation Blues
+2. Opium
+3. Brittle End
+4. Downward Facing Dog
+5. Queen Of Everything
+6. Puebla
+7. Silver Sun
+

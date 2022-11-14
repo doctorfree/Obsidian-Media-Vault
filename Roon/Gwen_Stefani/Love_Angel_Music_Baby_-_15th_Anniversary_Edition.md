@@ -16,3 +16,20 @@ By Gwen Stefani
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. What You Waiting For?
+2. Rich Girl
+3. Hollaback Girl
+4. Cool
+5. Bubble Pop Electric
+6. Luxurious
+7. Harajuku Girls
+8. Crash
+9. The Real Thing
+10. Serious
+11. Danger Zone
+12. Long Way to Go
+

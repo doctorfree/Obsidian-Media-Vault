@@ -16,3 +16,13 @@ By War
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Lonely Feelin'
+2. Back Home
+3. War Drums
+4. Vibeka
+5. Fidel's Fantasy
+

@@ -16,3 +16,17 @@ By Quicksilver Messenger Service
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Wolf Run, Pt. 1
+2. Just for Love, Pt. 1
+3. Cobra
+4. The Hat
+5. Freeway Flyer
+6. Gone Again
+7. Fresh Air
+8. Just for Love, Pt. 2
+9. Wolf Run, Pt. 2
+

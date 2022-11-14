@@ -16,3 +16,15 @@ By Grace Jones
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Do or Die
+2. Pride
+3. Fame
+4. Autumn Leaves
+5. All On a Summers Night
+6. Am I Ever Gonna Fall In Love In New York City
+7. Below the Belt
+

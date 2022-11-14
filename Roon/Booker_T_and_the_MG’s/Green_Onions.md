@@ -16,3 +16,20 @@ By Booker T. & the MG’s
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Green Onions
+2. Rinky-Dink
+3. I Got a Woman
+4. Mo' Onions
+5. Twist and Shout
+6. Behave Yourself
+7. Stranger on the Shore
+8. Lonely Avenue
+9. One Who Really Loves You
+10. Can't Sit Down
+11. A Woman, A Lover, A Friend
+12. Comin' Home Baby
+

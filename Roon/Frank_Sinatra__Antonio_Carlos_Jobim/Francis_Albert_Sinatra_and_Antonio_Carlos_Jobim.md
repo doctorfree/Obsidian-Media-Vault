@@ -16,3 +16,20 @@ By Frank Sinatra, Antonio Carlos Jobim
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+0. Baubles, Bangles And Beads
+0. Change Partners
+0. Dindi
+0. The Girl From Ipanema
+0. How Insensitive (Insensatez)
+0. I Concentrate On You
+0. If You Never Come To Me (Inútil Paisagen)
+0. Meditation
+0. Once I Loved (O Amor Em Paz)
+0. Quiet Nights Of Quiet Stars (Corcovado)
+0. Sinatra/Jobim Medley
+1. The Girl From Ipanema
+

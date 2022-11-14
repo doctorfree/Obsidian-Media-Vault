@@ -16,3 +16,13 @@ By The Ghost of a Saber Tooth Tiger
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Long Gone
+2. Dark Matter
+3. Early Worm
+4. Delilah
+5. Brand New World Order
+

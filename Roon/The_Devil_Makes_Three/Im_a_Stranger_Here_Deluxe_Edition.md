@@ -16,3 +16,20 @@ By The Devil Makes Three
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Stranger
+2. Worse or Better
+3. Forty Days
+4. A Moment's Rest
+5. Dead Body Moving
+6. Hallelu
+7. Hand Back Down
+8. Spinning like a Top
+9. Mr. Midnight
+10. Goodbye Old Friend
+11. Dragging Chains
+12. This Life
+

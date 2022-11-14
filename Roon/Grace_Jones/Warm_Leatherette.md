@@ -16,3 +16,16 @@ By Grace Jones
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Warm Leatherette
+2. Private Life
+3. A Rolling Stone
+4. Love Is the Drug
+5. The Hunter Gets Captured by the Game
+6. Bullshit
+7. Breakdown
+8. Pars
+

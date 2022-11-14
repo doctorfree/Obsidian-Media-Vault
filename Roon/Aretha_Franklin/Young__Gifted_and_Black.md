@@ -16,3 +16,20 @@ By Aretha Franklin
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Oh Me Oh My (I'm a Fool for You Baby)
+2. Day Dreaming
+3. Rock Steady
+4. Young, Gifted and Black
+5. All The King's Horses
+6. A Brand New Me
+7. April Fools
+8. I've Been Loving You Too Long
+9. First Snow in Kokomo
+10. The Long and Winding Road
+11. Didn't I (Blow Your Mind This Time)
+12. Border Song (Holy Moses)
+

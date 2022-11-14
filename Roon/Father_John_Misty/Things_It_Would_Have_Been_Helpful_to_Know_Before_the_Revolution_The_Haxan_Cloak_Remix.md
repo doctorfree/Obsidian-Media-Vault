@@ -16,3 +16,9 @@ By Father John Misty
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Things It Would Have Been Helpful to Know Before the Revolution (The Haxan Cloak remix)
+

@@ -16,3 +16,16 @@ By Electric Light Orchestra
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Fire on High
+2. Waterfall
+3. Evil Woman
+4. Nightrider
+5. Poker
+6. Strange Magic
+7. Down Home Town
+8. One Summer Dream
+

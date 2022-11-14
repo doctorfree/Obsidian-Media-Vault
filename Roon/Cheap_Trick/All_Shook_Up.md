@@ -16,3 +16,18 @@ By Cheap Trick
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Stop This Game
+2. Just Got Back
+3. Baby Loves to Rock
+4. Can't Stop It but I'm Gonna Try
+5. World's Greatest Lover
+6. Hight Priest of Rhythmic Noise
+7. Love Comes A-Tumblin' Down
+8. I Love You Honey but I Hate Your Friends
+9. Go for the Throat (Use Your Own Imagination)
+10. Who d' King
+

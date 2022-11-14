@@ -16,3 +16,18 @@ By The Alan Parsons Project
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Sirius
+2. Eye in the Sky
+3. Children of the Moon
+4. Gemini
+5. Silence and I
+6. You're Gonna Get Your Fingers Burned
+7. Psychobabble
+8. Mammagamma (Instrumental)
+9. Step by Step
+10. Old and Wise
+

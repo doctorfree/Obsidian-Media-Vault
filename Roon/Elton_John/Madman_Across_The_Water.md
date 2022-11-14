@@ -16,3 +16,17 @@ By Elton John
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Tiny Dancer
+2. Levon
+3. Razor Face
+4. Madman Across the Water
+5. Indian Sunset
+6. Holiday Inn
+7. Rotten Peaches
+8. All the Nasties
+9. Goodbye
+

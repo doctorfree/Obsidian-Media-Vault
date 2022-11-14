@@ -16,3 +16,19 @@ By Link Wray
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. La De Da
+2. Take Me Home Jesus
+3. Juke Box Mama
+4. Rise and Fall of Jimmy Stokes
+5. Fallin' Rain
+6. Fire and Brimstone
+7. Ice People
+8. God Out West
+9. Crow Bar
+10. Black River Swamp
+11. Tail Dragger
+

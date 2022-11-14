@@ -16,3 +16,18 @@ By Bruno Mars
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Young Girls
+2. Locked Out of Heaven
+3. Gorilla
+4. Treasure
+5. Moonshine
+6. When I Was Your Man
+7. Natalie
+8. Show Me
+9. Money Make Her Smile
+10. If I Knew
+

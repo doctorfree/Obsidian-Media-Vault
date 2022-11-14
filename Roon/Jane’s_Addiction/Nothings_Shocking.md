@@ -16,3 +16,19 @@ By Jane’s Addiction
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Up the Beach
+2. Ocean Size
+3. Had a Dad
+4. Ted, Just Admit It...
+5. Standing in the Shower...Thinking
+6. Summertime Rolls
+7. Mountain Song
+8. Idiots Rule
+9. Jane Says
+10. Thank You Boys
+11. Pigs in Zen
+

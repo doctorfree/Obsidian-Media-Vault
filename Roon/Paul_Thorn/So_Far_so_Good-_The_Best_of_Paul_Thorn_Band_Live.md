@@ -16,3 +16,24 @@ By Paul Thorn
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Heart With 4 Wheel Drive
+2. Lover's Vacation
+3. Burn Down The Trailer Park
+4. Every Little Bit Hurts
+5. That's All I Know Right Now
+6. Mood Ring
+7. That's A Lie
+8. A Lot Of Good Reasons
+9. I Have A Good Day
+10. I'd Rather Be A Hammer Than A Nail
+11. Rise Up
+12. High
+13. Ain't Love Strange
+14. Mission Temple Fireworks Stand
+15. Something Out There
+16. Will The Circle Be Unbroken
+

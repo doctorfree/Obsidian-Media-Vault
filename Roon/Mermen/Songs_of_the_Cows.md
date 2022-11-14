@@ -16,3 +16,17 @@ By Mermen
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Curve
+2. Slipping the Glimpse
+4. Varykino Show
+5. A Heart With Paper Walls
+6. Meandher
+7. What am I Always Waiting For
+8. A Kiss
+10. Rumination
+11. I of the Moo
+

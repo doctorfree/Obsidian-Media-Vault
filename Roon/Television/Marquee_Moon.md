@@ -16,3 +16,16 @@ By Television
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. See No Evil
+2. Venus
+3. Friction
+4. Marquee Moon
+5. Elevation
+6. Guiding Light
+7. Prove It
+8. Torn Curtain
+

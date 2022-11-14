@@ -16,3 +16,9 @@ By Deth Specula
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+0. Love Bomb Robot (Malcom's Rough Draft)
+

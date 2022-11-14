@@ -16,3 +16,14 @@ By Triumvirat
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Illusions on a Double Dimple: Flashback/Schooldays/Triangle/Illusions
+2. Mister Ten Percent: Maze/Dawning/Bad Deal/Roundabout/Lucky ...
+3. Dancer's Delight
+4. Timothy
+5. Dimplicity
+6. Million Dollars
+

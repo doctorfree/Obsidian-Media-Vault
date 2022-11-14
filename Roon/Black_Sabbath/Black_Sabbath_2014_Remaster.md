@@ -16,3 +16,13 @@ By Black Sabbath
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Black Sabbath
+2. The Wizard
+3. Wasp/Behind the Wall of Sleep/Bassically/Nib
+4. Wicked World
+5. A Bit of Finger/Sleeping Village/Warning
+

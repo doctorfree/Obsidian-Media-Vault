@@ -16,3 +16,17 @@ By Built to Spill
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Gonna Lose
+2. Fool's Gold
+3. Understood
+4. Elements
+5. Rock Steady
+6. Spiderweb
+7. Never Alright
+8. Alright
+9. Comes a Day
+

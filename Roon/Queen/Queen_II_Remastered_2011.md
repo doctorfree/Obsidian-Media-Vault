@@ -16,3 +16,19 @@ By Queen
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Procession
+2. Father to Son
+3. White Queen (As It Began)
+4. Some Day One Day
+5. The Loser in the End
+6. Ogre Battle
+7. The Fairy Feller's Master-Stroke
+8. Nevermore
+9. The March of the Black Queen
+10. Funny How Love Is
+11. Seven Seas of Rhye
+

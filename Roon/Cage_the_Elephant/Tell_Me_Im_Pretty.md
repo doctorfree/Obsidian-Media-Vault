@@ -16,3 +16,18 @@ By Cage the Elephant
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Cry Baby
+2. Mess Around
+3. Sweetie Little Jean
+4. Too Late to Say Goodbye
+5. Cold Cold Cold
+6. Trouble
+7. How Are You True
+8. That's Right
+9. Punchin' Bag
+10. Portuguese Knife Fight
+

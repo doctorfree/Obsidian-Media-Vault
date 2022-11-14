@@ -16,3 +16,19 @@ By Talking Heads
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Thank You for Sending Me an Angel
+2. With Our Love
+3. The Good Thing
+4. Warning Sign
+5. The Girls Want to Be with the Girls
+6. Found a Job
+7. Artists Only
+8. I'm Not in Love
+9. Stay Hungry
+10. Take Me to the River
+11. The Big Country
+

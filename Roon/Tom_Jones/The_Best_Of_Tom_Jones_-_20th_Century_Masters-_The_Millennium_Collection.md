@@ -16,3 +16,20 @@ By Tom Jones
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. It's Not Unusual
+2. What's New Pussycat? (From the Film What's New Pussycat?)
+3. Thunderball (From the Film Thunderball)
+4. Detroit City
+5. Green, Green Grass of Home
+6. (It Looks Like) I'll Never Fall in Love Again
+7. Delilah
+8. Love Me Tonight
+9. Without Love (There Is Nothing)
+10. Daughter of Darkness
+11. She's a Lady
+12. I (Who Have Nothing)
+

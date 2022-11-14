@@ -16,3 +16,20 @@ By Quicksilver Messenger Service
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Pride of Man
+2. If You Live (Your Time Will Come)
+3. Dino's Song
+4. Smokestack Lightnin'
+5. Codine
+6. Light Your Windows
+7. Mona
+8. Calvary
+9. Back Door Man
+10. Acapulco Gold & Silver
+11. Who Do You Love?
+12. The Fool
+

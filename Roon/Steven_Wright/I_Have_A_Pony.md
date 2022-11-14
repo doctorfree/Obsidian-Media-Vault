@@ -16,3 +16,22 @@ By Steven Wright
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Introduction
+2. Ants
+3. Hitchhiking
+4. Ice
+5. Dog Stay
+6. Rachel
+7. 7's and Museums
+8. Water
+9. Jiggs Casey
+10. Cross Country
+11. Book Store
+12. Winny
+13. Apt.
+14. Babies and Skiing
+

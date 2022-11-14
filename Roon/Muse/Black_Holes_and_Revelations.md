@@ -16,3 +16,20 @@ By Muse
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Take a Bow
+2. Starlight
+3. Supermassive Black Hole
+4. Map of the Problematique
+5. Soldier's Poem
+6. Invincible
+7. Assassin
+8. Exo-Politics
+9. City of Delusion
+10. Hoodoo
+11. Knights of Cydonia
+12. Glorious
+

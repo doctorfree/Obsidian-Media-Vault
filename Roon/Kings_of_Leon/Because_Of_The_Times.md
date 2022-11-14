@@ -16,3 +16,21 @@ By Kings of Leon
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Knocked Up
+2. Charmer
+3. On Call
+4. McFearless
+5. Black Thumbnail
+6. My Party
+7. True Love Way
+8. Ragoo
+9. Fans
+10. The Runner
+11. Trunk
+12. Camaro
+13. Arizona
+

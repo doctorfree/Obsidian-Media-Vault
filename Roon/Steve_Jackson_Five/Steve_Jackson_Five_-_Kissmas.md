@@ -16,3 +16,14 @@ By Steve Jackson Five
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Something On Your Mind-bounce1
+2. I Cant Decide_rough2
+3. Brutal Beautiful
+4. Never Let My Guard Down
+5. Caffeine Christine
+6. I'll Never Let my Guard down
+

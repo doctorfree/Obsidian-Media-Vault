@@ -16,3 +16,18 @@ By Metric
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Empty
+2. Glass Ceiling
+3. Hand$hake$
+4. Too Little Too Late
+5. Poster of a Girl
+6. Monster Hospital
+7. Patriarch on a Vespa
+8. The Police and the Private
+9. Ending Start
+10. Live It Out
+

@@ -16,3 +16,12 @@ By Mammatus
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Dragon of the Deep, Pt. 3 (Excellent Swordfight)
+2. Pierce the Darkness
+3. The Changing Wind
+4. The Coast Explodes
+

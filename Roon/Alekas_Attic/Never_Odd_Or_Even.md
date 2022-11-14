@@ -16,3 +16,18 @@ By Aleka's Attic
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Alone We Elope
+2. Below Beloved
+3. Bliss Is...
+4. Dog God
+5. Get Anything
+6. Note To A Friend
+7. Safety Pins & Army Boots
+8. Scales & Fishnails
+9. Senile Felines
+10. You're So Ostentatious
+

@@ -16,3 +16,17 @@ By Atoms for Peace
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Before Your Very Eyes...
+2. Default
+3. Ingenue
+4. Dropped
+5. Unless
+6. Stuck Together Pieces
+7. Judge Jury and Executioner
+8. Reverse Running
+9. Amok
+

@@ -16,3 +16,17 @@ By Electric Light Orchestra
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Ocean Breakup/King of the Universe
+2. Bluebird Is Dead
+3. Oh No Not Susan
+4. New World Rising/Ocean Breakup (Reprise)
+5. Showdown
+6. Daybreaker
+7. Ma-Ma-Ma Belle
+8. Dreaming of 4000
+9. In the Hall of the Mountain King
+

@@ -16,3 +16,18 @@ By Todd Rundgren
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Change Myself
+2. Love Science
+3. Who's Sorry Now?
+4. The Smell of Money
+5. If I Have to Be Alone
+6. Love in Disguise
+7. Kindness
+8. Public Servant
+9. Gaya's Eyes
+10. Second Wind
+

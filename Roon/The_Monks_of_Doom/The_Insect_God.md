@@ -16,3 +16,13 @@ By The Monks of Doom
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Insect God
+2. Chang
+3. Let's Split
+4. If It Don't Kill Me
+5. Who Are the Brain Police?
+

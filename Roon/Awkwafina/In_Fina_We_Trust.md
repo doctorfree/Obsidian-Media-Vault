@@ -16,3 +16,15 @@ By Awkwafina
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Fish (intro)
+2. Cakewalk
+3. Inner Voices
+4. Pockiez
+5. Ghost
+6. Testify
+7. The Fish (outro)
+

@@ -16,3 +16,14 @@ By ZHU
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Faded (ODESZA remix)
+2. Faded (Lido remix)
+3. Faded (The Magician remix)
+4. Faded (Big Gigantic remix)
+5. Faded (Amtrac remix)
+6. Faded (TÂCHES remix)
+

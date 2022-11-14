@@ -16,3 +16,11 @@ By Yes
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Close to the Edge: The Solid Time of Change/Total Mass Retain/I Get Up
+2. And You and I: Cord of Life/Eclipse/The Preacher the Teacher/Apocalypse
+3. Siberian Khatru (2013 stereo mix)
+

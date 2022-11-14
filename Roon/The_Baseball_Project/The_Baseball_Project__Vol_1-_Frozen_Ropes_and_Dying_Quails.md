@@ -16,3 +16,21 @@ By The Baseball Project
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Past Time
+2. Ted Fucking Williams
+3. Gratitude (for Curt Flood)
+4. Broken Man
+5. Satchel Paige Said
+6. Fernando
+7. Long Before My Time
+8. Jackie's Lament
+9. Sometimes I Dream of Willie Mays
+10. The Death of Big Ed Delahanty
+11. Harvey Haddix
+12. The Yankee Flipper
+13. The Closer
+

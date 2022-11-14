@@ -16,3 +16,14 @@ By Railroad Earth
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Blazin' a Trail
+2. Only By the Light
+3. Adding My Voice
+4. The Berkeley Flash
+5. Ravens Child
+6. Captain Nowhere
+

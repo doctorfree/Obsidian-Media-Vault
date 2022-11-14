@@ -16,3 +16,18 @@ By Steely Dan
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Do It Again
+2. Dirty Work
+3. Kings
+4. Midnight Cruiser
+5. Only a Fool Would Say That
+6. Reelin' in the Years
+7. Fire in the Hole
+8. Brooklyn (Owes the Charmer Under Me)
+9. Change of the Guard
+10. Turn That Heartbeat Over Again
+

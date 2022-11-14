@@ -16,3 +16,19 @@ By X
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Hungry Wolf
+2. Motel Room in My Bed
+3. Riding With Mary
+4. Come Back to Me
+5. Under the Big Black Sun
+6. Because I Do
+7. Blue Spark
+8. Dancing With Tears in My Eyes
+9. Real Child of Hell
+10. How I (Learned My Lesson)
+11. The Have Nots
+

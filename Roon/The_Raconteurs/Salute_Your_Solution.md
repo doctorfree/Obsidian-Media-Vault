@@ -16,3 +16,10 @@ By The Raconteurs
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Salute Your Solution
+2. Top Yourself [Bluegrass Version]
+

@@ -16,3 +16,17 @@ By Dada
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Dim
+2. Playboy in Outerspace
+3. Trip With My Dad
+5. Here Today, Gone Tomorrow
+6. Feel Me Don't You
+7. Moon
+9. Dizz Knee Land
+10. Baby Really Loves Me
+11. Dorina
+

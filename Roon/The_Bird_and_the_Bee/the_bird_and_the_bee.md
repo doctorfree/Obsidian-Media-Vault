@@ -16,3 +16,18 @@ By The Bird and the Bee
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Again and Again
+2. Birds and the Bees
+3. Fucking Boyfriend
+4. I'm a Broken Heart
+5. La La La
+6. My Fair Lady
+7. I Hate Camera
+8. Because
+9. Preparedness
+10. Spark
+

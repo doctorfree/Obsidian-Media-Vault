@@ -16,3 +16,12 @@ By Ampersounds
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Technopera [Edit]
+2. Solitude of Heart
+3. Do It to the Music [Club Mix]
+4. Do It to the Music [Fred Falke & Zen Freeman Club Remix] [Edit]
+

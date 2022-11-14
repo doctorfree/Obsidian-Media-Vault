@@ -16,3 +16,18 @@ By Metric
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. IOU
+2. Hustle Rose
+3. Succexy
+4. Combat Baby
+5. Calculation (Theme)
+6. Wet Blanket
+7. On a Slow Night
+8. The List
+9. Dead Disco
+10. Love Is a Place
+

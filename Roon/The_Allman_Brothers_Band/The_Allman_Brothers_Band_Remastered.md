@@ -16,3 +16,15 @@ By The Allman Brothers Band
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Don't Want You No More
+2. It's Not My Cross to Bear
+3. Black Hearted Woman
+4. Trouble No More
+5. Every Hungry Woman
+6. Dreams
+7. Whipping Post
+

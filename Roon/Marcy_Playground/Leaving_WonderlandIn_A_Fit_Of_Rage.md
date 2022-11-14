@@ -16,3 +16,20 @@ By Marcy Playground
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Blackbird
+2. Devil Woman
+3. Gin and Money
+4. Star Baby
+5. I Burned the Bed
+6. Irene
+7. Emperor
+8. Good Times
+9. I Must Have Been Dreaming
+10. Memphis
+11. Thank You
+12. Down the Drain
+

@@ -16,3 +16,17 @@ By Poco
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. And Settlin' Down
+2. Ride the Country
+3. I Can See Everything
+4. Go and Say Goodbye
+5. Keeper of the Fire
+6. Early Times
+7. A Good Feelin' to Know
+8. Restrain
+9. Sweet Lovin'
+

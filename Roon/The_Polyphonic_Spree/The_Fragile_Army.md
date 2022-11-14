@@ -16,3 +16,20 @@ By The Polyphonic Spree
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Together We're Heavy
+2. Running Away
+3. Get Up and Go
+4. The Fragile Army
+5. Younger Yesterday
+6. We Crawl
+7. Mental Cabaret
+8. Guaranteed Nightlite
+9. Light to Follow
+10. Watch Us Explode (Justify)
+11. Overblow Your Nest
+12. The Championship
+

@@ -16,3 +16,22 @@ By alt-J
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Intro
+2. Arrival in Nara
+3. Nara
+4. Every Other Freckle
+5. Left Hand Free [Extended Version]
+6. Garden of England (Interlude)
+7. Choice Kingdom
+8. Hunger of the Pine
+9. Warm Foothills
+10. The Gospel of John Hurt
+11. Pusher
+12. Bloodflood, Pt. 2
+13. Leaving Nara
+14. Lovely Day (Bonus Track)
+

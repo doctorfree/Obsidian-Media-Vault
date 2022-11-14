@@ -16,3 +16,18 @@ By The Sons of Champlin
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Lookout
+2. Like to Get to Know You
+3. Marp
+4. Planet Ripper
+5. All and Everything
+6. Without Love
+7. Rainbow's End
+8. Geoff's Vibe
+9. Queen of the Rain
+10. Gold Mine
+

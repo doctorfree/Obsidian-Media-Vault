@@ -16,3 +16,16 @@ By Roxy Music
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Do the Strand
+2. Beauty Queen
+3. Strictly Confidential
+4. Editions of You
+5. In Every Dream Home a Heartache
+6. Bogus Man
+7. Grey Lagoons
+8. For Your Pleasure
+

@@ -16,3 +16,16 @@ By Drixxxe
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Sextape 3 Opening
+2. Slow Me Down
+3. Tender Bliss
+4. Piano Blue
+5. Spank Me
+6. Harpsichord
+7. Whack-a-Doodle
+8. Drum Transition
+

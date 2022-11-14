@@ -16,3 +16,20 @@ By Quicksilver Messenger Service
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Pride of Man
+2. Light Your Windows
+3. Who Do You Love, Pt. 1
+4. Stand by Me
+5. Dino's Song
+6. Shady Grove
+7. Joseph's Coat
+8. Flute Song
+9. Fresh Air
+10. What About Me
+11. Just for Love
+12. Hope
+

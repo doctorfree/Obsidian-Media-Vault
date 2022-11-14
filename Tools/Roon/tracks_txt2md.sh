@@ -12,8 +12,14 @@
 # 6. He's a Real Gone Guy
 # 7. Rock Candy
 
-TXT="data/tracks_by_artist.txt"
-MDN="Tracks_by_Artist.md"
+if [ "$1" ]
+then
+  TXT="data/$1.txt"
+  MDN="$1.md"
+else
+  TXT="data/tracks_by_artist.txt"
+  MDN="Tracks_by_Artist.md"
+fi
 
 echo "# Roon Tracks by Artist" > ${MDN}
 echo "" >> ${MDN}

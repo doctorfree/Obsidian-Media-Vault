@@ -16,3 +16,11 @@ By Beirut
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Elephant Gun
+2. Transatlantique
+3. Le Moribond/My Family's Role in the World Revolution
+

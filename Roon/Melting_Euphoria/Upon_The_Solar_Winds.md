@@ -16,3 +16,17 @@ By Melting Euphoria
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Leylines from Azimuth
+2. Scarab Sands
+3. Harbor of Infinity
+4. Of Misting Eyes and Lavender
+5. Venusian Skyline
+6. Astral Nemesis
+7. Turkish Delight
+8. Crystaline Wind
+9. Ravenscourt Park
+

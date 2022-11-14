@@ -16,3 +16,13 @@ By The Rascals
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Good Lovin'
+2. I Ain't Gonna Eat out My Heart Anymore
+3. You Better Run
+4. Temptaion's 'Bout to Get Me
+5. What Is the Reason
+

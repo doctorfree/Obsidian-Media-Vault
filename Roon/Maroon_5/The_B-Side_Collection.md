@@ -16,3 +16,15 @@ By Maroon 5
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Story [Non-LP Version]
+2. Miss You Love You [Non-LP Version]
+3. Until You're Over Me [Non-LP Version]
+4. Losing My Mind [Non-LP Version]
+5. The Way I Was [Non-LP Version]
+6. Figure It Out
+7. Infatuation
+

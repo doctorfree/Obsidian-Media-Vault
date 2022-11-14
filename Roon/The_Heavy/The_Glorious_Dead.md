@@ -16,3 +16,18 @@ By The Heavy
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Can't Play Dead
+2. Curse Me Good
+3. What Makes a Good Man?
+4. The Big Bad Wolf
+5. Be Mine
+6. Same Ol'
+7. Just My Luck
+8. The Lonesome Road
+9. Don't Say Nothing
+10. Blood Dirt Love Stop
+

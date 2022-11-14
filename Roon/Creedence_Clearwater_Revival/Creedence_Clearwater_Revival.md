@@ -16,3 +16,16 @@ By Creedence Clearwater Revival
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. I Put a Spell on You
+2. The Working Man
+3. Suzie Q
+4. Ninety-Nine and a Half (Won't Do)
+5. Get Down Woman
+6. Porterville
+7. Gloomy
+8. Walking on the Water
+

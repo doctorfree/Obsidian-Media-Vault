@@ -16,3 +16,20 @@ By Cosmo’s Midnight
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Confidence
+2. Lowkey
+3. Montego
+4. With U
+5. Talk to Me
+6. Get to Know
+7. Where U Been
+8. What Comes Next (Interlude)
+9. Polarised
+10. History
+11. Dreamer
+12. Lovelight
+

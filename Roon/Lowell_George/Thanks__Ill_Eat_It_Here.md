@@ -16,3 +16,18 @@ By Lowell George
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. What Do You Want the Girl to Do?
+2. Honest Man
+3. Two Trains
+4. I Can't Stand the Rain
+5. Cheek to Cheek
+6. Easy Money
+7. 20 Million Things
+8. Find a River
+9. Himmler's Ring
+10. Heartache
+

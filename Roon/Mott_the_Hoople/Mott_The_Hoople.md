@@ -16,3 +16,16 @@ By Mott the Hoople
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. You Really Got Me
+2. At the Crossroads
+3. Laugh at Me
+4. Backsliding Fearlessly
+5. Rock and Roll Queen
+6. Rabbit Foot and Toby Time
+7. Half Moon Bay
+8. Wrath and Wroll
+

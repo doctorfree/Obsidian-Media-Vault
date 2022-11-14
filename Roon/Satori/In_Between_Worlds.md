@@ -16,3 +16,18 @@ By Satori
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Greatest Against The World
+2. The Wishing Spell
+3. Pink & Orange Sky
+4. Compulaire
+5. Tuti
+6. Bad Looking Trouble
+7. Wasted
+8. We Don't Exist
+9. Days Without You
+10. Eshan
+

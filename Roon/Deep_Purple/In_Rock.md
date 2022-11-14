@@ -16,3 +16,15 @@ By Deep Purple
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Speed King
+2. Bloodsucker
+3. Child in Time
+4. Flight of the Rat
+5. Into the Fire
+6. Living Wreck
+7. Hard Lovin' Man
+

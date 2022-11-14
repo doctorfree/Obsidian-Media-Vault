@@ -16,3 +16,17 @@ By Rodrigo y Gabriela
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Santo Domingo
+2. Hanuman
+3. Ixtapa
+4. 11:11
+5. Master Maqui
+6. Diablo Rojo
+7. Logos
+8. Juan Loco
+9. Tamacun
+

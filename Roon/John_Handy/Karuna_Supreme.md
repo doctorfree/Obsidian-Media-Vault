@@ -16,3 +16,11 @@ By John Handy
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Ganesha's Jubilee Dance
+2. Karuna Supreme
+3. The Soul and the Atma
+

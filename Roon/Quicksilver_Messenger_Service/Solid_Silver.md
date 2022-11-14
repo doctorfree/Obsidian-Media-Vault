@@ -16,3 +16,18 @@ By Quicksilver Messenger Service
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Gypsy Lights
+2. Heebie Jeebies
+3. Cowboy on the Run
+4. I Heard You Singing
+5. Worryin' Shoes
+6. The Letter
+7. They Don't Know
+8. Flames
+9. Witches' Moon
+10. Bittersweet Love
+

@@ -16,3 +16,14 @@ By Pearl Charles
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Night & Day
+2. You Can Change
+3. Indian Burnout
+4. I Ran So Far
+5. What Can I Do
+6. Idea to Her
+

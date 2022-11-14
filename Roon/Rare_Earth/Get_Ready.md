@@ -16,3 +16,14 @@ By Rare Earth
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Magic Key
+2. Tobacco Road
+3. Feelin' Alright
+4. In Bed
+5. Train to Nowhere
+6. Get Ready
+

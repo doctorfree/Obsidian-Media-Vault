@@ -1,0 +1,133 @@
+#!/bin/bash
+#
+# add_tracks
+#
+# Append track listing to albums
+#
+# Entries look like:
+#
+# ### The Zombies on album Still Got That Hunger
+# 
+# 1. Moving On
+# 2. Chasing the Past
+# 3. Edge of the Rainbow
+# 4. New York
+# 5. I Want You Back Again [2015]
+# 6. And We Were Young Again
+# 7. Maybe Tomorrow
+# 8. Now I Know I'll Never Get Over You
+# 9. Little One
+# 10. Beyond the Borderline
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+ROON="${TOP}/Roon"
+
+if [ "$1" ]
+then
+  TRACKS="$1"
+else
+  TRACKS="${TOP}/Roon_Tracks_by_Artist.md"
+fi
+
+[ -f ${TRACKS} ] || {
+  echo "${TRACKS} does not exist. Exiting."
+  exit 1
+}
+
+# ### The Zombies on album Still Got That Hunger
+rm -f /tmp/tracks$$
+artist=
+album=
+cat ${TRACKS} | while read line
+do
+  marker=`echo ${line} | awk ' { print $1 } '`
+  if [ "${marker}" == "###" ]
+  then
+    [ -f /tmp/tracks$$ ] && {
+      [ "${artist}" ] && [ "${album}" ] && {
+        if [ -f ${ROON}/${artistdir}/${filename}.md ]
+        then
+          grep "Track listing" ${ROON}/${artistdir}/${filename}.md > /dev/null || {
+            echo "Appending tracks to ${artistdir}/${filename}.md"
+            cat /tmp/tracks$$ >> ${ROON}/${artistdir}/${filename}.md
+          }
+        else
+          artistdir=`echo ${artistdir} | sed -e "s/”//g" -e "s/“//g"`
+          if [ -f ${ROON}/${artistdir}/${filename}.md ]
+          then
+            grep "Track listing" ${ROON}/${artistdir}/${filename}.md > /dev/null || {
+              echo "Appending tracks to ${artistdir}/${filename}.md"
+              cat /tmp/tracks$$ >> ${ROON}/${artistdir}/${filename}.md
+            }
+          else
+            echo "${artistdir}/${filename}.md does not exist. Skipping."
+          fi
+        fi
+      }
+      rm -f /tmp/tracks$$
+    }
+    echo "" > /tmp/tracks$$
+    echo "## Track listing" >> /tmp/tracks$$
+    echo "" >> /tmp/tracks$$
+    artist=`echo ${line} | awk -F 'on album' ' { print $1 } ' | \
+      sed -e "s/### //" | sed -e 's/^ *//' -e 's/ *$//'`
+    album=`echo ${line} | awk -F 'on album' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//'`
+    artistdir=`echo ${artist} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+    filename=`echo ${album} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+  else
+    [ "${artist}" ] && [ "${album}" ] && {
+      echo "${line}" >> /tmp/tracks$$
+    }
+  fi
+done
+
+[ -f /tmp/tracks$$ ] && {
+  [ "${artist}" ] && [ "${album}" ] && {
+    if [ -f ${ROON}/${artistdir}/${filename}.md ]
+    then
+      grep "Track listing" ${ROON}/${artistdir}/${filename}.md > /dev/null || {
+        echo "Appending tracks to ${artistdir}/${filename}.md"
+        cat /tmp/tracks$$ >> ${ROON}/${artistdir}/${filename}.md
+      }
+    else
+      artistdir=`echo ${artistdir} | sed -e "s/”//g" -e "s/“//g"`
+      if [ -f ${ROON}/${artistdir}/${filename}.md ]
+      then
+        grep "Track listing" ${ROON}/${artistdir}/${filename}.md > /dev/null || {
+          echo "Appending tracks to ${artistdir}/${filename}.md"
+          cat /tmp/tracks$$ >> ${ROON}/${artistdir}/${filename}.md
+        }
+      else
+        echo "${artistdir}/${filename}.md does not exist. Skipping."
+      fi
+    fi
+  }
+  rm -f /tmp/tracks$$
+}

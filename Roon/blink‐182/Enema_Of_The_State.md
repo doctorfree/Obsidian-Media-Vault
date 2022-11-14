@@ -16,3 +16,20 @@ By blink‐182
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Dumpweed
+2. Don't Leave Me
+3. Aliens Exist
+4. Going Away to College
+5. What's My Age Again?
+6. Dysentery Gary
+7. Adam's Song
+8. All the Small Things
+9. The Party Song
+10. Mutt
+11. Wendy Clear
+12. Anthem
+

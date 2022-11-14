@@ -16,3 +16,13 @@ By Herbert von Karajan
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Symphony No. 9 in E minor, Op. 95 "From the New World": 1. Adagio - Allegro molto
+2. Symphony No. 9 in E minor, Op. 95 "From the New World": 2. Largo
+3. Symphony No. 9 in E minor, Op. 95 "From the New World": 3. Scherzo - Molto vivace
+4. Symphony No. 9 in E minor, Op. 95 "From the New World": 4. Allegro con fuoco
+5. Má vlast: Vltava
+

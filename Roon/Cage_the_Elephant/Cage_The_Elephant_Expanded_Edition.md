@@ -16,3 +16,20 @@ By Cage the Elephant
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. In One Ear
+2. James Brown
+3. Ain't No Rest for the Wicked
+4. Tiny Little Robots
+5. Lotus
+6. Back Against the Wall
+7. Drones in the Valley
+8. Judas
+9. Back Stabbin' Betty
+10. Soil to the Sun
+11. Free Love
+12. Ain't No Rest for the Wicked
+

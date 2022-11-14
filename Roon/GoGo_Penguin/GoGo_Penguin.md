@@ -16,3 +16,18 @@ By GoGo Penguin
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. 1_#
+2. Atomised
+3. Signal in the Noise
+4. Open
+5. F Maj Pixie
+6. Kora
+7. Totem
+8. Embers
+9. To the Nth
+10. Don't Go
+

@@ -16,3 +16,20 @@ By The Record Company
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Never Leave You
+2. How High
+3. Gotta Be Movin'
+4. Out of My Head
+5. Live as One
+6. Today Forever
+7. Get Up and Dance!
+8. Paradise
+9. Awake
+10. Lady Lila
+11. Midnight Moon
+12. Ain't Going Home
+

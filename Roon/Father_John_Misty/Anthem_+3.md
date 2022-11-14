@@ -16,3 +16,12 @@ By Father John Misty
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Anthem
+2. Fallin' Rain
+3. Trouble
+4. One of Us Cannot Be Wrong
+

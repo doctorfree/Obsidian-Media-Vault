@@ -16,3 +16,14 @@ By Rick Wakeman
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Catherine of Aragon
+2. Anne of Cleves
+3. Catherine Howard
+4. Jane Seymour
+5. Anne Boleyn/The Day Thou Gavest Lord Hath Ended
+6. Catherine Parr
+

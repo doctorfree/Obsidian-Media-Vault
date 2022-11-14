@@ -16,3 +16,16 @@ By Janis Joplin
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Try (Just a Little Bit Harder)
+2. Maybe
+3. One Good Man
+4. As Good as You've Been to This World
+5. To Love Somebody
+6. Kozmic Blues
+7. Little Girl Blue
+8. Work Me, Lord
+

@@ -16,3 +16,12 @@ By Ugress
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Rain
+2. Tentacle Lullaby
+3. Trenchant Preliator
+4. Sepia Rainbows
+

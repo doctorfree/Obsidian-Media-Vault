@@ -16,3 +16,16 @@ By Uriah Heep
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Sunrise
+2. Spider Woman
+3. Blind Eye
+4. Echoes in the Dark
+5. Rain
+6. Sweet Lorraine
+7. Tales
+8. The Magician's Birthday
+

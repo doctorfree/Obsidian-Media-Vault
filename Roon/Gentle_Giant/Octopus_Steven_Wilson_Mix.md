@@ -16,3 +16,17 @@ By Gentle Giant
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Advent of Panurge (2015 mix)
+2. Raconteur Troubadour (2015 mix)
+3. A Cry for Everyone (2015 mix)
+4. Knots (2015 mix)
+5. The Boys in the Band (2015 mix)
+6. Dog's Life (2015 mix)
+7. Think of Me With Kindness (2015 mix)
+8. River (2015 mix)
+9. Excerpts From Octopus [Live 1976]
+

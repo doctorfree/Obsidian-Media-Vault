@@ -16,3 +16,19 @@ By Leon Russell
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Will O' the Wisp
+2. Little Hideaway
+3. Make You Feel Good
+4. Can't Get over Losing You
+5. My Father's Shoes
+6. Stay Away from Sad Songs
+7. Back to the Island
+8. Down on Deep River
+9. Bluebird
+10. Laying Right Here in Heaven
+11. Lady Blue
+

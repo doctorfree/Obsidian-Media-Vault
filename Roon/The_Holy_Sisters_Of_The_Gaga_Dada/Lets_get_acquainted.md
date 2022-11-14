@@ -16,3 +16,13 @@ By The Holy Sisters Of The Gaga Dada
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+0. Beside You
+0. I Won't Breed In Captivity
+0. Mister Mister
+0. Neighbor's Scream - For Pete's Sake - Shades of Grey
+0. Oh Pretty Woman
+

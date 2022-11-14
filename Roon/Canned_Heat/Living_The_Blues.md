@@ -16,3 +16,18 @@ By Canned Heat
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Pony Blues
+2. My Mistake
+3. Sandy's Blues
+4. Going Up the Country
+5. Walking by Myself
+6. Boogie Music
+7. One Kind Favor
+8. Parthenogenesis: Nebulosity/Rollin' and Tumblin'/Five Owls/Bear Wires
+9. Refried Boogie, Pt. 1
+10. Refried Boogie, Pt. 2
+

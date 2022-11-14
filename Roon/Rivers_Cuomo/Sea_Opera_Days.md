@@ -16,3 +16,13 @@ By Rivers Cuomo
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. A Boat On The Sea
+2. Best Of Me
+3. Back Of Your Heart
+4. Ballad Of The Briney
+5. Rest In Peace
+

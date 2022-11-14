@@ -16,3 +16,21 @@ By Martha Argerich
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Toccata for keyboard in C minor, BWV 911 (BC L142)
+2. Partita for keyboard No. 2 in C minor, BWV 826 (BC L2): Allemande
+3. Partita for keyboard No. 2 in C minor, BWV 826 (BC L2): Courante
+4. Partita for keyboard No. 2 in C minor, BWV 826 (BC L2): Sarabande
+5. Partita for keyboard No. 2 in C minor, BWV 826 (BC L2): Air
+6. Partita for keyboard No. 2 in C minor, BWV 826 (BC L2): Menuet
+7. Partita for keyboard No. 2 in C minor, BWV 826 (BC L2): Gigue
+8. English Suite, for keyboard No. 2 in A minor, BWV 807 (BC L14): Prélude
+9. English Suite, for keyboard No. 2 in A minor, BWV 807 (BC L14): Allemande
+10. English Suite, for keyboard No. 2 in A minor, BWV 807 (BC L14): Courante
+11. English Suite, for keyboard No. 2 in A minor, BWV 807 (BC L14): Sarabande
+12. English Suite, for keyboard No. 2 in A minor, BWV 807 (BC L14): Bourée 1/2
+13. English Suite, for keyboard No. 2 in A minor, BWV 807 (BC L14): Gigue
+

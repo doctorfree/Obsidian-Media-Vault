@@ -16,3 +16,20 @@ By Grand Funk Railroad
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Are You Ready
+2. Anybody's Answer
+3. Time Machine
+4. High on a Horse
+5. T.N.U.C.
+6. Into the Sun
+7. Heartbreaker
+8. Call Yourself a Man
+9. Can't Be Too Long
+10. Ups and Downs
+11. High on a Horse (original version)
+12. Heartbreaker (original version)
+

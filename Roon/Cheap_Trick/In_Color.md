@@ -16,3 +16,18 @@ By Cheap Trick
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Hello There
+2. Big Eyes
+3. Downed
+4. I Want You to Want Me
+5. You're All Talk
+6. Oh Caroline
+7. Clock Strikes Ten
+8. Southern Girls
+9. Come On, Come On
+10. So Good to See You
+

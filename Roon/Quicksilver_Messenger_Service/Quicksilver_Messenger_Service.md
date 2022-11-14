@@ -16,3 +16,14 @@ By Quicksilver Messenger Service
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Pride of Man
+2. Light Your Windows
+3. Dino's Song
+4. Gold and Silver
+5. It's Been Too Long
+6. The Fool
+

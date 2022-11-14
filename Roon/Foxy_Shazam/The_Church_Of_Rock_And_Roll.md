@@ -16,3 +16,19 @@ By Foxy Shazam
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Welcome to the Church of Rock and Roll
+2. I Like It
+3. Holy Touch
+4. Last Chance at Love
+5. Forever Together
+6. (It's) Too Late Baby
+7. I Wanna Be Yours
+8. Wasted Feelings
+9. The Temple
+10. The Streets
+11. Freedom
+

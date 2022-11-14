@@ -16,3 +16,20 @@ By Joni Mitchell
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Banquet
+2. Cold Blue Steel and Sweet Fire
+3. Barangrill
+4. Lesson in Survival
+5. Let the Wind Carry Me
+6. For the Roses
+7. See You Sometime
+8. Electricity
+9. You Turn Me On, I'm a Radio
+10. Blonde in the Bleachers
+11. Woman of Heart and Mind
+12. Judgement of the Moon and Stars (Ludwig's Tune)
+

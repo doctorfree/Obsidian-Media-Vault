@@ -16,3 +16,23 @@ By Howlin’ Wolf
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Rockin' Daddy
+2. I Ain't Superstitious
+3. Sitting On Top of the World
+4. Worried About My Baby
+5. What a Woman
+6. Poor Boy
+7. Built For Comfort
+8. Who's Been Talking?
+9. The Red Rooster [False Start W/ Dialog]
+10. The Red Rooster
+11. Do the Do
+12. Highway 49
+13. Wang Dang Doodle
+
+## I
+

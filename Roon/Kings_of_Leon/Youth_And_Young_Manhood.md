@@ -16,3 +16,20 @@ By Kings of Leon
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Red Morning Light
+2. Happy Alone
+3. Wasted Time
+4. Joe's Head
+5. Trani
+6. California Waiting
+7. Spiral Staircase
+8. Molly's Chambers
+9. Genius
+10. Dusty
+11. Holy Roller Novocaine
+12. Talihina Sky
+

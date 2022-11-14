@@ -16,3 +16,16 @@ By Greta Van Fleet
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Safari Song
+2. Edge of Darkness
+3. Flower Power
+4. A Change Is Gonna Come
+5. Highway Tune
+6. Meet on the Ledge
+7. Talk on the Street
+8. Black Smoke Rising
+

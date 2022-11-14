@@ -16,3 +16,9 @@ By Sound City - Real to Reel
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Cut Me Some Slack
+

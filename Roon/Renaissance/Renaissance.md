@@ -16,3 +16,13 @@ By Renaissance
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Kings and Queens
+2. Innocence
+3. Island
+4. Wanderer
+5. Bullet
+

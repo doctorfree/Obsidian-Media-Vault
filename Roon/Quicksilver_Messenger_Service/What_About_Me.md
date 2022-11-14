@@ -16,3 +16,20 @@ By Quicksilver Messenger Service
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. What About Me?
+2. Local Color
+3. Baby Baby
+4. Won't Kill Me
+5. Long Haired Lady
+6. Subway
+7. Spindrifter
+8. Good Old Rock and Roll
+9. All in My Mind
+10. Call On Me
+
+## R
+

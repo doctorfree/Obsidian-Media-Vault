@@ -16,3 +16,12 @@ By Los Angeles Philharmonic
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Symphonie Nr. 3 Es-dur op. 55 "Eroica": Allegro con brio
+2. Symphonie Nr. 3 Es-dur op. 55 "Eroica": Marcia funebre. Adagio assai
+3. Symphonie Nr. 3 Es-dur op. 55 "Eroica": Scherzo. Allegro vivace
+4. Symphonie Nr. 3 Es-dur op. 55 "Eroica": Finale. Allegro molto
+

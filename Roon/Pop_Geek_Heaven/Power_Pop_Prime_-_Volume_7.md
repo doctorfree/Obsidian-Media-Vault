@@ -16,3 +16,26 @@ By Pop Geek Heaven
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Lathered in Cream
+2. Cruel Girl
+3. A Girl That I Once Knew
+4. I Can Change the World
+5. When You Wake Up
+6. Little Girl
+7. Silk from Ashes
+8. Tonight
+9. The Ballad of Ambivalence
+10. Imitation of the Sky
+11. Give Me a Chance
+12. The Laurie Song
+13. Turn Up the Radio
+14. The Truth About Flying Saucers
+15. Whisper Softly
+16. Time Is Running Out
+17. Hope Is Fading
+18. Lonelyhearts
+

@@ -16,3 +16,19 @@ By The Devil Makes Three
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Black Irish
+2. Beneath the Piano
+3. Tow
+4. Shades
+5. Man Tap
+6. Uncle Harvey's Plane
+7. Robot
+8. Jug Band
+9. North Carolina
+10. Bangor Mash
+11. St James
+

@@ -16,3 +16,18 @@ By Nicky Hopkins
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Sundown in Mexico
+2. Waiting for the Band
+3. Edward
+4. Dolly
+5. Speed On
+6. The Dreamer
+7. Banana Anna
+8. Lawyer's Lament
+9. Shout It Out
+10. Pig's Boogie
+

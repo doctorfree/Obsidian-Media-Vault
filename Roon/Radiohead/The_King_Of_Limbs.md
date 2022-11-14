@@ -16,3 +16,16 @@ By Radiohead
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Bloom
+2. Morning Mr. Magpie
+3. Little by Little
+4. Feral
+5. Lotus Flower
+6. Codex
+7. Give Up the Ghost
+8. Separator
+

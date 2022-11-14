@@ -16,3 +16,20 @@ By Leo Kottke
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Cripple Creek
+2. Ice Miner
+3. Red and White
+4. Anyway
+5. St. Charles Shuffle
+6. When Kings Come Home
+7. As I Lay Sleeping
+8. Thoth Song
+9. On the Sunny Side of the Ocean
+10. Sunflower River Blues
+11. Revolt of the Dyke Brigade
+12. In Christ There Is No East or West
+

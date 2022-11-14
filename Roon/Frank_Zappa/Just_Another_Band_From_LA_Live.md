@@ -16,3 +16,13 @@ By Frank Zappa
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Billy the Mountain
+2. Call Any Vegetable
+3. Eddie, Are You Kidding?
+4. Magdalena
+5. Dog Breath
+

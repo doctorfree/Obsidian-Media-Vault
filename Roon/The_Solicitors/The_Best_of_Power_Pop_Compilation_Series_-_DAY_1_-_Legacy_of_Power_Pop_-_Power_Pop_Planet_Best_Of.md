@@ -16,3 +16,9 @@ By The Solicitors
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+0. Pretty Penny
+

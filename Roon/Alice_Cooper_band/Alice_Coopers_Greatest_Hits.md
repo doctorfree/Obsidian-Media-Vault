@@ -16,3 +16,20 @@ By Alice Cooper (band)
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. I'm Eighteen
+2. Is It My Body
+3. Desperado
+4. Under My Wheels
+5. Be My Lover
+6. School's Out
+7. Hello Hooray
+8. Elected
+9. No More Mr. Nice Guy
+10. Billion Dollar Babies
+11. Teenage Lament '74
+12. Muscle of Love
+

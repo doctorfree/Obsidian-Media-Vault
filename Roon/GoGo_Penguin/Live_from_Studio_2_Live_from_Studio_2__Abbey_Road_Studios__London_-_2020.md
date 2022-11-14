@@ -16,3 +16,15 @@ By GoGo Penguin
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Totem
+2. Petit_a
+3. Bardo
+4. Atomised
+5. F Maj Pixie
+6. Kora
+7. Protest
+

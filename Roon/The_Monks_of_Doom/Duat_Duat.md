@@ -16,3 +16,11 @@ By The Monks of Doom
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Duat! Duat!
+2. Up from the Cane
+3. The Honorable Death of the 100 Million
+

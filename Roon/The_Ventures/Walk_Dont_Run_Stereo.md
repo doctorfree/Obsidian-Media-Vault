@@ -16,3 +16,20 @@ By The Ventures
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Morgen
+2. Raunchy
+3. Home
+4. My Own True Love [Tara's Theme]
+5. The Switch
+6. Walk Don't Run
+7. Night Train
+8. No Trespassing
+9. Caravan
+10. Sleep Walk
+11. The McCoy
+12. Honky Tonk
+

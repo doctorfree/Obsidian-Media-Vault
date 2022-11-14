@@ -16,3 +16,20 @@ By The Alan Parsons Project
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. I Wouldn't Want to Be Like You
+2. Eye in the Sky
+3. Games People Play
+4. Time
+5. Pyramania
+6. You Don't Believe
+7. Lucifer
+8. Psychobabble
+9. Damned If I Do
+10. Don't Let It Show
+11. Can't Take It With You
+12. Old and Wise
+

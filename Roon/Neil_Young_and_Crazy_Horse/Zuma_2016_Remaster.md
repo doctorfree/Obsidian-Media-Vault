@@ -16,3 +16,17 @@ By Neil Young & Crazy Horse
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Don't Cry No Tears
+2. Danger Bird
+3. Pardon My Heart
+4. Lookin' for a Love
+5. Barstool Blues
+6. Stupid Girl
+7. Drive Back
+8. Cortez the Killer
+9. Through My Sails
+

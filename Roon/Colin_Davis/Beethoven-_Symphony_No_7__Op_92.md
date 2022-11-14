@@ -16,3 +16,12 @@ By Colin Davis
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Symphony No. 7 in A Major, Op. 92: I. Poco sostenuto - Vivace
+2. Symphony No. 7 in A Major, Op. 92: II. Allegretto
+3. Symphony No. 7 in A Major, Op. 92: III. Presto - Assai meno presto
+4. Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio
+

@@ -16,3 +16,22 @@ By Marcy Playground
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Spoonfed
+2. Blood in Alphabet Soup
+3. No One's Boy
+4. Hotter Than the Sun
+5. Rock and Roll Heroes
+6. Jesse Went to War
+7. Flag and Finger
+8. Deadly Handsome Man
+9. Punk Rock Superstar
+10. Paper Dolls
+11. Death of a Cheerleader
+12. Brand New Day
+13. Sleepy Eyes
+14. Barfly
+

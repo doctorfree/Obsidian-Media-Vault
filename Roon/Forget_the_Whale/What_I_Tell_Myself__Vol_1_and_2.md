@@ -16,3 +16,17 @@ By Forget the Whale
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. I Know Where You've Been
+2. The Little Robot
+3. Hex
+4. Suburban Outlaw
+5. Sails
+6. Carry Your Own Weight
+7. Another Trick up My Sleeve
+8. 10 Days
+9. Giants
+

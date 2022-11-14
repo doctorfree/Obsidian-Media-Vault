@@ -16,3 +16,15 @@ By Can
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Paperhouse
+2. Mushroom
+3. Oh Yeah
+4. Halleluhwah
+5. Aumgn
+6. Peking O.
+7. Bring Me Coffee or Tea
+

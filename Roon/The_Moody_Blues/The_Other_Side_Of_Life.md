@@ -16,3 +16,17 @@ By The Moody Blues
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Your Wildest Dreams
+2. Talkin' Talkin'
+3. Rock 'N' Roll over You
+4. I Just Don't Care
+5. Running Out of Love
+6. The Other Side of Life
+7. The Spirit
+8. Slings and Arrows
+9. It May Be a Fire
+

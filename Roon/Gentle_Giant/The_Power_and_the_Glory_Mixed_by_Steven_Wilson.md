@@ -16,3 +16,18 @@ By Gentle Giant
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Proclamation (2014 mix)
+2. So Sincere (2014 mix)
+3. Aspirations (2014 mix)
+4. Playing the Game (2014 mix)
+5. Cogs in Cogs (2014 mix)
+6. No God's a Man (2014 mix)
+7. The Face (2014 mix)
+8. Valedictory (2014 mix)
+9. The Power and the Glory
+10. Aspirations [Instrumental Out-Take]
+

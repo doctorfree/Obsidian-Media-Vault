@@ -16,3 +16,18 @@ By Ozark Mountain Daredevils
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Country Girl
+2. Spaceship Orion
+3. If You Wanna Get to Heaven
+4. Chicken Train
+5. Colorado Song
+6. Standin' on the Rock
+7. Road to Glory
+8. Black Sky
+9. Within Without
+10. Beauty in the River
+

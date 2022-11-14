@@ -16,3 +16,16 @@ By Black Sabbath
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. War Pigs/Luke's Wells
+2. Paranoid
+3. Planet Caravan
+4. Iron Man
+5. Electric Funeral
+6. Hand of Doom
+7. Rat Salad
+8. Jack the Stripper/Fairies Wear Boots
+

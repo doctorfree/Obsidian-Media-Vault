@@ -16,3 +16,20 @@ By Fleetwood Mac
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Emerald Eyes
+2. Believe Me
+3. Just Crazy Love
+4. Hypnotized
+5. Forever
+6. Keep on Going
+7. The City
+8. Miles Away
+9. Somebody
+10. The Way I Feel
+11. For Your Love
+12. Why
+

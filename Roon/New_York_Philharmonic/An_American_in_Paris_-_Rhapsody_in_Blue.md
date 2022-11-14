@@ -16,3 +16,10 @@ By New York Philharmonic
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. An American in Paris
+2. Rhapsody in Blue
+

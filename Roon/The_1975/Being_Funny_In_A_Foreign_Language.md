@@ -16,3 +16,19 @@ By The 1975
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The 1975
+2. Happiness
+3. Looking for Somebody (To Love)
+4. Part of the Band
+5. Oh Caroline
+6. I'm in Love With You
+7. All I Need to Hear
+8. Wintering
+9. Human Too
+10. About You
+11. When We Are Together
+

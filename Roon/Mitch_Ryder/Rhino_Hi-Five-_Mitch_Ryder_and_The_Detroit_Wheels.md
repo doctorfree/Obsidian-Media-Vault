@@ -16,3 +16,13 @@ By Mitch Ryder
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Jenny Take a Ride
+2. Little Latin Lupe Lu
+3. Devil with the Blue Dress On/Good Golly Miss Molly
+4. Sock It to Me, Baby!
+5. Too Many Fish in the Sea/Three Little Fishes
+

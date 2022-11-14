@@ -16,3 +16,20 @@ By Queen
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Death on Two Legs (Dedicated to...)
+2. Lazing on a Sunday Afternoon
+3. I'm in Love with My Car
+4. You're My Best Friend
+5. '39
+6. Sweet Lady
+7. Seaside Rendezvous
+8. The Prophet's Song
+9. Love of My Life
+10. Good Company
+11. Bohemian Rhapsody
+12. God Save the Queen
+

@@ -16,3 +16,15 @@ By Dr. John
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Gris-Gris Gumbo Ya Ya
+2. Danse Kalinda Ba Doom
+3. Mama Roux
+4. Danse Fambeaux
+5. Croker Courtbullion
+6. Jump Sturdy
+7. I Walk on Gilded Splinters
+

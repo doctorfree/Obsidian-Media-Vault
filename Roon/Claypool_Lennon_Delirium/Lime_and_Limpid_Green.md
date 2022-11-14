@@ -16,3 +16,12 @@ By Claypool Lennon Delirium
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Astronomy Domine
+2. Boris the Spider
+3. The Court of the Crimson King
+4. Satori
+

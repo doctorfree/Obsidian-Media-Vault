@@ -16,3 +16,19 @@ By Jimmy Eat World
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Bleed American
+2. A Praise Chorus
+3. The Middle
+4. Your House
+5. Sweetness
+6. Hear You Me
+7. If You Don't, Don't
+8. Get It Faster
+9. Cautioners
+10. The Authority Song
+11. My Sundown
+

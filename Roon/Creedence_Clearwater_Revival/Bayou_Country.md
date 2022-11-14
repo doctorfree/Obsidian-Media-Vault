@@ -16,3 +16,15 @@ By Creedence Clearwater Revival
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Born on the Bayou
+2. Bootleg
+3. Graveyard Train
+4. Good Golly Miss Molly
+5. Penthouse Pauper
+6. Proud Mary
+7. Keep on Chooglin'
+

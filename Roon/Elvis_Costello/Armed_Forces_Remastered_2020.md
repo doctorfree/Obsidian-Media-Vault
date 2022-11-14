@@ -16,3 +16,21 @@ By Elvis Costello
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Accidents Will Happen
+2. Senior Service
+3. Oliver's Army
+4. Big Boys
+5. Green Shirt
+6. Party Girl
+7. Goon Squad
+8. Busy Bodies
+9. Sunday's Best
+10. Moods for Moderns
+11. Chemistry Class
+12. Two Little Hitlers
+13. (What's So Funny 'Bout) Peace, Love and Understanding
+

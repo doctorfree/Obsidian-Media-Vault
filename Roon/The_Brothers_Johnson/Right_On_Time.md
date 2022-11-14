@@ -16,3 +16,16 @@ By The Brothers Johnson
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Runnin' for Your Lovin'
+2. Free Yourself, Be Yourself
+3. "Q"
+4. Right on Time
+5. Strawberry Letter 23
+6. Brother Man
+7. Never Leave You Lonely
+8. Love Is
+

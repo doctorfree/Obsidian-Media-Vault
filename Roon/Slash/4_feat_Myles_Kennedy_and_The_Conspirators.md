@@ -16,3 +16,18 @@ By Slash
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The River Is Rising
+2. Whatever Gets You By
+3. C'est la vie
+4. The Path Less Followed
+5. Actions Speak Louder Than Words
+6. Spirit Love
+7. Fill My World
+8. April Fool
+9. Call Off the Dogs
+10. Fall Back to Earth
+

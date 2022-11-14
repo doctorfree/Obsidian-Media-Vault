@@ -16,3 +16,11 @@ By Joy Division
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Love Will Tear Us Apart [2020 Digital Remaster]
+2. These Days [2020 Digital Remaster]
+3. Love Will Tear Us Apart [Pennine Version] [2020 Digital Remaster]
+

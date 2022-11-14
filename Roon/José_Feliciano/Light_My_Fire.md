@@ -16,3 +16,19 @@ By José Feliciano
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. I Only Want to Say (Gethsemanae)
+2. Fireworks
+3. Guantanamera
+4. Me and Baby Jane
+5. The Windmills of Your Mind
+6. (There's) Always Something to Remind Me
+7. A Man and a Woman (Un homme et une femme)
+8. I Wish You Love
+9. Manha de Carnaval
+10. Pegao (instrumental)
+11. Light My Fire
+

@@ -16,3 +16,16 @@ By Blue Öyster Cult
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Career of Evil
+2. Subhuman
+3. Dominace and Submission
+4. ME 262
+5. Cagey Cretins
+6. Harvester of Eyes
+7. Flaming Telepaths
+8. Astronomy
+

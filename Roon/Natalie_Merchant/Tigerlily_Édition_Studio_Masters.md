@@ -16,3 +16,19 @@ By Natalie Merchant
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. San Andreas Fault
+2. Wonder
+3. Beloved Wife
+4. River
+5. Carnival
+6. I May Know the Word
+7. The Letter
+8. Cowboy Romance
+9. Jealousy
+10. Where I Go
+11. Seven Years
+

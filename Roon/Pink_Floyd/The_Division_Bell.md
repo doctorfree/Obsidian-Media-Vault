@@ -16,3 +16,19 @@ By Pink Floyd
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Cluster One (edit)
+2. What Do You Want from Me
+3. Poles Apart (edit)
+4. Marooned (edit)
+5. A Great Day for Freedom (edit)
+6. Wearing the Inside Out (edit)
+7. Take It Back
+8. Coming Back to Life (edit)
+9. Keep Talking
+10. Lost for Words
+11. High Hopes (edit)
+

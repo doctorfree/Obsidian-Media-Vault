@@ -16,3 +16,13 @@ By Tommy James & the Shondells
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. I Think We're Alone Now
+2. Mirage
+3. Hanky Panky [Single Version]
+4. Mony Mony
+5. Crimson and Clover [Long Version]
+

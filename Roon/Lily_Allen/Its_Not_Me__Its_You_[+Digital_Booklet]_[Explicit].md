@@ -16,3 +16,9 @@ By Lily Allen
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+8. Fuck You [Explicit]
+

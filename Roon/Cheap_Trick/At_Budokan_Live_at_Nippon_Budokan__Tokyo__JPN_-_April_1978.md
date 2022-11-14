@@ -16,3 +16,18 @@ By Cheap Trick
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Hello There
+2. Come on, Come On
+3. Lookout
+4. Big Eyes
+5. Need Your Love
+6. Ain't That a Shame
+7. I Want You to Want Me
+8. Surrender
+9. Goodnight
+10. Clock Strikes Ten
+

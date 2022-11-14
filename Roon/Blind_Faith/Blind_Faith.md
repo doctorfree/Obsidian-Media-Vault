@@ -16,3 +16,14 @@ By Blind Faith
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Had to Cry Today
+2. Can't Find My Way Home
+3. Well...All Right
+4. Presence of the Lord
+5. Sea of Joy
+6. Do What You Like
+

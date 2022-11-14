@@ -16,3 +16,10 @@ By Joy Division
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Transmission [2020 Digital Remaster]
+2. Novelty [2020 Digital Remaster]
+

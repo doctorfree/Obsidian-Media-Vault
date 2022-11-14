@@ -16,3 +16,19 @@ By Bomba Estéreo
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Amanecer
+2. Caderas
+3. Somos Dos
+4. Soy Yo
+5. Fiesta
+6. Voy
+7. Algo Está Cambiando
+8. Mar (Lo que siento)
+9. To My Love
+10. Sólo Tú
+11. Raíz
+

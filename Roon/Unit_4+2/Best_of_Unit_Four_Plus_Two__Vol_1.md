@@ -16,3 +16,18 @@ By Unit 4+2
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Girl from New York City
+2. Cotton Fields
+3. La Bamba
+4. Couldn't Keep It to Myself
+5. Concrete and Clay
+6. Cross a Million Mountains
+7. Woman from Liberia
+8. 500 Miles
+9. Rainy Day
+10. Sorrow and Pain
+

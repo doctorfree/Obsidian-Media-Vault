@@ -16,3 +16,17 @@ By Alice Cooper (band)
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. School's Out
+2. Luney Tune
+3. Gutter Cat vs. The Jets
+4. Street Fight
+5. Blue Turk
+6. My Stars
+7. Public Animal #9
+8. Alma Mater
+9. Grande Finale
+

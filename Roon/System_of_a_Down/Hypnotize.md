@@ -16,3 +16,20 @@ By System of a Down
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Attack
+2. Dreaming
+3. Kill Rock 'N Roll
+4. Hypnotize
+5. Stealing Society
+6. Tentative
+7. U-Fig
+8. Holy Mountains
+9. Vicinity of Obscenity
+10. She's Like Heroin
+11. Lonely Day
+12. Soldier Side
+

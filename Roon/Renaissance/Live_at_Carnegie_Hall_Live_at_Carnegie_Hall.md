@@ -16,3 +16,16 @@ By Renaissance
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Prologue
+2. Ocean Gypsy
+3. Can You Understand
+4. Carpet of the Sun
+5. Running Hard
+6. Mother Russia
+7. Scheherazade
+8. Ashes Are Burning
+

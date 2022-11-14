@@ -16,3 +16,15 @@ By The Mothers of Invention
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Camarillo Brillo
+2. I'm the Slime
+3. Dirty Love
+4. Fifty-Fifty
+5. Zomby Woof
+6. Dinah Moe Humm
+7. Montana
+

@@ -16,3 +16,17 @@ By Snatch And The Poontangs
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Signifyin' Monkey Part 1
+2. The Signifyin' Monkey Part 2
+3. That's Life
+4. The Great Stack a Lee
+5. The Pissed-Off Cowboy
+6. Hey Shine
+7. Two Time Slim
+8. Big John Jeeter
+9. Two Girls in Love (with Each Other)
+

@@ -16,3 +16,18 @@ By Blue Öyster Cult
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. This Ain't the Summer of Love
+2. True Confessions
+3. (Don't Fear) The Reaper
+4. E.T.I. Extraterrestrial Intelligence
+5. The Revenge of Vera Gemini
+6. Sinful Love
+7. Tattoo Vampire
+8. Morning Final
+9. Tenderloin
+10. Debbie Denise
+

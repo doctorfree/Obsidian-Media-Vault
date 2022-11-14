@@ -16,3 +16,10 @@ By Foxy Shazam
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Wanna-Be Angel
+2. Bye Bye Symphony
+

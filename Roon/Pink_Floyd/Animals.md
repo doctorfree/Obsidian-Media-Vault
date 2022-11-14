@@ -16,3 +16,13 @@ By Pink Floyd
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Pigs on the Wing 1
+2. Dogs
+3. Pigs (Three Different Ones)
+4. Sheep
+5. Pigs on the Wing 2
+

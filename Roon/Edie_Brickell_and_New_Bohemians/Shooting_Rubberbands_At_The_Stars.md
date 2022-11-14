@@ -16,3 +16,20 @@ By Edie Brickell & New Bohemians
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. What I Am
+2. Little Miss S.
+3. Air of December
+4. The Wheel
+5. Love Like We Do
+6. Circle
+7. Beat the Time
+8. She
+9. Nothing
+10. Now
+11. Keep Coming Back
+12. I Do
+

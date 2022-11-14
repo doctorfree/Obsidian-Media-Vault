@@ -16,3 +16,18 @@ By Harry Nilsson
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. The Path That Leads to Trouble
+2. Good Times
+3. So You Think You've Got Troubles
+4. I'm Gonna Lose My Mind
+5. She's Yours
+6. Sixteen Tons
+7. Born in Grenada
+8. You Can't Take Your Love (Away From Me)
+9. Growin' Up
+10. Do You Believe
+

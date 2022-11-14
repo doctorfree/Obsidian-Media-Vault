@@ -16,3 +16,19 @@ By Leon Russell
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Stranger in a Strange Land
+2. Of Thee I Sing
+3. It's a Hard Rain's A-Gonna Fall
+4. Crystal Closet Queen
+5. Home Sweet Oklahoma
+6. Alcatraz
+7. The Ballad of Mad Dogs and Englishmen
+8. It Takes a Lot to Laugh, It Takes a Train to Cry
+9. She Smiles Like a River
+10. Sweet Emily
+11. Beware of Darkness
+

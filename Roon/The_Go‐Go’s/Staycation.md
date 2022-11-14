@@ -16,3 +16,14 @@ By The Go‐Go’s
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Vacation
+2. Can't Stop the World
+3. Get Up and Go
+4. Speeding
+5. Stuck in My Car
+6. Capture the Light
+

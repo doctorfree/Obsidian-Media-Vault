@@ -16,3 +16,9 @@ By Grand Atlantic
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+0. Nice Guys
+

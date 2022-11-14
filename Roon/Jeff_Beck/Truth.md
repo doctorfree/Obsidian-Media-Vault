@@ -16,3 +16,18 @@ By Jeff Beck
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Shapes of Things
+2. Let Me Love You
+3. Morning Dew
+4. You Shook Me
+5. Ol' Man River
+6. Greensleeves
+7. Rock My Plimsoul
+8. Beck's Bolero
+9. Blues Deluxe
+10. I Ain't Superstitious
+

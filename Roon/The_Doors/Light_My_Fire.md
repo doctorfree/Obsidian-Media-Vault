@@ -16,3 +16,10 @@ By The Doors
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## Track listing
+
+
+1. Light My Fire [Mono] [Single Version]
+2. The Crystal Ship
+
