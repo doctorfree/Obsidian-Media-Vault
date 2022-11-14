@@ -1,5 +1,28 @@
 # Changelog
 
+## Version 1.0.1 Release 1
+
+* Add track listings for Roon albums
+* Update Excalibrain data
+* Add See also section to top-level markdown
+* Add top-level index, Excalibrain plugin
+* Fix Ike Reiko album cover art
+* Add Roon album cover art
+* Add Roon artist folders and album markdown, album cover art for Roon albums
+* Remove duplicate album/cd cover art
+* Fixing broken cover image links and deleting unlinked assets
+* Add Digital Music Libraries and additional Roon indexes
+* Add listings of Roon Audio System
+* Add Github Pages theme
+* Add note about Apple Music export and conversion process
+* Add Apple Music
+* Add Blue Oyster Cult artist markdown
+* Add author/artist entries that were missing
+* Add mkartists and mkauthors to Process.md
+* Add release notes and release creation script
+* Add instructions for Vinyl and CD markdown creation and curation
+* Rename tools.md and media_queries.md to Process.md and Media_Queries.md
+
 ## Version 1.0.0 Release 1
 
 * Add instructions for Vinyl and CD markdown creation and curation
