@@ -1,6 +1,6 @@
 # Media Vault Index
 
-## Information
+## Info
 
 - [README](README.md)
 - [Media Queries](Media_Queries.md)
