@@ -1,0 +1,61 @@
+# Roon Playlist: Classic Rock Video Hits
+
+## Playlist Tracks
+
+
+- 1. The Twist
+- 2. (I Can't Get No) Satisfaction
+- 3. Born in the U.S.A.
+- 4. Smells Like Teen Spirit
+- 5. Sabotage
+- 6. Sweet Child O' Mine
+- 7. No One Knows
+- 8. Killing in the Name
+- 9. Bullet with Butterfly Wings
+- 10. Closer
+- 11. Sharp Dressed Man
+- 12. Addicted To Love
+- 13. Should I Stay or Should I Go
+- 14. Cult of Personality
+- 15. Livin' on a Prayer
+- 16. Fly Away
+- 17. Space Oddity
+- 18. I Don't Want to Grow Up
+- 19. Cryin'
+- 20. Basket Case
+- 21. Town Called Malice
+- 22. Red Right Hand [Peaky Blinders Theme] [Flood Remix]
+- 23. Paradise City
+- 24. Handle with Care
+- 25. Pink Houses
+- 26. Gloria
+- 27. Poison
+- 28. Little Queen
+- 29. Cherry Bomb
+- 30. Closing Time
+- 31. Girls Just Want to Have Fun
+- 32. Wild Thing
+- 33. Legs [Album Edit Version]
+- 34. Tangled Up in Blue
+- 35. Good Vibrations
+- 36. Dancing in the Dark
+- 37. (Just Like) Starting Over (Ultimate mix)
+- 38. When We Was Fab
+- 39. I'm Bored
+- 40. De Do Do Do, De Da Da Da
+- 41. This Must Be the Place (Naive Melody)
+- 42. A New England
+- 43. The Mayor of Simpleton
+- 44. Heaven
+- 45. Beautiful Day
+- 46. Dust in the Wind
+- 47. Drive
+- 48. The Best
+- 49. Everybody Have Fun Tonight
+- 50. I Was Made for Lovin' You
+- 51. Lookin' out My Back Door
+- 52. Tommy Gun
+- 53. Always the Sun
+- 54. People Are Strange
+- 55. Purple Haze
+

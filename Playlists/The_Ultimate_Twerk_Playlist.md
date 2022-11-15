@@ -1,0 +1,157 @@
+# Roon Playlist: The Ultimate Twerk Playlist
+
+## Playlist Tracks
+
+
+- 1. Go Head (Chopped & Screwed)
+- 2. Back That Azz Up
+- 3. Wobble Wobble
+- 4. Shake Ya Ass
+- 5. The Nasty Song
+- 6. Make It Nasty
+- 7. Get Low
+- 8. Salt Shaker
+- 9. Georgia Dome (Get Low Sequel)
+- 10. In This Thang Still
+- 11. Bring It Back
+- 12. Bickenhead
+- 13. No Limit
+- 14. Lemon (Drake remix)
+- 15. Wild Thoughts (feat. Rihanna & Bryson Tiller) (Mike Cruz Dance Remix)
+- 16. Rude Boy [Explicit Version]
+- 17. Scholarship
+- 18. Throw Sum Mo
+- 19. Come Get Her
+- 20. Pull Over
+- 21. Trampoline Booty
+- 22. Booty Hopscotch
+- 23. Booty Me Down
+- 24. Hands Up, Get Low
+- 25. Push It
+- 26. Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]
+- 27. Beat It Out the Frame
+- 28. Chips and Dip
+- 29. Hoochie Mama
+- 30. Pop That
+- 31. I Wanna Rock DJ Laz Mix
+- 32. I Luv Dem Strippers
+- 33. Birthday Song
+- 34. Round of Applause
+- 35. No Hands
+- 36. Make Sum Shake
+- 37. Real Sisters
+- 38. Walked In (Remix)
+- 39. Ride For U
+- 40. Slow Motion
+- 41. Anaconda [Target Version]
+- 42. Faded
+- 43. How Low [Remix]
+- 44. Drop It Low
+- 45. Twerk It
+- 46. All Ass
+- 47. Ass Drop
+- 48. Make Dat Thang Clap (Back Clap)
+- 49. Good Googly Moogly
+- 50. Let Me See It
+- 51. Hold Up (feat. Big Al & Young Mabooda)
+- 52. Azz & Tittiez
+- 53. Who U Wit
+- 54. Tip Drill
+- 55. Big Lots Booty
+- 56. Gettin' Some
+- 57. Look Back at Me
+- 58. Booty (feat. Chris Brown, Jeezy & Trey Songz) (Remix)
+- 59. Rake It Up (feat. Nicki Minaj) (Diplo & Party Favor Remix)
+- 60. Freek-A-Leek
+- 61. Ms. New Booty [Edited Version]
+- 62. Magnolia
+- 63. Big Ole Booty
+- 64. Used 2
+- 65. Turn the Beat Up
+- 66. Drip
+- 67. Bickenhead
+- 68. Bartier Cardi
+- 69. Bodak Yellow
+- 70. Baddest in Here
+- 71. Bounce That
+- 72. Set It Off
+- 73. Walk It Talk It
+- 74. Ric Flair Drip
+- 75. Plain Jane (remix)
+- 76. Pumps and a Bump (Reprise: Bump Teddy Bump)
+- 77. Hood Clap
+- 78. Like Whaaat (feat. Bad Lucc)
+- 79. Them Jeans
+- 80. Halle Berry (She's Fine)
+- 81. SupaFreak
+- 82. Cut It
+- 83. Loose as a Goose
+- 84. Show Dat Work (Shake It Like a Dog), Pt. 2
+- 85. Show Dat Work (Shake It Like a Dog), Pt. 2
+- 86. Oh Yeah
+- 87. F-U
+- 88. Bizzy Body [Screwed]
+- 89. Big Bank
+- 90. SWISH
+- 91. Pipe It Up
+- 92. F*ck Up Some Commas
+- 93. Work Remix
+- 94. Slippery
+- 95. Rake It Up (feat. Nicki Minaj) (Diplo & Party Favor Remix)
+- 96. Plain Jane (remix)
+- 97. Twerk
+- 98. I'll Take Your Man
+- 99. Money
+- 100. Birthday Bitch
+- 101. Don't Drop That Thun Thun
+- 102. Dip
+- 103. P-Poppin'
+- 104. Like a 24
+- 105. Circle
+- 106. Thotiana (remix)
+- 107. Thotiana (remix)
+- 108. Crushed Up
+- 109. Bae (Remix) [feat. G-Eazy, Rich the Kid & E-40]
+- 110. Yes Indeed
+- 111. Throw It Back
+- 112. Act Up
+- 113. Six Flags
+- 114. Lil Booties Matter
+- 115. Big Ole Freak
+- 116. Goddamn
+- 117. Poledancer
+- 118. Cash Shit
+- 119. 100 Bands
+- 120. Suge
+- 121. My Type
+- 122. Wish Wish
+- 123. Megatron
+- 124. B*tch From Da Souf [Remix]
+- 125. Pimpin
+- 126. Big Booty
+- 127. Camelot
+- 128. Freak
+- 129. Savage Remix
+- 130. See Some Pussy
+- 131. Captain Hook
+- 132. Savage Remix
+- 133. Tap In
+- 134. Pussy Talk
+- 135. Girls in the Hood
+- 136. Thick
+- 137. WAP (feat. Megan Thee Stallion)
+- 138. Shotta Flow 2.0
+- 139. Then Leave (feat. Queendom Come)
+- 140. Said Sum (remix)
+- 141. Wiggle It (feat. City Girls)
+- 142. Body
+- 143. Do It on the Tip
+- 144. Cry Baby
+- 145. All Dat
+- 146. Pussy Talk
+- 147. Knees Like Megan
+- 148. Twerkulator
+- 149. Thot Shit
+- 150. Toot That
+- 151. Talkin' Bout
+

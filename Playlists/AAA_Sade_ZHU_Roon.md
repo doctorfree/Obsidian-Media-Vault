@@ -1,0 +1,82 @@
+# Roon Playlist: AAA Sade ZHU Roon
+
+## Playlist Tracks
+
+
+- 1. Cold Blooded
+- 2. Smooth Operator
+- 3. In the Morning
+- 4. Your Love Is King
+- 5. Electrify Me
+- 6. Hang On to Your Love
+- 7. Secret Weapon
+- 8. Frankie's First Affair
+- 9. Numb
+- 10. When Am I Going to Make a Living
+- 11. Palm of My Hand
+- 12. Cherry Pie
+- 13. Money
+- 14. Sally
+- 15. One Minute to Midnight
+- 16. I Will Be Your Friend
+- 17. Reaching
+- 18. Why Can't We Live Together
+- 19. Hometown Girl
+- 20. Is It a Crime
+- 21. Good Life
+- 22. The Sweetest Taboo
+- 23. Generationwhy
+- 24. War of the Hearts
+- 25. Working for It
+- 26. You're Not the Man
+- 27. Lost It
+- 28. Jezebel
+- 29. Distant Lights
+- 30. Mr. Wrong
+- 31. Blue Dream
+- 32. Punch Drunk
+- 33. How Does It Feel
+- 34. Never as Good as the First Time
+- 35. Sky Is Crying
+- 36. Fear
+- 37. Sweet Like Honey
+- 38. Tar Baby
+- 39. Yours
+- 40. Maureen
+- 41. Soco
+- 42. Love Is Stronger Than Pride
+- 43. Only
+- 44. Paradise
+- 45. Zhudio54
+- 46. Nothing Can Come Between Us
+- 47. Good4U
+- 48. Haunt Me
+- 49. Turn My Back on You
+- 50. I Need That
+- 51. Keep Looking
+- 52. Clean Heart
+- 53. Modern Conversation
+- 54. Give It Up
+- 55. Hold Up, Wait a Minute
+- 56. Siempre Hay Esperanza
+- 57. Automatic
+- 58. No Ordinary Love
+- 59. As Crazy as It Is
+- 60. Feel No Pain
+- 61. I Couldn't Love You More
+- 62. Like a Tattoo
+- 63. Kiss of Life
+- 64. Cherish the Day
+- 65. Stay Closer
+- 66. Pearls
+- 67. Faded
+- 68. Bullet Proof Soul
+- 69. Superfriends
+- 70. Mermaid
+- 71. The One
+- 72. By Your Side
+- 73. Cocaine Model
+- 74. The Moon and the Sky
+- 75. Came for the Low
+- 76. Soldier of Love
+

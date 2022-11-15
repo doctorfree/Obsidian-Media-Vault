@@ -49,8 +49,10 @@
 - [Roon Artists](Roon_Artists.md)
 - [Roon Artists by Genre](Roon_Artists_by_Genre.md)
 - [Roon Genres](Roon_Genres.md)
+- [Roon Playlist Tracks](Roon_Playlist_Tracks.md)
 - [Roon Playlists](Roon_Playlists.md)
 - [Roon Tracks by Artist](Roon_Tracks_by_Artist.md)
+
 
 ## Vinyl Records
 

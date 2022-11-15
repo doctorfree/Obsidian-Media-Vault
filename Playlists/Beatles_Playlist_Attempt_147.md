@@ -1,0 +1,62 @@
+# Roon Playlist: Beatles Playlist Attempt #147
+
+## Playlist Tracks
+
+
+- 1. Come Together (2019 mix)
+- 2. I Want You (She's So Heavy) (2019 mix)
+- 3. You Never Give Me Your Money (2019 mix)
+- 4. Dear Prudence (2018 mix)
+- 5. Glass Onion (2018 mix)
+- 6. While My Guitar Gently Weeps
+- 7. Happiness Is a Warm Gun (2018 mix)
+- 8. Everybody's Got Something to Hide Except Me and My Monkey (2018 mix)
+- 9. Helter Skelter (2018 mix)
+- 10. Magical Mystery Tour
+- 11. The Fool on the Hill
+- 12. Your Mother Should Know
+- 13. I Am the Walrus ("No You're Not!" Said Little Nicola)
+- 14. Hello Goodbye
+- 15. Strawberry Fields Forever
+- 16. Penny Lane
+- 17. Baby You're a Rich Man
+- 18. Sgt. Pepper's Lonely Hearts Club Band [2017 Remix]
+- 19. Lucy in the Sky with Diamonds[2017 Remix]
+- 20. Within You Without You [2017 Remix]
+- 21. Lovely Rita [2017 Remix]
+- 22. Good Morning Good Morning [2017 Remix]
+- 23. Sgt. Pepper's Lonely Hearts Club Band [2017 Remix]
+- 24. A Day in the Life [2017 Remix]
+- 25. Taxman (2022 mix)
+- 26. Eleanor Rigby (2022 mix)
+- 27. Love You To (2022 mix)
+- 28. Rain
+- 29. She Said She Said (2022 mix)
+- 30. For No One (2022 mix)
+- 31. Tomorrow Never Knows (2022 mix)
+- 32. Nowhere Man
+- 33. Girl
+- 34. In My Life
+- 35. Wait
+- 36. Help!
+- 37. You're Going to Lose That Girl
+- 38. Ticket to Ride
+- 39. It's Only Love
+- 40. No Reply
+- 41. I'll Follow the Sun
+- 42. Mr. Moonlight
+- 43. Words of Love
+- 44. A Hard Day's Night
+- 45. If I Fell
+- 46. Things We Said Today
+- 47. You Can't Do That
+- 48. It Won't Be Long
+- 49. All My Loving
+- 50. Don't Bother Me
+- 51. Hold Me Tight
+- 52. Not a Second Time
+- 53. I Saw Her Standing There
+- 54. Please Please Me
+- 55. Love Me Do
+- 56. Glass Onion (2018 mix)
+

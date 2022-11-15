@@ -1,0 +1,69 @@
+# Roon Playlist: Marcy Fastball
+
+## Playlist Tracks
+
+
+- 1. The Way
+- 2. Better Than It Was
+- 3. Which Way to the Top?
+- 4. Warm Fuzzy Feeling
+- 5. G.O.D. (Good Old Days)
+- 6. Charlie, the Methadone Man
+- 7. Out of My Head
+- 8. Nowhere Road
+- 9. Vampires
+- 10. Love Is Expensive and Free
+- 11. Don't Give up on Me
+- 12. Funny How It Fades Away
+- 13. Goodbye
+- 14. Whatever Gets You On
+- 15. Wind Me Up
+- 16. You're an Ocean
+- 17. Poppies
+- 18. Sex and Candy
+- 19. A Cloak of Elvenkind
+- 20. Sherry Fraser
+- 21. Opium
+- 22. One More Suicide
+- 23. The Shadow of Seattle
+- 24. The Vampires of New York
+- 25. Spoonfed
+- 26. Blood in Alphabet Soup
+- 27. No One's Boy
+- 28. Hotter Than the Sun
+- 29. Jesse Went to War
+- 30. Flag and Finger
+- 31. Deadly Handsome Man
+- 32. Punk Rock Superstar
+- 33. Death of a Cheerleader
+- 34. Sleepy Eyes
+- 35. It's Saturday
+- 36. America
+- 37. Bye Bye
+- 38. All the Lights Went Out
+- 39. Secret Squirrel
+- 40. Wave Motion Gun
+- 41. Rebel Sodville
+- 42. Pigeon Farm
+- 43. Never
+- 44. Love Bug
+- 45. Our Generation
+- 46. Blackbird
+- 47. Gin and Money
+- 48. Star Baby
+- 49. Emperor
+- 50. Good Times
+- 51. Memphis
+- 52. Down the Drain
+- 53. Shortwave
+- 54. Lou-Ee, Lou-Ee
+- 55. Drifting Away
+- 56. Airstream
+- 57. I Get High
+- 58. Perfect World
+- 59. 'Til I Get It Right
+- 60. Our Misunderstanding
+- 61. Someday
+- 62. Falling Upstairs
+- 63. Red Light
+

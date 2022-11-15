@@ -1,0 +1,71 @@
+#!/bin/bash
+#
+# link_playlists
+#
+# Modify list of playlists and insert link to newly created playlist markdown
+#
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+ROON="${TOP}/Roon"
+PLAYLISTS="${TOP}/Roon_Playlists.md"
+playlistdir="Playlists"
+
+[ "$1" ] && {
+  PLAYLISTS="${TOP}/$1.md"
+}
+
+[ -f ${PLAYLISTS} ] || {
+  echo "${PLAYLISTS} does not exist. Exiting."
+  exit 1
+}
+
+rm -f /tmp/aba$$
+touch /tmp/aba$$
+
+playlist=
+cat ${PLAYLISTS} | while read line
+do
+  marker=`echo ${line} | awk ' { print $1 } '`
+  if [ "${marker}" == "###" ]
+  then
+    playlist=`echo ${line} | sed -e "s/### //" | sed -e 's/^ *//' -e 's/ *$//'`
+    filename=`echo ${playlist} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+    [ "${filename}" ] || {
+      echo "Empty filename for ${playlist}"
+    }
+  else
+    echo "${line}" >> /tmp/aba$$
+    continue
+  fi
+
+  [ "${playlist}" ] && [ "${filename}" ] && {
+    echo "Processing ${filename} for ${playlist}"
+    [ -f ${TOP}/${playlistdir}/${filename}.md ] || {
+      echo "${playlistdir}/${filename}.md does not exist. Skipping."
+      echo "${line}" >> /tmp/aba$$
+      playlist=
+      continue
+    }
+    # Insert link here
+    newline=`echo "${line}" | \
+      sed -e "s%${playlist}%[${playlist}](${playlistdir}/${filename}.md)%"`
+    echo "${newline}" >> /tmp/aba$$
+    playlist=
+  }
+done
+
+cp /tmp/aba$$ ${PLAYLISTS}
+rm -f /tmp/aba$$

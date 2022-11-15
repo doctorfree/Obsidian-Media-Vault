@@ -1,0 +1,71 @@
+# Roon Playlist: Sade ZHU
+
+## Playlist Tracks
+
+
+- 1. Cold Blooded
+- 2. Smooth Operator
+- 3. In the Morning
+- 4. Your Love Is King
+- 5. Electrify Me
+- 6. Hang On to Your Love
+- 7. Secret Weapon
+- 8. Frankie's First Affair
+- 9. Numb
+- 10. When Am I Going to Make a Living
+- 11. Palm of My Hand
+- 12. Cherry Pie
+- 13. Money
+- 14. Sally
+- 15. One Minute to Midnight
+- 16. I Will Be Your Friend
+- 17. Reaching
+- 18. Why Can't We Live Together
+- 19. Hometown Girl
+- 20. Is It a Crime
+- 21. Good Life
+- 22. The Sweetest Taboo
+- 23. Generationwhy
+- 24. War of the Hearts
+- 25. Working for It
+- 26. You're Not the Man
+- 27. Jezebel
+- 28. Mr. Wrong
+- 29. Punch Drunk
+- 30. Never as Good as the First Time
+- 31. Fear
+- 32. Tar Baby
+- 33. Maureen
+- 34. Love Is Stronger Than Pride
+- 35. Paradise
+- 36. Nothing Can Come Between Us
+- 37. Haunt Me
+- 38. Coming Home
+- 39. Turn My Back on You
+- 40. Keep Looking
+- 41. Clean Heart
+- 42. Modern Conversation
+- 43. Give It Up
+- 44. Hold Up, Wait a Minute
+- 45. Siempre Hay Esperanza
+- 46. Automatic
+- 47. No Ordinary Love
+- 48. As Crazy as It Is
+- 49. Feel No Pain
+- 50. I Couldn't Love You More
+- 51. Like a Tattoo
+- 52. Kiss of Life
+- 53. Cherish the Day
+- 54. Stay Closer
+- 55. Pearls
+- 56. Faded
+- 57. Bullet Proof Soul
+- 58. Superfriends
+- 59. Mermaid
+- 60. The One
+- 61. By Your Side
+- 62. Cocaine Model
+- 63. The Moon and the Sky
+- 64. Came for the Low
+- 65. Soldier of Love
+

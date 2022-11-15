@@ -1,0 +1,80 @@
+#!/bin/bash
+#
+# mkplaylists
+#
+# Generate Markdown format files for each of the playlists in the Roon library.
+#
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+ROON="${TOP}/Roon"
+TOOLS="${TOP}/Tools/Roon"
+PLAYLISTS="${TOP}/Roon_Playlist_Tracks.md"
+playlistdir="${TOP}/Playlists"
+
+[ -f ${PLAYLISTS} ] || {
+  roon -z "HomePod Max"
+  [ -d ${TOOLS}/data ] || mkdir ${TOOLS}/data
+
+  TXT="${TOOLS}/data/tracks_by_playlist.txt"
+
+  echo "Please be patient while the Roon Audio System is queried. This may take some time."
+  roon -l playtracks > "${TXT}"
+
+  echo "# Roon Tracks by Playlist" > ${PLAYLISTS}
+  echo "" >> ${PLAYLISTS}
+  cat data/nav.md >> ${PLAYLISTS}
+
+  cat ${TXT} | sed -e "s/Track titles on playlist /### /" | sed -e "s/ :$//" >> ${PLAYLISTS}
+}
+
+# Create the playlist markdown
+
+playlist=
+cat ${PLAYLISTS} | while read line
+do
+  marker=`echo ${line} | awk ' { print $1 } '`
+  if [ "${marker}" == "###" ]
+  then
+    playlist=`echo ${line} | sed -e "s/### //" | sed -e 's/^ *//' -e 's/ *$//'`
+    filename=`echo ${playlist} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+    [ "${filename}" ] || {
+      echo "Empty filename for ${playlist}"
+    }
+  fi
+
+  if [ "${playlist}" ]
+  then
+      echo "Processing ${filename} for ${playlist}"
+      [ -f ${playlistdir}/${filename}.md ] && {
+        echo "${playlistdir}/${filename}.md already exists. Skipping."
+        continue
+      }
+      echo "# Roon Playlist: ${playlist}" > ${playlistdir}/${filename}.md
+      echo "" >> ${playlistdir}/${filename}.md
+      echo "## Playlist Tracks" >> ${playlistdir}/${filename}.md
+      echo "" >> ${playlistdir}/${filename}.md
+      playlist=
+      tracknumber=1
+  else
+    if [ "${line}" ]
+    then
+      echo "- ${tracknumber}. ${line}" >> ${playlistdir}/${filename}.md
+      tracknumber=$((tracknumber + 1))
+    else
+      echo "${line}" >> ${playlistdir}/${filename}.md
+    fi
+  fi
+done

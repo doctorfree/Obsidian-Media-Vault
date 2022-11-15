@@ -1,0 +1,67 @@
+# Roon Playlist: Intricate Sessions
+
+## Playlist Tracks
+
+
+- 1. One More Life
+- 2. Vogel Strasse
+- 3. Xes
+- 4. Countdown
+- 5. Lilu
+- 6. I Funk You
+- 7. Adriatica
+- 8. The End
+- 9. Nocturnal Labor
+- 10. Subortus
+- 11. I Don't Know
+- 12. Traverse
+- 13. Blue Angel
+- 14. The Ghost Town
+- 15. Blue and White
+- 16. Personal Daylight
+- 17. Can't Get Enough
+- 18. Space Plus Love
+- 19. M. L.
+- 20. Sunday Night
+- 21. Coral Aura
+- 22. Galaxy Cats
+- 23. Wickham
+- 24. Rekkor
+- 25. The Happiness in Her Eyes
+- 26. It's a Funky Record
+- 27. Wonderland
+- 28. Feeling Fine
+- 29. Tinker Tailor
+- 30. Turning Point
+- 31. Whiskey Soup
+- 32. The Computer
+- 33. Robots
+- 34. Something Else
+- 35. Monsoon
+- 36. Emalykus
+- 37. Been Here Before
+- 38. Symphony
+- 39. Believe
+- 40. Crimson Spleen
+- 41. Audio Pressure
+- 42. To Be Given
+- 43. You Wanna
+- 44. Blue & White
+- 45. Pushkin
+- 46. Melancholia
+- 47. A Loving Man
+- 48. Astra
+- 49. Beyond
+- 50. Jupiter (Let You Go)
+- 51. Buggy Funk
+- 52. Shout!
+- 53. Melancholic
+- 54. Seasons
+- 55. Be Real
+- 56. Point of View
+- 57. Make Me Believe
+- 58. Sentimental Crying
+- 59. Santa
+- 60. Desolate Soul
+- 61. Velvet
+

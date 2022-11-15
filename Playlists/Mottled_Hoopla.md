@@ -1,0 +1,68 @@
+# Roon Playlist: Mottled Hoopla
+
+## Playlist Tracks
+
+
+- 1. Laugh at Me
+- 2. Rabbit Foot and Toby Time
+- 3. Wrath and Wroll
+- 4. Thunderbuck Ram
+- 5. Whiskey Women
+- 6. Lay Down
+- 7. Home Is Where I Want to Be
+- 8. Keep A'Knockin' (Live at Fairfield Halls, Croydon, London)
+- 9. Death May Be Your Santa Claus
+- 10. Your Own Backyard
+- 11. Darkness, Darkness
+- 12. Journey
+- 13. Sweet Angeline
+- 14. Second Love
+- 15. The Moon Upstairs (Live)
+- 16. Wheel of the Quivering Meat Conception
+- 17. Sweet Jane
+- 18. Momma's Little Jewel
+- 19. All the Young Dudes
+- 20. Sucker
+- 21. Jerkin' Crocus
+- 22. Sea Diver
+- 23. One of the Boys
+- 24. Black Scorpio (demo version of "Momma's Little Jewel")
+- 25. Ride on the Sun (demo version of "Sea Diver")
+- 26. One of the Boys
+- 27. All the Young Dudes
+- 28. Sucker
+- 29. Sweet Jane
+- 30. All the Way from Memphis
+- 31. Honaloochie Boogie
+- 32. Drivin' Sister (live, Hammersmith Odeon)
+- 33. I'm a Cadillac/El Camino Dolo Roso
+- 34. Rose
+- 35. Nightmare (demo)
+- 36. The Golden Age of Rock & Roll
+- 37. Marionette
+- 38. Alice
+- 39. Crash Street Kidds
+- 40. Born Late '58
+- 41. Trudi's Song
+- 42. Pearl 'n' Roy (England)
+- 43. Through the Looking Glass (alternate version)
+- 44. Where Do You All Come From (non LP B‐side)
+- 45. Rest in Peace
+- 46. Foxy Foxy
+- 47. (Do You Remember) The Saturday Gigs? (alternate version)
+- 48. The Saturday Kids
+- 49. Lounge Lizard
+- 50. American Pie/The Golden Age of Rock 'N' Roll
+- 51. By Tonight
+- 52. Monte Carlo
+- 53. She Does It
+- 54. I'll Tell You Something
+- 55. Stiff Upper Lip
+- 56. Love Now
+- 57. Apologies
+- 58. The Great White Wail
+- 59. Here We Are
+- 60. It Takes One to Know One
+- 61. I Can Show You How It Is
+- 62. Shout It All Out (single B‐side)
+

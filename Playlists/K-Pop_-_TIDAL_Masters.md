@@ -1,0 +1,94 @@
+# Roon Playlist: K-Pop - TIDAL Masters
+
+## Playlist Tracks
+
+
+- 1. Down
+- 2. Not Alone
+- 3. Gone
+- 4. More Than Words
+- 5. Yeonnam-dong
+- 6. LMLY
+- 7. On the Ground
+- 8. Daisy
+- 9. Close Up (feat. Chancellor)
+- 10. Open Up
+- 11. I'm Fine
+- 12. Don't Smile at Me
+- 13. I Cry (Instrumental)
+- 14. Lovers in the Night
+- 15. Lovesick Girls
+- 16. Ice Cream
+- 17. Wake Up
+- 18. MOON RIDER (Instrumental)
+- 19. Bicycle
+- 20. My Last Love: In Paradisum
+- 21. Stay Young (불시착)
+- 22. X
+- 23. Free Flight
+- 24. CHANDELIER
+- 25. BETTER DAYS
+- 26. 5 Christmas Languages
+- 27. Dream of You
+- 28. 2easy (feat. Heize)
+- 29. Star [Voice English Version]
+- 30. Apollo 11
+- 31. Salute
+- 32. Leaf (feat. 10CM)
+- 33. Jungle
+- 34. Why Not?
+- 35. COVID-19
+- 36. Bet You Wanna
+- 37. Pretty Savage
+- 38. Revolution
+- 39. One (Monster & Infinity)
+- 40. Shoot the Moon
+- 41. 17 (feat. Joshua and DK of SEVENTEEN)
+- 42. Numbers (feat. CHANGMO)
+- 43. Beautiful Scar
+- 44. Pretty Please
+- 45. How You Like That
+- 46. Kiss and Make Up [Remix]
+- 47. Tiger Inside
+- 48. What You Waiting For
+- 49. The Answer
+- 50. 100
+- 51. Villain
+- 52. Sour Candy
+- 53. 100 Ways
+- 54. PUMA
+- 55. Jopping
+- 56. Can't You See Me?
+- 57. Numb
+- 58. Make Me Better
+- 59. Physical (feat. Hwa Sa)
+- 60. Rose, Scent, Kiss
+- 61. K-Town
+- 62. Red Up
+- 63. Color Eye
+- 64. 9 and Three Quarters (Run Away)
+- 65. Moondance
+- 66. Suga's Interlude
+- 67. I Can't Stand the Rain
+- 68. Angel or Devil
+- 69. Confession
+- 70. I Wanna Be Yours
+- 71. More
+- 72. Movie Star
+- 73. La La Land
+- 74. Fade Away
+- 75. New Rules
+- 76. Break Up
+- 77. Dejavu
+- 78. No Manners
+- 79. So Am I [Steve Void Remix]
+- 80. Can't We Just Leave the Monster Alive?
+- 81. Without You
+- 82. 2 Fast
+- 83. Look Back at It
+- 84. Drama
+- 85. My Romeo
+- 86. Super Car
+- 87. For You
+- 88. one summer (Inst.)
+

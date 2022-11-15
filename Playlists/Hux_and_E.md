@@ -1,0 +1,132 @@
+# Roon Playlist: Hux & E
+
+## Playlist Tracks
+
+
+- 1. This Is The One
+- 2. Shine It All On
+- 3. Song For James
+- 4. Standing at the Gate
+- 5. September Clouds
+- 6. The Only Thing I Care About
+- 7. Just Sayin'
+- 8. Manchester Girl
+- 9. Running Home To You
+- 10. L.A. River
+- 11. Off We Go
+- 12. A Most Unpleasant Man
+- 13. Inside Your Shoes
+- 14. Mass
+- 15. That's When I Know
+- 16. Tomorrow I'll Be Nine
+- 17. Real Tough Day
+- 18. The Day I Wrote You Off
+- 19. Honey Sweet Baby
+- 20. Someone to Break the Spell
+- 21. Sleeping With A Friend
+- 22. She Loves a Puppet
+- 23. One More Day in the Life
+- 24. My Old Raincoat
+- 25. Simple Things
+- 26. Permanent Broken Heart
+- 27. California
+- 28. Eight Lives Left
+- 29. Keep from Crying
+- 30. Hello Cruel World
+- 31. Every Minute
+- 32. Fitting in With the Misfits
+- 33. It'll Be Alright
+- 34. Are You & Me Gonna Happen
+- 35. Here Come the Savior
+- 36. Looking Out the Window With a Blue Hat On
+- 37. So Good
+- 38. Nowheresville
+- 39. Live Like a King
+- 40. Symphony for Toy Piano in G Minor
+- 41. Playing Her Guitar
+- 42. Mockingbird Franklin
+- 43. Stay Where You Are
+- 44. I've Been Kicked Around
+- 45. Thank You Bethesda
+- 46. Pray
+- 47. Angeleno
+- 48. E's Tune
+- 49. Luckiest Man
+- 50. You'll Be the Scarecrow
+- 51. Buddha, Buddha (With Noodles)
+- 52. Theme from Blinking Lights
+- 53. Long Way to Go
+- 54. From Which I Came/A Magic World
+- 55. Beautiful
+- 56. Son of a Bitch
+- 57. Roller Coaster
+- 58. Blinking Lights (For Me)
+- 59. A Feeling That Won't Fade Away
+- 60. Trouble With Dreams
+- 61. Love Is the Greatest Thing
+- 62. Marie Floating Over the Backyard
+- 63. Turn the Soil
+- 64. Suicide Life
+- 65. Oh, Yeah Montage
+- 66. In the Yard, Behind the Church
+- 67. Buddha, Buddha (Noodle-Free)
+- 68. Railroad Man
+- 69. Someone You Knew
+- 70. The Other Shoe
+- 71. Bob
+- 72. Last Time We Spoke
+- 73. Burning Langley Down
+- 74. Mother Mary
+- 75. Are You Always High!
+- 76. Going Fetal
+- 77. Live While You Can
+- 78. Understanding Salesmen
+- 79. Mama's Chain
+- 80. Theme for a Pretty Girl That Makes You Believe God Exists
+- 81. Dino's Laughing Now
+- 82. Checkout Blues
+- 83. Meteor Sky
+- 84. Blinking Lights (For You)
+- 85. Ballad of Reginald Denny
+- 86. Dust of Ages
+- 87. Best Is Yet to Come
+- 88. Old Shit/New Shit
+- 89. Perfect
+- 90. Bride of Theme from Blinking Lights
+- 91. Yet to Say
+- 92. Hey Man (Now You're Really Living)
+- 93. Wear My Ring
+- 94. I'm Going to Stop Pretending That I Didn't Break Your Heart
+- 95. Bones
+- 96. To Lick Your Boots
+- 97. Come Clean
+- 98. If You See Natalie
+- 99. My Friend Hates Me
+- 100. Sweet Li'l Thing
+- 101. Crime
+- 102. Dusk: A Peach in the Orchard
+- 103. I'm Looking Through You
+- 104. Whatever Happened to Soy Bomb
+- 105. Better Than Good
+- 106. Ugly Love
+- 107. Just Might Fly
+- 108. God's Silence
+- 109. Everything's Different Now
+- 110. Losing Streak
+- 111. Last Days of My Bitter Heart
+- 112. The Stars Shine in the Sky Tonight
+- 113. Things the Grandchildren Should Know
+- 114. Going to Your Funeral, Pt. 1
+- 115. 10538 Overture
+- 116. Mr. Blue Skyy
+- 117. Showdown
+- 118. Can't Get It Out of My Head
+- 119. Telephone Line
+- 120. Sweet Talkin' Woman
+- 121. Evil Woman
+- 122. Ma-Ma-Ma Belle
+- 123. Strange Magic
+- 124. Diary of Horace Wimp
+- 125. Do Ya
+- 126. Don't Bring Me Down
+

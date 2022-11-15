@@ -1,0 +1,117 @@
+# Roon Playlist: Vocal Deep House
+
+## Playlist Tracks
+
+
+- 1. Summer Wave
+- 2. Losing Touch
+- 3. Waiting for You
+- 4. Love Zone
+- 5. Eternal
+- 6. Heartbeat
+- 7. I'd Rather Be Alone
+- 8. Secret Promise
+- 9. Stay With Me [The Voice Performance]
+- 10. On My Mind
+- 11. Gold Skies
+- 12. Better
+- 13. What Love Is
+- 14. Keep on Going
+- 15. Stick with U
+- 16. I Stay Away
+- 17. Night Dream
+- 18. if we never met (remix)
+- 19. You Are the One
+- 20. The One
+- 21. Demons
+- 22. Feels Like This
+- 23. Down with Me (Original Mix)
+- 24. Sun Goes Down
+- 25. Ameno
+- 26. Give up on You
+- 27. I'll Be There
+- 28. Hold On To Me (Extended Mix)
+- 29. We Are Home
+- 30. All About
+- 31. Crumble
+- 32. Do It For Love
+- 33. Shy (feat. Kelly Boek)
+- 34. Just For a Moment
+- 35. Electric
+- 36. Dreaming
+- 37. Over You
+- 38. Desire
+- 39. Gotta Let You Go
+- 40. Don't Waste My Time
+- 41. Wandering Souls
+- 42. Whenever You Go (La La La)
+- 43. Nada Es Igual
+- 44. Dust (feat. David Whitley)
+- 45. Slow Down
+- 46. I Don't Mind
+- 47. Are You With Me
+- 48. Run with You
+- 49. Let Me Down Slowly [SŸDE Remix]
+- 50. Waterfall
+- 51. Dawn
+- 52. Fading Eyes
+- 53. First Time
+- 54. Tell Me Baby (radio edit)
+- 55. Baby Don't Go
+- 56. Love Me Harder
+- 57. Islands in the Sky
+- 58. Better Days
+- 59. Feels Like I'm in Love
+- 60. Beautiful Life (GATTUSO Remix)
+- 61. Your Love
+- 62. Asleep
+- 63. Call Me
+- 64. Get Back to You
+- 65. Where Have You Gone [Anywhere]
+- 66. Broken Love
+- 67. Live the Moment (Radio Edit)
+- 68. My Type (Original Mix)
+- 69. By Your Side
+- 70. Take Our Time
+- 71. Hear the Music
+- 72. Become so Brave
+- 73. Real You
+- 74. Overdose
+- 75. Alive
+- 76. Here with You
+- 77. The Voices
+- 78. Be With Me
+- 79. On Hold
+- 80. Chase The High
+- 81. On My Way
+- 82. This Feeling
+- 83. Never Runaway
+- 84. Dangerous
+- 85. Surrender
+- 86. The Ocean
+- 87. Million Things (Stash Konig Remix)
+- 88. Sweet Dreams
+- 89. Me and My Guitar
+- 90. Gold
+- 91. Alone (Bruno Motta Remix)
+- 92. Off My Mind (Original Mix)
+- 93. Firestone
+- 94. Feel Good
+- 95. Blackout
+- 96. Bones (Viceroy Remix)
+- 97. You Come With The Rain
+- 98. Take Another
+- 99. Can't Feel My Face
+- 100. Light Me Up
+- 101. All I Want (Mike "Thunder" Pennino Club Mix)
+- 102. U Don't Know (radio edit)
+- 103. Don't Let Me Go
+- 104. Tik Tok
+- 105. Breaking Me [Acoustic Version]
+- 106. Woke up in Bangkok
+- 107. Prayer in C [Robin Schulz Radio Edit]
+- 108. Busy Bye Bye
+- 109. Everybody Hurts
+- 110. Dancer in the Dark
+- 111. No One Like You
+

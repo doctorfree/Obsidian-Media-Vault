@@ -1,0 +1,74 @@
+# Roon Playlist: Perfect Power Pop
+
+## Playlist Tracks
+
+
+- 1. Types of People
+- 2. Here's Looking at You
+- 3. In Our Dreams
+- 4. Post Break Up Sex - Demo
+- 5. Take Your Love
+- 6. Screens
+- 7. Becky Doll
+- 8. Jumpin' The Gun
+- 9. A Quiet Place
+- 10. Home
+- 11. Cooler Returns
+- 12. At A Loss
+- 13. Whatever You Want
+- 14. A New England
+- 15. Down to the Well
+- 16. The Piss, The Perfume
+- 17. Carmen
+- 18. Live Until I Die
+- 19. Undecided Voters
+- 20. Lauren
+- 21. To Keep an Area
+- 22. Can't Kill the Musikk
+- 23. UNITED GIRLS ROCK'N'ROLL CLUB
+- 24. On the Telephone
+- 25. Beginning of the End (Wyld Stallyns edit)
+- 26. Running Into You
+- 27. A Rat Without a Tale
+- 28. Love Comes In Waves
+- 29. Might Be Right (At Home)
+- 30. A.M. 180
+- 31. Club Zero
+- 32. Another Nail in My Heart
+- 33. Live in Favor of Tomorrow
+- 34. Love Doesn't Come From the Barrel of a Gun
+- 35. Stationary
+- 36. Montgomery Forever
+- 37. You're Not Alone
+- 38. Wrong Impression
+- 39. Here's the Thing
+- 40. Fame
+- 41. Cape Henlopen
+- 42. Boys in Heat
+- 43. Bobbie
+- 44. Bloodlust Tonight
+- 45. Don't Be Nice to Me
+- 46. Good Things Come
+- 47. The Beginning
+- 48. I Don't Roll (with the Boys No More)
+- 49. Party With the Kids Who Wanna Party With You
+- 50. Richest Man
+- 51. No One Falls Alone
+- 52. Alex Trebek
+- 53. The Steps
+- 54. Weigh Down
+- 55. Empathy for the Devil
+- 56. So Much Love
+- 57. Great Big Blue
+- 58. No One Falls Alone
+- 59. No One Else Will Ever Understand
+- 60. Groovy Tuesday (Live)
+- 61. What the Hell I Got
+- 62. Shakin All Over
+- 63. Blood On Your Tooth
+- 64. She's A Fantasy
+- 65. So Surreal
+- 66. Bored to Death
+- 67. No More Pennies
+- 68. Running All the Way Home
+

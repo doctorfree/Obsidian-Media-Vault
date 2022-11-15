@@ -1,0 +1,63 @@
+# Roon Playlist: Plastic Elephant Wings
+
+## Playlist Tracks
+
+
+- 1. Working Class Hero (Ultimate mix)
+- 2. Beware My Love
+- 3. Isolation (Ultimate mix)
+- 4. Let 'Em In
+- 5. Remember (Ultimate mix)
+- 6. Band On the Run
+- 7. Look at Me (Ultimate mix)
+- 8. Jet
+- 9. God (Ultimate mix)
+- 10. Let Me Roll It
+- 11. Jealous Guy (Ultimate mix)
+- 12. Live and Let Die
+- 13. Gimme Some Truth (Ultimate mix)
+- 14. Soily (from "One Hand Clapping")
+- 15. How Do You Sleep? (Ultimate mix)
+- 16. Medley: Venus and Mars/Rock Show
+- 17. Oh My Love (Ultimate mix)
+- 18. Call Me Back Again
+- 19. Mind Games [2010 - Remaster]
+- 20. Helen Wheels
+- 21. Tight A$ [2010 - Remaster]
+- 22. That Would Be Something
+- 23. Aisumasen [I'm Sorry] [2010 - Remaster]
+- 24. Valentine Day
+- 25. Bring On The Lucie [Freda Peeple] [2010 - Remaster]
+- 26. Every Night
+- 27. You Are Here [2010 - Remaster]
+- 28. Hot as Sun/Glasses
+- 29. Meat City [2010 - Remaster]
+- 30. Junk
+- 31. Whatever Gets You Thru the Night
+- 32. Momma Miss America
+- 33. Old Dirt Road
+- 34. Teddy Boy
+- 35. What You Got
+- 36. Wah-Wah
+- 37. Singalong Junk
+- 38. Bless You (Ultimate mix)
+- 39. Maybe I'm Amazed
+- 40. Scared
+- 41. Kreen-Akrore
+- 42. No. 9 Dream
+- 43. Too Many People
+- 44. Steel and Glass
+- 45. Ram On
+- 46. (Just Like) Starting Over
+- 47. Dear Boy
+- 48. I'm Losing You [2010 Remix]
+- 49. Uncle Albert/Admiral Halsey
+- 50. Watching the Wheels
+- 51. Smile Away
+- 52. Woman Is the Nigger of the World
+- 53. Monkberry Moon Delight
+- 54. John Sinclair
+- 55. The Back Seat of My Car
+- 56. Nobody Loves You (When You're Down and Out)
+- 57. I'm The Greatest
+
