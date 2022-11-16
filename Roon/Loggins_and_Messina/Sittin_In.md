@@ -9,7 +9,7 @@ format: Digital, Album
 
 By Loggins & Messina
 
-![](../../assets/albumcovers/Loggins_and_Messina-Sittin_In.png)
+![](../../assets/albumcovers/Loggins_And_Messina-Sittin_In.png)
 
 ## Album Data
 
