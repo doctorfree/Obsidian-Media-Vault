@@ -64,7 +64,6 @@ do
     if [ "${marker}" ]
     then
       type="album"
-      continue
     else
       echo ${line} | grep "^END" > /dev/null && end=1
       if [ "${end}" ]
