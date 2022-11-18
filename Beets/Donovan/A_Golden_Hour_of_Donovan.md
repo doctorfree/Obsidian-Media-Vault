@@ -13,20 +13,146 @@ year: 1990
 
 # A Golden Hour of Donovan
 
-By Donovan
+By **Donovan**
 
 ![](../../assets/beetscovers/Donovan-A_Golden_Hour_of_Donovan.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: A Golden Hour of Donovan
-- Artist: Donovan
-- Albumartist: Donovan
-- Genre: Folk Rock
-- MusicBrainz Album Artist ID: 72d7d717-0837-4f2a-9641-d0f9fdd3acf7
-- MusicBrainz Album ID: 8436d6b5-2bc6-4b16-a022-1a450eef5721
-- MusicBrainz Release Group ID: 8e0d8d08-98f5-4d11-bbb1-d0d46b0caf87
-- Year: 1990
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** A Golden Hour of Donovan
+- **Artist:** Donovan
+- **Albumartist:** Donovan
+- **Genre:** Folk Rock
+- **MusicBrainz Album Artist ID:** [72d7d717-0837-4f2a-9641-d0f9fdd3acf7](https://musicbrainz.org/artist/72d7d717-0837-4f2a-9641-d0f9fdd3acf7)
+- **MusicBrainz Album ID:** [8436d6b5-2bc6-4b16-a022-1a450eef5721](https://musicbrainz.org/release/8436d6b5-2bc6-4b16-a022-1a450eef5721)
+- **MusicBrainz Release Group ID:** [8e0d8d08-98f5-4d11-bbb1-d0d46b0caf87](https://musicbrainz.org/release-group/8e0d8d08-98f5-4d11-bbb1-d0d46b0caf87)
+- **Year:** 1990
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Mellow Yellow
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 3:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Mellow Yellow
+- **Track:** 01
+- **Year:** 0000
+
+### Track 02 - Colours
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 2:44
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Colours
+- **Track:** 02
+- **Year:** 0000
+
+### Track 03 - Hurdy Gurdy Man
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 3:19
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Hurdy Gurdy Man
+- **Track:** 03
+- **Year:** 0000
+
+### Track 04 - Catch the Wind
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 2:54
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Catch the Wind
+- **Track:** 04
+- **Year:** 0000
+
+### Track 05 - Lalena
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 2:55
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Lalena
+- **Track:** 05
+- **Year:** 0000
+
+### Track 06 - Epistle To Dippy
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 3:10
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Epistle To Dippy
+- **Track:** 06
+- **Year:** 0000
+
+### Track 07 - Sunshine Superman
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:31
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Sunshine Superman
+- **Track:** 07
+- **Year:** 0000
+
+### Track 08 - There Is a Mountain
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 2:35
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** There Is a Mountain
+- **Track:** 08
+- **Year:** 0000
+
+### Track 09 - Jennifer Juniper
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 2:42
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Jennifer Juniper
+- **Track:** 09
+- **Year:** 0000
+
+### Track 10 - Wear Your Love Like Heaven
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 2:25
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Wear Your Love Like Heaven
+- **Track:** 10
+- **Year:** 0000
+
+### Track 11 - Season of the Witch
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 4:56
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Season of the Witch
+- **Track:** 11
+- **Year:** 0000
 

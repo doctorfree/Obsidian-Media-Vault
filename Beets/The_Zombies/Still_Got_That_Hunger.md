@@ -13,20 +13,135 @@ year: 2015
 
 # Still Got That Hunger
 
-By The Zombies
+By **The Zombies**
 
 ![](../../assets/beetscovers/The_Zombies-Still_Got_That_Hunger.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Still Got That Hunger
-- Artist: The Zombies
-- Albumartist: The Zombies
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 230ca093-1d00-4c57-9235-147942f66930
-- MusicBrainz Album ID: 6b07cec8-245f-4e96-8f7d-14bab116f18b
-- MusicBrainz Release Group ID: 55d8b1a5-3a50-4d2a-9fe5-141d4c245b4d
-- Year: 2015
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Still Got That Hunger
+- **Artist:** The Zombies
+- **Albumartist:** The Zombies
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [230ca093-1d00-4c57-9235-147942f66930](https://musicbrainz.org/artist/230ca093-1d00-4c57-9235-147942f66930)
+- **MusicBrainz Album ID:** [6b07cec8-245f-4e96-8f7d-14bab116f18b](https://musicbrainz.org/release/6b07cec8-245f-4e96-8f7d-14bab116f18b)
+- **MusicBrainz Release Group ID:** [55d8b1a5-3a50-4d2a-9fe5-141d4c245b4d](https://musicbrainz.org/release-group/55d8b1a5-3a50-4d2a-9fe5-141d4c245b4d)
+- **Year:** 2015
+- **Catalog #:** 
+- **Label:** Cherry Red Records
+- **Total Tracks:** 10
+
+## Album Tracks
+
+### Track 01 - Moving On
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Progressive Rock
+- **Length:** 4:00
+- **MusicBrainz Track ID:** [519c90bb-c12d-4af9-a3c8-cfc17b602137](https://musicbrainz.org/recording/519c90bb-c12d-4af9-a3c8-cfc17b602137)
+- **Title:** Moving On
+- **Track:** 01
+- **Year:** 2015
+
+### Track 02 - Chasing the Past
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 4:05
+- **MusicBrainz Track ID:** [11caf3d4-74b8-480b-b249-9a7aa29a823c](https://musicbrainz.org/recording/11caf3d4-74b8-480b-b249-9a7aa29a823c)
+- **Title:** Chasing the Past
+- **Track:** 02
+- **Year:** 2015
+
+### Track 03 - Edge of the Rainbow
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 4:10
+- **MusicBrainz Track ID:** [1d24d16c-75b7-4601-a001-46d3d091204c](https://musicbrainz.org/recording/1d24d16c-75b7-4601-a001-46d3d091204c)
+- **Title:** Edge of the Rainbow
+- **Track:** 03
+- **Year:** 2015
+
+### Track 04 - New York
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 4:08
+- **MusicBrainz Track ID:** [73fdc6f9-fc1b-4dca-b255-48eb8cc848b4](https://musicbrainz.org/recording/73fdc6f9-fc1b-4dca-b255-48eb8cc848b4)
+- **Title:** New York
+- **Track:** 04
+- **Year:** 2015
+
+### Track 05 - I Want You Back Again (2015)
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:34
+- **MusicBrainz Track ID:** [1952a3c9-bfe4-4a83-91b1-bb27314c58b9](https://musicbrainz.org/recording/1952a3c9-bfe4-4a83-91b1-bb27314c58b9)
+- **Title:** I Want You Back Again (2015)
+- **Track:** 05
+- **Year:** 2015
+
+### Track 06 - And We Were Young Again
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 4:07
+- **MusicBrainz Track ID:** [57043c0e-6662-44ec-9064-ea4beaed2b7d](https://musicbrainz.org/recording/57043c0e-6662-44ec-9064-ea4beaed2b7d)
+- **Title:** And We Were Young Again
+- **Track:** 06
+- **Year:** 2015
+
+### Track 07 - Maybe Tomorrow
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:34
+- **MusicBrainz Track ID:** [e8e5edb5-aa82-4be3-9c30-21a82236e621](https://musicbrainz.org/recording/e8e5edb5-aa82-4be3-9c30-21a82236e621)
+- **Title:** Maybe Tomorrow
+- **Track:** 07
+- **Year:** 2015
+
+### Track 08 - Now I Know I’ll Never Get Over You
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:34
+- **MusicBrainz Track ID:** [be79639f-244e-4c22-bf46-0ad65d81f689](https://musicbrainz.org/recording/be79639f-244e-4c22-bf46-0ad65d81f689)
+- **Title:** Now I Know I’ll Never Get Over You
+- **Track:** 08
+- **Year:** 2015
+
+### Track 09 - Little One
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 2:54
+- **MusicBrainz Track ID:** [a75335e3-0e21-45e7-92ee-8fbee38fb711](https://musicbrainz.org/recording/a75335e3-0e21-45e7-92ee-8fbee38fb711)
+- **Title:** Little One
+- **Track:** 09
+- **Year:** 2015
+
+### Track 10 - Beyond the Borderline
+
+- **Artist:** The Zombies
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:15
+- **MusicBrainz Track ID:** [81da4c81-40db-4c2a-8899-32ce3d27c909](https://musicbrainz.org/recording/81da4c81-40db-4c2a-8899-32ce3d27c909)
+- **Title:** Beyond the Borderline
+- **Track:** 10
+- **Year:** 2015
 

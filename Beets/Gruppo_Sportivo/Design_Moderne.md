@@ -13,20 +13,47 @@ year: 1982
 
 # Design Moderne
 
-By Gruppo Sportivo
+By **Gruppo Sportivo**
 
 ![](../../assets/beetscovers/Gruppo_Sportivo-Design_Moderne.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Design Moderne
-- Artist: Gruppo Sportivo
-- Albumartist: Gruppo Sportivo
-- Genre: New Wave
-- MusicBrainz Album Artist ID: f7dba4f7-f935-48e1-9d0f-3d67172b935c
-- MusicBrainz Album ID: 038f5371-1494-43bc-9827-475e331ab865
-- MusicBrainz Release Group ID: 984aa8fe-6052-3d90-bcb3-11fa93a3324f
-- Year: 1982
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Design Moderne
+- **Artist:** Gruppo Sportivo
+- **Albumartist:** Gruppo Sportivo
+- **Genre:** New Wave
+- **MusicBrainz Album Artist ID:** [f7dba4f7-f935-48e1-9d0f-3d67172b935c](https://musicbrainz.org/artist/f7dba4f7-f935-48e1-9d0f-3d67172b935c)
+- **MusicBrainz Album ID:** [038f5371-1494-43bc-9827-475e331ab865](https://musicbrainz.org/release/038f5371-1494-43bc-9827-475e331ab865)
+- **MusicBrainz Release Group ID:** [984aa8fe-6052-3d90-bcb3-11fa93a3324f](https://musicbrainz.org/release-group/984aa8fe-6052-3d90-bcb3-11fa93a3324f)
+- **Year:** 1982
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 02
+
+## Album Tracks
+
+### Track 01 - Disco Really Made It
+
+- **Artist:** Gruppo Sportivo
+- **Format:** MP3
+- **Genre:** Nederpop
+- **Length:** 4:04
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Disco Really Made It
+- **Track:** 01
+- **Year:** 1979
+
+### Track 02 - I Don't Know
+
+- **Artist:** Gruppo Sportivo
+- **Format:** MP3
+- **Genre:** New Wave
+- **Length:** 2:57
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** I Don't Know
+- **Track:** 02
+- **Year:** 1979
 

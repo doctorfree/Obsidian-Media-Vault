@@ -13,20 +13,36 @@ year: 1968
 
 # Recital
 
-By Lee Michaels
+By **Lee Michaels**
 
 ![](../../assets/beetscovers/Lee_Michaels-Recital.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Recital
-- Artist: Lee Michaels
-- Albumartist: Lee Michaels
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1968
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Recital
+- **Artist:** Lee Michaels
+- **Albumartist:** Lee Michaels
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1968
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 02 - Time Is Over
+
+- **Artist:** Lee Michaels
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:45
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Time Is Over
+- **Track:** 02
+- **Year:** 1968
 

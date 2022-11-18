@@ -13,20 +13,36 @@ year: 2005
 
 # Ian Anderson Plays The Orchestral Jethro Tull
 
-By Ian Anderson
+By **Ian Anderson**
 
 ![](../../assets/beetscovers/Ian_Anderson-Ian_Anderson_Plays_The_Orchestral_Jethro_Tull.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Ian Anderson Plays The Orchestral Jethro Tull
-- Artist: Ian Anderson
-- Albumartist: Ian Anderson
-- Genre: Progressive Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2005
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Ian Anderson Plays The Orchestral Jethro Tull
+- **Artist:** Ian Anderson
+- **Albumartist:** Ian Anderson
+- **Genre:** Progressive Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2005
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 06
+
+## Album Tracks
+
+### Track 05 - Budapest
+
+- **Artist:** Ian Anderson
+- **Format:** AAC
+- **Genre:** Progressive Rock
+- **Length:** 14:04
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Budapest
+- **Track:** 05
+- **Year:** 2005
 

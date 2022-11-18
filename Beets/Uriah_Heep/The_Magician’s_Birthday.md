@@ -13,20 +13,113 @@ year: 1988
 
 # The Magician’s Birthday
 
-By Uriah Heep
+By **Uriah Heep**
 
 ![](../../assets/beetscovers/Uriah_Heep-The_Magician’s_Birthday.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Magician’s Birthday
-- Artist: Uriah Heep
-- Albumartist: Uriah Heep
-- Genre: Progressive Rock
-- MusicBrainz Album Artist ID: f1548c5b-329e-4036-921c-02213a04b525
-- MusicBrainz Album ID: 606efce8-d4a6-4dc0-a3b1-b319a0410e8e
-- MusicBrainz Release Group ID: 35453797-1c54-383d-bbb1-4d12dfa5e74e
-- Year: 1988
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Magician’s Birthday
+- **Artist:** Uriah Heep
+- **Albumartist:** Uriah Heep
+- **Genre:** Progressive Rock
+- **MusicBrainz Album Artist ID:** [f1548c5b-329e-4036-921c-02213a04b525](https://musicbrainz.org/artist/f1548c5b-329e-4036-921c-02213a04b525)
+- **MusicBrainz Album ID:** [606efce8-d4a6-4dc0-a3b1-b319a0410e8e](https://musicbrainz.org/release/606efce8-d4a6-4dc0-a3b1-b319a0410e8e)
+- **MusicBrainz Release Group ID:** [35453797-1c54-383d-bbb1-4d12dfa5e74e](https://musicbrainz.org/release-group/35453797-1c54-383d-bbb1-4d12dfa5e74e)
+- **Year:** 1988
+- **Catalog #:** CLACD109
+- **Label:** Castle Classics
+- **Total Tracks:** 08
+
+## Album Tracks
+
+### Track 01 - Sunrise
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Progressive Rock
+- **Length:** 4:06
+- **MusicBrainz Track ID:** [69558e52-da9b-4ea2-b7fa-eae63e3ce188](https://musicbrainz.org/recording/69558e52-da9b-4ea2-b7fa-eae63e3ce188)
+- **Title:** Sunrise
+- **Track:** 01
+- **Year:** 1988
+
+### Track 02 - Spider Woman
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Progressive Rock
+- **Length:** 2:28
+- **MusicBrainz Track ID:** [bef8a7a5-fcb6-4ba4-94a7-55c468d5130c](https://musicbrainz.org/recording/bef8a7a5-fcb6-4ba4-94a7-55c468d5130c)
+- **Title:** Spider Woman
+- **Track:** 02
+- **Year:** 1988
+
+### Track 03 - Blind Eye
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Progressive Rock
+- **Length:** 3:36
+- **MusicBrainz Track ID:** [189a58e6-bf8c-4902-8b65-c2ee28e396f2](https://musicbrainz.org/recording/189a58e6-bf8c-4902-8b65-c2ee28e396f2)
+- **Title:** Blind Eye
+- **Track:** 03
+- **Year:** 1988
+
+### Track 04 - Echoes in the Dark
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:50
+- **MusicBrainz Track ID:** [7e5ed8e1-bda2-41cb-98ac-2304107c332f](https://musicbrainz.org/recording/7e5ed8e1-bda2-41cb-98ac-2304107c332f)
+- **Title:** Echoes in the Dark
+- **Track:** 04
+- **Year:** 1988
+
+### Track 05 - Rain
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Progressive Rock
+- **Length:** 4:01
+- **MusicBrainz Track ID:** [8e059852-1153-490d-91d1-bf8da0f0d79e](https://musicbrainz.org/recording/8e059852-1153-490d-91d1-bf8da0f0d79e)
+- **Title:** Rain
+- **Track:** 05
+- **Year:** 1988
+
+### Track 06 - Sweet Lorraine
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Progressive Rock
+- **Length:** 4:17
+- **MusicBrainz Track ID:** [83e55e71-e783-4705-b81c-16fc089eea08](https://musicbrainz.org/recording/83e55e71-e783-4705-b81c-16fc089eea08)
+- **Title:** Sweet Lorraine
+- **Track:** 06
+- **Year:** 1988
+
+### Track 07 - Tales
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:10
+- **MusicBrainz Track ID:** [5bdb4dde-e4d1-412b-9664-968a50e40458](https://musicbrainz.org/recording/5bdb4dde-e4d1-412b-9664-968a50e40458)
+- **Title:** Tales
+- **Track:** 07
+- **Year:** 1988
+
+### Track 08 - The Magician’s Birthday
+
+- **Artist:** Uriah Heep
+- **Format:** MP3
+- **Genre:** Progressive Rock
+- **Length:** 10:20
+- **MusicBrainz Track ID:** [d75da5f0-c913-4cba-a333-6c4934858059](https://musicbrainz.org/recording/d75da5f0-c913-4cba-a333-6c4934858059)
+- **Title:** The Magician’s Birthday
+- **Track:** 08
+- **Year:** 1988
 

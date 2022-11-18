@@ -13,20 +13,36 @@ year: 2011
 
 # A Token of the Wreckage
 
-By Megan Slankard
+By **Megan Slankard**
 
 ![](../../assets/beetscovers/Megan_Slankard-A_Token_of_the_Wreckage.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: A Token of the Wreckage
-- Artist: Megan Slankard
-- Albumartist: Megan Slankard
-- Genre: Unknown
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2011
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** A Token of the Wreckage
+- **Artist:** Megan Slankard
+- **Albumartist:** Megan Slankard
+- **Genre:** Unknown
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2011
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Bones Live Forever
+
+- **Artist:** Megan Slankard
+- **Format:** MP3
+- **Genre:** Unknown
+- **Length:** 3:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Bones Live Forever
+- **Track:** 01
+- **Year:** 2015
 

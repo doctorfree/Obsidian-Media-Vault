@@ -13,20 +13,36 @@ year: 0000
 
 # God, Time and Causality
 
-By John Fahey
+By **John Fahey**
 
 ![](../../assets/beetscovers/John_Fahey-God__Time_and_Causality.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: God, Time and Causality
-- Artist: John Fahey
-- Albumartist: John Fahey
-- Genre: Progressive Folk
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** God, Time and Causality
+- **Artist:** John Fahey
+- **Albumartist:** John Fahey
+- **Genre:** Progressive Folk
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Dance of Death
+
+- **Artist:** John Fahey
+- **Format:** AAC
+- **Genre:** New Wave
+- **Length:** 2:43
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Dance of Death
+- **Track:** 01
+- **Year:** 0000
 

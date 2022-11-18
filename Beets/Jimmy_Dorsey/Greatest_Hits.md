@@ -13,20 +13,36 @@ year: 2001
 
 # Greatest Hits
 
-By Jimmy Dorsey
+By **Jimmy Dorsey**
 
 ![](../../assets/beetscovers/Jimmy_Dorsey-Greatest_Hits.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Greatest Hits
-- Artist: Jimmy Dorsey
-- Albumartist: Jimmy Dorsey
-- Genre: Jazz
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2001
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Greatest Hits
+- **Artist:** Jimmy Dorsey
+- **Albumartist:** Jimmy Dorsey
+- **Genre:** Jazz
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2001
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - So Rare
+
+- **Artist:** Jimmy Dorsey
+- **Format:** MP3
+- **Genre:** Swing
+- **Length:** 2:33
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** So Rare
+- **Track:** 00
+- **Year:** 2001
 

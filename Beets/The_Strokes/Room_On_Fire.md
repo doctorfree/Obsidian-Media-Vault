@@ -13,18 +13,34 @@ year: 2003
 
 # Room On Fire
 
-By The Strokes
+By **The Strokes**
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Room On Fire
-- Artist: The Strokes
-- Albumartist: The Strokes
-- Genre: Indie Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2003
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Room On Fire
+- **Artist:** The Strokes
+- **Albumartist:** The Strokes
+- **Genre:** Indie Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2003
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 11
+
+## Album Tracks
+
+### Track 02 - Reptilia
+
+- **Artist:** The Strokes
+- **Format:** AAC
+- **Genre:** Indie Rock
+- **Length:** 3:34
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Reptilia
+- **Track:** 02
+- **Year:** 2003
 

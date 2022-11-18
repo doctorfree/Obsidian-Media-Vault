@@ -13,20 +13,36 @@ year: 2001
 
 # Six Years of Power Pop!
 
-By Various Artists
+By **Various Artists**
 
 ![](../../assets/beetscovers/Various_Artists-Six_Years_of_Power_Pop!.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Six Years of Power Pop!
-- Artist: Various Artists
-- Albumartist: Various Artists
-- Genre: Power Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2001
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Six Years of Power Pop!
+- **Artist:** Various Artists
+- **Albumartist:** Various Artists
+- **Genre:** Power Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2001
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 05 - Thank You - Dido
+
+- **Artist:** Various Artists
+- **Format:** AAC
+- **Genre:** Emo
+- **Length:** 3:37
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Thank You - Dido
+- **Track:** 05
+- **Year:** 0000
 

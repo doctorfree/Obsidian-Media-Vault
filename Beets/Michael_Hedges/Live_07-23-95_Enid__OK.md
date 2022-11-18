@@ -13,20 +13,80 @@ year: 0000
 
 # Live 07/23/95 Enid, OK
 
-By Michael Hedges
+By **Michael Hedges**
 
 ![](../../assets/beetscovers/Michael_Hedges-Live_07-23-95_Enid__OK.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Live 07/23/95 Enid, OK
-- Artist: Michael Hedges
-- Albumartist: Michael Hedges
-- Genre: Unknown
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Live 07/23/95 Enid, OK
+- **Artist:** Michael Hedges
+- **Albumartist:** Michael Hedges
+- **Genre:** Unknown
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 04 - Silent Anticipations
+
+- **Artist:** Michael Hedges
+- **Format:** MP3
+- **Genre:** Contemporary Classical
+- **Length:** 3:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Silent Anticipations
+- **Track:** 04
+- **Year:** 0000
+
+### Track 06 - Watching My Life Go By
+
+- **Artist:** Michael Hedges
+- **Format:** MP3
+- **Genre:** Contemporary Classical
+- **Length:** 5:04
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Watching My Life Go By
+- **Track:** 06
+- **Year:** 0000
+
+### Track 09 - Streamlined Man
+
+- **Artist:** Michael Hedges
+- **Format:** MP3
+- **Genre:** Contemporary Classical
+- **Length:** 3:36
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Streamlined Man
+- **Track:** 09
+- **Year:** 0000
+
+### Track 12 - The Funky Avacado
+
+- **Artist:** Michael Hedges
+- **Format:** MP3
+- **Genre:** Jazz
+- **Length:** 3:32
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Funky Avacado
+- **Track:** 12
+- **Year:** 0000
+
+### Track 15 - Because It's There
+
+- **Artist:** Michael Hedges
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 4:56
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Because It's There
+- **Track:** 15
+- **Year:** 0000
 

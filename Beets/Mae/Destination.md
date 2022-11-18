@@ -13,20 +13,36 @@ year: 2004
 
 # Destination
 
-By Mae
+By **Mae**
 
 ![](../../assets/beetscovers/Mae-Destination.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Destination
-- Artist: Mae
-- Albumartist: Mae
-- Genre: Emo
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2004
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Destination
+- **Artist:** Mae
+- **Albumartist:** Mae
+- **Genre:** Emo
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2004
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 11
+
+## Album Tracks
+
+### Track 04 - Tisbury Lane
+
+- **Artist:** Mae
+- **Format:** AAC
+- **Genre:** Emo
+- **Length:** 5:45
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Tisbury Lane
+- **Track:** 04
+- **Year:** 2004
 

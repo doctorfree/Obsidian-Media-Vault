@@ -579,9 +579,8 @@
 - [Showroom Of Compassion](Roon/CAKE/Showroom_Of_Compassion.md)
 - [Sick Of You](Roon/CAKE/Sick_Of_You.md)
 - [Sinking Ship](Roon/CAKE/Sinking_Ship.md)
+- [Up n Down](Roon/CAKE/Up_n_Down.md)
 - [Wheels EP (Live)](Roon/CAKE/Wheels_EP_Live.md)
-###  Cake
-- [Up n Down](Roon/Cake/Up_n_Down.md)
 ###  Calexico
 - [Algiers (Deluxe Edition)](Roon/Calexico/Algiers_Deluxe_Edition.md)
 - [Carried To Dust](Roon/Calexico/Carried_To_Dust.md)

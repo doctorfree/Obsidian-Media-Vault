@@ -13,20 +13,36 @@ year: 2005
 
 # Live Goode!
 
-By Chuck Berry
+By **Chuck Berry**
 
 ![](../../assets/beetscovers/Chuck_Berry-Live_Goode!.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Live Goode!
-- Artist: Chuck Berry
-- Albumartist: Chuck Berry
-- Genre: Rockabilly
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2005
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Live Goode!
+- **Artist:** Chuck Berry
+- **Albumartist:** Chuck Berry
+- **Genre:** Rockabilly
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2005
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 12 - My Ding-A-Ling
+
+- **Artist:** Chuck Berry
+- **Format:** AAC
+- **Genre:** Rockabilly
+- **Length:** 2:50
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** My Ding-A-Ling
+- **Track:** 12
+- **Year:** 2005
 

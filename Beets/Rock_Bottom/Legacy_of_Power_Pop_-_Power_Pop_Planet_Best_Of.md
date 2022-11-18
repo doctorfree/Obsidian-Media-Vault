@@ -13,20 +13,36 @@ year: 2012
 
 # Legacy of Power Pop - Power Pop Planet Best Of
 
-By Rock Bottom
+By **Rock Bottom**
 
 ![](../../assets/beetscovers/Rock_Bottom-Legacy_of_Power_Pop_-_Power_Pop_Planet_Best_Of.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Legacy of Power Pop - Power Pop Planet Best Of
-- Artist: Rock Bottom
-- Albumartist: Rock Bottom
-- Genre: Hardcore Punk
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2012
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Legacy of Power Pop - Power Pop Planet Best Of
+- **Artist:** Rock Bottom
+- **Albumartist:** Rock Bottom
+- **Genre:** Hardcore Punk
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2012
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 15
+
+## Album Tracks
+
+### Track 09 - Starfighter
+
+- **Artist:** Rock Bottom
+- **Format:** MP3
+- **Genre:** Hardcore Punk
+- **Length:** 3:57
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Starfighter
+- **Track:** 09
+- **Year:** 2012
 

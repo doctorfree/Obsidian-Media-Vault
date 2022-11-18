@@ -26,10 +26,9 @@ do
     echo "" >> "Beets/${artist}/${album}/tracks.md"
     echo "## Tracks" >> "Beets/${artist}/${album}/tracks.md"
     echo "" >> "Beets/${artist}/${album}/tracks.md"
-    beet info --album \
-              --library \
-              --include-keys=album,albumartist,artist,bitdepth,bitrate,bpm,catalognum,composer,format,genre,label,length,samplerate,title,track,tracktotal,year \
-              "${albumdir}" >> "Beets/${artist}/${album}/tracks.md"
+    beet info --library --include-keys=album,albumartist,artist,catalognum,format,genre,label,length,title,track,tracktotal,year \
+         albumartist:"${artist}" \
+         path:"${albumdir}" >> "Beets/${artist}/${album}/tracks.md"
     echo "END" >> "Beets/${artist}/${album}/tracks.md"
   done
 done

@@ -13,20 +13,36 @@ year: 1989
 
 # Greatest Hits
 
-By The McGuire Sisters
+By **The McGuire Sisters**
 
 ![](../../assets/beetscovers/The_Mcguire_Sisters-Greatest_Hits.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Greatest Hits
-- Artist: The Mcguire Sisters
-- Albumartist: The McGuire Sisters
-- Genre: Close Harmony
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1989
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Greatest Hits
+- **Artist:** The Mcguire Sisters
+- **Albumartist:** The McGuire Sisters
+- **Genre:** Close Harmony
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1989
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 03 - Something's Gotta Give
+
+- **Artist:** The McGuire Sisters
+- **Format:** ALAC
+- **Genre:** Close Harmony
+- **Length:** 2:52
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Something's Gotta Give
+- **Track:** 03
+- **Year:** 1966
 

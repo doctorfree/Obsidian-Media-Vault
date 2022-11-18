@@ -13,20 +13,36 @@ year: 2005
 
 # Faintly Blowing [Bonus Tracks]
 
-By Kaleidoscope
+By **Kaleidoscope**
 
 ![](../../assets/beetscovers/Kaleidoscope-Faintly_Blowing_[Bonus_Tracks].jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Faintly Blowing [Bonus Tracks]
-- Artist: Kaleidoscope
-- Albumartist: Kaleidoscope
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2005
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Faintly Blowing [Bonus Tracks]
+- **Artist:** Kaleidoscope
+- **Albumartist:** Kaleidoscope
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2005
+- **Catalog #:** 
+- **Label:** Repertoire
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Faintly Blowing
+
+- **Artist:** Kaleidoscope
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Faintly Blowing
+- **Track:** 01
+- **Year:** 2005
 

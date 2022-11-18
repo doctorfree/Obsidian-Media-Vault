@@ -6,11 +6,14 @@ Several custom scripts and utilities were used to automate the generation of mar
 
 - [Overview](#overview)
 - [Requirements](#requirements)
-- [Books_library](#books_library)
-- [Vinyl_library](#vinyl_library)
-- [CD_library](#cd_library)
-- [Apple_Music](#apple_music)
-- [See_also](#see_also)
+- [Beets library](#beets_library)
+- [Books library](#books_library)
+- [Vinyl library](#vinyl_library)
+- [CD library](#cd_library)
+- [Apple Music](#apple_music)
+- [Roon library](#roon_library)
+    - [Roon playlists](#roon_playlists)
+- [See also](#see_also)
 
 ## Overview
 
@@ -29,6 +32,12 @@ In addition to the standard Linux utilities, some of the conversion tools requir
 The CSV and XML were processed using [csvkit](https://csvkit.readthedocs.io/en/latest).
 
 If your Linux distribution does not include `curl` then that will also need to be installed.
+
+## Beets_library
+
+To index and categorize a [Beets music library](https://beets.io/), the [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus#readme) package can be used. MusicPlayerPlus provides command line utilities that can be used to query, list, and manage various aspects of a Beets library. The scripts used to produce the Beets markdown for this repository can be found in `Tools/Beets/`. Example Beets markdown can be viewed at:
+
+- [Beets Albums by Artist](Beets_Albums_by_Artist.md)
 
 ## Books_library
 
@@ -1851,7 +1860,7 @@ Using this [excellent tutorial at Movable Type](https://www.movable-type.co.uk/s
 
 The scripts used to perform this initial pass at an Apple Music markdown index can be found in the `Tools/Apple/` folder. Working with XML is unpleasant and I no longer use Apple Music that frequently so this sub-project is languishing due to lack of motivation or interest. If you would like to contribute please do so.
 
-## Roon Audio System
+## Roon_library
 
 To index and categorize a [Roon Audio System](https://roonlabs.com) library, the [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme) package can be used. RoonCommandLine provides command line utilities that can be used to list various aspects of a Roon library. The scripts used to produce the Roon markdown for this repository can be found in `Tools/Roon/`. Example Roon markdown can be viewed at:
 
@@ -1859,6 +1868,13 @@ To index and categorize a [Roon Audio System](https://roonlabs.com) library, the
 - [Roon Albums by Composer](Roon_Albums_by_Composer.md)
 - [Roon Albums by Genre](Roon_Albums_by_Genre.md)
 - [Roon Tracks by Artist](Roon_Tracks_by_Artist.md)
+
+### Roon_playlists
+
+Playlists from the Roon Audio System were generated using the [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme) command `roon -l playtracks`. Roon playlist markdown can be viewed at:
+
+- [Roon Playlists](Roon_Playlists.md)
+- [Roon Playlist Tracks](Roon_Playlist_Tracks.md)
 
 ## See_also
 

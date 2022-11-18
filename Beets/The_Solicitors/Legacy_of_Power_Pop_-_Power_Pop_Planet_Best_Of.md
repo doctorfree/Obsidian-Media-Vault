@@ -13,20 +13,36 @@ year: 2012
 
 # Legacy of Power Pop - Power Pop Planet Best Of
 
-By The Solicitors
+By **The Solicitors**
 
 ![](../../assets/beetscovers/The_Solicitors-Legacy_of_Power_Pop_-_Power_Pop_Planet_Best_Of.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Legacy of Power Pop - Power Pop Planet Best Of
-- Artist: The Solicitors
-- Albumartist: The Solicitors
-- Genre: Ska
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2012
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Legacy of Power Pop - Power Pop Planet Best Of
+- **Artist:** The Solicitors
+- **Albumartist:** The Solicitors
+- **Genre:** Ska
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2012
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Pretty Penny
+
+- **Artist:** The Solicitors
+- **Format:** MP3
+- **Genre:** Ska
+- **Length:** 2:58
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Pretty Penny
+- **Track:** 00
+- **Year:** 2012
 

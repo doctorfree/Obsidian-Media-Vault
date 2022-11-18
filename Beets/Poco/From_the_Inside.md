@@ -13,20 +13,36 @@ year: 2014
 
 # From the Inside
 
-By Poco
+By **Poco**
 
 ![](../../assets/beetscovers/Poco-From_the_Inside.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: From the Inside
-- Artist: Poco
-- Albumartist: Poco
-- Genre: Soft Rock
-- MusicBrainz Album Artist ID: 459ecf74-7f1f-434c-a304-73b78e9cdc97
-- MusicBrainz Album ID: f295eafc-5979-48c8-9868-33d0c8c94ab8
-- MusicBrainz Release Group ID: 66d88ed4-87d4-3d4b-82ce-0d99083ae280
-- Year: 2014
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** From the Inside
+- **Artist:** Poco
+- **Albumartist:** Poco
+- **Genre:** Soft Rock
+- **MusicBrainz Album Artist ID:** [459ecf74-7f1f-434c-a304-73b78e9cdc97](https://musicbrainz.org/artist/459ecf74-7f1f-434c-a304-73b78e9cdc97)
+- **MusicBrainz Album ID:** [f295eafc-5979-48c8-9868-33d0c8c94ab8](https://musicbrainz.org/release/f295eafc-5979-48c8-9868-33d0c8c94ab8)
+- **MusicBrainz Release Group ID:** [66d88ed4-87d4-3d4b-82ce-0d99083ae280](https://musicbrainz.org/release-group/66d88ed4-87d4-3d4b-82ce-0d99083ae280)
+- **Year:** 2014
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Crazy Eyes
+
+- **Artist:** Poco
+- **Format:** AAC
+- **Genre:** Progressive Rock
+- **Length:** 9:38
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Crazy Eyes
+- **Track:** 00
+- **Year:** 0000
 

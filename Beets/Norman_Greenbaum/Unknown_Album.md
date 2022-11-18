@@ -13,20 +13,36 @@ year: 1970
 
 # Unknown Album
 
-By Norman Greenbaum
+By **Norman Greenbaum**
 
 ![](../../assets/beetscovers/Norman_Greenbaum-Unknown_Album.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown Album
-- Artist: Norman Greenbaum
-- Albumartist: Norman Greenbaum
-- Genre: Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1970
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown Album
+- **Artist:** Norman Greenbaum
+- **Albumartist:** Norman Greenbaum
+- **Genre:** Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1970
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Spirit In The Sky
+
+- **Artist:** Norman Greenbaum
+- **Format:** AAC
+- **Genre:** Rock
+- **Length:** 3:59
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Spirit In The Sky
+- **Track:** 00
+- **Year:** 1970
 

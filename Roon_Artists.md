@@ -180,7 +180,6 @@
 ### Cadillac Tramps
 ### Cage the Elephant
 ### CAKE
-### Cake
 ### Calexico
 ### The Call
 ### Cameron Carpenter

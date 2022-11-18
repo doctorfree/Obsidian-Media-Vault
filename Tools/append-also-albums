@@ -1,0 +1,87 @@
+#!/bin/bash
+#
+# append-also-albums
+#
+# Append a "See also" section to album markdown including links to albums
+# by the same artist in other media types folders
+#
+# Use a "-l" argument to specify list what you would do but don't do it
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+LIST=
+[ "$1" == "-l" ] && LIST=1
+
+for artistdir in */*
+do
+  [ "${artistdir}" == "*/*" ] && continue
+  [ -d "${artistdir}" ] || continue
+  artist=`basename "${artistdir}"`
+  folder=`dirname "${artistdir}"`
+  titlestr="title"
+  numalbums=`ls -1 */"${artist}"/*.md | wc -l`
+  [ ${numalbums} -gt 1 ] && {
+    [ "${folder}" == "Beets" ] && titlestr="album"
+    cd "${artistdir}"
+    echo "Appending see also for ${artist} in ${folder}"
+    for album in *.md
+    do
+      [ "${album}" == "*.md" ] && continue
+      grep -i "See also" "${album}" > /dev/null || {
+        if [ "${LIST}" ]
+        then
+          echo "Adding See also to ${artistdir}/${album}"
+        else
+          echo "" >> ${album}
+          echo "## See also" >> ${album}
+          echo "" >> ${album}
+        fi
+        for aalbum in *.md
+        do
+          [ "${aalbum}" == "*.md" ] && continue
+          [ "${aalbum}" == "${album}" ] && continue
+          title=`grep "${titlestr}:" ${aalbum} | awk -F ':' ' { print $2 } ' | \
+            sed -e 's/^ *//' -e 's/ *$//'`
+          if [ "${LIST}" ]
+          then
+            echo "Adding ${aalbum} link to ${artistdir}/${album}"
+          else
+            echo "- [${title}](${aalbum})" >> ${album}
+          fi
+        done
+      }
+    done
+    # Append links to these albums in other media folders
+    for mediafolder in Beets CD Roon Vinyl
+    do
+      [ "${mediafolder}" == "${folder}" ] && continue
+      grepstr="title"
+      [ "${mediafolder}" == "Beets" ] && grepstr="album"
+      echo "Appending see also for ${artist} in ${mediafolder}"
+      for mediaalbum in ../../${mediafolder}/"${artist}"/*.md
+      do
+        [ "${mediaalbum}" == "../../${mediafolder}/${artist}/*.md" ] && continue
+        for lalbum in *.md
+        do
+          [ "${lalbum}" == "*.md" ] && continue
+          title=`grep "${grepstr}:" "${mediaalbum}" | awk -F ':' ' { print $2 } ' | \
+            sed -e 's/^ *//' -e 's/ *$//'`
+          if [ "${LIST}" ]
+          then
+            echo "Adding ${mediaalbum} link to ${artistdir}/${lalbum}"
+          else
+            echo "- [${mediafolder}: ${title}](${mediaalbum})" >> ${lalbum}
+          fi
+        done
+      done
+    done
+  }
+  cd ../..
+done

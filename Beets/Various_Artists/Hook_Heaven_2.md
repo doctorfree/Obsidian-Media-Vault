@@ -13,20 +13,36 @@ year: 2007
 
 # Hook Heaven 2
 
-By Various Artists
+By **Various Artists**
 
 ![](../../assets/beetscovers/Various_Artists-Hook_Heaven_2.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Hook Heaven 2
-- Artist: Various Artists
-- Albumartist: Various Artists
-- Genre: Power Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2007
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Hook Heaven 2
+- **Artist:** Various Artists
+- **Albumartist:** Various Artists
+- **Genre:** Power Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2007
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 08 - Chantilly Lace
+
+- **Artist:** The Big Bopper
+- **Format:** AAC
+- **Genre:** Rockabilly
+- **Length:** 2:21
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Chantilly Lace
+- **Track:** 08
+- **Year:** 1996
 

@@ -13,20 +13,36 @@ year: 2008
 
 # Three Flights from Alto Nido
 
-By Greg Laswell
+By **Greg Laswell**
 
 ![](../../assets/beetscovers/Greg_Laswell-Three_Flights_from_Alto_Nido.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Three Flights from Alto Nido
-- Artist: Greg Laswell
-- Albumartist: Greg Laswell
-- Genre: Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2008
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Three Flights from Alto Nido
+- **Artist:** Greg Laswell
+- **Albumartist:** Greg Laswell
+- **Genre:** Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2008
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 12
+
+## Album Tracks
+
+### Track 07 - Days Go On
+
+- **Artist:** Greg Laswell
+- **Format:** AAC
+- **Genre:** Rock
+- **Length:** 3:15
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Days Go On
+- **Track:** 07
+- **Year:** 2008
 

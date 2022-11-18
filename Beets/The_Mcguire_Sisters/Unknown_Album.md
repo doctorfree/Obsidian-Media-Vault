@@ -13,20 +13,36 @@ year: 0000
 
 # Unknown Album
 
-By The McGuire Sisters
+By **The McGuire Sisters**
 
 ![](../../assets/beetscovers/The_Mcguire_Sisters-Unknown_Album.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown Album
-- Artist: The Mcguire Sisters
-- Albumartist: The McGuire Sisters
-- Genre: Close Harmony
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown Album
+- **Artist:** The Mcguire Sisters
+- **Albumartist:** The McGuire Sisters
+- **Genre:** Close Harmony
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Sugartime
+
+- **Artist:** The McGuire Sisters
+- **Format:** AAC
+- **Genre:** Swing
+- **Length:** 2:34
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Sugartime
+- **Track:** 00
+- **Year:** 0000
 

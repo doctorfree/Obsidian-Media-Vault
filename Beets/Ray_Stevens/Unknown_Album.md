@@ -13,20 +13,36 @@ year: 1970
 
 # Unknown Album
 
-By Ray Stevens
+By **Ray Stevens**
 
 ![](../../assets/beetscovers/Ray_Stevens-Unknown_Album.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown Album
-- Artist: Ray Stevens
-- Albumartist: Ray Stevens
-- Genre: Country
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1970
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown Album
+- **Artist:** Ray Stevens
+- **Albumartist:** Ray Stevens
+- **Genre:** Country
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1970
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Everything Is Beautiful
+
+- **Artist:** Ray Stevens
+- **Format:** AAC
+- **Genre:** Country Pop
+- **Length:** 3:33
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Everything Is Beautiful
+- **Track:** 01
+- **Year:** 1970
 

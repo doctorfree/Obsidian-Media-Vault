@@ -13,20 +13,36 @@ year: 0000
 
 # Quétaine Français
 
-By Nana Mouskouri
+By **Nana Mouskouri**
 
 ![](../../assets/beetscovers/Nana_Mouskouri-Quétaine_Français.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Quétaine Français
-- Artist: Nana Mouskouri
-- Albumartist: Nana Mouskouri
-- Genre: Schlager
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Quétaine Français
+- **Artist:** Nana Mouskouri
+- **Albumartist:** Nana Mouskouri
+- **Genre:** Schlager
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 04 - McBroom / The Rose
+
+- **Artist:** Nana Mouskouri
+- **Format:** AAC
+- **Genre:** Schlager
+- **Length:** 3:21
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** McBroom / The Rose
+- **Track:** 04
+- **Year:** 0000
 

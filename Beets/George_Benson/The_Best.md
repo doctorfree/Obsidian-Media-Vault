@@ -13,20 +13,36 @@ year: 1976
 
 # The Best
 
-By George Benson
+By **George Benson**
 
 ![](../../assets/beetscovers/George_Benson-The_Best.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Best
-- Artist: George Benson
-- Albumartist: George Benson
-- Genre: Soul
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1976
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Best
+- **Artist:** George Benson
+- **Albumartist:** George Benson
+- **Genre:** Soul
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1976
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 17 - Golden Slumbers / You Never Give Me Your Money
+
+- **Artist:** George Benson
+- **Format:** AAC
+- **Genre:** Jazz
+- **Length:** 4:47
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Golden Slumbers / You Never Give Me Your Money
+- **Track:** 17
+- **Year:** 1969
 

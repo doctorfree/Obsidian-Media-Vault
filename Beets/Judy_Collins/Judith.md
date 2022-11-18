@@ -13,20 +13,36 @@ year: 1975
 
 # Judith
 
-By Judy Collins
+By **Judy Collins**
 
 ![](../../assets/beetscovers/Judy_Collins-Judith.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Judith
-- Artist: Judy Collins
-- Albumartist: Judy Collins
-- Genre: Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1975
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Judith
+- **Artist:** Judy Collins
+- **Albumartist:** Judy Collins
+- **Genre:** Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1975
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Mr Tambourine Man
+
+- **Artist:** Judy Collins
+- **Format:** MP3
+- **Genre:** Unknown
+- **Length:** 4:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Mr Tambourine Man
+- **Track:** 01
+- **Year:** 0000
 

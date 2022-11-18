@@ -13,20 +13,58 @@ year: 2013
 
 # Kissmas
 
-By Steve Jackson Five
+By **Steve Jackson Five**
 
 ![](../../assets/beetscovers/Steve_Jackson_Five-Kissmas.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Kissmas
-- Artist: Steve Jackson Five
-- Albumartist: Steve Jackson Five
-- Genre: Unknown
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2013
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Kissmas
+- **Artist:** Steve Jackson Five
+- **Albumartist:** Steve Jackson Five
+- **Genre:** Unknown
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2013
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - 00 - Dead-in-the-eye-GB-81416-7.31
+
+- **Artist:** Steve Jackson Five
+- **Format:** MP3
+- **Genre:** Unknown
+- **Length:** 3:35
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 00 - Dead-in-the-eye-GB-81416-7.31
+- **Track:** 00
+- **Year:** 0000
+
+### Track 00 - 00 - I-cant-decide-81416-11.13
+
+- **Artist:** Steve Jackson Five
+- **Format:** MP3
+- **Genre:** Unknown
+- **Length:** 3:48
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 00 - I-cant-decide-81416-11.13
+- **Track:** 00
+- **Year:** 0000
+
+### Track 00 - 00 - I-need-a-muse-GB-81416-7.58
+
+- **Artist:** Steve Jackson Five
+- **Format:** MP3
+- **Genre:** Unknown
+- **Length:** 3:59
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 00 - I-need-a-muse-GB-81416-7.58
+- **Track:** 00
+- **Year:** 0000
 

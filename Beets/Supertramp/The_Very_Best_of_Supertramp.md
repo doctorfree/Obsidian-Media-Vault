@@ -13,20 +13,36 @@ year: 2001
 
 # The Very Best of Supertramp
 
-By Supertramp
+By **Supertramp**
 
 ![](../../assets/beetscovers/Supertramp-The_Very_Best_of_Supertramp.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Very Best of Supertramp
-- Artist: Supertramp
-- Albumartist: Supertramp
-- Genre: Progressive Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2001
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Very Best of Supertramp
+- **Artist:** Supertramp
+- **Albumartist:** Supertramp
+- **Genre:** Progressive Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2001
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 15
+
+## Album Tracks
+
+### Track 03 - The Logical Song
+
+- **Artist:** Supertramp
+- **Format:** AAC
+- **Genre:** Progressive Rock
+- **Length:** 4:10
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Logical Song
+- **Track:** 03
+- **Year:** 2001
 

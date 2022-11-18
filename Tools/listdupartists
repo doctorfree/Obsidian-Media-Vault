@@ -1,0 +1,44 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+OUT="${TOP}/Tools"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+declare -a artists=()
+
+for artist in */*
+do
+  [ "${artist}" == "*/*" ] && continue
+  [ -d "${artist}" ] || continue
+  lowerartist=`echo "${artist}" | tr '[:upper:]' '[:lower:]'`
+  artists+=("${lowerartist}")
+done
+
+# declare -A values=()
+# for v in "${artists[@]}"; do
+#     if [ "${values["x$v"]+set}" = set ]; then
+#         echo "value '$v' is duplicate"
+#         break
+#     fi
+#     values["x$v"]=1
+# done
+# unset values
+
+# printf '%s\n' "${artists[@]}" | \
+#   awk -v q="'" '{ elmnt[$0]= ($0 in elmnt? elmnt[$0] FS:"") NR-1 } \
+#   END{ for (e in elmnt) print e, q elmnt[e] q }' OFS='='
+
+rm -f "${OUT}/lowerartistlist.txt"
+touch "${OUT}/lowerartistlist.txt"
+for i in "${artists[@]}"
+do
+  echo "$i" >> "${OUT}/lowerartistlist.txt"
+done
+
+sort "${OUT}/lowerartistlist.txt" | uniq -D > "${OUT}/dupartists.txt"

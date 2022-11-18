@@ -13,20 +13,47 @@ year: 0000
 
 # Unknown Album
 
-By The Four Aces
+By **The Four Aces**
 
 ![](../../assets/beetscovers/The_Four_Aces-Unknown_Album.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown Album
-- Artist: The Four Aces
-- Albumartist: The Four Aces
-- Genre: Ska
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown Album
+- **Artist:** The Four Aces
+- **Albumartist:** The Four Aces
+- **Genre:** Ska
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Moments to Remember
+
+- **Artist:** The Four Aces
+- **Format:** AAC
+- **Genre:** Ska
+- **Length:** 3:19
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Moments to Remember
+- **Track:** 00
+- **Year:** 0000
+
+### Track 01 - Tell Me Why
+
+- **Artist:** The Four Aces
+- **Format:** AAC
+- **Genre:** Chicago Blues
+- **Length:** 3:02
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Tell Me Why
+- **Track:** 01
+- **Year:** 0000
 

@@ -13,20 +13,135 @@ year: 1967
 
 # Procol Harum
 
-By Procol Harum
+By **Procol Harum**
 
 ![](../../assets/beetscovers/Procol_Harum-Procol_Harum.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Procol Harum
-- Artist: Procol Harum
-- Albumartist: Procol Harum
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 44119570-4d53-46e7-a447-bd18608c28d8
-- MusicBrainz Album ID: b2849add-bea5-4314-8511-ef3698218b1f
-- MusicBrainz Release Group ID: 59c4b156-e1f6-374c-a5e6-ea0ccd51d433
-- Year: 1967
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Procol Harum
+- **Artist:** Procol Harum
+- **Albumartist:** Procol Harum
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [44119570-4d53-46e7-a447-bd18608c28d8](https://musicbrainz.org/artist/44119570-4d53-46e7-a447-bd18608c28d8)
+- **MusicBrainz Album ID:** [b2849add-bea5-4314-8511-ef3698218b1f](https://musicbrainz.org/release/b2849add-bea5-4314-8511-ef3698218b1f)
+- **MusicBrainz Release Group ID:** [59c4b156-e1f6-374c-a5e6-ea0ccd51d433](https://musicbrainz.org/release-group/59c4b156-e1f6-374c-a5e6-ea0ccd51d433)
+- **Year:** 1967
+- **Catalog #:** DES 18008
+- **Label:** Deram
+- **Total Tracks:** 10
+
+## Album Tracks
+
+### Track 01 - A Whiter Shade of Pale
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 4:09
+- **MusicBrainz Track ID:** [57d17884-4645-43b4-bd55-f2b8717e12b5](https://musicbrainz.org/recording/57d17884-4645-43b4-bd55-f2b8717e12b5)
+- **Title:** A Whiter Shade of Pale
+- **Track:** 01
+- **Year:** 1967
+
+### Track 02 - She Wandered Through the Garden Fence
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:23
+- **MusicBrainz Track ID:** [6f9c0e80-4e36-4b0a-bff5-4cf13fd3a455](https://musicbrainz.org/recording/6f9c0e80-4e36-4b0a-bff5-4cf13fd3a455)
+- **Title:** She Wandered Through the Garden Fence
+- **Track:** 02
+- **Year:** 1967
+
+### Track 03 - Something Following Me
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:47
+- **MusicBrainz Track ID:** [3179524d-9f49-4536-9561-19c4db68e1a3](https://musicbrainz.org/recording/3179524d-9f49-4536-9561-19c4db68e1a3)
+- **Title:** Something Following Me
+- **Track:** 03
+- **Year:** 1967
+
+### Track 04 - Mabel
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Pop
+- **Length:** 1:57
+- **MusicBrainz Track ID:** [bf6ec6f8-1ee7-4319-8d77-f436f82a9110](https://musicbrainz.org/recording/bf6ec6f8-1ee7-4319-8d77-f436f82a9110)
+- **Title:** Mabel
+- **Track:** 04
+- **Year:** 1967
+
+### Track 05 - Cerdes (Outside the Gates Of)
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 5:14
+- **MusicBrainz Track ID:** [fae7fca3-4781-4363-81a1-9aa74d79145f](https://musicbrainz.org/recording/fae7fca3-4781-4363-81a1-9aa74d79145f)
+- **Title:** Cerdes (Outside the Gates Of)
+- **Track:** 05
+- **Year:** 1967
+
+### Track 06 - A Christmas Camel
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 4:54
+- **MusicBrainz Track ID:** [b00b3316-47b1-4479-8863-1a7388fbbcae](https://musicbrainz.org/recording/b00b3316-47b1-4479-8863-1a7388fbbcae)
+- **Title:** A Christmas Camel
+- **Track:** 06
+- **Year:** 1967
+
+### Track 07 - Conquistador
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 2:45
+- **MusicBrainz Track ID:** [63300aeb-7faf-459d-a3f8-fee76cfdc8d0](https://musicbrainz.org/recording/63300aeb-7faf-459d-a3f8-fee76cfdc8d0)
+- **Title:** Conquistador
+- **Track:** 07
+- **Year:** 1967
+
+### Track 08 - Kaleidoscope
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 2:58
+- **MusicBrainz Track ID:** [db49ac1d-73f6-4c76-ab76-d9972e50012a](https://musicbrainz.org/recording/db49ac1d-73f6-4c76-ab76-d9972e50012a)
+- **Title:** Kaleidoscope
+- **Track:** 08
+- **Year:** 1967
+
+### Track 09 - Salad Days (Are Here Again)
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:42
+- **MusicBrainz Track ID:** [0b8dcaa3-4578-4202-859b-5b03ea0f2f3b](https://musicbrainz.org/recording/0b8dcaa3-4578-4202-859b-5b03ea0f2f3b)
+- **Title:** Salad Days (Are Here Again)
+- **Track:** 09
+- **Year:** 1967
+
+### Track 10 - Repent Walpurgis
+
+- **Artist:** Procol Harum
+- **Format:** AAC
+- **Genre:** Psychedelic Rock
+- **Length:** 5:15
+- **MusicBrainz Track ID:** [6747ec80-a204-405b-8df5-ef91edd7ed56](https://musicbrainz.org/recording/6747ec80-a204-405b-8df5-ef91edd7ed56)
+- **Title:** Repent Walpurgis
+- **Track:** 10
+- **Year:** 1967
 

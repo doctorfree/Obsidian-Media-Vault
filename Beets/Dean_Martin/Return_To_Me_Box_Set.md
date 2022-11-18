@@ -13,20 +13,36 @@ year: 0000
 
 # Return To Me (Box Set)
 
-By Dean Martin
+By **Dean Martin**
 
 ![](../../assets/beetscovers/Dean_Martin-Return_To_Me_Box_Set.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Return To Me (Box Set)
-- Artist: Dean Martin
-- Albumartist: Dean Martin
-- Genre: Swing
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Return To Me (Box Set)
+- **Artist:** Dean Martin
+- **Albumartist:** Dean Martin
+- **Genre:** Swing
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 21 - Cindy V2 (with Ricky Nelson & Walter Brennan)
+
+- **Artist:** Dean Martin
+- **Format:** AAC
+- **Genre:** Swing
+- **Length:** 1:19
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Cindy V2 (with Ricky Nelson & Walter Brennan)
+- **Track:** 21
+- **Year:** 0000
 

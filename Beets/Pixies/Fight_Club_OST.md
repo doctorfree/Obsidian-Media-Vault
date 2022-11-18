@@ -13,20 +13,36 @@ year: 1999
 
 # Fight Club OST
 
-By Pixies
+By **Pixies**
 
 ![](../../assets/beetscovers/Pixies-Fight_Club_OST.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Fight Club OST
-- Artist: Pixies
-- Albumartist: Pixies
-- Genre: Alternative Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1999
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Fight Club OST
+- **Artist:** Pixies
+- **Albumartist:** Pixies
+- **Genre:** Alternative Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1999
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Where Is My Mind?
+
+- **Artist:** Pixies
+- **Format:** AAC
+- **Genre:** Indie Rock
+- **Length:** 3:49
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Where Is My Mind?
+- **Track:** 01
+- **Year:** 1999
 

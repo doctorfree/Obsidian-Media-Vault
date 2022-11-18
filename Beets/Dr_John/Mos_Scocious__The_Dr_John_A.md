@@ -13,18 +13,34 @@ year: 0000
 
 # Mos' Scocious_ The Dr. John A
 
-By Dr. John
+By **Dr. John**
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Mos' Scocious_ The Dr. John A
-- Artist: Dr. John
-- Albumartist: Dr. John
-- Genre: Soul
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Mos' Scocious_ The Dr. John A
+- **Artist:** Dr. John
+- **Albumartist:** Dr. John
+- **Genre:** Soul
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Loop Garoo
+
+- **Artist:** Dr. John
+- **Format:** AAC
+- **Genre:** Funk
+- **Length:** 4:43
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Loop Garoo
+- **Track:** 00
+- **Year:** 0000
 

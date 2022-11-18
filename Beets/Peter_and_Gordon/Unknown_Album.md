@@ -13,20 +13,36 @@ year: 0000
 
 # Unknown Album
 
-By Peter & Gordon
+By **Peter & Gordon**
 
 ![](../../assets/beetscovers/Peter_and_Gordon-Unknown_Album.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown Album
-- Artist: Peter & Gordon
-- Albumartist: Peter & Gordon
-- Genre: Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown Album
+- **Artist:** Peter & Gordon
+- **Albumartist:** Peter & Gordon
+- **Genre:** Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - World Without Love
+
+- **Artist:** Peter & Gordon
+- **Format:** AAC
+- **Genre:** Rock
+- **Length:** 2:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** World Without Love
+- **Track:** 00
+- **Year:** 0000
 

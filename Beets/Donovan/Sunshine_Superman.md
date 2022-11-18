@@ -13,20 +13,146 @@ year: 1990
 
 # Sunshine Superman
 
-By Donovan
+By **Donovan**
 
 ![](../../assets/beetscovers/Donovan-Sunshine_Superman.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Sunshine Superman
-- Artist: Donovan
-- Albumartist: Donovan
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 72d7d717-0837-4f2a-9641-d0f9fdd3acf7
-- MusicBrainz Album ID: 1e8417b0-6a00-3f7e-be06-f92a8c4dadb9
-- MusicBrainz Release Group ID: 092eedd3-b8e2-33a6-8a9b-e9788e060886
-- Year: 1990
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Sunshine Superman
+- **Artist:** Donovan
+- **Albumartist:** Donovan
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [72d7d717-0837-4f2a-9641-d0f9fdd3acf7](https://musicbrainz.org/artist/72d7d717-0837-4f2a-9641-d0f9fdd3acf7)
+- **MusicBrainz Album ID:** [1e8417b0-6a00-3f7e-be06-f92a8c4dadb9](https://musicbrainz.org/release/1e8417b0-6a00-3f7e-be06-f92a8c4dadb9)
+- **MusicBrainz Release Group ID:** [092eedd3-b8e2-33a6-8a9b-e9788e060886](https://musicbrainz.org/release-group/092eedd3-b8e2-33a6-8a9b-e9788e060886)
+- **Year:** 1990
+- **Catalog #:** 
+- **Label:** Sony
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Sunshine Superman
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:33
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Sunshine Superman
+- **Track:** 01
+- **Year:** 2000
+
+### Track 02 - Mellow Yellow
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 3:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Mellow Yellow
+- **Track:** 02
+- **Year:** 2000
+
+### Track 03 - To Susan on the West Coast Waiting
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 3:12
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** To Susan on the West Coast Waiting
+- **Track:** 03
+- **Year:** 2000
+
+### Track 04 - Lalena
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 2:55
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Lalena
+- **Track:** 04
+- **Year:** 2000
+
+### Track 05 - Atlantis
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 4:59
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Atlantis
+- **Track:** 05
+- **Year:** 2000
+
+### Track 06 - Atlantis
+
+- **Artist:** Donovan
+- **Format:** ALAC
+- **Genre:** Folk Rock
+- **Length:** 4:59
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Atlantis
+- **Track:** 06
+- **Year:** 2000
+
+### Track 07 - The Trip
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:34
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Trip
+- **Track:** 07
+- **Year:** 2000
+
+### Track 08 - Guinevere
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Guinevere
+- **Track:** 08
+- **Year:** 2000
+
+### Track 09 - Writer in the Sun
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:28
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Writer in the Sun
+- **Track:** 09
+- **Year:** 2000
+
+### Track 10 - Cosmic Wheels
+
+- **Artist:** Donovan
+- **Format:** MP3
+- **Genre:** Psychedelic Pop
+- **Length:** 4:02
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Cosmic Wheels
+- **Track:** 10
+- **Year:** 2000
+
+### Track 06 - Barabajagal (Love Is Hot)
+
+- **Artist:** Donovan/Group/Jeff Beck
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 3:19
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Barabajagal (Love Is Hot)
+- **Track:** 06
+- **Year:** 2000
 

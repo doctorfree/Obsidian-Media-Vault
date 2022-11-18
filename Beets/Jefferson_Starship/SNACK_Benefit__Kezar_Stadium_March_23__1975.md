@@ -13,20 +13,124 @@ year: 1975
 
 # SNACK Benefit, Kezar Stadium March 23, 1975
 
-By Jefferson Starship
+By **Jefferson Starship**
 
 ![](../../assets/beetscovers/Jefferson_Starship-SNACK_Benefit__Kezar_Stadium_March_23__1975.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: SNACK Benefit, Kezar Stadium March 23, 1975
-- Artist: Jefferson Starship
-- Albumartist: Jefferson Starship
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1975
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** SNACK Benefit, Kezar Stadium March 23, 1975
+- **Artist:** Jefferson Starship
+- **Albumartist:** Jefferson Starship
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1975
+- **Catalog #:** 07863
+- **Label:** RCA
+- **Total Tracks:** 09
+
+## Album Tracks
+
+### Track 01 - Cruisin'
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 5:31
+- **MusicBrainz Track ID:** [b37591ac-053d-434a-a857-159332cb459b](https://musicbrainz.org/recording/b37591ac-053d-434a-a857-159332cb459b)
+- **Title:** Cruisin'
+- **Track:** 01
+- **Year:** 1997
+
+### Track 02 - Dance With the Dragon
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 5:03
+- **MusicBrainz Track ID:** [ddf1ad4c-a0e7-4b0b-95b3-592ab19e1a4b](https://musicbrainz.org/recording/ddf1ad4c-a0e7-4b0b-95b3-592ab19e1a4b)
+- **Title:** Dance With the Dragon
+- **Track:** 02
+- **Year:** 1997
+
+### Track 03 - Hot Water
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:18
+- **MusicBrainz Track ID:** [fb6f9c2d-e6d4-4ec0-873a-4eb16bfb01df](https://musicbrainz.org/recording/fb6f9c2d-e6d4-4ec0-873a-4eb16bfb01df)
+- **Title:** Hot Water
+- **Track:** 03
+- **Year:** 1997
+
+### Track 04 - St. Charles
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Soft Rock
+- **Length:** 6:43
+- **MusicBrainz Track ID:** [61ebfef3-0f40-4b34-a34b-dd23830fc133](https://musicbrainz.org/recording/61ebfef3-0f40-4b34-a34b-dd23830fc133)
+- **Title:** St. Charles
+- **Track:** 04
+- **Year:** 1997
+
+### Track 05 - Song to the Sun / Ozymandias / Don't Let It Rain
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 7:18
+- **MusicBrainz Track ID:** [7cfcf56c-8b6a-4f01-afda-1b0cdd277cdd](https://musicbrainz.org/recording/7cfcf56c-8b6a-4f01-afda-1b0cdd277cdd)
+- **Title:** Song to the Sun / Ozymandias / Don't Let It Rain
+- **Track:** 05
+- **Year:** 1997
+
+### Track 06 - With Your Love
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:39
+- **MusicBrainz Track ID:** [71730074-e6c4-41b9-a1e4-12d86664206c](https://musicbrainz.org/recording/71730074-e6c4-41b9-a1e4-12d86664206c)
+- **Title:** With Your Love
+- **Track:** 06
+- **Year:** 1997
+
+### Track 07 - Switchblade
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Rock
+- **Length:** 4:01
+- **MusicBrainz Track ID:** [d863db3c-c59d-472d-b039-5bfc9c741e55](https://musicbrainz.org/recording/d863db3c-c59d-472d-b039-5bfc9c741e55)
+- **Title:** Switchblade
+- **Track:** 07
+- **Year:** 1997
+
+### Track 08 - Big City
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:24
+- **MusicBrainz Track ID:** [e4dfd833-92ad-416a-9ae4-e0edc9d3b4d3](https://musicbrainz.org/recording/e4dfd833-92ad-416a-9ae4-e0edc9d3b4d3)
+- **Title:** Big City
+- **Track:** 08
+- **Year:** 1997
+
+### Track 09 - Love Lovely Love
+
+- **Artist:** Jefferson Starship
+- **Format:** ALAC
+- **Genre:** Psychedelic Rock
+- **Length:** 3:32
+- **MusicBrainz Track ID:** [d133dd27-5a40-416c-b6d0-533549521029](https://musicbrainz.org/recording/d133dd27-5a40-416c-b6d0-533549521029)
+- **Title:** Love Lovely Love
+- **Track:** 09
+- **Year:** 1997
 

@@ -13,20 +13,36 @@ year: 0000
 
 # Beats The Hell Out Of Me
 
-By Beats The Hell Out Of Me
+By **Beats The Hell Out Of Me**
 
 ![](../../assets/beetscovers/Beats_The_Hell_Out_Of_Me-Beats_The_Hell_Out_Of_Me.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Beats The Hell Out Of Me
-- Artist: Beats The Hell Out Of Me
-- Albumartist: Beats The Hell Out Of Me
-- Genre: Alternative Metal
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Beats The Hell Out Of Me
+- **Artist:** Beats The Hell Out Of Me
+- **Albumartist:** Beats The Hell Out Of Me
+- **Genre:** Alternative Metal
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 16 - Buzz
+
+- **Artist:** Beats The Hell Out Of Me
+- **Format:** MP3
+- **Genre:** Alternative Metal
+- **Length:** 3:46
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Buzz
+- **Track:** 16
+- **Year:** 0000
 

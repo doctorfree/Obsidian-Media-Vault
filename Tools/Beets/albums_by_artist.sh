@@ -19,6 +19,7 @@
 BEETS="../../Beets"
 INPUT="../../../Beets"
 MDN="Beets_Albums_by_Artist.md"
+MBURL="https://musicbrainz.org"
 
 echo "# Beets Albums by Artist" > ${MDN}
 echo "" >> ${MDN}
@@ -56,6 +57,7 @@ do
   echo "" >> ${MDN}
   album=
   albumartist=
+  albumpath=
   cat "${TXT}" | while read line
   do
     end=
@@ -64,6 +66,7 @@ do
     if [ "${marker}" ]
     then
       type="album"
+      albumpath="${line}"
     else
       echo ${line} | grep "^END" > /dev/null && end=1
       if [ "${end}" ]
@@ -147,7 +150,7 @@ do
         echo "" >> "${BEETS}/${artistdir}/${filename}.md"
         echo "# ${album}" >> "${BEETS}/${artistdir}/${filename}.md"
         echo "" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "By ${albumartist}" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "By **${albumartist}**" >> "${BEETS}/${artistdir}/${filename}.md"
         echo "" >> "${BEETS}/${artistdir}/${filename}.md"
         suff=png
         [ -f "${artpath}" ] && {
@@ -166,20 +169,134 @@ do
         }
         echo "## Album Data" >> "${BEETS}/${artistdir}/${filename}.md"
         echo "" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- Catalog: ${catalog}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- Format: ${format}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- Album: ${album}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- Artist: ${artist}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- Albumartist: ${albumartist}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- Genre: ${genre}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- MusicBrainz Album Artist ID: ${mb_albumartistid}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- MusicBrainz Album ID: ${mb_albumid}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- MusicBrainz Release Group ID: ${mb_releasegroupid}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "- Year: ${year}" >> "${BEETS}/${artistdir}/${filename}.md"
-        echo "" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **Catalog:** ${catalog}" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **Format:** ${format}" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **Album:** ${album}" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **Artist:** ${artist}" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **Albumartist:** ${albumartist}" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **Genre:** ${genre}" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **MusicBrainz Album Artist ID:** [${mb_albumartistid}](${MBURL}/artist/${mb_albumartistid})" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **MusicBrainz Album ID:** [${mb_albumid}](${MBURL}/release/${mb_albumid})" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **MusicBrainz Release Group ID:** [${mb_releasegroupid}](${MBURL}/release-group/${mb_releasegroupid})" >> "${BEETS}/${artistdir}/${filename}.md"
+        echo "- **Year:** ${year}" >> "${BEETS}/${artistdir}/${filename}.md"
+        TRACKS="/tmp/tracks$$"
+        beet info --library \
+          --include-keys=album,albumartist,artist,catalognum,format,genre,label,length,title,track,tracktotal,year,mb_trackid \
+          albumartist:"${albumartist}" \
+          path:"${albumpath}" > ${TRACKS}
+        echo "END" >> ${TRACKS}
+        [ -f "${TRACKS}" ] || {
+          echo "Missing track info for artist/album ${albumartist}/${album}. Skipping."
+          continue
+        }
+        first=1
+        cat "${TRACKS}" | while read trackline
+        do
+          trackend=
+          trackmarker=
+          echo ${trackline} | grep "^/u/audio/Music/" > /dev/null && trackmarker=1
+          if [ "${trackmarker}" ]
+          then
+            tracktype="track"
+          else
+            echo ${trackline} | grep "^END" > /dev/null && trackend=1
+            if [ "${trackend}" ]
+            then
+              tracktype=trackend
+            else
+              tracktype="key"
+              trackkey=`echo ${trackline} | awk -F ':' ' { print $1 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+              case "${trackkey}" in
+                album)
+                  album=`echo ${trackline} | awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                albumartist)
+                  trackalbumartist=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                artist)
+                  artist=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                genre)
+                  genre=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                catalognum)
+                  catalognum=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                format)
+                  format=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                label)
+                  label=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                length)
+                  length=`echo ${trackline} | \
+                    awk '{for(i=2;i<=NF;i++){ printf("%s",( (i>2) ? OFS : "" ) $i) } ;}'`
+                  ;;
+                mb_trackid)
+                  mb_trackid=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                title)
+                  title=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                track)
+                  track=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                tracktotal)
+                  tracktotal=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                year)
+                  year=`echo ${trackline} | \
+                    awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+                  ;;
+                *)
+                  continue
+                  ;;
+              esac
+            fi
+          fi
+          if [ "${tracktype}" == "track" ] || [ "${tracktype}" == "trackend" ]
+          then
+            [ "${trackalbumartist}" ] && {
+              [ "${first}" ] && {
+                echo "- **Catalog #:** ${catalognum}" >> "${BEETS}/${artistdir}/${filename}.md"
+                echo "- **Label:** ${label}" >> "${BEETS}/${artistdir}/${filename}.md"
+                echo "- **Total Tracks:** ${tracktotal}" >> "${BEETS}/${artistdir}/${filename}.md"
+                echo "" >> "${BEETS}/${artistdir}/${filename}.md"
+                echo "## Album Tracks" >> "${BEETS}/${artistdir}/${filename}.md"
+                echo "" >> "${BEETS}/${artistdir}/${filename}.md"
+                first=
+              }
+              echo "### Track ${track} - ${title}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **Artist:** ${artist}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **Format:** ${format}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **Genre:** ${genre}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **Length:** ${length}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **MusicBrainz Track ID:** [${mb_trackid}](${MBURL}/recording/${mb_trackid})" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **Title:** ${title}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **Track:** ${track}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "- **Year:** ${year}" >> "${BEETS}/${artistdir}/${filename}.md"
+              echo "" >> "${BEETS}/${artistdir}/${filename}.md"
+            }
+          else
+            continue
+          fi
+        done
+        rm -f ${TRACKS}
       }
     else
       continue
     fi
   done
 done
+

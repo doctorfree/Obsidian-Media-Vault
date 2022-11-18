@@ -13,20 +13,69 @@ year: 2015
 
 # GOASTT Stories
 
-By The Ghost Of A Saber Tooth Tiger
+By **The Ghost Of A Saber Tooth Tiger**
 
 ![](../../assets/beetscovers/The_Ghost_Of_A_Saber_Tooth_Tiger-GOASTT_Stories.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: GOASTT Stories
-- Artist: The Ghost Of A Saber Tooth Tiger
-- Albumartist: The Ghost Of A Saber Tooth Tiger
-- Genre: Indie Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2015
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** GOASTT Stories
+- **Artist:** The Ghost Of A Saber Tooth Tiger
+- **Albumartist:** The Ghost Of A Saber Tooth Tiger
+- **Genre:** Indie Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2015
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 04
+
+## Album Tracks
+
+### Track 01 - 01 - 01 Cassanova__revised 12-10
+
+- **Artist:** The Ghost Of A Saber Tooth Tiger
+- **Format:** MP3
+- **Genre:** Indie Pop
+- **Length:** 4:54
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 01 - 01 Cassanova__revised 12-10
+- **Track:** 01
+- **Year:** 2015
+
+### Track 02 - 02 - 02 India__ref of 12-04
+
+- **Artist:** The Ghost Of A Saber Tooth Tiger
+- **Format:** MP3
+- **Genre:** Indie Pop
+- **Length:** 5:02
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 02 - 02 India__ref of 12-04
+- **Track:** 02
+- **Year:** 2015
+
+### Track 03 - 03 - 03 Pierrot__ref of 12-04
+
+- **Artist:** The Ghost Of A Saber Tooth Tiger
+- **Format:** MP3
+- **Genre:** Indie Pop
+- **Length:** 3:56
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 03 - 03 Pierrot__ref of 12-04
+- **Track:** 03
+- **Year:** 2015
+
+### Track 04 - 04 - 04 Richard Brown__revised 12-10
+
+- **Artist:** The Ghost Of A Saber Tooth Tiger
+- **Format:** MP3
+- **Genre:** Indie Pop
+- **Length:** 4:30
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 04 - 04 Richard Brown__revised 12-10
+- **Track:** 04
+- **Year:** 2015
 

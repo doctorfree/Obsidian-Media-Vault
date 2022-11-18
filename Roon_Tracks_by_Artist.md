@@ -7523,7 +7523,7 @@
 4. Excuse Me (I Think I've Got a Heartache) - Sirius Session
 5. Ruby Don't Take Your Love to Town - Non-album track
 
-### Cake on album Up n Down
+### CAKE on album Up n Down
 
 1. Intro
 2. Party on Bitches

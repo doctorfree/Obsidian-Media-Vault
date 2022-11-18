@@ -13,20 +13,179 @@ year: 2005
 
 # Twin Cinema
 
-By The New Pornographers
+By **The New Pornographers**
 
 ![](../../assets/beetscovers/The_New_Pornographers-Twin_Cinema.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Twin Cinema
-- Artist: The New Pornographers
-- Albumartist: The New Pornographers
-- Genre: Indie Rock
-- MusicBrainz Album Artist ID: https
-- MusicBrainz Album ID: https
-- MusicBrainz Release Group ID: 
-- Year: 2005
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Twin Cinema
+- **Artist:** The New Pornographers
+- **Albumartist:** The New Pornographers
+- **Genre:** Indie Rock
+- **MusicBrainz Album Artist ID:** [https](https://musicbrainz.org/artist/https)
+- **MusicBrainz Album ID:** [https](https://musicbrainz.org/release/https)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2005
+- **Catalog #:** 
+- **Label:** Matador Records
+- **Total Tracks:** 14
+
+## Album Tracks
+
+### Track 01 - Twin Cinema
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 2:59
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Twin Cinema
+- **Track:** 01
+- **Year:** 2005
+
+### Track 02 - The Bones Of An Idol
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 2:51
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** The Bones Of An Idol
+- **Track:** 02
+- **Year:** 2005
+
+### Track 03 - Use It
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 3:26
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Use It
+- **Track:** 03
+- **Year:** 2005
+
+### Track 04 - The Bleeding Heart Show
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 4:27
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** The Bleeding Heart Show
+- **Track:** 04
+- **Year:** 2005
+
+### Track 05 - Jackie, Dressed In Cobras
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 3:06
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Jackie, Dressed In Cobras
+- **Track:** 05
+- **Year:** 2005
+
+### Track 06 - The Jessica Numbers
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 3:06
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** The Jessica Numbers
+- **Track:** 06
+- **Year:** 2005
+
+### Track 07 - These Are The Fables
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 3:29
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** These Are The Fables
+- **Track:** 07
+- **Year:** 2005
+
+### Track 08 - Sing Me Spanish Techno
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 4:16
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Sing Me Spanish Techno
+- **Track:** 08
+- **Year:** 2005
+
+### Track 09 - Falling Through Your Clothes
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 2:53
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Falling Through Your Clothes
+- **Track:** 09
+- **Year:** 2005
+
+### Track 10 - Broken Beads
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 3:00
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Broken Beads
+- **Track:** 10
+- **Year:** 2005
+
+### Track 11 - Three Or Four
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 3:07
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Three Or Four
+- **Track:** 11
+- **Year:** 2005
+
+### Track 12 - Star Bodies
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 4:07
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Star Bodies
+- **Track:** 12
+- **Year:** 2005
+
+### Track 13 - Streets Of Fire
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 2:41
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Streets Of Fire
+- **Track:** 13
+- **Year:** 2005
+
+### Track 14 - Stacked Crooked
+
+- **Artist:** The New Pornographers
+- **Format:** ALAC
+- **Genre:** Indie Rock
+- **Length:** 4:18
+- **MusicBrainz Track ID:** [https](https://musicbrainz.org/recording/https)
+- **Title:** Stacked Crooked
+- **Track:** 14
+- **Year:** 2005
 

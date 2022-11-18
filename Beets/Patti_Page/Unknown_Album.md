@@ -13,20 +13,36 @@ year: 0000
 
 # Unknown Album
 
-By Patti Page
+By **Patti Page**
 
 ![](../../assets/beetscovers/Patti_Page-Unknown_Album.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown Album
-- Artist: Patti Page
-- Albumartist: Patti Page
-- Genre: Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown Album
+- **Artist:** Patti Page
+- **Albumartist:** Patti Page
+- **Genre:** Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Tennessee Waltz
+
+- **Artist:** Patti Page
+- **Format:** AAC
+- **Genre:** Jazz
+- **Length:** 3:07
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Tennessee Waltz
+- **Track:** 00
+- **Year:** 0000
 

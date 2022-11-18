@@ -13,20 +13,36 @@ year: 2005
 
 # MP3
 
-By James McMurtry
+By **James McMurtry**
 
 ![](../../assets/beetscovers/James_Mcmurtry-MP3.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: MP3
-- Artist: James Mcmurtry
-- Albumartist: James McMurtry
-- Genre: Country Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2005
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** MP3
+- **Artist:** James Mcmurtry
+- **Albumartist:** James McMurtry
+- **Genre:** Country Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2005
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - We Can't Make It Here
+
+- **Artist:** James McMurtry
+- **Format:** MP3
+- **Genre:** Americana
+- **Length:** 5:21
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** We Can't Make It Here
+- **Track:** 01
+- **Year:** 0000
 

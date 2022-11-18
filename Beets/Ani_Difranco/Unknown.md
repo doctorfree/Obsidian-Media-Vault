@@ -13,20 +13,36 @@ year: 0000
 
 # Unknown
 
-By Ani DiFranco
+By **Ani DiFranco**
 
 ![](../../assets/beetscovers/Ani_Difranco-Unknown.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown
-- Artist: Ani Difranco
-- Albumartist: Ani DiFranco
-- Genre: Folk Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown
+- **Artist:** Ani Difranco
+- **Albumartist:** Ani DiFranco
+- **Genre:** Folk Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Hurricane
+
+- **Artist:** Ani DiFranco
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 7:07
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Hurricane
+- **Track:** 00
+- **Year:** 0000
 

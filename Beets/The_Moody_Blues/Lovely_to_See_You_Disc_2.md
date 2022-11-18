@@ -13,20 +13,245 @@ year: 2005
 
 # Lovely to See You Disc 2
 
-By The Moody Blues
+By **The Moody Blues**
 
 ![](../../assets/beetscovers/The_Moody_Blues-Lovely_to_See_You_Disc_2.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Lovely to See You Disc 2
-- Artist: The Moody Blues
-- Albumartist: The Moody Blues
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2005
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Lovely to See You Disc 2
+- **Artist:** The Moody Blues
+- **Albumartist:** The Moody Blues
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2005
+- **Catalog #:** 
+- **Label:** Polydor
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 04 - Tuesday Afternoon (Forever Afternoon)
+
+- **Artist:** London Festival Orchestra/The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:46
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Tuesday Afternoon (Forever Afternoon)
+- **Track:** 04
+- **Year:** 1994
+
+### Track 05 - Nights in White Satin
+
+- **Artist:** London Festival Orchestra/The Moody Blues
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 7:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Nights in White Satin
+- **Track:** 05
+- **Year:** 1994
+
+### Track 01 - Fly Me High
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Sunshine Pop
+- **Length:** 2:54
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Fly Me High
+- **Track:** 01
+- **Year:** 1994
+
+### Track 02 - Love and Beauty
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 2:24
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Love and Beauty
+- **Track:** 02
+- **Year:** 1994
+
+### Track 03 - Cities
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 2:22
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Cities
+- **Track:** 03
+- **Year:** 1994
+
+### Track 06 - Ride My See-Saw
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:22
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Ride My See-Saw
+- **Track:** 06
+- **Year:** 1994
+
+### Track 07 - Legend of a Mind
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 6:35
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Legend of a Mind
+- **Track:** 07
+- **Year:** 1994
+
+### Track 08 - House of Four Doors
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 6:00
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** House of Four Doors
+- **Track:** 08
+- **Year:** 1994
+
+### Track 09 - Voices in the Sky
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 3:29
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Voices in the Sky
+- **Track:** 09
+- **Year:** 1994
+
+### Track 10 - The Best Way to Travel
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Acid Rock
+- **Length:** 3:13
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Best Way to Travel
+- **Track:** 10
+- **Year:** 1994
+
+### Track 11 - The Actor
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Actor
+- **Track:** 11
+- **Year:** 1994
+
+### Track 12 - In the Beginning
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 2:07
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** In the Beginning
+- **Track:** 12
+- **Year:** 1994
+
+### Track 13 - Lovely to See You
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 2:34
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Lovely to See You
+- **Track:** 13
+- **Year:** 1994
+
+### Track 14 - Dear Diary
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 3:56
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Dear Diary
+- **Track:** 14
+- **Year:** 1994
+
+### Track 15 - Never Comes the Day
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Psychedelic Pop
+- **Length:** 4:40
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Never Comes the Day
+- **Track:** 15
+- **Year:** 1994
+
+### Track 16 - Are You Sitting Comfortably?
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 3:28
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Are You Sitting Comfortably?
+- **Track:** 16
+- **Year:** 1994
+
+### Track 17 - The Dream
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 0:52
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Dream
+- **Track:** 17
+- **Year:** 1994
+
+### Track 18 - Have You Heard, Pt. 1
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 2:19
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Have You Heard, Pt. 1
+- **Track:** 18
+- **Year:** 1994
+
+### Track 19 - The Voyage
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 3:12
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Voyage
+- **Track:** 19
+- **Year:** 1994
+
+### Track 20 - Have You Heard, Pt. 2
+
+- **Artist:** The Moody Blues
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 2:38
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Have You Heard, Pt. 2
+- **Track:** 20
+- **Year:** 1994
 

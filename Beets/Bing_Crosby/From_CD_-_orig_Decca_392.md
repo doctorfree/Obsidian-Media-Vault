@@ -13,20 +13,36 @@ year: 1935
 
 # From CD - orig. Decca 392
 
-By Bing Crosby
+By **Bing Crosby**
 
 ![](../../assets/beetscovers/Bing_Crosby-From_CD_-_orig_Decca_392.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: From CD - orig. Decca 392
-- Artist: Bing Crosby
-- Albumartist: Bing Crosby
-- Genre: Swing
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1935
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** From CD - orig. Decca 392
+- **Artist:** Bing Crosby
+- **Albumartist:** Bing Crosby
+- **Genre:** Swing
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1935
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Soon
+
+- **Artist:** Bing Crosby/Georgie Stoll
+- **Format:** ALAC
+- **Genre:** Swing
+- **Length:** 3:02
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Soon
+- **Track:** 00
+- **Year:** 1935
 

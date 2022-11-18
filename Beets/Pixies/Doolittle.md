@@ -13,20 +13,36 @@ year: 1989
 
 # Doolittle
 
-By Pixies
+By **Pixies**
 
 ![](../../assets/beetscovers/Pixies-Doolittle.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Doolittle
-- Artist: Pixies
-- Albumartist: Pixies
-- Genre: Noise Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1989
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Doolittle
+- **Artist:** Pixies
+- **Albumartist:** Pixies
+- **Genre:** Noise Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1989
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Where Is My Mind?
+
+- **Artist:** Pixies
+- **Format:** AAC
+- **Genre:** Indie Rock
+- **Length:** 3:49
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Where Is My Mind?
+- **Track:** 01
+- **Year:** 1999
 

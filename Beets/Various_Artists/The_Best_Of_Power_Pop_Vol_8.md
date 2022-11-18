@@ -13,20 +13,36 @@ year: 2010
 
 # The Best Of Power Pop Vol. 8
 
-By Various Artists
+By **Various Artists**
 
 ![](../../assets/beetscovers/Various_Artists-The_Best_Of_Power_Pop_Vol_8.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Best Of Power Pop Vol. 8
-- Artist: Various Artists
-- Albumartist: Various Artists
-- Genre: Indie Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2010
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Best Of Power Pop Vol. 8
+- **Artist:** Various Artists
+- **Albumartist:** Various Artists
+- **Genre:** Indie Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2010
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 02 - Do Wah Diddy Diddy
+
+- **Artist:** Manfred Mann
+- **Format:** AAC
+- **Genre:** Rock
+- **Length:** 2:22
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Do Wah Diddy Diddy
+- **Track:** 02
+- **Year:** 1988
 

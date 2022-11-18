@@ -13,20 +13,36 @@ year: 1994
 
 # Red Rocks 11.June.94
 
-By Phish
+By **Phish**
 
 ![](../../assets/beetscovers/Phish-Red_Rocks_11June94.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Red Rocks 11.June.94
-- Artist: Phish
-- Albumartist: Phish
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1994
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Red Rocks 11.June.94
+- **Artist:** Phish
+- **Albumartist:** Phish
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1994
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Morrison, CO
+
+- **Artist:** Phish
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 40:52
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Morrison, CO
+- **Track:** 00
+- **Year:** 1994
 

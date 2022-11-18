@@ -13,20 +13,36 @@ year: 1974
 
 # The John Denver Collection, Vol. 4
 
-By John Denver
+By **John Denver**
 
 ![](../../assets/beetscovers/John_Denver-The_John_Denver_Collection__Vol_4.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The John Denver Collection, Vol. 4
-- Artist: John Denver
-- Albumartist: John Denver
-- Genre: Country
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1974
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The John Denver Collection, Vol. 4
+- **Artist:** John Denver
+- **Albumartist:** John Denver
+- **Genre:** Country
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1974
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Take Me Home Country Roads
+
+- **Artist:** John Denver
+- **Format:** AAC
+- **Genre:** Classic Country
+- **Length:** 3:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Take Me Home Country Roads
+- **Track:** 00
+- **Year:** 1971
 

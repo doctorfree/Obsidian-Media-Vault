@@ -13,20 +13,36 @@ year: 0000
 
 # Ophelia
 
-By Natalie Merchant
+By **Natalie Merchant**
 
 ![](../../assets/beetscovers/Natalie_Merchant-Ophelia.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Ophelia
-- Artist: Natalie Merchant
-- Albumartist: Natalie Merchant
-- Genre: Indie Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Ophelia
+- **Artist:** Natalie Merchant
+- **Albumartist:** Natalie Merchant
+- **Genre:** Indie Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - San Andreas Fault
+
+- **Artist:** Natalie Merchant
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:58
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** San Andreas Fault
+- **Track:** 01
+- **Year:** 0000
 

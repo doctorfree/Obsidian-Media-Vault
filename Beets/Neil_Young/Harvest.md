@@ -13,20 +13,135 @@ year: 2002
 
 # Harvest
 
-By Neil Young
+By **Neil Young**
 
 ![](../../assets/beetscovers/Neil_Young-Harvest.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Harvest
-- Artist: Neil Young
-- Albumartist: Neil Young
-- Genre: Folk Rock
-- MusicBrainz Album Artist ID: 75167b8b-44e4-407b-9d35-effe87b223cf
-- MusicBrainz Album ID: b028a5c0-7b62-4276-adb4-edb05777ccbf
-- MusicBrainz Release Group ID: b25419cf-71bf-3a54-8cd4-2161c61056a0
-- Year: 2002
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Harvest
+- **Artist:** Neil Young
+- **Albumartist:** Neil Young
+- **Genre:** Folk Rock
+- **MusicBrainz Album Artist ID:** [75167b8b-44e4-407b-9d35-effe87b223cf](https://musicbrainz.org/artist/75167b8b-44e4-407b-9d35-effe87b223cf)
+- **MusicBrainz Album ID:** [b028a5c0-7b62-4276-adb4-edb05777ccbf](https://musicbrainz.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf)
+- **MusicBrainz Release Group ID:** [b25419cf-71bf-3a54-8cd4-2161c61056a0](https://musicbrainz.org/release-group/b25419cf-71bf-3a54-8cd4-2161c61056a0)
+- **Year:** 2002
+- **Catalog #:** 6317-2
+- **Label:** Reprise Records
+- **Total Tracks:** 10
+
+## Album Tracks
+
+### Track 01 - The Emperor of Wyoming
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Folk Rock
+- **Length:** 2:17
+- **MusicBrainz Track ID:** [bd0e5922-bd3e-403e-bce6-0e24dcf191fd](https://musicbrainz.org/recording/bd0e5922-bd3e-403e-bce6-0e24dcf191fd)
+- **Title:** The Emperor of Wyoming
+- **Track:** 01
+- **Year:** 1986
+
+### Track 02 - The Loner
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Folk Rock
+- **Length:** 3:50
+- **MusicBrainz Track ID:** [ab4137a5-146b-4093-8736-1811ef18a105](https://musicbrainz.org/recording/ab4137a5-146b-4093-8736-1811ef18a105)
+- **Title:** The Loner
+- **Track:** 02
+- **Year:** 1986
+
+### Track 03 - If I Could Have Her Tonight
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Folk Rock
+- **Length:** 2:20
+- **MusicBrainz Track ID:** [93e5bc8e-ac11-417c-84ea-530d30fc4c6e](https://musicbrainz.org/recording/93e5bc8e-ac11-417c-84ea-530d30fc4c6e)
+- **Title:** If I Could Have Her Tonight
+- **Track:** 03
+- **Year:** 1986
+
+### Track 04 - I've Been Waiting for You
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Folk Rock
+- **Length:** 2:33
+- **MusicBrainz Track ID:** [764bba61-bbac-40fd-a512-a2a9acbdeb1b](https://musicbrainz.org/recording/764bba61-bbac-40fd-a512-a2a9acbdeb1b)
+- **Title:** I've Been Waiting for You
+- **Track:** 04
+- **Year:** 1986
+
+### Track 05 - The Old Laughing Lady
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Soul
+- **Length:** 5:47
+- **MusicBrainz Track ID:** [74ec3248-13ec-4e22-a71f-52792e48ae99](https://musicbrainz.org/recording/74ec3248-13ec-4e22-a71f-52792e48ae99)
+- **Title:** The Old Laughing Lady
+- **Track:** 05
+- **Year:** 1986
+
+### Track 06 - String Quartet From Whiskey Boot Hill
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Folk Rock
+- **Length:** 1:07
+- **MusicBrainz Track ID:** [fb233c12-f6b0-406b-8fdd-82c64f252149](https://musicbrainz.org/recording/fb233c12-f6b0-406b-8fdd-82c64f252149)
+- **Title:** String Quartet From Whiskey Boot Hill
+- **Track:** 06
+- **Year:** 1986
+
+### Track 07 - Here We Are in the Years
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Folk Rock
+- **Length:** 3:15
+- **MusicBrainz Track ID:** [4f15a10b-fa8c-45d3-99fe-1f0beeae8038](https://musicbrainz.org/recording/4f15a10b-fa8c-45d3-99fe-1f0beeae8038)
+- **Title:** Here We Are in the Years
+- **Track:** 07
+- **Year:** 1986
+
+### Track 08 - What Did You Do to My Life?
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Grunge
+- **Length:** 2:25
+- **MusicBrainz Track ID:** [9ecd9610-5e6e-49b8-aab7-b9a996412b51](https://musicbrainz.org/recording/9ecd9610-5e6e-49b8-aab7-b9a996412b51)
+- **Title:** What Did You Do to My Life?
+- **Track:** 08
+- **Year:** 1986
+
+### Track 09 - I've Loved Her So Long
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Grunge
+- **Length:** 2:43
+- **MusicBrainz Track ID:** [43dac896-4f53-4eb8-86bc-8277e972ca95](https://musicbrainz.org/recording/43dac896-4f53-4eb8-86bc-8277e972ca95)
+- **Title:** I've Loved Her So Long
+- **Track:** 09
+- **Year:** 1986
+
+### Track 10 - The Last Trip to Tulsa
+
+- **Artist:** Neil Young
+- **Format:** AAC
+- **Genre:** Folk Rock
+- **Length:** 9:28
+- **MusicBrainz Track ID:** [65f5f981-ae41-4c61-9349-b734fd03961e](https://musicbrainz.org/recording/65f5f981-ae41-4c61-9349-b734fd03961e)
+- **Title:** The Last Trip to Tulsa
+- **Track:** 10
+- **Year:** 1986
 

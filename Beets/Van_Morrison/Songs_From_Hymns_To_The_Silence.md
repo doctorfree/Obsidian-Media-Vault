@@ -13,20 +13,91 @@ year: 0000
 
 # Songs From Hymns To The Silence
 
-By Van Morrison
+By **Van Morrison**
 
 ![](../../assets/beetscovers/Van_Morrison-Songs_From_Hymns_To_The_Silence.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Songs From Hymns To The Silence
-- Artist: Van Morrison
-- Albumartist: Van Morrison
-- Genre: Soul
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Songs From Hymns To The Silence
+- **Artist:** Van Morrison
+- **Albumartist:** Van Morrison
+- **Genre:** Soul
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Why Must I Always Explain
+
+- **Artist:** Van Morrison
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 3:53
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Why Must I Always Explain
+- **Track:** 01
+- **Year:** 0000
+
+### Track 02 - Professional Jealousy
+
+- **Artist:** Van Morrison
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 3:46
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Professional Jealousy
+- **Track:** 02
+- **Year:** 0000
+
+### Track 03 - I'm Not Feeling It Anymore
+
+- **Artist:** Van Morrison
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 6:32
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** I'm Not Feeling It Anymore
+- **Track:** 03
+- **Year:** 0000
+
+### Track 04 - Hymns To The Silence
+
+- **Artist:** Van Morrison
+- **Format:** MP3
+- **Genre:** Soft Rock
+- **Length:** 9:41
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Hymns To The Silence
+- **Track:** 04
+- **Year:** 0000
+
+### Track 05 - Green Mansions
+
+- **Artist:** Van Morrison
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:41
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Green Mansions
+- **Track:** 05
+- **Year:** 0000
+
+### Track 06 - See Me Through Part ll (Just A Closer Walk With Thee)
+
+- **Artist:** Van Morrison
+- **Format:** MP3
+- **Genre:** Soul
+- **Length:** 3:12
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** See Me Through Part ll (Just A Closer Walk With Thee)
+- **Track:** 06
+- **Year:** 0000
 

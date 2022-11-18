@@ -13,20 +13,146 @@ year: 1993
 
 # The Black Rider
 
-By Tom Waits
+By **Tom Waits**
 
 ![](../../assets/beetscovers/Tom_Waits-The_Black_Rider.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Black Rider
-- Artist: Tom Waits
-- Albumartist: Tom Waits
-- Genre: Opera
-- MusicBrainz Album Artist ID: c3aeb863-7b26-4388-94e8-5a240f2be21b
-- MusicBrainz Album ID: fd0602c5-6c06-4bb6-9ad6-ab23e8092b22
-- MusicBrainz Release Group ID: 3f43452a-9608-31de-874a-68abdb602a71
-- Year: 1993
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Black Rider
+- **Artist:** Tom Waits
+- **Albumartist:** Tom Waits
+- **Genre:** Opera
+- **MusicBrainz Album Artist ID:** [c3aeb863-7b26-4388-94e8-5a240f2be21b](https://musicbrainz.org/artist/c3aeb863-7b26-4388-94e8-5a240f2be21b)
+- **MusicBrainz Album ID:** [fd0602c5-6c06-4bb6-9ad6-ab23e8092b22](https://musicbrainz.org/release/fd0602c5-6c06-4bb6-9ad6-ab23e8092b22)
+- **MusicBrainz Release Group ID:** [3f43452a-9608-31de-874a-68abdb602a71](https://musicbrainz.org/release-group/3f43452a-9608-31de-874a-68abdb602a71)
+- **Year:** 1993
+- **Catalog #:** 7559-60597-2
+- **Label:** Asylum Records
+- **Total Tracks:** 11
+
+## Album Tracks
+
+### Track 01 - New Coat of Paint
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:20
+- **MusicBrainz Track ID:** [87fd3a23-3792-460d-8ec5-b30c457c7188](https://musicbrainz.org/recording/87fd3a23-3792-460d-8ec5-b30c457c7188)
+- **Title:** New Coat of Paint
+- **Track:** 01
+- **Year:** 1990
+
+### Track 02 - San Diego Serenade
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 3:23
+- **MusicBrainz Track ID:** [6fab5153-08f1-495d-a77d-677709e5c94b](https://musicbrainz.org/recording/6fab5153-08f1-495d-a77d-677709e5c94b)
+- **Title:** San Diego Serenade
+- **Track:** 02
+- **Year:** 1990
+
+### Track 03 - Semi Suite
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:23
+- **MusicBrainz Track ID:** [343b2714-fde9-4c96-a252-873f99d276b6](https://musicbrainz.org/recording/343b2714-fde9-4c96-a252-873f99d276b6)
+- **Title:** Semi Suite
+- **Track:** 03
+- **Year:** 1990
+
+### Track 04 - Shiver Me Timbers
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 4:22
+- **MusicBrainz Track ID:** [7112e17f-aa4f-455c-b462-cb2173569a86](https://musicbrainz.org/recording/7112e17f-aa4f-455c-b462-cb2173569a86)
+- **Title:** Shiver Me Timbers
+- **Track:** 04
+- **Year:** 1990
+
+### Track 05 - Diamonds on My Windshield
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:07
+- **MusicBrainz Track ID:** [8ee44e2a-cae8-4a78-93f2-1d2784b6a50f](https://musicbrainz.org/recording/8ee44e2a-cae8-4a78-93f2-1d2784b6a50f)
+- **Title:** Diamonds on My Windshield
+- **Track:** 05
+- **Year:** 1990
+
+### Track 06 - (Looking for) The Heart of Saturday Night
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:54
+- **MusicBrainz Track ID:** [9ba54ad0-8f4e-47e9-a8cd-9a50e056db47](https://musicbrainz.org/recording/9ba54ad0-8f4e-47e9-a8cd-9a50e056db47)
+- **Title:** (Looking for) The Heart of Saturday Night
+- **Track:** 06
+- **Year:** 1990
+
+### Track 07 - Fumblin’ With the Blues
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 2:59
+- **MusicBrainz Track ID:** [6729544b-3b74-43d4-b6d8-84b6973a4201](https://musicbrainz.org/recording/6729544b-3b74-43d4-b6d8-84b6973a4201)
+- **Title:** Fumblin’ With the Blues
+- **Track:** 07
+- **Year:** 1990
+
+### Track 08 - Please Call Me, Baby
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 4:22
+- **MusicBrainz Track ID:** [46d1737a-6d75-4618-a5c5-f761cf2859c9](https://musicbrainz.org/recording/46d1737a-6d75-4618-a5c5-f761cf2859c9)
+- **Title:** Please Call Me, Baby
+- **Track:** 08
+- **Year:** 1990
+
+### Track 09 - Depot, Depot
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Folk Rock
+- **Length:** 3:42
+- **MusicBrainz Track ID:** [f18e37e9-37f3-4d62-81b2-34b201b9485b](https://musicbrainz.org/recording/f18e37e9-37f3-4d62-81b2-34b201b9485b)
+- **Title:** Depot, Depot
+- **Track:** 09
+- **Year:** 1990
+
+### Track 10 - Drunk on the Moon
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Americana
+- **Length:** 5:03
+- **MusicBrainz Track ID:** [f3f04b37-1c19-47bb-8135-9020342365a2](https://musicbrainz.org/recording/f3f04b37-1c19-47bb-8135-9020342365a2)
+- **Title:** Drunk on the Moon
+- **Track:** 10
+- **Year:** 1990
+
+### Track 11 - The Ghosts of Saturday Night (After Hours at Napoleone’s Pizza House)
+
+- **Artist:** Tom Waits
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:11
+- **MusicBrainz Track ID:** [b9b4b756-f5ee-4ee4-95ec-d0b45fa59ae3](https://musicbrainz.org/recording/b9b4b756-f5ee-4ee4-95ec-d0b45fa59ae3)
+- **Title:** The Ghosts of Saturday Night (After Hours at Napoleone’s Pizza House)
+- **Track:** 11
+- **Year:** 1990
 

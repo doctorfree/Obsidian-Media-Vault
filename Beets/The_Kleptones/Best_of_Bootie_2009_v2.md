@@ -13,20 +13,36 @@ year: 2009
 
 # Best of Bootie 2009 v.2
 
-By The Kleptones
+By **The Kleptones**
 
 ![](../../assets/beetscovers/The_Kleptones-Best_of_Bootie_2009_v2.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Best of Bootie 2009 v.2
-- Artist: The Kleptones
-- Albumartist: The Kleptones
-- Genre: Electronica
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2009
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Best of Bootie 2009 v.2
+- **Artist:** The Kleptones
+- **Albumartist:** The Kleptones
+- **Genre:** Electronica
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2009
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 22
+
+## Album Tracks
+
+### Track 14 - Voodoo Sabotage (Beastie Boys vs. The Prodigy vs. Pendulum)
+
+- **Artist:** The Kleptones
+- **Format:** MP3
+- **Genre:** Electronica
+- **Length:** 4:26
+- **MusicBrainz Track ID:** [5b676788-b187-4590-895f-fe5f489d50f6](https://musicbrainz.org/recording/5b676788-b187-4590-895f-fe5f489d50f6)
+- **Title:** Voodoo Sabotage (Beastie Boys vs. The Prodigy vs. Pendulum)
+- **Track:** 14
+- **Year:** 2009
 

@@ -13,20 +13,36 @@ year: 1994
 
 # The Best of the Cowsills [Rebound]
 
-By The Cowsills
+By **The Cowsills**
 
 ![](../../assets/beetscovers/The_Cowsills-The_Best_of_the_Cowsills_[Rebound].jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Best of the Cowsills [Rebound]
-- Artist: The Cowsills
-- Albumartist: The Cowsills
-- Genre: Sunshine Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1994
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Best of the Cowsills [Rebound]
+- **Artist:** The Cowsills
+- **Albumartist:** The Cowsills
+- **Genre:** Sunshine Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1994
+- **Catalog #:** 
+- **Label:** Rebound
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 14 - Hair
+
+- **Artist:** The Cowsills
+- **Format:** MP3
+- **Genre:** Rock
+- **Length:** 3:29
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Hair
+- **Track:** 14
+- **Year:** 1994
 

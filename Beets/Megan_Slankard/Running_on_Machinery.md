@@ -13,20 +13,36 @@ year: 2015
 
 # Running on Machinery
 
-By Megan Slankard
+By **Megan Slankard**
 
 ![](../../assets/beetscovers/Megan_Slankard-Running_on_Machinery.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Running on Machinery
-- Artist: Megan Slankard
-- Albumartist: Megan Slankard
-- Genre: Unknown
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2015
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Running on Machinery
+- **Artist:** Megan Slankard
+- **Albumartist:** Megan Slankard
+- **Genre:** Unknown
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2015
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Bones Live Forever
+
+- **Artist:** Megan Slankard
+- **Format:** MP3
+- **Genre:** Unknown
+- **Length:** 3:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Bones Live Forever
+- **Track:** 01
+- **Year:** 2015
 

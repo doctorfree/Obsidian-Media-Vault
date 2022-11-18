@@ -13,20 +13,36 @@ year: 2001
 
 # Down To Earth
 
-By Ozzy Osbourne
+By **Ozzy Osbourne**
 
 ![](../../assets/beetscovers/Ozzy_Osbourne-Down_To_Earth.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Down To Earth
-- Artist: Ozzy Osbourne
-- Albumartist: Ozzy Osbourne
-- Genre: Heavy Metal
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2001
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Down To Earth
+- **Artist:** Ozzy Osbourne
+- **Albumartist:** Ozzy Osbourne
+- **Genre:** Heavy Metal
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2001
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Gets Me Through
+
+- **Artist:** Ozzy Osbourne
+- **Format:** AAC
+- **Genre:** Heavy Metal
+- **Length:** 5:05
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Gets Me Through
+- **Track:** 01
+- **Year:** 2001
 

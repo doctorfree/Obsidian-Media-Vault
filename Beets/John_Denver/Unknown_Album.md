@@ -13,20 +13,36 @@ year: 1971
 
 # Unknown Album
 
-By John Denver
+By **John Denver**
 
 ![](../../assets/beetscovers/John_Denver-Unknown_Album.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Unknown Album
-- Artist: John Denver
-- Albumartist: John Denver
-- Genre: Country
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1971
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Unknown Album
+- **Artist:** John Denver
+- **Albumartist:** John Denver
+- **Genre:** Country
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1971
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Take Me Home Country Roads
+
+- **Artist:** John Denver
+- **Format:** AAC
+- **Genre:** Classic Country
+- **Length:** 3:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Take Me Home Country Roads
+- **Track:** 00
+- **Year:** 1971
 

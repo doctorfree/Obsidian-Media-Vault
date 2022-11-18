@@ -13,20 +13,36 @@ year: 1995
 
 # The Essential Jim Reeves [RCA]
 
-By Jim Reeves
+By **Jim Reeves**
 
 ![](../../assets/beetscovers/Jim_Reeves-The_Essential_Jim_Reeves_[RCA].jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Essential Jim Reeves [RCA]
-- Artist: Jim Reeves
-- Albumartist: Jim Reeves
-- Genre: Classic Country
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1995
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Essential Jim Reeves [RCA]
+- **Artist:** Jim Reeves
+- **Albumartist:** Jim Reeves
+- **Genre:** Classic Country
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1995
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 03 - He'll Have to Go
+
+- **Artist:** Jim Reeves
+- **Format:** AAC
+- **Genre:** Classic Country
+- **Length:** 2:19
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** He'll Have to Go
+- **Track:** 03
+- **Year:** 1995
 

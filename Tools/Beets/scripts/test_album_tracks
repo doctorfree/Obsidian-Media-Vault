@@ -1,0 +1,25 @@
+#!/bin/bash
+
+artist="Yes"
+artistdir="/u/audio/Music/Yes/[1971] Fragile"
+filesave="fragile.md"
+
+echo "# Fragile by Yes" > ${filesave}
+echo "" >> ${filesave}
+
+echo "## Album Info" >> ${filesave}
+echo "" >> ${filesave}
+
+beet info --album \
+          --library \
+          --include-keys=album,albumartist,artpath,genre,year,mb_albumartistid,mb_albumid,mb_releasegroupid \
+          albumartist:"${artist}" \
+          path:"${artistdir}" >> ${filesave}
+
+echo "## Tracks" >> ${filesave}
+echo "" >> ${filesave}
+
+beet info --library \
+          --include-keys=album,albumartist,artist,catalognum,format,genre,label,length,title,track,tracktotal,year,mb_trackid \
+         albumartist:"${artist}" \
+         path:"${artistdir}" >> ${filesave}

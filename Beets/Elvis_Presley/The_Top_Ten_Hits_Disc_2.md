@@ -13,18 +13,34 @@ year: 1987
 
 # The Top Ten Hits Disc 2
 
-By Elvis Presley
+By **Elvis Presley**
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Top Ten Hits Disc 2
-- Artist: Elvis Presley
-- Albumartist: Elvis Presley
-- Genre: Rockabilly
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1987
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Top Ten Hits Disc 2
+- **Artist:** Elvis Presley
+- **Albumartist:** Elvis Presley
+- **Genre:** Rockabilly
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1987
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 00 - Return to Sender
+
+- **Artist:** Elvis Presley
+- **Format:** AAC
+- **Genre:** Rockabilly
+- **Length:** 2:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Return to Sender
+- **Track:** 00
+- **Year:** 0000
 

@@ -13,20 +13,36 @@ year: 1966
 
 # The Best of the McGuire Sisters [Coral]
 
-By The McGuire Sisters
+By **The McGuire Sisters**
 
 ![](../../assets/beetscovers/The_Mcguire_Sisters-The_Best_of_the_McGuire_Sisters_[Coral].jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: The Best of the McGuire Sisters [Coral]
-- Artist: The Mcguire Sisters
-- Albumartist: The McGuire Sisters
-- Genre: Close Harmony
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 1966
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** The Best of the McGuire Sisters [Coral]
+- **Artist:** The Mcguire Sisters
+- **Albumartist:** The McGuire Sisters
+- **Genre:** Close Harmony
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 1966
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 08 - Sincerely
+
+- **Artist:** The McGuire Sisters
+- **Format:** AAC
+- **Genre:** Close Harmony
+- **Length:** 2:59
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Sincerely
+- **Track:** 08
+- **Year:** 0000
 

@@ -13,20 +13,300 @@ year: 2004
 
 # New Roman Times
 
-By Camper Van Beethoven
+By **Camper Van Beethoven**
 
 ![](../../assets/beetscovers/Camper_Van_Beethoven-New_Roman_Times.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: New Roman Times
-- Artist: Camper Van Beethoven
-- Albumartist: Camper Van Beethoven
-- Genre: Psychedelic Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2004
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** New Roman Times
+- **Artist:** Camper Van Beethoven
+- **Albumartist:** Camper Van Beethoven
+- **Genre:** Psychedelic Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2004
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 09 - 09 - 09 - 09 Sons Of The New Golden West (Reprise)
+
+- **Artist:** Camper Van Beethoven
+- **Format:** AAC
+- **Genre:** Indie Rock
+- **Length:** 0:21
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 09 - 09 - 09 Sons Of The New Golden West (Reprise)
+- **Track:** 09
+- **Year:** 0000
+
+### Track 09 - Sons Of The New Golden West (Reprise)
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 0:21
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Sons Of The New Golden West (Reprise)
+- **Track:** 09
+- **Year:** 2004
+
+### Track 21 - Los Tigres Dub [Bonus Track]
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 2:27
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Los Tigres Dub [Bonus Track]
+- **Track:** 21
+- **Year:** 2004
+
+### Track 23 - It’s Gonna Rain [Bonus Track]
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Psychedelic Rock
+- **Length:** 4:02
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** It’s Gonna Rain [Bonus Track]
+- **Track:** 23
+- **Year:** 2004
+
+### Track 01 - Prelude
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 0:54
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Prelude
+- **Track:** 01
+- **Year:** 2004
+
+### Track 02 - Sons Of The New Golden West
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:55
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Sons Of The New Golden West
+- **Track:** 02
+- **Year:** 2004
+
+### Track 03 - 51-7
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 4:44
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** 51-7
+- **Track:** 03
+- **Year:** 2004
+
+### Track 04 - White Fluffy Clouds
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 5:01
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** White Fluffy Clouds
+- **Track:** 04
+- **Year:** 2004
+
+### Track 05 - That Gum You Like Is Back In Style
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 4:56
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** That Gum You Like Is Back In Style
+- **Track:** 05
+- **Year:** 2004
+
+### Track 06 - Might Makes Right
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:46
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Might Makes Right
+- **Track:** 06
+- **Year:** 2004
+
+### Track 07 - Militia Song
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:10
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Militia Song
+- **Track:** 07
+- **Year:** 2004
+
+### Track 08 - R ’n’ R Uzbekistan
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 1:13
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** R ’n’ R Uzbekistan
+- **Track:** 08
+- **Year:** 2004
+
+### Track 10 - New Roman Times
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 4:47
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** New Roman Times
+- **Track:** 10
+- **Year:** 2004
+
+### Track 11 - The Poppies Of Balmorhea
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 3:23
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Poppies Of Balmorhea
+- **Track:** 11
+- **Year:** 2004
+
+### Track 12 - The Long Plastic Hallway
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 5:09
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** The Long Plastic Hallway
+- **Track:** 12
+- **Year:** 2004
+
+### Track 13 - I Am Talking To This Flower
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:30
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** I Am Talking To This Flower
+- **Track:** 13
+- **Year:** 2004
+
+### Track 14 - Come Out
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 1:44
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Come Out
+- **Track:** 14
+- **Year:** 2004
+
+### Track 15 - Los Tigres Traficantes
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:30
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Los Tigres Traficantes
+- **Track:** 15
+- **Year:** 2004
+
+### Track 16 - I Hate This Part Of Texas
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:45
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** I Hate This Part Of Texas
+- **Track:** 16
+- **Year:** 2004
+
+### Track 17 - Hippy Chix
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Cowpunk
+- **Length:** 4:28
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Hippy Chix
+- **Track:** 17
+- **Year:** 2004
+
+### Track 18 - Civil Disobedience
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 6:14
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Civil Disobedience
+- **Track:** 18
+- **Year:** 2004
+
+### Track 19 - Discotheque CVB
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Uk Garage
+- **Length:** 5:58
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Discotheque CVB
+- **Track:** 19
+- **Year:** 2004
+
+### Track 20 - Hey Brother
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:44
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Hey Brother
+- **Track:** 20
+- **Year:** 2004
+
+### Track 22 - Alien Ghost Song [Bonus Track]
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 3:12
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Alien Ghost Song [Bonus Track]
+- **Track:** 22
+- **Year:** 2004
+
+### Track 24 - Might Makes Right Dub [Bonus Track]
+
+- **Artist:** Camper Van Beethoven
+- **Format:** MP3
+- **Genre:** Indie Rock
+- **Length:** 2:51
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Might Makes Right Dub [Bonus Track]
+- **Track:** 24
+- **Year:** 2004
 

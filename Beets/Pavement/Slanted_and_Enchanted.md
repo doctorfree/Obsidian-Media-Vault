@@ -13,20 +13,36 @@ year: 0000
 
 # Slanted & Enchanted
 
-By Pavement
+By **Pavement**
 
 ![](../../assets/beetscovers/Pavement-Slanted_and_Enchanted.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Slanted & Enchanted
-- Artist: Pavement
-- Albumartist: Pavement
-- Genre: Noise Rock
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Slanted & Enchanted
+- **Artist:** Pavement
+- **Albumartist:** Pavement
+- **Genre:** Noise Rock
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Summer Babe (Winter Version)
+
+- **Artist:** Pavement
+- **Format:** AAC
+- **Genre:** Indie Rock
+- **Length:** 3:18
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Summer Babe (Winter Version)
+- **Track:** 01
+- **Year:** 0000
 

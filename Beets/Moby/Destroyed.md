@@ -13,20 +13,36 @@ year: 0000
 
 # Destroyed
 
-By Moby
+By **Moby**
 
 ![](../../assets/beetscovers/Moby-Destroyed.jpg)
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Destroyed
-- Artist: Moby
-- Albumartist: Moby
-- Genre: Deep House
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 0000
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Destroyed
+- **Artist:** Moby
+- **Albumartist:** Moby
+- **Genre:** Deep House
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 0000
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 06 - Moby_protect write(formt he uh
+
+- **Artist:** Moby
+- **Format:** AAC
+- **Genre:** Techno
+- **Length:** 5:44
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Moby_protect write(formt he uh
+- **Track:** 06
+- **Year:** 1993
 

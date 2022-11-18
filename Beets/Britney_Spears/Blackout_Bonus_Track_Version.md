@@ -13,18 +13,34 @@ year: 2007
 
 # Blackout (Bonus Track Version)
 
-By Britney Spears
+By **Britney Spears**
 
 ## Album Data
 
-- Catalog: Beets
-- Format: Digital, Album
-- Album: Blackout (Bonus Track Version)
-- Artist: Britney Spears
-- Albumartist: Britney Spears
-- Genre: Pop
-- MusicBrainz Album Artist ID: 
-- MusicBrainz Album ID: 
-- MusicBrainz Release Group ID: 
-- Year: 2007
+- **Catalog:** Beets
+- **Format:** Digital, Album
+- **Album:** Blackout (Bonus Track Version)
+- **Artist:** Britney Spears
+- **Albumartist:** Britney Spears
+- **Genre:** Pop
+- **MusicBrainz Album Artist ID:** [](https://musicbrainz.org/artist/)
+- **MusicBrainz Album ID:** [](https://musicbrainz.org/release/)
+- **MusicBrainz Release Group ID:** [](https://musicbrainz.org/release-group/)
+- **Year:** 2007
+- **Catalog #:** 
+- **Label:** 
+- **Total Tracks:** 00
+
+## Album Tracks
+
+### Track 01 - Lucky
+
+- **Artist:** Britney Spears
+- **Format:** AAC
+- **Genre:** Teen Pop
+- **Length:** 3:27
+- **MusicBrainz Track ID:** [](https://musicbrainz.org/recording/)
+- **Title:** Lucky
+- **Track:** 01
+- **Year:** 2000
 
