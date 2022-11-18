@@ -1,0 +1,32 @@
+---
+catalog: Beets
+album: The Cop Show Themes
+artist: Henry Mancini
+format: Digital, Album
+albumartist: Henry Mancini
+genre: Jazz
+mb_albumartistid: 
+mb_albumid: 
+mb_releasegroupid: 
+year: 1976
+---
+
+# The Cop Show Themes
+
+By Henry Mancini
+
+![](../../assets/beetscovers/Henry_Mancini-The_Cop_Show_Themes.jpg)
+
+## Album Data
+
+- Catalog: Beets
+- Format: Digital, Album
+- Album: The Cop Show Themes
+- Artist: Henry Mancini
+- Albumartist: Henry Mancini
+- Genre: Jazz
+- MusicBrainz Album Artist ID: 
+- MusicBrainz Album ID: 
+- MusicBrainz Release Group ID: 
+- Year: 1976
+

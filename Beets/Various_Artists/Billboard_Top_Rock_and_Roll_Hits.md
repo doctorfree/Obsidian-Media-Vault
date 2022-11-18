@@ -1,0 +1,32 @@
+---
+catalog: Beets
+album: Billboard Top Rock & Roll Hits
+artist: Various Artists
+format: Digital, Album
+albumartist: Various Artists
+genre: Rockabilly
+mb_albumartistid: 
+mb_albumid: 
+mb_releasegroupid: 
+year: 1989
+---
+
+# Billboard Top Rock & Roll Hits
+
+By Various Artists
+
+![](../../assets/beetscovers/Various_Artists-Billboard_Top_Rock_and_Roll_Hits.jpg)
+
+## Album Data
+
+- Catalog: Beets
+- Format: Digital, Album
+- Album: Billboard Top Rock & Roll Hits
+- Artist: Various Artists
+- Albumartist: Various Artists
+- Genre: Rockabilly
+- MusicBrainz Album Artist ID: 
+- MusicBrainz Album ID: 
+- MusicBrainz Release Group ID: 
+- Year: 1989
+

@@ -1,0 +1,30 @@
+---
+catalog: Beets
+album: Merry Christmas from the Family
+artist: Robert Earl Keen
+format: Digital, Album
+albumartist: Robert Earl Keen
+genre: Outlaw Country
+mb_albumartistid: c81d48a8-5c86-4160-b3d4-1275e7ba3212
+mb_albumid: 73be51a3-4b60-4bc7-bd8c-01d0ce680b0b
+mb_releasegroupid: f8405700-8def-414d-bede-5625e03299bc
+year: 1995
+---
+
+# Merry Christmas from the Family
+
+By Robert Earl Keen
+
+## Album Data
+
+- Catalog: Beets
+- Format: Digital, Album
+- Album: Merry Christmas from the Family
+- Artist: Robert Earl Keen
+- Albumartist: Robert Earl Keen
+- Genre: Outlaw Country
+- MusicBrainz Album Artist ID: c81d48a8-5c86-4160-b3d4-1275e7ba3212
+- MusicBrainz Album ID: 73be51a3-4b60-4bc7-bd8c-01d0ce680b0b
+- MusicBrainz Release Group ID: f8405700-8def-414d-bede-5625e03299bc
+- Year: 1995
+

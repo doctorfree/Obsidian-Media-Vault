@@ -1,0 +1,32 @@
+---
+catalog: Beets
+album: Fuego
+artist: Phish
+format: Digital, Album
+albumartist: Phish
+genre: Rock
+mb_albumartistid: e01646f2-2a04-450d-8bf2-0d993082e058
+mb_albumid: 6c268c74-7a02-4218-a2a9-d2efe0075b54
+mb_releasegroupid: 98982e44-87af-4126-bfe3-77ef277deab3
+year: 2014
+---
+
+# Fuego
+
+By Phish
+
+![](../../assets/beetscovers/Phish-Fuego.jpg)
+
+## Album Data
+
+- Catalog: Beets
+- Format: Digital, Album
+- Album: Fuego
+- Artist: Phish
+- Albumartist: Phish
+- Genre: Rock
+- MusicBrainz Album Artist ID: e01646f2-2a04-450d-8bf2-0d993082e058
+- MusicBrainz Album ID: 6c268c74-7a02-4218-a2a9-d2efe0075b54
+- MusicBrainz Release Group ID: 98982e44-87af-4126-bfe3-77ef277deab3
+- Year: 2014
+
