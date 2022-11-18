@@ -4,7 +4,7 @@
 
 This repository is organized as an Obsidian vault containing Media descriptions in markdown format. It can be viewed using any markdown viewer (e.g. almost any browser) but if Obsidian is used then many additional features will be available including queries using the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [Obsidian](https://obsidian.md/).
 
-The `Obsidian-Media-Vault` repository reflects the partial contents of my personal library of books, cds, and records. As such, it may be relevant only to a few. However, the process by which this repository was created and curated as well as the tools used in its creation and curation may be useful to a wider audience. I am making it public and freely licensed so that others may examine, adapt, clone, and use in whatever manner they choose. See the [description of Process](Process.md) for an overview of the process and tools employed in the creation of this repository.
+The `Obsidian-Media-Vault` repository reflects the partial contents of my personal library of books, cds, digital music, and records. As such, it may be relevant only to a few. However, the process by which this repository was created and curated as well as the tools used in its creation and curation may be useful to a wider audience. I am making it public and freely licensed so that others may examine, adapt, clone, and use in whatever manner they choose. See the [description of Process](Process.md) for an overview of the process and tools employed in the creation of this repository.
 
 Get started browsing the [Obsidian Media Vault](Media_Index.md).
 
@@ -66,11 +66,13 @@ SORT published ASC
 
 Sample queries along with the code used to perform them can be viewed in the [Media Queries](Media_Queries.md) document.
 
-## Books
+## Libraries
+
+The Obsidian Media Vault includes entries from several media libraries including my Books, CDs, Vinyl records, Apple Music, Roon Audio System, and Beets music libraries. See the [Process section below](#process) for details on this vault setup procedure.
+
+### Books
 
 The 'Books' subfolder of this Obsidian vault was created by exporting my Goodreads library of books to CSV. I then used [csvkit](https://csvkit.readthedocs.io/en/latest) and command line tools to convert the CSV format Goodreads data to Markdown. Each Markdown document created in this way contains extensive metadata that can be used to query the vault with Dataview.
-
-See the [Process section below](#process) for details on this vault setup procedure.
 
 ## Structure
 

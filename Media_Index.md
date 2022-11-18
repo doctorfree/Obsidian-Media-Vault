@@ -40,6 +40,10 @@
 - [Albums by Genre 09](Apple/Albums_by_Genre/Albums_by_Genre_09.md)
 - [Albums in Rock Genre](Apple/Albums_by_Genre/Rock.md)
 
+### Beets Music Library
+
+- [Beets Albums by Artist](Beets_Albums_by_Artist.md)
+
 ### Roon Audio System
 
 - [Roon Albums](Roon_Albums.md)

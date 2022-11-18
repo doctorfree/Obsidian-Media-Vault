@@ -1,0 +1,126 @@
+#!/bin/bash
+#
+# mkalbums
+#
+# Generate Markdown format files for each of the albums in the Beets library.
+#
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+BEETS="${TOP}/Beets"
+ALBUMS="${TOP}/Beets_Albums_by_Artist.md"
+
+[ -f ${ALBUMS} ] || {
+  echo "${ALBUMS} does not exist. Exiting."
+  exit 1
+}
+
+# Create the artist subdirs
+
+artist=
+album=
+cat ${ALBUMS} | while read line
+do
+  marker=`echo ${line} | awk ' { print $1 } '`
+  if [ "${marker}" == "###" ]
+  then
+    type="artist"
+    artist=`echo ${line} | sed -e "s/### //" | sed -e 's/^ *//' -e 's/ *$//'`
+    artistdir=`echo ${artist} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+  else
+    if [ "${marker}" == "-" ]
+    then
+      type="album"
+      album=`echo ${line} | sed -e "s/- //" | sed -e 's/^ *//' -e 's/ *$//'`
+      filename=`echo ${album} | \
+        sed -e "s% %_%g" \
+            -e "s%,%_%g" \
+            -e "s%(%%g" \
+            -e "s%)%%g" \
+            -e "s%:%-%g" \
+            -e "s%\#%%g" \
+            -e "s%\.%%g" \
+            -e "s%\"%%g" \
+            -e "s%\&%and%g" \
+            -e "s%\?%%g" \
+            -e "s%\\'%%g" \
+            -e "s%'%%g" \
+            -e "s%/%-%g"`
+      [ "${filename}" ] || {
+        echo "Empty filename for ${artist}/${album}"
+        continue
+      }
+    else
+      continue
+    fi
+  fi
+  if [ "${type}" == "album" ]
+  then
+    [ "${artist}" ] && [ "${album}" ] && {
+      echo "Processing ${filename} for ${artist}"
+      [ -f ${BEETS}/${artistdir}/${filename}.md ] && {
+        echo "${artistdir}/${filename}.md already exists. Skipping."
+        continue
+      }
+      [ -f "../../assets/albumcovers/${artistdir}-${filename}.png" ] || {
+        echo "Downloading cover art for ${artist} - ${album}"
+        sacad "${artist}" "${album}" 600 \
+          ${TOP}/assets/albumcovers/${artistdir}-${filename}.png 2> /dev/null
+      }
+      [ -d ${BEETS}/${artistdir} ] || mkdir ${BEETS}/${artistdir}
+      catalog="Beets"
+      format="Digital, Album"
+      echo "---" > ${BEETS}/${artistdir}/${filename}.md
+      echo "catalog: ${catalog}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "title: ${album}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "artist: ${artist}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "format: ${format}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "---" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "# ${album}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "By ${artist}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "" >> ${BEETS}/${artistdir}/${filename}.md
+      if [ -f "../../assets/albumcovers/${artistdir}-${filename}.png" ]
+      then
+        coverurl="../../assets/albumcovers/${artistdir}-${filename}.png"
+      else
+        coverurl=
+      fi
+      [ "${coverurl}" ] && {
+        echo "![](${coverurl})" >> ${BEETS}/${artistdir}/${filename}.md
+        echo "" >> ${BEETS}/${artistdir}/${filename}.md
+      }
+      echo "## Album Data" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "- Catalog #: ${catalog}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "- Format: ${format}" >> ${BEETS}/${artistdir}/${filename}.md
+      echo "" >> ${BEETS}/${artistdir}/${filename}.md
+    }
+  else
+    if [ "${type}" == "artist" ]
+    then
+      [ -d ${BEETS}/${artistdir} ] && {
+        echo "${artistdir} already exists. Skipping."
+        continue
+      }
+      echo "Making directory ${artistdir} for ${artist}"
+      mkdir -p ${BEETS}/${artistdir}
+    else
+      echo "ERROR: No type defined for ${artist}/${album}, type=${type}"
+      continue
+    fi
+  fi
+done

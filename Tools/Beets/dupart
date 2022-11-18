@@ -1,0 +1,37 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+LIST=
+
+rmdups() {
+  coverdir="$1"
+  for dup in ${DUPS}
+  do
+    [ -f assets/beetscovers/${dup} ] && [ -f assets/${coverdir}/${dup} ] && {
+      find Beets -type f | while read beet
+      do
+        grep assets/beetscovers/${dup} ${beet} > /dev/null && {
+          echo "Fixing ${beet} link to ${dup} in ${coverdir}"
+          [ "${LIST}" ] || {
+            cat ${beet} | sed -e "s%assets/beetscovers/${dup}%assets/${coverdir}/${dup}%" > /tmp/beet$$
+            cp /tmp/beet$$ ${beet}
+            rm -f /tmp/beet$$
+            git rm assets/beetscovers/${dup}
+          }
+        }
+      done
+    }
+  done
+}
+
+[ "$1" == "-l" ] && LIST=1
+
+cd ${TOP}/assets/albumcovers
+DUPS=`/bin/ls -1`
+cd ${TOP}
+rmdups albumcovers
+
+cd ${TOP}/assets/cdcovers
+DUPS=`/bin/ls -1`
+cd ${TOP}
+rmdups cdcovers
