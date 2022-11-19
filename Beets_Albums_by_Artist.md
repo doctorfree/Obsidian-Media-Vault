@@ -857,21 +857,21 @@
 
 - [Tell Me I’m Pretty](Beets/Cage_The_Elephant/Tell_Me_I’m_Pretty.md)
 
-### Cake
+### CAKE
 
-- [B-Sides and Rarities](Beets/Cake/B-Sides_and_Rarities.md)
-- [Bound Away](Beets/Cake/Bound_Away.md)
-- [Comfort Eagle](Beets/Cake/Comfort_Eagle.md)
-- [Fashion Nugget](Beets/Cake/Fashion_Nugget.md)
-- [Long Time](Beets/Cake/Long_Time.md)
-- [Motorcade of Generosity](Beets/Cake/Motorcade_of_Generosity.md)
-- [Mustache Man (Wasted)](Beets/Cake/Mustache_Man_Wasted.md)
-- [Pressure Chief](Beets/Cake/Pressure_Chief.md)
-- [Prolonging the Magic](Beets/Cake/Prolonging_the_Magic.md)
-- [Showroom of Compassion](Beets/Cake/Showroom_of_Compassion.md)
-- [Sick of You](Beets/Cake/Sick_of_You.md)
-- [The Winter](Beets/Cake/The_Winter.md)
-- [What's Now Is Now](Beets/Cake/Whats_Now_Is_Now.md)
+- [B-Sides and Rarities](Beets/CAKE/B-Sides_and_Rarities.md)
+- [Bound Away](Beets/CAKE/Bound_Away.md)
+- [Comfort Eagle](Beets/CAKE/Comfort_Eagle.md)
+- [Fashion Nugget](Beets/CAKE/Fashion_Nugget.md)
+- [Long Time](Beets/CAKE/Long_Time.md)
+- [Motorcade of Generosity](Beets/CAKE/Motorcade_of_Generosity.md)
+- [Mustache Man (Wasted)](Beets/CAKE/Mustache_Man_Wasted.md)
+- [Pressure Chief](Beets/CAKE/Pressure_Chief.md)
+- [Prolonging the Magic](Beets/CAKE/Prolonging_the_Magic.md)
+- [Showroom of Compassion](Beets/CAKE/Showroom_of_Compassion.md)
+- [Sick of You](Beets/CAKE/Sick_of_You.md)
+- [The Winter](Beets/CAKE/The_Winter.md)
+- [What's Now Is Now](Beets/CAKE/Whats_Now_Is_Now.md)
 
 ### Camper Van Beethoven
 
@@ -4048,10 +4048,7 @@
 ### Paul Kantner & Grace Slick
 
 - [Sunfighter](Beets/Paul_Kantner_and_Grace_Slick/Sunfighter.md)
-
-### Paul Kantner, Grace Slick
-
-- [Baron Von Tollbooth & the Chrome Nun](Beets/Paul_Kantner__Grace_Slick/Baron_Von_Tollbooth_and_the_Chrome_Nun.md)
+- [Baron Von Tollbooth & the Chrome Nun](Beets/Paul_Kantner_and_Grace_Slick/Baron_Von_Tollbooth_and_the_Chrome_Nun.md)
 
 ### Paul Kaspian
 
