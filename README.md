@@ -1,4 +1,8 @@
-![](assets/obsidian.png)
+---
+banner: "assets/banners/Obsidian-Banner.png"
+banner_x: 0.5
+banner_y: 0.5
+---
 
 # Obsidian Media Vault
 
