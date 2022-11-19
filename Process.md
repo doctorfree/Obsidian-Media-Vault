@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Process-Banner.png"
+banner_x: 0.2
+banner_y: 0.8
+---
+
 # Process
 
 Several custom scripts and utilities were used to automate the generation of markdown files in the Obsidian Media Vault. For example, the source data used in the generation of the Books sub-vault consisted of a CSV export of a Goodreads library along with XML format RSS feeds of all the bookshelves in that Goodreads library. The CSV and XML were processed using tools like [csvkit](https://csvkit.readthedocs.io/en/latest), `grep`, `sed`, `awk`, and other system utilities.

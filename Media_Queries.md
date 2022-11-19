@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Dataview-Banner.png"
+banner_x: 1.0
+banner_y: 1.0
+---
+
 # Media Queries
 
 The Obsidian Media Vault markdown contains metadata with tags allowing a variety of queries using the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [Obsidian](https://obsidian.md/). A few example Dataview queries follow.

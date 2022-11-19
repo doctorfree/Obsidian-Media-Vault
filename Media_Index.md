@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Vault-Banner.png"
+banner_x: 0.5
+banner_y: 0.6
+---
+
 # Media Vault Index
 
 ## Info
