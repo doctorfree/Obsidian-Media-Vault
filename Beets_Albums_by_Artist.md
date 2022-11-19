@@ -168,23 +168,11 @@
 
 - [I Love You Because [Razor & Tie]](Beets/Al_Martino/I_Love_You_Because_[Razor_and_Tie].md)
 
-### Alt-j
+### alt-J
 
-- [2017 Live EP](Beets/Alt-j/2017_Live_EP.md)
-- [An Awesome Wave](Beets/Alt-j/An_Awesome_Wave.md)
-- [Relaxer](Beets/Alt-j/Relaxer.md)
-
-### Alt‐j
-
-
-### Alt-J
-
-
-### Alto Verde
-
-
-### Alvaro Cassuto_ Nova Filarmonia Portuguesa
-
+- [2017 Live EP](Beets/alt-J/2017_Live_EP.md)
+- [An Awesome Wave](Beets/alt-J/An_Awesome_Wave.md)
+- [Relaxer](Beets/alt-J/Relaxer.md)
 
 ### Al Wilson
 
@@ -222,9 +210,6 @@
 
 - [Heart in Motion](Beets/Amy_Grant/Heart_in_Motion.md)
 
-### Amy Mann
-
-
 ### Amy Winehouse
 
 - [Back to Black](Beets/Amy_Winehouse/Back_to_Black.md)
@@ -256,9 +241,6 @@
 ### A Plus D
 
 - [Best of Bootie 2009 v.2](Beets/A_Plus_D/Best_of_Bootie_2009_v2.md)
-
-### Apreston24
-
 
 ### Arcade Fire
 
@@ -408,9 +390,6 @@
 ### Bananarama
 
 - [80's Giga Hits Collection 11](Beets/Bananarama/80s_Giga_Hits_Collection_11.md)
-
-### Bandcamp
-
 
 ### Barenaked Ladies
 
@@ -4263,12 +4242,6 @@
 
 - [Carreras Domingo Pavarotti In Concert](Beets/Placido_Domingo/Carreras_Domingo_Pavarotti_In_Concert.md)
 
-### Platters
-
-
-### Playlists
-
-
 ### Poco
 
 - [A Good Feelin' To Know](Beets/Poco/A_Good_Feelin_To_Know.md)
@@ -5001,9 +4974,6 @@
 
 - [Let Your Dim Light Shine](Beets/Soul_Asylum/Let_Your_Dim_Light_Shine.md)
 - [Runaway Train](Beets/Soul_Asylum/Runaway_Train.md)
-
-### Soundcloud
-
 
 ### Soundgarden
 
