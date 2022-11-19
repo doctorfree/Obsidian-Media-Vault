@@ -15,6 +15,10 @@
 - [Albums by Genre: Vol 08](Apple/Albums_by_Genre/Albums_by_Genre_08.md)
 - [Albums by Genre: Vol 09](Apple/Albums_by_Genre/Albums_by_Genre_09.md)
 
+## Beets Library Management
+
+- [Beets Albums by Artist](Beets_Albums_by_Artist.md)
+
 ## Roon Audio System
 
 - [Roon Albums](Roon_Albums.md)
