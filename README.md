@@ -98,15 +98,15 @@ To index and categorize a [Beets music library](https://beets.io/), the [MusicPl
 
 ### Books
 
-The 'Books' subfolder of this Obsidian vault was created by exporting my Goodreads library of books to CSV. I then used [csvkit](https://csvkit.readthedocs.io/en/latest) and command line tools to convert the CSV format Goodreads data to Markdown. Each Markdown document created in this way contains extensive metadata that can be used to query the vault with Dataview.
+The 'Books' subfolder of this Obsidian vault was created by exporting my Goodreads library of books to CSV. I then used [csvkit](https://csvkit.readthedocs.io/en/latest) and command line tools to convert the CSV format Goodreads data to Markdown. Each Markdown document created in this way contains extensive metadata that can be used to query the vault with Dataview. See [Books_by_Author](Books_by_Author.md) to view an index of books by author.
 
 ### CD
 
-My CDs are catalogued in [Collectorz](https://cloud.collectorz.com). See [Process.md](Process.md) for details on how to export a Collectorz library.
+My CDs are catalogued in [Collectorz](https://cloud.collectorz.com). See [Process.md](Process.md) for details on how to export a Collectorz library. See [CD_by_Artist](CD_by_Artist.md) to view an index of CDs by artist.
 
 ### Roon
 
-To index and categorize a [Roon Audio System](https://roonlabs.com) library, the [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme) package was used. RoonCommandLine provides command line utilities that can be used to list various aspects of a Roon library. The scripts used to produce the Roon markdown for this repository can be found in `Tools/Roon/`.
+To index and categorize a [Roon Audio System](https://roonlabs.com) library, the [RoonCommandLine](https://github.com/doctorfree/RoonCommandLine#readme) package was used. RoonCommandLine provides command line utilities that can be used to list various aspects of a Roon library. The scripts used to produce the Roon markdown for this repository can be found in `Tools/Roon/`. See [Beets Albums by Artist](Beets_Albums_by_Artist.md) to view an index of Beets albums by artist.
 
 #### Playlists
 
@@ -114,7 +114,7 @@ Playlists from the Roon Audio System were generated using the [RoonCommandLine](
 
 ### Vinyl
 
-My vinyl records are catalogued in [Discogs](https://www.discogs.com). See [Process.md](Process.md) for details on how to export a Discogs library.
+My vinyl records are catalogued in [Discogs](https://www.discogs.com). See [Process.md](Process.md) for details on how to export a Discogs library. See [Vinyl_by_Artist](Vinyl_by_Artist.md) Albums by Artist](Beets_Albums_by_Artist.md) to view an index of vinyl albums by artist.
 
 ## Structure
 
