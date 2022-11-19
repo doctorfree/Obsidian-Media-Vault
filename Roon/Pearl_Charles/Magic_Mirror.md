@@ -31,3 +31,8 @@ By Pearl Charles
 9. Sweet Sunshine Wine
 10. As Long as You're Mine
 
+
+## See also
+
+- [Pearl Charles](Pearl_Charles.md)
+- [Sleepless Dreamer](Sleepless_Dreamer.md)

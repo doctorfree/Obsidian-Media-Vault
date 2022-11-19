@@ -27,3 +27,9 @@ By Steve Jackson Five
 5. Caffeine Christine
 6. I'll Never Let my Guard down
 
+
+## See also
+
+- [Beets: Juicy Parts](../../Beets/Steve_Jackson_Five/Juicy_Parts.md)
+- [Beets: Kissmas](../../Beets/Steve_Jackson_Five/Kissmas.md)
+- [Beets: Return of The SJ5 (MP3 Format)](../../Beets/Steve_Jackson_Five/Return_of_The_SJ5_MP3_Format.md)

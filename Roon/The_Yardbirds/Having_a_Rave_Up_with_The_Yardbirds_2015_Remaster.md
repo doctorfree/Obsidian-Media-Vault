@@ -31,3 +31,11 @@ By The Yardbirds
 9. I'm a Man (Live at the Marquee Club, 1964 - 2015 Remaster)
 10. Here 'Tis (Live at the Marquee Club, 1964 - 2015 Remaster)
 
+
+## See also
+
+- [Five Live Yardbirds](Five_Live_Yardbirds.md)
+- [Roger the Engineer (Expanded Edition)](Roger_the_Engineer_Expanded_Edition.md)
+- [Beets: Greatest Hits, Volume One (1964–1966)](../../Beets/The_Yardbirds/Greatest_Hits__Volume_One_1964–1966.md)
+- [CD: "Greatest Hits, Volume One (1964-1966)"](../../CD/The_Yardbirds/Greatest_Hits__Volume_One_1964-1966.md)
+- [CD: ](../../CD/The_Yardbirds/The_Yardbirds.md)

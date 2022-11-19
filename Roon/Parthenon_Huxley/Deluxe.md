@@ -32,3 +32,9 @@ By Parthenon Huxley
 10. Playing Her Guitar
 11. Stay Where You Are
 
+
+## See also
+
+- [Classic Rock Soup](Classic_Rock_Soup.md)
+- [Deluxe (P.Hux)](Deluxe_PHux.md)
+- [Thank You Bethesda](Thank_You_Bethesda.md)

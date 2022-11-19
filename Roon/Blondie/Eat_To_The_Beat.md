@@ -33,3 +33,12 @@ By Blondie
 11. Victor
 12. Living in the Real World
 
+
+## See also
+
+- [Best Of Blondie](Best_Of_Blondie.md)
+- [Blondie (Remastered)](Blondie_Remastered.md)
+- [Parallel Lines](Parallel_Lines.md)
+- [Beets: No Exit](../../Beets/Blondie/No_Exit.md)
+- [Vinyl: ](../../Vinyl/Blondie/Blondie.md)
+- [Vinyl: Rapture](../../Vinyl/Blondie/Rapture.md)

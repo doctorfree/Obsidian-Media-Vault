@@ -31,3 +31,12 @@ By Cheap Trick
 9. Mandocello
 10. The Ballad of TV Violence (I'm Not the Only Boy)
 
+
+## See also
+
+- [All Shook Up](All_Shook_Up.md)
+- [At Budokan (Live at Nippon Budokan, Tokyo, JPN - April 1978)](At_Budokan_Live_at_Nippon_Budokan__Tokyo__JPN_-_April_1978.md)
+- [Dream Police](Dream_Police.md)
+- [Heaven Tonight](Heaven_Tonight.md)
+- [In Another World](In_Another_World.md)
+- [In Color](In_Color.md)

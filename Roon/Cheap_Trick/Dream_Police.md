@@ -30,3 +30,12 @@ By Cheap Trick
 8. I Know What I Want
 9. Need Your Love
 
+
+## See also
+
+- [All Shook Up](All_Shook_Up.md)
+- [At Budokan (Live at Nippon Budokan, Tokyo, JPN - April 1978)](At_Budokan_Live_at_Nippon_Budokan__Tokyo__JPN_-_April_1978.md)
+- [Cheap Trick](Cheap_Trick.md)
+- [Heaven Tonight](Heaven_Tonight.md)
+- [In Another World](In_Another_World.md)
+- [In Color](In_Color.md)

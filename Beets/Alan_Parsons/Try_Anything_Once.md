@@ -167,3 +167,14 @@ By **Alan Parsons**
 - **Track:** 12
 - **Year:** 1993
 
+
+## See also
+
+- [Roon: Eye In The Sky](../../Roon/Alan_Parsons/Eye_In_The_Sky.md)
+- [Roon: Pyramid (Expanded Edition)](../../Roon/Alan_Parsons/Pyramid_Expanded_Edition.md)
+- [Roon: Stereotomy (Expanded Edition)](../../Roon/Alan_Parsons/Stereotomy_Expanded_Edition.md)
+- [Roon: Tales Of Mystery And Imagination - Edgar Allan Poe (1987 Remix)](../../Roon/Alan_Parsons/Tales_Of_Mystery_And_Imagination_-_Edgar_Allan_Poe_1987_Remix.md)
+- [Roon: The Best Of The Alan Parsons Project](../../Roon/Alan_Parsons/The_Best_Of_The_Alan_Parsons_Project.md)
+- [Roon: The Essential Alan Parsons Project](../../Roon/Alan_Parsons/The_Essential_Alan_Parsons_Project.md)
+- [Roon: The Turn Of A Friendly Card (Expanded Edition)](../../Roon/Alan_Parsons/The_Turn_Of_A_Friendly_Card_Expanded_Edition.md)
+- [Roon: Try Anything Once](../../Roon/Alan_Parsons/Try_Anything_Once.md)

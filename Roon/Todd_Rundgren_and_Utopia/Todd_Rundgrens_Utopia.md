@@ -25,3 +25,7 @@ By Todd Rundgren & Utopia
 3. Freedom Fighters
 4. The Ikon
 
+
+## See also
+
+- [Disco Jets](Disco_Jets.md)

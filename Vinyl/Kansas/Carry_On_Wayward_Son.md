@@ -40,3 +40,5 @@ By Kansas
 ## See also
 
 - [Leftoverture](Leftoverture.md)
+- [Beets: Leftoverture](../../Beets/Kansas/Leftoverture.md)
+- [Roon: Leftoverture (Expanded Edition)](../../Roon/Kansas/Leftoverture_Expanded_Edition.md)

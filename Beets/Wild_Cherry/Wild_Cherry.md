@@ -134,3 +134,8 @@ By **Wild Cherry**
 - **Track:** 09
 - **Year:** 1976
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Wild_Cherry/Wild_Cherry_index.md)
+- [Vinyl: Wild Cherry](../../Vinyl/Wild_Cherry/Wild_Cherry.md)

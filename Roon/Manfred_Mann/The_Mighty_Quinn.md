@@ -50,3 +50,7 @@ By Manfred Mann
 11. Smokestack Lightning
 12. Semi‐Detatched. Suburban Mr. James
 
+
+## See also
+
+- [Beets: Mighty Garvey!](../../Beets/Manfred_Mann/Mighty_Garvey!.md)

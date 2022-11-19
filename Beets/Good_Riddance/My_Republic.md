@@ -189,3 +189,10 @@ By **Good Riddance**
 - **Track:** 14
 - **Year:** 2006
 
+
+## See also
+
+- [Roon: A Comprehensive Guide to Moderne Rebellion](../../Roon/Good_Riddance/A_Comprehensive_Guide_to_Moderne_Rebellion.md)
+- [Roon: For God and Country](../../Roon/Good_Riddance/For_God_and_Country.md)
+- [Roon: The Phenomenon of Craving](../../Roon/Good_Riddance/The_Phenomenon_of_Craving.md)
+- [Roon: Thoughts and Prayers](../../Roon/Good_Riddance/Thoughts_and_Prayers.md)

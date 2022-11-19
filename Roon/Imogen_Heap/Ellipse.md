@@ -34,3 +34,9 @@ By Imogen Heap
 12. Canvas
 13. Half Life
 
+
+## See also
+
+- [I Megaphone](I_Megaphone.md)
+- [Sparks](Sparks.md)
+- [Speak for Yourself](Speak_for_Yourself.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [The Best Of Earth Wind & Fire Vol. I](The_Best_Of_Earth_Wind_and_Fire_Vol_I.md)
+
+## See also
+
+- [The Best Of Earth Wind & Fire Vol. I](The_Best_Of_Earth_Wind_and_Fire_Vol_I.md)

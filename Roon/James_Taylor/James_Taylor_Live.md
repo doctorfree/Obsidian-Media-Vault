@@ -51,3 +51,13 @@ By James Taylor
 2-14 You've Got a Friend
 2-15 That Lonesome Road
 
+
+## See also
+
+- [1967 (Deluxe Edition)](1967_Deluxe_Edition.md)
+- [James Taylor](James_Taylor.md)
+- [Mud Slide Slim and the Blue Horizon (2019 Remaster)](Mud_Slide_Slim_and_the_Blue_Horizon_2019_Remaster.md)
+- [One Man Dog](One_Man_Dog.md)
+- [Sweet Baby James](Sweet_Baby_James.md)
+- [Walking Man](Walking_Man.md)
+- [Beets: Greatest Hits](../../Beets/James_Taylor/Greatest_Hits.md)

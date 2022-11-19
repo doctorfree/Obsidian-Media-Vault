@@ -34,3 +34,13 @@ By James Taylor
 12. Highway Song
 13. Isn't It Nice to Be Home Again
 
+
+## See also
+
+- [1967 (Deluxe Edition)](1967_Deluxe_Edition.md)
+- [James Taylor Live](James_Taylor_Live.md)
+- [James Taylor](James_Taylor.md)
+- [One Man Dog](One_Man_Dog.md)
+- [Sweet Baby James](Sweet_Baby_James.md)
+- [Walking Man](Walking_Man.md)
+- [Beets: Greatest Hits](../../Beets/James_Taylor/Greatest_Hits.md)

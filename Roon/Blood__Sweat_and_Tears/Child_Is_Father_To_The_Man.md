@@ -36,3 +36,8 @@ By Blood, Sweat & Tears
 14. I Love You More Than You'll Ever Know (demo)
 15. The Modern Adventures of Plato, Diogenes and Freud (demo)
 
+
+## See also
+
+- [Beets: Blood, Sweat & Tears' Greatest Hits](../../Beets/Blood__Sweat_and_Tears/Blood__Sweat_and_Tears_Greatest_Hits.md)
+- [Beets: Blood, Sweat & Tears](../../Beets/Blood__Sweat_and_Tears/Blood__Sweat_and_Tears.md)

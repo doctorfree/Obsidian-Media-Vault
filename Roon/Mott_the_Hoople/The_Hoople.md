@@ -37,3 +37,9 @@ By Mott the Hoople
 15. Lounge Lizzard
 16. The Golden Age Of Rock 'N' Roll (Live From Broadway)
 
+
+## See also
+
+- [All The Young Dudes (Expanded Edition)](All_The_Young_Dudes_Expanded_Edition.md)
+- [Mott (Expanded Edition)](Mott_Expanded_Edition.md)
+- [Mott The Hoople](Mott_The_Hoople.md)

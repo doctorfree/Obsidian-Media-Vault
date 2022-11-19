@@ -57,3 +57,8 @@ By **Tommy James & The Shondells**
 - **Track:** 00
 - **Year:** 1969
 
+
+## See also
+
+- [Vinyl: Sweet Cherry Wine / Breakaway](../../Vinyl/Tommy_James_and_The_Shondells/Sweet_Cherry_Wine_-_Breakaway.md)
+- [Vinyl: ](../../Vinyl/Tommy_James_and_The_Shondells/Tommy_James_and_The_Shondells.md)

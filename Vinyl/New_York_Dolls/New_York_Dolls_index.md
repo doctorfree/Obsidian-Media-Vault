@@ -5,3 +5,8 @@
 ## Vinyl
 
 - [New York Dolls](New_York_Dolls.md)
+
+## See also
+
+- [New York Dolls](New_York_Dolls.md)
+- [Beets: New York Dolls](../../Beets/New_York_Dolls/New_York_Dolls.md)

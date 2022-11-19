@@ -27,3 +27,9 @@ By Triumvirat
 5. Dimplicity
 6. Million Dollars
 
+
+## See also
+
+- [Beets: Illusions On A Double Dimple [Rem. +4]](../../Beets/Triumvirat/Illusions_On_A_Double_Dimple_[Rem_+4].md)
+- [CD: Illusions On A Double Dimple](../../CD/Triumvirat/Illusions_On_A_Double_Dimple.md)
+- [CD: ](../../CD/Triumvirat/Triumvirat.md)

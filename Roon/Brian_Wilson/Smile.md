@@ -39,3 +39,9 @@ By Brian Wilson
 17. Good Vibrations
 18. Heroes and Villains [Instrumental]
 
+
+## See also
+
+- [Beets: SMiLE](../../Beets/Brian_Wilson/SMiLE.md)
+- [Vinyl: ](../../Vinyl/Brian_Wilson/Brian_Wilson_index.md)
+- [Vinyl: Brian Wilson](../../Vinyl/Brian_Wilson/Brian_Wilson.md)

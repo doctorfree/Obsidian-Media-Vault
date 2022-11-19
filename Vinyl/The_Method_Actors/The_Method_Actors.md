@@ -5,3 +5,7 @@
 ## Records
 
 - [Rang-A-Tang / Big Red Brain](Rang-A-Tang_-_Big_Red_Brain.md)
+
+## See also
+
+- [Rang-A-Tang / Big Red Brain](Rang-A-Tang_-_Big_Red_Brain.md)

@@ -38,3 +38,11 @@ By Paramore
 16. Be Alone
 17. Future
 
+
+## See also
+
+- [After Laughter](After_Laughter.md)
+- [All We Know Is Falling (Deluxe) (Édition StudioMasters) (Deluxe Edition)](All_We_Know_Is_Falling_Deluxe_Édition_StudioMasters_Deluxe_Edition.md)
+- [brand new eyes (Édition Studio Master)](brand_new_eyes_Édition_Studio_Master.md)
+- [RIOT! (Édition StudioMasters)](RIOT!_Édition_StudioMasters.md)
+- [Beets: RIOT!](../../Beets/Paramore/RIOT!.md)

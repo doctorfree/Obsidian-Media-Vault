@@ -29,3 +29,9 @@ By Aleka's Attic
 0. Too Many Colors
 0. Where I'd Gone
 
+
+## See also
+
+- [Never Odd Or Even](Never_Odd_Or_Even.md)
+- [Beets: Miscellaneous](../../Beets/Alekas_Attic/Miscellaneous.md)
+- [Beets: Never Odd Or Even](../../Beets/Alekas_Attic/Never_Odd_Or_Even.md)

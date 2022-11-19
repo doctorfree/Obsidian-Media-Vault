@@ -6,3 +6,8 @@
 
 - [A Girl Like You / It's Love](A_Girl_Like_You_-_Its_Love.md)
 - [How Can I Be Sure](How_Can_I_Be_Sure.md)
+
+## See also
+
+- [A Girl Like You / It's Love](A_Girl_Like_You_-_Its_Love.md)
+- [How Can I Be Sure](How_Can_I_Be_Sure.md)

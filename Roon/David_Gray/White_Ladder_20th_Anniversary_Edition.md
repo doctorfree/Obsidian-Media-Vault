@@ -43,3 +43,8 @@ By David Gray
 2-11 This Year's Love
 2-12 Please Forgive Me [Demo]
 
+
+## See also
+
+- [Beets: Life In Slow Motion](../../Beets/David_Gray/Life_In_Slow_Motion.md)
+- [Beets: White Ladder](../../Beets/David_Gray/White_Ladder.md)

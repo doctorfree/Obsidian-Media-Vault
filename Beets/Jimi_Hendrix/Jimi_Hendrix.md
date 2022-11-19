@@ -167,3 +167,12 @@ By **Jimi Hendrix**
 - **Track:** 12
 - **Year:** 1994
 
+
+## See also
+
+- [Jimi Hendrix](Jimi_Hendrix_2.md)
+- [Valleys of Neptune](Valleys_of_Neptune.md)
+- [Roon: Are You Experienced](../../Roon/Jimi_Hendrix/Are_You_Experienced.md)
+- [Roon: Axis](../../Roon/Jimi_Hendrix/Axis-_Bold_As_Love.md)
+- [Vinyl: Band Of Gypsys](../../Vinyl/Jimi_Hendrix/Band_Of_Gypsys.md)
+- [Vinyl: ](../../Vinyl/Jimi_Hendrix/Jimi_Hendrix.md)

@@ -5,3 +5,7 @@
 ## Vinyl
 
 - [The Velvet Underground & Nico](The_Velvet_Underground_and_Nico.md)
+
+## See also
+
+- [The Velvet Underground & Nico](The_Velvet_Underground_and_Nico.md)

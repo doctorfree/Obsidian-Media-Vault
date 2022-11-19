@@ -36,3 +36,7 @@ By Josh Clayton-Felt
 14. Anam Cara (Linda Buckley)
 15. Sense of Humor
 
+
+## See also
+
+- [Inarticulate Nature Boy](Inarticulate_Nature_Boy.md)

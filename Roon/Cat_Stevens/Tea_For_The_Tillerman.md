@@ -32,3 +32,11 @@ By Cat Stevens
 10. Father and Son (From the Film "Revolussia")
 11. Tea for the Tillerman
 
+
+## See also
+
+- [Harold and Maude [Original Motion Picture Soundtrack]](Harold_and_Maude_[Original_Motion_Picture_Soundtrack].md)
+- [Beets: Mona Bone Jakon](../../Beets/Cat_Stevens/Mona_Bone_Jakon.md)
+- [Beets: Tea for the Tillerman](../../Beets/Cat_Stevens/Tea_for_the_Tillerman.md)
+- [Vinyl: ](../../Vinyl/Cat_Stevens/Cat_Stevens.md)
+- [Vinyl: Tea For The Tillerman](../../Vinyl/Cat_Stevens/Tea_For_The_Tillerman.md)

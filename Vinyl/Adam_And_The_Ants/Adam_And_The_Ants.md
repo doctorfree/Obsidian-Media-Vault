@@ -5,3 +5,7 @@
 ## Records
 
 - [Kings Of The Wild Frontier](Kings_Of_The_Wild_Frontier.md)
+
+## See also
+
+- [Kings Of The Wild Frontier](Kings_Of_The_Wild_Frontier.md)

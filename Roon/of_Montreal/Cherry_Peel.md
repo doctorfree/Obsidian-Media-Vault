@@ -35,3 +35,8 @@ By of Montreal
 13. At Night Trees Aren't Sleeping
 14. You've Got a Gift
 
+
+## See also
+
+- [False Priest (of Montreal)](False_Priest_of_Montreal.md)
+- [The Sunlandic Twins](The_Sunlandic_Twins.md)

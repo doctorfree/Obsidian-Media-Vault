@@ -33,3 +33,10 @@ By Kaleidoscope
 11. Elevator Man
 12. Little Orphan Nannie
 
+
+## See also
+
+- [A Beacon From Mars (Expanded Edition)](A_Beacon_From_Mars_Expanded_Edition.md)
+- [Bernice (Expanded Edition)](Bernice_Expanded_Edition.md)
+- [Incredible Kaleidoscope (Expanded Edition)](Incredible_Kaleidoscope_Expanded_Edition.md)
+- [Beets: Faintly Blowing [Bonus Tracks]](../../Beets/Kaleidoscope/Faintly_Blowing_[Bonus_Tracks].md)

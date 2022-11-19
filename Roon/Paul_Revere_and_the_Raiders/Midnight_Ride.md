@@ -36,3 +36,8 @@ By Paul Revere & the Raiders
 14. SS 396
 15. Corvair Baby
 
+
+## See also
+
+- [Greatest Hits (Expanded Edition)](Greatest_Hits_Expanded_Edition.md)
+- [The Spirit of '67](The_Spirit_of_67.md)

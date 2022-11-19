@@ -33,3 +33,12 @@ By The Polyphonic Spree
 11. Overblow Your Nest
 12. The Championship
 
+
+## See also
+
+- [Together We're Heavy](Together_Were_Heavy.md)
+- [Beets: The Fragile Army](../../Beets/The_Polyphonic_Spree/The_Fragile_Army.md)
+- [Beets: Together We’re Heavy](../../Beets/The_Polyphonic_Spree/Together_We’re_Heavy.md)
+- [Beets: Yes, It's True](../../Beets/The_Polyphonic_Spree/Yes__Its_True.md)
+- [CD: ](../../CD/The_Polyphonic_Spree/The_Polyphonic_Spree.md)
+- [CD: "Yes, It's True"](../../CD/The_Polyphonic_Spree/Yes__Its_True.md)

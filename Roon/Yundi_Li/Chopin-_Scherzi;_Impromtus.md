@@ -28,3 +28,9 @@ By Yundi Li
 6. Chopin: Impromptu No. 2 In F Sharp, Op. 36
 7. Chopin: Impromptu No. 3 In G Flat, Op. 51
 
+
+## See also
+
+- [Emperor / Fantasy (Beethoven & Schumann)](Emperor_-_Fantasy_Beethoven_and_Schumann.md)
+- [Liszt](Liszt-_Piano_Works.md)
+- [Beets: Chopin Recital](../../Beets/Yundi_Li/Chopin_Recital.md)

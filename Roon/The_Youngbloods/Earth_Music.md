@@ -32,3 +32,11 @@ By The Youngbloods
 10. Fool Me
 11. Reason to Believe
 
+
+## See also
+
+- [Elephant Mountain](Elephant_Mountain.md)
+- [High On a Ridge Top](High_On_a_Ridge_Top.md)
+- [The Youngbloods](The_Youngbloods.md)
+- [Beets: Elephant Mountain](../../Beets/The_Youngbloods/Elephant_Mountain.md)
+- [Beets: The Youngbloods / Earth Music](../../Beets/The_Youngbloods/The_Youngbloods_-_Earth_Music.md)

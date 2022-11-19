@@ -35,3 +35,7 @@ By The Strawbs
 13. Poor Jimmy Wilson
 14. The Battle
 
+
+## See also
+
+- [Hero And Heroine](Hero_And_Heroine.md)

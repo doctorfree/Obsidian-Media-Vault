@@ -33,3 +33,9 @@ By John Doe
 11. Touch Me, Baby
 12. My Offering
 
+
+## See also
+
+- [A Year in the Wilderness](A_Year_in_the_Wilderness.md)
+- [Beets: A Year In The Wilderness](../../Beets/John_Doe/A_Year_In_The_Wilderness.md)
+- [Beets: Meet John Doe](../../Beets/John_Doe/Meet_John_Doe.md)

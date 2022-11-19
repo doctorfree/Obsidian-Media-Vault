@@ -36,3 +36,9 @@ By Polo & Pan
 14. Peter Pan
 15. Ani Kuni (edit)
 
+
+## See also
+
+- [Caravelle](Caravelle.md)
+- [Feel Good](Feel_Good.md)
+- [Plage isolée](Plage_isolée.md)

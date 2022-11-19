@@ -30,3 +30,11 @@ By Hawkwind
 8. Silver Machine [Live at the Roundhouse London]
 9. Born to Go [Live Single Version Edit]
 
+
+## See also
+
+- [Doremi Fasol Latido](Doremi_Fasol_Latido.md)
+- [Hall of the Mountain Grill](Hall_of_the_Mountain_Grill.md)
+- [Hawkwind (1996 Remaster)](Hawkwind_1996_Remaster.md)
+- [Space Ritual](Space_Ritual.md)
+- [Warrior on the Edge of Time](Warrior_on_the_Edge_of_Time.md)

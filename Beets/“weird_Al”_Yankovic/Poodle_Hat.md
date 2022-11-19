@@ -167,3 +167,8 @@ By **“Weird Al” Yankovic**
 - **Track:** 12
 - **Year:** 2017
 
+
+## See also
+
+- [Dare to Be Stupid](Dare_to_Be_Stupid.md)
+- [Running With Scissors](Running_With_Scissors.md)

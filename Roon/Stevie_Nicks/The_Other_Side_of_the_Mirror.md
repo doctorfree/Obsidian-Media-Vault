@@ -33,3 +33,8 @@ By Stevie Nicks
 11. Doing the Best I Can (Escape From Berlin)
 12. I Still Miss Someone (Blue Eyes)
 
+
+## See also
+
+- [Bella Donna (Deluxe Edition)](Bella_Donna_Deluxe_Edition.md)
+- [The Wild Heart (Deluxe Edition)](The_Wild_Heart_Deluxe_Edition.md)

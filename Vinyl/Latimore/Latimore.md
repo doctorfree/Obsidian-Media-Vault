@@ -5,3 +5,7 @@
 ## Records
 
 - [Discoed To Death / Just One Step](Discoed_To_Death_-_Just_One_Step.md)
+
+## See also
+
+- [Discoed To Death / Just One Step](Discoed_To_Death_-_Just_One_Step.md)

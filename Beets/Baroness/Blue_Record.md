@@ -145,3 +145,8 @@ By **Baroness**
 - **Track:** 10
 - **Year:** 2007
 
+
+## See also
+
+- [Red Album](Red_Album.md)
+- [Second](Second.md)

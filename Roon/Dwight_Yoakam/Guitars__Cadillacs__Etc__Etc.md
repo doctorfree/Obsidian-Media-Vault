@@ -33,3 +33,9 @@ By Dwight Yoakam
 
 ## E
 
+
+## See also
+
+- [Beets: Guitars Cadillacs Etc. Etc](../../Beets/Dwight_Yoakam/Guitars_Cadillacs_Etc_Etc.md)
+- [Beets: Hillbilly Deluxe](../../Beets/Dwight_Yoakam/Hillbilly_Deluxe.md)
+- [Beets: This Time](../../Beets/Dwight_Yoakam/This_Time.md)

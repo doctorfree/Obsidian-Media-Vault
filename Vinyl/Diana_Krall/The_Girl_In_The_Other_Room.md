@@ -36,3 +36,9 @@ By Diana Krall
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Diana_Krall.md)
+- [Beets: The Girl in the Other Room](../../Beets/Diana_Krall/The_Girl_in_the_Other_Room.md)
+- [Roon: The Girl In The Other Room](../../Roon/Diana_Krall/The_Girl_In_The_Other_Room.md)

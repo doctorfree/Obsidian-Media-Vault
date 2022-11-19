@@ -32,3 +32,13 @@ By Jane’s Addiction
 10. Thank You Boys
 11. Pigs in Zen
 
+
+## See also
+
+- [Ritual De Lo Habitual](Ritual_De_Lo_Habitual.md)
+- [Strays](Strays.md)
+- [Beets: Been Caught Stealing](../../Beets/Jane’s_Addiction/Been_Caught_Stealing.md)
+- [Beets: Classic Girl](../../Beets/Jane’s_Addiction/Classic_Girl.md)
+- [Beets: Nothing’s Shocking](../../Beets/Jane’s_Addiction/Nothing’s_Shocking.md)
+- [Beets: Ritual de lo habitual](../../Beets/Jane’s_Addiction/Ritual_de_lo_habitual.md)
+- [Beets: Strays](../../Beets/Jane’s_Addiction/Strays.md)

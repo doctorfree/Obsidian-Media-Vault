@@ -5,3 +5,7 @@
 ## Records
 
 - [Shake](Shake.md)
+
+## See also
+
+- [Shake](Shake.md)

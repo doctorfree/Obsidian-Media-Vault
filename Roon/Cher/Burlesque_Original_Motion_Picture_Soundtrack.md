@@ -31,3 +31,11 @@ By Cher
 9. Show Me How You Burlesque
 10. The Beautiful People (from Burlesque)
 
+
+## See also
+
+- [Dancing Queen](Dancing_Queen.md)
+- [Gypsys, Tramps & Thieves](Gypsys__Tramps_and_Thieves.md)
+- [Half-Breed](Half-Breed.md)
+- [Heart Of Stone](Heart_Of_Stone.md)
+- [Beets: Half‐Breed](../../Beets/Cher/Half‐Breed.md)

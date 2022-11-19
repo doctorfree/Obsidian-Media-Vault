@@ -31,3 +31,10 @@ By Bobbie Gentry
 9. Lazy Willie
 10. Ode to Billie Joe
 
+
+## See also
+
+- [Fancy](Fancy.md)
+- [The Delta Sweete (Deluxe Edition)](The_Delta_Sweete_Deluxe_Edition.md)
+- [Beets: Fancy](../../Beets/Bobbie_Gentry/Fancy.md)
+- [Beets: The Delta Sweete](../../Beets/Bobbie_Gentry/The_Delta_Sweete.md)

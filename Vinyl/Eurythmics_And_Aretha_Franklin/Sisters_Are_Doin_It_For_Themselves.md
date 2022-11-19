@@ -36,3 +36,7 @@ By Eurythmics And Aretha Franklin
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Eurythmics_And_Aretha_Franklin.md)

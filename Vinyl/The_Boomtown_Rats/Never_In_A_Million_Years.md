@@ -36,3 +36,7 @@ By The Boomtown Rats
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](The_Boomtown_Rats.md)

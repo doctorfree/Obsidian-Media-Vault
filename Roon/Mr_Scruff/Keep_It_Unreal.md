@@ -35,3 +35,7 @@ By Mr. Scruff
 13. Travelogue
 14. Fish
 
+
+## See also
+
+- [Beets: Ninja Tuna](../../Beets/Mr_Scruff/Ninja_Tuna.md)

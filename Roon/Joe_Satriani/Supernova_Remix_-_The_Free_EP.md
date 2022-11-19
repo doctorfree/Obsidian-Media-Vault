@@ -16,3 +16,7 @@ By Joe Satriani
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## See also
+
+- [Beets: Supernova Remix - The Free EP](../../Beets/Joe_Satriani/Supernova_Remix_-_The_Free_EP.md)

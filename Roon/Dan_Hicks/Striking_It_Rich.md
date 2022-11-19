@@ -35,3 +35,7 @@ By Dan Hicks
 13. Skippy's Farewell
 14. Fujiyama
 
+
+## See also
+
+- [Where's The Money](Wheres_The_Money.md)

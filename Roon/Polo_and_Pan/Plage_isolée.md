@@ -25,3 +25,9 @@ By Polo & Pan
 3. Plage isolée (Tim Paris remix)
 4. Plage isolée (Claap! remix)
 
+
+## See also
+
+- [Caravelle](Caravelle.md)
+- [Cyclorama](Cyclorama.md)
+- [Feel Good](Feel_Good.md)

@@ -112,3 +112,10 @@ By **Matthew Sweet**
 - **Track:** 07
 - **Year:** 1994
 
+
+## See also
+
+- [100% Fun](100%_Fun.md)
+- [Altered Beast](Altered_Beast.md)
+- [Son of Altered Beast](Son_of_Altered_Beast.md)
+- [Roon: Girlfriend (Legacy Edition)](../../Roon/Matthew_Sweet/Girlfriend_Legacy_Edition.md)

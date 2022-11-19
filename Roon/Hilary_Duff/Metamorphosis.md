@@ -34,3 +34,8 @@ By Hilary Duff
 12. Inner Strength
 13. Why Not
 
+
+## See also
+
+- [Hilary Duff](Hilary_Duff.md)
+- [Beets: Hilary Duff](../../Beets/Hilary_Duff/Hilary_Duff.md)

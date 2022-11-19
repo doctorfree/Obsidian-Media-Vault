@@ -32,3 +32,9 @@ By P. Hux
 10. Playing Her Guitar
 11. Stay Where You Are
 
+
+## See also
+
+- [Deluxe (P.Hux)](Deluxe_PHux.md)
+- [Homemade Spaceship](Homemade_Spaceship-_The_Music_of_ELO.md)
+- [This Is the One](This_Is_the_One.md)

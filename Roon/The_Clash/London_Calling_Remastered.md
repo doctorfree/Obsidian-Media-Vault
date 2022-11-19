@@ -40,3 +40,10 @@ By The Clash
 18. Revolution Rock
 19. Train in Vain
 
+
+## See also
+
+- [Beets: London Calling](../../Beets/The_Clash/London_Calling.md)
+- [Beets: The Clash](../../Beets/The_Clash/The_Clash.md)
+- [Vinyl: Gates Of The West](../../Vinyl/The_Clash/Gates_Of_The_West.md)
+- [Vinyl: ](../../Vinyl/The_Clash/The_Clash.md)

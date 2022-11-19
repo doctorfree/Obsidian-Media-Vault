@@ -29,3 +29,10 @@ By Focus
 7. Elspeth Of Nottingham
 8. Anonymus II
 
+
+## See also
+
+- [Hamburger Concerto (2020 Remastered Edition)](Hamburger_Concerto_2020_Remastered_Edition.md)
+- [Moving Waves](Moving_Waves.md)
+- [Vinyl: ](../../Vinyl/Focus/Focus.md)
+- [Vinyl: Hocus Pocus](../../Vinyl/Focus/Hocus_Pocus.md)

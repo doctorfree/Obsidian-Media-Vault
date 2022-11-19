@@ -35,3 +35,9 @@ By Ian Hunter
 13. Shades Off (poem)
 14. Boy (Edit)
 
+
+## See also
+
+- [Rant](Rant.md)
+- [You're Never Alone with a Schizophrenic (Deluxe Version)](Youre_Never_Alone_with_a_Schizophrenic_Deluxe_Version.md)
+- [Beets: Rant](../../Beets/Ian_Hunter/Rant.md)

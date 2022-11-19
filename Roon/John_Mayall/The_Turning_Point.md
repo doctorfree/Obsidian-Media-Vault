@@ -40,3 +40,11 @@ By John Mayall
 6. Thoughts About Roxanne
 7. Room to Move
 
+
+## See also
+
+- [A Hard Road (Deluxe Edition)](A_Hard_Road_Deluxe_Edition.md)
+- [A Hard Road](A_Hard_Road.md)
+- [Back To The Roots](Back_To_The_Roots.md)
+- [Bluesbreakers](Bluesbreakers.md)
+- [Blues From Laurel Canyon](Blues_From_Laurel_Canyon.md)

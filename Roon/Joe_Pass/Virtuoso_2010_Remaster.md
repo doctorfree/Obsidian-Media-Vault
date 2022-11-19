@@ -33,3 +33,12 @@ By Joe Pass
 11. Blues for Alican
 12. The Song Is You
 
+
+## See also
+
+- [Virtuoso #2](Virtuoso_2.md)
+- [Virtuoso #3](Virtuoso_3.md)
+- [Beets: Intercontinental](../../Beets/Joe_Pass/Intercontinental.md)
+- [Beets: Virtuoso #3](../../Beets/Joe_Pass/Virtuoso_3.md)
+- [Vinyl: Intercontinental](../../Vinyl/Joe_Pass/Intercontinental.md)
+- [Vinyl: ](../../Vinyl/Joe_Pass/Joe_Pass.md)

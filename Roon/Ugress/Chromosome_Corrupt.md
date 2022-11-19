@@ -25,3 +25,8 @@ By Ugress
 3. Trenchant Preliator
 4. Sepia Rainbows
 
+
+## See also
+
+- [Retroconnaissance](Retroconnaissance.md)
+- [Sophisticated Wickedness](Sophisticated_Wickedness.md)

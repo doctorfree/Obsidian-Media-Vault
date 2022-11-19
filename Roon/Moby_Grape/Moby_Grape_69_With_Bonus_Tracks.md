@@ -39,3 +39,10 @@ By Moby Grape
 17. Big (demo)
 18. Hoochie (demo)
 
+
+## See also
+
+- [Legendary Grape](Legendary_Grape.md)
+- [Moby Grape (with Bonus Tracks)](Moby_Grape_with_Bonus_Tracks.md)
+- [Wow (CD W/Bonus Tracks)](Wow_CD_W-Bonus_Tracks.md)
+- [Beets: Legendary Grape](../../Beets/Moby_Grape/Legendary_Grape.md)

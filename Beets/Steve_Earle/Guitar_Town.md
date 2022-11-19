@@ -46,3 +46,14 @@ By **Steve Earle**
 - **Track:** 02
 - **Year:** 2000
 
+
+## See also
+
+- [Copperhead Road](Copperhead_Road.md)
+- [I Feel Alright](I_Feel_Alright.md)
+- [Train a Comin’](Train_a_Comin’.md)
+- [Trancendental Blues](Trancendental_Blues.md)
+- [CD: Copperhead Road](../../CD/Steve_Earle/Copperhead_Road.md)
+- [CD: ](../../CD/Steve_Earle/Steve_Earle.md)
+- [Roon: Copperhead Road](../../Roon/Steve_Earle/Copperhead_Road.md)
+- [Roon: Train A Comin'](../../Roon/Steve_Earle/Train_A_Comin.md)

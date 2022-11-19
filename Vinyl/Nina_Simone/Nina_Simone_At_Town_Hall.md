@@ -40,3 +40,5 @@ By Nina Simone
 ## See also
 
 - [My Baby Just Cares For Me](My_Baby_Just_Cares_For_Me.md)
+- [Beets: It Is Finished](../../Beets/Nina_Simone/It_Is_Finished.md)
+- [Beets: The Best of Nina Simone](../../Beets/Nina_Simone/The_Best_of_Nina_Simone.md)

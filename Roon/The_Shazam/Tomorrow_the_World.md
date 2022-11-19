@@ -33,3 +33,10 @@ By The Shazam
 11. You Know Who
 12. Nine Times
 
+
+## See also
+
+- [Godspeed the Shazam](Godspeed_the_Shazam.md)
+- [Beets: Godspeed the Shazam](../../Beets/The_Shazam/Godspeed_the_Shazam.md)
+- [Beets: Meteor](../../Beets/The_Shazam/Meteor.md)
+- [Beets: Tomorrow the World](../../Beets/The_Shazam/Tomorrow_the_World.md)

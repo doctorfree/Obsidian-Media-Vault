@@ -35,3 +35,10 @@ By Kaleidoscope
 13. Hello Trouble
 14. Just a Taste
 
+
+## See also
+
+- [Bernice (Expanded Edition)](Bernice_Expanded_Edition.md)
+- [Incredible Kaleidoscope (Expanded Edition)](Incredible_Kaleidoscope_Expanded_Edition.md)
+- [Side Trips (Expanded Edition)](Side_Trips_Expanded_Edition.md)
+- [Beets: Faintly Blowing [Bonus Tracks]](../../Beets/Kaleidoscope/Faintly_Blowing_[Bonus_Tracks].md)

@@ -178,3 +178,9 @@ By **Teenage Fanclub**
 - **Track:** 13
 - **Year:** 1995
 
+
+## See also
+
+- [Grand Prix](Grand_Prix.md)
+- [Man-Made](Man-Made.md)
+- [Songs From Northern Britain](Songs_From_Northern_Britain.md)

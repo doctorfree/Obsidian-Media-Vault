@@ -33,3 +33,8 @@ By Shirley Bassey
 11. They Can't Take That Away from Me
 12. The Party's Over
 
+
+## See also
+
+- [Shirley Bassey](Shirley_Bassey-_Greatest_Hits.md)
+- [Beets: Diamonds](../../Beets/Shirley_Bassey/Diamonds.md)

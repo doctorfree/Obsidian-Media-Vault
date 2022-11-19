@@ -5,3 +5,8 @@
 ## Records
 
 - [Redneck Shit](Redneck_Shit.md)
+
+## See also
+
+- [Redneck Shit](Redneck_Shit.md)
+- [Roon: Redneck Shit](../../Roon/Wheeler_Walker_Jr/Redneck_Shit.md)

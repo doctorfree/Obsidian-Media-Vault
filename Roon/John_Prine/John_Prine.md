@@ -34,3 +34,7 @@ By John Prine
 12. Six O'Clock News
 13. Flashback Blues
 
+
+## See also
+
+- [Beets: Great Days](../../Beets/John_Prine/Great_Days.md)

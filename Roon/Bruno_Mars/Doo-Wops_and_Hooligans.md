@@ -31,3 +31,8 @@ By Bruno Mars
 9. Count on Me
 10. The Other Side
 
+
+## See also
+
+- [24K Magic](24K_Magic.md)
+- [Unorthodox Jukebox (Hi-Res Version)](Unorthodox_Jukebox_Hi-Res_Version.md)

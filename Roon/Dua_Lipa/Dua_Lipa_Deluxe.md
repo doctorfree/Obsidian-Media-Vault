@@ -38,3 +38,8 @@ By Dua Lipa
 16. Bad Together
 17. Last Dance
 
+
+## See also
+
+- [Club Future Nostalgia (DJ Mix)](Club_Future_Nostalgia_DJ_Mix.md)
+- [Future Nostalgia (The Moonlight Edition - Explicit) (The Moonlight Edition)](Future_Nostalgia_The_Moonlight_Edition_-_Explicit_The_Moonlight_Edition.md)

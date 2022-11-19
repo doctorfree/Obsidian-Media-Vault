@@ -36,3 +36,7 @@ By New Kids On The Block
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](New_Kids_On_The_Block.md)

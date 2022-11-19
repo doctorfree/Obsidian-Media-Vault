@@ -42,3 +42,4 @@ By Genesis
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)
 - [Genesis](Genesis.md)
 - [Trespass](Trespass.md)
+- [Beets: Seconds Out](../../Beets/Genesis/Seconds_Out.md)

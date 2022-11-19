@@ -28,3 +28,10 @@ By GoGo Penguin
 6. Kora
 7. Protest
 
+
+## See also
+
+- [A Humdrum Star](A_Humdrum_Star.md)
+- [GGP/RMX](GGP-RMX.md)
+- [GoGo Penguin](GoGo_Penguin.md)
+- [Man Made Object (Deluxe Edition) (Deluxe)](Man_Made_Object_Deluxe_Edition_Deluxe.md)

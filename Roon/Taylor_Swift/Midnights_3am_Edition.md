@@ -41,3 +41,9 @@ By Taylor Swift
 19. Would've, Could've, Should've
 20. Dear Reader
 
+
+## See also
+
+- [folklore (deluxe version - explicit) (deluxe version)](folklore_deluxe_version_-_explicit_deluxe_version.md)
+- [Folklore (Explicit)](Folklore_Explicit.md)
+- [Red (Taylor's Version)](Red_Taylors_Version.md)

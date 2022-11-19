@@ -27,3 +27,11 @@ By War
 5. The World Is a Ghetto
 6. Beetles in the Bog
 
+
+## See also
+
+- [All Day Music](All_Day_Music.md)
+- [Eric Burdon Declares War](Eric_Burdon_Declares_War.md)
+- [The Black-Man's Burdon](The_Black-Mans_Burdon.md)
+- [WAR](WAR.md)
+- [Why Can't We Be Friends?](Why_Cant_We_Be_Friends.md)

@@ -39,3 +39,10 @@ By P!nk
 17. Just Like a Pill (Jacknife Lee mix)
 18. Don't Let Me Get Me (Maurice's Nu Soul mix)
 
+
+## See also
+
+- [Beautiful Trauma](Beautiful_Trauma.md)
+- [Funhouse (Expanded Edition)](Funhouse_Expanded_Edition.md)
+- [Hurts 2B Human](Hurts_2B_Human.md)
+- [The Truth About Love](The_Truth_About_Love.md)

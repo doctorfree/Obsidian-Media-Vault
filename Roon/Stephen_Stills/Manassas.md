@@ -42,3 +42,13 @@ By Stephen Stills
 20. The Treasure [Take One]
 21. Blues Man
 
+
+## See also
+
+- [Carry On](Carry_On.md)
+- [Stephen Stills 2](Stephen_Stills_2.md)
+- [Stephen Stills](Stephen_Stills.md)
+- [Super Session](Super_Session.md)
+- [Beets: Manassas](../../Beets/Stephen_Stills/Manassas.md)
+- [CD: Manassas](../../CD/Stephen_Stills/Manassas.md)
+- [CD: ](../../CD/Stephen_Stills/Stephen_Stills.md)

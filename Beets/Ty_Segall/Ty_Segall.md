@@ -145,3 +145,14 @@ By **Ty Segall**
 - **Track:** 10
 - **Year:** 2017
 
+
+## See also
+
+- [Manipulator](Manipulator.md)
+- [Roon: First Taste](../../Roon/Ty_Segall/First_Taste.md)
+- [Roon: Freedom's Goblin](../../Roon/Ty_Segall/Freedoms_Goblin.md)
+- [Roon: Fudge Sandwich](../../Roon/Ty_Segall/Fudge_Sandwich.md)
+- [Roon: Manipulator](../../Roon/Ty_Segall/Manipulator.md)
+- [Roon: Ty Segall](../../Roon/Ty_Segall/Ty_Segall.md)
+- [Vinyl: ](../../Vinyl/Ty_Segall/Ty_Segall_index.md)
+- [Vinyl: Ty Segall](../../Vinyl/Ty_Segall/Ty_Segall.md)

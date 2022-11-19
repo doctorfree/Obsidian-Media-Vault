@@ -33,3 +33,7 @@ By Billy Joe Shaver
 11. Way Down Texas Way
 12. She Can Dance
 
+
+## See also
+
+- [Beets: Electric Shaver](../../Beets/Billy_Joe_Shaver/Electric_Shaver.md)

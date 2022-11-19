@@ -39,3 +39,13 @@ By Aimee Mann
 17. It Takes All Kinds
 18. You Do
 
+
+## See also
+
+- [Bachelor No. 2 (Or, The Last Remains of the Dodo)](Bachelor_No_2_Or__The_Last_Remains_of_the_Dodo.md)
+- [I'm With Stupid](Im_With_Stupid.md)
+- [Lost In Space](Lost_In_Space.md)
+- [Mental Illness](Mental_Illness.md)
+- [Whatever](Whatever.md)
+- [Beets: Bachelor No. 2](../../Beets/Aimee_Mann/Bachelor_No_2.md)
+- [Beets: I'm With Stupid](../../Beets/Aimee_Mann/Im_With_Stupid.md)

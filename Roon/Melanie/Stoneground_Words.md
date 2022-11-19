@@ -33,3 +33,11 @@ By Melanie
 11. Bitter Bad
 12. Seeds (includes "Gather Me" Poem)
 
+
+## See also
+
+- [Gather Me](Gather_Me.md)
+- [Melanie](Melanie.md)
+- [Photograph](Photograph-_Double_Exposure.md)
+- [What Have They Done to My Song](What_Have_They_Done_to_My_Song.md)
+- [Beets: Gather Me](../../Beets/Melanie/Gather_Me.md)

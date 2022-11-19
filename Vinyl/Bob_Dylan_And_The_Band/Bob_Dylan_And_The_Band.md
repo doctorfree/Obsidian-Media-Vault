@@ -5,3 +5,7 @@
 ## Records
 
 - [Bridgett's Album](Bridgetts_Album.md)
+
+## See also
+
+- [Bridgett's Album](Bridgetts_Album.md)

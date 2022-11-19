@@ -33,3 +33,11 @@ By Captain Beefheart
 11. Suction Prints
 12. Apes-Ma
 
+
+## See also
+
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Clear Spot](Clear_Spot.md)
+- [Lick My Decals Off, Baby](Lick_My_Decals_Off__Baby.md)
+- [Safe As Milk](Safe_As_Milk.md)
+- [The Spotlight Kid](The_Spotlight_Kid.md)

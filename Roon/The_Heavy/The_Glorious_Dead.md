@@ -31,3 +31,8 @@ By The Heavy
 9. Don't Say Nothing
 10. Blood Dirt Love Stop
 
+
+## See also
+
+- [Beets: The Glorious Dead.](../../Beets/The_Heavy/The_Glorious_Dead_2.md)
+- [Beets: The Glorious Dead](../../Beets/The_Heavy/The_Glorious_Dead.md)

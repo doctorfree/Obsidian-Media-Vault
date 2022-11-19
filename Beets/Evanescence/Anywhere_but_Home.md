@@ -101,3 +101,15 @@ By **Evanescence**
 - **Track:** 14
 - **Year:** 2004
 
+
+## See also
+
+- [Anywhere But Home [Live]](Anywhere_But_Home_[Live].md)
+- [Fallen](Fallen.md)
+- [The Open Door](The_Open_Door.md)
+- [Roon: Anywhere But Home (Live)](../../Roon/Evanescence/Anywhere_But_Home_Live.md)
+- [Roon: Bring Me To Life (Synthesis)](../../Roon/Evanescence/Bring_Me_To_Life_Synthesis.md)
+- [Roon: Evanescence (Deluxe Version)](../../Roon/Evanescence/Evanescence_Deluxe_Version.md)
+- [Roon: Fallen](../../Roon/Evanescence/Fallen.md)
+- [Roon: Synthesis](../../Roon/Evanescence/Synthesis.md)
+- [Roon: The Open Door](../../Roon/Evanescence/The_Open_Door.md)

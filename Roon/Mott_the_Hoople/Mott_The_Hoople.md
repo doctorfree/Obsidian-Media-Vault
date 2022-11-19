@@ -29,3 +29,9 @@ By Mott the Hoople
 7. Half Moon Bay
 8. Wrath and Wroll
 
+
+## See also
+
+- [All The Young Dudes (Expanded Edition)](All_The_Young_Dudes_Expanded_Edition.md)
+- [Mott (Expanded Edition)](Mott_Expanded_Edition.md)
+- [The Hoople](The_Hoople.md)

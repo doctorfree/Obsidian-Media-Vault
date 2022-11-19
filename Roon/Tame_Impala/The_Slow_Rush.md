@@ -33,3 +33,12 @@ By Tame Impala
 11. Glimmer
 12. One More Hour
 
+
+## See also
+
+- [Currents](Currents.md)
+- [InnerSpeaker](InnerSpeaker.md)
+- [Lonerism](Lonerism.md)
+- [Beets: InnerSpeaker](../../Beets/Tame_Impala/InnerSpeaker.md)
+- [Vinyl: Innerspeaker](../../Vinyl/Tame_Impala/Innerspeaker.md)
+- [Vinyl: ](../../Vinyl/Tame_Impala/Tame_Impala.md)

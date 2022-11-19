@@ -134,3 +134,9 @@ By **Vangelis**
 - **Track:** 00
 - **Year:** 1995
 
+
+## See also
+
+- [Albedo 0.39](Albedo_039.md)
+- [Greatest Hits](Greatest_Hits.md)
+- [Voices](Voices.md)

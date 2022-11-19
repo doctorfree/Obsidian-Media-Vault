@@ -36,3 +36,10 @@ By Queens Of The Stone Age
 - Speed: 45 rpm
 - Weight: 150 gram
 
+
+## See also
+
+- [](Queens_Of_The_Stone_Age.md)
+- [Beets: Era Vulgaris](../../Beets/Queens_Of_The_Stone_Age/Era_Vulgaris.md)
+- [Beets: …Like Clockwork](../../Beets/Queens_Of_The_Stone_Age/…Like_Clockwork.md)
+- [Beets: Lullabies to Paralyze](../../Beets/Queens_Of_The_Stone_Age/Lullabies_to_Paralyze.md)

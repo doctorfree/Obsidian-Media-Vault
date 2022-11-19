@@ -31,3 +31,11 @@ By Fiona Apple
 9. Pale September
 10. Carrion
 
+
+## See also
+
+- [Extraordinary Machine](Extraordinary_Machine.md)
+- [Fetch The Bolt Cutters](Fetch_The_Bolt_Cutters.md)
+- [Beets: Extraordinary Machine](../../Beets/Fiona_Apple/Extraordinary_Machine.md)
+- [Beets: Tidal](../../Beets/Fiona_Apple/Tidal.md)
+- [Beets: When The Pawn](../../Beets/Fiona_Apple/When_The_Pawn.md)

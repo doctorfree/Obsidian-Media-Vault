@@ -6,3 +6,8 @@
 
 - [Dream Machine](Dream_Machine.md)
 - [Inside](Inside.md)
+
+## See also
+
+- [Dream Machine](Dream_Machine.md)
+- [Inside](Inside.md)

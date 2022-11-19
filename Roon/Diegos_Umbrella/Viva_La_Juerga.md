@@ -33,3 +33,11 @@ By Diego's Umbrella
 11. Doppleganger
 12. Voyage to Tarnihan
 
+
+## See also
+
+- [Double Panther](Double_Panther.md)
+- [Edjka](Edjka.md)
+- [Kung Fu Palace](Kung_Fu_Palace.md)
+- [Proper Cowboy](Proper_Cowboy.md)
+- [The Christmas Album](The_Christmas_Album.md)

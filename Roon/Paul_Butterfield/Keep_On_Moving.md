@@ -33,3 +33,11 @@ By Paul Butterfield
 11. Buddy's Advice
 12. Keep on Moving
 
+
+## See also
+
+- [East-West](East-West.md)
+- [In My Own Dream](In_My_Own_Dream.md)
+- [The Paul Butterfield Blues Band](The_Paul_Butterfield_Blues_Band.md)
+- [The Resurrection Of Pigboy Crabshaw](The_Resurrection_Of_Pigboy_Crabshaw.md)
+- [What's Shakin'](Whats_Shakin.md)

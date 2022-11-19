@@ -32,3 +32,9 @@ By P. Hux
 10. Honey Sweet Baby
 11. Sleeping With A Friend
 
+
+## See also
+
+- [Deluxe](Deluxe.md)
+- [Deluxe (P.Hux)](Deluxe_PHux.md)
+- [Homemade Spaceship](Homemade_Spaceship-_The_Music_of_ELO.md)

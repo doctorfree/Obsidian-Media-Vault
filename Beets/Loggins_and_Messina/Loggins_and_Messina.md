@@ -145,3 +145,11 @@ By **Loggins & Messina**
 - **Track:** 10
 - **Year:** 1989
 
+
+## See also
+
+- [Full Sail](Full_Sail.md)
+- [Mother Lode](Mother_Lode.md)
+- [Sittin' In](Sittin_In.md)
+- [Sittin' In (Ripped Vinyl)](Sittin_In_Ripped_Vinyl.md)
+- [Roon: Sittin' In](../../Roon/Loggins_and_Messina/Sittin_In.md)

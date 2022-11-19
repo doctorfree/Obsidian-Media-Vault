@@ -29,3 +29,10 @@ By Kaleidoscope
 7. Seven-Ate Sweet
 8. Sefan
 
+
+## See also
+
+- [A Beacon From Mars (Expanded Edition)](A_Beacon_From_Mars_Expanded_Edition.md)
+- [Bernice (Expanded Edition)](Bernice_Expanded_Edition.md)
+- [Side Trips (Expanded Edition)](Side_Trips_Expanded_Edition.md)
+- [Beets: Faintly Blowing [Bonus Tracks]](../../Beets/Kaleidoscope/Faintly_Blowing_[Bonus_Tracks].md)

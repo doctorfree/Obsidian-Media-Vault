@@ -33,3 +33,8 @@ By The Beau Brummels
 11. I Would Be Happy
 12. Not Too Long Ago
 
+
+## See also
+
+- [The Best Of The Beau Brummels (Remastered)](The_Best_Of_The_Beau_Brummels_Remastered.md)
+- [Triangle](Triangle.md)

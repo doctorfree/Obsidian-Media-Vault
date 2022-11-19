@@ -167,3 +167,10 @@ By **Bobbie Gentry**
 - **Track:** 12
 - **Year:** 1968
 
+
+## See also
+
+- [The Delta Sweete](The_Delta_Sweete.md)
+- [Roon: Fancy](../../Roon/Bobbie_Gentry/Fancy.md)
+- [Roon: Ode To Billie Joe](../../Roon/Bobbie_Gentry/Ode_To_Billie_Joe.md)
+- [Roon: The Delta Sweete (Deluxe Edition)](../../Roon/Bobbie_Gentry/The_Delta_Sweete_Deluxe_Edition.md)

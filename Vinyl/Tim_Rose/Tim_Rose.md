@@ -5,3 +5,7 @@
 ## Records
 
 - [King Lonely The Blue / Hey Joe (You Shot Your Woman Down)](King_Lonely_The_Blue_-_Hey_Joe_You_Shot_Your_Woman_Down.md)
+
+## See also
+
+- [King Lonely The Blue / Hey Joe (You Shot Your Woman Down)](King_Lonely_The_Blue_-_Hey_Joe_You_Shot_Your_Woman_Down.md)

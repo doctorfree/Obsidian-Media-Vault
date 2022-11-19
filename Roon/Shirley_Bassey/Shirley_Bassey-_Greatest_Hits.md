@@ -37,3 +37,8 @@ By Shirley Bassey
 15. Goldfinger [Propellerheads Mix]
 16. Big Spender [Wild Oscar Mix]
 
+
+## See also
+
+- [The Fabulous Shirley Bassey (1999 Remaster)](The_Fabulous_Shirley_Bassey_1999_Remaster.md)
+- [Beets: Diamonds](../../Beets/Shirley_Bassey/Diamonds.md)

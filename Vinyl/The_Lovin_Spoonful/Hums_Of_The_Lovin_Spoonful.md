@@ -47,3 +47,4 @@ Mono
 - [Daydream](Daydream.md)
 - [Do You Believe In Magic](Do_You_Believe_In_Magic.md)
 - [The Best Of The Lovin' Spoonful](The_Best_Of_The_Lovin_Spoonful.md)
+- [Beets: Daydream](../../Beets/The_Lovin_Spoonful/Daydream.md)

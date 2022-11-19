@@ -36,3 +36,12 @@ By Pixies
 14. Motorway to Roswell
 15. The Navajo Know
 
+
+## See also
+
+- [Bossanova](Bossanova.md)
+- [Doolittle](Doolittle.md)
+- [Surfer Rosa (Remastered)](Surfer_Rosa_Remastered.md)
+- [Beets: Death to the Pixies](../../Beets/Pixies/Death_to_the_Pixies.md)
+- [Beets: Doolittle](../../Beets/Pixies/Doolittle.md)
+- [Beets: Fight Club OST](../../Beets/Pixies/Fight_Club_OST.md)

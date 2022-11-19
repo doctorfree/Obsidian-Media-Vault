@@ -33,3 +33,9 @@ By Carole King
 11. Tapestry
 12. (You Make Me Feel Like) A Natural Woman
 
+
+## See also
+
+- [Beets: Tapestry](../../Beets/Carole_King/Tapestry.md)
+- [Vinyl: ](../../Vinyl/Carole_King/Carole_King.md)
+- [Vinyl: Tapestry](../../Vinyl/Carole_King/Tapestry.md)

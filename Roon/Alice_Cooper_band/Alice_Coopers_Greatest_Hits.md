@@ -33,3 +33,8 @@ By Alice Cooper (band)
 11. Teenage Lament '74
 12. Muscle of Love
 
+
+## See also
+
+- [Billion Dollar Babies (Édition Studio Masters)](Billion_Dollar_Babies_Édition_Studio_Masters.md)
+- [School's Out](Schools_Out.md)

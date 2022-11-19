@@ -145,3 +145,13 @@ By **Funkadelic**
 - **Track:** 09
 - **Year:** 2005
 
+
+## See also
+
+- [Cosmic Slop](Cosmic_Slop.md)
+- [Funkadelic](Funkadelic.md)
+- [Maggot Brain](Maggot_Brain.md)
+- [Roon: Funkadelic](../../Roon/Funkadelic/Funkadelic.md)
+- [Roon: Maggot Brain](../../Roon/Funkadelic/Maggot_Brain.md)
+- [Vinyl: ](../../Vinyl/Funkadelic/Funkadelic.md)
+- [Vinyl: Maggot Brain](../../Vinyl/Funkadelic/Maggot_Brain.md)

@@ -28,3 +28,11 @@ By The Disco Biscuits
 6. M80 [Live at Red Rocks]
 7. You and I [Extended Club Remix by Juan Maclean]
 
+
+## See also
+
+- [On Time EP](On_Time_EP.md)
+- [Planet Anthem](Planet_Anthem.md)
+- [Rapture (Party Pupils Remix)](Rapture_Party_Pupils_Remix.md)
+- [Senor Boombox](Senor_Boombox.md)
+- [Uncivilized Area](Uncivilized_Area.md)

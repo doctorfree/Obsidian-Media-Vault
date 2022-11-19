@@ -40,3 +40,5 @@ By Jane's Addiction
 ## See also
 
 - [Nothing's Shocking](Nothings_Shocking.md)
+- [Vinyl: ](../../Vinyl/Janes_Addiction/Janes_Addiction.md)
+- [Vinyl: Sterling Spoon](../../Vinyl/Janes_Addiction/Sterling_Spoon.md)

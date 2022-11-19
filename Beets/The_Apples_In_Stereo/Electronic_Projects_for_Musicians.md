@@ -46,3 +46,7 @@ By **The Apples In Stereo**
 - **Track:** 13
 - **Year:** 2008
 
+
+## See also
+
+- [New Magnetic Wonder](New_Magnetic_Wonder.md)

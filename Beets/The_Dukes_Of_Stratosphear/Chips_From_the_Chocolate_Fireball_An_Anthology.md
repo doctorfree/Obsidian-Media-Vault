@@ -211,3 +211,9 @@ By **The Dukes of Stratosphear**
 - **Track:** 16
 - **Year:** 1987
 
+
+## See also
+
+- [Vinyl: Psonic Psunspot](../../Vinyl/The_Dukes_Of_Stratosphear/Psonic_Psunspot.md)
+- [Vinyl: ](../../Vinyl/The_Dukes_Of_Stratosphear/The_Dukes_Of_Stratosphear.md)
+- [Vinyl: The Mole From The Ministry](../../Vinyl/The_Dukes_Of_Stratosphear/The_Mole_From_The_Ministry.md)

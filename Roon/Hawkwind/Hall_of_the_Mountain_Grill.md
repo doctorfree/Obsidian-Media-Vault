@@ -34,3 +34,11 @@ By Hawkwind
 12. Paradox [Live At Edmonton Sundown] [Remix Single Edit]
 13. It's So Easy [Live At Edmonton Sundown]
 
+
+## See also
+
+- [Doremi Fasol Latido](Doremi_Fasol_Latido.md)
+- [Hawkwind (1996 Remaster)](Hawkwind_1996_Remaster.md)
+- [In Search of Space](In_Search_of_Space.md)
+- [Space Ritual](Space_Ritual.md)
+- [Warrior on the Edge of Time](Warrior_on_the_Edge_of_Time.md)

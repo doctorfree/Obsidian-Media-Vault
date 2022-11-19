@@ -30,3 +30,11 @@ By Sly & the Family Stone
 8. We Can Do It
 9. High, Y'all
 
+
+## See also
+
+- [Back On The Right Track](Back_On_The_Right_Track.md)
+- [Greatest Hits](Greatest_Hits.md)
+- [Heard Ya Missed Me, Well I'm Back](Heard_Ya_Missed_Me__Well_Im_Back.md)
+- [There's a Riot Goin' On](Theres_a_Riot_Goin_On.md)
+- [Who In The Funk Do You Think You Are](Who_In_The_Funk_Do_You_Think_You_Are-_The_Warner_Bros_Recordings.md)

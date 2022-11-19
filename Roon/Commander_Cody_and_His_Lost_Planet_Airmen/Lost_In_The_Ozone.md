@@ -33,3 +33,7 @@ By Commander Cody and His Lost Planet Airmen
 11. 20 Flight Rock
 12. Beat Me Daddy, Eight to the Bar
 
+
+## See also
+
+- [Bear's Sonic Journals](Bears_Sonic_Journals-_Found_in_the_Ozone_Live.md)

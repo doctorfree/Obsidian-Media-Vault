@@ -32,3 +32,8 @@ By E
 10. E's Tune
 11. You'll Be the Scarecrow
 
+
+## See also
+
+- [Broken Toy Shop](Broken_Toy_Shop.md)
+- [Beets: Broken Toy Shop](../../Beets/E/Broken_Toy_Shop.md)

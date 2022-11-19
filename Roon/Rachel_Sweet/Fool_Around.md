@@ -37,3 +37,7 @@ By Rachel Sweet
 15. Tourist Boys
 16. Be Stiff
 
+
+## See also
+
+- [Beets: Fool Around](../../Beets/Rachel_Sweet/Fool_Around.md)

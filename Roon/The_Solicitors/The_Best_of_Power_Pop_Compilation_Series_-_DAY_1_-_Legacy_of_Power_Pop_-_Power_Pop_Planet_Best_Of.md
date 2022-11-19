@@ -22,3 +22,7 @@ By The Solicitors
 
 0. Pretty Penny
 
+
+## See also
+
+- [Beets: Legacy of Power Pop - Power Pop Planet Best Of](../../Beets/The_Solicitors/Legacy_of_Power_Pop_-_Power_Pop_Planet_Best_Of.md)

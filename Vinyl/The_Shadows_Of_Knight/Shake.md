@@ -36,3 +36,7 @@ By The Shadows Of Knight
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](The_Shadows_Of_Knight.md)

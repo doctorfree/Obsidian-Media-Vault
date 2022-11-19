@@ -31,3 +31,8 @@ By Earl Scruggs
 9. Wooden Nickels
 10. One Man Show
 
+
+## See also
+
+- [Rockin' Cross the Country](Rockin_Cross_the_Country.md)
+- [Strike Anywhere](Strike_Anywhere.md)

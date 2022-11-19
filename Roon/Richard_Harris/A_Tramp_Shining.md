@@ -30,3 +30,8 @@ By Richard Harris
 8. If You Must Leave My Life
 9. A Tramp Shining
 
+
+## See also
+
+- [Vinyl: A Tramp Shining](../../Vinyl/Richard_Harris/A_Tramp_Shining.md)
+- [Vinyl: ](../../Vinyl/Richard_Harris/Richard_Harris.md)

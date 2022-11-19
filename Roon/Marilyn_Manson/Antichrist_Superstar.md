@@ -38,3 +38,9 @@ By Marilyn Manson
 16. Man That You Fear
 17. Empty Sounds of Hate
 
+
+## See also
+
+- [Lest We Forget - The Best Of](Lest_We_Forget_-_The_Best_Of.md)
+- [Mechanical Animals](Mechanical_Animals.md)
+- [THE PALE EMPEROR (Deluxe Edition)](THE_PALE_EMPEROR_Deluxe_Edition.md)

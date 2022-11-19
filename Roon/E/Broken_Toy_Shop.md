@@ -37,3 +37,8 @@ By E
 18. Shine It All On
 19. My Old Raincoat
 
+
+## See also
+
+- [A Man Called E](A_Man_Called_E.md)
+- [Beets: Broken Toy Shop](../../Beets/E/Broken_Toy_Shop.md)

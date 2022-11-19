@@ -27,3 +27,13 @@ By The Go‐Go’s
 5. La La Land
 6. Club Zero
 
+
+## See also
+
+- [Beauty And The Beat](Beauty_And_The_Beat.md)
+- [Club Zero](Club_Zero.md)
+- [Head Over Heels](Head_Over_Heels.md)
+- [Staycation](Staycation.md)
+- [Talk Show](Talk_Show.md)
+- [Vacation](Vacation.md)
+- [We Got The Beat (Karaoke Version)](We_Got_The_Beat_Karaoke_Version.md)

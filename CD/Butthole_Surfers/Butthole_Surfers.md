@@ -5,3 +5,7 @@
 ## CD
 
 - [Psychic... Powerless... Another Man's Sac](Psychic_Powerless_Another_Mans_Sac.md)
+
+## See also
+
+- [Psychic... Powerless... Another Man's Sac](Psychic_Powerless_Another_Mans_Sac.md)

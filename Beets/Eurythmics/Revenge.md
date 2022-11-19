@@ -90,3 +90,8 @@ By **Eurythmics**
 - **Track:** 05
 - **Year:** 0000
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Eurythmics/Eurythmics.md)
+- [Vinyl: Touch](../../Vinyl/Eurythmics/Touch.md)

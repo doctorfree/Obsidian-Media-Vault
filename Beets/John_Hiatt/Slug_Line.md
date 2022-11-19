@@ -167,3 +167,8 @@ By **John Hiatt**
 - **Track:** 12
 - **Year:** 2002
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/John_Hiatt/John_Hiatt.md)
+- [Vinyl: Slug Line](../../Vinyl/John_Hiatt/Slug_Line.md)

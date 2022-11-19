@@ -55,3 +55,7 @@ By Marilyn Monroe
 2-16 Specialization
 2-17 Happy Birthday Mr. President/Thanks for the Memory
 
+
+## See also
+
+- [Beets: I Wanna Be Loved By You](../../Beets/Marilyn_Monroe/I_Wanna_Be_Loved_By_You.md)

@@ -41,3 +41,8 @@ By A Plus D
 19. If I Were a Free Fallin' Boy (Beyoncé vs. Tom Petty)
 20. Easy Heaven (The Cure vs. The Commodores)
 
+
+## See also
+
+- [Best of Bootie 2018](Best_of_Bootie_2018.md)
+- [Beets: Best of Bootie 2009 v.2](../../Beets/A_Plus_D/Best_of_Bootie_2009_v2.md)

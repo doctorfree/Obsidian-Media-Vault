@@ -30,3 +30,7 @@ By Church of the Cosmic Skull
 8. Paper Aeroplane & Silver Moon
 9. The Devil Again
 
+
+## See also
+
+- [Everybody's Going to Die](Everybodys_Going_to_Die.md)

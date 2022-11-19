@@ -16,3 +16,8 @@ By João Gilberto
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## See also
+
+- [Amoroso](Amoroso.md)
+- [Getz/Gilberto](Getz-Gilberto.md)

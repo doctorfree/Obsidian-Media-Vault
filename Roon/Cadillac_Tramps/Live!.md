@@ -37,3 +37,9 @@ By Cadillac Tramps
 15. Hate
 16. Train to Fame
 
+
+## See also
+
+- [Don't Go (Special Edition)](Dont_Go_Special_Edition.md)
+- [Beets: Don't Go (Special Edition)](../../Beets/Cadillac_Tramps/Dont_Go_Special_Edition.md)
+- [Beets: Live](../../Beets/Cadillac_Tramps/Live.md)

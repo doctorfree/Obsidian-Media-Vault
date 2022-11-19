@@ -47,3 +47,11 @@ By John Mayall
 2-12 Mr. Censor Man [Remix]
 2-13 Looking at Tomorrow [Remix]
 
+
+## See also
+
+- [A Hard Road (Deluxe Edition)](A_Hard_Road_Deluxe_Edition.md)
+- [A Hard Road](A_Hard_Road.md)
+- [Bluesbreakers](Bluesbreakers.md)
+- [Blues From Laurel Canyon](Blues_From_Laurel_Canyon.md)
+- [The Turning Point](The_Turning_Point.md)

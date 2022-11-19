@@ -5,3 +5,7 @@
 ## Records
 
 - [Cinderella / A Little Like Lovin'](Cinderella_-_A_Little_Like_Lovin.md)
+
+## See also
+
+- [Cinderella / A Little Like Lovin'](Cinderella_-_A_Little_Like_Lovin.md)

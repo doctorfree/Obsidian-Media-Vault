@@ -26,3 +26,8 @@ By Herbert von Karajan
 4. Symphony No. 9 in E minor, Op. 95 "From the New World": 4. Allegro con fuoco
 5. Má vlast: Vltava
 
+
+## See also
+
+- [Beethoven](Beethoven_-_9_Symphonies_1963.md)
+- [Strauss](Strauss-_Also_sprach_Zarathustra__Till_Eulenspiegel.md)

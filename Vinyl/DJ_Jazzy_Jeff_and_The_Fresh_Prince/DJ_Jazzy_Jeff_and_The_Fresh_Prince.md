@@ -5,3 +5,7 @@
 ## Records
 
 - [Parents Just Don't Understand](Parents_Just_Dont_Understand.md)
+
+## See also
+
+- [Parents Just Don't Understand](Parents_Just_Dont_Understand.md)

@@ -31,3 +31,10 @@ By The Black Keys
 9. Baby I'm Coming Home
 10. Didn't I Love You
 
+
+## See also
+
+- [Brothers (Deluxe Remastered Anniversary Edition)](Brothers_Deluxe_Remastered_Anniversary_Edition.md)
+- [El Camino](El_Camino.md)
+- [Let's Rock](Lets_Rock.md)
+- [Beets: Brothers](../../Beets/The_Black_Keys/Brothers.md)

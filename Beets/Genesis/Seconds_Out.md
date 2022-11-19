@@ -167,3 +167,11 @@ By **Genesis**
 - **Track:** 12
 - **Year:** 1977
 
+
+## See also
+
+- [Vinyl: A Trick Of The Tail](../../Vinyl/Genesis/A_Trick_Of_The_Tail.md)
+- [Vinyl: ](../../Vinyl/Genesis/Genesis_index.md)
+- [Vinyl: Genesis](../../Vinyl/Genesis/Genesis.md)
+- [Vinyl: Selling England By The Pound](../../Vinyl/Genesis/Selling_England_By_The_Pound.md)
+- [Vinyl: Trespass](../../Vinyl/Genesis/Trespass.md)

@@ -31,3 +31,8 @@ By The B‐52s
 9. Topaz
 10. Follow Your Bliss
 
+
+## See also
+
+- [Beets: Cosmic Thing](../../Beets/The_B‐52s/Cosmic_Thing.md)
+- [Beets: Good Stuff](../../Beets/The_B‐52s/Good_Stuff.md)

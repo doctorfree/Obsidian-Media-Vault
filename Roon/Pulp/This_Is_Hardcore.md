@@ -34,3 +34,8 @@ By Pulp
 12. The Day After the Revolution
 13. Like a Friend
 
+
+## See also
+
+- [Different Class](Different_Class.md)
+- [His 'N' Hers](His_N_Hers.md)

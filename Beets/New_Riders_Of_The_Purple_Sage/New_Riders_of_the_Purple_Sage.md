@@ -145,3 +145,8 @@ By **New Riders of the Purple Sage**
 - **Track:** 10
 - **Year:** 1989
 
+
+## See also
+
+- [Vinyl: Louisiana Lady](../../Vinyl/New_Riders_Of_The_Purple_Sage/Louisiana_Lady.md)
+- [Vinyl: ](../../Vinyl/New_Riders_Of_The_Purple_Sage/New_Riders_Of_The_Purple_Sage.md)

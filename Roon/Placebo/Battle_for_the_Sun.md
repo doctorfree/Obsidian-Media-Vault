@@ -34,3 +34,8 @@ By Placebo
 12. Come Undone
 13. Kings of Medicine
 
+
+## See also
+
+- [Beets: Battle For The Sun (Amazon MP3 Exclusive Version)](../../Beets/Placebo/Battle_For_The_Sun_Amazon_MP3_Exclusive_Version.md)
+- [Beets: Battle for the Sun](../../Beets/Placebo/Battle_for_the_Sun.md)

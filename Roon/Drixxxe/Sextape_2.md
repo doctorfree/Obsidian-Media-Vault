@@ -26,3 +26,11 @@ By Drixxxe
 6. Refractory Period
 7. Again
 
+
+## See also
+
+- [Sextape 1](Sextape_1.md)
+- [Sextape 3](Sextape_3.md)
+- [Beets: Sextape 1](../../Beets/Drixxxe/Sextape_1.md)
+- [Beets: Sextape 2](../../Beets/Drixxxe/Sextape_2.md)
+- [Beets: Sextape 3](../../Beets/Drixxxe/Sextape_3.md)

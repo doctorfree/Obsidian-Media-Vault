@@ -5,3 +5,7 @@
 ## Records
 
 - [I Can't Control Myself](I_Cant_Control_Myself.md)
+
+## See also
+
+- [I Can't Control Myself](I_Cant_Control_Myself.md)

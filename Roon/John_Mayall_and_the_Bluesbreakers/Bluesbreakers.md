@@ -45,3 +45,8 @@ By John Mayall & the Bluesbreakers
 23. Steppin' Out [Stereo Instrumental]
 24. It Ain't Right [Stereo]
 
+
+## See also
+
+- [A Hard Road (Deluxe Edition)](A_Hard_Road_Deluxe_Edition.md)
+- [Blues From Laurel Canyon](Blues_From_Laurel_Canyon.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Love Stinks](Love_Stinks.md)
+
+## See also
+
+- [Love Stinks](Love_Stinks.md)

@@ -31,3 +31,9 @@ By Tommy Roe
 9. Baby I Love You
 10. Hooray for Hazel
 
+
+## See also
+
+- [It's Now Winters Day](Its_Now_Winters_Day.md)
+- [Sheila & Other Hits](Sheila_and_Other_Hits.md)
+- [Beets: The Best Of Tommy Roe](../../Beets/Tommy_Roe/The_Best_Of_Tommy_Roe.md)

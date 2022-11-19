@@ -36,3 +36,7 @@ By Dead Or Alive
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Dead_Or_Alive.md)

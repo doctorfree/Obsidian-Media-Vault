@@ -156,3 +156,7 @@ By **The Kills**
 - **Track:** 11
 - **Year:** 2005
 
+
+## See also
+
+- [Midnight Boom](Midnight_Boom.md)

@@ -30,3 +30,12 @@ By Jeff Beck
 8. Freeway Jam
 9. Diamond Dust
 
+
+## See also
+
+- [Emotion & Commotion](Emotion_and_Commotion.md)
+- [Truth](Truth.md)
+- [Beets: Blow by Blow](../../Beets/Jeff_Beck/Blow_by_Blow.md)
+- [Beets: Emotion & Commotion](../../Beets/Jeff_Beck/Emotion_and_Commotion.md)
+- [Vinyl: Blow By Blow](../../Vinyl/Jeff_Beck/Blow_By_Blow.md)
+- [Vinyl: ](../../Vinyl/Jeff_Beck/Jeff_Beck.md)

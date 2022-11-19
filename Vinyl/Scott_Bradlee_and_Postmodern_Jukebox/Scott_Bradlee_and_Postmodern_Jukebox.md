@@ -5,3 +5,7 @@
 ## Records
 
 - [The Essentials](The_Essentials.md)
+
+## See also
+
+- [The Essentials](The_Essentials.md)

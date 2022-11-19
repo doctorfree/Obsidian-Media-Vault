@@ -33,3 +33,10 @@ By The Black Keys
 11. Under the Gun
 12. Fire Walk With Me
 
+
+## See also
+
+- [Brothers (Deluxe Remastered Anniversary Edition)](Brothers_Deluxe_Remastered_Anniversary_Edition.md)
+- [Dropout Boogie](Dropout_Boogie.md)
+- [El Camino](El_Camino.md)
+- [Beets: Brothers](../../Beets/The_Black_Keys/Brothers.md)

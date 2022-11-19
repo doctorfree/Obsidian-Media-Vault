@@ -40,3 +40,9 @@ By Paul Kantner
 2-7 My Desire for You/I'm on Fire
 2-8 My Romance
 
+
+## See also
+
+- [Baron von Tollbooth & The Chrome Nun (2020 Remaster)](Baron_von_Tollbooth_and_The_Chrome_Nun_2020_Remaster.md)
+- [Blows Against The Empire](Blows_Against_The_Empire.md)
+- [Sunfighter](Sunfighter.md)

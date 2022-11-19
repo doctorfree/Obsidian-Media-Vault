@@ -33,3 +33,11 @@ By Paramore
 11. Pressure (live)
 12. Here We Go Again (live)
 
+
+## See also
+
+- [After Laughter](After_Laughter.md)
+- [brand new eyes (Édition Studio Master)](brand_new_eyes_Édition_Studio_Master.md)
+- [Paramore (Édition Studio Masters)](Paramore_Édition_Studio_Masters.md)
+- [RIOT! (Édition StudioMasters)](RIOT!_Édition_StudioMasters.md)
+- [Beets: RIOT!](../../Beets/Paramore/RIOT!.md)

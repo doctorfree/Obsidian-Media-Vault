@@ -16,3 +16,9 @@ By Joe Cocker
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## See also
+
+- [Mad Dogs & Englishmen (Live At The Fillmore East/1970/Reissue)](Mad_Dogs_and_Englishmen_Live_At_The_Fillmore_East-1970-Reissue.md)
+- [Vinyl: ](../../Vinyl/Joe_Cocker/Joe_Cocker.md)
+- [Vinyl: Mad Dogs & Englishmen](../../Vinyl/Joe_Cocker/Mad_Dogs_and_Englishmen.md)

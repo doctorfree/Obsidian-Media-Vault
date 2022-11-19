@@ -40,3 +40,5 @@ By Dean Martin
 ## See also
 
 - ["Let Me Go, Lover"](Let_Me_Go__Lover.md)
+- [Beets: Capitol Collectors Series](../../Beets/Dean_Martin/Capitol_Collectors_Series.md)
+- [Beets: Return To Me (Box Set)](../../Beets/Dean_Martin/Return_To_Me_Box_Set.md)

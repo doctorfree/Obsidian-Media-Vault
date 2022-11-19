@@ -68,3 +68,8 @@ By **Fuel**
 - **Track:** 01
 - **Year:** 2000
 
+
+## See also
+
+- [Something Like Human](Something_Like_Human.md)
+- [Sunburn](Sunburn.md)

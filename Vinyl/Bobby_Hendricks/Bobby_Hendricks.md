@@ -5,3 +5,7 @@
 ## Records
 
 - [Itchy Twitchy Feeling / Psycho](Itchy_Twitchy_Feeling_-_Psycho.md)
+
+## See also
+
+- [Itchy Twitchy Feeling / Psycho](Itchy_Twitchy_Feeling_-_Psycho.md)

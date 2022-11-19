@@ -38,3 +38,9 @@ By System of a Down
 
 ## T
 
+
+## See also
+
+- [Hypnotize](Hypnotize.md)
+- [Mezmerize](Mezmerize.md)
+- [Protect The Land / Genocidal Humanoidz](Protect_The_Land_-_Genocidal_Humanoidz.md)

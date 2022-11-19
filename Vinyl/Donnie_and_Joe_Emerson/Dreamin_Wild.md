@@ -40,3 +40,5 @@ By Donnie & Joe Emerson
 ## See also
 
 - [Still Dreamin' Wild](Still_Dreamin_Wild-_The_Lost_Recordings_1979-81.md)
+- [Beets: Dreamin' Wild](../../Beets/Donnie_and_Joe_Emerson/Dreamin_Wild.md)
+- [Beets: Still Dreamin' Wild](../../Beets/Donnie_and_Joe_Emerson/Still_Dreamin_Wild.md)

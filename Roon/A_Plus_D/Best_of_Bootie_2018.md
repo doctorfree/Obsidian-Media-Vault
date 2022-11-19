@@ -43,3 +43,8 @@ By A Plus D
 21. What About Los Angeles (P!nk vs. The Midnight)
 22. Shallow ('80's "Endless Love" Ballad Version) (Lady Gaga & Bradley Cooper vs. Diana Ross & Lionel Richie)
 
+
+## See also
+
+- [Best of Bootie 2008](Best_of_Bootie_2008.md)
+- [Beets: Best of Bootie 2009 v.2](../../Beets/A_Plus_D/Best_of_Bootie_2009_v2.md)

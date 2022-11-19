@@ -33,3 +33,12 @@ By Joe Pass
 11. If
 12. Limehouse Blues
 
+
+## See also
+
+- [Virtuoso (2010 Remaster)](Virtuoso_2010_Remaster.md)
+- [Virtuoso #3](Virtuoso_3.md)
+- [Beets: Intercontinental](../../Beets/Joe_Pass/Intercontinental.md)
+- [Beets: Virtuoso #3](../../Beets/Joe_Pass/Virtuoso_3.md)
+- [Vinyl: Intercontinental](../../Vinyl/Joe_Pass/Intercontinental.md)
+- [Vinyl: ](../../Vinyl/Joe_Pass/Joe_Pass.md)

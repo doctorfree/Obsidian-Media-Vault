@@ -34,3 +34,8 @@ By Galactic
 12. All Behind You Now
 13. Doomed
 
+
+## See also
+
+- [Coolin' Off](Coolin_Off.md)
+- [Into the Deep](Into_the_Deep.md)

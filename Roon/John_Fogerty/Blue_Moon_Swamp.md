@@ -35,3 +35,10 @@ By John Fogerty
 13. Just Pickin'
 14. Endless Sleep
 
+
+## See also
+
+- [Beets: Blue Moon Swamp](../../Beets/John_Fogerty/Blue_Moon_Swamp.md)
+- [Beets: Premonition](../../Beets/John_Fogerty/Premonition.md)
+- [Vinyl: Blue Moon Swamp](../../Vinyl/John_Fogerty/Blue_Moon_Swamp.md)
+- [Vinyl: ](../../Vinyl/John_Fogerty/John_Fogerty.md)

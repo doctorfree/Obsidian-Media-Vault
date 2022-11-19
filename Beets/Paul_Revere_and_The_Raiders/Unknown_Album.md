@@ -46,3 +46,10 @@ By **Paul Revere & The Raiders**
 - **Track:** 00
 - **Year:** 1971
 
+
+## See also
+
+- [Vinyl: Just Like Us!](../../Vinyl/Paul_Revere_and_The_Raiders/Just_Like_Us!.md)
+- [Vinyl: Midnight Ride](../../Vinyl/Paul_Revere_and_The_Raiders/Midnight_Ride.md)
+- [Vinyl: ](../../Vinyl/Paul_Revere_and_The_Raiders/Paul_Revere_and_The_Raiders.md)
+- [Vinyl: The Spirit Of '67](../../Vinyl/Paul_Revere_and_The_Raiders/The_Spirit_Of_67.md)

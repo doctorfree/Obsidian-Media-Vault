@@ -34,3 +34,10 @@ By P!nk
 12. Wild Hearts Can't Be Broken
 13. You Get My Love
 
+
+## See also
+
+- [Funhouse (Expanded Edition)](Funhouse_Expanded_Edition.md)
+- [Hurts 2B Human](Hurts_2B_Human.md)
+- [M!ssundaztood (Expanded Edition)](M!ssundaztood_Expanded_Edition.md)
+- [The Truth About Love](The_Truth_About_Love.md)

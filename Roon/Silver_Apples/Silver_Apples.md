@@ -30,3 +30,13 @@ By Silver Apples
 8. Dancing Gods
 9. Misty Mountain
 
+
+## See also
+
+- [Contact](Contact.md)
+- [Beets: Contact](../../Beets/Silver_Apples/Contact.md)
+- [Beets: Silver Apples](../../Beets/Silver_Apples/Silver_Apples.md)
+- [CD: ](../../CD/Silver_Apples/Silver_Apples_index.md)
+- [CD: Silver Apples](../../CD/Silver_Apples/Silver_Apples.md)
+- [Vinyl: ](../../Vinyl/Silver_Apples/Silver_Apples_index.md)
+- [Vinyl: Silver Apples](../../Vinyl/Silver_Apples/Silver_Apples.md)

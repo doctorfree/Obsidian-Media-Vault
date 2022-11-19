@@ -145,3 +145,8 @@ By **Dead Kennedys**
 - **Track:** 10
 - **Year:** 1993
 
+
+## See also
+
+- [CD: ](../../CD/Dead_Kennedys/Dead_Kennedys.md)
+- [CD: Frankenchrist](../../CD/Dead_Kennedys/Frankenchrist.md)

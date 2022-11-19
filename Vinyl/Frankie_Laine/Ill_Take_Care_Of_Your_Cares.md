@@ -36,3 +36,8 @@ By Frankie Laine
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Frankie_Laine.md)
+- [Beets: Best of Frankie Laine](../../Beets/Frankie_Laine/Best_of_Frankie_Laine.md)

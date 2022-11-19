@@ -33,3 +33,10 @@ By Captain Beefheart & His Magic Band
 11. Suction Prints
 12. Apes-Ma
 
+
+## See also
+
+- [Clear Spot](Clear_Spot.md)
+- [Lick My Decals Off, Baby](Lick_My_Decals_Off__Baby.md)
+- [Safe As Milk](Safe_As_Milk.md)
+- [Beets: The Spotlight Kid / Clear Spot](../../Beets/Captain_Beefheart_and_His_Magic_Band/The_Spotlight_Kid_-_Clear_Spot.md)

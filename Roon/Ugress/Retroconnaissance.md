@@ -25,3 +25,8 @@ By Ugress
 3. Terapolis Nightclub Fantasy
 4. Sekat Alegna
 
+
+## See also
+
+- [Chromosome Corrupt](Chromosome_Corrupt.md)
+- [Sophisticated Wickedness](Sophisticated_Wickedness.md)

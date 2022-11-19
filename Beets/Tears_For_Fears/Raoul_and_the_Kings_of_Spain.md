@@ -211,3 +211,9 @@ By **Tears for Fears**
 - **Track:** 15
 - **Year:** 1984
 
+
+## See also
+
+- [Songs from the Big Chair](Songs_from_the_Big_Chair.md)
+- [The Hurting](The_Hurting.md)
+- [The Seeds of Love](The_Seeds_of_Love.md)

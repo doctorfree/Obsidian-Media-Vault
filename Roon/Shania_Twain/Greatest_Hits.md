@@ -42,3 +42,13 @@ By Shania Twain
 20. Party for Two [Country Version With Intro]
 21. I Ain't No Quitter [Greatest Hits Version]
 
+
+## See also
+
+- [Up! (Red And Green Versions)](Up!_Red_And_Green_Versions.md)
+- [Beets: Greatest Hits](../../Beets/Shania_Twain/Greatest_Hits.md)
+- [Beets: Up!](../../Beets/Shania_Twain/Up!.md)
+- [CD: Ka-Ching! [cd1]](../../CD/Shania_Twain/Ka-Ching!_[cd1].md)
+- [CD: ](../../CD/Shania_Twain/Shania_Twain.md)
+- [CD: Up! (Disc 1)](../../CD/Shania_Twain/Up!_Disc_1.md)
+- [CD: Up!](../../CD/Shania_Twain/Up!.md)

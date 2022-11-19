@@ -5,3 +5,8 @@
 ## Vinyl
 
 - [It's A Beautiful Day](Its_A_Beautiful_Day.md)
+
+## See also
+
+- [It's A Beautiful Day](Its_A_Beautiful_Day.md)
+- [Beets: Creed Of Love](../../Beets/Its_A_Beautiful_Day/Creed_Of_Love.md)

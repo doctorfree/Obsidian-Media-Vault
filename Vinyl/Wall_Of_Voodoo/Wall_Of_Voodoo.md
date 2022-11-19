@@ -41,3 +41,5 @@ By Wall Of Voodoo
 
 - [Dark Continent](Dark_Continent.md)
 - [Mexican Radio](Mexican_Radio.md)
+- [Beets: Dark Continent](../../Beets/Wall_Of_Voodoo/Dark_Continent.md)
+- [Beets: Wall of Voodoo](../../Beets/Wall_Of_Voodoo/Wall_of_Voodoo.md)

@@ -36,3 +36,7 @@ By The Spinning Wighats
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](The_Spinning_Wighats.md)

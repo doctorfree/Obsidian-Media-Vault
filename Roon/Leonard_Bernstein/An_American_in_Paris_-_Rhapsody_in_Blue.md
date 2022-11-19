@@ -23,3 +23,8 @@ By Leonard Bernstein
 1. An American in Paris
 2. Rhapsody in Blue
 
+
+## See also
+
+- [West Side Story (Original Motion Picture Soundtrack)](West_Side_Story_Original_Motion_Picture_Soundtrack.md)
+- [West Side Story (The Original Soundrack Recording, 1961)](West_Side_Story_The_Original_Soundrack_Recording__1961.md)

@@ -51,3 +51,13 @@ By R.E.M.
 2-18 40 Sec. [40 Second Song Demo]
 2-19 Fretless 1 [Demo]
 
+
+## See also
+
+- [Automatic For The People](Automatic_For_The_People.md)
+- [Document (R.E.M. No. 5)](Document_REM_No_5.md)
+- [Green (25th Anniversary Deluxe Edition)](Green_25th_Anniversary_Deluxe_Edition.md)
+- [Monster](Monster.md)
+- [Murmur](Murmur.md)
+- [CD: Monster](../../CD/REM/Monster.md)
+- [CD: ](../../CD/REM/REM.md)

@@ -36,3 +36,7 @@ By Kiss
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Kiss.md)

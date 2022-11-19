@@ -46,3 +46,8 @@ By **Rick Nelson**
 - **Track:** 06
 - **Year:** 1994
 
+
+## See also
+
+- [Fools Rush In](Fools_Rush_In.md)
+- [Poor Little Fool](Poor_Little_Fool.md)

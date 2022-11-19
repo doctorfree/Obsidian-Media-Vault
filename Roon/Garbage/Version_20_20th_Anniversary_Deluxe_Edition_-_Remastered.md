@@ -43,3 +43,9 @@ By Garbage
 21. Tornado
 22. Afterglow
 
+
+## See also
+
+- [Beautiful Garbage (Remastered)](Beautiful_Garbage_Remastered.md)
+- [Bleed Like Me (Remastered)](Bleed_Like_Me_Remastered.md)
+- [Garbage (20th Anniversary Super Deluxe Edition/Remastered)](Garbage_20th_Anniversary_Super_Deluxe_Edition-Remastered.md)

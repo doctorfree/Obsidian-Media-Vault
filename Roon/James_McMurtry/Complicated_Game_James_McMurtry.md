@@ -33,3 +33,9 @@ By James McMurtry
 11. Long Island Sound
 12. Cutter
 
+
+## See also
+
+- [Childish Things](Childish_Things.md)
+- [Just Us Kids](Just_Us_Kids.md)
+- [Too Long In The Wasteland (Album Version)](Too_Long_In_The_Wasteland_Album_Version.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Wet](Wet.md)
+
+## See also
+
+- [Wet](Wet.md)

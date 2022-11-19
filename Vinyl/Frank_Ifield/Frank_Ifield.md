@@ -5,3 +5,7 @@
 ## Records
 
 - [I Remember You / I Listen To My Heart](I_Remember_You_-_I_Listen_To_My_Heart.md)
+
+## See also
+
+- [I Remember You / I Listen To My Heart](I_Remember_You_-_I_Listen_To_My_Heart.md)

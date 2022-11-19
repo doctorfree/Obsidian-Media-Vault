@@ -44,3 +44,9 @@ By Curtis Mayfield
 22. We're a Winner
 23. We're Rolling On
 
+
+## See also
+
+- [Curtis (Expanded Edition)](Curtis_Expanded_Edition.md)
+- [Keep on Keeping On. Studio Albums 1970-74 (2019 Remaster)](Keep_on_Keeping_On_Studio_Albums_1970-74_2019_Remaster.md)
+- [Superfly](Superfly.md)

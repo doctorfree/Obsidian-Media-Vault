@@ -46,3 +46,8 @@ By **The Dickies**
 - **Track:** 01
 - **Year:** 1989
 
+
+## See also
+
+- [Vinyl: Dawn Of The Dickies](../../Vinyl/The_Dickies/Dawn_Of_The_Dickies.md)
+- [Vinyl: ](../../Vinyl/The_Dickies/The_Dickies.md)

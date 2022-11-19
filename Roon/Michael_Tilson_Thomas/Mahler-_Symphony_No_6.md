@@ -25,3 +25,11 @@ By Michael Tilson Thomas
 3. Symphony No. 6 in A Minor: Andante moderato
 4. Symphony No. 6 in A Minor: Finale. Allegro moderato - Allegro energico
 
+
+## See also
+
+- [Copland](Copland-_Symphony_No_3.md)
+- [Masterpieces in Miniature](Masterpieces_in_Miniature.md)
+- [Piano Concerto No. 3 & Mass in C](Piano_Concerto_No_3_and_Mass_in_C.md)
+- [Tchaikovsky](Tchaikovsky-_Symphony_No_5_and_Romeo_and_Juliet__Fantasy-Overture.md)
+- [Tchaikovsky](Tchaikovsky-_Symphony_No_6__Pathétique.md)

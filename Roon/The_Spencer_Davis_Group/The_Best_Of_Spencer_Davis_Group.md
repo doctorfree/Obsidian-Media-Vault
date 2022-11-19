@@ -36,3 +36,8 @@ By The Spencer Davis Group
 14. Waltz for Lumumba
 15. Goodbye Stevie
 
+
+## See also
+
+- [Vinyl: I'm A Man](../../Vinyl/The_Spencer_Davis_Group/Im_A_Man.md)
+- [Vinyl: ](../../Vinyl/The_Spencer_Davis_Group/The_Spencer_Davis_Group.md)

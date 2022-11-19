@@ -36,3 +36,9 @@ By Beastie Boys
 14. The Brouhaha
 15. We Got The – (with skit)
 
+
+## See also
+
+- [Hello Nasty (Remastered Edition) (Deluxe Version/Remastered 2009)](Hello_Nasty_Remastered_Edition_Deluxe_Version-Remastered_2009.md)
+- [Ill Communication](Ill_Communication.md)
+- [Licensed To Ill](Licensed_To_Ill.md)

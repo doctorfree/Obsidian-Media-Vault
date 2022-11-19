@@ -27,3 +27,11 @@ By The Disco Biscuits
 5. Mirrors [Live at Red Rocks 2009]
 6. On Time [Extended Club Remix by Twisted Dee]
 
+
+## See also
+
+- [Planet Anthem](Planet_Anthem.md)
+- [Rapture (Party Pupils Remix)](Rapture_Party_Pupils_Remix.md)
+- [Senor Boombox](Senor_Boombox.md)
+- [Uncivilized Area](Uncivilized_Area.md)
+- [Widgets EP](Widgets_EP.md)

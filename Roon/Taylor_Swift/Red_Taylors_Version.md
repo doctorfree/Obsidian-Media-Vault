@@ -51,3 +51,9 @@ By Taylor Swift
 29. The Very First Night [From the Vault]
 30. All Too Well [10 Minute Version] [From the Vault]
 
+
+## See also
+
+- [folklore (deluxe version - explicit) (deluxe version)](folklore_deluxe_version_-_explicit_deluxe_version.md)
+- [Folklore (Explicit)](Folklore_Explicit.md)
+- [Midnights (3am Edition)](Midnights_3am_Edition.md)

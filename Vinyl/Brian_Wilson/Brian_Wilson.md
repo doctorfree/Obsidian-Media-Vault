@@ -36,3 +36,9 @@ By Brian Wilson
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Brian_Wilson_index.md)
+- [Beets: SMiLE](../../Beets/Brian_Wilson/SMiLE.md)
+- [Roon: Smile](../../Roon/Brian_Wilson/Smile.md)

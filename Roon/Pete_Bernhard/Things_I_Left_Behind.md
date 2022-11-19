@@ -29,3 +29,8 @@ By Pete Bernhard
 7. Left Behind
 8. Carpenter
 
+
+## See also
+
+- [Beets: Straight Line](../../Beets/Pete_Bernhard/Straight_Line.md)
+- [Beets: Things I Left Behind](../../Beets/Pete_Bernhard/Things_I_Left_Behind.md)

@@ -32,3 +32,8 @@ By Diplo
 10. Summer's Gonna Hurt You
 11. It's All Part of a Bigger Plan
 
+
+## See also
+
+- [Diplo Presents Thomas Wesley](Diplo_Presents_Thomas_Wesley-_Snake_Oil_Deluxe.md)
+- [Skrillex and Diplo present Jack Ü](Skrillex_and_Diplo_present_Jack_Ü.md)

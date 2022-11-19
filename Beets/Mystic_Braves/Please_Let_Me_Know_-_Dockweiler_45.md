@@ -57,3 +57,12 @@ By **Mystic Braves**
 - **Track:** 02
 - **Year:** 2013
 
+
+## See also
+
+- [Desert Island](Desert_Island.md)
+- [Mystic Braves](Mystic_Braves.md)
+- [Vinyl: Desert Island](../../Vinyl/Mystic_Braves/Desert_Island.md)
+- [Vinyl: ](../../Vinyl/Mystic_Braves/Mystic_Braves_index.md)
+- [Vinyl: Mystic Braves](../../Vinyl/Mystic_Braves/Mystic_Braves.md)
+- [Vinyl: Please Let Me Know](../../Vinyl/Mystic_Braves/Please_Let_Me_Know.md)

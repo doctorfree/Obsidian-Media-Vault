@@ -32,3 +32,18 @@ By Steppenwolf
 10. Take What You Need
 11. The Ostrich
 
+
+## See also
+
+- [Monster](Monster.md)
+- [The Second](The_Second.md)
+- [Beets: Monster](../../Beets/Steppenwolf/Monster.md)
+- [Beets: Steppenwolf](../../Beets/Steppenwolf/Steppenwolf.md)
+- [Beets: The Second](../../Beets/Steppenwolf/The_Second.md)
+- [CD: Monster](../../CD/Steppenwolf/Monster.md)
+- [CD: ](../../CD/Steppenwolf/Steppenwolf_index.md)
+- [CD: Steppenwolf](../../CD/Steppenwolf/Steppenwolf.md)
+- [CD: The Second](../../CD/Steppenwolf/The_Second.md)
+- [Vinyl: Monster](../../Vinyl/Steppenwolf/Monster.md)
+- [Vinyl: ](../../Vinyl/Steppenwolf/Steppenwolf_index.md)
+- [Vinyl: Steppenwolf](../../Vinyl/Steppenwolf/Steppenwolf.md)

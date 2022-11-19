@@ -29,3 +29,9 @@ By Ambrosia
 7. Mama Frog
 8. Drink of Water
 
+
+## See also
+
+- [Beets: Ambrosia](../../Beets/Ambrosia/Ambrosia.md)
+- [Vinyl: ](../../Vinyl/Ambrosia/Ambrosia.md)
+- [Vinyl: Somewhere I've Never Travelled](../../Vinyl/Ambrosia/Somewhere_Ive_Never_Travelled.md)

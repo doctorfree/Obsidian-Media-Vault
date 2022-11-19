@@ -38,3 +38,10 @@ By Jonathan Segel
 16. The Dying Stars
 17. Equilibrium, Pt. 2
 
+
+## See also
+
+- [Edgy Not Antsy](Edgy_Not_Antsy.md)
+- [Beets: 2014-09-12 - Pappy & Harriet's Pioneertown Palace](../../Beets/Jonathan_Segel/2014-09-12_-_Pappy_and_Harriets_Pioneertown_Palace.md)
+- [Beets: Horseshoes & Hand Grenades](../../Beets/Jonathan_Segel/Horseshoes_and_Hand_Grenades.md)
+- [Beets: Superfluity](../../Beets/Jonathan_Segel/Superfluity.md)

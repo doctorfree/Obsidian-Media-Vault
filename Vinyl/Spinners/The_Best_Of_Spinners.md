@@ -36,3 +36,7 @@ By Spinners
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Spinners.md)

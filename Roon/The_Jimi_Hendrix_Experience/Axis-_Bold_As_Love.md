@@ -34,3 +34,15 @@ By The Jimi Hendrix Experience
 12. Little Miss Lover
 13. Bold as Love
 
+
+## See also
+
+- [Are You Experienced](Are_You_Experienced.md)
+- [Beets: Are You Experienced?](../../Beets/The_Jimi_Hendrix_Experience/Are_You_Experienced_2.md)
+- [Beets: Are You Experienced](../../Beets/The_Jimi_Hendrix_Experience/Are_You_Experienced.md)
+- [Beets: Axis](../../Beets/The_Jimi_Hendrix_Experience/Axis.md)
+- [Beets: Electric Ladyland](../../Beets/The_Jimi_Hendrix_Experience/Electric_Ladyland.md)
+- [CD: Electric Ladyland](../../CD/The_Jimi_Hendrix_Experience/Electric_Ladyland.md)
+- [CD: ](../../CD/The_Jimi_Hendrix_Experience/The_Jimi_Hendrix_Experience.md)
+- [Vinyl: Are You Experienced](../../Vinyl/The_Jimi_Hendrix_Experience/Are_You_Experienced.md)
+- [Vinyl: ](../../Vinyl/The_Jimi_Hendrix_Experience/The_Jimi_Hendrix_Experience.md)

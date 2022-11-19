@@ -29,3 +29,11 @@ By Robert Palmer
 7. From a Whisper to a Scream
 8. Through It All There's You
 
+
+## See also
+
+- [Heavy Nova](Heavy_Nova.md)
+- [Beets: Heavy Nova](../../Beets/Robert_Palmer/Heavy_Nova.md)
+- [Beets: Riptide](../../Beets/Robert_Palmer/Riptide.md)
+- [Vinyl: Riptide](../../Vinyl/Robert_Palmer/Riptide.md)
+- [Vinyl: ](../../Vinyl/Robert_Palmer/Robert_Palmer.md)

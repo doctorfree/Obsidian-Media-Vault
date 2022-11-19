@@ -34,3 +34,9 @@ By Halsey
 12. Devil in Me
 13. Hopeless
 
+
+## See also
+
+- [BADLANDS](BADLANDS.md)
+- [If I Can’t Have Love, I Want Power (Extended)](If_I_Can’t_Have_Love__I_Want_Power_Extended.md)
+- [Manic](Manic.md)

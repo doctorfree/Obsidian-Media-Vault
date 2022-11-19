@@ -38,3 +38,8 @@ By The Sugarcubes
 16. Coldsweat [Remix]
 17. Deus [Remix]
 
+
+## See also
+
+- [It's-It](Its-It.md)
+- [Beets: The Great Crossover Potential](../../Beets/The_Sugarcubes/The_Great_Crossover_Potential.md)

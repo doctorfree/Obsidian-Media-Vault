@@ -34,3 +34,9 @@ By Plaid
 12. Crown Shy
 13. Praze
 
+
+## See also
+
+- [Not For Threes](Not_For_Threes.md)
+- [Reachy Prints](Reachy_Prints.md)
+- [Rest Proof Clockwork](Rest_Proof_Clockwork.md)

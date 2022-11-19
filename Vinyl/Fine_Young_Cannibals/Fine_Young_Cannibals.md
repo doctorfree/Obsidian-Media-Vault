@@ -36,3 +36,7 @@ By Fine Young Cannibals
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Fine_Young_Cannibals_index.md)

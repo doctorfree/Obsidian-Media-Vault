@@ -29,3 +29,9 @@ By Janis Joplin
 7. Little Girl Blue
 8. Work Me, Lord
 
+
+## See also
+
+- [Cheap Thrills](Cheap_Thrills.md)
+- [Janis Joplin Live At Winterland '68 (Live at the Winterland Ballroom, San Francisco, CA - April 1968)](Janis_Joplin_Live_At_Winterland_68_Live_at_the_Winterland_Ballroom__San_Francisco__CA_-_April_1968.md)
+- [Pearl (Legacy Edition)](Pearl_Legacy_Edition.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Flash](Flash.md)
+
+## See also
+
+- [Flash](Flash.md)

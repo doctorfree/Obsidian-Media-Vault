@@ -71,3 +71,7 @@ By Super Furry Animals
 3-25 Fragile Happiness (Brave Captain remix)
 3-26 Tradewinds (Bench remix)
 
+
+## See also
+
+- [Beets: Songbook](../../Beets/Super_Furry_Animals/Songbook.md)

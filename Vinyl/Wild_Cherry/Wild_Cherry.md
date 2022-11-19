@@ -36,3 +36,8 @@ By Wild Cherry
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Wild_Cherry_index.md)
+- [Beets: Wild Cherry](../../Beets/Wild_Cherry/Wild_Cherry.md)

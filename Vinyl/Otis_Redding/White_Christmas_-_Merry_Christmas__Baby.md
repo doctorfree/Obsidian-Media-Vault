@@ -36,3 +36,7 @@ By Otis Redding
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Otis_Redding.md)

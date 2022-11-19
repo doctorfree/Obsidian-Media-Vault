@@ -31,3 +31,8 @@ By Iron Butterfly
 9. Stamped Ideas
 10. Iron Butterfly Theme
 
+
+## See also
+
+- [In-A-Gadda-Da-Vida](In-A-Gadda-Da-Vida.md)
+- [Original Album Series](Original_Album_Series.md)

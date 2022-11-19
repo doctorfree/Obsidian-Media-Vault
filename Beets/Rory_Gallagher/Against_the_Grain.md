@@ -145,3 +145,10 @@ By **Rory Gallagher**
 - **Track:** 10
 - **Year:** 2020
 
+
+## See also
+
+- [Vinyl: Against The Grain](../../Vinyl/Rory_Gallagher/Against_The_Grain.md)
+- [Vinyl: Calling Card](../../Vinyl/Rory_Gallagher/Calling_Card.md)
+- [Vinyl: Irish Tour '74..](../../Vinyl/Rory_Gallagher/Irish_Tour_74.md)
+- [Vinyl: ](../../Vinyl/Rory_Gallagher/Rory_Gallagher.md)

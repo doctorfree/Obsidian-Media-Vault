@@ -34,3 +34,12 @@ By Tame Impala
 12. Love/Paranoia
 13. New Person, Same Old Mistakes
 
+
+## See also
+
+- [InnerSpeaker](InnerSpeaker.md)
+- [Lonerism](Lonerism.md)
+- [The Slow Rush](The_Slow_Rush.md)
+- [Beets: InnerSpeaker](../../Beets/Tame_Impala/InnerSpeaker.md)
+- [Vinyl: Innerspeaker](../../Vinyl/Tame_Impala/Innerspeaker.md)
+- [Vinyl: ](../../Vinyl/Tame_Impala/Tame_Impala.md)

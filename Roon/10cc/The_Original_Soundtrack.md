@@ -31,3 +31,9 @@ By 10cc
 9. Channel Swimmer
 10. Good News
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/10cc/10cc_index.md)
+- [Vinyl: 10cc](../../Vinyl/10cc/10cc.md)
+- [Vinyl: The Original Soundtrack](../../Vinyl/10cc/The_Original_Soundtrack.md)

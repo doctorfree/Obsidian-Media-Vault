@@ -32,3 +32,8 @@ By Claypool Lennon Delirium
 10. Bubbles Burst
 11. There's No Underwear in Space
 
+
+## See also
+
+- [Lime & Limpid Green](Lime_and_Limpid_Green.md)
+- [South of Reality](South_of_Reality.md)

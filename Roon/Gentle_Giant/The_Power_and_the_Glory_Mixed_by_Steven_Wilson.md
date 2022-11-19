@@ -31,3 +31,11 @@ By Gentle Giant
 9. The Power and the Glory
 10. Aspirations [Instrumental Out-Take]
 
+
+## See also
+
+- [Octopus (Steven Wilson Mix)](Octopus_Steven_Wilson_Mix.md)
+- [Three Piece Suite (Steven Wilson Mix)](Three_Piece_Suite_Steven_Wilson_Mix.md)
+- [Beets: Octopus](../../Beets/Gentle_Giant/Octopus.md)
+- [Beets: Playing the Fool](../../Beets/Gentle_Giant/Playing_the_Fool.md)
+- [Beets: The Power and the Glory](../../Beets/Gentle_Giant/The_Power_and_the_Glory.md)

@@ -145,3 +145,11 @@ By **Del Shannon**
 - **Track:** 10
 - **Year:** 1990
 
+
+## See also
+
+- [Roon: Greatest Hits](../../Roon/Del_Shannon/Greatest_Hits.md)
+- [Roon: Little Town Flirt](../../Roon/Del_Shannon/Little_Town_Flirt.md)
+- [Roon: Rock On!](../../Roon/Del_Shannon/Rock_On!.md)
+- [Roon: Runaway with Del Shannon](../../Roon/Del_Shannon/Runaway_with_Del_Shannon.md)
+- [Roon: The Further Adventures Of Charles Westover (Deluxe Edition)](../../Roon/Del_Shannon/The_Further_Adventures_Of_Charles_Westover_Deluxe_Edition.md)

@@ -32,3 +32,7 @@ By New Riders of the Purple Sage
 10. Duncan and Brady
 11. Willie and the Hand Jive
 
+
+## See also
+
+- [Bear's Sonic Journals](Bears_Sonic_Journals-_Dawn_of_the_New_Riders_of_the_Purple_Sage.md)

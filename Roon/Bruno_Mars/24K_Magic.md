@@ -30,3 +30,8 @@ By Bruno Mars
 8. Finesse
 9. Too Good to Say Goodbye
 
+
+## See also
+
+- [Doo-Wops & Hooligans](Doo-Wops_and_Hooligans.md)
+- [Unorthodox Jukebox (Hi-Res Version)](Unorthodox_Jukebox_Hi-Res_Version.md)

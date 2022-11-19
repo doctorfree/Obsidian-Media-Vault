@@ -43,3 +43,4 @@ By The Lovin' Spoonful
 - [Daydream](Daydream.md)
 - [Hums Of The Lovin' Spoonful](Hums_Of_The_Lovin_Spoonful.md)
 - [The Best Of The Lovin' Spoonful](The_Best_Of_The_Lovin_Spoonful.md)
+- [Beets: Daydream](../../Beets/The_Lovin_Spoonful/Daydream.md)

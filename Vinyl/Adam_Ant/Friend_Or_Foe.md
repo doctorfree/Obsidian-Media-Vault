@@ -36,3 +36,7 @@ By Adam Ant
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Adam_Ant.md)

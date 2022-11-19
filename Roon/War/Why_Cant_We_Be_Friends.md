@@ -30,3 +30,11 @@ By War
 8. In Mazatlan
 9. Why Can't We Be Friends?
 
+
+## See also
+
+- [All Day Music](All_Day_Music.md)
+- [Eric Burdon Declares War](Eric_Burdon_Declares_War.md)
+- [The Black-Man's Burdon](The_Black-Mans_Burdon.md)
+- [The World is a Ghetto](The_World_is_a_Ghetto.md)
+- [WAR](WAR.md)

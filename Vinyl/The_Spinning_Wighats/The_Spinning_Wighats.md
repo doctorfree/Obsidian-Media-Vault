@@ -5,3 +5,7 @@
 ## Records
 
 - [I Can't Hide](I_Cant_Hide.md)
+
+## See also
+
+- [I Can't Hide](I_Cant_Hide.md)

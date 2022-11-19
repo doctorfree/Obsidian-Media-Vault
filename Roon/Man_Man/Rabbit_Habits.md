@@ -34,3 +34,12 @@ By Man Man
 12. Poor Jackie
 13. Whale Bones
 
+
+## See also
+
+- [Life Fantastic (Deluxe Edition)](Life_Fantastic_Deluxe_Edition.md)
+- [Beets: Life Fantastic](../../Beets/Man_Man/Life_Fantastic.md)
+- [Beets: Man Man](../../Beets/Man_Man/Man_Man.md)
+- [Beets: On Oni Pond](../../Beets/Man_Man/On_Oni_Pond.md)
+- [Beets: Rabbit Habits](../../Beets/Man_Man/Rabbit_Habits.md)
+- [Beets: Six Demon Bag](../../Beets/Man_Man/Six_Demon_Bag.md)

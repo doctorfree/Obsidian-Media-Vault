@@ -32,3 +32,8 @@ By Wheeler Walker Jr.
 10. Sit on My Face
 11. Which One O' You Queers Gonna Suck My Dick?
 
+
+## See also
+
+- [Vinyl: Redneck Shit](../../Vinyl/Wheeler_Walker_Jr/Redneck_Shit.md)
+- [Vinyl: ](../../Vinyl/Wheeler_Walker_Jr/Wheeler_Walker_Jr.md)

@@ -34,3 +34,8 @@ By The Sugarcubes
 12. Birthday [Tommy D Mix]
 13. Coldsweat [DB/BP Mix]
 
+
+## See also
+
+- [Life's Too Good](Lifes_Too_Good.md)
+- [Beets: The Great Crossover Potential](../../Beets/The_Sugarcubes/The_Great_Crossover_Potential.md)

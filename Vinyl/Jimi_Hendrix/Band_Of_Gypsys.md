@@ -36,3 +36,12 @@ By Jimi Hendrix
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Jimi_Hendrix.md)
+- [Beets: Jimi Hendrix](../../Beets/Jimi_Hendrix/Jimi_Hendrix_2.md)
+- [Beets: Jimi Hendrix](../../Beets/Jimi_Hendrix/Jimi_Hendrix.md)
+- [Beets: Valleys of Neptune](../../Beets/Jimi_Hendrix/Valleys_of_Neptune.md)
+- [Roon: Are You Experienced](../../Roon/Jimi_Hendrix/Are_You_Experienced.md)
+- [Roon: Axis](../../Roon/Jimi_Hendrix/Axis-_Bold_As_Love.md)

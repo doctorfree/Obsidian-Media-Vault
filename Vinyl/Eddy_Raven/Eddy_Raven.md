@@ -5,3 +5,7 @@
 ## Records
 
 - [Sooner Or Later](Sooner_Or_Later.md)
+
+## See also
+
+- [Sooner Or Later](Sooner_Or_Later.md)

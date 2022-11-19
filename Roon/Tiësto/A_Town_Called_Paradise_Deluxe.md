@@ -35,3 +35,8 @@ By Tiësto
 13. Close to Me
 14. Set Yourself Free
 
+
+## See also
+
+- [Elements of Life](Elements_of_Life.md)
+- [Kaleidoscope (Extended Version)](Kaleidoscope_Extended_Version.md)

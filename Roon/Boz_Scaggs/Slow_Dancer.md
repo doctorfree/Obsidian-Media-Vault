@@ -31,3 +31,11 @@ By Boz Scaggs
 9. I Got Your Number
 10. Take It for Granted
 
+
+## See also
+
+- [Boz Scaggs & Band (Expanded Edition)](Boz_Scaggs_and_Band_Expanded_Edition.md)
+- [Boz Scaggs](Boz_Scaggs.md)
+- [Dig](Dig.md)
+- [Moments (Expanded)](Moments_Expanded.md)
+- [Silk Degrees](Silk_Degrees.md)

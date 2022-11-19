@@ -58,3 +58,13 @@ By R.E.M.
 2-25 Finest Worksong [Live]
 2-26 Perfect Circle [Live]
 
+
+## See also
+
+- [Automatic For The People](Automatic_For_The_People.md)
+- [Document (R.E.M. No. 5)](Document_REM_No_5.md)
+- [Monster](Monster.md)
+- [Murmur](Murmur.md)
+- [Out Of Time (25th Anniversary Edition)](Out_Of_Time_25th_Anniversary_Edition.md)
+- [CD: Monster](../../CD/REM/Monster.md)
+- [CD: ](../../CD/REM/REM.md)

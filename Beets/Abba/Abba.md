@@ -244,3 +244,7 @@ By **ABBA**
 - **Track:** 19
 - **Year:** 1974
 
+
+## See also
+
+- [Gold](Gold.md)

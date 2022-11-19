@@ -145,3 +145,8 @@ By **The B‐52s**
 - **Track:** 10
 - **Year:** 1992
 
+
+## See also
+
+- [Cosmic Thing](Cosmic_Thing.md)
+- [Roon: Cosmic Thing](../../Roon/The_B‐52s/Cosmic_Thing.md)

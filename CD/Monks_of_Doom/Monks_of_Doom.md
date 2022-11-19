@@ -5,3 +5,7 @@
 ## CD
 
 - [The Brontë Pin (Disc 1)](The_Brontë_Pin_Disc_1.md)
+
+## See also
+
+- [The Brontë Pin (Disc 1)](The_Brontë_Pin_Disc_1.md)

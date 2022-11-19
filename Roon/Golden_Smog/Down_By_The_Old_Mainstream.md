@@ -35,3 +35,10 @@ By Golden Smog
 13. Williamton Angel
 14. Radio King
 
+
+## See also
+
+- [On Golden Smog (EP)](On_Golden_Smog_EP.md)
+- [Weird Tales](Weird_Tales.md)
+- [Beets: Down by the Old Mainstream](../../Beets/Golden_Smog/Down_by_the_Old_Mainstream.md)
+- [Beets: Weird Tales](../../Beets/Golden_Smog/Weird_Tales.md)

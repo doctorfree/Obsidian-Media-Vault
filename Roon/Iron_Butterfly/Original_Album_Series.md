@@ -61,3 +61,8 @@ By Iron Butterfly
 5-8 Easy Rider (Let the Wind Pay the Way)
 5-9 Butterfly Bleu
 
+
+## See also
+
+- [Heavy](Heavy.md)
+- [In-A-Gadda-Da-Vida](In-A-Gadda-Da-Vida.md)

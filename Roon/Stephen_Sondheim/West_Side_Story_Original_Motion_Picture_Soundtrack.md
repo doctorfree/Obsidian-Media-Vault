@@ -42,3 +42,7 @@ By Stephen Sondheim
 20. West Side Story: Finale
 21. West Side Story: End Credits
 
+
+## See also
+
+- [West Side Story (The Original Soundrack Recording, 1961)](West_Side_Story_The_Original_Soundrack_Recording__1961.md)

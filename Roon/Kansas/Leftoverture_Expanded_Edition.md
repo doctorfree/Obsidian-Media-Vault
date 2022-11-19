@@ -31,3 +31,10 @@ By Kansas
 9. Carry on Wayward Son (live in MI)
 10. Cheyenne Anthem (live in NYC, 1977)
 
+
+## See also
+
+- [Beets: Leftoverture](../../Beets/Kansas/Leftoverture.md)
+- [Vinyl: Carry On Wayward Son](../../Vinyl/Kansas/Carry_On_Wayward_Son.md)
+- [Vinyl: ](../../Vinyl/Kansas/Kansas.md)
+- [Vinyl: Leftoverture](../../Vinyl/Kansas/Leftoverture.md)

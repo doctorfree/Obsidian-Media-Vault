@@ -40,3 +40,4 @@ By Smith
 ## See also
 
 - [Take A Look Around](Take_A_Look_Around.md)
+- [Beets: A Group Called Smith](../../Beets/Smith/A_Group_Called_Smith.md)

@@ -36,3 +36,12 @@ By Nick Drake
 14. Way to Blue
 15. From the Morning
 
+
+## See also
+
+- [Bryter Layter](Bryter_Layter.md)
+- [Five Leaves Left](Five_Leaves_Left.md)
+- [Beets: Bryter Layter](../../Beets/Nick_Drake/Bryter_Layter.md)
+- [Beets: Pink Moon](../../Beets/Nick_Drake/Pink_Moon.md)
+- [Vinyl: ](../../Vinyl/Nick_Drake/Nick_Drake.md)
+- [Vinyl: Pink Moon](../../Vinyl/Nick_Drake/Pink_Moon.md)

@@ -29,3 +29,11 @@ By Tears for Fears
 7. Year of the Knife
 8. Famous Last Words
 
+
+## See also
+
+- [Songs From The Big Chair](Songs_From_The_Big_Chair.md)
+- [The Hurting (Super Deluxe Edition)](The_Hurting_Super_Deluxe_Edition.md)
+- [CD: ](../../CD/Tears_for_Fears/Tears_for_Fears.md)
+- [CD: The Hurting (Expanded Edition) (1999)](../../CD/Tears_for_Fears/The_Hurting_Expanded_Edition_1999.md)
+- [CD: The Seeds Of Love](../../CD/Tears_for_Fears/The_Seeds_Of_Love.md)

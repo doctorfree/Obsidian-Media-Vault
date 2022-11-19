@@ -38,3 +38,10 @@ By Long John Baldry
 16. It Ain't Easy [Alternate Version]
 17. I'm Ready [Alternate Version]
 
+
+## See also
+
+- [Everything Stops For Tea](Everything_Stops_For_Tea.md)
+- [Rhino Hi-Five](Rhino_Hi-Five-_Long_John_Baldry.md)
+- [Beets: It Ain't Easy](../../Beets/Long_John_Baldry/It_Aint_Easy.md)
+- [Beets: Welcome To Club Casablanca](../../Beets/Long_John_Baldry/Welcome_To_Club_Casablanca.md)

@@ -36,3 +36,7 @@ By Kate Smith
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Kate_Smith.md)

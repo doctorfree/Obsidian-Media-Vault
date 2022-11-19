@@ -22,3 +22,7 @@ By Lily Allen
 
 8. Fuck You [Explicit]
 
+
+## See also
+
+- [Beets: It's Not Me, It's You [+Digital Booklet] [Explicit]](../../Beets/Lily_Allen/Its_Not_Me__Its_You_[+Digital_Booklet]_[Explicit].md)

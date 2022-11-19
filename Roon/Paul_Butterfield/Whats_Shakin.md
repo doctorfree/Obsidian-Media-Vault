@@ -35,3 +35,11 @@ By Paul Butterfield
 13. Searchin'
 14. One More Mile
 
+
+## See also
+
+- [East-West](East-West.md)
+- [In My Own Dream](In_My_Own_Dream.md)
+- [Keep On Moving](Keep_On_Moving.md)
+- [The Paul Butterfield Blues Band](The_Paul_Butterfield_Blues_Band.md)
+- [The Resurrection Of Pigboy Crabshaw](The_Resurrection_Of_Pigboy_Crabshaw.md)

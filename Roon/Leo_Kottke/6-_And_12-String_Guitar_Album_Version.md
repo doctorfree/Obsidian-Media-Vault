@@ -35,3 +35,10 @@ By Leo Kottke
 13. The Brain of the Purple Mountain
 14. Coolidge Rising
 
+
+## See also
+
+- [Ice Water](Ice_Water.md)
+- [John Fahey, Peter Lang, Leo Kottke](John_Fahey__Peter_Lang__Leo_Kottke.md)
+- [Beets: Essential](../../Beets/Leo_Kottke/Essential.md)
+- [Beets: Ice Water](../../Beets/Leo_Kottke/Ice_Water.md)

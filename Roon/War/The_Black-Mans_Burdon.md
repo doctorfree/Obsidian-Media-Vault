@@ -36,3 +36,11 @@ By War
 2-6 Home Cookin'
 2-7 They Can't Take Away Our Music
 
+
+## See also
+
+- [All Day Music](All_Day_Music.md)
+- [Eric Burdon Declares War](Eric_Burdon_Declares_War.md)
+- [The World is a Ghetto](The_World_is_a_Ghetto.md)
+- [WAR](WAR.md)
+- [Why Can't We Be Friends?](Why_Cant_We_Be_Friends.md)

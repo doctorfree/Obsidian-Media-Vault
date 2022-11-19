@@ -167,3 +167,9 @@ By **Teenage Fanclub**
 - **Track:** 12
 - **Year:** 1997
 
+
+## See also
+
+- [Bandwagonesque](Bandwagonesque.md)
+- [Grand Prix](Grand_Prix.md)
+- [Man-Made](Man-Made.md)

@@ -200,3 +200,10 @@ By **James Brown**
 - **Track:** 15
 - **Year:** 2009
 
+
+## See also
+
+- [Live At The Apollo, Voume II (Deluxe Edition)](Live_At_The_Apollo__Voume_II_Deluxe_Edition.md)
+- [The Payback](The_Payback.md)
+- [Roon: Live at the Apollo, Vol. II](../../Roon/James_Brown/Live_at_the_Apollo__Vol_II.md)
+- [Roon: The CD Of J.B](../../Roon/James_Brown/The_CD_Of_JB-_Sex_Machine_and_Other_Soul_Classics.md)

@@ -32,3 +32,8 @@ By Armin van Buuren
 10. Fine Without You
 11. Intricacy
 
+
+## See also
+
+- [Intense (The More Intense Edition)](Intense_The_More_Intense_Edition.md)
+- [Mirage (Extended Versions)](Mirage_Extended_Versions.md)

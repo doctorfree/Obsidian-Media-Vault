@@ -46,3 +46,9 @@ By **Vangelis**
 - **Track:** 00
 - **Year:** 1989
 
+
+## See also
+
+- [Albedo 0.39](Albedo_039.md)
+- [Themes](Themes.md)
+- [Voices](Voices.md)

@@ -38,3 +38,11 @@ By Diego's Umbrella
 16. We Wish You a Merry Christmas
 17. Auld Lang Syne (feat. Anjale Perrault)
 
+
+## See also
+
+- [Double Panther](Double_Panther.md)
+- [Edjka](Edjka.md)
+- [Kung Fu Palace](Kung_Fu_Palace.md)
+- [Proper Cowboy](Proper_Cowboy.md)
+- [Viva La Juerga](Viva_La_Juerga.md)

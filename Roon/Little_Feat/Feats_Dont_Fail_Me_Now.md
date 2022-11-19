@@ -29,3 +29,12 @@ By Little Feat
 7. The Fan
 8. Medley: Cold Cold Cold/Tripe Face Boogie
 
+
+## See also
+
+- [Dixie Chicken](Dixie_Chicken.md)
+- [Let It Roll](Let_It_Roll.md)
+- [Little Feat](Little_Feat.md)
+- [Sailin' Shoes](Sailin_Shoes.md)
+- [The Last Record Album](The_Last_Record_Album.md)
+- [Waiting for Columbus (Live Version)](Waiting_for_Columbus_Live_Version.md)

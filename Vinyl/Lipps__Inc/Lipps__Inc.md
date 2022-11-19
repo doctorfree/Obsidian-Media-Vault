@@ -5,3 +5,7 @@
 ## Records
 
 - [Funkytown](Funkytown.md)
+
+## See also
+
+- [Funkytown](Funkytown.md)

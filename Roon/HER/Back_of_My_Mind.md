@@ -42,3 +42,8 @@ By H.E.R.
 20. I Can Have It All
 21. Slide
 
+
+## See also
+
+- [H.E.R.](HER.md)
+- [I Used To Know Her](I_Used_To_Know_Her.md)

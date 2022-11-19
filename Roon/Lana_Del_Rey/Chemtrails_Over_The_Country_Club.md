@@ -32,3 +32,9 @@ By Lana Del Rey
 10. Dance Till We Die
 11. For Free
 
+
+## See also
+
+- [Blue Banisters](Blue_Banisters.md)
+- [Lust For Life](Lust_For_Life.md)
+- [Norman Fucking Rockwell!](Norman_Fucking_Rockwell!.md)

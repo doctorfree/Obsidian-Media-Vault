@@ -41,3 +41,10 @@ By Bangles
 2-7 Walk Like an Egyptian [Accapella Version]
 2-8 Bangles Hit [Medley Mix]
 
+
+## See also
+
+- [Everything](Everything.md)
+- [The Essential Bangles](The_Essential_Bangles.md)
+- [Vinyl: ](../../Vinyl/Bangles/Bangles.md)
+- [Vinyl: Different Light](../../Vinyl/Bangles/Different_Light.md)

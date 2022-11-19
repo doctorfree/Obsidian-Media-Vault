@@ -167,3 +167,8 @@ By **“Weird Al” Yankovic**
 - **Track:** 12
 - **Year:** 2003
 
+
+## See also
+
+- [Poodle Hat](Poodle_Hat.md)
+- [Running With Scissors](Running_With_Scissors.md)

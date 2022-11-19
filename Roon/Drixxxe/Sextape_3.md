@@ -29,3 +29,11 @@ By Drixxxe
 7. Whack-a-Doodle
 8. Drum Transition
 
+
+## See also
+
+- [Sextape 1](Sextape_1.md)
+- [Sextape 2](Sextape_2.md)
+- [Beets: Sextape 1](../../Beets/Drixxxe/Sextape_1.md)
+- [Beets: Sextape 2](../../Beets/Drixxxe/Sextape_2.md)
+- [Beets: Sextape 3](../../Beets/Drixxxe/Sextape_3.md)

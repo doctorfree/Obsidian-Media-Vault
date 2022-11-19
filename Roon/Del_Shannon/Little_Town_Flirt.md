@@ -36,3 +36,11 @@ By Del Shannon
 14. From Me to You
 15. My Wild One
 
+
+## See also
+
+- [Greatest Hits](Greatest_Hits.md)
+- [Rock On!](Rock_On!.md)
+- [Runaway with Del Shannon](Runaway_with_Del_Shannon.md)
+- [The Further Adventures Of Charles Westover (Deluxe Edition)](The_Further_Adventures_Of_Charles_Westover_Deluxe_Edition.md)
+- [Beets: Greatest Hits [Rhino]](../../Beets/Del_Shannon/Greatest_Hits_[Rhino].md)

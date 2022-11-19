@@ -33,3 +33,8 @@ By Margo Price
 11. Loner
 12. All American Made
 
+
+## See also
+
+- [Midwest Farmer's Daughter](Midwest_Farmers_Daughter.md)
+- [That's How Rumors Get Started (Deluxe)](Thats_How_Rumors_Get_Started_Deluxe.md)

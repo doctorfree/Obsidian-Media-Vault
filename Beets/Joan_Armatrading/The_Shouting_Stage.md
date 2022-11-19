@@ -145,3 +145,13 @@ By **Joan Armatrading**
 - **Track:** 10
 - **Year:** 1978
 
+
+## See also
+
+- [Sleight of Hand](Sleight_of_Hand.md)
+- [The Key](The_Key.md)
+- [To The Limit](To_The_Limit.md)
+- [Vinyl: ](../../Vinyl/Joan_Armatrading/Joan_Armatrading_index.md)
+- [Vinyl: Joan Armatrading](../../Vinyl/Joan_Armatrading/Joan_Armatrading.md)
+- [Vinyl: Me Myself I](../../Vinyl/Joan_Armatrading/Me_Myself_I.md)
+- [Vinyl: Track Record](../../Vinyl/Joan_Armatrading/Track_Record.md)

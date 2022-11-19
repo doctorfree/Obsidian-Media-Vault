@@ -36,3 +36,7 @@ By Kenny Rogers & The First Edition
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Kenny_Rogers_and_The_First_Edition.md)

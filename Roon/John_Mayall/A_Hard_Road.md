@@ -41,3 +41,11 @@ By John Mayall
 19. Double Crossing Time
 20. Another Man
 
+
+## See also
+
+- [A Hard Road (Deluxe Edition)](A_Hard_Road_Deluxe_Edition.md)
+- [Back To The Roots](Back_To_The_Roots.md)
+- [Bluesbreakers](Bluesbreakers.md)
+- [Blues From Laurel Canyon](Blues_From_Laurel_Canyon.md)
+- [The Turning Point](The_Turning_Point.md)

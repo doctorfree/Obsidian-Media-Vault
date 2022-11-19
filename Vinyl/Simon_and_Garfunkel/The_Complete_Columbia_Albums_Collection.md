@@ -40,3 +40,8 @@ By Simon & Garfunkel
 
 Number 03433 of limited edition box set
 
+
+## See also
+
+- [](Simon_and_Garfunkel.md)
+- [Beets: Bookends](../../Beets/Simon_and_Garfunkel/Bookends.md)

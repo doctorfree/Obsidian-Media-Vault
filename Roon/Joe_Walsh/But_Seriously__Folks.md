@@ -29,3 +29,11 @@ By Joe Walsh
 7. Theme from Boat Weirdos
 8. Life's Been Good
 
+
+## See also
+
+- [Barnstorm](Barnstorm.md)
+- [So What (Reissue)](So_What_Reissue.md)
+- [There Goes the Neighborhood](There_Goes_the_Neighborhood.md)
+- [The Smoker You Drink, The Player You Get](The_Smoker_You_Drink__The_Player_You_Get.md)
+- [Beets: Songs for a Dying Planet](../../Beets/Joe_Walsh/Songs_for_a_Dying_Planet.md)

@@ -46,3 +46,8 @@ By **Ozzy Osbourne**
 - **Track:** 01
 - **Year:** 2001
 
+
+## See also
+
+- [Blizzard of Ozz](Blizzard_of_Ozz.md)
+- [Blizzard Of Ozz](Blizzard_Of_Ozz.md)

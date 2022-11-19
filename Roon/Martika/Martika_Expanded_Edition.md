@@ -37,3 +37,7 @@ By Martika
 15. Quiero Entregarte Mi Amor [More That You Know - Spanish Version]
 16. Siento La Tierra Temblar [ I Feel the Earth Move - Spanish Version]
 
+
+## See also
+
+- [Beets: Toy Soldiers](../../Beets/Martika/Toy_Soldiers.md)

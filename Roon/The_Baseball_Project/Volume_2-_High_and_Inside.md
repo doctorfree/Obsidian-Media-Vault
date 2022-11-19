@@ -34,3 +34,8 @@ By The Baseball Project
 12. Twilight of My Career
 13. Here Lies Carl Mays
 
+
+## See also
+
+- [The Baseball Project, Vol. 1](The_Baseball_Project__Vol_1-_Frozen_Ropes_and_Dying_Quails.md)
+- [Beets: Volume 1](../../Beets/The_Baseball_Project/Volume_1.md)

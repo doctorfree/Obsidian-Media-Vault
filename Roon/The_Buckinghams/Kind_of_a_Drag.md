@@ -35,3 +35,8 @@ By The Buckinghams
 13. Lawdy Miss Claudy
 14. I'm a Man
 
+
+## See also
+
+- [Mercy, Mercy, Mercy (A Collection)](Mercy__Mercy__Mercy_A_Collection.md)
+- [Beets: Kind of a Drag](../../Beets/The_Buckinghams/Kind_of_a_Drag.md)

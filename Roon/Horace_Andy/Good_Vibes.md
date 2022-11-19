@@ -32,3 +32,9 @@ By Horace Andy
 10. Ital Vital/Ital Ites Dubwise
 11. Ital Vital
 
+
+## See also
+
+- [Horace's Prime](Horaces_Prime.md)
+- [In The Light](In_The_Light.md)
+- [Skylarking](Skylarking.md)

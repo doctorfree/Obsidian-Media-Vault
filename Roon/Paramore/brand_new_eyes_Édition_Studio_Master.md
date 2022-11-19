@@ -32,3 +32,11 @@ By Paramore
 10. Misguided Ghosts
 11. All I Wanted
 
+
+## See also
+
+- [After Laughter](After_Laughter.md)
+- [All We Know Is Falling (Deluxe) (Édition StudioMasters) (Deluxe Edition)](All_We_Know_Is_Falling_Deluxe_Édition_StudioMasters_Deluxe_Edition.md)
+- [Paramore (Édition Studio Masters)](Paramore_Édition_Studio_Masters.md)
+- [RIOT! (Édition StudioMasters)](RIOT!_Édition_StudioMasters.md)
+- [Beets: RIOT!](../../Beets/Paramore/RIOT!.md)

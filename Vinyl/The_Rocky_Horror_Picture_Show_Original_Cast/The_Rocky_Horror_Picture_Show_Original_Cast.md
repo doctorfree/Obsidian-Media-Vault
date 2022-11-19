@@ -5,3 +5,7 @@
 ## Records
 
 - [The Rocky Horror Picture Show](The_Rocky_Horror_Picture_Show.md)
+
+## See also
+
+- [The Rocky Horror Picture Show](The_Rocky_Horror_Picture_Show.md)

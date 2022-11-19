@@ -36,3 +36,9 @@ By Mark Jonathan Davis
 14. Holiday in Cambodia
 15. The Rockafeller Skank
 
+
+## See also
+
+- [Aperitif for Destruction](Aperitif_for_Destruction.md)
+- [The Sunny Side of the Moon](The_Sunny_Side_of_the_Moon-_The_Best_of_Richard_Cheese.md)
+- [Tuxicity](Tuxicity.md)

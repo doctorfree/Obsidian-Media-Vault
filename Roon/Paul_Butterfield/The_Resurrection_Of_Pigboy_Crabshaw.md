@@ -30,3 +30,11 @@ By Paul Butterfield
 8. Droppin' Out
 9. Tollin' Bells
 
+
+## See also
+
+- [East-West](East-West.md)
+- [In My Own Dream](In_My_Own_Dream.md)
+- [Keep On Moving](Keep_On_Moving.md)
+- [The Paul Butterfield Blues Band](The_Paul_Butterfield_Blues_Band.md)
+- [What's Shakin'](Whats_Shakin.md)

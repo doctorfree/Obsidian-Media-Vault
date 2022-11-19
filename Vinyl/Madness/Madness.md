@@ -5,3 +5,7 @@
 ## Records
 
 - [Grey Day](Grey_Day.md)
+
+## See also
+
+- [Grey Day](Grey_Day.md)

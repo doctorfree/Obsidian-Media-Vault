@@ -27,3 +27,9 @@ By Sugarloaf
 5. Gold and the Blues
 6. Things Gonna Change Some
 
+
+## See also
+
+- [Beets: The Best of Sugarloaf](../../Beets/Sugarloaf/The_Best_of_Sugarloaf.md)
+- [CD: Best Of Sugarloaf](../../CD/Sugarloaf/Best_Of_Sugarloaf.md)
+- [CD: ](../../CD/Sugarloaf/Sugarloaf.md)

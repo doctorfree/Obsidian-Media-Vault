@@ -178,3 +178,9 @@ By **Anti-Flag**
 - **Track:** 13
 - **Year:** 2001
 
+
+## See also
+
+- [A New Kind Of Army](A_New_Kind_Of_Army.md)
+- [Rock Against Bush](Rock_Against_Bush.md)
+- [The Terror State](The_Terror_State.md)

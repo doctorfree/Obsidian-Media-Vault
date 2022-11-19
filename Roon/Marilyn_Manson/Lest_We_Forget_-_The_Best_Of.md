@@ -38,3 +38,9 @@ By Marilyn Manson
 16. The Beautiful People
 17. The Reflecting God
 
+
+## See also
+
+- [Antichrist Superstar](Antichrist_Superstar.md)
+- [Mechanical Animals](Mechanical_Animals.md)
+- [THE PALE EMPEROR (Deluxe Edition)](THE_PALE_EMPEROR_Deluxe_Edition.md)

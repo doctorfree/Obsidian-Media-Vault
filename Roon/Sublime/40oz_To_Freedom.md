@@ -43,3 +43,9 @@ By Sublime
 21. Rivers of Babylon
 22. Thanx
 
+
+## See also
+
+- [Sublime (10th Anniversary Edition / Deluxe Edition)](Sublime_10th_Anniversary_Edition_-_Deluxe_Edition.md)
+- [Beets: Limited Edition Picture Disk](../../Beets/Sublime/Limited_Edition_Picture_Disk.md)
+- [Beets: Second-Hand Smoke](../../Beets/Sublime/Second-Hand_Smoke.md)

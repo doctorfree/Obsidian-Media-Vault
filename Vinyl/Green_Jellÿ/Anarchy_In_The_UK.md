@@ -36,3 +36,7 @@ By Green Jellÿ
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Green_Jellÿ.md)

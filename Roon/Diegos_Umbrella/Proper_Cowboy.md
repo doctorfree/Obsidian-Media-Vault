@@ -32,3 +32,11 @@ By Diego's Umbrella
 10. Amsterdam, Pt. 1
 11. Amsterdam, Pt. 2
 
+
+## See also
+
+- [Double Panther](Double_Panther.md)
+- [Edjka](Edjka.md)
+- [Kung Fu Palace](Kung_Fu_Palace.md)
+- [The Christmas Album](The_Christmas_Album.md)
+- [Viva La Juerga](Viva_La_Juerga.md)

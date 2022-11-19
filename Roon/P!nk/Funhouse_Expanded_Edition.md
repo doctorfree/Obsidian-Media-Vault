@@ -35,3 +35,10 @@ By P!nk
 13. Why Did I Ever Like You (main version)
 14. Could've Had Everything (main version)
 
+
+## See also
+
+- [Beautiful Trauma](Beautiful_Trauma.md)
+- [Hurts 2B Human](Hurts_2B_Human.md)
+- [M!ssundaztood (Expanded Edition)](M!ssundaztood_Expanded_Edition.md)
+- [The Truth About Love](The_Truth_About_Love.md)

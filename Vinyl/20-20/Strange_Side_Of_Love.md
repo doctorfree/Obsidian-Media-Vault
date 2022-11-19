@@ -34,3 +34,7 @@ By 20/20
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](20-20.md)

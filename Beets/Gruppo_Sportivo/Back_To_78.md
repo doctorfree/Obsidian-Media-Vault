@@ -167,3 +167,19 @@ By **Gruppo Sportivo**
 - **Track:** 12
 - **Year:** 1982
 
+
+## See also
+
+- [Design Moderne](Design_Moderne.md)
+- [Disco Really Made It 45](Disco_Really_Made_It_45.md)
+- [Mistakes](Mistakes.md)
+- [Roon: 10 Mistakes](../../Roon/Gruppo_Sportivo/10_Mistakes.md)
+- [Roon: Back to 78](../../Roon/Gruppo_Sportivo/Back_to_78.md)
+- [Roon: Copy Copy](../../Roon/Gruppo_Sportivo/Copy_Copy.md)
+- [Roon: Design Moderne](../../Roon/Gruppo_Sportivo/Design_Moderne.md)
+- [Roon: Pop! Goes The Brain](../../Roon/Gruppo_Sportivo/Pop!_Goes_The_Brain.md)
+- [Vinyl: Back To 78](../../Vinyl/Gruppo_Sportivo/Back_To_78.md)
+- [Vinyl: Design Moderne](../../Vinyl/Gruppo_Sportivo/Design_Moderne.md)
+- [Vinyl: Disco Really Made It](../../Vinyl/Gruppo_Sportivo/Disco_Really_Made_It.md)
+- [Vinyl: ](../../Vinyl/Gruppo_Sportivo/Gruppo_Sportivo.md)
+- [Vinyl: Mistakes](../../Vinyl/Gruppo_Sportivo/Mistakes.md)

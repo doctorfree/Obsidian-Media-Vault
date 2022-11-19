@@ -22,3 +22,13 @@ By The Go‐Go’s
 
 1. Club Zero
 
+
+## See also
+
+- [Beatnik Beach Summer](Beatnik_Beach_Summer.md)
+- [Beauty And The Beat](Beauty_And_The_Beat.md)
+- [Head Over Heels](Head_Over_Heels.md)
+- [Staycation](Staycation.md)
+- [Talk Show](Talk_Show.md)
+- [Vacation](Vacation.md)
+- [We Got The Beat (Karaoke Version)](We_Got_The_Beat_Karaoke_Version.md)

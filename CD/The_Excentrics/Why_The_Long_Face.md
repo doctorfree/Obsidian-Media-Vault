@@ -40,3 +40,5 @@ By The Excentrics
 ## See also
 
 - [Perfect Nervous Breakdown](Perfect_Nervous_Breakdown.md)
+- [Beets: Perfect Nervous Breakdown](../../Beets/The_Excentrics/Perfect_Nervous_Breakdown.md)
+- [Beets: Why The Long Face?](../../Beets/The_Excentrics/Why_The_Long_Face.md)

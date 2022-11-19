@@ -35,3 +35,14 @@ By Rufus Wainwright
 13. Cigarettes and Chocolate Milk (reprise)
 14. Across the Universe [Remix]
 
+
+## See also
+
+- [Out Of The Game](Out_Of_The_Game.md)
+- [Release The Stars](Release_The_Stars.md)
+- [Rufus Wainwright (Album Version)](Rufus_Wainwright_Album_Version.md)
+- [Rufus Wainwright and Amsterdam Sinfonietta (Live)](Rufus_Wainwright_and_Amsterdam_Sinfonietta_Live.md)
+- [Technopera / Solitude of Heart / Do It To The Music](Technopera_-_Solitude_of_Heart_-_Do_It_To_The_Music.md)
+- [Unfollow The Rules](Unfollow_The_Rules.md)
+- [Want One](Want_One.md)
+- [Want Two](Want_Two.md)

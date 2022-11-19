@@ -5,3 +5,7 @@
 ## Records
 
 - [Friday On My Mind](Friday_On_My_Mind.md)
+
+## See also
+
+- [Friday On My Mind](Friday_On_My_Mind.md)

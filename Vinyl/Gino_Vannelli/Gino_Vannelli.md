@@ -5,3 +5,7 @@
 ## Records
 
 - [The Gist Of The Gemini](The_Gist_Of_The_Gemini.md)
+
+## See also
+
+- [The Gist Of The Gemini](The_Gist_Of_The_Gemini.md)

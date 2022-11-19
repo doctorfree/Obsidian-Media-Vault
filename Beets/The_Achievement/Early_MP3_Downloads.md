@@ -101,3 +101,8 @@ By **The Achievement**
 - **Track:** 00
 - **Year:** 0000
 
+
+## See also
+
+- [nerds...NERDS!](nerdsNERDS!.md)
+- [The Achievement EP](The_Achievement_EP.md)

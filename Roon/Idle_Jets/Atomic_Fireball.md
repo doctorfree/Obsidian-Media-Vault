@@ -32,3 +32,7 @@ By Idle Jets
 10. Atomic Fireball
 11. Sinking Feeling
 
+
+## See also
+
+- [Beets: Atomic Fireball](../../Beets/Idle_Jets/Atomic_Fireball.md)

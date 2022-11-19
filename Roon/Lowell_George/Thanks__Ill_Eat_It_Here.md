@@ -31,3 +31,8 @@ By Lowell George
 9. Himmler's Ring
 10. Heartache
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Lowell_George/Lowell_George.md)
+- [Vinyl: Thanks I'll Eat It Here](../../Vinyl/Lowell_George/Thanks_Ill_Eat_It_Here.md)

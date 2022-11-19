@@ -7,3 +7,10 @@
 - [Just Like Us!](Just_Like_Us!.md)
 - [Midnight Ride](Midnight_Ride.md)
 - [The Spirit Of '67](The_Spirit_Of_67.md)
+
+## See also
+
+- [Just Like Us!](Just_Like_Us!.md)
+- [Midnight Ride](Midnight_Ride.md)
+- [The Spirit Of '67](The_Spirit_Of_67.md)
+- [Beets: Unknown Album](../../Beets/Paul_Revere_and_The_Raiders/Unknown_Album.md)

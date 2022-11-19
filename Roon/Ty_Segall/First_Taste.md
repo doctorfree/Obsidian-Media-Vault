@@ -33,3 +33,14 @@ By Ty Segall
 11. Self Esteem
 12. Lone Cowboys
 
+
+## See also
+
+- [Freedom's Goblin](Freedoms_Goblin.md)
+- [Fudge Sandwich](Fudge_Sandwich.md)
+- [Manipulator](Manipulator.md)
+- [Ty Segall](Ty_Segall.md)
+- [Beets: Manipulator](../../Beets/Ty_Segall/Manipulator.md)
+- [Beets: Ty Segall](../../Beets/Ty_Segall/Ty_Segall.md)
+- [Vinyl: ](../../Vinyl/Ty_Segall/Ty_Segall_index.md)
+- [Vinyl: Ty Segall](../../Vinyl/Ty_Segall/Ty_Segall.md)

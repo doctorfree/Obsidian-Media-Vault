@@ -44,3 +44,11 @@ By Nancy Sinatra
 22. Machine Gun Kelly
 23. (L'été Indien) Indian Summer
 
+
+## See also
+
+- [Boots](Boots.md)
+- [How Does That Grab You?](How_Does_That_Grab_You.md)
+- [Movin' With Nancy](Movin_With_Nancy.md)
+- [Nancy & Lee](Nancy_and_Lee.md)
+- [Sugar](Sugar.md)

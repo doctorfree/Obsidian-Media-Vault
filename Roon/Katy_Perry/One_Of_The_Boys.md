@@ -33,3 +33,12 @@ By Katy Perry
 11. I'm Still Breathing
 12. Fingerprints
 
+
+## See also
+
+- [Beets: One of the Boys](../../Beets/Katy_Perry/One_of_the_Boys.md)
+- [Beets: Superbowl XLIX](../../Beets/Katy_Perry/Superbowl_XLIX.md)
+- [Beets: Teenage Dream](../../Beets/Katy_Perry/Teenage_Dream.md)
+- [CD: ](../../CD/Katy_Perry/Katy_Perry.md)
+- [CD: One Of The Boys](../../CD/Katy_Perry/One_Of_The_Boys.md)
+- [CD: Teenage Dream](../../CD/Katy_Perry/Teenage_Dream-_The_Complete_Confection.md)

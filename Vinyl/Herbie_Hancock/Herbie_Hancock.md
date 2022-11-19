@@ -5,3 +5,7 @@
 ## Records
 
 - [Future Shock](Future_Shock.md)
+
+## See also
+
+- [Future Shock](Future_Shock.md)

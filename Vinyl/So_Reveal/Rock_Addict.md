@@ -36,3 +36,7 @@ By So Reveal
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](So_Reveal.md)

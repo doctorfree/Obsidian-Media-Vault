@@ -34,3 +34,9 @@ By Garbage
 12. Untouchable
 13. So Like a Rose
 
+
+## See also
+
+- [Bleed Like Me (Remastered)](Bleed_Like_Me_Remastered.md)
+- [Garbage (20th Anniversary Super Deluxe Edition/Remastered)](Garbage_20th_Anniversary_Super_Deluxe_Edition-Remastered.md)
+- [Version 2.0 (20th Anniversary Deluxe Edition / Remastered)](Version_20_20th_Anniversary_Deluxe_Edition_-_Remastered.md)

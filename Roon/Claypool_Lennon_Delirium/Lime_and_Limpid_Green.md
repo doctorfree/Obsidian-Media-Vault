@@ -25,3 +25,8 @@ By Claypool Lennon Delirium
 3. The Court of the Crimson King
 4. Satori
 
+
+## See also
+
+- [Monolith of Phobos](Monolith_of_Phobos.md)
+- [South of Reality](South_of_Reality.md)

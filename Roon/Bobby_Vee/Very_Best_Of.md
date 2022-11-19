@@ -48,3 +48,8 @@ By Bobby Vee
 26. Will You Love Me Tomorrow
 27. Poetry in Motion
 
+
+## See also
+
+- [Beets: Bobby Vee Meets The Ventures](../../Beets/Bobby_Vee/Bobby_Vee_Meets_The_Ventures.md)
+- [Beets: The Very Best Of Bobby Vee](../../Beets/Bobby_Vee/The_Very_Best_Of_Bobby_Vee.md)

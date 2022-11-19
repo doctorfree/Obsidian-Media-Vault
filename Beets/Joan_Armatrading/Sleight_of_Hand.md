@@ -156,3 +156,13 @@ By **Joan Armatrading**
 - **Track:** 11
 - **Year:** 1983
 
+
+## See also
+
+- [The Key](The_Key.md)
+- [The Shouting Stage](The_Shouting_Stage.md)
+- [To The Limit](To_The_Limit.md)
+- [Vinyl: ](../../Vinyl/Joan_Armatrading/Joan_Armatrading_index.md)
+- [Vinyl: Joan Armatrading](../../Vinyl/Joan_Armatrading/Joan_Armatrading.md)
+- [Vinyl: Me Myself I](../../Vinyl/Joan_Armatrading/Me_Myself_I.md)
+- [Vinyl: Track Record](../../Vinyl/Joan_Armatrading/Track_Record.md)

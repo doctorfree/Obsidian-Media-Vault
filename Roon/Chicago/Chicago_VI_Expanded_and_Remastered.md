@@ -33,3 +33,13 @@ By Chicago
 11. Beyond All Our Sorrows [Terry Kath Demo] [Previously Unissued]
 12. Tired of Being Alone [With Al Green, From the TV Special Chicago in the Rockies]
 
+
+## See also
+
+- [Chicago II (Steven Wilson Remix)](Chicago_II_Steven_Wilson_Remix.md)
+- [Chicago Transit Authority (50th Anniversary Remix)](Chicago_Transit_Authority_50th_Anniversary_Remix.md)
+- [Beets: Chicago II](../../Beets/Chicago/Chicago_II.md)
+- [Beets: Chicago Transit Authority](../../Beets/Chicago/Chicago_Transit_Authority.md)
+- [Beets: Chicago VI](../../Beets/Chicago/Chicago_VI.md)
+- [Vinyl: ](../../Vinyl/Chicago/Chicago.md)
+- [Vinyl: Chicago VI](../../Vinyl/Chicago/Chicago_VI.md)

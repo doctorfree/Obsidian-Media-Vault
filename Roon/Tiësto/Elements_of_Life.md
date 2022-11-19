@@ -32,3 +32,8 @@ By Tiësto
 10. Dance4Life
 11. Elements of Life
 
+
+## See also
+
+- [A Town Called Paradise (Deluxe)](A_Town_Called_Paradise_Deluxe.md)
+- [Kaleidoscope (Extended Version)](Kaleidoscope_Extended_Version.md)

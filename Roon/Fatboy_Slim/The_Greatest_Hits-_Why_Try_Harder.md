@@ -39,3 +39,10 @@ By Fatboy Slim
 17. Champion Sound (US Version)
 18. That Old Pair of Jeans
 
+
+## See also
+
+- [Better Living Through Chemistry](Better_Living_Through_Chemistry.md)
+- [Halfway Between The Gutter And The Stars](Halfway_Between_The_Gutter_And_The_Stars.md)
+- [Palookaville](Palookaville.md)
+- [You've Come A Long Way Baby](Youve_Come_A_Long_Way_Baby.md)

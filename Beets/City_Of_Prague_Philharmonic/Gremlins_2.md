@@ -46,3 +46,9 @@ By **City Of Prague Philharmonic**
 - **Track:** 00
 - **Year:** 1994
 
+
+## See also
+
+- [Battle for the Planet of the Apes](Battle_for_the_Planet_of_the_Apes.md)
+- [FMad Max 2](FMad_Max_2.md)
+- [The Philadelphia Experiment](The_Philadelphia_Experiment.md)

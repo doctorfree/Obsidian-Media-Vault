@@ -32,3 +32,11 @@ By Cher
 10. This God-Forsaken Day
 11. Chastity Sun
 
+
+## See also
+
+- [Burlesque Original Motion Picture Soundtrack](Burlesque_Original_Motion_Picture_Soundtrack.md)
+- [Dancing Queen](Dancing_Queen.md)
+- [Gypsys, Tramps & Thieves](Gypsys__Tramps_and_Thieves.md)
+- [Heart Of Stone](Heart_Of_Stone.md)
+- [Beets: Half‐Breed](../../Beets/Cher/Half‐Breed.md)

@@ -37,3 +37,7 @@ By David Allan Coe
 15. Tennessee Whiskey
 16. The Ride
 
+
+## See also
+
+- [Beets: 17 Greatest Hits](../../Beets/David_Allan_Coe/17_Greatest_Hits.md)

@@ -32,3 +32,12 @@ By Cheap Trick
 10. How Are You?
 11. Oh Claire
 
+
+## See also
+
+- [All Shook Up](All_Shook_Up.md)
+- [At Budokan (Live at Nippon Budokan, Tokyo, JPN - April 1978)](At_Budokan_Live_at_Nippon_Budokan__Tokyo__JPN_-_April_1978.md)
+- [Cheap Trick](Cheap_Trick.md)
+- [Dream Police](Dream_Police.md)
+- [In Another World](In_Another_World.md)
+- [In Color](In_Color.md)

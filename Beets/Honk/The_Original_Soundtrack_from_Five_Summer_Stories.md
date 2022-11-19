@@ -167,3 +167,8 @@ By **Honk**
 - **Track:** 12
 - **Year:** 1972
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Honk/Honk.md)
+- [Vinyl: The Original Sound Track from Five Summer Stories](../../Vinyl/Honk/The_Original_Sound_Track_from_Five_Summer_Stories.md)

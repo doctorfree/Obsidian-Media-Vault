@@ -31,3 +31,8 @@ By Armin van Buuren
 9. Orbion [Extended Version]
 10. Minack [Extended Version]
 
+
+## See also
+
+- [Imagine](Imagine.md)
+- [Intense (The More Intense Edition)](Intense_The_More_Intense_Edition.md)

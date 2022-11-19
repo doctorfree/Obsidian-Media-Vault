@@ -44,3 +44,5 @@ Autographed by band members on front cover
 ## See also
 
 - [Have A Ball](Have_A_Ball.md)
+- [Beets: Have a Ball](../../Beets/Me_First_And_The_Gimme_Gimmes/Have_a_Ball.md)
+- [Beets: Take a Break](../../Beets/Me_First_And_The_Gimme_Gimmes/Take_a_Break.md)

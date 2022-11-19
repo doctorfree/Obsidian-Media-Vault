@@ -49,3 +49,8 @@ By Yoko Ono
 2-13 Every Man Has a Woman Who Loves Him
 2-14 Hard Times Are Over
 
+
+## See also
+
+- [Double Fantasy](Double_Fantasy.md)
+- [Beets: Yes, I'm a Witch](../../Beets/Yoko_Ono/Yes__Im_a_Witch.md)

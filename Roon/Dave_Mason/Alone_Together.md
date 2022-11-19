@@ -29,3 +29,9 @@ By Dave Mason
 7. Just a Song
 8. Look at You, Look at Me
 
+
+## See also
+
+- [Dave Mason & Cass Elliot](Dave_Mason_and_Cass_Elliot.md)
+- [Vinyl: ](../../Vinyl/Dave_Mason/Dave_Mason_index.md)
+- [Vinyl: Dave Mason](../../Vinyl/Dave_Mason/Dave_Mason.md)

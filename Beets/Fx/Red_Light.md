@@ -156,3 +156,8 @@ By **f(x)**
 - **Track:** 11
 - **Year:** 2014
 
+
+## See also
+
+- [Pink Tape](Pink_Tape.md)
+- [Pinocchio - The 1st Album](Pinocchio_-_The_1st_Album.md)

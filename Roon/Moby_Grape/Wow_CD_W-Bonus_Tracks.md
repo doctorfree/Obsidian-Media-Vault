@@ -39,3 +39,10 @@ By Moby Grape
 17. What's to Choose
 18. Seeing
 
+
+## See also
+
+- [Legendary Grape](Legendary_Grape.md)
+- [Moby Grape 69' (With Bonus Tracks)](Moby_Grape_69_With_Bonus_Tracks.md)
+- [Moby Grape (with Bonus Tracks)](Moby_Grape_with_Bonus_Tracks.md)
+- [Beets: Legendary Grape](../../Beets/Moby_Grape/Legendary_Grape.md)

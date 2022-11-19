@@ -27,3 +27,9 @@ By Girls
 5. Substance
 6. Carolina
 
+
+## See also
+
+- [Album](Album.md)
+- [Father, Son, Holy Ghost](Father__Son__Holy_Ghost.md)
+- [Beets: Album](../../Beets/Girls/Album.md)

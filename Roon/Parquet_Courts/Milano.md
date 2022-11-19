@@ -30,3 +30,9 @@ By Parquet Courts
 8. Lanza
 9. Café Flesh
 
+
+## See also
+
+- [Beets: Human Performance](../../Beets/Parquet_Courts/Human_Performance.md)
+- [CD: Human Performance](../../CD/Parquet_Courts/Human_Performance.md)
+- [CD: ](../../CD/Parquet_Courts/Parquet_Courts.md)

@@ -33,3 +33,10 @@ By Leo Kottke
 11. Revolt of the Dyke Brigade
 12. In Christ There Is No East or West
 
+
+## See also
+
+- [6- And 12-String Guitar (Album Version)](6-_And_12-String_Guitar_Album_Version.md)
+- [Ice Water](Ice_Water.md)
+- [Beets: Essential](../../Beets/Leo_Kottke/Essential.md)
+- [Beets: Ice Water](../../Beets/Leo_Kottke/Ice_Water.md)

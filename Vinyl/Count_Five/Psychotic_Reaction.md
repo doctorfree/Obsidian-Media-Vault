@@ -36,3 +36,8 @@ By Count Five
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Count_Five.md)
+- [Beets: Psychotic Reaction](../../Beets/Count_Five/Psychotic_Reaction.md)

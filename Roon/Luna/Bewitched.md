@@ -31,3 +31,8 @@ By Luna
 9. I Know You Tried
 10. Sleeping Pill
 
+
+## See also
+
+- [Penthouse (Deluxe)](Penthouse_Deluxe.md)
+- [The Best Of Luna (Remastered Version)](The_Best_Of_Luna_Remastered_Version.md)

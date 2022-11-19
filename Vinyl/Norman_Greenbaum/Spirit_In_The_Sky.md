@@ -36,3 +36,9 @@ By Norman Greenbaum
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Norman_Greenbaum.md)
+- [Beets: Spirit in the Sky](../../Beets/Norman_Greenbaum/Spirit_in_the_Sky.md)
+- [Beets: Unknown Album](../../Beets/Norman_Greenbaum/Unknown_Album.md)

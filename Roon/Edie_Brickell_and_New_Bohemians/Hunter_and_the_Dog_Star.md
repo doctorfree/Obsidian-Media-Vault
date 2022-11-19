@@ -32,3 +32,9 @@ By Edie Brickell & New Bohemians
 10. Evidence
 11. My Power
 
+
+## See also
+
+- [Shooting Rubberbands At The Stars](Shooting_Rubberbands_At_The_Stars.md)
+- [Beets: Ghost of a Dog](../../Beets/Edie_Brickell_and_New_Bohemians/Ghost_of_a_Dog.md)
+- [Beets: Shooting Rubberbands at the Stars](../../Beets/Edie_Brickell_and_New_Bohemians/Shooting_Rubberbands_at_the_Stars.md)

@@ -39,3 +39,8 @@ By Margo Price
 17. You're No Good
 18. Better Than Nothin'
 
+
+## See also
+
+- [All American Made](All_American_Made.md)
+- [Midwest Farmer's Daughter](Midwest_Farmers_Daughter.md)

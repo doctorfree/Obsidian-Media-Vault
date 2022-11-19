@@ -32,3 +32,10 @@ By The Black Keys
 10. Nova Baby
 11. Mind Eraser
 
+
+## See also
+
+- [Brothers (Deluxe Remastered Anniversary Edition)](Brothers_Deluxe_Remastered_Anniversary_Edition.md)
+- [Dropout Boogie](Dropout_Boogie.md)
+- [Let's Rock](Lets_Rock.md)
+- [Beets: Brothers](../../Beets/The_Black_Keys/Brothers.md)

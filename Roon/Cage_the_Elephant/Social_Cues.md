@@ -34,3 +34,10 @@ By Cage the Elephant
 12. Tokyo Smoke
 13. Goodbye
 
+
+## See also
+
+- [Cage The Elephant (Expanded Edition)](Cage_The_Elephant_Expanded_Edition.md)
+- [Melophobia](Melophobia.md)
+- [Tell Me I'm Pretty](Tell_Me_Im_Pretty.md)
+- [Unpeeled (Unpeeled)](Unpeeled_Unpeeled.md)

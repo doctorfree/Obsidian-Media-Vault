@@ -156,3 +156,8 @@ By **New York Dolls**
 - **Track:** 11
 - **Year:** 1989
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/New_York_Dolls/New_York_Dolls_index.md)
+- [Vinyl: New York Dolls](../../Vinyl/New_York_Dolls/New_York_Dolls.md)

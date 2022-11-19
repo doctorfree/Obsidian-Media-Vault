@@ -31,3 +31,10 @@ By Cage the Elephant
 9. Teeth
 10. Cigarette Daydreams
 
+
+## See also
+
+- [Cage The Elephant (Expanded Edition)](Cage_The_Elephant_Expanded_Edition.md)
+- [Social Cues](Social_Cues.md)
+- [Tell Me I'm Pretty](Tell_Me_Im_Pretty.md)
+- [Unpeeled (Unpeeled)](Unpeeled_Unpeeled.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Jesus Christ Superstar - A Rock Opera](Jesus_Christ_Superstar_-_A_Rock_Opera.md)
+
+## See also
+
+- [Jesus Christ Superstar - A Rock Opera](Jesus_Christ_Superstar_-_A_Rock_Opera.md)

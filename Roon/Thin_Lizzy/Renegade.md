@@ -30,3 +30,13 @@ By Thin Lizzy
 8. Mexican Blood
 9. It's Getting Dangerous
 
+
+## See also
+
+- [Black Rose](Black_Rose-_A_Rock_Legend.md)
+- [Chinatown](Chinatown.md)
+- [Thunder And Lightning](Thunder_And_Lightning.md)
+- [Beets: Dedication](../../Beets/Thin_Lizzy/Dedication.md)
+- [Beets: Jailbreak](../../Beets/Thin_Lizzy/Jailbreak.md)
+- [CD: Jailbreak](../../CD/Thin_Lizzy/Jailbreak.md)
+- [CD: ](../../CD/Thin_Lizzy/Thin_Lizzy.md)

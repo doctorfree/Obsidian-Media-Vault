@@ -36,3 +36,7 @@ By "Blood, Sweat And Tears"
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Blood__Sweat_And_Tears_index.md)

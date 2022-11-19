@@ -178,3 +178,10 @@ By **Alanis Morissette**
 - **Track:** 13
 - **Year:** 1995
 
+
+## See also
+
+- [Jagged Little Pill (Vinyl Rip)](Jagged_Little_Pill_Vinyl_Rip.md)
+- [Roon: Jagged Little Pill (2015 Remaster)](../../Roon/Alanis_Morissette/Jagged_Little_Pill_2015_Remaster.md)
+- [Vinyl: ](../../Vinyl/Alanis_Morissette/Alanis_Morissette.md)
+- [Vinyl: Jagged Little Pill](../../Vinyl/Alanis_Morissette/Jagged_Little_Pill.md)

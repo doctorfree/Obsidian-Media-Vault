@@ -33,3 +33,12 @@ By Tame Impala
 11. Nothing That Has Happened So Far Has Been Anything We Could Control
 12. Sun's Coming Up
 
+
+## See also
+
+- [Currents](Currents.md)
+- [InnerSpeaker](InnerSpeaker.md)
+- [The Slow Rush](The_Slow_Rush.md)
+- [Beets: InnerSpeaker](../../Beets/Tame_Impala/InnerSpeaker.md)
+- [Vinyl: Innerspeaker](../../Vinyl/Tame_Impala/Innerspeaker.md)
+- [Vinyl: ](../../Vinyl/Tame_Impala/Tame_Impala.md)

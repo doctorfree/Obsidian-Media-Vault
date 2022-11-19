@@ -33,3 +33,18 @@ By Green Day
 11. Forever Now
 12. Ordinary World
 
+
+## See also
+
+- [21st Century Breakdown (Édition Studio Masters)](21st_Century_Breakdown_Édition_Studio_Masters.md)
+- [American Idiot](American_Idiot.md)
+- [Beets: 21st Century Breakdown (Amazon MP3 Exclusive) [Explicit]](../../Beets/Green_Day/21st_Century_Breakdown_Amazon_MP3_Exclusive_[Explicit].md)
+- [Beets: 21st Century Breakdown](../../Beets/Green_Day/21st_Century_Breakdown.md)
+- [Beets: American Idiot](../../Beets/Green_Day/American_Idiot.md)
+- [Beets: Dookie](../../Beets/Green_Day/Dookie.md)
+- [Beets: Revolution Radio](../../Beets/Green_Day/Revolution_Radio.md)
+- [CD: 21st Century Breakdown](../../CD/Green_Day/21st_Century_Breakdown.md)
+- [CD: ](../../CD/Green_Day/Green_Day.md)
+- [Vinyl: American Idiot](../../Vinyl/Green_Day/American_Idiot.md)
+- [Vinyl: ](../../Vinyl/Green_Day/Green_Day.md)
+- [Vinyl: Revolution Radio](../../Vinyl/Green_Day/Revolution_Radio.md)

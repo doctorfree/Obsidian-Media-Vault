@@ -57,3 +57,10 @@ By Andrew Lloyd Webber
 3-12 Strange Thing (Mystifying) (German Single, MCS 3468)
 3-13 John Nineteen Forty-One (B-Side of MKS 5019)
 
+
+## See also
+
+- [Jesus Christ Superstar (50th Anniversary / Remastered 2021)](Jesus_Christ_Superstar_50th_Anniversary_-_Remastered_2021.md)
+- [CD: ](../../CD/Andrew_Lloyd_Webber/Andrew_Lloyd_Webber.md)
+- [CD: Jesus Christ Superstar (Disc 1)](../../CD/Andrew_Lloyd_Webber/Jesus_Christ_Superstar_Disc_1.md)
+- [CD: Jesus Christ Superstar (Disc 2)](../../CD/Andrew_Lloyd_Webber/Jesus_Christ_Superstar_Disc_2.md)

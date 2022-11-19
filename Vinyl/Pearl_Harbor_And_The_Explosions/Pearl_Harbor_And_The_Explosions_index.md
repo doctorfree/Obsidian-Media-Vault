@@ -5,3 +5,7 @@
 ## Vinyl
 
 - [Pearl Harbor And The Explosions](Pearl_Harbor_And_The_Explosions.md)
+
+## See also
+
+- [Pearl Harbor And The Explosions](Pearl_Harbor_And_The_Explosions.md)

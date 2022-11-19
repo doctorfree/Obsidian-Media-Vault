@@ -31,3 +31,11 @@ By Boz Scaggs
 9. Vanishing Point
 10. Thanks to You
 
+
+## See also
+
+- [Boz Scaggs & Band (Expanded Edition)](Boz_Scaggs_and_Band_Expanded_Edition.md)
+- [Boz Scaggs](Boz_Scaggs.md)
+- [Moments (Expanded)](Moments_Expanded.md)
+- [Silk Degrees](Silk_Degrees.md)
+- [Slow Dancer](Slow_Dancer.md)

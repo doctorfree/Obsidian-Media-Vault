@@ -36,3 +36,9 @@ By David Byrne
 14. Carnival Eyes
 15. I Know Sometimes a Man Is Wrong
 
+
+## See also
+
+- [Beets: Rei Momo](../../Beets/David_Byrne/Rei_Momo.md)
+- [CD: ](../../CD/David_Byrne/David_Byrne.md)
+- [CD: Rei Momo](../../CD/David_Byrne/Rei_Momo.md)

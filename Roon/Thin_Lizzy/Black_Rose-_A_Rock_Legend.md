@@ -30,3 +30,13 @@ By Thin Lizzy
 8. With Love
 9. Roisin Dubh (Black Rose): A Rock Legend
 
+
+## See also
+
+- [Chinatown](Chinatown.md)
+- [Renegade](Renegade.md)
+- [Thunder And Lightning](Thunder_And_Lightning.md)
+- [Beets: Dedication](../../Beets/Thin_Lizzy/Dedication.md)
+- [Beets: Jailbreak](../../Beets/Thin_Lizzy/Jailbreak.md)
+- [CD: Jailbreak](../../CD/Thin_Lizzy/Jailbreak.md)
+- [CD: ](../../CD/Thin_Lizzy/Thin_Lizzy.md)

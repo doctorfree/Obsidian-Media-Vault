@@ -22,3 +22,7 @@ By Grand Atlantic
 
 0. Nice Guys
 
+
+## See also
+
+- [Beets: Legacy of Power Pop - Power Pop Planet Best Of](../../Beets/Grand_Atlantic/Legacy_of_Power_Pop_-_Power_Pop_Planet_Best_Of.md)

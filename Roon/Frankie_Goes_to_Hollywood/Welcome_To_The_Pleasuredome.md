@@ -37,3 +37,7 @@ By Frankie Goes to Hollywood
 15. The Power of Love
 16. Bang...
 
+
+## See also
+
+- [Twelve Inches](Twelve_Inches.md)

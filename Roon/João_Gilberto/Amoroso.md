@@ -29,3 +29,8 @@ By João Gilberto
 7. Triste
 8. Zingaro
 
+
+## See also
+
+- [Getz/Gilberto](Getz-Gilberto.md)
+- [João Gilberto](João_Gilberto.md)

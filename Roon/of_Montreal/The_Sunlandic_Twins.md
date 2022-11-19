@@ -34,3 +34,8 @@ By of Montreal
 12. October Is Eternal
 13. The Repudiated Immortals
 
+
+## See also
+
+- [Cherry Peel](Cherry_Peel.md)
+- [False Priest (of Montreal)](False_Priest_of_Montreal.md)

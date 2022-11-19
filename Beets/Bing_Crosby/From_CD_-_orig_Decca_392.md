@@ -46,3 +46,9 @@ By **Bing Crosby**
 - **Track:** 00
 - **Year:** 1935
 
+
+## See also
+
+- [1950](1950.md)
+- [Vinyl: ](../../Vinyl/Bing_Crosby/Bing_Crosby.md)
+- [Vinyl: "Silent Night (Christmas Hymn) / Adeste Fideles (Oh, Come, All Ye Faithful)"](../../Vinyl/Bing_Crosby/Silent_Night_Christmas_Hymn_-_Adeste_Fideles_Oh__Come__All_Ye_Faithful.md)

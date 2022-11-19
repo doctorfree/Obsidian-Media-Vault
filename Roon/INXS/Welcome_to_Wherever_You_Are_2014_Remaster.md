@@ -33,3 +33,12 @@ By INXS
 11. Strange Desire
 12. Men and Women
 
+
+## See also
+
+- [Kick (2014 Remaster)](Kick_2014_Remaster.md)
+- [X (2014 Remaster)](X_2014_Remaster.md)
+- [CD: ](../../CD/INXS/INXS.md)
+- [CD: X - Gatefold Cover](../../CD/INXS/X_-_Gatefold_Cover.md)
+- [Vinyl: ](../../Vinyl/INXS/INXS.md)
+- [Vinyl: Listen Like Thieves](../../Vinyl/INXS/Listen_Like_Thieves.md)

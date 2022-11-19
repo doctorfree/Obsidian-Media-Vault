@@ -32,3 +32,7 @@ By Big Brother & the Holding Company
 10. Catch Me Daddy
 11. Magic of Love
 
+
+## See also
+
+- [Janis Joplin Live At Winterland '68 (Live at the Winterland Ballroom, San Francisco, CA - April 1968)](Janis_Joplin_Live_At_Winterland_68_Live_at_the_Winterland_Ballroom__San_Francisco__CA_-_April_1968.md)

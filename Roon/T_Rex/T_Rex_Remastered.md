@@ -38,3 +38,14 @@ By T. Rex
 16. Ride a White Swan
 17. Summertime Blues
 
+
+## See also
+
+- [Electric Warrior [Expanded & Remastered]](Electric_Warrior_[Expanded_and_Remastered].md)
+- [Electric Warrior](Electric_Warrior.md)
+- [The Slider](The_Slider.md)
+- [Beets: Electric Warrior](../../Beets/T_Rex/Electric_Warrior.md)
+- [Beets: Rabbit Fighter](../../Beets/T_Rex/Rabbit_Fighter.md)
+- [Beets: The Slider](../../Beets/T_Rex/The_Slider.md)
+- [Vinyl: Electric Warrior](../../Vinyl/T_Rex/Electric_Warrior.md)
+- [Vinyl: ](../../Vinyl/T_Rex/T_Rex.md)

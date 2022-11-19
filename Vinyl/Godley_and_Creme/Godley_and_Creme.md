@@ -5,3 +5,7 @@
 ## Records
 
 - [The History Mix Volume 1](The_History_Mix_Volume_1.md)
+
+## See also
+
+- [The History Mix Volume 1](The_History_Mix_Volume_1.md)

@@ -145,3 +145,10 @@ By **Monks of Doom**
 - **Track:** 11
 - **Year:** 1989
 
+
+## See also
+
+- [Forgery](Forgery.md)
+- [The Cosmodemonic Telegraph Company](The_Cosmodemonic_Telegraph_Company.md)
+- [The Insect God](The_Insect_God.md)
+- [What's Left for Kicks?](Whats_Left_for_Kicks.md)

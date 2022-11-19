@@ -189,3 +189,7 @@ By **Guns N’ Roses**
 - **Track:** 14
 - **Year:** 2004
 
+
+## See also
+
+- [Greatest Hits](Greatest_Hits.md)

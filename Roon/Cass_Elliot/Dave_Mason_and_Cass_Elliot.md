@@ -31,3 +31,10 @@ By Cass Elliot
 9. Next to You
 10. Glittering Facade
 
+
+## See also
+
+- [Bubblegum, Lemonade &...Something For Mama](Bubblegum__Lemonade_andSomething_For_Mama.md)
+- [Dream A Little Dream](Dream_A_Little_Dream.md)
+- [Vinyl: "Bubble Gum, Lemonade &... Something For Mama"](../../Vinyl/Cass_Elliot/Bubble_Gum__Lemonade_and_Something_For_Mama.md)
+- [Vinyl: ](../../Vinyl/Cass_Elliot/Cass_Elliot.md)

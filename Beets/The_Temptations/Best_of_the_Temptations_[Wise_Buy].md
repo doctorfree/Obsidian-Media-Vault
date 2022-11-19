@@ -178,3 +178,11 @@ By **The Temptations**
 - **Track:** 13
 - **Year:** 1970
 
+
+## See also
+
+- [Psychedelic Soul [Disc 1]](Psychedelic_Soul_[Disc_1].md)
+- [Psychedelic Soul [Disc 2]](Psychedelic_Soul_[Disc_2].md)
+- [CD: Psychedelic Soul - Disc 1 (Disc 1)](../../CD/The_Temptations/Psychedelic_Soul_-_Disc_1_Disc_1.md)
+- [CD: Psychedelic Soul - Disc 1 (Disc 2)](../../CD/The_Temptations/Psychedelic_Soul_-_Disc_1_Disc_2.md)
+- [CD: ](../../CD/The_Temptations/The_Temptations.md)

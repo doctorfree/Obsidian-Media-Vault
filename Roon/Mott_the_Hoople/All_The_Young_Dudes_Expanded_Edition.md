@@ -37,3 +37,9 @@ By Mott the Hoople
 15. Sucker (live 1973 at the Hammersmith Odeon)
 16. Sweet Jane (live 1973 at the Hammersmith Odeon)
 
+
+## See also
+
+- [Mott (Expanded Edition)](Mott_Expanded_Edition.md)
+- [Mott The Hoople](Mott_The_Hoople.md)
+- [The Hoople](The_Hoople.md)

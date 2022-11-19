@@ -56,3 +56,10 @@ By Be Bop Deluxe
 34. Maid in Heaven (BBC Radio 1 "In Concert", 23 May 1975)
 35. Axe Victim (BBC Radio 1 "In Concert", 23 May 1975)
 
+
+## See also
+
+- [Axe Victim (Deluxe Edition)](Axe_Victim_Deluxe_Edition.md)
+- [Drastic Plastic (Deluxe Edition)](Drastic_Plastic_Deluxe_Edition.md)
+- [Modern Music (Deluxe Edition)](Modern_Music_Deluxe_Edition.md)
+- [Sunburst Finish (Remastered & Expanded)](Sunburst_Finish_Remastered_and_Expanded.md)

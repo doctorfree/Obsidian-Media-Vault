@@ -32,3 +32,12 @@ By BoA
 10. Don't Know What To Say
 11. 로망스 (Romance)
 
+
+## See also
+
+- [Atlantis Princess - The 3rd Album](Atlantis_Princess_-_The_3rd_Album.md)
+- [BoA](BoA.md)
+- [Girls On Top](Girls_On_Top.md)
+- [My Name - The 4th Album](My_Name_-_The_4th_Album.md)
+- [NO.1 - The 2nd Album](NO1_-_The_2nd_Album.md)
+- [Only One](Only_One.md)

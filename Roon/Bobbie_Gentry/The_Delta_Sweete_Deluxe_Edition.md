@@ -55,3 +55,10 @@ By Bobbie Gentry
 2-16 Refractions [Demo]
 2-17 Louisiana Man [Demo]
 
+
+## See also
+
+- [Fancy](Fancy.md)
+- [Ode To Billie Joe](Ode_To_Billie_Joe.md)
+- [Beets: Fancy](../../Beets/Bobbie_Gentry/Fancy.md)
+- [Beets: The Delta Sweete](../../Beets/Bobbie_Gentry/The_Delta_Sweete.md)

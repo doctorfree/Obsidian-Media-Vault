@@ -40,3 +40,5 @@ By U2
 ## See also
 
 - [Angel Of Harlem](Angel_Of_Harlem.md)
+- [Beets: Invisible (RED) Edit Version](../../Beets/U2/Invisible_RED_Edit_Version.md)
+- [Beets: Songs of Innocence](../../Beets/U2/Songs_of_Innocence.md)

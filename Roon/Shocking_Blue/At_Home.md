@@ -36,3 +36,9 @@ By Shocking Blue
 14. Hot Sand
 15. Wild Wind
 
+
+## See also
+
+- [Beets: At Home](../../Beets/Shocking_Blue/At_Home.md)
+- [Vinyl: At Home](../../Vinyl/Shocking_Blue/At_Home.md)
+- [Vinyl: ](../../Vinyl/Shocking_Blue/Shocking_Blue.md)

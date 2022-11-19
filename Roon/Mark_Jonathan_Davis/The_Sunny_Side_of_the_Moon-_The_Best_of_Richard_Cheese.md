@@ -39,3 +39,9 @@ By Mark Jonathan Davis
 17. Badd
 18. Creep
 
+
+## See also
+
+- [Aperitif for Destruction](Aperitif_for_Destruction.md)
+- [Lounge Against the Machine](Lounge_Against_the_Machine.md)
+- [Tuxicity](Tuxicity.md)

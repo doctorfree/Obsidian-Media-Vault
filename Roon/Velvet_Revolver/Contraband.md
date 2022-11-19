@@ -34,3 +34,11 @@ By Velvet Revolver
 12. Dirty Little Thing
 13. Loving the Alien
 
+
+## See also
+
+- [Beets: Contraband](../../Beets/Velvet_Revolver/Contraband.md)
+- [CD: Contraband](../../CD/Velvet_Revolver/Contraband.md)
+- [CD: ](../../CD/Velvet_Revolver/Velvet_Revolver.md)
+- [Vinyl: Contraband](../../Vinyl/Velvet_Revolver/Contraband.md)
+- [Vinyl: ](../../Vinyl/Velvet_Revolver/Velvet_Revolver.md)

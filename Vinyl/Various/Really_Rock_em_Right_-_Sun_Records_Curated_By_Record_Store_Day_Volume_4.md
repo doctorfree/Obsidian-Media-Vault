@@ -48,3 +48,4 @@ By Various
 - [Performance](Performance-_Original_Motion_Picture_Sound_Track.md)
 - [Popeye - Original Motion Picture Soundtrack Album](Popeye_-_Original_Motion_Picture_Soundtrack_Album.md)
 - [Resistance Radio](Resistance_Radio-_The_Man_In_The_High_Castle_Album.md)
+- [Beets: Coming Up Roses](../../Beets/Various/Coming_Up_Roses.md)

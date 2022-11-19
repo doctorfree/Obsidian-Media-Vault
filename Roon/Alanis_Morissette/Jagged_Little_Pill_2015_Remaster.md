@@ -34,3 +34,10 @@ By Alanis Morissette
 12. Wake Up
 13. You Oughta Know [Jimmy the Saint Blend]/Your House [A Cappella]
 
+
+## See also
+
+- [Beets: Jagged Little Pill](../../Beets/Alanis_Morissette/Jagged_Little_Pill.md)
+- [Beets: Jagged Little Pill (Vinyl Rip)](../../Beets/Alanis_Morissette/Jagged_Little_Pill_Vinyl_Rip.md)
+- [Vinyl: ](../../Vinyl/Alanis_Morissette/Alanis_Morissette.md)
+- [Vinyl: Jagged Little Pill](../../Vinyl/Alanis_Morissette/Jagged_Little_Pill.md)

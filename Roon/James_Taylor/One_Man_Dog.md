@@ -39,3 +39,13 @@ By James Taylor
 17. Dance
 18. Jig
 
+
+## See also
+
+- [1967 (Deluxe Edition)](1967_Deluxe_Edition.md)
+- [James Taylor Live](James_Taylor_Live.md)
+- [James Taylor](James_Taylor.md)
+- [Mud Slide Slim and the Blue Horizon (2019 Remaster)](Mud_Slide_Slim_and_the_Blue_Horizon_2019_Remaster.md)
+- [Sweet Baby James](Sweet_Baby_James.md)
+- [Walking Man](Walking_Man.md)
+- [Beets: Greatest Hits](../../Beets/James_Taylor/Greatest_Hits.md)

@@ -38,3 +38,7 @@ By Arthur Brown
 16. Metal Monster [Alternate Version]
 17. Space Plucks Dem Bones
 
+
+## See also
+
+- [The Crazy World of Arthur Brown](The_Crazy_World_of_Arthur_Brown.md)

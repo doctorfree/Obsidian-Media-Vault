@@ -37,3 +37,7 @@ By Steve Howe
 15. The Faerie Ring
 16. Dream Weaver [The Storyteller Demo]
 
+
+## See also
+
+- [Beets: Quantum Guitar](../../Beets/Steve_Howe/Quantum_Guitar.md)

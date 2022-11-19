@@ -36,3 +36,7 @@ By Brick
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Brick.md)

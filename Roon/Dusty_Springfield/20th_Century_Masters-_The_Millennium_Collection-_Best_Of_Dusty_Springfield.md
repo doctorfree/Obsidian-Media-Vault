@@ -33,3 +33,9 @@ By Dusty Springfield
 11. What's It Gonna Be?
 12. Give Me Time
 
+
+## See also
+
+- [Dusty In Memphis (1)](Dusty_In_Memphis_1.md)
+- [Stay Awhile / I Only Want To Be With You](Stay_Awhile_-_I_Only_Want_To_Be_With_You.md)
+- [You Don't Have To Say You Love Me](You_Dont_Have_To_Say_You_Love_Me.md)

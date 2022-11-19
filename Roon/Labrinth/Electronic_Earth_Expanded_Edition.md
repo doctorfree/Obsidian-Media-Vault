@@ -35,3 +35,7 @@ By Labrinth
 13. Last Time (Knife Party Remix)
 14. Earthquake (feat. Tinie Tempah) (Noisia Remix)
 
+
+## See also
+
+- [Euphoria (Original Score from the HBO Series)](Euphoria_Original_Score_from_the_HBO_Series.md)

@@ -36,3 +36,10 @@ By Shawn Phillips
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Shawn_Phillips.md)
+- [Beets: Second Contribution](../../Beets/Shawn_Phillips/Second_Contribution.md)
+- [CD: Second Contribution](../../CD/Shawn_Phillips/Second_Contribution.md)
+- [CD: ](../../CD/Shawn_Phillips/Shawn_Phillips.md)

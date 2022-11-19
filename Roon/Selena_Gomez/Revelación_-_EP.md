@@ -28,3 +28,8 @@ By Selena Gomez
 6. Adiós
 7. Selfish Love
 
+
+## See also
+
+- [Rare (Deluxe - Explicit) (Deluxe)](Rare_Deluxe_-_Explicit_Deluxe.md)
+- [Revival (Deluxe)](Revival_Deluxe.md)

@@ -57,3 +57,11 @@ By Tears for Fears
 3-9 Start Of The Breakdown
 3-10 Change [Jensen Session]
 
+
+## See also
+
+- [Songs From The Big Chair](Songs_From_The_Big_Chair.md)
+- [The Seeds of Love](The_Seeds_of_Love.md)
+- [CD: ](../../CD/Tears_for_Fears/Tears_for_Fears.md)
+- [CD: The Hurting (Expanded Edition) (1999)](../../CD/Tears_for_Fears/The_Hurting_Expanded_Edition_1999.md)
+- [CD: The Seeds Of Love](../../CD/Tears_for_Fears/The_Seeds_Of_Love.md)

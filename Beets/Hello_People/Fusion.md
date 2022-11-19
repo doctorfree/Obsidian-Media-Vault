@@ -134,3 +134,14 @@ By **Hello People**
 - **Track:** 09
 - **Year:** 1968
 
+
+## See also
+
+- [Bricks](Bricks.md)
+- [Hello People](Hello_People.md)
+- [The Handsome Devils](The_Handsome_Devils.md)
+- [Vinyl: Bricks](../../Vinyl/Hello_People/Bricks.md)
+- [Vinyl: Fusion](../../Vinyl/Hello_People/Fusion.md)
+- [Vinyl: ](../../Vinyl/Hello_People/Hello_People.md)
+- [Vinyl: The Handsome Devils](../../Vinyl/Hello_People/The_Handsome_Devils.md)
+- [Vinyl: The Hello People](../../Vinyl/Hello_People/The_Hello_People.md)

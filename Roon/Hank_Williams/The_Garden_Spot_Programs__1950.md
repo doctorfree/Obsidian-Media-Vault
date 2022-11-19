@@ -45,3 +45,8 @@ By Hank Williams
 23. Jesus Remembered Me
 24. Closing/Oh! Susanna
 
+
+## See also
+
+- [40 Greatest Hits](40_Greatest_Hits.md)
+- [Beets: 24 Greatest Hits](../../Beets/Hank_Williams/24_Greatest_Hits.md)

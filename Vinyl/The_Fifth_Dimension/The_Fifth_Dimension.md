@@ -5,3 +5,7 @@
 ## Records
 
 - [The Best Of The 5th Dimension](The_Best_Of_The_5th_Dimension.md)
+
+## See also
+
+- [The Best Of The 5th Dimension](The_Best_Of_The_5th_Dimension.md)

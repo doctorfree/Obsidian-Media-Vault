@@ -27,3 +27,9 @@ By Blind Faith
 5. Sea of Joy
 6. Do What You Like
 
+
+## See also
+
+- [Beets: Blind Faith](../../Beets/Blind_Faith/Blind_Faith.md)
+- [Vinyl: ](../../Vinyl/Blind_Faith/Blind_Faith_index.md)
+- [Vinyl: Blind Faith](../../Vinyl/Blind_Faith/Blind_Faith.md)

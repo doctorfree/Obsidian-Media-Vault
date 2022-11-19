@@ -167,3 +167,10 @@ By **Nina Simone**
 - **Track:** 12
 - **Year:** 1999
 
+
+## See also
+
+- [It Is Finished](It_Is_Finished.md)
+- [Vinyl: My Baby Just Cares For Me](../../Vinyl/Nina_Simone/My_Baby_Just_Cares_For_Me.md)
+- [Vinyl: Nina Simone At Town Hall](../../Vinyl/Nina_Simone/Nina_Simone_At_Town_Hall.md)
+- [Vinyl: ](../../Vinyl/Nina_Simone/Nina_Simone.md)

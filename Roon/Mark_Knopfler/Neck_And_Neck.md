@@ -31,3 +31,7 @@ By Mark Knopfler
 9. I'll See You in My Dreams
 10. The Next Time I'm in Town
 
+
+## See also
+
+- [Beets: Swinging Golden Hearts ( Disc 2 )](../../Beets/Mark_Knopfler/Swinging_Golden_Hearts__Disc_2_.md)

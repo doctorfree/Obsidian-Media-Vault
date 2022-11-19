@@ -36,3 +36,7 @@ By Reiko Ike
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Reiko_Ike.md)

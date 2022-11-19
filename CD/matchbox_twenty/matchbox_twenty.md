@@ -5,3 +5,7 @@
 ## CD
 
 - [Mad Season](Mad_Season.md)
+
+## See also
+
+- [Mad Season](Mad_Season.md)

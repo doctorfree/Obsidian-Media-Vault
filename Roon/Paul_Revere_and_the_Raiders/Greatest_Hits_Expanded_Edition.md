@@ -36,3 +36,8 @@ By Paul Revere & the Raiders
 14. Him or Me
 15. Peace of Mind
 
+
+## See also
+
+- [Midnight Ride](Midnight_Ride.md)
+- [The Spirit of '67](The_Spirit_of_67.md)

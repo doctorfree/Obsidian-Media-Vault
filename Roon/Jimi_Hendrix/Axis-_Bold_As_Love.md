@@ -34,3 +34,12 @@ By Jimi Hendrix
 12. Little Miss Lover
 13. Bold as Love
 
+
+## See also
+
+- [Are You Experienced](Are_You_Experienced.md)
+- [Beets: Jimi Hendrix](../../Beets/Jimi_Hendrix/Jimi_Hendrix_2.md)
+- [Beets: Jimi Hendrix](../../Beets/Jimi_Hendrix/Jimi_Hendrix.md)
+- [Beets: Valleys of Neptune](../../Beets/Jimi_Hendrix/Valleys_of_Neptune.md)
+- [Vinyl: Band Of Gypsys](../../Vinyl/Jimi_Hendrix/Band_Of_Gypsys.md)
+- [Vinyl: ](../../Vinyl/Jimi_Hendrix/Jimi_Hendrix.md)

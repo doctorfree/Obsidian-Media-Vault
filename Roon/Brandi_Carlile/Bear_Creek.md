@@ -34,3 +34,12 @@ By Brandi Carlile
 12. In the Morrow
 13. Just Kids
 
+
+## See also
+
+- [Brandi Carlile](Brandi_Carlile.md)
+- [By the Way, I Forgive You](By_the_Way__I_Forgive_You.md)
+- [In These Silent Days](In_These_Silent_Days.md)
+- [The Story](The_Story.md)
+- [Beets: Bear Creek](../../Beets/Brandi_Carlile/Bear_Creek.md)
+- [Beets: The Story](../../Beets/Brandi_Carlile/The_Story.md)

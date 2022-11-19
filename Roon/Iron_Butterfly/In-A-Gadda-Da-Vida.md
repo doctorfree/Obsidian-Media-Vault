@@ -27,3 +27,8 @@ By Iron Butterfly
 5. Are You Happy
 6. In-a-Gadda-Da-Vida
 
+
+## See also
+
+- [Heavy](Heavy.md)
+- [Original Album Series](Original_Album_Series.md)

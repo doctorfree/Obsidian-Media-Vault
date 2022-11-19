@@ -33,3 +33,9 @@ By John Doe
 11. The Meanest Man in the World
 12. Grain of Salt
 
+
+## See also
+
+- [Meet John Doe](Meet_John_Doe.md)
+- [Beets: A Year In The Wilderness](../../Beets/John_Doe/A_Year_In_The_Wilderness.md)
+- [Beets: Meet John Doe](../../Beets/John_Doe/Meet_John_Doe.md)

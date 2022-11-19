@@ -189,3 +189,9 @@ By **Tears For Fears**
 - **Track:** 14
 - **Year:** 2000
 
+
+## See also
+
+- [Raoul and the Kings of Spain](Raoul_and_the_Kings_of_Spain.md)
+- [The Hurting](The_Hurting.md)
+- [The Seeds of Love](The_Seeds_of_Love.md)

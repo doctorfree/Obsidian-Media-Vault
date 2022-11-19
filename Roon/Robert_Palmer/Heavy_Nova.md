@@ -31,3 +31,11 @@ By Robert Palmer
 9. Casting a Spell
 10. Tell Me I'm Not Dreaming
 
+
+## See also
+
+- [Sneakin' Sally Through The Alley](Sneakin_Sally_Through_The_Alley.md)
+- [Beets: Heavy Nova](../../Beets/Robert_Palmer/Heavy_Nova.md)
+- [Beets: Riptide](../../Beets/Robert_Palmer/Riptide.md)
+- [Vinyl: Riptide](../../Vinyl/Robert_Palmer/Riptide.md)
+- [Vinyl: ](../../Vinyl/Robert_Palmer/Robert_Palmer.md)

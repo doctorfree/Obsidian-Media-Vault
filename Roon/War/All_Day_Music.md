@@ -28,3 +28,11 @@ By War
 6. Slippin' into Darkness
 7. Baby Brother
 
+
+## See also
+
+- [Eric Burdon Declares War](Eric_Burdon_Declares_War.md)
+- [The Black-Man's Burdon](The_Black-Mans_Burdon.md)
+- [The World is a Ghetto](The_World_is_a_Ghetto.md)
+- [WAR](WAR.md)
+- [Why Can't We Be Friends?](Why_Cant_We_Be_Friends.md)

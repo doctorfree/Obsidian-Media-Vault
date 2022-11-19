@@ -5,3 +5,7 @@
 ## Records
 
 - [Silver Shirt](Silver_Shirt.md)
+
+## See also
+
+- [Silver Shirt](Silver_Shirt.md)

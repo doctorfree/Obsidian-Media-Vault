@@ -211,3 +211,8 @@ By **Spooky Tooth**
 - **Track:** 16
 - **Year:** 1999
 
+
+## See also
+
+- [CD: ](../../CD/Spooky_Tooth/Spooky_Tooth.md)
+- [CD: The Best Of - That Was Only Yesterday](../../CD/Spooky_Tooth/The_Best_Of_-_That_Was_Only_Yesterday.md)

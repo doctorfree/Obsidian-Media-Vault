@@ -30,3 +30,10 @@ By Aerosmith
 8. Round and Round
 9. You See Me Crying
 
+
+## See also
+
+- [Beets: Big Ones](../../Beets/Aerosmith/Big_Ones.md)
+- [Vinyl: ](../../Vinyl/Aerosmith/Aerosmith.md)
+- [Vinyl: Draw The Line](../../Vinyl/Aerosmith/Draw_The_Line.md)
+- [Vinyl: The Other Side](../../Vinyl/Aerosmith/The_Other_Side.md)

@@ -41,3 +41,7 @@ By Franz Ferdinand
 19. Curious
 20. Billy Goodbye
 
+
+## See also
+
+- [Beets: Franz Ferdinand](../../Beets/Franz_Ferdinand/Franz_Ferdinand.md)

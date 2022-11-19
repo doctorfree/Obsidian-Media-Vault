@@ -33,3 +33,8 @@ By Pulp
 11. Monday Morning
 12. Bar Italia
 
+
+## See also
+
+- [His 'N' Hers](His_N_Hers.md)
+- [This Is Hardcore](This_Is_Hardcore.md)

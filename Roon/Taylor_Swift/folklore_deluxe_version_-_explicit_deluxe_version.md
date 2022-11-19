@@ -38,3 +38,9 @@ By Taylor Swift
 16. Hoax
 17. The Lakes [Bonus Track]
 
+
+## See also
+
+- [Folklore (Explicit)](Folklore_Explicit.md)
+- [Midnights (3am Edition)](Midnights_3am_Edition.md)
+- [Red (Taylor's Version)](Red_Taylors_Version.md)

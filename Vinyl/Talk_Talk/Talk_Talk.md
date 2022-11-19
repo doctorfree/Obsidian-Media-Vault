@@ -5,3 +5,7 @@
 ## Records
 
 - [Today • It's So Serious](Today_•_Its_So_Serious.md)
+
+## See also
+
+- [Today • It's So Serious](Today_•_Its_So_Serious.md)

@@ -40,3 +40,8 @@ By Dua Lipa
 18. Levitating
 19. Un día (One Day)
 
+
+## See also
+
+- [Club Future Nostalgia (DJ Mix)](Club_Future_Nostalgia_DJ_Mix.md)
+- [Dua Lipa (Deluxe)](Dua_Lipa_Deluxe.md)

@@ -31,3 +31,8 @@ By Savages
 9. T.I.W.Y.G.
 10. Mechanics
 
+
+## See also
+
+- [Silence Yourself](Silence_Yourself.md)
+- [Beets: Silence Yourself](../../Beets/Savages/Silence_Yourself.md)

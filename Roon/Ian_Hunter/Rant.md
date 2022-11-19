@@ -33,3 +33,9 @@ By Ian Hunter
 11. Knees of My Heart
 12. No One
 
+
+## See also
+
+- [Ian Hunter - 30th Anniversary Edition](Ian_Hunter_-_30th_Anniversary_Edition.md)
+- [You're Never Alone with a Schizophrenic (Deluxe Version)](Youre_Never_Alone_with_a_Schizophrenic_Deluxe_Version.md)
+- [Beets: Rant](../../Beets/Ian_Hunter/Rant.md)

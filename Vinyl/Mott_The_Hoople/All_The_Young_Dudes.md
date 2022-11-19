@@ -44,3 +44,5 @@ Limited edition numbered copy 0676 of 1000
 ## See also
 
 - [Mott](Mott.md)
+- [Beets: All The Young Dudes](../../Beets/Mott_The_Hoople/All_The_Young_Dudes.md)
+- [Beets: Mott](../../Beets/Mott_The_Hoople/Mott.md)

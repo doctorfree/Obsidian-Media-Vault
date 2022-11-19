@@ -39,3 +39,7 @@ By Frankie Goes to Hollywood
 17. Power of Love '93 (alternative mix)
 18. Relax (Peter Rauhofer's doomsday club mix)
 
+
+## See also
+
+- [Welcome To The Pleasuredome](Welcome_To_The_Pleasuredome.md)

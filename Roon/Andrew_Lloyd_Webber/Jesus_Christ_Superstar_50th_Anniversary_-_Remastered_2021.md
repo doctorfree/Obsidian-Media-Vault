@@ -44,3 +44,10 @@ By Andrew Lloyd Webber
 2-10 The Crucifixion
 2-11 John Nineteen Forty-One
 
+
+## See also
+
+- [Jesus Christ Superstar (50th Anniversary / Deluxe)](Jesus_Christ_Superstar_50th_Anniversary_-_Deluxe.md)
+- [CD: ](../../CD/Andrew_Lloyd_Webber/Andrew_Lloyd_Webber.md)
+- [CD: Jesus Christ Superstar (Disc 1)](../../CD/Andrew_Lloyd_Webber/Jesus_Christ_Superstar_Disc_1.md)
+- [CD: Jesus Christ Superstar (Disc 2)](../../CD/Andrew_Lloyd_Webber/Jesus_Christ_Superstar_Disc_2.md)

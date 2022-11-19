@@ -5,3 +5,7 @@
 ## Vinyl
 
 - [Commodores](Commodores.md)
+
+## See also
+
+- [Commodores](Commodores.md)

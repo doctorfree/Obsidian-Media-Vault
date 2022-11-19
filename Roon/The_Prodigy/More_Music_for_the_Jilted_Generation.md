@@ -41,3 +41,7 @@ By The Prodigy
 2-6 Rat Poison
 2-7 Voodoo People (Dust Brothers remix)
 
+
+## See also
+
+- [The Fat of the Land - Expanded Edition (The Prodigy)](The_Fat_of_the_Land_-_Expanded_Edition_The_Prodigy.md)

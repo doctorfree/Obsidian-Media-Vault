@@ -34,3 +34,10 @@ By The Flock
 12. Mermaid
 13. Crabfoot (Single Edit)
 
+
+## See also
+
+- [The Flock (Expanded Edition)](The_Flock_Expanded_Edition.md)
+- [Beets: Dinosaur Swamps](../../Beets/The_Flock/Dinosaur_Swamps.md)
+- [Vinyl: Dinosaur Swamps](../../Vinyl/The_Flock/Dinosaur_Swamps.md)
+- [Vinyl: ](../../Vinyl/The_Flock/The_Flock.md)

@@ -61,3 +61,9 @@ By Gene Pitney
 2-19 Maria Elena (I'm Going to War) (Remastered)
 2-20 Air Mail Special Delivery (Remastered)
 
+
+## See also
+
+- [Beets: Gene Pitney Anthology 1961-1968](../../Beets/Gene_Pitney/Gene_Pitney_Anthology_1961-1968.md)
+- [Vinyl: ](../../Vinyl/Gene_Pitney/Gene_Pitney.md)
+- [Vinyl: Gene Pitney's Big Sixteen](../../Vinyl/Gene_Pitney/Gene_Pitneys_Big_Sixteen.md)

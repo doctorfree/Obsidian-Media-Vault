@@ -39,3 +39,9 @@ By Carpenters
 17. Top of the World
 18. We've Only Just Begun
 
+
+## See also
+
+- [Beets: The Singles 1969–1973](../../Beets/Carpenters/The_Singles_1969–1973.md)
+- [Vinyl: ](../../Vinyl/Carpenters/Carpenters.md)
+- [Vinyl: The Singles 1969-1973](../../Vinyl/Carpenters/The_Singles_1969-1973.md)

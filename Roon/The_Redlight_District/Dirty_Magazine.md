@@ -25,3 +25,7 @@ By The Redlight District
 3. Red Wine on the Window Sill / The Return of Adam to Paradise
 4. District Lines
 
+
+## See also
+
+- [Beets: Dirty Magazine](../../Beets/The_Redlight_District/Dirty_Magazine.md)

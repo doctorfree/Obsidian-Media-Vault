@@ -156,3 +156,18 @@ By **Heart**
 - **Track:** 10
 - **Year:** 1987
 
+
+## See also
+
+- [Dreamboat Annie](Dreamboat_Annie.md)
+- [Secret Heart Illustrated](Secret_Heart_Illustrated.md)
+- [Roon: Alive in Seattle (Live)](../../Roon/Heart/Alive_in_Seattle_Live.md)
+- [Roon: Beautiful Broken](../../Roon/Heart/Beautiful_Broken.md)
+- [Roon: Dog & Butterfly](../../Roon/Heart/Dog_and_Butterfly.md)
+- [Roon: Dreamboat Annie](../../Roon/Heart/Dreamboat_Annie.md)
+- [Roon: Little Queen](../../Roon/Heart/Little_Queen.md)
+- [Vinyl: Dog & Butterfly](../../Vinyl/Heart/Dog_and_Butterfly.md)
+- [Vinyl: Dreamboat Annie](../../Vinyl/Heart/Dreamboat_Annie.md)
+- [Vinyl: ](../../Vinyl/Heart/Heart.md)
+- [Vinyl: Little Queen](../../Vinyl/Heart/Little_Queen.md)
+- [Vinyl: Magazine](../../Vinyl/Heart/Magazine.md)

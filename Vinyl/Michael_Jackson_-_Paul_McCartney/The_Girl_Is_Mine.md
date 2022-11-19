@@ -36,3 +36,7 @@ By Michael Jackson / Paul McCartney
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Michael_Jackson_-_Paul_McCartney.md)

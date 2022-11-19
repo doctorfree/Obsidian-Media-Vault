@@ -32,3 +32,11 @@ By Gentle Giant
 10. Freedom's Child
 11. Nothing at All [Steven Wilson 7" Edit]
 
+
+## See also
+
+- [Octopus (Steven Wilson Mix)](Octopus_Steven_Wilson_Mix.md)
+- [The Power and the Glory (Mixed by Steven Wilson)](The_Power_and_the_Glory_Mixed_by_Steven_Wilson.md)
+- [Beets: Octopus](../../Beets/Gentle_Giant/Octopus.md)
+- [Beets: Playing the Fool](../../Beets/Gentle_Giant/Playing_the_Fool.md)
+- [Beets: The Power and the Glory](../../Beets/Gentle_Giant/The_Power_and_the_Glory.md)

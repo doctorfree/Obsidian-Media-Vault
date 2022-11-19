@@ -35,3 +35,8 @@ By Selena Gomez
 13. Nobody
 14. Perfect
 
+
+## See also
+
+- [Rare (Deluxe - Explicit) (Deluxe)](Rare_Deluxe_-_Explicit_Deluxe.md)
+- [Revelación - EP](Revelación_-_EP.md)

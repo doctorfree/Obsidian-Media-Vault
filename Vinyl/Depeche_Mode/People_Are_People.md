@@ -36,3 +36,7 @@ By Depeche Mode
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Depeche_Mode.md)

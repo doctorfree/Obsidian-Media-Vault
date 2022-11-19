@@ -5,3 +5,7 @@
 ## Records
 
 - [Hideaway](Hideaway.md)
+
+## See also
+
+- [Hideaway](Hideaway.md)

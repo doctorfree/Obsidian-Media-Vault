@@ -167,3 +167,15 @@ By **The Beat Farmers**
 - **Track:** 12
 - **Year:** 1985
 
+
+## See also
+
+- [Glad 'n' Greasy](Glad_n_Greasy.md)
+- [Live at the Spring Valley Inn, 1983](Live_at_the_Spring_Valley_Inn__1983.md)
+- [Loud and Plowed and... LIVE!!](Loud_and_Plowed_and_LIVE!!.md)
+- [Manifold](Manifold.md)
+- [Tales of the New West](Tales_of_the_New_West.md)
+- [The Pursuit of Happiness](The_Pursuit_of_Happiness.md)
+- [Van Go](Van_Go.md)
+- [CD: Loud And Plowed And ... Live!!](../../CD/The_Beat_Farmers/Loud_And_Plowed_And__Live!!.md)
+- [CD: ](../../CD/The_Beat_Farmers/The_Beat_Farmers.md)

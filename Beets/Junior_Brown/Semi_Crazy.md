@@ -46,3 +46,8 @@ By **Junior Brown**
 - **Track:** 06
 - **Year:** 0000
 
+
+## See also
+
+- [12 shades of brown](12_shades_of_brown.md)
+- [Long Walk Back](Long_Walk_Back.md)

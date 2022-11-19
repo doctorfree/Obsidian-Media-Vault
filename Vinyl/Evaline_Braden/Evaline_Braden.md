@@ -5,3 +5,7 @@
 ## Records
 
 - [Think You Better Leave](Think_You_Better_Leave.md)
+
+## See also
+
+- [Think You Better Leave](Think_You_Better_Leave.md)

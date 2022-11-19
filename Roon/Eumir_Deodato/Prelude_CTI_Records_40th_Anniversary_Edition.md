@@ -27,3 +27,8 @@ By Eumir Deodato
 5. Prelude To Afternoon of a Faun
 6. September 13 (Quad mix)
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Eumir_Deodato/Eumir_Deodato.md)
+- [Vinyl: Prelude](../../Vinyl/Eumir_Deodato/Prelude.md)

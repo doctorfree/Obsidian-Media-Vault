@@ -37,3 +37,17 @@ By Elvis Costello & The Attractions
 15. Crawling To The U.S.A.
 16. Se Esta Perdiendo La Inocencia [Running Out Of Angels]
 
+
+## See also
+
+- [Armed Forces (Remastered 2020)](Armed_Forces_Remastered_2020.md)
+- [Blood And Chocolate](Blood_And_Chocolate.md)
+- [Imperial Bedroom](Imperial_Bedroom.md)
+- [This Year's Model](This_Years_Model.md)
+- [Trust](Trust.md)
+- [Beets: 50,000,000 Elvis Fans Can’t Be Wrong](../../Beets/Elvis_Costello_and_The_Attractions/50_000_000_Elvis_Fans_Can’t_Be_Wrong.md)
+- [Beets: Blood & Chocolate](../../Beets/Elvis_Costello_and_The_Attractions/Blood_and_Chocolate.md)
+- [Beets: Momofuku](../../Beets/Elvis_Costello_and_The_Attractions/Momofuku.md)
+- [Vinyl: Accidents Will Happen / Alison](../../Vinyl/Elvis_Costello_and_The_Attractions/Accidents_Will_Happen_-_Alison.md)
+- [Vinyl: ](../../Vinyl/Elvis_Costello_and_The_Attractions/Elvis_Costello_and_The_Attractions.md)
+- [Vinyl: Trust](../../Vinyl/Elvis_Costello_and_The_Attractions/Trust.md)

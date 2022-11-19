@@ -26,3 +26,11 @@ By Lee Michaels
 4. Want My Baby
 5. Heighty Hi
 
+
+## See also
+
+- [5th (Remastered)](5th_Remastered.md)
+- [Barrel (Remastered)](Barrel_Remastered.md)
+- [Beets: Hello](../../Beets/Lee_Michaels/Hello.md)
+- [Beets: Live](../../Beets/Lee_Michaels/Live.md)
+- [Beets: Recital](../../Beets/Lee_Michaels/Recital.md)

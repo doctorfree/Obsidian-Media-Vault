@@ -30,3 +30,12 @@ By Poco
 8. Restrain
 9. Sweet Lovin'
 
+
+## See also
+
+- [Crazy Eyes](Crazy_Eyes.md)
+- [Beets: A Good Feelin' To Know](../../Beets/Poco/A_Good_Feelin_To_Know.md)
+- [Beets: From the Inside](../../Beets/Poco/From_the_Inside.md)
+- [Beets: Poco](../../Beets/Poco/Poco.md)
+- [Vinyl: Crazy Eyes](../../Vinyl/Poco/Crazy_Eyes.md)
+- [Vinyl: ](../../Vinyl/Poco/Poco.md)

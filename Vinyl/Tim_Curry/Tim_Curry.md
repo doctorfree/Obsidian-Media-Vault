@@ -5,3 +5,8 @@
 ## Records
 
 - [Fearless](Fearless.md)
+
+## See also
+
+- [Fearless](Fearless.md)
+- [Beets: Fearless](../../Beets/Tim_Curry/Fearless.md)

@@ -40,3 +40,5 @@ By Rickie Lee Jones
 ## See also
 
 - [Rickie Lee Jones](Rickie_Lee_Jones.md)
+- [Beets: Rickie Lee Jones](../../Beets/Rickie_Lee_Jones/Rickie_Lee_Jones.md)
+- [Roon: Rickie Lee Jones](../../Roon/Rickie_Lee_Jones/Rickie_Lee_Jones.md)

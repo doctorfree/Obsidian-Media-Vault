@@ -33,3 +33,11 @@ By EELS
 11. Your Lucky Day in Hell
 12. Manchild
 
+
+## See also
+
+- [Blinking Lights and Other Revelations](Blinking_Lights_and_Other_Revelations.md)
+- [Earth to Dora](Earth_to_Dora.md)
+- [End Times](End_Times.md)
+- [Extreme Witchcraft](Extreme_Witchcraft.md)
+- [Hombre Lobo](Hombre_Lobo.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Cheap Thrills](Cheap_Thrills.md)
+
+## See also
+
+- [Cheap Thrills](Cheap_Thrills.md)

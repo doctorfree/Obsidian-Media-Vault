@@ -38,3 +38,8 @@ By Dua Lipa
 16. That Kind of Woman [Jacques Lu Cont Remix]
 17. Break My Heart [Moodymann Remix]
 
+
+## See also
+
+- [Dua Lipa (Deluxe)](Dua_Lipa_Deluxe.md)
+- [Future Nostalgia (The Moonlight Edition - Explicit) (The Moonlight Edition)](Future_Nostalgia_The_Moonlight_Edition_-_Explicit_The_Moonlight_Edition.md)

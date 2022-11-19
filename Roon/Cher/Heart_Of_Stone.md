@@ -33,3 +33,11 @@ By Cher
 11. Kiss to Kiss
 12. After All (With Peter Cetera, "Chances Are" Love Theme)
 
+
+## See also
+
+- [Burlesque Original Motion Picture Soundtrack](Burlesque_Original_Motion_Picture_Soundtrack.md)
+- [Dancing Queen](Dancing_Queen.md)
+- [Gypsys, Tramps & Thieves](Gypsys__Tramps_and_Thieves.md)
+- [Half-Breed](Half-Breed.md)
+- [Beets: Half‐Breed](../../Beets/Cher/Half‐Breed.md)

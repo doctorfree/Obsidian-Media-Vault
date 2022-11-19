@@ -30,3 +30,8 @@ By Manfred Mann’s Earth Band
 8. Spirits in the Night
 9. Blinded by the Light (single edit)
 
+
+## See also
+
+- [Beets: Nightingales & Bombers](../../Beets/Manfred_Mann’s_Earth_Band/Nightingales_and_Bombers.md)
+- [Beets: The Roaring Silence](../../Beets/Manfred_Mann’s_Earth_Band/The_Roaring_Silence.md)

@@ -37,3 +37,11 @@ By Spot 1019
 15. UFO's Are Real
 16. This World Owes Me a Buzz
 
+
+## See also
+
+- [This World Owes Me a Buzz](This_World_Owes_Me_a_Buzz.md)
+- [Beets: Still... Again](../../Beets/Spot_1019/Still_Again.md)
+- [Beets: This World Owes Me a Buzz](../../Beets/Spot_1019/This_World_Owes_Me_a_Buzz.md)
+- [Vinyl: ](../../Vinyl/Spot_1019/Spot_1019_index.md)
+- [Vinyl: Spot 1019](../../Vinyl/Spot_1019/Spot_1019.md)

@@ -31,3 +31,13 @@ By Vanilla Fudge
 9. The Look of Love
 10. Where Is My Mind
 
+
+## See also
+
+- [Rock & Roll](Rock_and_Roll.md)
+- [Vanilla Fudge](Vanilla_Fudge.md)
+- [Beets: Psychedelic Sundae](../../Beets/Vanilla_Fudge/Psychedelic_Sundae.md)
+- [CD: Psychedelic Sundae](../../CD/Vanilla_Fudge/Psychedelic_Sundae-_The_Best_Of_Vanilla_Fudge.md)
+- [CD: ](../../CD/Vanilla_Fudge/Vanilla_Fudge.md)
+- [Vinyl: ](../../Vinyl/Vanilla_Fudge/Vanilla_Fudge_index.md)
+- [Vinyl: Vanilla Fudge](../../Vinyl/Vanilla_Fudge/Vanilla_Fudge.md)

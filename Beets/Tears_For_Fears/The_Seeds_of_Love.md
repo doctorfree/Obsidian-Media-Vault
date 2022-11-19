@@ -123,3 +123,9 @@ By **Tears for Fears**
 - **Track:** 08
 - **Year:** 1989
 
+
+## See also
+
+- [Raoul and the Kings of Spain](Raoul_and_the_Kings_of_Spain.md)
+- [Songs from the Big Chair](Songs_from_the_Big_Chair.md)
+- [The Hurting](The_Hurting.md)

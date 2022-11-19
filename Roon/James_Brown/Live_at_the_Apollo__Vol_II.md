@@ -44,3 +44,10 @@ By James Brown
 8. It's A Man's Man's Man's World (Live At The Apollo/2001)
 9. Caravan
 
+
+## See also
+
+- [The CD Of J.B](The_CD_Of_JB-_Sex_Machine_and_Other_Soul_Classics.md)
+- [Beets: Live At The Apollo, Voume II (Deluxe Edition)](../../Beets/James_Brown/Live_At_The_Apollo__Voume_II_Deluxe_Edition.md)
+- [Beets: The CD of JB](../../Beets/James_Brown/The_CD_of_JB.md)
+- [Beets: The Payback](../../Beets/James_Brown/The_Payback.md)

@@ -40,3 +40,19 @@ By Gruppo Sportivo
 18. Sleeping Bag
 19. I Don't Love You
 
+
+## See also
+
+- [10 Mistakes](10_Mistakes.md)
+- [Copy Copy](Copy_Copy.md)
+- [Design Moderne](Design_Moderne.md)
+- [Pop! Goes The Brain](Pop!_Goes_The_Brain.md)
+- [Beets: Back To '78](../../Beets/Gruppo_Sportivo/Back_To_78.md)
+- [Beets: Design Moderne](../../Beets/Gruppo_Sportivo/Design_Moderne.md)
+- [Beets: Disco Really Made It 45](../../Beets/Gruppo_Sportivo/Disco_Really_Made_It_45.md)
+- [Beets: Mistakes](../../Beets/Gruppo_Sportivo/Mistakes.md)
+- [Vinyl: Back To 78](../../Vinyl/Gruppo_Sportivo/Back_To_78.md)
+- [Vinyl: Design Moderne](../../Vinyl/Gruppo_Sportivo/Design_Moderne.md)
+- [Vinyl: Disco Really Made It](../../Vinyl/Gruppo_Sportivo/Disco_Really_Made_It.md)
+- [Vinyl: ](../../Vinyl/Gruppo_Sportivo/Gruppo_Sportivo.md)
+- [Vinyl: Mistakes](../../Vinyl/Gruppo_Sportivo/Mistakes.md)

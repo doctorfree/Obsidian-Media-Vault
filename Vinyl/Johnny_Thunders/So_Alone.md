@@ -40,3 +40,7 @@ By Johnny Thunders
 
 Limited edition numbered copy 0753 of 1500
 
+
+## See also
+
+- [](Johnny_Thunders.md)

@@ -30,3 +30,13 @@ By Mandrill
 8. She Ain't Lookin' Too Tough
 9. Aspiration Flame
 
+
+## See also
+
+- [Composite Truth](Composite_Truth.md)
+- [Mandrill Is](Mandrill_Is.md)
+- [Mandrill](Mandrill.md)
+- [Beets: Mandrill Is](../../Beets/Mandrill/Mandrill_Is.md)
+- [Beets: Mandrill](../../Beets/Mandrill/Mandrill.md)
+- [Vinyl: Mandrill Is](../../Vinyl/Mandrill/Mandrill_Is.md)
+- [Vinyl: ](../../Vinyl/Mandrill/Mandrill.md)

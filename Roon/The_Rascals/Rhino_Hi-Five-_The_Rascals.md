@@ -26,3 +26,7 @@ By The Rascals
 4. Temptaion's 'Bout to Get Me
 5. What Is the Reason
 
+
+## See also
+
+- [Time Peace](Time_Peace-_The_Rascals_Greatest_Hits.md)

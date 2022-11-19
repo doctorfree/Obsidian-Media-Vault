@@ -27,3 +27,8 @@ By Pearl Charles
 5. What Can I Do
 6. Idea to Her
 
+
+## See also
+
+- [Magic Mirror](Magic_Mirror.md)
+- [Sleepless Dreamer](Sleepless_Dreamer.md)

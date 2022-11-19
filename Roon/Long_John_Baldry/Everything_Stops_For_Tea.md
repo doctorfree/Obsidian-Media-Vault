@@ -32,3 +32,10 @@ By Long John Baldry
 10. Lord Remember Me
 11. Armit's Trousers
 
+
+## See also
+
+- [It Ain't Easy (Expanded)](It_Aint_Easy_Expanded.md)
+- [Rhino Hi-Five](Rhino_Hi-Five-_Long_John_Baldry.md)
+- [Beets: It Ain't Easy](../../Beets/Long_John_Baldry/It_Aint_Easy.md)
+- [Beets: Welcome To Club Casablanca](../../Beets/Long_John_Baldry/Welcome_To_Club_Casablanca.md)

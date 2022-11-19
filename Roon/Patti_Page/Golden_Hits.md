@@ -33,3 +33,9 @@ By Patti Page
 11. With My Eyes Wide Open I'm Dreaming
 12. I Went to Your Wedding
 
+
+## See also
+
+- [Beets: 1950](../../Beets/Patti_Page/1950.md)
+- [Beets: Golden Hits](../../Beets/Patti_Page/Golden_Hits.md)
+- [Beets: Unknown Album](../../Beets/Patti_Page/Unknown_Album.md)

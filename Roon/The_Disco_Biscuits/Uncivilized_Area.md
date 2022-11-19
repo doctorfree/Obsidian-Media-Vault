@@ -29,3 +29,11 @@ By The Disco Biscuits
 7. I-Man
 8. Awol's Blues
 
+
+## See also
+
+- [On Time EP](On_Time_EP.md)
+- [Planet Anthem](Planet_Anthem.md)
+- [Rapture (Party Pupils Remix)](Rapture_Party_Pupils_Remix.md)
+- [Senor Boombox](Senor_Boombox.md)
+- [Widgets EP](Widgets_EP.md)

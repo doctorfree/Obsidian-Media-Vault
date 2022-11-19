@@ -32,3 +32,11 @@ By Drixxxe
 10. Get On
 11. Climax
 
+
+## See also
+
+- [Sextape 2](Sextape_2.md)
+- [Sextape 3](Sextape_3.md)
+- [Beets: Sextape 1](../../Beets/Drixxxe/Sextape_1.md)
+- [Beets: Sextape 2](../../Beets/Drixxxe/Sextape_2.md)
+- [Beets: Sextape 3](../../Beets/Drixxxe/Sextape_3.md)

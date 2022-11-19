@@ -33,3 +33,12 @@ By Blondie
 11. Atomic
 12. Rip Her to Shreds
 
+
+## See also
+
+- [Blondie (Remastered)](Blondie_Remastered.md)
+- [Eat To The Beat](Eat_To_The_Beat.md)
+- [Parallel Lines](Parallel_Lines.md)
+- [Beets: No Exit](../../Beets/Blondie/No_Exit.md)
+- [Vinyl: ](../../Vinyl/Blondie/Blondie.md)
+- [Vinyl: Rapture](../../Vinyl/Blondie/Rapture.md)

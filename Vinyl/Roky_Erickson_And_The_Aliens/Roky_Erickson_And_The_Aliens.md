@@ -5,3 +5,7 @@
 ## Records
 
 - [Mine Mine Mind / Bloody Hammer](Mine_Mine_Mind_-_Bloody_Hammer.md)
+
+## See also
+
+- [Mine Mine Mind / Bloody Hammer](Mine_Mine_Mind_-_Bloody_Hammer.md)

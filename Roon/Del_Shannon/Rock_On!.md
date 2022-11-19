@@ -31,3 +31,11 @@ By Del Shannon
 9. When I Had You
 10. Let's Dance
 
+
+## See also
+
+- [Greatest Hits](Greatest_Hits.md)
+- [Little Town Flirt](Little_Town_Flirt.md)
+- [Runaway with Del Shannon](Runaway_with_Del_Shannon.md)
+- [The Further Adventures Of Charles Westover (Deluxe Edition)](The_Further_Adventures_Of_Charles_Westover_Deluxe_Edition.md)
+- [Beets: Greatest Hits [Rhino]](../../Beets/Del_Shannon/Greatest_Hits_[Rhino].md)

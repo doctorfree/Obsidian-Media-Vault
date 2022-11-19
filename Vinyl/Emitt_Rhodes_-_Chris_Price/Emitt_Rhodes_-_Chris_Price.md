@@ -5,3 +5,7 @@
 ## Records
 
 - [How Can You Mend A Broken Heart / Please Read Me](How_Can_You_Mend_A_Broken_Heart_-_Please_Read_Me.md)
+
+## See also
+
+- [How Can You Mend A Broken Heart / Please Read Me](How_Can_You_Mend_A_Broken_Heart_-_Please_Read_Me.md)

@@ -36,3 +36,11 @@ By Nancy Sinatra
 14. Lightning's Girl
 15. Feelin' Kinda Sunday
 
+
+## See also
+
+- [Boots](Boots.md)
+- [Movin' With Nancy](Movin_With_Nancy.md)
+- [Nancy & Lee](Nancy_and_Lee.md)
+- [Start Walkin' 1965-1976](Start_Walkin_1965-1976.md)
+- [Sugar](Sugar.md)

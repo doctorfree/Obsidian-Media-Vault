@@ -233,3 +233,10 @@ By **John Fogerty**
 - **Track:** 18
 - **Year:** 1998
 
+
+## See also
+
+- [Premonition](Premonition.md)
+- [Roon: Blue Moon Swamp](../../Roon/John_Fogerty/Blue_Moon_Swamp.md)
+- [Vinyl: Blue Moon Swamp](../../Vinyl/John_Fogerty/Blue_Moon_Swamp.md)
+- [Vinyl: ](../../Vinyl/John_Fogerty/John_Fogerty.md)

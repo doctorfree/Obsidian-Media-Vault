@@ -32,3 +32,9 @@ By Judee Sill
 10. Enchanted Sky Machines
 11. Abracadabra
 
+
+## See also
+
+- [Heart Food](Heart_Food.md)
+- [Beets: Abracadabra](../../Beets/Judee_Sill/Abracadabra_2.md)
+- [Beets: Abracadabra](../../Beets/Judee_Sill/Abracadabra.md)

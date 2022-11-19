@@ -25,3 +25,7 @@ By Fela Kuti
 3. Observation Is No Crime
 4. Mistake [Live At The Berlin Jazz Festival - 1978]
 
+
+## See also
+
+- [The '69 Los Angeles Sessions](The_69_Los_Angeles_Sessions.md)

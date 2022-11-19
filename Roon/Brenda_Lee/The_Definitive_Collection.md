@@ -49,3 +49,11 @@ By Brenda Lee
 27. Tell Me What It's Like [Single Version]
 28. Rockin' Around the Christmas Tree [Single Version]
 
+
+## See also
+
+- [Beets: Anthology (1956-1980) Disc 1](../../Beets/Brenda_Lee/Anthology_1956-1980_Disc_1.md)
+- [Beets: Unknown Album](../../Beets/Brenda_Lee/Unknown_Album.md)
+- [Vinyl: ](../../Vinyl/Brenda_Lee/Brenda_Lee_index.md)
+- [Vinyl: Brenda Lee](../../Vinyl/Brenda_Lee/Brenda_Lee.md)
+- [Vinyl: I'm Sorry](../../Vinyl/Brenda_Lee/Im_Sorry.md)

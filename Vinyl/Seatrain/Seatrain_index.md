@@ -5,3 +5,8 @@
 ## Vinyl
 
 - [Seatrain](Seatrain.md)
+
+## See also
+
+- [Seatrain](Seatrain.md)
+- [Beets: Seatrain](../../Beets/Seatrain/Seatrain.md)

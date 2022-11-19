@@ -37,3 +37,11 @@ By The Yardbirds
 15. For Your Love
 16. Got to Hurry
 
+
+## See also
+
+- [Having a Rave Up with The Yardbirds (2015 Remaster)](Having_a_Rave_Up_with_The_Yardbirds_2015_Remaster.md)
+- [Roger the Engineer (Expanded Edition)](Roger_the_Engineer_Expanded_Edition.md)
+- [Beets: Greatest Hits, Volume One (1964–1966)](../../Beets/The_Yardbirds/Greatest_Hits__Volume_One_1964–1966.md)
+- [CD: "Greatest Hits, Volume One (1964-1966)"](../../CD/The_Yardbirds/Greatest_Hits__Volume_One_1964-1966.md)
+- [CD: ](../../CD/The_Yardbirds/The_Yardbirds.md)

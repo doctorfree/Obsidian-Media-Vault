@@ -123,3 +123,8 @@ By **It's A Beautiful Day**
 - **Track:** 05
 - **Year:** 0000
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Its_A_Beautiful_Day/Its_A_Beautiful_Day_index.md)
+- [Vinyl: It's A Beautiful Day](../../Vinyl/Its_A_Beautiful_Day/Its_A_Beautiful_Day.md)

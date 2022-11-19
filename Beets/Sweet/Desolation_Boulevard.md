@@ -145,3 +145,8 @@ By **Sweet**
 - **Track:** 10
 - **Year:** 1988
 
+
+## See also
+
+- [CD: Desolation Boulevard](../../CD/Sweet/Desolation_Boulevard.md)
+- [CD: ](../../CD/Sweet/Sweet.md)

@@ -40,3 +40,5 @@ By Nina Simone
 ## See also
 
 - [Nina Simone At Town Hall](Nina_Simone_At_Town_Hall.md)
+- [Beets: It Is Finished](../../Beets/Nina_Simone/It_Is_Finished.md)
+- [Beets: The Best of Nina Simone](../../Beets/Nina_Simone/The_Best_of_Nina_Simone.md)

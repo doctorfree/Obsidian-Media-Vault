@@ -46,3 +46,10 @@ By World Entertainment War
 9. 09-Purity Test Part 2
 10. 10-Triple Witching Hour
 
+
+## See also
+
+- [Beets: Televisionary](../../Beets/World_Entertainment_War/Televisionary.md)
+- [Beets: World Entertainment War](../../Beets/World_Entertainment_War/World_Entertainment_War.md)
+- [Vinyl: Televisionary](../../Vinyl/World_Entertainment_War/Televisionary.md)
+- [Vinyl: ](../../Vinyl/World_Entertainment_War/World_Entertainment_War.md)

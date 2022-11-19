@@ -28,3 +28,7 @@ By Awkwafina
 6. Testify
 7. The Fish (outro)
 
+
+## See also
+
+- [Yellow Ranger](Yellow_Ranger.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Emotions Inside](Emotions_Inside.md)
+
+## See also
+
+- [Emotions Inside](Emotions_Inside.md)

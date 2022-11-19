@@ -35,3 +35,17 @@ By The Lovin’ Spoonful
 13. March
 14. The Finale
 
+
+## See also
+
+- [Daydream](Daydream.md)
+- [Do you Believe In Magic](Do_you_Believe_In_Magic.md)
+- [Everything Playing](Everything_Playing.md)
+- [Hums Of The Lovin' Spoonful](Hums_Of_The_Lovin_Spoonful.md)
+- [Platinum & Gold Collection](Platinum_and_Gold_Collection.md)
+- [Beets: Do you Believe In Magic](../../Beets/The_Lovin’_Spoonful/Do_you_Believe_In_Magic.md)
+- [Beets: Everything Playing](../../Beets/The_Lovin’_Spoonful/Everything_Playing.md)
+- [Beets: Greatest Hits](../../Beets/The_Lovin’_Spoonful/Greatest_Hits.md)
+- [Beets: Hums of the Lovin’ Spoonful](../../Beets/The_Lovin’_Spoonful/Hums_of_the_Lovin’_Spoonful.md)
+- [Beets: Playlist](../../Beets/The_Lovin’_Spoonful/Playlist.md)
+- [Beets: Revelation](../../Beets/The_Lovin’_Spoonful/Revelation.md)

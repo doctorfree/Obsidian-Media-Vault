@@ -49,3 +49,8 @@ By John Mayall & the Bluesbreakers
 27. Sitting in the Rain [BBC Saturday Club Session]
 28. Leaping Christine [BBC Saturday Club Session]
 
+
+## See also
+
+- [Bluesbreakers](Bluesbreakers.md)
+- [Blues From Laurel Canyon](Blues_From_Laurel_Canyon.md)

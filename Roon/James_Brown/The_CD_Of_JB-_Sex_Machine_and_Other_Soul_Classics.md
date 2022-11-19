@@ -62,3 +62,10 @@ By James Brown
 17. The Payback
 18. Please, Please, Please
 
+
+## See also
+
+- [Live at the Apollo, Vol. II](Live_at_the_Apollo__Vol_II.md)
+- [Beets: Live At The Apollo, Voume II (Deluxe Edition)](../../Beets/James_Brown/Live_At_The_Apollo__Voume_II_Deluxe_Edition.md)
+- [Beets: The CD of JB](../../Beets/James_Brown/The_CD_of_JB.md)
+- [Beets: The Payback](../../Beets/James_Brown/The_Payback.md)

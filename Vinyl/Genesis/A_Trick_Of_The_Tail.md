@@ -42,3 +42,4 @@ By Genesis
 - [Genesis](Genesis.md)
 - [Selling England By The Pound](Selling_England_By_The_Pound.md)
 - [Trespass](Trespass.md)
+- [Beets: Seconds Out](../../Beets/Genesis/Seconds_Out.md)

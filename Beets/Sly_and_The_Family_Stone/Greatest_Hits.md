@@ -123,3 +123,11 @@ By **Sly & the Family Stone**
 - **Track:** 08
 - **Year:** 1969
 
+
+## See also
+
+- [1969](1969.md)
+- [1971](1971.md)
+- [Stand!](Stand!.md)
+- [Vinyl: ](../../Vinyl/Sly_and_The_Family_Stone/Sly_and_The_Family_Stone.md)
+- [Vinyl: Thank You (Falettinme Be Mice Elf Agin) / Everybody Is A Star](../../Vinyl/Sly_and_The_Family_Stone/Thank_You_Falettinme_Be_Mice_Elf_Agin_-_Everybody_Is_A_Star.md)

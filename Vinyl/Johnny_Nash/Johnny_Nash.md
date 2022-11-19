@@ -5,3 +5,7 @@
 ## Records
 
 - [Hold Me Tight / Cupid](Hold_Me_Tight_-_Cupid.md)
+
+## See also
+
+- [Hold Me Tight / Cupid](Hold_Me_Tight_-_Cupid.md)

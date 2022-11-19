@@ -33,3 +33,9 @@ By Gwen Stefani
 11. Danger Zone
 12. Long Way to Go
 
+
+## See also
+
+- [The Sweet Escape](The_Sweet_Escape.md)
+- [Beets: Love. Angel. Music. Baby.](../../Beets/Gwen_Stefani/Love_Angel_Music_Baby.md)
+- [Beets: The Sweet Escape](../../Beets/Gwen_Stefani/The_Sweet_Escape.md)

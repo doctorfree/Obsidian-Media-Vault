@@ -35,3 +35,12 @@ By Man Man
 13. Trunk Eyes
 14. Hourglass
 
+
+## See also
+
+- [Rabbit Habits](Rabbit_Habits.md)
+- [Beets: Life Fantastic](../../Beets/Man_Man/Life_Fantastic.md)
+- [Beets: Man Man](../../Beets/Man_Man/Man_Man.md)
+- [Beets: On Oni Pond](../../Beets/Man_Man/On_Oni_Pond.md)
+- [Beets: Rabbit Habits](../../Beets/Man_Man/Rabbit_Habits.md)
+- [Beets: Six Demon Bag](../../Beets/Man_Man/Six_Demon_Bag.md)

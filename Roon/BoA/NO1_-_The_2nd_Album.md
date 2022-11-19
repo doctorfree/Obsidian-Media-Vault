@@ -36,3 +36,12 @@ By BoA
 14. Azalea
 15. Listen to My Heart (Bonus Track)
 
+
+## See also
+
+- [Atlantis Princess - The 3rd Album](Atlantis_Princess_-_The_3rd_Album.md)
+- [BoA](BoA.md)
+- [Girls On Top](Girls_On_Top.md)
+- [Hurricane Venus](Hurricane_Venus.md)
+- [My Name - The 4th Album](My_Name_-_The_4th_Album.md)
+- [Only One](Only_One.md)

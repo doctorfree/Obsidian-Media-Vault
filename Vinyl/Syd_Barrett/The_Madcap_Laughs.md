@@ -40,3 +40,8 @@ By Syd Barrett
 
 Couple of small stickers on front cover
 
+
+## See also
+
+- [](Syd_Barrett.md)
+- [Beets: The Madcap Laughs](../../Beets/Syd_Barrett/The_Madcap_Laughs.md)

@@ -33,3 +33,9 @@ By Girls
 11. Curls
 12. Darling
 
+
+## See also
+
+- [Broken Dreams Club](Broken_Dreams_Club.md)
+- [Father, Son, Holy Ghost](Father__Son__Holy_Ghost.md)
+- [Beets: Album](../../Beets/Girls/Album.md)

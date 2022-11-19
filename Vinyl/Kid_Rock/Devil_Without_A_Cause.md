@@ -36,3 +36,9 @@ By Kid Rock
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Kid_Rock.md)
+- [Beets: Devil Without a Cause](../../Beets/Kid_Rock/Devil_Without_a_Cause.md)
+- [Roon: Devil Without a Cause](../../Roon/Kid_Rock/Devil_Without_a_Cause.md)

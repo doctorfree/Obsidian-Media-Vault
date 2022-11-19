@@ -32,3 +32,10 @@ By Kaleidoscope
 10. New Blue Ooze
 11. Why Try
 
+
+## See also
+
+- [A Beacon From Mars (Expanded Edition)](A_Beacon_From_Mars_Expanded_Edition.md)
+- [Incredible Kaleidoscope (Expanded Edition)](Incredible_Kaleidoscope_Expanded_Edition.md)
+- [Side Trips (Expanded Edition)](Side_Trips_Expanded_Edition.md)
+- [Beets: Faintly Blowing [Bonus Tracks]](../../Beets/Kaleidoscope/Faintly_Blowing_[Bonus_Tracks].md)

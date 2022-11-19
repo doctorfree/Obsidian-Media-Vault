@@ -28,3 +28,9 @@ By The Chris Robinson Brotherhood
 6. Sorrows of a Blue Eyed Liar
 7. Wheel Don't Roll
 
+
+## See also
+
+- [Vinyl: Phosphorescent Harvest](../../Vinyl/The_Chris_Robinson_Brotherhood/Phosphorescent_Harvest.md)
+- [Vinyl: ](../../Vinyl/The_Chris_Robinson_Brotherhood/The_Chris_Robinson_Brotherhood.md)
+- [Vinyl: The Magic Door](../../Vinyl/The_Chris_Robinson_Brotherhood/The_Magic_Door.md)

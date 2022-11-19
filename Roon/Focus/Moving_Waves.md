@@ -27,3 +27,10 @@ By Focus
 5. Focus II
 6. Eruption: Orfeus/Answer/Orfeus/Answer/Pupilla/Tommy/Pupilla/Answer/The
 
+
+## See also
+
+- [Focus 3 (2020 Remastered Edition)](Focus_3_2020_Remastered_Edition.md)
+- [Hamburger Concerto (2020 Remastered Edition)](Hamburger_Concerto_2020_Remastered_Edition.md)
+- [Vinyl: ](../../Vinyl/Focus/Focus.md)
+- [Vinyl: Hocus Pocus](../../Vinyl/Focus/Hocus_Pocus.md)

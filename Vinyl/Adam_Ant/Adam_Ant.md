@@ -5,3 +5,7 @@
 ## Records
 
 - [Friend Or Foe](Friend_Or_Foe.md)
+
+## See also
+
+- [Friend Or Foe](Friend_Or_Foe.md)

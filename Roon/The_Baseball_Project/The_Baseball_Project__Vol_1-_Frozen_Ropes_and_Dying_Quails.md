@@ -34,3 +34,8 @@ By The Baseball Project
 12. The Yankee Flipper
 13. The Closer
 
+
+## See also
+
+- [Volume 2](Volume_2-_High_and_Inside.md)
+- [Beets: Volume 1](../../Beets/The_Baseball_Project/Volume_1.md)

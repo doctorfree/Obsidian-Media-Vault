@@ -26,3 +26,10 @@ By Golden Smog
 4. Backstreet Girl
 5. Cowboy Song
 
+
+## See also
+
+- [Down By The Old Mainstream](Down_By_The_Old_Mainstream.md)
+- [Weird Tales](Weird_Tales.md)
+- [Beets: Down by the Old Mainstream](../../Beets/Golden_Smog/Down_by_the_Old_Mainstream.md)
+- [Beets: Weird Tales](../../Beets/Golden_Smog/Weird_Tales.md)

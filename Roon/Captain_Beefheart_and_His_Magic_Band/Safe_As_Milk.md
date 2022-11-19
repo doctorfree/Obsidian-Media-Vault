@@ -40,3 +40,10 @@ By Captain Beefheart & His Magic Band
 18. Trust Us (Take 9)
 19. Korn Ring Finger
 
+
+## See also
+
+- [Clear Spot](Clear_Spot.md)
+- [Lick My Decals Off, Baby](Lick_My_Decals_Off__Baby.md)
+- [Shiny Beast (Bat Chain Puller)](Shiny_Beast_Bat_Chain_Puller.md)
+- [Beets: The Spotlight Kid / Clear Spot](../../Beets/Captain_Beefheart_and_His_Magic_Band/The_Spotlight_Kid_-_Clear_Spot.md)

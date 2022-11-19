@@ -32,3 +32,9 @@ By Beat Farmers
 10. Bigger Fool Than Me
 11. Big Ugly Wheels
 
+
+## See also
+
+- [Poor And Famous](Poor_And_Famous.md)
+- [Tales of the New West (Remastered)](Tales_of_the_New_West_Remastered.md)
+- [The Pursuit Of Happiness](The_Pursuit_Of_Happiness.md)

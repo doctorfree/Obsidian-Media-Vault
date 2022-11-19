@@ -34,3 +34,11 @@ By Diego's Umbrella
 12. Bulerias por Cucharas
 13. Edjka
 
+
+## See also
+
+- [Double Panther](Double_Panther.md)
+- [Kung Fu Palace](Kung_Fu_Palace.md)
+- [Proper Cowboy](Proper_Cowboy.md)
+- [The Christmas Album](The_Christmas_Album.md)
+- [Viva La Juerga](Viva_La_Juerga.md)

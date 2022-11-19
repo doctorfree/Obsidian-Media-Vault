@@ -36,3 +36,8 @@ By Daryl Hall & John Oates
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Daryl_Hall_and_John_Oates.md)
+- [Beets: The Very Best of Daryl Hall & John Oates](../../Beets/Daryl_Hall_and_John_Oates/The_Very_Best_of_Daryl_Hall_and_John_Oates.md)

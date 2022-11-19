@@ -38,3 +38,12 @@ By Redbone
 16. Danse Calinda
 17. Things Go Better...
 
+
+## See also
+
+- [Potlatch (Expanded Edition)](Potlatch_Expanded_Edition.md)
+- [The Essential Redbone](The_Essential_Redbone.md)
+- [Wovoka](Wovoka.md)
+- [Beets: Come And Get Your Redbone](../../Beets/Redbone/Come_And_Get_Your_Redbone.md)
+- [Vinyl: Come And Get Your Redbone / The Best Of Redbone](../../Vinyl/Redbone/Come_And_Get_Your_Redbone_-_The_Best_Of_Redbone.md)
+- [Vinyl: ](../../Vinyl/Redbone/Redbone.md)

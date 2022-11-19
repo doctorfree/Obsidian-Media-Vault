@@ -32,3 +32,13 @@ By R.E.M.
 10. King of Birds
 11. Oddfellows Local 151
 
+
+## See also
+
+- [Automatic For The People](Automatic_For_The_People.md)
+- [Green (25th Anniversary Deluxe Edition)](Green_25th_Anniversary_Deluxe_Edition.md)
+- [Monster](Monster.md)
+- [Murmur](Murmur.md)
+- [Out Of Time (25th Anniversary Edition)](Out_Of_Time_25th_Anniversary_Edition.md)
+- [CD: Monster](../../CD/REM/Monster.md)
+- [CD: ](../../CD/REM/REM.md)

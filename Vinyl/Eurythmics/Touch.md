@@ -36,3 +36,8 @@ By Eurythmics
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Eurythmics.md)
+- [Beets: Revenge](../../Beets/Eurythmics/Revenge.md)

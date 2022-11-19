@@ -30,3 +30,10 @@ By The Cars
 8. Moving in Stereo (2016 Remaster)
 9. All Mixed Up (2016 Remaster)
 
+
+## See also
+
+- [Beets: Moving in Stereo](../../Beets/The_Cars/Moving_in_Stereo.md)
+- [Vinyl: Just What I Needed](../../Vinyl/The_Cars/Just_What_I_Needed.md)
+- [Vinyl: My Best Friend's Girl](../../Vinyl/The_Cars/My_Best_Friends_Girl.md)
+- [Vinyl: ](../../Vinyl/The_Cars/The_Cars.md)

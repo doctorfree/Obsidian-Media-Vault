@@ -31,3 +31,7 @@ By Quasi Stellular Object
 9. Track 9
 66. Track 10
 
+
+## See also
+
+- [Beets: Hot Enough To Fry A Dogs Brain](../../Beets/Quasi_Stellular_Object/Hot_Enough_To_Fry_A_Dogs_Brain.md)

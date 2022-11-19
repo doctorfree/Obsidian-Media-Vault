@@ -32,3 +32,9 @@ By KT Tunstall
 10. Someday Soon
 11. Paper Aeroplane
 
+
+## See also
+
+- [Drastic Fantastic (Ultimate Edition)](Drastic_Fantastic_Ultimate_Edition.md)
+- [Eye To The Telescope](Eye_To_The_Telescope.md)
+- [Tiger Suit](Tiger_Suit.md)

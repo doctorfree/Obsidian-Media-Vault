@@ -34,3 +34,11 @@ By Fiona Apple
 12. Drumset
 13. On I Go
 
+
+## See also
+
+- [Extraordinary Machine](Extraordinary_Machine.md)
+- [Tidal](Tidal.md)
+- [Beets: Extraordinary Machine](../../Beets/Fiona_Apple/Extraordinary_Machine.md)
+- [Beets: Tidal](../../Beets/Fiona_Apple/Tidal.md)
+- [Beets: When The Pawn](../../Beets/Fiona_Apple/When_The_Pawn.md)

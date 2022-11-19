@@ -31,3 +31,9 @@ By Paul Kantner
 9. Fishman
 10. Sketches of China
 
+
+## See also
+
+- [Blows Against The Empire](Blows_Against_The_Empire.md)
+- [Sunfighter](Sunfighter.md)
+- [Venusian Love Songs](Venusian_Love_Songs.md)

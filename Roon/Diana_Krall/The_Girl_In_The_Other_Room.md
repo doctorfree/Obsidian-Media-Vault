@@ -33,3 +33,9 @@ By Diana Krall
 11. I'm Coming Through
 12. Departure Bay
 
+
+## See also
+
+- [Beets: The Girl in the Other Room](../../Beets/Diana_Krall/The_Girl_in_the_Other_Room.md)
+- [Vinyl: ](../../Vinyl/Diana_Krall/Diana_Krall.md)
+- [Vinyl: The Girl In The Other Room](../../Vinyl/Diana_Krall/The_Girl_In_The_Other_Room.md)

@@ -30,3 +30,10 @@ By James Gang
 8. Thanks
 9. Ashes The Rain And I
 
+
+## See also
+
+- [Thirds](Thirds.md)
+- [Beets: Rides Again](../../Beets/James_Gang/Rides_Again.md)
+- [Vinyl: ](../../Vinyl/James_Gang/James_Gang.md)
+- [Vinyl: Thirds](../../Vinyl/James_Gang/Thirds.md)

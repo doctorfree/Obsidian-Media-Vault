@@ -31,3 +31,10 @@ By Metric
 9. Dead Disco
 10. Love Is a Place
 
+
+## See also
+
+- [Art of Doubt](Art_of_Doubt.md)
+- [Grow Up And Blow Away](Grow_Up_And_Blow_Away.md)
+- [Live It Out](Live_It_Out.md)
+- [Synthetica](Synthetica.md)

@@ -32,3 +32,12 @@ By Crosby, Stills & Nash
 10. Might as Well Have a Good Time (2012 Remaster)
 11. Daylight Again (2012 Remaster)
 
+
+## See also
+
+- [Crosby, Stills & Nash](Crosby__Stills_and_Nash.md)
+- [Beets: Crosby, Stills & Nash (Disc 2)](../../Beets/Crosby__Stills_and_Nash/Crosby__Stills_and_Nash_Disc_2.md)
+- [Beets: Crosby, Stills & Nash](../../Beets/Crosby__Stills_and_Nash/Crosby__Stills_and_Nash.md)
+- [Beets: CSN](../../Beets/Crosby__Stills_and_Nash/CSN.md)
+- [Vinyl: ](../../Vinyl/Crosby__Stills_and_Nash/Crosby__Stills_and_Nash_index.md)
+- [Vinyl: "Crosby, Stills & Nash"](../../Vinyl/Crosby__Stills_and_Nash/Crosby__Stills_and_Nash.md)

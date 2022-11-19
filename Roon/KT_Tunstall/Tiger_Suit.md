@@ -33,3 +33,9 @@ By KT Tunstall
 11. The Entertainer
 12. New York, I Love You But You're Bringing Me Down
 
+
+## See also
+
+- [Drastic Fantastic](Drastic_Fantastic.md)
+- [Drastic Fantastic (Ultimate Edition)](Drastic_Fantastic_Ultimate_Edition.md)
+- [Eye To The Telescope](Eye_To_The_Telescope.md)

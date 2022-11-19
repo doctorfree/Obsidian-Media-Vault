@@ -33,3 +33,10 @@ By Bobby Vinton
 11. Trouble Is My Middle Name
 12. Tell Me Why
 
+
+## See also
+
+- [Beets: 16 Most Requested Songs](../../Beets/Bobby_Vinton/16_Most_Requested_Songs.md)
+- [Beets: 1964](../../Beets/Bobby_Vinton/1964.md)
+- [Vinyl: ](../../Vinyl/Bobby_Vinton/Bobby_Vinton.md)
+- [Vinyl: Mr. Lonely / It's Better To Have Loved](../../Vinyl/Bobby_Vinton/Mr_Lonely_-_Its_Better_To_Have_Loved.md)

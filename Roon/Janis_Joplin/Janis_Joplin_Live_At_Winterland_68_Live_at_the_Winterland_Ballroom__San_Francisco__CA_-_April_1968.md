@@ -35,3 +35,9 @@ By Janis Joplin
 13. Ball and Chain
 14. Down On Me (2)
 
+
+## See also
+
+- [Cheap Thrills](Cheap_Thrills.md)
+- [I Got Dem Ol' Kozmic Blues Again Mama!](I_Got_Dem_Ol_Kozmic_Blues_Again_Mama!.md)
+- [Pearl (Legacy Edition)](Pearl_Legacy_Edition.md)

@@ -32,3 +32,11 @@ By The Youngbloods
 10. Ain't That Lovin' You, Baby
 11. C.C. Rider
 
+
+## See also
+
+- [Earth Music](Earth_Music.md)
+- [Elephant Mountain](Elephant_Mountain.md)
+- [High On a Ridge Top](High_On_a_Ridge_Top.md)
+- [Beets: Elephant Mountain](../../Beets/The_Youngbloods/Elephant_Mountain.md)
+- [Beets: The Youngbloods / Earth Music](../../Beets/The_Youngbloods/The_Youngbloods_-_Earth_Music.md)

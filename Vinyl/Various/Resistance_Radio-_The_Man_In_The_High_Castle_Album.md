@@ -48,3 +48,4 @@ By Various
 - [Performance](Performance-_Original_Motion_Picture_Sound_Track.md)
 - [Popeye - Original Motion Picture Soundtrack Album](Popeye_-_Original_Motion_Picture_Soundtrack_Album.md)
 - [Really Rock 'em Right - Sun Records Curated By Record Store Day Volume 4](Really_Rock_em_Right_-_Sun_Records_Curated_By_Record_Store_Day_Volume_4.md)
+- [Beets: Coming Up Roses](../../Beets/Various/Coming_Up_Roses.md)

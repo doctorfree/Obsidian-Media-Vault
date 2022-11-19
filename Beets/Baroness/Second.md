@@ -68,3 +68,8 @@ By **Baroness**
 - **Track:** 03
 - **Year:** 2005
 
+
+## See also
+
+- [Blue Record](Blue_Record.md)
+- [Red Album](Red_Album.md)

@@ -52,3 +52,7 @@ By Ethel
 30. While My Guitar Gently Weeps
 31. Black Maria
 
+
+## See also
+
+- [Ethel (John King - Phil Kline - Todd Reynolds)](Ethel_John_King_-_Phil_Kline_-_Todd_Reynolds.md)

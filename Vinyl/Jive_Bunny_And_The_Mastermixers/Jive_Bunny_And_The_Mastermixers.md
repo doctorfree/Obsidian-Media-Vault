@@ -5,3 +5,7 @@
 ## Records
 
 - [Swing The Mood](Swing_The_Mood.md)
+
+## See also
+
+- [Swing The Mood](Swing_The_Mood.md)

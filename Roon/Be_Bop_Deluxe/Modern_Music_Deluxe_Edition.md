@@ -73,3 +73,10 @@ By Be Bop Deluxe
 51. Bill's Blues (live, the Riviera Theatre, Chicago, 21 March 1976)
 52. Blazing Apostles (live, the Riviera Theatre, Chicago, 21 March 1976)
 
+
+## See also
+
+- [Axe Victim (Deluxe Edition)](Axe_Victim_Deluxe_Edition.md)
+- [Drastic Plastic (Deluxe Edition)](Drastic_Plastic_Deluxe_Edition.md)
+- [Futurama (Remastered & Expanded)](Futurama_Remastered_and_Expanded.md)
+- [Sunburst Finish (Remastered & Expanded)](Sunburst_Finish_Remastered_and_Expanded.md)

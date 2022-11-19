@@ -46,3 +46,8 @@ By **Original Soundtrack**
 - **Track:** 09
 - **Year:** 2000
 
+
+## See also
+
+- [Cheetah Girls [EP]](Cheetah_Girls_[EP].md)
+- [Heavy Metal](Heavy_Metal.md)

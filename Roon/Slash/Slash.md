@@ -35,3 +35,10 @@ By Slash
 13. Saint Is a Sinner Too
 14. We're All Gonna Die
 
+
+## See also
+
+- [4 (feat. Myles Kennedy and The Conspirators)](4_feat_Myles_Kennedy_and_The_Conspirators.md)
+- [Beets: Slash](../../Beets/Slash/Slash.md)
+- [Vinyl: ](../../Vinyl/Slash/Slash_index.md)
+- [Vinyl: Slash](../../Vinyl/Slash/Slash.md)

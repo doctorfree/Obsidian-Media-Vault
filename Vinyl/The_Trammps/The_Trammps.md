@@ -5,3 +5,7 @@
 ## Records
 
 - [Disco Inferno](Disco_Inferno.md)
+
+## See also
+
+- [Disco Inferno](Disco_Inferno.md)

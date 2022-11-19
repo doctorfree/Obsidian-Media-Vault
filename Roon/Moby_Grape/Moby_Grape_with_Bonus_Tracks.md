@@ -39,3 +39,10 @@ By Moby Grape
 17. Bitter Wind
 18. Sweet Ride (Never Again)
 
+
+## See also
+
+- [Legendary Grape](Legendary_Grape.md)
+- [Moby Grape 69' (With Bonus Tracks)](Moby_Grape_69_With_Bonus_Tracks.md)
+- [Wow (CD W/Bonus Tracks)](Wow_CD_W-Bonus_Tracks.md)
+- [Beets: Legendary Grape](../../Beets/Moby_Grape/Legendary_Grape.md)

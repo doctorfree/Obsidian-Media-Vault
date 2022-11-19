@@ -34,3 +34,13 @@ By The Monks of Doom
 12. The Haunting of an Eastern Man's Mind
 13. Eldridge Street
 
+
+## See also
+
+- [Duat Duat](Duat_Duat.md)
+- [Forgery](Forgery.md)
+- [Meridian](Meridian.md)
+- [The Brontë Pin](The_Brontë_Pin.md)
+- [The Cosmodemonic Telegraph Company](The_Cosmodemonic_Telegraph_Company.md)
+- [The Insect God](The_Insect_God.md)
+- [What's Left for Kicks?](Whats_Left_for_Kicks.md)

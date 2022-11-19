@@ -31,3 +31,8 @@ By Van Halen
 9. Women in Love...
 10. Beautiful Girls
 
+
+## See also
+
+- [Van Halen (Remastered)](Van_Halen_Remastered.md)
+- [Beets: Van Halen](../../Beets/Van_Halen/Van_Halen.md)

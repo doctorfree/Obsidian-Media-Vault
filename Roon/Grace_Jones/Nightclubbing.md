@@ -30,3 +30,11 @@ By Grace Jones
 8. Demolition Man
 9. I've Done It Again
 
+
+## See also
+
+- [Fame](Fame.md)
+- [Warm Leatherette](Warm_Leatherette.md)
+- [Beets: Warm Leatherette](../../Beets/Grace_Jones/Warm_Leatherette.md)
+- [Vinyl: ](../../Vinyl/Grace_Jones/Grace_Jones.md)
+- [Vinyl: Nightclubbing](../../Vinyl/Grace_Jones/Nightclubbing.md)

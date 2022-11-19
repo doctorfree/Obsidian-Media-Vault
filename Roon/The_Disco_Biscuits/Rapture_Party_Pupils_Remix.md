@@ -22,3 +22,11 @@ By The Disco Biscuits
 
 1. Rapture
 
+
+## See also
+
+- [On Time EP](On_Time_EP.md)
+- [Planet Anthem](Planet_Anthem.md)
+- [Senor Boombox](Senor_Boombox.md)
+- [Uncivilized Area](Uncivilized_Area.md)
+- [Widgets EP](Widgets_EP.md)

@@ -36,3 +36,11 @@ By Velvet Revolver
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Velvet_Revolver.md)
+- [Beets: Contraband](../../Beets/Velvet_Revolver/Contraband.md)
+- [CD: Contraband](../../CD/Velvet_Revolver/Contraband.md)
+- [CD: ](../../CD/Velvet_Revolver/Velvet_Revolver.md)
+- [Roon: Contraband](../../Roon/Velvet_Revolver/Contraband.md)

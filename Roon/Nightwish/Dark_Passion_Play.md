@@ -34,3 +34,7 @@ By Nightwish
 12. 7 Days to the Wolves
 13. Meadows of Heaven
 
+
+## See also
+
+- [Beets: Dark Passion Play](../../Beets/Nightwish/Dark_Passion_Play.md)

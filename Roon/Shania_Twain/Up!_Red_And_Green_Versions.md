@@ -59,3 +59,13 @@ By Shania Twain
 2-18 In My Car (I'll Be the Driver)
 2-19 When You Kiss Me
 
+
+## See also
+
+- [Greatest Hits](Greatest_Hits.md)
+- [Beets: Greatest Hits](../../Beets/Shania_Twain/Greatest_Hits.md)
+- [Beets: Up!](../../Beets/Shania_Twain/Up!.md)
+- [CD: Ka-Ching! [cd1]](../../CD/Shania_Twain/Ka-Ching!_[cd1].md)
+- [CD: ](../../CD/Shania_Twain/Shania_Twain.md)
+- [CD: Up! (Disc 1)](../../CD/Shania_Twain/Up!_Disc_1.md)
+- [CD: Up!](../../CD/Shania_Twain/Up!.md)

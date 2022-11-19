@@ -33,3 +33,11 @@ By Sly & the Family Stone
 11. Sing a Simple Song
 12. Thank You (Falettinme Be Mice Elf Agin)
 
+
+## See also
+
+- [Ain't But The One Way](Aint_But_The_One_Way.md)
+- [Back On The Right Track](Back_On_The_Right_Track.md)
+- [Heard Ya Missed Me, Well I'm Back](Heard_Ya_Missed_Me__Well_Im_Back.md)
+- [There's a Riot Goin' On](Theres_a_Riot_Goin_On.md)
+- [Who In The Funk Do You Think You Are](Who_In_The_Funk_Do_You_Think_You_Are-_The_Warner_Bros_Recordings.md)

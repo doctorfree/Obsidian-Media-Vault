@@ -35,3 +35,8 @@ By John Mayall & the Bluesbreakers
 13. 2401
 14. Wish You Were Mine
 
+
+## See also
+
+- [A Hard Road (Deluxe Edition)](A_Hard_Road_Deluxe_Edition.md)
+- [Bluesbreakers](Bluesbreakers.md)

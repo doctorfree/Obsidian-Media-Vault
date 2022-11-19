@@ -33,3 +33,11 @@ By EELS
 11. Baby Let's Make It Real
 12. Waking Up
 
+
+## See also
+
+- [Beautiful Freak](Beautiful_Freak.md)
+- [Blinking Lights and Other Revelations](Blinking_Lights_and_Other_Revelations.md)
+- [End Times](End_Times.md)
+- [Extreme Witchcraft](Extreme_Witchcraft.md)
+- [Hombre Lobo](Hombre_Lobo.md)

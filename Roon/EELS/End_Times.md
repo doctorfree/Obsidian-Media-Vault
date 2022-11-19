@@ -40,3 +40,11 @@ By EELS
 18. $200 Tattoo
 19. The Man Who Didn't Know He'd Lost His Mind
 
+
+## See also
+
+- [Beautiful Freak](Beautiful_Freak.md)
+- [Blinking Lights and Other Revelations](Blinking_Lights_and_Other_Revelations.md)
+- [Earth to Dora](Earth_to_Dora.md)
+- [Extreme Witchcraft](Extreme_Witchcraft.md)
+- [Hombre Lobo](Hombre_Lobo.md)

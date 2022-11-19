@@ -48,3 +48,10 @@ By Be Bop Deluxe
 26. Crying To The Sky [First Version, Bonus Track]
 27. Ships In The Night [Alternate Vocal Version, Bonus Track]
 
+
+## See also
+
+- [Axe Victim (Deluxe Edition)](Axe_Victim_Deluxe_Edition.md)
+- [Drastic Plastic (Deluxe Edition)](Drastic_Plastic_Deluxe_Edition.md)
+- [Futurama (Remastered & Expanded)](Futurama_Remastered_and_Expanded.md)
+- [Modern Music (Deluxe Edition)](Modern_Music_Deluxe_Edition.md)

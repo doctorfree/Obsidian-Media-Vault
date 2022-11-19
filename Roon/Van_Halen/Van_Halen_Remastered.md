@@ -32,3 +32,8 @@ By Van Halen
 10. Ice Cream Man
 11. On Fire
 
+
+## See also
+
+- [Van Halen II (Remastered)](Van_Halen_II_Remastered.md)
+- [Beets: Van Halen](../../Beets/Van_Halen/Van_Halen.md)

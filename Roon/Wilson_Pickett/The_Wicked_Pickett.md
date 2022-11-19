@@ -33,3 +33,14 @@ By Wilson Pickett
 11. Three Time Loser
 12. Nothing You Can Do
 
+
+## See also
+
+- [In the Midnight Hour](In_the_Midnight_Hour.md)
+- [It's Too Late](Its_Too_Late.md)
+- [The Exciting Wilson Pickett (Edition Studio Masters)](The_Exciting_Wilson_Pickett_Edition_Studio_Masters.md)
+- [The Sound of Wilson Pickett](The_Sound_of_Wilson_Pickett.md)
+- [Beets: The Best Of Wilson Pickett](../../Beets/Wilson_Pickett/The_Best_Of_Wilson_Pickett.md)
+- [Vinyl: "634-5789 (Soulsville, U.S.A.)"](../../Vinyl/Wilson_Pickett/634-5789_Soulsville__USA.md)
+- [Vinyl: The Best Of Wilson Pickett](../../Vinyl/Wilson_Pickett/The_Best_Of_Wilson_Pickett.md)
+- [Vinyl: ](../../Vinyl/Wilson_Pickett/Wilson_Pickett.md)

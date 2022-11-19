@@ -5,3 +5,7 @@
 ## Records
 
 - [Cold Love](Cold_Love.md)
+
+## See also
+
+- [Cold Love](Cold_Love.md)

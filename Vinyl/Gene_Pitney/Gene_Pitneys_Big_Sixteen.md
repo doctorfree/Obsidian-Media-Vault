@@ -36,3 +36,9 @@ By Gene Pitney
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Gene_Pitney.md)
+- [Beets: Gene Pitney Anthology 1961-1968](../../Beets/Gene_Pitney/Gene_Pitney_Anthology_1961-1968.md)
+- [Roon: The Rockville Rocket (Remastered)](../../Roon/Gene_Pitney/The_Rockville_Rocket_Remastered.md)

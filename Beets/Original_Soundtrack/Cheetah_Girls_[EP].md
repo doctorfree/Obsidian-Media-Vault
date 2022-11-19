@@ -46,3 +46,8 @@ By **Original Soundtrack**
 - **Track:** 01
 - **Year:** 1981
 
+
+## See also
+
+- [Heavy Metal](Heavy_Metal.md)
+- [Mission Impossible 2](Mission_Impossible_2.md)

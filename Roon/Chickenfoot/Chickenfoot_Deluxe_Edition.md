@@ -37,3 +37,8 @@ By Chickenfoot
 2-4 Last Temptation
 2-5 Somethings Going Wrong
 
+
+## See also
+
+- [Beets: Chickenfoot (Deluxe Edition)](../../Beets/Chickenfoot/Chickenfoot_Deluxe_Edition.md)
+- [Beets: Chickenfoot](../../Beets/Chickenfoot/Chickenfoot.md)

@@ -27,3 +27,9 @@ By Yundi Li
 5. Fantasy in C major, Op. 17: 2. Mäßig. Durchaus energisch - Etwas langsamer - Viel bewegter
 6. Fantasy in C major, op. 17: 3. Langsam getragen. Durchweg leise zu halten - Etwas bewegter
 
+
+## See also
+
+- [Chopin](Chopin-_Scherzi;_Impromtus.md)
+- [Liszt](Liszt-_Piano_Works.md)
+- [Beets: Chopin Recital](../../Beets/Yundi_Li/Chopin_Recital.md)

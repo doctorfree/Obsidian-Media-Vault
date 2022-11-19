@@ -101,3 +101,18 @@ By **Randy Newman**
 - **Track:** 06
 - **Year:** 1979
 
+
+## See also
+
+- [Born Again](Born_Again.md)
+- [Good Old Boys](Good_Old_Boys.md)
+- [Little Criminals](Little_Criminals.md)
+- [Randy Newman](Randy_Newman.md)
+- [Randy Newman's Faust](Randy_Newmans_Faust.md)
+- [Sail Away](Sail_Away.md)
+- [Roon: Born Again](../../Roon/Randy_Newman/Born_Again.md)
+- [Roon: Faust (Deluxe Edition)](../../Roon/Randy_Newman/Faust_Deluxe_Edition.md)
+- [Roon: Sail Away (Expanded & Remastered Edition)](../../Roon/Randy_Newman/Sail_Away_Expanded_and_Remastered_Edition.md)
+- [Roon: The Randy Newman Songbook, Vol. 1](../../Roon/Randy_Newman/The_Randy_Newman_Songbook__Vol_1.md)
+- [Vinyl: ](../../Vinyl/Randy_Newman/Randy_Newman.md)
+- [Vinyl: The Randy Newman Songbook](../../Vinyl/Randy_Newman/The_Randy_Newman_Songbook.md)

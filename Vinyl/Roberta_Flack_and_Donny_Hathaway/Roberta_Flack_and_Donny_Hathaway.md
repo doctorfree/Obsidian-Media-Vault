@@ -5,3 +5,7 @@
 ## Records
 
 - [Where Is The Love / You've Got A Friend](Where_Is_The_Love_-_Youve_Got_A_Friend.md)
+
+## See also
+
+- [Where Is The Love / You've Got A Friend](Where_Is_The_Love_-_Youve_Got_A_Friend.md)

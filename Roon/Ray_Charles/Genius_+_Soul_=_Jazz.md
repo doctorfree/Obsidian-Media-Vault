@@ -31,3 +31,11 @@ By Ray Charles
 9. Strike Up the Band
 10. Birth of the Blues
 
+
+## See also
+
+- [True Genius](True_Genius.md)
+- [Beets: Genius Loves Company](../../Beets/Ray_Charles/Genius_Loves_Company.md)
+- [Beets: Hit Collection](../../Beets/Ray_Charles/Hit_Collection.md)
+- [Beets: Modern Sounds in Country and Western Music [Bonus Tracks]](../../Beets/Ray_Charles/Modern_Sounds_in_Country_and_Western_Music_[Bonus_Tracks].md)
+- [Beets: Unknown Album](../../Beets/Ray_Charles/Unknown_Album.md)

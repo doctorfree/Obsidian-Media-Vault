@@ -5,3 +5,7 @@
 ## Records
 
 - [Sunfighter](Sunfighter.md)
+
+## See also
+
+- [Sunfighter](Sunfighter.md)

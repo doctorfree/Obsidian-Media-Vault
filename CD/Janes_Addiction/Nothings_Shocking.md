@@ -40,3 +40,5 @@ By Jane's Addiction
 ## See also
 
 - [Kettle Whistle](Kettle_Whistle.md)
+- [Vinyl: ](../../Vinyl/Janes_Addiction/Janes_Addiction.md)
+- [Vinyl: Sterling Spoon](../../Vinyl/Janes_Addiction/Sterling_Spoon.md)

@@ -33,3 +33,9 @@ By Edie Brickell & New Bohemians
 11. Keep Coming Back
 12. I Do
 
+
+## See also
+
+- [Hunter and the Dog Star](Hunter_and_the_Dog_Star.md)
+- [Beets: Ghost of a Dog](../../Beets/Edie_Brickell_and_New_Bohemians/Ghost_of_a_Dog.md)
+- [Beets: Shooting Rubberbands at the Stars](../../Beets/Edie_Brickell_and_New_Bohemians/Shooting_Rubberbands_at_the_Stars.md)

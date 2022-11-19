@@ -40,3 +40,5 @@ By Donnie & Joe Emerson
 ## See also
 
 - [Dreamin' Wild](Dreamin_Wild.md)
+- [Beets: Dreamin' Wild](../../Beets/Donnie_and_Joe_Emerson/Dreamin_Wild.md)
+- [Beets: Still Dreamin' Wild](../../Beets/Donnie_and_Joe_Emerson/Still_Dreamin_Wild.md)

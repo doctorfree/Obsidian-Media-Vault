@@ -38,3 +38,8 @@ By Gorillaz
 16. Clint Eastwood [Ed Case & Sweetie Irie Refix Edit]
 17. 19-2000 [Soulchild Remix]
 
+
+## See also
+
+- [Plastic Beach](Plastic_Beach.md)
+- [Beets: Plastic Beach](../../Beets/Gorillaz/Plastic_Beach.md)

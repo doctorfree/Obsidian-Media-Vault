@@ -16,3 +16,7 @@ By Private Jets
 - Catalog #: Roon
 - Format: Digital, Album
 
+
+## See also
+
+- [Beets: Legacy of Power Pop - Power Pop Planet Best Of](../../Beets/Private_Jets/Legacy_of_Power_Pop_-_Power_Pop_Planet_Best_Of.md)

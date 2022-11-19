@@ -41,3 +41,8 @@ By Luna
 19. Freakin' and Peakin' [Salvati Mix]
 20. Outdoor Miner
 
+
+## See also
+
+- [Bewitched](Bewitched.md)
+- [The Best Of Luna (Remastered Version)](The_Best_Of_Luna_Remastered_Version.md)

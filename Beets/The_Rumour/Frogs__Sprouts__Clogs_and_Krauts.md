@@ -145,3 +145,8 @@ By **The Rumour**
 - **Track:** 10
 - **Year:** 1978
 
+
+## See also
+
+- [Vinyl: Frogs Sprouts Clogs And Krauts](../../Vinyl/The_Rumour/Frogs_Sprouts_Clogs_And_Krauts.md)
+- [Vinyl: ](../../Vinyl/The_Rumour/The_Rumour.md)

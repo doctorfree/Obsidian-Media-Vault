@@ -33,3 +33,12 @@ By INXS
 11. Calling All Nations
 12. Tiny Daggers
 
+
+## See also
+
+- [Welcome to Wherever You Are (2014 Remaster)](Welcome_to_Wherever_You_Are_2014_Remaster.md)
+- [X (2014 Remaster)](X_2014_Remaster.md)
+- [CD: ](../../CD/INXS/INXS.md)
+- [CD: X - Gatefold Cover](../../CD/INXS/X_-_Gatefold_Cover.md)
+- [Vinyl: ](../../Vinyl/INXS/INXS.md)
+- [Vinyl: Listen Like Thieves](../../Vinyl/INXS/Listen_Like_Thieves.md)

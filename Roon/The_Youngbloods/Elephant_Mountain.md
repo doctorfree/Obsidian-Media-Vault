@@ -34,3 +34,11 @@ By The Youngbloods
 12. Sham
 13. Ride the Wind
 
+
+## See also
+
+- [Earth Music](Earth_Music.md)
+- [High On a Ridge Top](High_On_a_Ridge_Top.md)
+- [The Youngbloods](The_Youngbloods.md)
+- [Beets: Elephant Mountain](../../Beets/The_Youngbloods/Elephant_Mountain.md)
+- [Beets: The Youngbloods / Earth Music](../../Beets/The_Youngbloods/The_Youngbloods_-_Earth_Music.md)

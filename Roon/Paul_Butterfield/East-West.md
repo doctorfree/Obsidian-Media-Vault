@@ -30,3 +30,11 @@ By Paul Butterfield
 8. Never Say No
 9. East-West
 
+
+## See also
+
+- [In My Own Dream](In_My_Own_Dream.md)
+- [Keep On Moving](Keep_On_Moving.md)
+- [The Paul Butterfield Blues Band](The_Paul_Butterfield_Blues_Band.md)
+- [The Resurrection Of Pigboy Crabshaw](The_Resurrection_Of_Pigboy_Crabshaw.md)
+- [What's Shakin'](Whats_Shakin.md)

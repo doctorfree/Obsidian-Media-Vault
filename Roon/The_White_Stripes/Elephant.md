@@ -35,3 +35,17 @@ By The White Stripes
 13. Girl, You Have No Faith in Medicine
 14. Well It's True That We Love One Another
 
+
+## See also
+
+- [Greatest Hits](Greatest_Hits.md)
+- [Icky Thump](Icky_Thump.md)
+- [White Blood Cells](White_Blood_Cells.md)
+- [Beets: Elephant](../../Beets/The_White_Stripes/Elephant.md)
+- [Beets: Get Behind Me Satan](../../Beets/The_White_Stripes/Get_Behind_Me_Satan.md)
+- [Beets: Icky Thump](../../Beets/The_White_Stripes/Icky_Thump.md)
+- [Beets: Live Under the Lights of the Rising Sun](../../Beets/The_White_Stripes/Live_Under_the_Lights_of_the_Rising_Sun.md)
+- [Beets: The White Stripes](../../Beets/The_White_Stripes/The_White_Stripes.md)
+- [Vinyl: Get Behind Me Satan](../../Vinyl/The_White_Stripes/Get_Behind_Me_Satan.md)
+- [Vinyl: Live Under The Lights Of The Rising Sun](../../Vinyl/The_White_Stripes/Live_Under_The_Lights_Of_The_Rising_Sun.md)
+- [Vinyl: ](../../Vinyl/The_White_Stripes/The_White_Stripes.md)

@@ -50,3 +50,9 @@ By Janis Joplin
 2-12 Get It While You Can (1)
 2-13 Ball and Chain
 
+
+## See also
+
+- [Cheap Thrills](Cheap_Thrills.md)
+- [I Got Dem Ol' Kozmic Blues Again Mama!](I_Got_Dem_Ol_Kozmic_Blues_Again_Mama!.md)
+- [Janis Joplin Live At Winterland '68 (Live at the Winterland Ballroom, San Francisco, CA - April 1968)](Janis_Joplin_Live_At_Winterland_68_Live_at_the_Winterland_Ballroom__San_Francisco__CA_-_April_1968.md)

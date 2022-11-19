@@ -19,7 +19,7 @@ cd "${TOP}"
 LIST=
 [ "$1" == "-l" ] && LIST=1
 
-for artistdir in */*
+for artistdir in Beets/* CD/* Roon/* Vinyl/*
 do
   [ "${artistdir}" == "*/*" ] && continue
   [ -d "${artistdir}" ] || continue
@@ -83,5 +83,5 @@ do
       done
     done
   }
-  cd ../..
+  cd "${TOP}"
 done

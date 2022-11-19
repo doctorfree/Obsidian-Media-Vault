@@ -28,3 +28,7 @@ By Jack Casady
 6. Through The Grove
 7. Inspiration in the Hall of Arrivals (Bonus Track: June 27)
 
+
+## See also
+
+- [2017-11-24 at the Tabernacle, Mt Tabor, NJ (Live)](2017-11-24_at_the_Tabernacle__Mt_Tabor__NJ_Live.md)

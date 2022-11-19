@@ -23,3 +23,7 @@ By George Gershwin
 1. An American in Paris
 2. Rhapsody in Blue
 
+
+## See also
+
+- [Beets: An American In Paris Rhapsody In Blue](../../Beets/George_Gershwin/An_American_In_Paris_Rhapsody_In_Blue.md)

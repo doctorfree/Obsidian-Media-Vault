@@ -145,3 +145,8 @@ By **The Chambers Brothers**
 - **Track:** 10
 - **Year:** 2000
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/The_Chambers_Brothers/The_Chambers_Brothers.md)
+- [Vinyl: The Time Has Come](../../Vinyl/The_Chambers_Brothers/The_Time_Has_Come.md)

@@ -43,3 +43,7 @@ By Dire Straits
 - [ExtendeDancEPlay](ExtendeDancEPlay.md)
 - [Making Movies](Making_Movies.md)
 - [Money For Nothing](Money_For_Nothing.md)
+- [Beets: Brothers in Arms](../../Beets/Dire_Straits/Brothers_in_Arms.md)
+- [Roon: Brothers in Arms](../../Roon/Dire_Straits/Brothers_in_Arms.md)
+- [Roon: Dire Straits](../../Roon/Dire_Straits/Dire_Straits.md)
+- [Roon: Love Over Gold](../../Roon/Dire_Straits/Love_Over_Gold.md)

@@ -31,3 +31,9 @@ By Automat
 9. Turn The Music Up
 10. A Minor Miracle
 
+
+## See also
+
+- [Turn The Music Up (Bonus Disc)](Turn_The_Music_Up_Bonus_Disc.md)
+- [Beets: Turn The Music Up (Bonus Disc)](../../Beets/Automat/Turn_The_Music_Up_Bonus_Disc.md)
+- [Beets: Turn The Music Up](../../Beets/Automat/Turn_The_Music_Up.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Bright Size Life](Bright_Size_Life.md)
+
+## See also
+
+- [Bright Size Life](Bright_Size_Life.md)

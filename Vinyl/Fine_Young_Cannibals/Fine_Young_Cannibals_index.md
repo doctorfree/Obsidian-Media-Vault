@@ -5,3 +5,7 @@
 ## Vinyl
 
 - [Fine Young Cannibals](Fine_Young_Cannibals.md)
+
+## See also
+
+- [Fine Young Cannibals](Fine_Young_Cannibals.md)

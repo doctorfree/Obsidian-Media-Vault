@@ -33,3 +33,9 @@ By Parthenon Huxley
 11. Oh, Yeah Montage
 12. Buddha, Buddha (Noodle-Free)
 
+
+## See also
+
+- [Classic Rock Soup](Classic_Rock_Soup.md)
+- [Deluxe](Deluxe.md)
+- [Deluxe (P.Hux)](Deluxe_PHux.md)

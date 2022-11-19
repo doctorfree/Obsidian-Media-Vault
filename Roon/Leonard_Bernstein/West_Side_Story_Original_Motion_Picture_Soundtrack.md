@@ -42,3 +42,8 @@ By Leonard Bernstein
 20. West Side Story: Finale
 21. West Side Story: End Credits
 
+
+## See also
+
+- [An American in Paris / Rhapsody in Blue](An_American_in_Paris_-_Rhapsody_in_Blue.md)
+- [West Side Story (The Original Soundrack Recording, 1961)](West_Side_Story_The_Original_Soundrack_Recording__1961.md)

@@ -36,3 +36,7 @@ By Frankie Goes To Hollywood
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Frankie_Goes_To_Hollywood.md)

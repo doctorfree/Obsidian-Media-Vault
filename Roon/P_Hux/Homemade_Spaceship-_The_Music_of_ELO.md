@@ -33,3 +33,9 @@ By P. Hux
 11. Do Ya
 12. Don't Bring Me Down
 
+
+## See also
+
+- [Deluxe](Deluxe.md)
+- [Deluxe (P.Hux)](Deluxe_PHux.md)
+- [This Is the One](This_Is_the_One.md)

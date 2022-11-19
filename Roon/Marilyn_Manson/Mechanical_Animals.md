@@ -35,3 +35,9 @@ By Marilyn Manson
 13. The Last Day on Earth
 14. Coma White
 
+
+## See also
+
+- [Antichrist Superstar](Antichrist_Superstar.md)
+- [Lest We Forget - The Best Of](Lest_We_Forget_-_The_Best_Of.md)
+- [THE PALE EMPEROR (Deluxe Edition)](THE_PALE_EMPEROR_Deluxe_Edition.md)

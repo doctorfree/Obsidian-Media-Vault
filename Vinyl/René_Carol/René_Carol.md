@@ -5,3 +5,7 @@
 ## Records
 
 - [Kein Land Kann Schöner Sein](Kein_Land_Kann_Schöner_Sein.md)
+
+## See also
+
+- [Kein Land Kann Schöner Sein](Kein_Land_Kann_Schöner_Sein.md)

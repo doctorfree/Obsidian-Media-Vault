@@ -156,3 +156,14 @@ By **Paul Simon**
 - **Track:** 11
 - **Year:** 1986
 
+
+## See also
+
+- [Paul Simon](Paul_Simon.md)
+- [Still Crazy After All These Years](Still_Crazy_After_All_These_Years.md)
+- [There Goes Rhymin' Simon](There_Goes_Rhymin_Simon.md)
+- [Roon: Paul Simon](../../Roon/Paul_Simon/Paul_Simon.md)
+- [Roon: There Goes Rhymin' Simon](../../Roon/Paul_Simon/There_Goes_Rhymin_Simon.md)
+- [Vinyl: ](../../Vinyl/Paul_Simon/Paul_Simon_index.md)
+- [Vinyl: Paul Simon](../../Vinyl/Paul_Simon/Paul_Simon.md)
+- [Vinyl: There Goes Rhymin' Simon](../../Vinyl/Paul_Simon/There_Goes_Rhymin_Simon.md)

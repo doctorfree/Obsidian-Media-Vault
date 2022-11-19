@@ -34,3 +34,11 @@ By The Disco Biscuits
 12. Vacation
 13. Quad D
 
+
+## See also
+
+- [On Time EP](On_Time_EP.md)
+- [Rapture (Party Pupils Remix)](Rapture_Party_Pupils_Remix.md)
+- [Senor Boombox](Senor_Boombox.md)
+- [Uncivilized Area](Uncivilized_Area.md)
+- [Widgets EP](Widgets_EP.md)

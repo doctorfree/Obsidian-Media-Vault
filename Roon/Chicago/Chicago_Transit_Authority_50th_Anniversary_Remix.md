@@ -33,3 +33,13 @@ By Chicago
 11. Someday
 12. Liberation
 
+
+## See also
+
+- [Chicago II (Steven Wilson Remix)](Chicago_II_Steven_Wilson_Remix.md)
+- [Chicago VI (Expanded & Remastered)](Chicago_VI_Expanded_and_Remastered.md)
+- [Beets: Chicago II](../../Beets/Chicago/Chicago_II.md)
+- [Beets: Chicago Transit Authority](../../Beets/Chicago/Chicago_Transit_Authority.md)
+- [Beets: Chicago VI](../../Beets/Chicago/Chicago_VI.md)
+- [Vinyl: ](../../Vinyl/Chicago/Chicago.md)
+- [Vinyl: Chicago VI](../../Vinyl/Chicago/Chicago_VI.md)

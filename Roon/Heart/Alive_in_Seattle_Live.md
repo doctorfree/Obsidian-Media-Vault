@@ -40,3 +40,18 @@ By Heart
 2-8 Black Dog
 2-9 Dreamboat Annie (Reprise)
 
+
+## See also
+
+- [Beautiful Broken](Beautiful_Broken.md)
+- [Dog & Butterfly](Dog_and_Butterfly.md)
+- [Dreamboat Annie](Dreamboat_Annie.md)
+- [Little Queen](Little_Queen.md)
+- [Beets: Dog & Butterfly](../../Beets/Heart/Dog_and_Butterfly.md)
+- [Beets: Dreamboat Annie](../../Beets/Heart/Dreamboat_Annie.md)
+- [Beets: Secret Heart Illustrated](../../Beets/Heart/Secret_Heart_Illustrated.md)
+- [Vinyl: Dog & Butterfly](../../Vinyl/Heart/Dog_and_Butterfly.md)
+- [Vinyl: Dreamboat Annie](../../Vinyl/Heart/Dreamboat_Annie.md)
+- [Vinyl: ](../../Vinyl/Heart/Heart.md)
+- [Vinyl: Little Queen](../../Vinyl/Heart/Little_Queen.md)
+- [Vinyl: Magazine](../../Vinyl/Heart/Magazine.md)

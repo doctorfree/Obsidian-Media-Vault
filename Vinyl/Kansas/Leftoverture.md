@@ -40,3 +40,5 @@ By Kansas
 ## See also
 
 - [Carry On Wayward Son](Carry_On_Wayward_Son.md)
+- [Beets: Leftoverture](../../Beets/Kansas/Leftoverture.md)
+- [Roon: Leftoverture (Expanded Edition)](../../Roon/Kansas/Leftoverture_Expanded_Edition.md)

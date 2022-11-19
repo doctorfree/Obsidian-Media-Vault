@@ -40,3 +40,7 @@ By Stephen Sondheim
 18. West Side Story, film score: Finale
 19. West Side Story, film score: End Credits
 
+
+## See also
+
+- [West Side Story (Original Motion Picture Soundtrack)](West_Side_Story_Original_Motion_Picture_Soundtrack.md)

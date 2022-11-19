@@ -33,3 +33,11 @@ By EELS
 11. Learning While I Lose
 12. I Know You're Right
 
+
+## See also
+
+- [Beautiful Freak](Beautiful_Freak.md)
+- [Blinking Lights and Other Revelations](Blinking_Lights_and_Other_Revelations.md)
+- [Earth to Dora](Earth_to_Dora.md)
+- [End Times](End_Times.md)
+- [Hombre Lobo](Hombre_Lobo.md)

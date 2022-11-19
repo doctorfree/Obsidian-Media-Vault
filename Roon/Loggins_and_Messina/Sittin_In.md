@@ -30,3 +30,11 @@ By Loggins & Messina
 8. Same Old Wine
 9. Rock & Roll Mood
 
+
+## See also
+
+- [Beets: Full Sail](../../Beets/Loggins_and_Messina/Full_Sail.md)
+- [Beets: Loggins and Messina](../../Beets/Loggins_and_Messina/Loggins_and_Messina.md)
+- [Beets: Mother Lode](../../Beets/Loggins_and_Messina/Mother_Lode.md)
+- [Beets: Sittin' In](../../Beets/Loggins_and_Messina/Sittin_In.md)
+- [Beets: Sittin' In (Ripped Vinyl)](../../Beets/Loggins_and_Messina/Sittin_In_Ripped_Vinyl.md)

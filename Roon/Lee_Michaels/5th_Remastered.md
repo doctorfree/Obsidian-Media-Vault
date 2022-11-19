@@ -31,3 +31,11 @@ By Lee Michaels
 9. Oak Fire
 10. I Don't Want Her
 
+
+## See also
+
+- [Barrel (Remastered)](Barrel_Remastered.md)
+- [Lee Michaels (Remastered)](Lee_Michaels_Remastered.md)
+- [Beets: Hello](../../Beets/Lee_Michaels/Hello.md)
+- [Beets: Live](../../Beets/Lee_Michaels/Live.md)
+- [Beets: Recital](../../Beets/Lee_Michaels/Recital.md)

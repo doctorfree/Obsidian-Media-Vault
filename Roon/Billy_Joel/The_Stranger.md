@@ -30,3 +30,10 @@ By Billy Joel
 8. Get It Right the First Time
 9. Everybody Has a Dream / [The Stranger (reprise)]
 
+
+## See also
+
+- [52nd Street](52nd_Street.md)
+- [Piano Man](Piano_Man.md)
+- [Vinyl: ](../../Vinyl/Billy_Joel/Billy_Joel.md)
+- [Vinyl: The Stranger](../../Vinyl/Billy_Joel/The_Stranger.md)

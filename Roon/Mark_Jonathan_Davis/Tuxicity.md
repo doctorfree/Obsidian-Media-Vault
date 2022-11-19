@@ -39,3 +39,9 @@ By Mark Jonathan Davis
 17. Crazy
 18. Buddy Holly
 
+
+## See also
+
+- [Aperitif for Destruction](Aperitif_for_Destruction.md)
+- [Lounge Against the Machine](Lounge_Against_the_Machine.md)
+- [The Sunny Side of the Moon](The_Sunny_Side_of_the_Moon-_The_Best_of_Richard_Cheese.md)

@@ -49,3 +49,11 @@ By John Mayall
 27. Sitting in the Rain [BBC Saturday Club Session]
 28. Leaping Christine [BBC Saturday Club Session]
 
+
+## See also
+
+- [A Hard Road](A_Hard_Road.md)
+- [Back To The Roots](Back_To_The_Roots.md)
+- [Bluesbreakers](Bluesbreakers.md)
+- [Blues From Laurel Canyon](Blues_From_Laurel_Canyon.md)
+- [The Turning Point](The_Turning_Point.md)

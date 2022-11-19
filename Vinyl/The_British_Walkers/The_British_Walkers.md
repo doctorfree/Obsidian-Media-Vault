@@ -5,3 +5,7 @@
 ## Records
 
 - [Shake / That Was Yesterday](Shake_-_That_Was_Yesterday.md)
+
+## See also
+
+- [Shake / That Was Yesterday](Shake_-_That_Was_Yesterday.md)

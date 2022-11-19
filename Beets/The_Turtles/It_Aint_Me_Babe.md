@@ -189,3 +189,17 @@ By **The Turtles**
 - **Track:** 14
 - **Year:** 1967
 
+
+## See also
+
+- [Happy Together](Happy_Together.md)
+- [The Turtles Present the Battle of the Bands](The_Turtles_Present_the_Battle_of_the_Bands.md)
+- [Turtle Soup](Turtle_Soup.md)
+- [Roon: Happy Together (Deluxe Version) (Remastered)](../../Roon/The_Turtles/Happy_Together_Deluxe_Version_Remastered.md)
+- [Roon: It Ain't Me Babe (Deluxe Version) (Remastered)](../../Roon/The_Turtles/It_Aint_Me_Babe_Deluxe_Version_Remastered.md)
+- [Roon: The Battle of the Bands (Deluxe Version)](../../Roon/The_Turtles/The_Battle_of_the_Bands_Deluxe_Version.md)
+- [Roon: Turtle Soup (Deluxe Version) (Remastered)](../../Roon/The_Turtles/Turtle_Soup_Deluxe_Version_Remastered.md)
+- [Roon: You Baby (Deluxe Version) (Remastered)](../../Roon/The_Turtles/You_Baby_Deluxe_Version_Remastered.md)
+- [Vinyl: Happy Together](../../Vinyl/The_Turtles/Happy_Together.md)
+- [Vinyl: ](../../Vinyl/The_Turtles/The_Turtles.md)
+- [Vinyl: Turtle Soup](../../Vinyl/The_Turtles/Turtle_Soup.md)

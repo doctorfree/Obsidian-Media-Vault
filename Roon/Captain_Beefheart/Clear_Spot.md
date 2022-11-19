@@ -33,3 +33,11 @@ By Captain Beefheart
 11. Big-Eyed Beans From Venus
 12. Golden Birdies
 
+
+## See also
+
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Lick My Decals Off, Baby](Lick_My_Decals_Off__Baby.md)
+- [Safe As Milk](Safe_As_Milk.md)
+- [Shiny Beast (Bat Chain Puller)](Shiny_Beast_Bat_Chain_Puller.md)
+- [The Spotlight Kid](The_Spotlight_Kid.md)

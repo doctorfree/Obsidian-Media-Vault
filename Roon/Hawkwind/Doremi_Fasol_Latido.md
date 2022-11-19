@@ -32,3 +32,11 @@ By Hawkwind
 10. Lord of Light [Single Version Edit]
 11. Ejection (previously unreleased version)
 
+
+## See also
+
+- [Hall of the Mountain Grill](Hall_of_the_Mountain_Grill.md)
+- [Hawkwind (1996 Remaster)](Hawkwind_1996_Remaster.md)
+- [In Search of Space](In_Search_of_Space.md)
+- [Space Ritual](Space_Ritual.md)
+- [Warrior on the Edge of Time](Warrior_on_the_Edge_of_Time.md)

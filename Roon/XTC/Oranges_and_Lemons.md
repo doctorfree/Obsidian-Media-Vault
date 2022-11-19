@@ -36,3 +36,14 @@ By XTC
 14. Miniature Sun
 15. Chalkhills and Children
 
+
+## See also
+
+- [Skylarking](Skylarking.md)
+- [CD: Apple Venus Volume 1](../../CD/XTC/Apple_Venus_Volume_1.md)
+- [CD: ](../../CD/XTC/XTC.md)
+- [Vinyl: Making Plans For Nigel](../../Vinyl/XTC/Making_Plans_For_Nigel.md)
+- [Vinyl: The Loving](../../Vinyl/XTC/The_Loving.md)
+- [Vinyl: Wake Up](../../Vinyl/XTC/Wake_Up.md)
+- [Vinyl: Wonderland](../../Vinyl/XTC/Wonderland.md)
+- [Vinyl: ](../../Vinyl/XTC/XTC.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Angel Eyes](Angel_Eyes.md)
+
+## See also
+
+- [Angel Eyes](Angel_Eyes.md)

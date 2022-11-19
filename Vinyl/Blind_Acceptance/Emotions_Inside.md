@@ -36,3 +36,7 @@ By Blind Acceptance
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Blind_Acceptance.md)

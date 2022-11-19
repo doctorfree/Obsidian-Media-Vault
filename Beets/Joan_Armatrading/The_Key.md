@@ -145,3 +145,13 @@ By **Joan Armatrading**
 - **Track:** 10
 - **Year:** 1988
 
+
+## See also
+
+- [Sleight of Hand](Sleight_of_Hand.md)
+- [The Shouting Stage](The_Shouting_Stage.md)
+- [To The Limit](To_The_Limit.md)
+- [Vinyl: ](../../Vinyl/Joan_Armatrading/Joan_Armatrading_index.md)
+- [Vinyl: Joan Armatrading](../../Vinyl/Joan_Armatrading/Joan_Armatrading.md)
+- [Vinyl: Me Myself I](../../Vinyl/Joan_Armatrading/Me_Myself_I.md)
+- [Vinyl: Track Record](../../Vinyl/Joan_Armatrading/Track_Record.md)

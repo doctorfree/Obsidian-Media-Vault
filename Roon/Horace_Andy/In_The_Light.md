@@ -31,3 +31,9 @@ By Horace Andy
 9. Collie Herb
 10. Rome
 
+
+## See also
+
+- [Good Vibes](Good_Vibes.md)
+- [Horace's Prime](Horaces_Prime.md)
+- [Skylarking](Skylarking.md)

@@ -40,3 +40,6 @@ By Tears for Fears
 ## See also
 
 - [The Hurting (Expanded Edition) (1999)](The_Hurting_Expanded_Edition_1999.md)
+- [Roon: Songs From The Big Chair](../../Roon/Tears_for_Fears/Songs_From_The_Big_Chair.md)
+- [Roon: The Hurting (Super Deluxe Edition)](../../Roon/Tears_for_Fears/The_Hurting_Super_Deluxe_Edition.md)
+- [Roon: The Seeds of Love](../../Roon/Tears_for_Fears/The_Seeds_of_Love.md)

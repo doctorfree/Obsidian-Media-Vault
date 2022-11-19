@@ -145,3 +145,8 @@ By **f(x)**
 - **Track:** 10
 - **Year:** 2011
 
+
+## See also
+
+- [Pinocchio - The 1st Album](Pinocchio_-_The_1st_Album.md)
+- [Red Light](Red_Light.md)

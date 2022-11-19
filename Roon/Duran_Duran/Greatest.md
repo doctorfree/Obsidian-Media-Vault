@@ -40,3 +40,8 @@ By Duran Duran
 18. Skin Trade [Radio Cut]
 19. Come Undone [Edit]
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Duran_Duran/Duran_Duran.md)
+- [Vinyl: The Wild Boys](../../Vinyl/Duran_Duran/The_Wild_Boys.md)

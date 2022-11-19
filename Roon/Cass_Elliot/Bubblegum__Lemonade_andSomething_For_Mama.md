@@ -32,3 +32,10 @@ By Cass Elliot
 10. When I Just Wear My Smile
 11. Who's to Blame
 
+
+## See also
+
+- [Dave Mason & Cass Elliot](Dave_Mason_and_Cass_Elliot.md)
+- [Dream A Little Dream](Dream_A_Little_Dream.md)
+- [Vinyl: "Bubble Gum, Lemonade &... Something For Mama"](../../Vinyl/Cass_Elliot/Bubble_Gum__Lemonade_and_Something_For_Mama.md)
+- [Vinyl: ](../../Vinyl/Cass_Elliot/Cass_Elliot.md)

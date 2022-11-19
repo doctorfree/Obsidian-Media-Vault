@@ -35,3 +35,9 @@ By Meat Puppets
 13. Comin' Down
 14. Lake of Fire
 
+
+## See also
+
+- [Beets: Too High to Die](../../Beets/Meat_Puppets/Too_High_to_Die.md)
+- [CD: ](../../CD/Meat_Puppets/Meat_Puppets.md)
+- [CD: Too High To Die](../../CD/Meat_Puppets/Too_High_To_Die.md)

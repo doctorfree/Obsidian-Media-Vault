@@ -5,3 +5,7 @@
 ## Records
 
 - [People Are People](People_Are_People.md)
+
+## See also
+
+- [People Are People](People_Are_People.md)

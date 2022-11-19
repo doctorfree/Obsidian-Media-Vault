@@ -30,3 +30,10 @@ By Rodrigo y Gabriela
 8. Juan Loco
 9. PPA
 
+
+## See also
+
+- [11](11-11.md)
+- [9 Dead Alive](9_Dead_Alive.md)
+- [Area 52 (Area 52 Version)](Area_52_Area_52_Version.md)
+- [Mettavolution](Mettavolution.md)

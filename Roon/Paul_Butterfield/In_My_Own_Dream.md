@@ -28,3 +28,11 @@ By Paul Butterfield
 6. Drunk Again
 7. In My Own Dream
 
+
+## See also
+
+- [East-West](East-West.md)
+- [Keep On Moving](Keep_On_Moving.md)
+- [The Paul Butterfield Blues Band](The_Paul_Butterfield_Blues_Band.md)
+- [The Resurrection Of Pigboy Crabshaw](The_Resurrection_Of_Pigboy_Crabshaw.md)
+- [What's Shakin'](Whats_Shakin.md)

@@ -30,3 +30,8 @@ By Crazy Horse
 8. Walk Like a Giant
 9. Psychedelic Pill [Alternate Mix]
 
+
+## See also
+
+- [Rust Never Sleeps (2016 Remaster)](Rust_Never_Sleeps_2016_Remaster.md)
+- [Way Down In The Rust Bucket (Live)](Way_Down_In_The_Rust_Bucket_Live.md)

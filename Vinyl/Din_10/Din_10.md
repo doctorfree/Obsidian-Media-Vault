@@ -5,3 +5,7 @@
 ## Records
 
 - [Great Tradition](Great_Tradition.md)
+
+## See also
+
+- [Great Tradition](Great_Tradition.md)

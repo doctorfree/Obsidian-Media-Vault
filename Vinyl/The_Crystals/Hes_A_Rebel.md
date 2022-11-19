@@ -36,3 +36,8 @@ By The Crystals
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](The_Crystals.md)
+- [Beets: He's a Rebel](../../Beets/The_Crystals/Hes_a_Rebel.md)

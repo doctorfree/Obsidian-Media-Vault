@@ -34,3 +34,7 @@ By Din (10)
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Din_10.md)

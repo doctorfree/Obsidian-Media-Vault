@@ -37,3 +37,9 @@ By Halsey
 15. Nightmare (reprise)
 16. People disappear here
 
+
+## See also
+
+- [BADLANDS](BADLANDS.md)
+- [hopeless fountain kingdom](hopeless_fountain_kingdom.md)
+- [Manic](Manic.md)

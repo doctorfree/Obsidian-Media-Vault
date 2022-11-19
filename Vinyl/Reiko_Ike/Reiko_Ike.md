@@ -5,3 +5,7 @@
 ## Records
 
 - [You, Baby [恍惚の世界]](You__Baby_[恍惚の世界].md)
+
+## See also
+
+- ["You, Baby [恍惚の世界]"](You__Baby_[恍惚の世界].md)

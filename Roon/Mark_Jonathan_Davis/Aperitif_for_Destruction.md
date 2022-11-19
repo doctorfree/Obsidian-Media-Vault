@@ -36,3 +36,9 @@ By Mark Jonathan Davis
 14. Add It Up
 15. Somebody Told Me
 
+
+## See also
+
+- [Lounge Against the Machine](Lounge_Against_the_Machine.md)
+- [The Sunny Side of the Moon](The_Sunny_Side_of_the_Moon-_The_Best_of_Richard_Cheese.md)
+- [Tuxicity](Tuxicity.md)

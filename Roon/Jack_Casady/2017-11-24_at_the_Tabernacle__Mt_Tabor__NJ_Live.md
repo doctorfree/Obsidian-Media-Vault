@@ -48,3 +48,7 @@ By Jack Casady
 26. Nine Pound Hammer - Set 2
 27. Bar Room Crystal Ball - Encore
 
+
+## See also
+
+- [Bear's Sonic Journals](Bears_Sonic_Journals-_Before_We_Were_Them_Live.md)

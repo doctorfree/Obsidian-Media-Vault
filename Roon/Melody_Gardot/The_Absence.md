@@ -32,3 +32,7 @@ By Melody Gardot
 10. My Heart Won't Have It Any Other Way
 11. Iemanja/Chegue Journeyman [Hidden Track]
 
+
+## See also
+
+- [My One And Only Thrill](My_One_And_Only_Thrill.md)

@@ -178,3 +178,11 @@ By **The Youngbloods**
 - **Track:** 13
 - **Year:** 1969
 
+
+## See also
+
+- [Elephant Mountain](Elephant_Mountain.md)
+- [Roon: Earth Music](../../Roon/The_Youngbloods/Earth_Music.md)
+- [Roon: Elephant Mountain](../../Roon/The_Youngbloods/Elephant_Mountain.md)
+- [Roon: High On a Ridge Top](../../Roon/The_Youngbloods/High_On_a_Ridge_Top.md)
+- [Roon: The Youngbloods](../../Roon/The_Youngbloods/The_Youngbloods.md)

@@ -25,3 +25,7 @@ By Booker T. & the MG’s
 3. Medley: Because/ You Never Give Me Your Money
 4. Medley: Sun King/ Mean Mr. Mustard/ Polythene Pam/ She Came in Through the Bathroom Window/ I Want You (She's So Heavy)
 
+
+## See also
+
+- [Green Onions](Green_Onions.md)

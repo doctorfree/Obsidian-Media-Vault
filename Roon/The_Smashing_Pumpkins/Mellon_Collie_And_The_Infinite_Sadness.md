@@ -49,3 +49,7 @@ By The Smashing Pumpkins
 2-13 By Starlight
 2-14 Farewell and Goodnight
 
+
+## See also
+
+- [Siamese Dream (Deluxe Edition)](Siamese_Dream_Deluxe_Edition.md)

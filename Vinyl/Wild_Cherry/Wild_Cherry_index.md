@@ -5,3 +5,8 @@
 ## Vinyl
 
 - [Wild Cherry](Wild_Cherry.md)
+
+## See also
+
+- [Wild Cherry](Wild_Cherry.md)
+- [Beets: Wild Cherry](../../Beets/Wild_Cherry/Wild_Cherry.md)

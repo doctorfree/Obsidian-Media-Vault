@@ -40,3 +40,8 @@ By Crazy Horse
 18. Love and Only Love
 19. Cortez the Killer
 
+
+## See also
+
+- [Psychedelic Pill](Psychedelic_Pill.md)
+- [Rust Never Sleeps (2016 Remaster)](Rust_Never_Sleeps_2016_Remaster.md)

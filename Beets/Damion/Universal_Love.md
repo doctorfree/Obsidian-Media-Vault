@@ -145,3 +145,7 @@ By **Damion**
 - **Track:** 10
 - **Year:** 0000
 
+
+## See also
+
+- [Cosmic Trigger](Cosmic_Trigger.md)

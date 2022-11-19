@@ -33,3 +33,8 @@ By Pulp
 11. David's Last Summer
 12. Razzmatazz
 
+
+## See also
+
+- [Different Class](Different_Class.md)
+- [This Is Hardcore](This_Is_Hardcore.md)

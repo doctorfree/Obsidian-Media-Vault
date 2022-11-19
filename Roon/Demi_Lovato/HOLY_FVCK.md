@@ -37,3 +37,10 @@ By Demi Lovato
 15. Feed
 16. 4 Ever 4 Me
 
+
+## See also
+
+- [Confident](Confident.md)
+- [Beets: Confident](../../Beets/Demi_Lovato/Confident.md)
+- [CD: Confident](../../CD/Demi_Lovato/Confident.md)
+- [CD: ](../../CD/Demi_Lovato/Demi_Lovato.md)

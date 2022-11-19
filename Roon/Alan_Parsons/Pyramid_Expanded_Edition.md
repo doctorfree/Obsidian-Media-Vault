@@ -37,3 +37,14 @@ By Alan Parsons
 15. In the Lap of the Gods, Pt. 1
 16. In the Lap of the Gods, Pt. 2
 
+
+## See also
+
+- [Eye In The Sky](Eye_In_The_Sky.md)
+- [Stereotomy (Expanded Edition)](Stereotomy_Expanded_Edition.md)
+- [Tales Of Mystery And Imagination - Edgar Allan Poe (1987 Remix)](Tales_Of_Mystery_And_Imagination_-_Edgar_Allan_Poe_1987_Remix.md)
+- [The Best Of The Alan Parsons Project](The_Best_Of_The_Alan_Parsons_Project.md)
+- [The Essential Alan Parsons Project](The_Essential_Alan_Parsons_Project.md)
+- [The Turn Of A Friendly Card (Expanded Edition)](The_Turn_Of_A_Friendly_Card_Expanded_Edition.md)
+- [Try Anything Once](Try_Anything_Once.md)
+- [Beets: Try Anything Once](../../Beets/Alan_Parsons/Try_Anything_Once.md)

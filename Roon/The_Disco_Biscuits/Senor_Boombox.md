@@ -34,3 +34,11 @@ By The Disco Biscuits
 12. Hope II
 13. [Untitled Hidden Track]
 
+
+## See also
+
+- [On Time EP](On_Time_EP.md)
+- [Planet Anthem](Planet_Anthem.md)
+- [Rapture (Party Pupils Remix)](Rapture_Party_Pupils_Remix.md)
+- [Uncivilized Area](Uncivilized_Area.md)
+- [Widgets EP](Widgets_EP.md)

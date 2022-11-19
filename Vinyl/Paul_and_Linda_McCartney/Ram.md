@@ -36,3 +36,7 @@ By Paul & Linda McCartney
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Paul_and_Linda_McCartney.md)

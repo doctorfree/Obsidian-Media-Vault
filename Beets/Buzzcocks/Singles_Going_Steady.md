@@ -211,3 +211,8 @@ By **Buzzcocks**
 - **Track:** 16
 - **Year:** 1992
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Buzzcocks/Buzzcocks.md)
+- [Vinyl: Strange Thing](../../Vinyl/Buzzcocks/Strange_Thing.md)

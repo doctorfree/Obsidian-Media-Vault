@@ -36,3 +36,7 @@ By Eric Burdon
 2-6 Home Cookin'
 2-7 They Can't Take Away Our Music
 
+
+## See also
+
+- [Eric Burdon Declares War](Eric_Burdon_Declares_War.md)

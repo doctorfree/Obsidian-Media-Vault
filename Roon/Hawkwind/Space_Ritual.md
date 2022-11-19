@@ -39,3 +39,11 @@ By Hawkwind
 17. Welcome to the Future [Complete Version]
 18. You Shouldn't Do That
 
+
+## See also
+
+- [Doremi Fasol Latido](Doremi_Fasol_Latido.md)
+- [Hall of the Mountain Grill](Hall_of_the_Mountain_Grill.md)
+- [Hawkwind (1996 Remaster)](Hawkwind_1996_Remaster.md)
+- [In Search of Space](In_Search_of_Space.md)
+- [Warrior on the Edge of Time](Warrior_on_the_Edge_of_Time.md)

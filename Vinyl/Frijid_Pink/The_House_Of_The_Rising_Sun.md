@@ -36,3 +36,7 @@ By Frijid Pink
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Frijid_Pink.md)

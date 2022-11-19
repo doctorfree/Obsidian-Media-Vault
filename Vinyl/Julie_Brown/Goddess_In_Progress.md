@@ -36,3 +36,8 @@ By Julie Brown
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Julie_Brown.md)
+- [Beets: Goddess in Progress](../../Beets/Julie_Brown/Goddess_in_Progress.md)

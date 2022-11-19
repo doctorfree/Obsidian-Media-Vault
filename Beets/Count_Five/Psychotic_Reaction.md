@@ -156,3 +156,8 @@ By **Count Five**
 - **Track:** 11
 - **Year:** 1966
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Count_Five/Count_Five.md)
+- [Vinyl: Psychotic Reaction](../../Vinyl/Count_Five/Psychotic_Reaction.md)

@@ -52,3 +52,10 @@ By Matthew Sweet
 2-12 Cortez the Killer
 2-13 Isolation
 
+
+## See also
+
+- [Beets: 100% Fun](../../Beets/Matthew_Sweet/100%_Fun.md)
+- [Beets: Altered Beast](../../Beets/Matthew_Sweet/Altered_Beast.md)
+- [Beets: Blue Sky on Mars](../../Beets/Matthew_Sweet/Blue_Sky_on_Mars.md)
+- [Beets: Son of Altered Beast](../../Beets/Matthew_Sweet/Son_of_Altered_Beast.md)

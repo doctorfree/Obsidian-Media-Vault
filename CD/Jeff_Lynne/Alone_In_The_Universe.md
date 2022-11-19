@@ -51,3 +51,8 @@ By Jeff Lynne's ELO
 - [Out Of The Blue](../Electric_Light_Orchestra/Out_Of_The_Blue.md)
 - [Secret Messages](../Electric_Light_Orchestra/Secret_Messages.md)
 - [Time](../Electric_Light_Orchestra/Time.md)
+- [Beets: A Message From The Country](../../Beets/Jeff_Lynne/A_Message_From_The_Country.md)
+- [Beets: Armchair Theatre](../../Beets/Jeff_Lynne/Armchair_Theatre.md)
+- [Roon: Armchair Theatre](../../Roon/Jeff_Lynne/Armchair_Theatre.md)
+- [Roon: Jeff Lynne's ELO - Alone In The Universe (bonus track version)](../../Roon/Jeff_Lynne/Jeff_Lynnes_ELO_-_Alone_In_The_Universe_bonus_track_version.md)
+- [Roon: Jeff Lynne's ELO - Alone in the Universe](../../Roon/Jeff_Lynne/Jeff_Lynnes_ELO_-_Alone_in_the_Universe.md)

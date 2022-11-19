@@ -5,3 +5,7 @@
 ## Records
 
 - [I Don't Wanna Go](I_Dont_Wanna_Go.md)
+
+## See also
+
+- [I Don't Wanna Go](I_Dont_Wanna_Go.md)

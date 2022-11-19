@@ -45,3 +45,7 @@ By Valery Gergiev
 23. Symphony No. 8 "Symphony of a Thousand": Part II: Final Scene From Part II of Goethe's "Faust": Komm! Hebe dich zu höhern Sphären! - Blicket auf zum Retterblick
 24. Symphony No. 8 "Symphony of a Thousand": Part II: Final Scene From Part II of Goethe's "Faust": Chorus mysticus: Alles Vergängliche ist nur ein Gleichnis
 
+
+## See also
+
+- [Liszt - My Piano Hero](Liszt_-_My_Piano_Hero.md)

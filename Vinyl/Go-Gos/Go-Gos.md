@@ -6,3 +6,8 @@
 
 - [Beauty And The Beat](Beauty_And_The_Beat.md)
 - [Get Up And Go](Get_Up_And_Go.md)
+
+## See also
+
+- [Beauty And The Beat](Beauty_And_The_Beat.md)
+- [Get Up And Go](Get_Up_And_Go.md)

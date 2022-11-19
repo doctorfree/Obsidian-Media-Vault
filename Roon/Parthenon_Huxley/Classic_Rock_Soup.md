@@ -33,3 +33,9 @@ By Parthenon Huxley
 11. Rye Smile
 12. Faded Pictures
 
+
+## See also
+
+- [Deluxe](Deluxe.md)
+- [Deluxe (P.Hux)](Deluxe_PHux.md)
+- [Thank You Bethesda](Thank_You_Bethesda.md)

@@ -22,3 +22,7 @@ By Eric Barao
 
 0. On Holiday
 
+
+## See also
+
+- [Beets: Legacy of Power Pop - Power Pop Planet Best Of](../../Beets/Eric_Barao/Legacy_of_Power_Pop_-_Power_Pop_Planet_Best_Of.md)

@@ -41,3 +41,4 @@ By Rory Gallagher
 
 - [Calling Card](Calling_Card.md)
 - [Irish Tour '74..](Irish_Tour_74.md)
+- [Beets: Against the Grain](../../Beets/Rory_Gallagher/Against_the_Grain.md)

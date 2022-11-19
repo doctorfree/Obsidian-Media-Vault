@@ -32,3 +32,10 @@ By Demi Lovato
 10. Yes
 11. Father
 
+
+## See also
+
+- [HOLY FVCK](HOLY_FVCK.md)
+- [Beets: Confident](../../Beets/Demi_Lovato/Confident.md)
+- [CD: Confident](../../CD/Demi_Lovato/Confident.md)
+- [CD: ](../../CD/Demi_Lovato/Demi_Lovato.md)

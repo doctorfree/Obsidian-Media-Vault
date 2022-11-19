@@ -31,3 +31,10 @@ By Billy Joel
 9. Somewhere Along the Line
 10. Captain Jack
 
+
+## See also
+
+- [52nd Street](52nd_Street.md)
+- [The Stranger](The_Stranger.md)
+- [Vinyl: ](../../Vinyl/Billy_Joel/Billy_Joel.md)
+- [Vinyl: The Stranger](../../Vinyl/Billy_Joel/The_Stranger.md)

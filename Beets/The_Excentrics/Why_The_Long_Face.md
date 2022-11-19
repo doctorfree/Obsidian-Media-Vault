@@ -176,3 +176,10 @@ By **The Excentrics**
 - **Track:** 13
 - **Year:** 1993
 
+
+## See also
+
+- [Perfect Nervous Breakdown](Perfect_Nervous_Breakdown.md)
+- [CD: Perfect Nervous Breakdown](../../CD/The_Excentrics/Perfect_Nervous_Breakdown.md)
+- [CD: ](../../CD/The_Excentrics/The_Excentrics.md)
+- [CD: Why The Long Face](../../CD/The_Excentrics/Why_The_Long_Face.md)

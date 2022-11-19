@@ -145,3 +145,8 @@ By **Waylon Jennings**
 - **Track:** 10
 - **Year:** 1982
 
+
+## See also
+
+- [Vinyl: Are You Ready For The Country](../../Vinyl/Waylon_Jennings/Are_You_Ready_For_The_Country.md)
+- [Vinyl: ](../../Vinyl/Waylon_Jennings/Waylon_Jennings.md)

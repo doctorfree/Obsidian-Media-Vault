@@ -49,3 +49,11 @@ By The Dave Clark Five
 27. Everybody Get Together
 28. Universal Love
 
+
+## See also
+
+- [Beets: Coast to Coast](../../Beets/The_Dave_Clark_Five/Coast_to_Coast.md)
+- [Beets: The Dave Clark Five](../../Beets/The_Dave_Clark_Five/The_Dave_Clark_Five.md)
+- [Beets: The Dave Clark Five's Greatest Hits](../../Beets/The_Dave_Clark_Five/The_Dave_Clark_Fives_Greatest_Hits.md)
+- [Vinyl: Because / Theme Without A Name](../../Vinyl/The_Dave_Clark_Five/Because_-_Theme_Without_A_Name.md)
+- [Vinyl: ](../../Vinyl/The_Dave_Clark_Five/The_Dave_Clark_Five.md)

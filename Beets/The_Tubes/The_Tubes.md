@@ -134,3 +134,26 @@ By **The Tubes**
 - **Track:** 09
 - **Year:** 1988
 
+
+## See also
+
+- [20th Century Masters](20th_Century_Masters.md)
+- [Genius of America](Genius_of_America.md)
+- [Love Bomb](Love_Bomb.md)
+- [Remote Control](Remote_Control.md)
+- [The Completion Backward Principle](The_Completion_Backward_Principle.md)
+- [Young and Rich](Young_and_Rich.md)
+- [CD: Remote Control](../../CD/The_Tubes/Remote_Control.md)
+- [CD: The Completion Backward Principle](../../CD/The_Tubes/The_Completion_Backward_Principle.md)
+- [CD: ](../../CD/The_Tubes/The_Tubes_index.md)
+- [CD: The Tubes](../../CD/The_Tubes/The_Tubes.md)
+- [Roon: Goin' Down](../../Roon/The_Tubes/Goin_Down.md)
+- [Roon: Love Bomb](../../Roon/The_Tubes/Love_Bomb.md)
+- [Roon: Now](../../Roon/The_Tubes/Now.md)
+- [Roon: Remote Control](../../Roon/The_Tubes/Remote_Control.md)
+- [Roon: The Completion Backward Principle](../../Roon/The_Tubes/The_Completion_Backward_Principle.md)
+- [Roon: The Tubes](../../Roon/The_Tubes/The_Tubes.md)
+- [Roon: What Do You Want From Live (Live From Hammersmith Odeon)](../../Roon/The_Tubes/What_Do_You_Want_From_Live_Live_From_Hammersmith_Odeon.md)
+- [Roon: Young And Rich](../../Roon/The_Tubes/Young_And_Rich.md)
+- [Vinyl: ](../../Vinyl/The_Tubes/The_Tubes.md)
+- [Vinyl: Young And Rich](../../Vinyl/The_Tubes/Young_And_Rich.md)

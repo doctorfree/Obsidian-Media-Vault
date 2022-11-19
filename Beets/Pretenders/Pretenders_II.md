@@ -167,3 +167,24 @@ By **Pretenders**
 - **Track:** 12
 - **Year:** 1981
 
+
+## See also
+
+- [Last of the Independents](Last_of_the_Independents.md)
+- [Learning to Crawl](Learning_to_Crawl.md)
+- [Packed!](Packed!.md)
+- [CD: Pretenders II Deluxe Special Edition (Disc 2 )](../../CD/Pretenders/Pretenders_II_[Deluxe_Special_Edition]_Disc_2_.md)
+- [CD: Pretenders II](../../CD/Pretenders/Pretenders_II.md)
+- [CD: ](../../CD/Pretenders/Pretenders.md)
+- [CD: The Pretenders (Disc 1)](../../CD/Pretenders/The_Pretenders_Disc_1.md)
+- [CD: The Pretenders (Disc 2)](../../CD/Pretenders/The_Pretenders_Disc_2.md)
+- [Roon: 2000 Miles](../../Roon/Pretenders/2000_Miles.md)
+- [Roon: Get Close](../../Roon/Pretenders/Get_Close.md)
+- [Roon: Last of the Independents](../../Roon/Pretenders/Last_of_the_Independents.md)
+- [Roon: Learning to Crawl (US Release)](../../Roon/Pretenders/Learning_to_Crawl_US_Release.md)
+- [Roon: Packed!](../../Roon/Pretenders/Packed!.md)
+- [Roon: Pretenders (Deluxe Edition)](../../Roon/Pretenders/Pretenders_Deluxe_Edition.md)
+- [Roon: Pretenders II (Deluxe Edition)](../../Roon/Pretenders/Pretenders_II_Deluxe_Edition.md)
+- [Roon: Pretenders II](../../Roon/Pretenders/Pretenders_II.md)
+- [Roon: Pretenders](../../Roon/Pretenders/Pretenders.md)
+- [Roon: The Singles (US Version)](../../Roon/Pretenders/The_Singles_US_Version.md)

@@ -36,3 +36,7 @@ By K.T. Oslin
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](KT_Oslin.md)

@@ -32,3 +32,7 @@ By 10,000 Maniacs
 10. City of Angels
 11. Verdi Cries
 
+
+## See also
+
+- [Beets: In My Tribe](../../Beets/10_000_Maniacs/In_My_Tribe.md)

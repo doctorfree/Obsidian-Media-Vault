@@ -5,3 +5,7 @@
 ## Records
 
 - [If You Love Me Kill Yourself](If_You_Love_Me_Kill_Yourself.md)
+
+## See also
+
+- [If You Love Me Kill Yourself](If_You_Love_Me_Kill_Yourself.md)

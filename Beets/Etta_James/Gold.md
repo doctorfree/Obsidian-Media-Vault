@@ -431,3 +431,7 @@ By **Etta James**
 - **Track:** 20
 - **Year:** 2007
 
+
+## See also
+
+- [The Essential Etta James](The_Essential_Etta_James.md)

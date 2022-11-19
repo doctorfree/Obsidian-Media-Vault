@@ -233,3 +233,13 @@ By **Vanilla Fudge**
 - **Track:** 18
 - **Year:** 1993
 
+
+## See also
+
+- [CD: Psychedelic Sundae](../../CD/Vanilla_Fudge/Psychedelic_Sundae-_The_Best_Of_Vanilla_Fudge.md)
+- [CD: ](../../CD/Vanilla_Fudge/Vanilla_Fudge.md)
+- [Roon: Renaissance (2006 Remaster)](../../Roon/Vanilla_Fudge/Renaissance_2006_Remaster.md)
+- [Roon: Rock & Roll](../../Roon/Vanilla_Fudge/Rock_and_Roll.md)
+- [Roon: Vanilla Fudge](../../Roon/Vanilla_Fudge/Vanilla_Fudge.md)
+- [Vinyl: ](../../Vinyl/Vanilla_Fudge/Vanilla_Fudge_index.md)
+- [Vinyl: Vanilla Fudge](../../Vinyl/Vanilla_Fudge/Vanilla_Fudge.md)

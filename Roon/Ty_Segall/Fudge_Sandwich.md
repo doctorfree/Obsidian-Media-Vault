@@ -32,3 +32,14 @@ By Ty Segall
 10. St. Stephen
 11. Slowboat
 
+
+## See also
+
+- [First Taste](First_Taste.md)
+- [Freedom's Goblin](Freedoms_Goblin.md)
+- [Manipulator](Manipulator.md)
+- [Ty Segall](Ty_Segall.md)
+- [Beets: Manipulator](../../Beets/Ty_Segall/Manipulator.md)
+- [Beets: Ty Segall](../../Beets/Ty_Segall/Ty_Segall.md)
+- [Vinyl: ](../../Vinyl/Ty_Segall/Ty_Segall_index.md)
+- [Vinyl: Ty Segall](../../Vinyl/Ty_Segall/Ty_Segall.md)

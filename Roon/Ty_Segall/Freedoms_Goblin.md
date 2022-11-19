@@ -40,3 +40,14 @@ By Ty Segall
 18. 5 Ft. Tall
 19. And, Goodnight
 
+
+## See also
+
+- [First Taste](First_Taste.md)
+- [Fudge Sandwich](Fudge_Sandwich.md)
+- [Manipulator](Manipulator.md)
+- [Ty Segall](Ty_Segall.md)
+- [Beets: Manipulator](../../Beets/Ty_Segall/Manipulator.md)
+- [Beets: Ty Segall](../../Beets/Ty_Segall/Ty_Segall.md)
+- [Vinyl: ](../../Vinyl/Ty_Segall/Ty_Segall_index.md)
+- [Vinyl: Ty Segall](../../Vinyl/Ty_Segall/Ty_Segall.md)

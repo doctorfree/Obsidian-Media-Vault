@@ -178,3 +178,8 @@ By **Syd Barrett**
 - **Track:** 13
 - **Year:** 1990
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Syd_Barrett/Syd_Barrett.md)
+- [Vinyl: The Madcap Laughs](../../Vinyl/Syd_Barrett/The_Madcap_Laughs.md)

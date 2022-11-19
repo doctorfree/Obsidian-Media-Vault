@@ -32,3 +32,9 @@ By System of a Down
 10. Old School Hollywood
 11. Lost in Hollywood
 
+
+## See also
+
+- [Hypnotize](Hypnotize.md)
+- [Protect The Land / Genocidal Humanoidz](Protect_The_Land_-_Genocidal_Humanoidz.md)
+- [Toxicity](Toxicity.md)

@@ -31,3 +31,12 @@ By Brandi Carlile
 9. Harder to Forgive
 10. Party of One
 
+
+## See also
+
+- [Bear Creek](Bear_Creek.md)
+- [Brandi Carlile](Brandi_Carlile.md)
+- [In These Silent Days](In_These_Silent_Days.md)
+- [The Story](The_Story.md)
+- [Beets: Bear Creek](../../Beets/Brandi_Carlile/Bear_Creek.md)
+- [Beets: The Story](../../Beets/Brandi_Carlile/The_Story.md)

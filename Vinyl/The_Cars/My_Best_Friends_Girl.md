@@ -40,3 +40,5 @@ By The Cars
 ## See also
 
 - [Just What I Needed](Just_What_I_Needed.md)
+- [Beets: Moving in Stereo](../../Beets/The_Cars/Moving_in_Stereo.md)
+- [Roon: The Cars](../../Roon/The_Cars/The_Cars.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [A Charlie Brown Christmas](A_Charlie_Brown_Christmas.md)
+
+## See also
+
+- [A Charlie Brown Christmas](A_Charlie_Brown_Christmas.md)

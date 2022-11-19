@@ -36,3 +36,7 @@ By Duke Ellington
 14. A Little Max (Parfait) (alternate take)
 15. Rem Blues (alternate take)
 
+
+## See also
+
+- [In My Solitude](In_My_Solitude-_Solo_Piano_and_Small_Group_Performances.md)

@@ -31,3 +31,8 @@ By Pearl Charles
 9. Behind Closed Doors
 10. Phases
 
+
+## See also
+
+- [Magic Mirror](Magic_Mirror.md)
+- [Pearl Charles](Pearl_Charles.md)

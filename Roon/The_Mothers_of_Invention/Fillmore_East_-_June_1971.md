@@ -33,3 +33,13 @@ By The Mothers of Invention
 11. Peaches En Regalia
 12. Tears Began To Fall
 
+
+## See also
+
+- [Absolutely Free](Absolutely_Free.md)
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Just Another Band From L.A. (Live)](Just_Another_Band_From_LA_Live.md)
+- [One Size Fits All](One_Size_Fits_All.md)
+- [Over-Nite Sensation](Over-Nite_Sensation.md)
+- [Weasels Ripped My Flesh](Weasels_Ripped_My_Flesh.md)
+- [We're Only In It For The Money](Were_Only_In_It_For_The_Money.md)

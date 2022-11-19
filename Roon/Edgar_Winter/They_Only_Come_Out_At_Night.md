@@ -31,3 +31,7 @@ By Edgar Winter
 9. We All Had a Real Good Time
 10. Frankenstein
 
+
+## See also
+
+- [Beets: 1973](../../Beets/Edgar_Winter/1973.md)

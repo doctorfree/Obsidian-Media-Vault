@@ -35,3 +35,9 @@ By Kid Rock
 13. Where U at Rock
 14. Black Chick, White Guy / I Am the Bullgod (remix)
 
+
+## See also
+
+- [Beets: Devil Without a Cause](../../Beets/Kid_Rock/Devil_Without_a_Cause.md)
+- [Vinyl: Devil Without A Cause](../../Vinyl/Kid_Rock/Devil_Without_A_Cause.md)
+- [Vinyl: ](../../Vinyl/Kid_Rock/Kid_Rock.md)

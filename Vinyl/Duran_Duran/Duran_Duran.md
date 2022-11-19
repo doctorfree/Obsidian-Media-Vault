@@ -5,3 +5,8 @@
 ## Records
 
 - [The Wild Boys](The_Wild_Boys.md)
+
+## See also
+
+- [The Wild Boys](The_Wild_Boys.md)
+- [Roon: Greatest](../../Roon/Duran_Duran/Greatest.md)

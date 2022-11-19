@@ -33,3 +33,19 @@ By Cracker
 11. Don't Fuck Me Up (With Peace and Love)
 12. Dr. Bernice
 
+
+## See also
+
+- [Forever](Forever.md)
+- [Kerosene Hat](Kerosene_Hat.md)
+- [The Golden Age](The_Golden_Age.md)
+- [Beets: Berkeley to Bakersfield](../../Beets/Cracker/Berkeley_to_Bakersfield.md)
+- [Beets: Cracker](../../Beets/Cracker/Cracker.md)
+- [Beets: Forever](../../Beets/Cracker/Forever.md)
+- [Beets: Hello Cleveland! (Live From The Metro)](../../Beets/Cracker/Hello_Cleveland!_Live_From_The_Metro.md)
+- [Beets: Sunrise in the Land of Milk and Honey](../../Beets/Cracker/Sunrise_in_the_Land_of_Milk_and_Honey.md)
+- [Beets: The Golden Age](../../Beets/Cracker/The_Golden_Age.md)
+- [CD: ](../../CD/Cracker/Cracker_index.md)
+- [CD: Cracker](../../CD/Cracker/Cracker.md)
+- [CD: Forever](../../CD/Cracker/Forever.md)
+- [CD: The Golden Age](../../CD/Cracker/The_Golden_Age.md)

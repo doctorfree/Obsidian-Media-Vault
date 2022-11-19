@@ -30,3 +30,13 @@ By Thin Lizzy
 8. Didn't I
 9. Hey You
 
+
+## See also
+
+- [Black Rose](Black_Rose-_A_Rock_Legend.md)
+- [Renegade](Renegade.md)
+- [Thunder And Lightning](Thunder_And_Lightning.md)
+- [Beets: Dedication](../../Beets/Thin_Lizzy/Dedication.md)
+- [Beets: Jailbreak](../../Beets/Thin_Lizzy/Jailbreak.md)
+- [CD: Jailbreak](../../CD/Thin_Lizzy/Jailbreak.md)
+- [CD: ](../../CD/Thin_Lizzy/Thin_Lizzy.md)

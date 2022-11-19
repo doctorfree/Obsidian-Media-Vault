@@ -30,3 +30,10 @@ By James Gang
 8. White Man/Black Man
 9. Live My Life Again
 
+
+## See also
+
+- [Rides Again](Rides_Again.md)
+- [Beets: Rides Again](../../Beets/James_Gang/Rides_Again.md)
+- [Vinyl: ](../../Vinyl/James_Gang/James_Gang.md)
+- [Vinyl: Thirds](../../Vinyl/James_Gang/Thirds.md)

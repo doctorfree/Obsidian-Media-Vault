@@ -83,3 +83,9 @@ By Garbage
 4-10 Only Happy When It Rains [Early Demo Mix]
 4-11 Supervixen [Early Demo Mix]
 
+
+## See also
+
+- [Beautiful Garbage (Remastered)](Beautiful_Garbage_Remastered.md)
+- [Bleed Like Me (Remastered)](Bleed_Like_Me_Remastered.md)
+- [Version 2.0 (20th Anniversary Deluxe Edition / Remastered)](Version_20_20th_Anniversary_Deluxe_Edition_-_Remastered.md)

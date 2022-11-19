@@ -46,3 +46,9 @@ By **The Archies**
 - **Track:** 01
 - **Year:** 1999
 
+
+## See also
+
+- [The Very Best of the Archies [Cleopatra]](The_Very_Best_of_the_Archies_[Cleopatra].md)
+- [Vinyl: Everything's Archie](../../Vinyl/The_Archies/Everythings_Archie.md)
+- [Vinyl: ](../../Vinyl/The_Archies/The_Archies.md)

@@ -35,3 +35,9 @@ By Imogen Heap
 13. Xizi She Knows
 14. Propeller Seeds
 
+
+## See also
+
+- [Ellipse](Ellipse.md)
+- [I Megaphone](I_Megaphone.md)
+- [Speak for Yourself](Speak_for_Yourself.md)

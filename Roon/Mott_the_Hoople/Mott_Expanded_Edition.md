@@ -34,3 +34,9 @@ By Mott the Hoople
 12. Nightmare (demo)
 13. Drivin' Sister (live, Hammersmith Odeon)
 
+
+## See also
+
+- [All The Young Dudes (Expanded Edition)](All_The_Young_Dudes_Expanded_Edition.md)
+- [Mott The Hoople](Mott_The_Hoople.md)
+- [The Hoople](The_Hoople.md)

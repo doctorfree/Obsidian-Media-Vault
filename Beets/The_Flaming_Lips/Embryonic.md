@@ -178,3 +178,11 @@ By **The Flaming Lips**
 - **Track:** 11
 - **Year:** 2014
 
+
+## See also
+
+- [At War With the Mystics](At_War_With_the_Mystics.md)
+- [The Dark Side Of The Moon](The_Dark_Side_Of_The_Moon.md)
+- [With a Little Help From My Fwends](With_a_Little_Help_From_My_Fwends.md)
+- [Yoshimi Battles the Pink Robots](Yoshimi_Battles_the_Pink_Robots.md)
+- [Roon: The Dark Side of the Moon](../../Roon/The_Flaming_Lips/The_Dark_Side_of_the_Moon.md)

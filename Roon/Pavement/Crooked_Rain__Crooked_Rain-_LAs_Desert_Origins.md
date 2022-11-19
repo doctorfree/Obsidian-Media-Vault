@@ -70,3 +70,9 @@ By Pavement
 2-24 Pueblo Domain
 2-25 The Sutcliffe Catering Song
 
+
+## See also
+
+- [Slanted & Enchanted](Slanted_and_Enchanted-_Luxe_and_Reduxe.md)
+- [Wowee Zowee (Sordid Sentinels Edition)](Wowee_Zowee_Sordid_Sentinels_Edition.md)
+- [Beets: Slanted & Enchanted](../../Beets/Pavement/Slanted_and_Enchanted.md)

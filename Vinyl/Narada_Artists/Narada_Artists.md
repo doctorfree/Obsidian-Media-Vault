@@ -5,3 +5,7 @@
 ## Records
 
 - [Sampler](Sampler.md)
+
+## See also
+
+- [Sampler](Sampler.md)

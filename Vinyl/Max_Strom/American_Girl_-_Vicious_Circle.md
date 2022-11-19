@@ -34,3 +34,7 @@ By Max Strom
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Max_Strom.md)

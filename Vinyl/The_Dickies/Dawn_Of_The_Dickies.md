@@ -36,3 +36,8 @@ By The Dickies
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](The_Dickies.md)
+- [Beets: The Incredible Shrinking Dickies (Digipack)](../../Beets/The_Dickies/The_Incredible_Shrinking_Dickies_Digipack.md)

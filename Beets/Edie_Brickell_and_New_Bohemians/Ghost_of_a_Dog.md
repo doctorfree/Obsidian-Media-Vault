@@ -167,3 +167,9 @@ By **Edie Brickell & New Bohemians**
 - **Track:** 12
 - **Year:** 1988
 
+
+## See also
+
+- [Shooting Rubberbands at the Stars](Shooting_Rubberbands_at_the_Stars.md)
+- [Roon: Hunter and the Dog Star](../../Roon/Edie_Brickell_and_New_Bohemians/Hunter_and_the_Dog_Star.md)
+- [Roon: Shooting Rubberbands At The Stars](../../Roon/Edie_Brickell_and_New_Bohemians/Shooting_Rubberbands_At_The_Stars.md)

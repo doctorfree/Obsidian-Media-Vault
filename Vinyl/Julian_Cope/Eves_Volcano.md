@@ -36,3 +36,7 @@ By Julian Cope
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Julian_Cope.md)

@@ -27,3 +27,7 @@ By Philip Glass
 5. Koyaanisqatsi, film score: The Grid
 6. Koyaanisqatsi, film score: Prophecies
 
+
+## See also
+
+- [Powaqqatsi](Powaqqatsi.md)

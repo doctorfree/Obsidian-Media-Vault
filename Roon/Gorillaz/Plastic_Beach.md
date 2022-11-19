@@ -50,3 +50,8 @@ By Gorillaz
 14. To Binge
 15. Cloud of Unknowing
 
+
+## See also
+
+- [Gorillaz](Gorillaz.md)
+- [Beets: Plastic Beach](../../Beets/Gorillaz/Plastic_Beach.md)

@@ -54,3 +54,11 @@ By EELS
 2-15 The Stars Shine in the Sky Tonight
 2-16 Things the Grandchildren Should Know
 
+
+## See also
+
+- [Beautiful Freak](Beautiful_Freak.md)
+- [Earth to Dora](Earth_to_Dora.md)
+- [End Times](End_Times.md)
+- [Extreme Witchcraft](Extreme_Witchcraft.md)
+- [Hombre Lobo](Hombre_Lobo.md)

@@ -36,3 +36,12 @@ By Tim Buckley
 14. Sing a Song for You
 15. Merry-Go-Round / Strange Feelin'
 
+
+## See also
+
+- [Happy Sad](Happy_Sad.md)
+- [Beets: Blue Afternoon](../../Beets/Tim_Buckley/Blue_Afternoon.md)
+- [Beets: Goodbye and Hello](../../Beets/Tim_Buckley/Goodbye_and_Hello.md)
+- [Beets: Happy Sad](../../Beets/Tim_Buckley/Happy_Sad.md)
+- [Beets: Lorca](../../Beets/Tim_Buckley/Lorca.md)
+- [Beets: Tim Buckley](../../Beets/Tim_Buckley/Tim_Buckley.md)

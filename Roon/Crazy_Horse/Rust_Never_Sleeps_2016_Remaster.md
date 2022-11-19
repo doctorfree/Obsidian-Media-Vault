@@ -30,3 +30,8 @@ By Crazy Horse
 8. Sedan Delivery
 9. Hey Hey, My My (Into the Black)
 
+
+## See also
+
+- [Psychedelic Pill](Psychedelic_Pill.md)
+- [Way Down In The Rust Bucket (Live)](Way_Down_In_The_Rust_Bucket_Live.md)

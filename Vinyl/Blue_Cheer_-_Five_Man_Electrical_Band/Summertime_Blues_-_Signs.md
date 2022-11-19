@@ -36,3 +36,7 @@ By Blue Cheer / Five Man Electrical Band
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Blue_Cheer_-_Five_Man_Electrical_Band.md)

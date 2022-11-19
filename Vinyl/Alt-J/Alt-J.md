@@ -5,3 +5,7 @@
 ## Records
 
 - [Relaxer](Relaxer.md)
+
+## See also
+
+- [Relaxer](Relaxer.md)

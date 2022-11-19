@@ -36,3 +36,10 @@ By Alanis Morissette
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Alanis_Morissette.md)
+- [Beets: Jagged Little Pill](../../Beets/Alanis_Morissette/Jagged_Little_Pill.md)
+- [Beets: Jagged Little Pill (Vinyl Rip)](../../Beets/Alanis_Morissette/Jagged_Little_Pill_Vinyl_Rip.md)
+- [Roon: Jagged Little Pill (2015 Remaster)](../../Roon/Alanis_Morissette/Jagged_Little_Pill_2015_Remaster.md)

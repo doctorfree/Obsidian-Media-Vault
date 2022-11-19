@@ -30,3 +30,11 @@ By Gentle Giant
 8. River (2015 mix)
 9. Excerpts From Octopus [Live 1976]
 
+
+## See also
+
+- [The Power and the Glory (Mixed by Steven Wilson)](The_Power_and_the_Glory_Mixed_by_Steven_Wilson.md)
+- [Three Piece Suite (Steven Wilson Mix)](Three_Piece_Suite_Steven_Wilson_Mix.md)
+- [Beets: Octopus](../../Beets/Gentle_Giant/Octopus.md)
+- [Beets: Playing the Fool](../../Beets/Gentle_Giant/Playing_the_Fool.md)
+- [Beets: The Power and the Glory](../../Beets/Gentle_Giant/The_Power_and_the_Glory.md)

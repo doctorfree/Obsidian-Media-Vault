@@ -38,3 +38,8 @@ By Hilary Duff
 16. Jericho
 17. The Last Song
 
+
+## See also
+
+- [Metamorphosis](Metamorphosis.md)
+- [Beets: Hilary Duff](../../Beets/Hilary_Duff/Hilary_Duff.md)

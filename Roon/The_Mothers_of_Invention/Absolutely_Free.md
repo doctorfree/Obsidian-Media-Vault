@@ -36,3 +36,13 @@ By The Mothers of Invention
 14. Brown Shoes Don't Make It
 15. America Drinks and Goes Home
 
+
+## See also
+
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Fillmore East - June 1971](Fillmore_East_-_June_1971.md)
+- [Just Another Band From L.A. (Live)](Just_Another_Band_From_LA_Live.md)
+- [One Size Fits All](One_Size_Fits_All.md)
+- [Over-Nite Sensation](Over-Nite_Sensation.md)
+- [Weasels Ripped My Flesh](Weasels_Ripped_My_Flesh.md)
+- [We're Only In It For The Money](Were_Only_In_It_For_The_Money.md)

@@ -36,3 +36,8 @@ By It's A Beautiful Day
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Its_A_Beautiful_Day_index.md)
+- [Beets: Creed Of Love](../../Beets/Its_A_Beautiful_Day/Creed_Of_Love.md)

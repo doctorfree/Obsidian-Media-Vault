@@ -156,3 +156,11 @@ By **The Flaming Lips**
 - **Track:** 11
 - **Year:** 2002
 
+
+## See also
+
+- [At War With the Mystics](At_War_With_the_Mystics.md)
+- [Embryonic](Embryonic.md)
+- [The Dark Side Of The Moon](The_Dark_Side_Of_The_Moon.md)
+- [Yoshimi Battles the Pink Robots](Yoshimi_Battles_the_Pink_Robots.md)
+- [Roon: The Dark Side of the Moon](../../Roon/The_Flaming_Lips/The_Dark_Side_of_the_Moon.md)

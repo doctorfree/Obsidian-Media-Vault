@@ -26,3 +26,7 @@ By Eric Burdon
 4. Blues for Memphis Slim: Birth/Mother Earth/Mr. Charlie/Danish Pastry/Mother Earth
 5. You're No Stranger
 
+
+## See also
+
+- [The Black-Man's Burdon](The_Black-Mans_Burdon.md)

@@ -31,3 +31,12 @@ By The Grass Roots
 9. Heaven Knows [Album Version]
 10. I'd Wait a Million Years
 
+
+## See also
+
+- [20th Century Masters](20th_Century_Masters-_The_Millennium_Collection-_Best_Of_The_Grass_Roots.md)
+- [Let's Live For Today](Lets_Live_For_Today.md)
+- [Symphonic Hits (Re-Recorded)](Symphonic_Hits_Re-Recorded.md)
+- [Vinyl: Let's Live For Today](../../Vinyl/The_Grass_Roots/Lets_Live_For_Today.md)
+- [Vinyl: Temptation Eyes](../../Vinyl/The_Grass_Roots/Temptation_Eyes.md)
+- [Vinyl: ](../../Vinyl/The_Grass_Roots/The_Grass_Roots.md)

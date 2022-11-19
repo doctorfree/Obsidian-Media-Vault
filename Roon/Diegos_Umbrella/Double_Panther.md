@@ -33,3 +33,11 @@ By Diego's Umbrella
 11. Swayze
 12. The New 17
 
+
+## See also
+
+- [Edjka](Edjka.md)
+- [Kung Fu Palace](Kung_Fu_Palace.md)
+- [Proper Cowboy](Proper_Cowboy.md)
+- [The Christmas Album](The_Christmas_Album.md)
+- [Viva La Juerga](Viva_La_Juerga.md)

@@ -26,3 +26,10 @@ By Long John Baldry
 4. Come Back Again
 5. Only Love Can Break Your Heart
 
+
+## See also
+
+- [Everything Stops For Tea](Everything_Stops_For_Tea.md)
+- [It Ain't Easy (Expanded)](It_Aint_Easy_Expanded.md)
+- [Beets: It Ain't Easy](../../Beets/Long_John_Baldry/It_Aint_Easy.md)
+- [Beets: Welcome To Club Casablanca](../../Beets/Long_John_Baldry/Welcome_To_Club_Casablanca.md)

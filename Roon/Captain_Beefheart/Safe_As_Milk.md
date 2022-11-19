@@ -40,3 +40,11 @@ By Captain Beefheart
 18. Trust Us (Take 9)
 19. Korn Ring Finger
 
+
+## See also
+
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Clear Spot](Clear_Spot.md)
+- [Lick My Decals Off, Baby](Lick_My_Decals_Off__Baby.md)
+- [Shiny Beast (Bat Chain Puller)](Shiny_Beast_Bat_Chain_Puller.md)
+- [The Spotlight Kid](The_Spotlight_Kid.md)

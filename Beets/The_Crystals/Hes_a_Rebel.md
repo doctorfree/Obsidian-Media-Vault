@@ -167,3 +167,8 @@ By **The Crystals**
 - **Track:** 12
 - **Year:** 1963
 
+
+## See also
+
+- [Vinyl: He's A Rebel](../../Vinyl/The_Crystals/Hes_A_Rebel.md)
+- [Vinyl: ](../../Vinyl/The_Crystals/The_Crystals.md)

@@ -36,3 +36,9 @@ By Dusty Springfield
 14. That's How Heartaches Are Made
 15. Packin' Up
 
+
+## See also
+
+- [20th Century Masters](20th_Century_Masters-_The_Millennium_Collection-_Best_Of_Dusty_Springfield.md)
+- [Dusty In Memphis (1)](Dusty_In_Memphis_1.md)
+- [Stay Awhile / I Only Want To Be With You](Stay_Awhile_-_I_Only_Want_To_Be_With_You.md)

@@ -32,3 +32,17 @@ By The New Pornographers
 10. One Kind of Solomon
 11. Leather on the Seat
 
+
+## See also
+
+- [Brill Bruisers](Brill_Bruisers.md)
+- [Challengers](Challengers.md)
+- [Together](Together.md)
+- [Twin Cinema](Twin_Cinema.md)
+- [Whiteout Conditions](Whiteout_Conditions.md)
+- [Beets: Brill Bruisers](../../Beets/The_New_Pornographers/Brill_Bruisers.md)
+- [Beets: Twin Cinema](../../Beets/The_New_Pornographers/Twin_Cinema.md)
+- [Beets: Whiteout Conditions](../../Beets/The_New_Pornographers/Whiteout_Conditions.md)
+- [Vinyl: Brill Bruisers](../../Vinyl/The_New_Pornographers/Brill_Bruisers.md)
+- [Vinyl: ](../../Vinyl/The_New_Pornographers/The_New_Pornographers.md)
+- [Vinyl: Whiteout Conditions](../../Vinyl/The_New_Pornographers/Whiteout_Conditions.md)

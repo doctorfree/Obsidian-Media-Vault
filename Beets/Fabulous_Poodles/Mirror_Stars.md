@@ -156,3 +156,7 @@ By **Fabulous Poodles**
 - **Track:** 11
 - **Year:** 1979
 
+
+## See also
+
+- [Think Pink](Think_Pink.md)

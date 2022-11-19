@@ -35,3 +35,9 @@ By Horace Andy
 13. Oh Youth Man [Bonus Track]
 14. Night Owl [Bonus Track]
 
+
+## See also
+
+- [Good Vibes](Good_Vibes.md)
+- [Horace's Prime](Horaces_Prime.md)
+- [In The Light](In_The_Light.md)

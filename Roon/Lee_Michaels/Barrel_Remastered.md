@@ -32,3 +32,11 @@ By Lee Michaels
 10. Didn't Know What I Had
 11. As Long as I Can
 
+
+## See also
+
+- [5th (Remastered)](5th_Remastered.md)
+- [Lee Michaels (Remastered)](Lee_Michaels_Remastered.md)
+- [Beets: Hello](../../Beets/Lee_Michaels/Hello.md)
+- [Beets: Live](../../Beets/Lee_Michaels/Live.md)
+- [Beets: Recital](../../Beets/Lee_Michaels/Recital.md)

@@ -145,3 +145,10 @@ By **George Michael**
 - **Track:** 10
 - **Year:** 1990
 
+
+## See also
+
+- [Faith](Faith.md)
+- [The Best of George Michael](The_Best_of_George_Michael.md)
+- [Vinyl: Faith](../../Vinyl/George_Michael/Faith.md)
+- [Vinyl: ](../../Vinyl/George_Michael/George_Michael.md)

@@ -51,3 +51,9 @@ By Ian Hunter
 2-13 When the Daylight Comes
 2-14 Sweet Angeline
 
+
+## See also
+
+- [Ian Hunter - 30th Anniversary Edition](Ian_Hunter_-_30th_Anniversary_Edition.md)
+- [Rant](Rant.md)
+- [Beets: Rant](../../Beets/Ian_Hunter/Rant.md)

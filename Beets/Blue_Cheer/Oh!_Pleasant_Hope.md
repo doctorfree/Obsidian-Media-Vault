@@ -134,3 +134,8 @@ By **Blue Cheer**
 - **Track:** 09
 - **Year:** 1971
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/Blue_Cheer/Blue_Cheer.md)
+- [Vinyl: Oh! Pleasant Hope](../../Vinyl/Blue_Cheer/Oh!_Pleasant_Hope.md)

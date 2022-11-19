@@ -31,3 +31,11 @@ By Captain Beefheart
 9. There Ain't No Santa Claus on the Evenin' Stage
 10. Glider
 
+
+## See also
+
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Clear Spot](Clear_Spot.md)
+- [Lick My Decals Off, Baby](Lick_My_Decals_Off__Baby.md)
+- [Safe As Milk](Safe_As_Milk.md)
+- [Shiny Beast (Bat Chain Puller)](Shiny_Beast_Bat_Chain_Puller.md)

@@ -37,3 +37,9 @@ By Taylor Swift
 15. Peace
 16. Hoax
 
+
+## See also
+
+- [folklore (deluxe version - explicit) (deluxe version)](folklore_deluxe_version_-_explicit_deluxe_version.md)
+- [Midnights (3am Edition)](Midnights_3am_Edition.md)
+- [Red (Taylor's Version)](Red_Taylors_Version.md)

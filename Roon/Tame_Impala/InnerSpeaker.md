@@ -32,3 +32,12 @@ By Tame Impala
 10. Runway, Houses, City, Clouds
 11. I Don't Really Mind
 
+
+## See also
+
+- [Currents](Currents.md)
+- [Lonerism](Lonerism.md)
+- [The Slow Rush](The_Slow_Rush.md)
+- [Beets: InnerSpeaker](../../Beets/Tame_Impala/InnerSpeaker.md)
+- [Vinyl: Innerspeaker](../../Vinyl/Tame_Impala/Innerspeaker.md)
+- [Vinyl: ](../../Vinyl/Tame_Impala/Tame_Impala.md)

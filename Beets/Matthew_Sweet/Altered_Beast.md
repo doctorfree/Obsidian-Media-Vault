@@ -167,3 +167,10 @@ By **Matthew Sweet**
 - **Track:** 12
 - **Year:** 1997
 
+
+## See also
+
+- [100% Fun](100%_Fun.md)
+- [Blue Sky on Mars](Blue_Sky_on_Mars.md)
+- [Son of Altered Beast](Son_of_Altered_Beast.md)
+- [Roon: Girlfriend (Legacy Edition)](../../Roon/Matthew_Sweet/Girlfriend_Legacy_Edition.md)

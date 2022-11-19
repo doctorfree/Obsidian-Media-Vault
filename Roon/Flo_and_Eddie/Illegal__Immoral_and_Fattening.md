@@ -32,3 +32,14 @@ By Flo & Eddie
 10. Let Me Make Love to You
 11. There's No Business Like Show Business
 
+
+## See also
+
+- [Moving Targets](Moving_Targets.md)
+- [Beets: Flo & Eddie](../../Beets/Flo_and_Eddie/Flo_and_Eddie.md)
+- [Beets: Illegal, Immoral and Fattening](../../Beets/Flo_and_Eddie/Illegal__Immoral_and_Fattening.md)
+- [Beets: Moving Targets](../../Beets/Flo_and_Eddie/Moving_Targets.md)
+- [Beets: The Phlorescent Leech & Eddie](../../Beets/Flo_and_Eddie/The_Phlorescent_Leech_and_Eddie.md)
+- [Vinyl: ](../../Vinyl/Flo_and_Eddie/Flo_and_Eddie.md)
+- [Vinyl: "Illegal, Immoral And Fattening"](../../Vinyl/Flo_and_Eddie/Illegal__Immoral_And_Fattening.md)
+- [Vinyl: Moving Targets](../../Vinyl/Flo_and_Eddie/Moving_Targets.md)

@@ -37,3 +37,8 @@ By Dr. Dre
 15. Medicine Man
 16. Talking to My Diary
 
+
+## See also
+
+- [Beets: 2001](../../Beets/Dr_Dre/2001.md)
+- [Beets: Compton](../../Beets/Dr_Dre/Compton.md)

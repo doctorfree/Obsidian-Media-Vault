@@ -145,3 +145,8 @@ By **The Hues Corporation**
 - **Track:** 10
 - **Year:** 1973
 
+
+## See also
+
+- [Vinyl: Freedom For The Stallion](../../Vinyl/The_Hues_Corporation/Freedom_For_The_Stallion.md)
+- [Vinyl: ](../../Vinyl/The_Hues_Corporation/The_Hues_Corporation.md)

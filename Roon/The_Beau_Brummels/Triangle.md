@@ -32,3 +32,8 @@ By The Beau Brummels
 10. The Wolf of Velvet Fortune
 11. Old Kentucky Home
 
+
+## See also
+
+- [Introducing the Beau Brummels](Introducing_the_Beau_Brummels.md)
+- [The Best Of The Beau Brummels (Remastered)](The_Best_Of_The_Beau_Brummels_Remastered.md)

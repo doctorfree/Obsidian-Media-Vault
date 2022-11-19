@@ -22,3 +22,7 @@ By The Swingers
 
 1. Counting the Beat
 
+
+## See also
+
+- [Beets: Power Pop Explosion! 1980 -1983](../../Beets/The_Swingers/Power_Pop_Explosion!_1980_-1983.md)

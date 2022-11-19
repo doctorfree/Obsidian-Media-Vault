@@ -5,3 +5,7 @@
 ## Records
 
 - [Cry](Cry.md)
+
+## See also
+
+- [Cry](Cry.md)

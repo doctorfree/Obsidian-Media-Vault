@@ -32,3 +32,12 @@ By Natalie Merchant
 10. Where I Go
 11. Seven Years
 
+
+## See also
+
+- [Motherland](Motherland.md)
+- [Ophelia](Ophelia.md)
+- [Beets: Motherland](../../Beets/Natalie_Merchant/Motherland.md)
+- [Beets: Ophelia](../../Beets/Natalie_Merchant/Ophelia.md)
+- [Beets: The House Carpenter’s Daughter](../../Beets/Natalie_Merchant/The_House_Carpenter’s_Daughter.md)
+- [Beets: Tigerlily](../../Beets/Natalie_Merchant/Tigerlily.md)

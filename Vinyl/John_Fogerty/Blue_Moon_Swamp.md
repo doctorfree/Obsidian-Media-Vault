@@ -36,3 +36,10 @@ By John Fogerty
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](John_Fogerty.md)
+- [Beets: Blue Moon Swamp](../../Beets/John_Fogerty/Blue_Moon_Swamp.md)
+- [Beets: Premonition](../../Beets/John_Fogerty/Premonition.md)
+- [Roon: Blue Moon Swamp](../../Roon/John_Fogerty/Blue_Moon_Swamp.md)

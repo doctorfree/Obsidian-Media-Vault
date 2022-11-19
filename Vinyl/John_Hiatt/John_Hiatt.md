@@ -5,3 +5,8 @@
 ## Records
 
 - [Slug Line](Slug_Line.md)
+
+## See also
+
+- [Slug Line](Slug_Line.md)
+- [Beets: Slug Line](../../Beets/John_Hiatt/Slug_Line.md)

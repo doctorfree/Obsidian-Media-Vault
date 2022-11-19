@@ -39,3 +39,7 @@ By Hans Zimmer
 17. They Were Hunters
 18. Fight Night
 
+
+## See also
+
+- [Man of Steel (Original Motion Picture Soundtrack) (Deluxe Edition)](Man_of_Steel_Original_Motion_Picture_Soundtrack_Deluxe_Edition.md)

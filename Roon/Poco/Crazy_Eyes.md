@@ -29,3 +29,12 @@ By Poco
 7. Magnolia
 8. Let's Dance Tonight
 
+
+## See also
+
+- [A Good Feelin' To Know](A_Good_Feelin_To_Know.md)
+- [Beets: A Good Feelin' To Know](../../Beets/Poco/A_Good_Feelin_To_Know.md)
+- [Beets: From the Inside](../../Beets/Poco/From_the_Inside.md)
+- [Beets: Poco](../../Beets/Poco/Poco.md)
+- [Vinyl: Crazy Eyes](../../Vinyl/Poco/Crazy_Eyes.md)
+- [Vinyl: ](../../Vinyl/Poco/Poco.md)

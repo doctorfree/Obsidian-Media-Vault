@@ -5,3 +5,7 @@
 ## Records
 
 - [Small Town](Small_Town.md)
+
+## See also
+
+- [Small Town](Small_Town.md)

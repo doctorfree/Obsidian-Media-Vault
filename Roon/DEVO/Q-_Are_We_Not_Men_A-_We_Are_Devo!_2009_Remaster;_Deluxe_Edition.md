@@ -43,3 +43,14 @@ By DEVO
 21. Sloppy (I Saw My Baby Gettin')
 22. Shrivel-Up
 
+
+## See also
+
+- [Devo Live](Devo_Live.md)
+- [Duty Now for the Future (2010 Remaster; Deluxe Edition)](Duty_Now_for_the_Future_2010_Remaster;_Deluxe_Edition.md)
+- [Freedom of Choice (2009 Remaster; Deluxe Edition)](Freedom_of_Choice_2009_Remaster;_Deluxe_Edition.md)
+- [New Traditionalists (2010 Remaster; Deluxe Edition)](New_Traditionalists_2010_Remaster;_Deluxe_Edition.md)
+- [Oh No! It's Devo](Oh_No!_Its_Devo.md)
+- [Shout](Shout.md)
+- [Something for Everybody (Deluxe)](Something_for_Everybody_Deluxe.md)
+- [Somewhere With Devo](Somewhere_With_Devo.md)

@@ -43,3 +43,4 @@ By The Lovin' Spoonful
 - [Daydream](Daydream.md)
 - [Do You Believe In Magic](Do_You_Believe_In_Magic.md)
 - [Hums Of The Lovin' Spoonful](Hums_Of_The_Lovin_Spoonful.md)
+- [Beets: Daydream](../../Beets/The_Lovin_Spoonful/Daydream.md)

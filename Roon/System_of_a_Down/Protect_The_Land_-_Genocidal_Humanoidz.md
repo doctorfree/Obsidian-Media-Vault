@@ -23,3 +23,9 @@ By System of a Down
 1. Protect the Land
 2. Genocidal Humanoidz
 
+
+## See also
+
+- [Hypnotize](Hypnotize.md)
+- [Mezmerize](Mezmerize.md)
+- [Toxicity](Toxicity.md)

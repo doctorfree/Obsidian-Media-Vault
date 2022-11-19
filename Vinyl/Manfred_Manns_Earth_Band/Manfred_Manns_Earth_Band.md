@@ -5,3 +5,7 @@
 ## Records
 
 - [Blinded By The Light](Blinded_By_The_Light.md)
+
+## See also
+
+- [Blinded By The Light](Blinded_By_The_Light.md)

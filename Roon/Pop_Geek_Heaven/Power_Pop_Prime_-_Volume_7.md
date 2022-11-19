@@ -39,3 +39,7 @@ By Pop Geek Heaven
 17. Hope Is Fading
 18. Lonelyhearts
 
+
+## See also
+
+- [Beets: Power Pop Prime - Volume 7](../../Beets/Pop_Geek_Heaven/Power_Pop_Prime_-_Volume_7.md)

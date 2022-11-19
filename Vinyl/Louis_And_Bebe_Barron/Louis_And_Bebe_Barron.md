@@ -5,3 +5,7 @@
 ## Records
 
 - [Forbidden Planet](Forbidden_Planet.md)
+
+## See also
+
+- [Forbidden Planet](Forbidden_Planet.md)

@@ -156,3 +156,11 @@ By **Paramore**
 - **Track:** 11
 - **Year:** 2007
 
+
+## See also
+
+- [Roon: After Laughter](../../Roon/Paramore/After_Laughter.md)
+- [Roon: All We Know Is Falling (Deluxe) (Édition StudioMasters) (Deluxe Edition)](../../Roon/Paramore/All_We_Know_Is_Falling_Deluxe_Édition_StudioMasters_Deluxe_Edition.md)
+- [Roon: brand new eyes (Édition Studio Master)](../../Roon/Paramore/brand_new_eyes_Édition_Studio_Master.md)
+- [Roon: Paramore (Édition Studio Masters)](../../Roon/Paramore/Paramore_Édition_Studio_Masters.md)
+- [Roon: RIOT! (Édition StudioMasters)](../../Roon/Paramore/RIOT!_Édition_StudioMasters.md)

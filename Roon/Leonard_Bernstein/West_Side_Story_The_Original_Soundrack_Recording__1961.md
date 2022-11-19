@@ -40,3 +40,8 @@ By Leonard Bernstein
 18. West Side Story, film score: Finale
 19. West Side Story, film score: End Credits
 
+
+## See also
+
+- [An American in Paris / Rhapsody in Blue](An_American_in_Paris_-_Rhapsody_in_Blue.md)
+- [West Side Story (Original Motion Picture Soundtrack)](West_Side_Story_Original_Motion_Picture_Soundtrack.md)

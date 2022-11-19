@@ -31,3 +31,7 @@ By Arcade Fire
 9. Rebellion (Lies)
 10. In the Backseat
 
+
+## See also
+
+- [Beets: Funeral](../../Beets/Arcade_Fire/Funeral.md)

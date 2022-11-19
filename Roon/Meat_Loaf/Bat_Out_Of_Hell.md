@@ -28,3 +28,7 @@ By Meat Loaf
 6. Paradise by the Dashboard Light
 7. For Crying Out Loud
 
+
+## See also
+
+- [Beets: I'd Lie for You [#2]](../../Beets/Meat_Loaf/Id_Lie_for_You_[2].md)

@@ -31,3 +31,11 @@ By Cher
 9. Touch and Go
 10. One Honest Man
 
+
+## See also
+
+- [Burlesque Original Motion Picture Soundtrack](Burlesque_Original_Motion_Picture_Soundtrack.md)
+- [Dancing Queen](Dancing_Queen.md)
+- [Half-Breed](Half-Breed.md)
+- [Heart Of Stone](Heart_Of_Stone.md)
+- [Beets: Half‐Breed](../../Beets/Cher/Half‐Breed.md)

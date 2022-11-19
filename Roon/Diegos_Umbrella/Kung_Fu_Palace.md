@@ -32,3 +32,11 @@ By Diego's Umbrella
 10. Waltz of Anne-Marie
 11. The Last Stand
 
+
+## See also
+
+- [Double Panther](Double_Panther.md)
+- [Edjka](Edjka.md)
+- [Proper Cowboy](Proper_Cowboy.md)
+- [The Christmas Album](The_Christmas_Album.md)
+- [Viva La Juerga](Viva_La_Juerga.md)

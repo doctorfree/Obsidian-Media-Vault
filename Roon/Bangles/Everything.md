@@ -34,3 +34,10 @@ By Bangles
 12. Waiting for You
 13. Crash and Burn
 
+
+## See also
+
+- [Different Light (Expanded Edition)](Different_Light_Expanded_Edition.md)
+- [The Essential Bangles](The_Essential_Bangles.md)
+- [Vinyl: ](../../Vinyl/Bangles/Bangles.md)
+- [Vinyl: Different Light](../../Vinyl/Bangles/Different_Light.md)

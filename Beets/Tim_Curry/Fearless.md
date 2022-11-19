@@ -134,3 +134,8 @@ By **Tim Curry**
 - **Track:** 09
 - **Year:** 1979
 
+
+## See also
+
+- [Vinyl: Fearless](../../Vinyl/Tim_Curry/Fearless.md)
+- [Vinyl: ](../../Vinyl/Tim_Curry/Tim_Curry.md)

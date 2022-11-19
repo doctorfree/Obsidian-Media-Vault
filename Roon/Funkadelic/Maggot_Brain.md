@@ -31,3 +31,13 @@ By Funkadelic
 9. I Miss My Baby
 10. Maggot Brain (alternate mix)
 
+
+## See also
+
+- [Funkadelic](Funkadelic.md)
+- [Beets: Cosmic Slop](../../Beets/Funkadelic/Cosmic_Slop.md)
+- [Beets: Funkadelic](../../Beets/Funkadelic/Funkadelic.md)
+- [Beets: Hardcore Jollies](../../Beets/Funkadelic/Hardcore_Jollies.md)
+- [Beets: Maggot Brain](../../Beets/Funkadelic/Maggot_Brain.md)
+- [Vinyl: ](../../Vinyl/Funkadelic/Funkadelic.md)
+- [Vinyl: Maggot Brain](../../Vinyl/Funkadelic/Maggot_Brain.md)

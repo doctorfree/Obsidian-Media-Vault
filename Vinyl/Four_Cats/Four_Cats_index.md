@@ -5,3 +5,7 @@
 ## Vinyl
 
 - [Four Cats](Four_Cats.md)
+
+## See also
+
+- [Four Cats](Four_Cats.md)

@@ -26,3 +26,13 @@ By The Mothers of Invention
 4. Magdalena
 5. Dog Breath
 
+
+## See also
+
+- [Absolutely Free](Absolutely_Free.md)
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Fillmore East - June 1971](Fillmore_East_-_June_1971.md)
+- [One Size Fits All](One_Size_Fits_All.md)
+- [Over-Nite Sensation](Over-Nite_Sensation.md)
+- [Weasels Ripped My Flesh](Weasels_Ripped_My_Flesh.md)
+- [We're Only In It For The Money](Were_Only_In_It_For_The_Money.md)

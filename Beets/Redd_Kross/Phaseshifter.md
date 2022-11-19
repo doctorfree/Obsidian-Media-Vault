@@ -189,3 +189,8 @@ By **Redd Kross**
 - **Track:** 14
 - **Year:** 1997
 
+
+## See also
+
+- [Show World](Show_World.md)
+- [Third Eye](Third_Eye.md)

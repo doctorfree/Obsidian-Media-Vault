@@ -156,3 +156,8 @@ By **Redd Kross**
 - **Track:** 11
 - **Year:** 1990
 
+
+## See also
+
+- [Phaseshifter](Phaseshifter.md)
+- [Third Eye](Third_Eye.md)

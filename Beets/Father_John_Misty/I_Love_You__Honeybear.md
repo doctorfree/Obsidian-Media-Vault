@@ -475,3 +475,26 @@ By **FATHER JOHN MISTY**
 - **Track:** 20
 - **Year:** 2020
 
+
+## See also
+
+- [Anthem +3](Anthem_+3.md)
+- [Fear Fun](Fear_Fun.md)
+- [God’s Favorite Customer](God’s_Favorite_Customer.md)
+- [Off-Key In Hamburg](Off-Key_In_Hamburg.md)
+- [Pure Comedy](Pure_Comedy.md)
+- [CD: ](../../CD/Father_John_Misty/Father_John_Misty.md)
+- [CD: Fear Fun](../../CD/Father_John_Misty/Fear_Fun.md)
+- [Roon: Anthem +3](../../Roon/Father_John_Misty/Anthem_+3.md)
+- [Roon: Chateau Lobby #4 (in C for Two Virgins)](../../Roon/Father_John_Misty/Chateau_Lobby_4_in_C_for_Two_Virgins.md)
+- [Roon: Chloë and the Next 20th Century](../../Roon/Father_John_Misty/Chloë_and_the_Next_20th_Century.md)
+- [Roon: Fear Fun](../../Roon/Father_John_Misty/Fear_Fun.md)
+- [Roon: God's Favorite Customer](../../Roon/Father_John_Misty/Gods_Favorite_Customer.md)
+- [Roon: I Love You, Honeybear](../../Roon/Father_John_Misty/I_Love_You__Honeybear.md)
+- [Roon: Off-Key in Hamburg](../../Roon/Father_John_Misty/Off-Key_in_Hamburg.md)
+- [Roon: Pure Comedy](../../Roon/Father_John_Misty/Pure_Comedy.md)
+- [Roon: Things It Would Have Been Helpful to Know Before the Revolution (The Haxan Cloak Remix)](../../Roon/Father_John_Misty/Things_It_Would_Have_Been_Helpful_to_Know_Before_the_Revolution_The_Haxan_Cloak_Remix.md)
+- [Vinyl: ](../../Vinyl/Father_John_Misty/Father_John_Misty.md)
+- [Vinyl: Fear Fun](../../Vinyl/Father_John_Misty/Fear_Fun.md)
+- [Vinyl: "I Love You, Honeybear"](../../Vinyl/Father_John_Misty/I_Love_You__Honeybear.md)
+- [Vinyl: Pure Comedy](../../Vinyl/Father_John_Misty/Pure_Comedy.md)

@@ -31,3 +31,12 @@ By The Polyphonic Spree
 9. Section 19: When the Fool Becomes a King
 10. Section 20: Together We're Heavy
 
+
+## See also
+
+- [The Fragile Army](The_Fragile_Army.md)
+- [Beets: The Fragile Army](../../Beets/The_Polyphonic_Spree/The_Fragile_Army.md)
+- [Beets: Together We’re Heavy](../../Beets/The_Polyphonic_Spree/Together_We’re_Heavy.md)
+- [Beets: Yes, It's True](../../Beets/The_Polyphonic_Spree/Yes__Its_True.md)
+- [CD: ](../../CD/The_Polyphonic_Spree/The_Polyphonic_Spree.md)
+- [CD: "Yes, It's True"](../../CD/The_Polyphonic_Spree/Yes__Its_True.md)

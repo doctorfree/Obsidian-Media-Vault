@@ -36,3 +36,8 @@ By Seatrain
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Seatrain_index.md)
+- [Beets: Seatrain](../../Beets/Seatrain/Seatrain.md)

@@ -32,3 +32,9 @@ By Beat Farmers
 10. Texas
 11. Big River
 
+
+## See also
+
+- [Poor And Famous](Poor_And_Famous.md)
+- [Tales of the New West (Remastered)](Tales_of_the_New_West_Remastered.md)
+- [Van Go](Van_Go.md)

@@ -46,3 +46,10 @@ By **Kaleidoscope**
 - **Track:** 01
 - **Year:** 2005
 
+
+## See also
+
+- [Roon: A Beacon From Mars (Expanded Edition)](../../Roon/Kaleidoscope/A_Beacon_From_Mars_Expanded_Edition.md)
+- [Roon: Bernice (Expanded Edition)](../../Roon/Kaleidoscope/Bernice_Expanded_Edition.md)
+- [Roon: Incredible Kaleidoscope (Expanded Edition)](../../Roon/Kaleidoscope/Incredible_Kaleidoscope_Expanded_Edition.md)
+- [Roon: Side Trips (Expanded Edition)](../../Roon/Kaleidoscope/Side_Trips_Expanded_Edition.md)

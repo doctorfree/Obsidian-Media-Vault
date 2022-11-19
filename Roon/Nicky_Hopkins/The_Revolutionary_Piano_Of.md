@@ -33,3 +33,7 @@ By Nicky Hopkins
 11. Paris Bells
 12. The Ilejistry Pig
 
+
+## See also
+
+- [The Tin Man Was A Dreamer (Album Version)](The_Tin_Man_Was_A_Dreamer_Album_Version.md)

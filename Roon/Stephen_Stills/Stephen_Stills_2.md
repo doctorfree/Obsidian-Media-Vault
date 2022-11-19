@@ -33,3 +33,13 @@ By Stephen Stills
 11. Marianne
 12. Bluebird Revisited
 
+
+## See also
+
+- [Carry On](Carry_On.md)
+- [Manassas](Manassas.md)
+- [Stephen Stills](Stephen_Stills.md)
+- [Super Session](Super_Session.md)
+- [Beets: Manassas](../../Beets/Stephen_Stills/Manassas.md)
+- [CD: Manassas](../../CD/Stephen_Stills/Manassas.md)
+- [CD: ](../../CD/Stephen_Stills/Stephen_Stills.md)

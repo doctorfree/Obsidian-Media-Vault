@@ -33,3 +33,14 @@ By Ty Segall
 
 ## U
 
+
+## See also
+
+- [First Taste](First_Taste.md)
+- [Freedom's Goblin](Freedoms_Goblin.md)
+- [Fudge Sandwich](Fudge_Sandwich.md)
+- [Manipulator](Manipulator.md)
+- [Beets: Manipulator](../../Beets/Ty_Segall/Manipulator.md)
+- [Beets: Ty Segall](../../Beets/Ty_Segall/Ty_Segall.md)
+- [Vinyl: ](../../Vinyl/Ty_Segall/Ty_Segall_index.md)
+- [Vinyl: Ty Segall](../../Vinyl/Ty_Segall/Ty_Segall.md)

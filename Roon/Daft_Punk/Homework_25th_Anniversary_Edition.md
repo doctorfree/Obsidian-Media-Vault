@@ -52,3 +52,15 @@ By Daft Punk
 2-14 Teachers [Extended Mix]
 2-15 Revolution 909 [Revolution Accapella]
 
+
+## See also
+
+- [Daft Club](Daft_Club.md)
+- [Discovery](Discovery.md)
+- [Harder Better Faster Stronger](Harder_Better_Faster_Stronger.md)
+- [Homework](Homework.md)
+- [Human After All](Human_After_All.md)
+- [Human After All (Remixes)](Human_After_All_Remixes.md)
+- [Musique Vol 1 (1993 - 2005)](Musique_Vol_1_1993_-_2005.md)
+- [TRON](TRON-_Legacy_-_The_Complete_Edition_Original_Motion_Picture_Soundtrack.md)
+- [Beets: Discovery](../../Beets/Daft_Punk/Discovery.md)

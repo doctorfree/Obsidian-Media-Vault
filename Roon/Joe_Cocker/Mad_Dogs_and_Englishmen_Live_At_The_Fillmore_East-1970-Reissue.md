@@ -40,3 +40,9 @@ By Joe Cocker
 18. The Letter
 19. Delta Lady
 
+
+## See also
+
+- [With A Little Help From My Friends](With_A_Little_Help_From_My_Friends.md)
+- [Vinyl: ](../../Vinyl/Joe_Cocker/Joe_Cocker.md)
+- [Vinyl: Mad Dogs & Englishmen](../../Vinyl/Joe_Cocker/Mad_Dogs_and_Englishmen.md)

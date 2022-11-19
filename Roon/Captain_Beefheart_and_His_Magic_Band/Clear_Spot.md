@@ -33,3 +33,10 @@ By Captain Beefheart & His Magic Band
 11. Big-Eyed Beans From Venus
 12. Golden Birdies
 
+
+## See also
+
+- [Lick My Decals Off, Baby](Lick_My_Decals_Off__Baby.md)
+- [Safe As Milk](Safe_As_Milk.md)
+- [Shiny Beast (Bat Chain Puller)](Shiny_Beast_Bat_Chain_Puller.md)
+- [Beets: The Spotlight Kid / Clear Spot](../../Beets/Captain_Beefheart_and_His_Magic_Band/The_Spotlight_Kid_-_Clear_Spot.md)

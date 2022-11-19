@@ -36,3 +36,11 @@ By Captain Beefheart
 14. The Clouds Are Full of Wine (Not Whiskey or Rye)
 15. Flash Gordon's Ape
 
+
+## See also
+
+- [Bongo Fury (Live)](Bongo_Fury_Live.md)
+- [Clear Spot](Clear_Spot.md)
+- [Safe As Milk](Safe_As_Milk.md)
+- [Shiny Beast (Bat Chain Puller)](Shiny_Beast_Bat_Chain_Puller.md)
+- [The Spotlight Kid](The_Spotlight_Kid.md)

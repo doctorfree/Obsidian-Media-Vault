@@ -78,3 +78,8 @@ By Matchbox Twenty
 5-11 Like Sugar
 5-12 Sleeping At The Wheel
 
+
+## See also
+
+- [Mad Season (Deluxe) (Édition StudioMasters) (Deluxe Edition)](Mad_Season_Deluxe_Édition_StudioMasters_Deluxe_Edition.md)
+- [Beets: Mad Season](../../Beets/Matchbox_Twenty/Mad_Season.md)

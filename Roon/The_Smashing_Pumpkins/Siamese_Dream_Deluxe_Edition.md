@@ -52,3 +52,7 @@ By The Smashing Pumpkins
 2-17 Disarm [Acoustic Mix]
 2-18 Soma [Instrumental Mix]
 
+
+## See also
+
+- [Mellon Collie And The Infinite Sadness](Mellon_Collie_And_The_Infinite_Sadness.md)

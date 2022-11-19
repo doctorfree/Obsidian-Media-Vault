@@ -30,3 +30,8 @@ By The Brothers Johnson
 8. Dancin' and Prancin'
 9. The Devil
 
+
+## See also
+
+- [Light Up The Night](Light_Up_The_Night.md)
+- [Right On Time](Right_On_Time.md)

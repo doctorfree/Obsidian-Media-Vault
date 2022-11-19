@@ -31,3 +31,12 @@ By Cheap Trick
 9. Goodnight
 10. Clock Strikes Ten
 
+
+## See also
+
+- [All Shook Up](All_Shook_Up.md)
+- [Cheap Trick](Cheap_Trick.md)
+- [Dream Police](Dream_Police.md)
+- [Heaven Tonight](Heaven_Tonight.md)
+- [In Another World](In_Another_World.md)
+- [In Color](In_Color.md)

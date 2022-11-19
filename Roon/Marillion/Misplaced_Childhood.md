@@ -31,3 +31,12 @@ By Marillion
 9. Childhood's End?
 10. White Feather
 
+
+## See also
+
+- [Brave (Deluxe Edition)](Brave_Deluxe_Edition.md)
+- [Beets: Clutching at Straws](../../Beets/Marillion/Clutching_at_Straws.md)
+- [Beets: Misplaced Childhood (2017 vinyl remaster)](../../Beets/Marillion/Misplaced_Childhood_2017_vinyl_remaster.md)
+- [Beets: Misplaced Childhood](../../Beets/Marillion/Misplaced_Childhood.md)
+- [Vinyl: ](../../Vinyl/Marillion/Marillion.md)
+- [Vinyl: Misplaced Childhood](../../Vinyl/Marillion/Misplaced_Childhood.md)

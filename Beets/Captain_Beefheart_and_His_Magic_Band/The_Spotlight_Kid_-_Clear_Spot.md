@@ -277,3 +277,10 @@ By **Captain Beefheart & His Magic Band**
 - **Track:** 22
 - **Year:** 1990
 
+
+## See also
+
+- [Roon: Clear Spot](../../Roon/Captain_Beefheart_and_His_Magic_Band/Clear_Spot.md)
+- [Roon: Lick My Decals Off, Baby](../../Roon/Captain_Beefheart_and_His_Magic_Band/Lick_My_Decals_Off__Baby.md)
+- [Roon: Safe As Milk](../../Roon/Captain_Beefheart_and_His_Magic_Band/Safe_As_Milk.md)
+- [Roon: Shiny Beast (Bat Chain Puller)](../../Roon/Captain_Beefheart_and_His_Magic_Band/Shiny_Beast_Bat_Chain_Puller.md)

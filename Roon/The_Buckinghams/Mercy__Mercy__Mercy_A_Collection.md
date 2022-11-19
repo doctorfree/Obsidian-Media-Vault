@@ -39,3 +39,8 @@ By The Buckinghams
 17. I Got a Feelin'
 18. You (previously unreleased)
 
+
+## See also
+
+- [Kind of a Drag](Kind_of_a_Drag.md)
+- [Beets: Kind of a Drag](../../Beets/The_Buckinghams/Kind_of_a_Drag.md)

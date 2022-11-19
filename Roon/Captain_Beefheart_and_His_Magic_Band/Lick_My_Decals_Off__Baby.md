@@ -36,3 +36,10 @@ By Captain Beefheart & His Magic Band
 14. The Clouds Are Full of Wine (Not Whiskey or Rye)
 15. Flash Gordon's Ape
 
+
+## See also
+
+- [Clear Spot](Clear_Spot.md)
+- [Safe As Milk](Safe_As_Milk.md)
+- [Shiny Beast (Bat Chain Puller)](Shiny_Beast_Bat_Chain_Puller.md)
+- [Beets: The Spotlight Kid / Clear Spot](../../Beets/Captain_Beefheart_and_His_Magic_Band/The_Spotlight_Kid_-_Clear_Spot.md)

@@ -36,3 +36,13 @@ By Funkadelic
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Funkadelic.md)
+- [Beets: Cosmic Slop](../../Beets/Funkadelic/Cosmic_Slop.md)
+- [Beets: Funkadelic](../../Beets/Funkadelic/Funkadelic.md)
+- [Beets: Hardcore Jollies](../../Beets/Funkadelic/Hardcore_Jollies.md)
+- [Beets: Maggot Brain](../../Beets/Funkadelic/Maggot_Brain.md)
+- [Roon: Funkadelic](../../Roon/Funkadelic/Funkadelic.md)
+- [Roon: Maggot Brain](../../Roon/Funkadelic/Maggot_Brain.md)

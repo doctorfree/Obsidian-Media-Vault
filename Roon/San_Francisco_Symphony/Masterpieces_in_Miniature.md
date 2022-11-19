@@ -33,3 +33,12 @@ By San Francisco Symphony
 11. The Last Spring, Op. 34/2
 12. Sylvia: Cortège de Bacchus
 
+
+## See also
+
+- [Bernstein](Bernstein-_West_Side_Story.md)
+- [Copland](Copland-_Symphony_No_3.md)
+- [Mahler](Mahler-_Symphony_No_6.md)
+- [Piano Concerto No. 3 & Mass in C](Piano_Concerto_No_3_and_Mass_in_C.md)
+- [Tchaikovsky](Tchaikovsky-_Symphony_No_5_and_Romeo_and_Juliet__Fantasy-Overture.md)
+- [Tchaikovsky](Tchaikovsky-_Symphony_No_6__Pathétique.md)

@@ -5,3 +5,7 @@
 ## Vinyl
 
 - [Blood, Sweat And Tears](Blood__Sweat_And_Tears.md)
+
+## See also
+
+- ["Blood, Sweat And Tears"](Blood__Sweat_And_Tears.md)

@@ -5,3 +5,8 @@
 ## Records
 
 - [Tell Me I'm Pretty](Tell_Me_Im_Pretty.md)
+
+## See also
+
+- [Tell Me I'm Pretty](Tell_Me_Im_Pretty.md)
+- [Beets: Tell Me I’m Pretty](../../Beets/Cage_The_Elephant/Tell_Me_I’m_Pretty.md)

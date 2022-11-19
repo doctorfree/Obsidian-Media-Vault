@@ -189,3 +189,10 @@ By **AFI**
 - **Track:** 14
 - **Year:** 1997
 
+
+## See also
+
+- [Answer That and Stay Fashionable](Answer_That_and_Stay_Fashionable.md)
+- [Black Sails in the Sunset](Black_Sails_in_the_Sunset.md)
+- [Shut Your Mouth and Open Your Eyes](Shut_Your_Mouth_and_Open_Your_Eyes.md)
+- [Very Proud Of Ya](Very_Proud_Of_Ya.md)

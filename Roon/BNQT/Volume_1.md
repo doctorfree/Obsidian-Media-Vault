@@ -31,3 +31,8 @@ By BNQT
 9. Tara
 10. Fighting the World
 
+
+## See also
+
+- [Vinyl: ](../../Vinyl/BNQT/BNQT.md)
+- [Vinyl: Volume 1](../../Vinyl/BNQT/Volume_1.md)

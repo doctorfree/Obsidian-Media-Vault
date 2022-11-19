@@ -33,3 +33,10 @@ By The Stone Roses
 11. I Am the Resurrection
 12. [Untitled]
 
+
+## See also
+
+- [The Very Best of the Stone Roses](The_Very_Best_of_the_Stone_Roses.md)
+- [Beets: The Stone Roses](../../Beets/The_Stone_Roses/The_Stone_Roses.md)
+- [Beets: The Very Best of the Stone Roses](../../Beets/The_Stone_Roses/The_Very_Best_of_the_Stone_Roses.md)
+- [Beets: Turns Into Stone](../../Beets/The_Stone_Roses/Turns_Into_Stone.md)

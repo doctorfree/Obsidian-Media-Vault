@@ -5,3 +5,7 @@
 ## Records
 
 - [Baron Von Tollbooth & The Chrome Nun](Baron_Von_Tollbooth_and_The_Chrome_Nun.md)
+
+## See also
+
+- [Baron Von Tollbooth & The Chrome Nun](Baron_Von_Tollbooth_and_The_Chrome_Nun.md)

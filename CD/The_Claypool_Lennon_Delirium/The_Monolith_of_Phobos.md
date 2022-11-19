@@ -42,3 +42,7 @@ By The Claypool Lennon Delirium
 - [Into The Sun](../Sean_Lennon/Into_The_Sun.md)
 - [Rosencrantz And Guildenstern Are Undead](../Sean_Lennon/Rosencrautz_And_Guildenstern_Are_Undead.md)
 - [Acoustic Sessions](../The_Ghost_Of_A_Saber_Tooth_Tiger/Acoustic_Sessions.md)
+- [Beets: Lime and Limpid Green](../../Beets/The_Claypool_Lennon_Delirium/Lime_and_Limpid_Green.md)
+- [Beets: Monolith of Phobos](../../Beets/The_Claypool_Lennon_Delirium/Monolith_of_Phobos.md)
+- [Vinyl: Lime And Limpid Green](../../Vinyl/The_Claypool_Lennon_Delirium/Lime_And_Limpid_Green.md)
+- [Vinyl: ](../../Vinyl/The_Claypool_Lennon_Delirium/The_Claypool_Lennon_Delirium.md)

@@ -35,3 +35,8 @@ By Paul Revere & the Raiders
 13. Hungry (alternate version)
 14. Great Airplane Strike
 
+
+## See also
+
+- [Greatest Hits (Expanded Edition)](Greatest_Hits_Expanded_Edition.md)
+- [Midnight Ride](Midnight_Ride.md)

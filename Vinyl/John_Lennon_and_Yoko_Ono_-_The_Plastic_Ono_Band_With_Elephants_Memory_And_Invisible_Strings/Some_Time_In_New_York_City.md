@@ -36,3 +36,7 @@ By John Lennon & Yoko Ono / The Plastic Ono Band With Elephants Memory And Invis
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](John_Lennon_and_Yoko_Ono_-_The_Plastic_Ono_Band_With_Elephants_Memory_And_Invisible_Strings.md)

@@ -26,3 +26,7 @@ By Tommy James & the Shondells
 4. Mony Mony
 5. Crimson and Clover [Long Version]
 
+
+## See also
+
+- [Tommy James and The Shondells](Tommy_James_and_The_Shondells-_Anthology.md)

@@ -343,3 +343,11 @@ By **The Dave Clark Five**
 - **Track:** 28
 - **Year:** 2008
 
+
+## See also
+
+- [Coast to Coast](Coast_to_Coast.md)
+- [The Dave Clark Five](The_Dave_Clark_Five.md)
+- [Roon: All the Hits (2019 - Remaster)](../../Roon/The_Dave_Clark_Five/All_the_Hits_2019_-_Remaster.md)
+- [Vinyl: Because / Theme Without A Name](../../Vinyl/The_Dave_Clark_Five/Because_-_Theme_Without_A_Name.md)
+- [Vinyl: ](../../Vinyl/The_Dave_Clark_Five/The_Dave_Clark_Five.md)

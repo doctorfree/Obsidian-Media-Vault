@@ -36,3 +36,7 @@ By Z6
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Z6.md)

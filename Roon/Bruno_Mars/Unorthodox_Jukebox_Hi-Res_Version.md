@@ -31,3 +31,8 @@ By Bruno Mars
 9. Money Make Her Smile
 10. If I Knew
 
+
+## See also
+
+- [24K Magic](24K_Magic.md)
+- [Doo-Wops & Hooligans](Doo-Wops_and_Hooligans.md)

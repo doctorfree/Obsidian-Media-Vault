@@ -5,3 +5,7 @@
 ## Records
 
 - [Heartbeat](Heartbeat.md)
+
+## See also
+
+- [Heartbeat](Heartbeat.md)

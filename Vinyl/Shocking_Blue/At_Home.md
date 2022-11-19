@@ -36,3 +36,9 @@ By Shocking Blue
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Shocking_Blue.md)
+- [Beets: At Home](../../Beets/Shocking_Blue/At_Home.md)
+- [Roon: At Home](../../Roon/Shocking_Blue/At_Home.md)

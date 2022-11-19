@@ -32,3 +32,8 @@ By A Fine Frenzy
 10. Stood Up
 11. The Beacon
 
+
+## See also
+
+- [Beets: Bomb in a Birdcage](../../Beets/A_Fine_Frenzy/Bomb_in_a_Birdcage.md)
+- [Beets: One Cell in the Sea](../../Beets/A_Fine_Frenzy/One_Cell_in_the_Sea.md)

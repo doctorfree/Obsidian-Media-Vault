@@ -167,3 +167,10 @@ By **Mott The Hoople**
 - **Track:** 03
 - **Year:** 1973
 
+
+## See also
+
+- [Mott](Mott.md)
+- [Vinyl: All The Young Dudes](../../Vinyl/Mott_The_Hoople/All_The_Young_Dudes.md)
+- [Vinyl: Mott](../../Vinyl/Mott_The_Hoople/Mott.md)
+- [Vinyl: ](../../Vinyl/Mott_The_Hoople/Mott_The_Hoople.md)

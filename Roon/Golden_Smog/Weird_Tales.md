@@ -36,3 +36,10 @@ By Golden Smog
 14. All the Same to Me
 15. Jennifer Save Me
 
+
+## See also
+
+- [Down By The Old Mainstream](Down_By_The_Old_Mainstream.md)
+- [On Golden Smog (EP)](On_Golden_Smog_EP.md)
+- [Beets: Down by the Old Mainstream](../../Beets/Golden_Smog/Down_by_the_Old_Mainstream.md)
+- [Beets: Weird Tales](../../Beets/Golden_Smog/Weird_Tales.md)

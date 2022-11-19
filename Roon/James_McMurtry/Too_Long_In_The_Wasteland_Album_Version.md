@@ -32,3 +32,9 @@ By James McMurtry
 10. Angeline
 11. Talkin' at the Texaco
 
+
+## See also
+
+- [Childish Things](Childish_Things.md)
+- [Complicated Game (James McMurtry)](Complicated_Game_James_McMurtry.md)
+- [Just Us Kids](Just_Us_Kids.md)

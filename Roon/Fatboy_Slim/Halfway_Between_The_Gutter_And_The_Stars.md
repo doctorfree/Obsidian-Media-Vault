@@ -33,3 +33,10 @@ By Fatboy Slim
 11. Song for Shelter
 12. Talking Bout My Baby (reprise)
 
+
+## See also
+
+- [Better Living Through Chemistry](Better_Living_Through_Chemistry.md)
+- [Palookaville](Palookaville.md)
+- [The Greatest Hits](The_Greatest_Hits-_Why_Try_Harder.md)
+- [You've Come A Long Way Baby](Youve_Come_A_Long_Way_Baby.md)

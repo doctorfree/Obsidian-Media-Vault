@@ -101,3 +101,11 @@ By **Wall of Voodoo**
 - **Track:** 06
 - **Year:** 1980
 
+
+## See also
+
+- [Wall of Voodoo](Wall_of_Voodoo.md)
+- [Vinyl: Dark Continent](../../Vinyl/Wall_Of_Voodoo/Dark_Continent.md)
+- [Vinyl: Mexican Radio](../../Vinyl/Wall_Of_Voodoo/Mexican_Radio.md)
+- [Vinyl: ](../../Vinyl/Wall_Of_Voodoo/Wall_Of_Voodoo_index.md)
+- [Vinyl: Wall Of Voodoo](../../Vinyl/Wall_Of_Voodoo/Wall_Of_Voodoo.md)

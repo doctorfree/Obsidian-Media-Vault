@@ -112,3 +112,18 @@ By **Uriah Heep**
 - **Track:** 07
 - **Year:** 1971
 
+
+## See also
+
+- [20th Century Masters](20th_Century_Masters.md)
+- [Look at Yourself](Look_at_Yourself.md)
+- [The Magician’s Birthday](The_Magician’s_Birthday.md)
+- [Roon: Demons and Wizards (Expanded Version)](../../Roon/Uriah_Heep/Demons_and_Wizards_Expanded_Version.md)
+- [Roon: Look At Yourself (Expanded Version)](../../Roon/Uriah_Heep/Look_At_Yourself_Expanded_Version.md)
+- [Roon: The Magician's Birthday](../../Roon/Uriah_Heep/The_Magicians_Birthday.md)
+- [Roon: Travellers In Time](../../Roon/Uriah_Heep/Travellers_In_Time-_Anthology__Vol_1.md)
+- [Roon: Very 'Eavy, Very 'Umble (Expanded Version)](../../Roon/Uriah_Heep/Very_Eavy__Very_Umble_Expanded_Version.md)
+- [Vinyl: Demons And Wizards](../../Vinyl/Uriah_Heep/Demons_And_Wizards.md)
+- [Vinyl: Look At Yourself](../../Vinyl/Uriah_Heep/Look_At_Yourself.md)
+- [Vinyl: The Magician's Birthday](../../Vinyl/Uriah_Heep/The_Magicians_Birthday.md)
+- [Vinyl: ](../../Vinyl/Uriah_Heep/Uriah_Heep.md)

@@ -31,3 +31,8 @@ By Alice Cooper (band)
 9. Mary Ann
 10. I Love the Dead
 
+
+## See also
+
+- [Alice Cooper's Greatest Hits](Alice_Coopers_Greatest_Hits.md)
+- [School's Out](Schools_Out.md)

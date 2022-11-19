@@ -34,3 +34,12 @@ By Pixies
 12. I'm Amazed
 13. Brick Is Red
 
+
+## See also
+
+- [Bossanova](Bossanova.md)
+- [Doolittle](Doolittle.md)
+- [Trompe le Monde](Trompe_le_Monde.md)
+- [Beets: Death to the Pixies](../../Beets/Pixies/Death_to_the_Pixies.md)
+- [Beets: Doolittle](../../Beets/Pixies/Doolittle.md)
+- [Beets: Fight Club OST](../../Beets/Pixies/Fight_Club_OST.md)

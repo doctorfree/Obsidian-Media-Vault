@@ -35,3 +35,13 @@ By Burlacticus Undertow
 13. 7th And Brommer
 14. Burlizer
 
+
+## See also
+
+- [Burlastical](Burlastical.md)
+- [Burlicious](Burlicious.md)
+- [Demo](Demo.md)
+- [Beets: Burlacticus Undertow](../../Beets/Burlacticus_Undertow/Burlacticus_Undertow.md)
+- [Beets: Burlastical](../../Beets/Burlacticus_Undertow/Burlastical.md)
+- [Beets: Burlicious](../../Beets/Burlacticus_Undertow/Burlicious.md)
+- [Beets: Demo](../../Beets/Burlacticus_Undertow/Demo.md)

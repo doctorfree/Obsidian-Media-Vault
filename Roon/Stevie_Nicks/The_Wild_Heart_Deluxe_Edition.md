@@ -40,3 +40,8 @@ By Stevie Nicks
 2-8 Are You Mine [Demo]
 2-9 Wild Heart [Session]
 
+
+## See also
+
+- [Bella Donna (Deluxe Edition)](Bella_Donna_Deluxe_Edition.md)
+- [The Other Side of the Mirror](The_Other_Side_of_the_Mirror.md)

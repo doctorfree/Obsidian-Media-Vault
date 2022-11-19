@@ -36,3 +36,8 @@ By Blue Cheer
 - Speed: 33 rpm
 - Weight: 
 
+
+## See also
+
+- [](Blue_Cheer.md)
+- [Beets: Oh! Pleasant Hope](../../Beets/Blue_Cheer/Oh!_Pleasant_Hope.md)

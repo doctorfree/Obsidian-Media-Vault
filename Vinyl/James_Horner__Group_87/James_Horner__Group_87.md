@@ -5,3 +5,7 @@
 ## Records
 
 - [The Search For Spock (Theme From ""Star Trek III"")](The_Search_For_Spock_Theme_From_Star_Trek_III.md)
+
+## See also
+
+- ["The Search For Spock (Theme From ""Star Trek III"")"](The_Search_For_Spock_Theme_From_Star_Trek_III.md)

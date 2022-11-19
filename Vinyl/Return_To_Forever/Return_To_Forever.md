@@ -5,3 +5,7 @@
 ## Records
 
 - [Romantic Warrior](Romantic_Warrior.md)
+
+## See also
+
+- [Romantic Warrior](Romantic_Warrior.md)

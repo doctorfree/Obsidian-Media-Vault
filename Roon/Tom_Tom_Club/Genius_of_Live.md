@@ -44,3 +44,13 @@ By Tom Tom Club
 2-10 Genius of Love [2001 King Coya Remix]
 2-11 Genius of Love [2001 Señor Coconut Atomtom's Deutscher Heaven Remix]
 
+
+## See also
+
+- [Close To The Bone](Close_To_The_Bone.md)
+- [The Good The Bad and The Funky](The_Good_The_Bad_and_The_Funky.md)
+- [Tom Tom Club](Tom_Tom_Club.md)
+- [Beets: Boom Boom Chi Boom Boom](../../Beets/Tom_Tom_Club/Boom_Boom_Chi_Boom_Boom.md)
+- [Beets: Tom Tom Club](../../Beets/Tom_Tom_Club/Tom_Tom_Club.md)
+- [Vinyl: ](../../Vinyl/Tom_Tom_Club/Tom_Tom_Club_index.md)
+- [Vinyl: Tom Tom Club](../../Vinyl/Tom_Tom_Club/Tom_Tom_Club.md)

@@ -32,3 +32,10 @@ By Fatboy Slim
 10. Love Island
 11. Acid 8000
 
+
+## See also
+
+- [Better Living Through Chemistry](Better_Living_Through_Chemistry.md)
+- [Halfway Between The Gutter And The Stars](Halfway_Between_The_Gutter_And_The_Stars.md)
+- [Palookaville](Palookaville.md)
+- [The Greatest Hits](The_Greatest_Hits-_Why_Try_Harder.md)

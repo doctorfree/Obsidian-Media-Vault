@@ -32,3 +32,12 @@ By INXS
 10. On My Way
 11. Hear That Sound
 
+
+## See also
+
+- [Kick (2014 Remaster)](Kick_2014_Remaster.md)
+- [Welcome to Wherever You Are (2014 Remaster)](Welcome_to_Wherever_You_Are_2014_Remaster.md)
+- [CD: ](../../CD/INXS/INXS.md)
+- [CD: X - Gatefold Cover](../../CD/INXS/X_-_Gatefold_Cover.md)
+- [Vinyl: ](../../Vinyl/INXS/INXS.md)
+- [Vinyl: Listen Like Thieves](../../Vinyl/INXS/Listen_Like_Thieves.md)

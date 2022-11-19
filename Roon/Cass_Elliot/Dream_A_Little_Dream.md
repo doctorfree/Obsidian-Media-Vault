@@ -33,3 +33,10 @@ By Cass Elliot
 11. Burn Your Hatred
 12. Sweet Believer
 
+
+## See also
+
+- [Bubblegum, Lemonade &...Something For Mama](Bubblegum__Lemonade_andSomething_For_Mama.md)
+- [Dave Mason & Cass Elliot](Dave_Mason_and_Cass_Elliot.md)
+- [Vinyl: "Bubble Gum, Lemonade &... Something For Mama"](../../Vinyl/Cass_Elliot/Bubble_Gum__Lemonade_and_Something_For_Mama.md)
+- [Vinyl: ](../../Vinyl/Cass_Elliot/Cass_Elliot.md)

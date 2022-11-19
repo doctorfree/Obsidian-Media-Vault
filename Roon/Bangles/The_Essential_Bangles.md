@@ -36,3 +36,10 @@ By Bangles
 14. A Hazy Shade of Winter
 15. Following
 
+
+## See also
+
+- [Different Light (Expanded Edition)](Different_Light_Expanded_Edition.md)
+- [Everything](Everything.md)
+- [Vinyl: ](../../Vinyl/Bangles/Bangles.md)
+- [Vinyl: Different Light](../../Vinyl/Bangles/Different_Light.md)

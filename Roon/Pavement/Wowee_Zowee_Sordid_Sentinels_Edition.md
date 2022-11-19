@@ -71,3 +71,9 @@ By Pavement
 2-20 Painted Soldiers
 2-21 We Dance [Alternate Mix]
 
+
+## See also
+
+- [Crooked Rain, Crooked Rain](Crooked_Rain__Crooked_Rain-_LAs_Desert_Origins.md)
+- [Slanted & Enchanted](Slanted_and_Enchanted-_Luxe_and_Reduxe.md)
+- [Beets: Slanted & Enchanted](../../Beets/Pavement/Slanted_and_Enchanted.md)

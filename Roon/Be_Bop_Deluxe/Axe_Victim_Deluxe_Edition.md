@@ -59,3 +59,10 @@ By Be Bop Deluxe
 37. 15th of July (Invisibles) [BBC Radio 1 John Peel, 23 May 1974]
 38. Adventures In a Yorkshire Landscape [BBC Radio 1 John Peel, 23 May 1974]
 
+
+## See also
+
+- [Drastic Plastic (Deluxe Edition)](Drastic_Plastic_Deluxe_Edition.md)
+- [Futurama (Remastered & Expanded)](Futurama_Remastered_and_Expanded.md)
+- [Modern Music (Deluxe Edition)](Modern_Music_Deluxe_Edition.md)
+- [Sunburst Finish (Remastered & Expanded)](Sunburst_Finish_Remastered_and_Expanded.md)

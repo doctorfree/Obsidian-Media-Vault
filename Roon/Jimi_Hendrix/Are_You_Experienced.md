@@ -38,3 +38,12 @@ By Jimi Hendrix
 16. Remember
 17. Red House
 
+
+## See also
+
+- [Axis](Axis-_Bold_As_Love.md)
+- [Beets: Jimi Hendrix](../../Beets/Jimi_Hendrix/Jimi_Hendrix_2.md)
+- [Beets: Jimi Hendrix](../../Beets/Jimi_Hendrix/Jimi_Hendrix.md)
+- [Beets: Valleys of Neptune](../../Beets/Jimi_Hendrix/Valleys_of_Neptune.md)
+- [Vinyl: Band Of Gypsys](../../Vinyl/Jimi_Hendrix/Band_Of_Gypsys.md)
+- [Vinyl: ](../../Vinyl/Jimi_Hendrix/Jimi_Hendrix.md)

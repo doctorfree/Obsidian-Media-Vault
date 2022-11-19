@@ -30,3 +30,7 @@ By John Frusciante
 8. Central
 9. One More of Me
 
+
+## See also
+
+- [Beets: The Empyrean](../../Beets/John_Frusciante/The_Empyrean.md)

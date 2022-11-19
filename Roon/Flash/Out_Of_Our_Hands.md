@@ -30,3 +30,10 @@ By Flash
 8. Manhattan Morning (Christmas '72)
 9. Shadows (It's You)
 
+
+## See also
+
+- [Flash In The Can](Flash_In_The_Can.md)
+- [Flash](Flash.md)
+- [Beets: Flash](../../Beets/Flash/Flash.md)
+- [Beets: In the Can](../../Beets/Flash/In_the_Can.md)

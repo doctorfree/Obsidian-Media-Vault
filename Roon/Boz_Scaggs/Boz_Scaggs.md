@@ -30,3 +30,11 @@ By Boz Scaggs
 8. Loan Me a Dime
 9. Sweet Release
 
+
+## See also
+
+- [Boz Scaggs & Band (Expanded Edition)](Boz_Scaggs_and_Band_Expanded_Edition.md)
+- [Dig](Dig.md)
+- [Moments (Expanded)](Moments_Expanded.md)
+- [Silk Degrees](Silk_Degrees.md)
+- [Slow Dancer](Slow_Dancer.md)

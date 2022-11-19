@@ -32,3 +32,8 @@ By Suzanne Vega
 10. Wooden Horse (Casper Hauser's Song)
 11. Tom's Diner (Reprise)
 
+
+## See also
+
+- [Nine Objects Of Desire](Nine_Objects_Of_Desire.md)
+- [Suzanne Vega](Suzanne_Vega.md)

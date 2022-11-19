@@ -134,3 +134,13 @@ By **Thin Lizzy**
 - **Track:** 09
 - **Year:** 1976
 
+
+## See also
+
+- [Dedication](Dedication.md)
+- [CD: Jailbreak](../../CD/Thin_Lizzy/Jailbreak.md)
+- [CD: ](../../CD/Thin_Lizzy/Thin_Lizzy.md)
+- [Roon: Black Rose](../../Roon/Thin_Lizzy/Black_Rose-_A_Rock_Legend.md)
+- [Roon: Chinatown](../../Roon/Thin_Lizzy/Chinatown.md)
+- [Roon: Renegade](../../Roon/Thin_Lizzy/Renegade.md)
+- [Roon: Thunder And Lightning](../../Roon/Thin_Lizzy/Thunder_And_Lightning.md)

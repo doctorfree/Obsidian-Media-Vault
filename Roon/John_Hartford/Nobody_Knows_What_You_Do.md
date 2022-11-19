@@ -33,3 +33,9 @@ By John Hartford
 11. Somewhere, My Love-We'll Meet Again Sweetheart
 12. Nobody Knows What You Do
 
+
+## See also
+
+- [Aereo-Plain](Aereo-Plain.md)
+- [Gum Tree Canoe](Gum_Tree_Canoe.md)
+- [Joseph's Dream](Josephs_Dream.md)

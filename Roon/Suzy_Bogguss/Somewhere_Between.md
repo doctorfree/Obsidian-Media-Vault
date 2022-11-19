@@ -31,3 +31,8 @@ By Suzy Bogguss
 9. Hopeless Romantic [Single Version]
 10. Night Rider's Lament
 
+
+## See also
+
+- [Aces](Aces.md)
+- [Beets: Somewhere Between](../../Beets/Suzy_Bogguss/Somewhere_Between.md)

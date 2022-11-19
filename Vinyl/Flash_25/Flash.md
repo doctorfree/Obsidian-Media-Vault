@@ -36,3 +36,7 @@ By Flash (25)
 - Speed: 33 rpm
 - Weight: 180 gram
 
+
+## See also
+
+- [](Flash_25.md)

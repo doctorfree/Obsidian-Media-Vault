@@ -34,3 +34,7 @@ By Bryan Ferry
 12. One Way Love
 13. I Thought
 
+
+## See also
+
+- [Beets: Frantic](../../Beets/Bryan_Ferry/Frantic.md)

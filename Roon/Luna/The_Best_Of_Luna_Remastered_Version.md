@@ -38,3 +38,8 @@ By Luna
 16. Lost in Space
 17. 23 Minutes in Brussels
 
+
+## See also
+
+- [Bewitched](Bewitched.md)
+- [Penthouse (Deluxe)](Penthouse_Deluxe.md)

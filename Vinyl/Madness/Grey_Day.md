@@ -36,3 +36,7 @@ By Madness
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Madness.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Greatest Hits](Greatest_Hits.md)
+
+## See also
+
+- [Greatest Hits](Greatest_Hits.md)

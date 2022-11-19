@@ -34,3 +34,9 @@ By Marilyn Manson
 12. Fated, Faithful, Fatal [Acoustic]
 13. Fall of the House of Death [Acoustic]
 
+
+## See also
+
+- [Antichrist Superstar](Antichrist_Superstar.md)
+- [Lest We Forget - The Best Of](Lest_We_Forget_-_The_Best_Of.md)
+- [Mechanical Animals](Mechanical_Animals.md)

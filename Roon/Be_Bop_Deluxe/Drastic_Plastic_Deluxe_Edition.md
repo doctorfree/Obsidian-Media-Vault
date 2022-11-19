@@ -93,3 +93,10 @@ By Be Bop Deluxe
 71. New Precision (Bill Nelson demo, 1977)
 72. Love in Flames (Bill Nelson demo, 1977)
 
+
+## See also
+
+- [Axe Victim (Deluxe Edition)](Axe_Victim_Deluxe_Edition.md)
+- [Futurama (Remastered & Expanded)](Futurama_Remastered_and_Expanded.md)
+- [Modern Music (Deluxe Edition)](Modern_Music_Deluxe_Edition.md)
+- [Sunburst Finish (Remastered & Expanded)](Sunburst_Finish_Remastered_and_Expanded.md)

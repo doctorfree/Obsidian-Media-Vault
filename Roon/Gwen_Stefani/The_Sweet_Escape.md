@@ -35,3 +35,9 @@ By Gwen Stefani
 
 ## H
 
+
+## See also
+
+- [Love Angel Music Baby - 15th Anniversary Edition](Love_Angel_Music_Baby_-_15th_Anniversary_Edition.md)
+- [Beets: Love. Angel. Music. Baby.](../../Beets/Gwen_Stefani/Love_Angel_Music_Baby.md)
+- [Beets: The Sweet Escape](../../Beets/Gwen_Stefani/The_Sweet_Escape.md)

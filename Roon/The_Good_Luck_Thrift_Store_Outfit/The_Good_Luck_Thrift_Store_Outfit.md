@@ -29,3 +29,8 @@ By The Good Luck Thrift Store Outfit
 7. Off The Cuff
 8. Gypsy
 
+
+## See also
+
+- [Beets: The Ghost of Good Manners](../../Beets/The_Good_Luck_Thrift_Store_Outfit/The_Ghost_of_Good_Manners.md)
+- [Beets: The Good Luck Thrift Store Outfit](../../Beets/The_Good_Luck_Thrift_Store_Outfit/The_Good_Luck_Thrift_Store_Outfit.md)

@@ -5,3 +5,7 @@
 ## Records
 
 - [Song And Play Time](Song_And_Play_Time.md)
+
+## See also
+
+- [Song And Play Time](Song_And_Play_Time.md)

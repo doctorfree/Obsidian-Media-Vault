@@ -32,3 +32,8 @@ By Jimmy Eat World
 10. The Authority Song
 11. My Sundown
 
+
+## See also
+
+- [Beets: Futures](../../Beets/Jimmy_Eat_World/Futures.md)
+- [Beets: Pain](../../Beets/Jimmy_Eat_World/Pain.md)

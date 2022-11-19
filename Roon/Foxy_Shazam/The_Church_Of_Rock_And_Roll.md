@@ -32,3 +32,13 @@ By Foxy Shazam
 10. The Streets
 11. Freedom
 
+
+## See also
+
+- [Foxy Shazam](Foxy_Shazam.md)
+- [GONZO](GONZO.md)
+- [Introducing](Introducing.md)
+- [Unstoppable](Unstoppable.md)
+- [wanna-be Angel](wanna-be_Angel.md)
+- [Beets: Foxy Shazam](../../Beets/Foxy_Shazam/Foxy_Shazam.md)
+- [Beets: GONZO](../../Beets/Foxy_Shazam/GONZO.md)

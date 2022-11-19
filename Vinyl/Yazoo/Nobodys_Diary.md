@@ -36,3 +36,7 @@ By Yazoo
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Yazoo.md)

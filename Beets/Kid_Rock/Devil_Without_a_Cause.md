@@ -189,3 +189,9 @@ By **Kid Rock**
 - **Track:** 14
 - **Year:** 2008
 
+
+## See also
+
+- [Roon: Devil Without a Cause](../../Roon/Kid_Rock/Devil_Without_a_Cause.md)
+- [Vinyl: Devil Without A Cause](../../Vinyl/Kid_Rock/Devil_Without_A_Cause.md)
+- [Vinyl: ](../../Vinyl/Kid_Rock/Kid_Rock.md)

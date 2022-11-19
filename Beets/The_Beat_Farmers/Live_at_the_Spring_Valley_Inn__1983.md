@@ -266,3 +266,15 @@ By **The Beat Farmers**
 - **Track:** 21
 - **Year:** 1990
 
+
+## See also
+
+- [Glad 'n' Greasy](Glad_n_Greasy.md)
+- [Loud and Plowed and... LIVE!!](Loud_and_Plowed_and_LIVE!!.md)
+- [Manifold](Manifold.md)
+- [Poor and Famous](Poor_and_Famous.md)
+- [Tales of the New West](Tales_of_the_New_West.md)
+- [The Pursuit of Happiness](The_Pursuit_of_Happiness.md)
+- [Van Go](Van_Go.md)
+- [CD: Loud And Plowed And ... Live!!](../../CD/The_Beat_Farmers/Loud_And_Plowed_And__Live!!.md)
+- [CD: ](../../CD/The_Beat_Farmers/The_Beat_Farmers.md)

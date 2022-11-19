@@ -25,3 +25,12 @@ By Mammatus
 3. Dragon of the Deep, Pt. 1
 4. Dragon of the Deep, Pt. 2
 
+
+## See also
+
+- [The Coast Explodes](The_Coast_Explodes.md)
+- [Beets: Mammatus](../../Beets/Mammatus/Mammatus.md)
+- [Beets: Sparkling Waters](../../Beets/Mammatus/Sparkling_Waters.md)
+- [Beets: The Coast Explodes](../../Beets/Mammatus/The_Coast_Explodes.md)
+- [Vinyl: ](../../Vinyl/Mammatus/Mammatus.md)
+- [Vinyl: Sparkling Waters](../../Vinyl/Mammatus/Sparkling_Waters.md)

@@ -5,3 +5,7 @@
 ## CD
 
 - [Legend](Legend-_The_Best_Of_Bob_Marley_And_The_Wailers.md)
+
+## See also
+
+- [Legend](Legend-_The_Best_Of_Bob_Marley_And_The_Wailers.md)

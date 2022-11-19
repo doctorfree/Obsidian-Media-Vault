@@ -34,3 +34,11 @@ By The Dead Weather
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](The_Dead_Weather.md)
+- [Beets: Buzzkill(er) 45](../../Beets/The_Dead_Weather/Buzzkiller_45.md)
+- [Beets: Dodge and Burn](../../Beets/The_Dead_Weather/Dodge_and_Burn.md)
+- [Beets: Horehound](../../Beets/The_Dead_Weather/Horehound.md)
+- [Beets: Sea of Cowards](../../Beets/The_Dead_Weather/Sea_of_Cowards.md)

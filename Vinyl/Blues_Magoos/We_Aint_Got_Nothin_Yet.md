@@ -36,3 +36,7 @@ By Blues Magoos
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Blues_Magoos.md)

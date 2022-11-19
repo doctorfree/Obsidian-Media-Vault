@@ -33,3 +33,10 @@ By The Impressions
 11. I Love You (Yeah)
 12. I Made a Mistake
 
+
+## See also
+
+- [People Get Ready](People_Get_Ready.md)
+- [People Get Ready](People_Get_Ready-_The_Best_Of_The_Impressions_Featuring_Curtis_Mayfield_1961_-_1968.md)
+- [Vinyl: I Saw Mommy Kissing Santa Claus / Silent Night](../../Vinyl/The_Impressions/I_Saw_Mommy_Kissing_Santa_Claus_-_Silent_Night.md)
+- [Vinyl: ](../../Vinyl/The_Impressions/The_Impressions.md)

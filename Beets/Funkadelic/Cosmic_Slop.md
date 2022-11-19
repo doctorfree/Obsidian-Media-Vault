@@ -189,3 +189,13 @@ By **Funkadelic**
 - **Track:** 14
 - **Year:** 2005
 
+
+## See also
+
+- [Funkadelic](Funkadelic.md)
+- [Hardcore Jollies](Hardcore_Jollies.md)
+- [Maggot Brain](Maggot_Brain.md)
+- [Roon: Funkadelic](../../Roon/Funkadelic/Funkadelic.md)
+- [Roon: Maggot Brain](../../Roon/Funkadelic/Maggot_Brain.md)
+- [Vinyl: ](../../Vinyl/Funkadelic/Funkadelic.md)
+- [Vinyl: Maggot Brain](../../Vinyl/Funkadelic/Maggot_Brain.md)

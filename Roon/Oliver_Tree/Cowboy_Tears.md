@@ -34,3 +34,7 @@ By Oliver Tree
 12. The Villain
 13. Cowboy Tears
 
+
+## See also
+
+- [Ugly is Beautiful](Ugly_is_Beautiful-_Shorter__Thicker_and_Uglier_Deluxe.md)

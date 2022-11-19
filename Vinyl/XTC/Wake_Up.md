@@ -42,3 +42,7 @@ By XTC
 - [Making Plans For Nigel](Making_Plans_For_Nigel.md)
 - [The Loving](The_Loving.md)
 - [Wonderland](Wonderland.md)
+- [CD: Apple Venus Volume 1](../../CD/XTC/Apple_Venus_Volume_1.md)
+- [CD: ](../../CD/XTC/XTC.md)
+- [Roon: Oranges & Lemons](../../Roon/XTC/Oranges_and_Lemons.md)
+- [Roon: Skylarking](../../Roon/XTC/Skylarking.md)

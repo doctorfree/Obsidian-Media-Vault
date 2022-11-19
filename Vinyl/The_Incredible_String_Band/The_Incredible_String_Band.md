@@ -5,3 +5,7 @@
 ## Records
 
 - [Wee Tam](Wee_Tam.md)
+
+## See also
+
+- [Wee Tam](Wee_Tam.md)

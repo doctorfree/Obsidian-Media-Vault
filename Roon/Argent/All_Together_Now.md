@@ -28,3 +28,8 @@ By Argent
 6. He's a Dynamo
 7. Pure Love/Fantasia/Prelude/Pure Love/Finale
 
+
+## See also
+
+- [Greatest Hits](Greatest_Hits-_Singles.md)
+- [In Deep](In_Deep.md)

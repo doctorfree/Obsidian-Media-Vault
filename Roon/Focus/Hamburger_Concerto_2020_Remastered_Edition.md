@@ -27,3 +27,10 @@ By Focus
 5. Hamburger Concerto (Starter - Rare - Medium I - Medium II - Well Done - One For The Road)
 6. Early Birth
 
+
+## See also
+
+- [Focus 3 (2020 Remastered Edition)](Focus_3_2020_Remastered_Edition.md)
+- [Moving Waves](Moving_Waves.md)
+- [Vinyl: ](../../Vinyl/Focus/Focus.md)
+- [Vinyl: Hocus Pocus](../../Vinyl/Focus/Hocus_Pocus.md)

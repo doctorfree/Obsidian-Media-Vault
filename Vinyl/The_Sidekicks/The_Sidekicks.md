@@ -5,3 +5,7 @@
 ## Records
 
 - [Suspicions](Suspicions.md)
+
+## See also
+
+- [Suspicions](Suspicions.md)

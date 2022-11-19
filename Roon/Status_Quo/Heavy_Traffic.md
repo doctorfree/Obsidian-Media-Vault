@@ -34,3 +34,8 @@ By Status Quo
 12. I Don't Remember Anymore
 13. Rhythm of Life
 
+
+## See also
+
+- [Hello](Hello.md)
+- [Status Quo Greatets Hits](Status_Quo_Greatets_Hits.md)

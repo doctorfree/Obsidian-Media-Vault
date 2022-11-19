@@ -69,3 +69,8 @@ By Emitt Rhodes
 2-22 Farewell to Paradise
 2-23 Tame the Lion
 
+
+## See also
+
+- [Beets: Daisy-Fresh From Hawthorne, California (The Best Of The Dunhill Years)](../../Beets/Emitt_Rhodes/Daisy-Fresh_From_Hawthorne__California_The_Best_Of_The_Dunhill_Years.md)
+- [Beets: How Can You Mend A Broken Heart](../../Beets/Emitt_Rhodes/How_Can_You_Mend_A_Broken_Heart.md)

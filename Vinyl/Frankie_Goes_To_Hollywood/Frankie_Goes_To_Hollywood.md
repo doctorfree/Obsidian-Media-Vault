@@ -5,3 +5,7 @@
 ## Records
 
 - [Welcome To The Pleasuredome](Welcome_To_The_Pleasuredome.md)
+
+## See also
+
+- [Welcome To The Pleasuredome](Welcome_To_The_Pleasuredome.md)

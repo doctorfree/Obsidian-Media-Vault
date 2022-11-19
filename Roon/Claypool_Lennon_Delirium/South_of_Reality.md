@@ -30,3 +30,8 @@ By Claypool Lennon Delirium
 8. Cricket Chronicles Revisited: Pt. 1, Ask Your Doctor/Pt. 2, Psyde Effects
 9. Like Fleas
 
+
+## See also
+
+- [Lime & Limpid Green](Lime_and_Limpid_Green.md)
+- [Monolith of Phobos](Monolith_of_Phobos.md)

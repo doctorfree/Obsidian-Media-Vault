@@ -34,3 +34,9 @@ By James McMurtry
 12. You'd A' Thought (Leonard Cohen Must Die)
 13. Ruby and Carlos
 
+
+## See also
+
+- [Childish Things](Childish_Things.md)
+- [Complicated Game (James McMurtry)](Complicated_Game_James_McMurtry.md)
+- [Too Long In The Wasteland (Album Version)](Too_Long_In_The_Wasteland_Album_Version.md)

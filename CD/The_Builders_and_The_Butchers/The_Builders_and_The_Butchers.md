@@ -5,3 +5,7 @@
 ## CD
 
 - [Western Medicine](Western_Medicine.md)
+
+## See also
+
+- [Western Medicine](Western_Medicine.md)

@@ -40,3 +40,9 @@ By The Archies
 
 This copy's cover has "LM-416" while the label says "LW-416-A" and "LW-416-B"
 
+
+## See also
+
+- [](The_Archies.md)
+- [Beets: Everything's Archie](../../Beets/The_Archies/Everythings_Archie.md)
+- [Beets: The Very Best of the Archies [Cleopatra]](../../Beets/The_Archies/The_Very_Best_of_the_Archies_[Cleopatra].md)

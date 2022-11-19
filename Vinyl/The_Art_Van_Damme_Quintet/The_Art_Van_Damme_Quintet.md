@@ -5,3 +5,7 @@
 ## Records
 
 - [My Kinda Love / Tenderly](My_Kinda_Love_-_Tenderly.md)
+
+## See also
+
+- [My Kinda Love / Tenderly](My_Kinda_Love_-_Tenderly.md)

@@ -26,3 +26,9 @@ By Automat
 4. What There Could Have Been (Acoustic)
 5. A Minor Miracle (Instrumental)
 
+
+## See also
+
+- [Turn The Music Up](Turn_The_Music_Up.md)
+- [Beets: Turn The Music Up (Bonus Disc)](../../Beets/Automat/Turn_The_Music_Up_Bonus_Disc.md)
+- [Beets: Turn The Music Up](../../Beets/Automat/Turn_The_Music_Up.md)

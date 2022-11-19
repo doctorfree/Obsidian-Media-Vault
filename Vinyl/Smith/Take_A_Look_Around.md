@@ -40,3 +40,4 @@ By Smith
 ## See also
 
 - [A Group Called Smith](A_Group_Called_Smith.md)
+- [Beets: A Group Called Smith](../../Beets/Smith/A_Group_Called_Smith.md)

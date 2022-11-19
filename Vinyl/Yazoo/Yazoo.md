@@ -5,3 +5,7 @@
 ## Records
 
 - [Nobody's Diary](Nobodys_Diary.md)
+
+## See also
+
+- [Nobody's Diary](Nobodys_Diary.md)

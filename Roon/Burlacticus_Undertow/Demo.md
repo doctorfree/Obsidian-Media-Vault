@@ -24,3 +24,13 @@ By Burlacticus Undertow
 2. My Neighbors the Cops
 4. 7th and Brommer
 
+
+## See also
+
+- [Burlacticus Undertow](Burlacticus_Undertow.md)
+- [Burlastical](Burlastical.md)
+- [Burlicious](Burlicious.md)
+- [Beets: Burlacticus Undertow](../../Beets/Burlacticus_Undertow/Burlacticus_Undertow.md)
+- [Beets: Burlastical](../../Beets/Burlacticus_Undertow/Burlastical.md)
+- [Beets: Burlicious](../../Beets/Burlacticus_Undertow/Burlicious.md)
+- [Beets: Demo](../../Beets/Burlacticus_Undertow/Demo.md)

@@ -69,3 +69,12 @@ By Crosby, Stills, Nash & Young
 4-8 4 + 20 [Alternate Take 2]
 4-9 Know You Got to Run [Alternate]
 
+
+## See also
+
+- [Deja Vu](Deja_Vu.md)
+- [Beets: 4 Way Street](../../Beets/Crosby__Stills__Nash_and_Young/4_Way_Street.md)
+- [Beets: Déjà vu](../../Beets/Crosby__Stills__Nash_and_Young/Déjà_vu.md)
+- [Vinyl: ](../../Vinyl/Crosby__Stills__Nash_and_Young/Crosby__Stills__Nash_and_Young.md)
+- [Vinyl: Déjà Vu](../../Vinyl/Crosby__Stills__Nash_and_Young/Déjà_Vu.md)
+- [Vinyl: Teach Your Children / Carry On](../../Vinyl/Crosby__Stills__Nash_and_Young/Teach_Your_Children_-_Carry_On.md)

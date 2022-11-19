@@ -5,3 +5,7 @@
 ## Records
 
 - [Cherry Pink And Apple Blossom White / Rhythm Sticks](Cherry_Pink_And_Apple_Blossom_White_-_Rhythm_Sticks.md)
+
+## See also
+
+- [Cherry Pink And Apple Blossom White / Rhythm Sticks](Cherry_Pink_And_Apple_Blossom_White_-_Rhythm_Sticks.md)

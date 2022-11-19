@@ -36,3 +36,8 @@ By Dead Kennedys
 - Producer: 
 - Musician: 
 
+
+## See also
+
+- [](Dead_Kennedys.md)
+- [Beets: Frankenchrist](../../Beets/Dead_Kennedys/Frankenchrist.md)

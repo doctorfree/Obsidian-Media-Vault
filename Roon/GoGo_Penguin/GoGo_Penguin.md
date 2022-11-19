@@ -31,3 +31,10 @@ By GoGo Penguin
 9. To the Nth
 10. Don't Go
 
+
+## See also
+
+- [A Humdrum Star](A_Humdrum_Star.md)
+- [GGP/RMX](GGP-RMX.md)
+- [Live from Studio 2 (Live from Studio 2, Abbey Road Studios, London / 2020)](Live_from_Studio_2_Live_from_Studio_2__Abbey_Road_Studios__London_-_2020.md)
+- [Man Made Object (Deluxe Edition) (Deluxe)](Man_Made_Object_Deluxe_Edition_Deluxe.md)

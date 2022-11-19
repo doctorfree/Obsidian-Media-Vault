@@ -31,3 +31,12 @@ By Cheap Trick
 9. Go for the Throat (Use Your Own Imagination)
 10. Who d' King
 
+
+## See also
+
+- [At Budokan (Live at Nippon Budokan, Tokyo, JPN - April 1978)](At_Budokan_Live_at_Nippon_Budokan__Tokyo__JPN_-_April_1978.md)
+- [Cheap Trick](Cheap_Trick.md)
+- [Dream Police](Dream_Police.md)
+- [Heaven Tonight](Heaven_Tonight.md)
+- [In Another World](In_Another_World.md)
+- [In Color](In_Color.md)

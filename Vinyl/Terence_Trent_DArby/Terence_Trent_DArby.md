@@ -5,3 +5,7 @@
 ## Records
 
 - [Introducing The Hardline According To Terence Trent D'Arby](Introducing_The_Hardline_According_To_Terence_Trent_DArby.md)
+
+## See also
+
+- [Introducing The Hardline According To Terence Trent D'Arby](Introducing_The_Hardline_According_To_Terence_Trent_DArby.md)

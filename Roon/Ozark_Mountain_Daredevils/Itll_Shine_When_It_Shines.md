@@ -33,3 +33,10 @@ By Ozark Mountain Daredevils
 11. Tidal Wave
 12. It'll Shine When It Shines
 
+
+## See also
+
+- [It's Alive](Its_Alive.md)
+- [Ozark Mountain Daredevils](Ozark_Mountain_Daredevils.md)
+- [The Car Over The Lake Album](The_Car_Over_The_Lake_Album.md)
+- [Beets: The Quilt Album](../../Beets/Ozark_Mountain_Daredevils/The_Quilt_Album.md)

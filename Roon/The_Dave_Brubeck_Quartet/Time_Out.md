@@ -28,3 +28,9 @@ By The Dave Brubeck Quartet
 6. Everybody's Jumpin'
 7. Pick Up Sticks
 
+
+## See also
+
+- [Beets: Time Out](../../Beets/The_Dave_Brubeck_Quartet/Time_Out.md)
+- [Vinyl: ](../../Vinyl/The_Dave_Brubeck_Quartet/The_Dave_Brubeck_Quartet.md)
+- [Vinyl: Time Out](../../Vinyl/The_Dave_Brubeck_Quartet/Time_Out.md)

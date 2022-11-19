@@ -34,3 +34,7 @@ By Slow Gherkin
 - Speed: 
 - Weight: 
 
+
+## See also
+
+- [](Slow_Gherkin.md)

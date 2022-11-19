@@ -46,3 +46,8 @@ By **The Residents**
 - **Track:** 06
 - **Year:** 1978
 
+
+## See also
+
+- [Duck Stab](Duck_Stab.md)
+- [Wormwood](Wormwood.md)

@@ -30,3 +30,7 @@ By Peter Gabriel
 8. This Is the Picture (Excellent Birds)
 9. In Your Eyes
 
+
+## See also
+
+- [Beets: Peter Gabriel](../../Beets/Peter_Gabriel/Peter_Gabriel.md)

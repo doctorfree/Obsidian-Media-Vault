@@ -34,3 +34,8 @@ By of Montreal
 12. Around the Way
 13. You Do Mutilate?
 
+
+## See also
+
+- [Cherry Peel](Cherry_Peel.md)
+- [The Sunlandic Twins](The_Sunlandic_Twins.md)

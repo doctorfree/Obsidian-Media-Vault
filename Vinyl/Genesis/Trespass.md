@@ -42,3 +42,4 @@ By Genesis
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)
 - [Genesis](Genesis.md)
 - [Selling England By The Pound](Selling_England_By_The_Pound.md)
+- [Beets: Seconds Out](../../Beets/Genesis/Seconds_Out.md)

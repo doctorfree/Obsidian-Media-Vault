@@ -39,3 +39,14 @@ By T. Rex
 17. King of the Mountain Cometh
 18. The T. Rex Electric Warrior Interview
 
+
+## See also
+
+- [Electric Warrior](Electric_Warrior.md)
+- [The Slider](The_Slider.md)
+- [T. Rex (Remastered)](T_Rex_Remastered.md)
+- [Beets: Electric Warrior](../../Beets/T_Rex/Electric_Warrior.md)
+- [Beets: Rabbit Fighter](../../Beets/T_Rex/Rabbit_Fighter.md)
+- [Beets: The Slider](../../Beets/T_Rex/The_Slider.md)
+- [Vinyl: Electric Warrior](../../Vinyl/T_Rex/Electric_Warrior.md)
+- [Vinyl: ](../../Vinyl/T_Rex/T_Rex.md)

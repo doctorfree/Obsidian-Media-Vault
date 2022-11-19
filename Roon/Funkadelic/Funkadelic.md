@@ -35,3 +35,13 @@ By Funkadelic
 13. Qualify and Satisfy (45 version)
 14. Music for My Mother
 
+
+## See also
+
+- [Maggot Brain](Maggot_Brain.md)
+- [Beets: Cosmic Slop](../../Beets/Funkadelic/Cosmic_Slop.md)
+- [Beets: Funkadelic](../../Beets/Funkadelic/Funkadelic.md)
+- [Beets: Hardcore Jollies](../../Beets/Funkadelic/Hardcore_Jollies.md)
+- [Beets: Maggot Brain](../../Beets/Funkadelic/Maggot_Brain.md)
+- [Vinyl: ](../../Vinyl/Funkadelic/Funkadelic.md)
+- [Vinyl: Maggot Brain](../../Vinyl/Funkadelic/Maggot_Brain.md)

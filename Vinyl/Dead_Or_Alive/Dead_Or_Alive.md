@@ -5,3 +5,7 @@
 ## Records
 
 - [You Spin Me Round (Like A Record)](You_Spin_Me_Round_Like_A_Record.md)
+
+## See also
+
+- [You Spin Me Round (Like A Record)](You_Spin_Me_Round_Like_A_Record.md)

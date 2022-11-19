@@ -5,3 +5,7 @@
 ## Records
 
 - [Lady Of Magic](Lady_Of_Magic.md)
+
+## See also
+
+- [Lady Of Magic](Lady_Of_Magic.md)

@@ -36,3 +36,12 @@ By Pixies
 14. Silver
 15. Gouge Away
 
+
+## See also
+
+- [Bossanova](Bossanova.md)
+- [Surfer Rosa (Remastered)](Surfer_Rosa_Remastered.md)
+- [Trompe le Monde](Trompe_le_Monde.md)
+- [Beets: Death to the Pixies](../../Beets/Pixies/Death_to_the_Pixies.md)
+- [Beets: Doolittle](../../Beets/Pixies/Doolittle.md)
+- [Beets: Fight Club OST](../../Beets/Pixies/Fight_Club_OST.md)

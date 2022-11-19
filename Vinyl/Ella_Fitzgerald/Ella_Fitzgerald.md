@@ -5,3 +5,7 @@
 ## Records
 
 - [Melancholy Me / Somebody Bad Stole De Wedding Bell](Melancholy_Me_-_Somebody_Bad_Stole_De_Wedding_Bell.md)
+
+## See also
+
+- [Melancholy Me / Somebody Bad Stole De Wedding Bell](Melancholy_Me_-_Somebody_Bad_Stole_De_Wedding_Bell.md)

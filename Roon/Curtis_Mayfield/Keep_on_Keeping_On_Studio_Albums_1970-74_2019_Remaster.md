@@ -50,3 +50,9 @@ By Curtis Mayfield
 4-6 Suffer
 4-7 Make Me Believe in You
 
+
+## See also
+
+- [Curtis (Expanded Edition)](Curtis_Expanded_Edition.md)
+- [People Get Ready](People_Get_Ready-_The_Best_Of_The_Impressions_Featuring_Curtis_Mayfield_1961_-_1968.md)
+- [Superfly](Superfly.md)

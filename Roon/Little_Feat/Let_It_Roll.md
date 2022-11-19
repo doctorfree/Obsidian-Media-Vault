@@ -31,3 +31,12 @@ By Little Feat
 9. Changin' Luck
 10. Voices on the Wind
 
+
+## See also
+
+- [Dixie Chicken](Dixie_Chicken.md)
+- [Feats Don't Fail Me Now](Feats_Dont_Fail_Me_Now.md)
+- [Little Feat](Little_Feat.md)
+- [Sailin' Shoes](Sailin_Shoes.md)
+- [The Last Record Album](The_Last_Record_Album.md)
+- [Waiting for Columbus (Live Version)](Waiting_for_Columbus_Live_Version.md)

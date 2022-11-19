@@ -86,3 +86,10 @@ By Prince
 5-11 1999 [Live at Masonic Hall, Detroit, MI, 11/30/1982 - Late Show]
 5-12 D.M.S.R. [Live at Masonic Hall, Detroit, MI, 11/30/1982 - Late Show]
 
+
+## See also
+
+- [Purple Rain Deluxe (Expanded Edition)](Purple_Rain_Deluxe_Expanded_Edition.md)
+- [Beets: 1999](../../Beets/Prince/1999.md)
+- [Vinyl: 1999](../../Vinyl/Prince/1999.md)
+- [Vinyl: ](../../Vinyl/Prince/Prince.md)

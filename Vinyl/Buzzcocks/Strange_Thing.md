@@ -36,3 +36,8 @@ By Buzzcocks
 - Speed: 45 rpm
 - Weight: 
 
+
+## See also
+
+- [](Buzzcocks.md)
+- [Beets: Singles Going Steady](../../Beets/Buzzcocks/Singles_Going_Steady.md)

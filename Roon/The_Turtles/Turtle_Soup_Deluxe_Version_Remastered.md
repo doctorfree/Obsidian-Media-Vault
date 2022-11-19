@@ -45,3 +45,17 @@ By The Turtles
 23. Marmendy Mill (Demo)[Remastered]
 24. Turtle Soup Radio Spot (Remastered)
 
+
+## See also
+
+- [Happy Together (Deluxe Version) (Remastered)](Happy_Together_Deluxe_Version_Remastered.md)
+- [It Ain't Me Babe (Deluxe Version) (Remastered)](It_Aint_Me_Babe_Deluxe_Version_Remastered.md)
+- [The Battle of the Bands (Deluxe Version)](The_Battle_of_the_Bands_Deluxe_Version.md)
+- [You Baby (Deluxe Version) (Remastered)](You_Baby_Deluxe_Version_Remastered.md)
+- [Beets: Happy Together](../../Beets/The_Turtles/Happy_Together.md)
+- [Beets: It Ain't Me Babe](../../Beets/The_Turtles/It_Aint_Me_Babe.md)
+- [Beets: The Turtles Present the Battle of the Bands](../../Beets/The_Turtles/The_Turtles_Present_the_Battle_of_the_Bands.md)
+- [Beets: Turtle Soup](../../Beets/The_Turtles/Turtle_Soup.md)
+- [Vinyl: Happy Together](../../Vinyl/The_Turtles/Happy_Together.md)
+- [Vinyl: ](../../Vinyl/The_Turtles/The_Turtles.md)
+- [Vinyl: Turtle Soup](../../Vinyl/The_Turtles/Turtle_Soup.md)

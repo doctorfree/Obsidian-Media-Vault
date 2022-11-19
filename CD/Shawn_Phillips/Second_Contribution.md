@@ -36,3 +36,10 @@ By Shawn Phillips
 - Producer: 
 - Musician: 
 
+
+## See also
+
+- [](Shawn_Phillips.md)
+- [Beets: Second Contribution](../../Beets/Shawn_Phillips/Second_Contribution.md)
+- [Vinyl: Second Contribution](../../Vinyl/Shawn_Phillips/Second_Contribution.md)
+- [Vinyl: ](../../Vinyl/Shawn_Phillips/Shawn_Phillips.md)

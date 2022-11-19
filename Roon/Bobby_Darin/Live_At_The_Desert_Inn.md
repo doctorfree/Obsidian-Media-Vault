@@ -35,3 +35,12 @@ By Bobby Darin
 13. Finale Band Introduction
 14. Encore: Chain of Fools/Respect/Splish Splash/Johnny B. Goode
 
+
+## See also
+
+- [Bobby Darin](Bobby_Darin.md)
+- [That's All](Thats_All.md)
+- [This Is Darin](This_Is_Darin.md)
+- [Two of a Kind](Two_of_a_Kind.md)
+- [Wild, Cool & Swingin'](Wild__Cool_and_Swingin.md)
+- [Beets: That's All](../../Beets/Bobby_Darin/Thats_All.md)

@@ -156,3 +156,11 @@ By **Alice Cooper**
 - **Track:** 11
 - **Year:** 1987
 
+
+## See also
+
+- [Welcome to My Nightmare](Welcome_to_My_Nightmare.md)
+- [Vinyl: ](../../Vinyl/Alice_Cooper/Alice_Cooper.md)
+- [Vinyl: Alice Cooper's Greatest Hits](../../Vinyl/Alice_Cooper/Alice_Coopers_Greatest_Hits.md)
+- [Vinyl: Killer](../../Vinyl/Alice_Cooper/Killer.md)
+- [Vinyl: Welcome To My Nightmare](../../Vinyl/Alice_Cooper/Welcome_To_My_Nightmare.md)
