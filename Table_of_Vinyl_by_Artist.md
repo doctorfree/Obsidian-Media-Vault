@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Vinyl-Banner.png"
+banner_x: 0.5
+banner_y: 0.7
+---
+
 # Vinyl Records
 
 ## See also

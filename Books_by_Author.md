@@ -1,7 +1,7 @@
 ---
-banner: "assets/Books-Banner.png"
-banner_x: 0.3941
-banner_y: 0.5
+banner: "assets/banners/Books-Banner.png"
+banner_x: 1.0
+banner_y: 1.0
 ---
 
 # Books

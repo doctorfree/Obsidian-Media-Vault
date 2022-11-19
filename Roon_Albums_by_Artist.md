@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/Roon-Banner.png"
+banner_x: 0.5
+banner_y: 0.5
+---
+
 # Roon Albums by Artist
 
 ## See also

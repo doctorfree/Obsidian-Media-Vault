@@ -1,3 +1,9 @@
+---
+banner: "assets/banners/CD-Banner.png"
+banner_x: 0.2
+banner_y: 0.5
+---
+
 # CD
 
 ## See also
