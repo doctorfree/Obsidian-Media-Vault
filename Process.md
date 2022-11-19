@@ -2,6 +2,8 @@
 
 Several custom scripts and utilities were used to automate the generation of markdown files in the Obsidian Media Vault. For example, the source data used in the generation of the Books sub-vault consisted of a CSV export of a Goodreads library along with XML format RSS feeds of all the bookshelves in that Goodreads library. The CSV and XML were processed using tools like [csvkit](https://csvkit.readthedocs.io/en/latest), `grep`, `sed`, `awk`, and other system utilities.
 
+There are several other techniques for generating, curating, and maintaining media libraries in Obsidian. See the [See also](#see_also) section below for links to some of these.
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -1880,3 +1882,7 @@ Playlists from the Roon Audio System were generated using the [RoonCommandLine](
 
 - [README](README.md)
 - [Media Queries](Media_Queries.md)
+- [Obsidian Book Search Plugin](https://github.com/anpigon/obsidian-book-search-plugin)
+- [Tutorial: Create a Bookshelf in Obsidian](https://thebuccaneersbounty.wordpress.com/2021/08/21/tutorial-how-to-create-a-bookshelf-in-obsidian/)
+    - [Example Obsidian Bookshelf](https://github.com/GentryGibson/ObsidianBookshelf)
+- [Add books using Quickadd and Google Books API](https://github.com/Elaws/script_googleBooks_quickAdd)

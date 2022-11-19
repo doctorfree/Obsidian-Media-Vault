@@ -6,6 +6,14 @@ This repository is organized as an Obsidian vault containing Media descriptions 
 
 The `Obsidian-Media-Vault` repository reflects the partial contents of my personal library of books, cds, digital music, and records. As such, it may be relevant only to a few. However, the process by which this repository was created and curated as well as the tools used in its creation and curation may be useful to a wider audience. I am making it public and freely licensed so that others may examine, adapt, clone, and use in whatever manner they choose. See the [description of Process](Process.md) for an overview of the process and tools employed in the creation of this repository.
 
+**[Note:]** This is a fairly large repository, over 4GB, half of which is album and book cover art. The Obsidian mobile applications may not be able to handle this size vault. The desktop Obsidian application for Windows, Mac, or Linux are recommended for use with this vault. Each of the components of this "super vault" have been split out into their own smaller vaults. To download and view these "sub-vaults", see:
+
+- [Obsidian Beets Vault](https://github.com/doctorfree/Obsidian-Beets-Vault)
+- [Obsidian Books Vault](https://github.com/doctorfree/Obsidian-Books-Vault)
+- [Obsidian CD Vault](https://github.com/doctorfree/Obsidian-CD-Vault)
+- [Obsidian Roon Vault](https://github.com/doctorfree/Obsidian-Roon-Vault)
+- [Obsidian Vinyl Vault](https://github.com/doctorfree/Obsidian-Vinyl-Vault)
+
 Get started browsing the [Obsidian Media Vault](Media_Index.md).
 
 ## Table of Contents
