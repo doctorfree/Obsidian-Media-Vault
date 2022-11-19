@@ -156,9 +156,9 @@
 - [Good Mourning](Beets/Alkaline_Trio/Good_Mourning.md)
 - [Maybe I’ll Catch Fire](Beets/Alkaline_Trio/Maybe_I’ll_Catch_Fire.md)
 
-### Allen Ginsberg & Paul Mccartney
+### Allen Ginsberg & Paul McCartney
 
-- [Ballad of the Skeletons](Beets/Allen_Ginsberg_and_Paul_Mccartney/Ballad_of_the_Skeletons.md)
+- [Ballad of the Skeletons](Beets/Allen_Ginsberg_and_Paul_McCartney/Ballad_of_the_Skeletons.md)
 
 ### All Night Dave
 
@@ -752,10 +752,6 @@
 
 - [Anthology (1956-1980) Disc 1](Beets/Brenda_Lee/Anthology_1956-1980_Disc_1.md)
 - [Unknown Album](Beets/Brenda_Lee/Unknown_Album.md)
-
-### Brewer And Shipley
-
-- [Weeds](Beets/Brewer_And_Shipley/Weeds.md)
 
 ### Brewer & Shipley
 
@@ -1372,9 +1368,9 @@
 - [The Deep Purple Singles A’s & B’s](Beets/Deep_Purple/The_Deep_Purple_Singles_A’s_and_B’s.md)
 - [Who Do We Think We Are](Beets/Deep_Purple/Who_Do_We_Think_We_Are.md)
 
-### Delbert Mcclinton & Bruce Chan
+### Delbert McClinton & Bruce Chan
 
-- [Unknown Album](Beets/Delbert_Mcclinton_and_Bruce_Chan/Unknown_Album.md)
+- [Unknown Album](Beets/Delbert_McClinton_and_Bruce_Chan/Unknown_Album.md)
 
 ### Della Reese
 
@@ -1691,14 +1687,11 @@
 - [When I Was Cruel](Beets/Elvis_Costello/When_I_Was_Cruel.md)
 - [Momofuku](Beets/Elvis_Costello/Momofuku.md)
 
-### Elvis Costello And The Attractions
-
-- [Momofuku](Beets/Elvis_Costello_And_The_Attractions/Momofuku.md)
-
 ### Elvis Costello & The Attractions
 
 - [50,000,000 Elvis Fans Can’t Be Wrong](Beets/Elvis_Costello_and_The_Attractions/50_000_000_Elvis_Fans_Can’t_Be_Wrong.md)
 - [Blood & Chocolate](Beets/Elvis_Costello_and_The_Attractions/Blood_and_Chocolate.md)
+- [Momofuku](Beets/Elvis_Costello_and_The_Attractions/Momofuku.md)
 
 ### Elvis Presley
 
@@ -3498,9 +3491,9 @@
 
 - [The Best Of Maureen McGovern](Beets/Maureen_Mcgovern/The_Best_Of_Maureen_McGovern.md)
 
-### Mcclinton, Delbert
+### McClinton, Delbert
 
-- [Keeper Of The Flame](Beets/Mcclinton__Delbert/Keeper_Of_The_Flame.md)
+- [Keeper Of The Flame](Beets/McClinton__Delbert/Keeper_Of_The_Flame.md)
 
 ### Mc Hawking
 
@@ -4064,29 +4057,20 @@
 
 - [O.K.](Beets/Paul_Kaspian/OK.md)
 
-### Paul Mccartney
-
-- [Memory Almost Full](Beets/Paul_Mccartney/Memory_Almost_Full.md)
-- [New](Beets/Paul_Mccartney/New.md)
-- [Pure McCartney](Beets/Paul_Mccartney/Pure_McCartney.md)
-- [All the Best](Beets/Paul_Mccartney/All_the_Best.md)
-- [McCartney](Beets/Paul_Mccartney/McCartney.md)
-- [RAM](Beets/Paul_Mccartney/RAM.md)
-- [RAM](Beets/Paul_Mccartney/RAM.md)
-
 ### Paul McCartney
 
+- [Memory Almost Full](Beets/Paul_McCartney/Memory_Almost_Full.md)
+- [New](Beets/Paul_McCartney/New.md)
+- [Pure McCartney](Beets/Paul_McCartney/Pure_McCartney.md)
+- [All the Best](Beets/Paul_McCartney/All_the_Best.md)
+- [McCartney](Beets/Paul_McCartney/McCartney.md)
+- [RAM](Beets/Paul_McCartney/RAM.md)
+- [RAM](Beets/Paul_McCartney/RAM.md)
 
-### Paul Mccartney And Wings
+### Paul McCartney & Wings
 
-- [Wings Over America (Remastered)](Beets/Paul_Mccartney_And_Wings/Wings_Over_America_Remastered.md)
-
-### Paul McCartney And Wings
-
-
-### Paul Mccartney & Wings
-
-- [Band on the Run (2010 Remaster)](Beets/Paul_Mccartney_and_Wings/Band_on_the_Run_2010_Remaster.md)
+- [Band on the Run (2010 Remaster)](Beets/Paul_McCartney_and_Wings/Band_on_the_Run_2010_Remaster.md)
+- [Wings Over America (Remastered)](Beets/Paul_McCartney_and_Wings/Wings_Over_America_Remastered.md)
 
 ### Paul Revere & The Raiders
 
