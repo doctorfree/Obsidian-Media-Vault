@@ -1,3 +1,9 @@
+---
+banner: "assets/Books-Banner.png"
+banner_x: 0.3941
+banner_y: 0.5
+---
+
 # Authors
 
 ## See also
