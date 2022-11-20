@@ -107,8 +107,12 @@ WHERE author = "Kurt Vonnegut Jr." and published < 1970
 SORT published ASC
 ```
 
-Additional example Dataview book queries can be found in the `Dataviews` folder:
+Additional example Dataview Beets and Books queries can be found in the `Dataviews` folder:
 
+- [All Beets Albums](Dataviews/Beets_Albums.md)
+- [Beets Albums released in 1977](Dataviews/Beets_Albums_1977.md)
+- [Beets Albums released in the 70s](Dataviews/Beets_Albums_70s.md)
+- [Beets Albums in a Progressive genre](Dataviews/Beets_Progressive.md)
 - [All 50 Year Old Novels](Dataviews/All_50_Year_Old_Novels.md)
 - [All Books](Dataviews/All_Books.md)
 - [All Read Books](Dataviews/All_Read_Books.md)

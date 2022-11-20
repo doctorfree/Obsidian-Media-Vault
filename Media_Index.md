@@ -57,6 +57,13 @@ banner_y: 0.6
 
 - [Beets Albums by Artist](Beets_Albums_by_Artist.md)
 
+#### Beets albums filtered with Dataview queries
+
+- [All Beets Albums](Dataviews/Beets_Albums.md)
+- [Beets Albums released in 1977](Dataviews/Beets_Albums_1977.md)
+- [Beets Albums released in the 70s](Dataviews/Beets_Albums_70s.md)
+- [Beets Albums in a Progressive genre](Dataviews/Beets_Progressive.md)
+
 ### Roon Audio System
 
 - [Roon Albums](Roon_Albums.md)
