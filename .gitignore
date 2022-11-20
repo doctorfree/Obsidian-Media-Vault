@@ -11,6 +11,7 @@
 !.obsidian/plugins
 !.obsidian/plugins/*
 
+Tools/*/tmp/*
 Tools/*/scripts/tmp/*
 
 .index

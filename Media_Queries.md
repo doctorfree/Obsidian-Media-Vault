@@ -107,6 +107,13 @@ WHERE author = "Kurt Vonnegut Jr." and published < 1970
 SORT published ASC
 ```
 
+Additional example Dataview book queries can be found in the `Dataviews` folder:
+
+- [All 50 Year Old Novels](Dataviews/All_50_Year_Old_Novels.md)
+- [All Books](Dataviews/All_Books.md)
+- [All Read Books](Dataviews/All_Read_Books.md)
+- [All Unread Books](Dataviews/All_Unread_Books.md)
+
 ## See also
 
 - [Index of the Media Vault](Media_Index.md)

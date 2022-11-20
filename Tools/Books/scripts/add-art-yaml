@@ -1,0 +1,30 @@
+#!/bin/bash
+#
+# ![](../../assets/bookcovers/1327866271l/9570.jpg)
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Books"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+
+for book in */*.md
+do
+  [ -f ${book} ] || {
+    echo "${book} does not exist. Skipping."
+    continue
+  }
+  coverline=`grep "/assets/bookcovers/" ${book}`
+  [ "${coverline}" ] || continue
+  grep "title:" ${book} > /dev/null || continue
+  # Insert book cover art yaml matter for this book
+  echo "Inserting cover art yaml for ${book}"
+  cover=`echo ${coverline} | sed -e "s%\!\[\](../../%%" -e "s%)%%"`
+  echo "coverart: ${cover}" > /tmp/__insert__
+  sed '/title:/e cat /tmp/__insert__' ${book} > /tmp/foo$$
+  cp /tmp/foo$$ ${book}
+  rm -f /tmp/foo$$ /tmp/__insert__
+done

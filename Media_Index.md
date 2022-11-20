@@ -21,6 +21,13 @@ banner_y: 0.6
 - [Table of Books by Author](Table_of_Books_by_Author.md)
 - [Table of Books by Title](Table_of_Books_by_Title.md)
 
+### Books filtered with Dataview queries
+
+- [All 50 Year Old Novels](Dataviews/All_50_Year_Old_Novels.md)
+- [All Books](Dataviews/All_Books.md)
+- [All Read Books](Dataviews/All_Read_Books.md)
+- [All Unread Books](Dataviews/All_Unread_Books.md)
+
 ## CD
 
 - [CD Artists](CD_Artists.md)
