@@ -8,7 +8,9 @@ banner_y: 0.8
 
 Several custom scripts and utilities were used to automate the generation of markdown files in the Obsidian Media Vault. For example, the source data used in the generation of the Books sub-vault consisted of a CSV export of a Goodreads library along with XML format RSS feeds of all the bookshelves in that Goodreads library. The CSV and XML were processed using tools like [csvkit](https://csvkit.readthedocs.io/en/latest), `grep`, `sed`, `awk`, and other system utilities.
 
-There are several other techniques for generating, curating, and maintaining media libraries in Obsidian. See the [See also](#see_also) section below for links to some of these.
+There are several other techniques for generating, curating, and maintaining media libraries in Obsidian. Some use the commercial service [Readwise](https://readwise.io) which also has an official Obsidian plugin to export from Readwise into Obsidian. These process notes describe the automated workflow to export from Goodreads to Obsidian but Readwise is an excellent service if you can afford the subscription cost and the workflow is much simpler with Readwise.
+
+See the [See also](#see_also) section below for links to some of these other techniques.
 
 ## Table of Contents
 
@@ -2240,3 +2242,10 @@ Playlists from the Roon Audio System were generated using the [RoonCommandLine](
 - [Tutorial: Create a Bookshelf in Obsidian](https://thebuccaneersbounty.wordpress.com/2021/08/21/tutorial-how-to-create-a-bookshelf-in-obsidian/)
     - [Example Obsidian Bookshelf](https://github.com/GentryGibson/ObsidianBookshelf)
 - [Add books using Quickadd and Google Books API](https://github.com/Elaws/script_googleBooks_quickAdd)
+- [Readwise](https://readwise.io)
+    - [Official Readwise Obsidian Plugin](https://github.com/readwiseio/obsidian-readwise)
+    - [Readwise to Obsidian export How-To](https://help.readwise.io/article/125-how-does-the-readwise-to-obsidian-export-integration-work)
+- [Nicole van der Hoeven videos](https://www.youtube.com/@nicolevdh)
+    - [Getting Started with Obsidian](https://youtube.com/playlist?list=PL-1Nqb2waX4Vba6QDVS5rhnSb9pZGTO4b)
+    - [Readwise Reader](https://youtu.be/uNH1JDOmGJw)
+    - [Readwise Obsidian plugin](https://youtu.be/Rw1L5sxlnuU)
