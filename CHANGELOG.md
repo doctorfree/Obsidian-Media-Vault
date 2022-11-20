@@ -1,5 +1,24 @@
 # Changelog
 
+## Version 1.0.2 Release 1
+
+* Add coverart metadata to Books, add Dataviews folder with example Books dataview queries
+* Add banners to Process and README
+* Expand Process in Beets section
+* Add banner plugin and banner to top-level markdown
+* Add links to sub-vaults and other methods for Obsidian media vault creation
+* Cleanup old data and tools
+* Add example Beets dataview query
+* Add links to each library entry markdown
+* Add remaing See also sections to top-level markdown
+* Add See also section referencing media in other media folders to all media artist folder entries
+* Rename artists and folders
+* Move alt-J albums to single folder
+* Recreate Beets albums by artist, adding track info to each album
+* Add Beets Music Library
+* Fix artists with albums by same name as artist
+* Create markdown in Playlists for all Roon playlists
+
 ## Version 1.0.1 Release 1
 
 * Add track listings for Roon albums
