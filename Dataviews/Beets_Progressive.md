@@ -1,7 +1,7 @@
 ---
-banner: "assets/banners/Beets-Banner.png"
-banner_x: 0.5
-banner_y: 0.5
+banner: "assets/banners/Dataview-Banner.png"
+banner_x: 1.0
+banner_y: 1.0
 ---
 
 # Beets Progressive Rock Albums
@@ -12,7 +12,7 @@ This code displays all albums in a progressive genre from the Beets folder with 
 ```dataview
 TABLE WITHOUT ID
   artist AS "Artist",
-  album AS "Album",
+  link(file.link, album) as Album,
   genre AS "Genre",
   year AS "Year"
 FROM "Beets"
@@ -26,7 +26,7 @@ Output of above code:
 ```dataview
 TABLE WITHOUT ID
   artist AS "Artist",
-  album AS "Album",
+  link(file.link, album) as Album,
   genre AS "Genre",
   year AS "Year"
 FROM "Beets"
