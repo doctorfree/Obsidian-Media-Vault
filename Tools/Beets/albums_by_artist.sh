@@ -23,7 +23,7 @@ MBURL="https://musicbrainz.org"
 
 echo "# Beets Albums by Artist" > ${MDN}
 echo "" >> ${MDN}
-cat data/nav.md >> ${MDN}
+cat ../nav.md >> ${MDN}
 [ -d ${BEETS} ] || mkdir ${BEETS}
 [ -d ../../assets ] || mkdir ../../assets
 [ -d ../../assets/beetscovers ] || mkdir ../../assets/beetscovers

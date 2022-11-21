@@ -77,6 +77,9 @@ banner_y: 0.35
 - [Roon Playlists](Roon_Playlists.md)
 - [Roon Tracks by Artist](Roon_Tracks_by_Artist.md)
 
+#### Roon albums filtered with Dataview queries
+
+- [Roon Albums](Dataviews/Roon_Albums.md)
 
 ## Vinyl Records
 

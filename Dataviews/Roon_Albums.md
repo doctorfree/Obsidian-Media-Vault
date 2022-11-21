@@ -1,32 +1,32 @@
 ---
-banner: "assets/banners/Dataview-Banner.png"
-banner_x: 1.0
-banner_y: 1.0
+banner: "assets/banners/Roon-Banner2.png"
+banner_x: 0.2
+banner_y: 0.55
 ---
 
-# All Beets Albums
+# All Roon Albums
 
-This code displays all albums from the Beets folder sorted by artist.
+This code displays all albums from the Roon folder sorted by artist. The dataview queries look like the following:
 
 ````markdown
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "A")
 GROUP BY "**" + artist + "**"
 ```
 ````
 
-Or, for artists whose name does not start with A-Z,
+Where "A" is replaced by the appropriate uppercase letter. For artist names beginning with something other than A-Z, use:
 
 ````markdown
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       regexmatch("^(?![a-z]).+", lower(artist))
 GROUP BY "**" + artist + "**"
 ```
@@ -41,10 +41,10 @@ GROUP BY "**" + artist + "**"
 ## 0-9+
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       regexmatch("^(?![a-z]).+", lower(artist))
 GROUP BY "**" + artist + "**"
 ```
@@ -52,10 +52,10 @@ GROUP BY "**" + artist + "**"
 ## A
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "A")
 GROUP BY "**" + artist + "**"
 ```
@@ -63,10 +63,10 @@ GROUP BY "**" + artist + "**"
 ## B
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "B")
 GROUP BY "**" + artist + "**"
 ```
@@ -74,10 +74,10 @@ GROUP BY "**" + artist + "**"
 ## C
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "C")
 GROUP BY "**" + artist + "**"
 ```
@@ -85,10 +85,10 @@ GROUP BY "**" + artist + "**"
 ## D
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "D")
 GROUP BY "**" + artist + "**"
 ```
@@ -96,10 +96,10 @@ GROUP BY "**" + artist + "**"
 ## E
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "E")
 GROUP BY "**" + artist + "**"
 ```
@@ -107,10 +107,10 @@ GROUP BY "**" + artist + "**"
 ## F
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "F")
 GROUP BY "**" + artist + "**"
 ```
@@ -118,10 +118,10 @@ GROUP BY "**" + artist + "**"
 ## G
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "G")
 GROUP BY "**" + artist + "**"
 ```
@@ -129,10 +129,10 @@ GROUP BY "**" + artist + "**"
 ## H
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "H")
 GROUP BY "**" + artist + "**"
 ```
@@ -140,10 +140,10 @@ GROUP BY "**" + artist + "**"
 ## I
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "I")
 GROUP BY "**" + artist + "**"
 ```
@@ -151,10 +151,10 @@ GROUP BY "**" + artist + "**"
 ## J
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "J")
 GROUP BY "**" + artist + "**"
 ```
@@ -162,10 +162,10 @@ GROUP BY "**" + artist + "**"
 ## K
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "K")
 GROUP BY "**" + artist + "**"
 ```
@@ -173,10 +173,10 @@ GROUP BY "**" + artist + "**"
 ## L
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "L")
 GROUP BY "**" + artist + "**"
 ```
@@ -184,10 +184,10 @@ GROUP BY "**" + artist + "**"
 ## M
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "M")
 GROUP BY "**" + artist + "**"
 ```
@@ -195,10 +195,10 @@ GROUP BY "**" + artist + "**"
 ## N
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "N")
 GROUP BY "**" + artist + "**"
 ```
@@ -206,10 +206,10 @@ GROUP BY "**" + artist + "**"
 ## O
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "O")
 GROUP BY "**" + artist + "**"
 ```
@@ -217,10 +217,10 @@ GROUP BY "**" + artist + "**"
 ## P
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "P")
 GROUP BY "**" + artist + "**"
 ```
@@ -228,10 +228,10 @@ GROUP BY "**" + artist + "**"
 ## Q
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "Q")
 GROUP BY "**" + artist + "**"
 ```
@@ -239,10 +239,10 @@ GROUP BY "**" + artist + "**"
 ## R
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "R")
 GROUP BY "**" + artist + "**"
 ```
@@ -250,10 +250,10 @@ GROUP BY "**" + artist + "**"
 ## S
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "S")
 GROUP BY "**" + artist + "**"
 ```
@@ -261,10 +261,10 @@ GROUP BY "**" + artist + "**"
 ## T
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "T")
 GROUP BY "**" + artist + "**"
 ```
@@ -272,10 +272,10 @@ GROUP BY "**" + artist + "**"
 ## U
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "U")
 GROUP BY "**" + artist + "**"
 ```
@@ -283,10 +283,10 @@ GROUP BY "**" + artist + "**"
 ## V
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "V")
 GROUP BY "**" + artist + "**"
 ```
@@ -294,10 +294,10 @@ GROUP BY "**" + artist + "**"
 ## W
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "W")
 GROUP BY "**" + artist + "**"
 ```
@@ -305,10 +305,10 @@ GROUP BY "**" + artist + "**"
 ## X
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "X")
 GROUP BY "**" + artist + "**"
 ```
@@ -316,10 +316,10 @@ GROUP BY "**" + artist + "**"
 ## Y
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "Y")
 GROUP BY "**" + artist + "**"
 ```
@@ -327,10 +327,10 @@ GROUP BY "**" + artist + "**"
 ## Z
 
 ```dataview
-LIST link(rows.file.link, rows.album)
-FROM "Beets"
+LIST link(rows.file.link, rows.title)
+FROM "Roon"
 WHERE artist != null AND
-      album != null AND
+      title != null AND
       startswith(upper(artist), "Z")
 GROUP BY "**" + artist + "**"
 ```

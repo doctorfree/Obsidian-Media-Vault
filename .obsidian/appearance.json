@@ -4,5 +4,16 @@
   "interfaceFontFamily": "mononoki Nerd Font Mono",
   "textFontFamily": "mononoki Nerd Font Mono",
   "monospaceFontFamily": "VictorMono Nerd Font Mono",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "admonition-col2-col3-flex",
+    "admonitions",
+    "media_mobile",
+    "progress_bar",
+    "settings",
+    "sharetype",
+    "sidepane",
+    "zettelkasten",
+    "table-view-table"
+  ]
 }

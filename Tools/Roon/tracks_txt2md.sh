@@ -23,6 +23,6 @@ fi
 
 echo "# Roon Tracks by Artist" > ${MDN}
 echo "" >> ${MDN}
-cat data/nav.md >> ${MDN}
+cat ../nav.md >> ${MDN}
 
 cat ${TXT} | sed -e "s/Track titles by /### /" | sed -e "s/ :$//" >> ${MDN}

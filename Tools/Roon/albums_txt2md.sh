@@ -17,7 +17,7 @@ MDN="Albums_by_Artist.md"
 
 echo "# Roon Albums by Artist" > ${MDN}
 echo "" >> ${MDN}
-cat data/nav.md >> ${MDN}
+cat ../nav.md >> ${MDN}
 
 cat ${TXT} | sed '/^$/d' | \
              sed -e "s/Albums by artist/### /" | \

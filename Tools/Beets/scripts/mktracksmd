@@ -26,7 +26,7 @@ MDN="Beets_Album_Tracks.md"
 
 echo "# Beets Album Tracks" > ${MDN}
 echo "" >> ${MDN}
-cat ../data/nav.md >> ${MDN}
+cat ../../nav.md >> ${MDN}
 
 for inputdir in ${INPUT}/*
 do

@@ -22,7 +22,7 @@ playlistdir="${TOP}/Playlists"
 
   echo "# Roon Tracks by Playlist" > ${PLAYLISTS}
   echo "" >> ${PLAYLISTS}
-  cat data/nav.md >> ${PLAYLISTS}
+  cat ../nav.md >> ${PLAYLISTS}
 
   cat ${TXT} | sed -e "s/Track titles on playlist /### /" | sed -e "s/ :$//" >> ${PLAYLISTS}
 }
