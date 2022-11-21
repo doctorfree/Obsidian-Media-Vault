@@ -44,6 +44,14 @@ By Lisa Lisa & Cult Jam
 | A | **Just Git It Together** | 4:21 |
 | B | **Git It! (Beats Injection Mix)** | 3:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Full Force** | Mixed By |
+| **Tony Maserati** | Mixed By |
+| **Full Force** | Written-By, Producer, Arranged By |
+
 ## See also
 
 - [Kiss Your Tears Away](Kiss_Your_Tears_Away.md)

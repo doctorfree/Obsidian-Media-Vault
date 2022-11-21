@@ -52,6 +52,23 @@ By Joni Mitchell
 | B4 | **A Case Of You** | 4:20 |
 | B5 | **The Last Time I Saw Richard** | 4:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Art Direction |
+| **Stephen Stills** | Bass, Guitar |
+| **Russ Kunkel** | Drums |
+| **Henry Lewy** | Engineer |
+| **James Taylor (2)** | Guitar |
+| **Kevin Gray** | Lacquer Cut By |
+| **Steve Hoffman** | Lacquer Cut By |
+| **Sneaky Pete Kleinow** | Pedal Steel Guitar [Pedal Steel] |
+| **Tim Considine** | Photography By [Cover Photography] |
+| **Kevin Gray** | Remastered By |
+| **Steve Hoffman** | Remastered By |
+| **Joni Mitchell** | Written-By |
+
 ## See also
 
 - [Court And Spark](Court_And_Spark.md)

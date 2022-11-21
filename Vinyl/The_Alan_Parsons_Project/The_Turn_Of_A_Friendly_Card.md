@@ -48,6 +48,15 @@ By The Alan Parsons Project
 | B1 | **The Gold Bug** | 4:28 |
 |  | **The Turn Of A Friendly Card** | 16:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Willem Makkee** | Mastered By |
+| **Alan Parsons** | Producer, Engineer |
+| **Alan Parsons** | Written-By |
+| **Eric Woolfson** | Written-By |
+
 ## See also
 
 - [Eye In The Sky](Eye_In_The_Sky.md)

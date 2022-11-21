@@ -44,6 +44,12 @@ By Ray Stevens
 | A | **I Need Your Help Barry Manilow** | 3:44 |
 | B | **Daydream Romance** | 3:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Stevens** | Producer, Arranged By |
+
 ## See also
 
 - [](Ray_Stevens.md)

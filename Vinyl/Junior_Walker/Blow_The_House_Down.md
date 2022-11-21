@@ -44,6 +44,16 @@ By Junior Walker
 | A | **Blow The House Down** | 3:57 |
 | B | **Ball Baby** | 4:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Singleton** | Executive Producer |
+| **Benny Medina** | Producer |
+| **Kerry Ashby** | Producer |
+| **Ray Singelton** | Producer, Executive Producer |
+| **Alphonso Boyd** | Written-By |
+
 ## See also
 
 - [](Junior_Walker.md)

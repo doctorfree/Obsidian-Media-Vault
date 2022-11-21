@@ -44,6 +44,19 @@ By The Firesign Theatre
 | A | **Side .001** | 20:55 |
 | B | **Side .002** | 18:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Driml** | Engineer |
+| **Phil Cross** | Engineer |
+| **John Rose (7)** | Photography By |
+| **David Ossman** | Written-By, Performer, Producer |
+| **Peter Bergman (2)** | Written-By, Performer, Producer |
+| **Philip Austin** | Written-By, Performer, Producer |
+| **Philip Proctor** | Written-By, Performer, Producer |
+| **The Firesign Theatre** | Written-By, Performer, Producer |
+
 ## See also
 
 - ["Don't Crush That Dwarf, Hand Me The Pliers"](Dont_Crush_That_Dwarf__Hand_Me_The_Pliers.md)

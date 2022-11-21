@@ -44,6 +44,12 @@ By TLC
 | A | **Red Light Special** | 5:02 |
 | B | **Red Light Special (Instrumental)** | 5:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Babyface** | Producer |
+
 ## See also
 
 - [](TLC.md)

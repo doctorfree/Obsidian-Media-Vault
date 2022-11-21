@@ -44,6 +44,14 @@ By "Lipps, Inc."
 | A | **Funkytown** | 3:57 |
 | B | **All Night Dancing** | 3:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steven Productions** | Executive-Producer |
+| **Steven Greenberg** | Producer |
+| **Steven Greenberg** | Written-By |
+
 ## See also
 
 - [](Lipps__Inc.md)

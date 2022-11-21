@@ -52,6 +52,12 @@ By Spinners
 | B4 | **They Just Can't Stop It The (Games People Play)** | 3:28 |
 | B5 | **The Rubberband Man** | 3:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Thom Bell** | Producer, Arranged By |
+
 ## See also
 
 - [](Spinners.md)

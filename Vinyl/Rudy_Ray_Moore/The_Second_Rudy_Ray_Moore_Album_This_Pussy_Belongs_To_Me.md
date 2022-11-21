@@ -50,6 +50,20 @@ By Rudy Ray Moore
 | B2 | **California Poetry** |  |
 | B3 | **Mr Big Dick, And Others** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ralph Pierce** | Artwork [Cover] |
+| **Rudy Ray Moore** | Edited By |
+| **Jules Bihari** | Executive-Producer |
+| **Fillmore Street Soul Rebellion** | Music By |
+| **Take 5 Studio** | Photography By [Cover] |
+| **Rudy Ray Moore** | Producer |
+| **Theodore Toney** | Producer |
+| **Warren Lanier** | Sleeve Notes |
+| **Ben Taylor (3)** | Voice [Introduction] |
+
 ## See also
 
 - [](Rudy_Ray_Moore.md)

@@ -54,6 +54,28 @@ By The Ozark Mountain Daredevils
 | B5 | **Tidal Wave** | 4:10 |
 | B6 | **It'll Shine When It Shines** | 3:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nick DeCaro** | Accordion |
+| **Roland Young (3)** | Art Direction |
+| **Jody Troutman** | Backing Vocals |
+| **Glyn Johns** | Engineer |
+| **Beverly Parker (2)** | Graphics |
+| **Glyn Johns** | Guitar [High String] |
+| **Doug Sax** | Mastered By |
+| **Buddy Brayfield** | Performer [The Ozark Mountain Daredevils] |
+| **John Dillon (3)** | Performer [The Ozark Mountain Daredevils] |
+| **Larry Lee (3)** | Performer [The Ozark Mountain Daredevils] |
+| **Michael Granda** | Performer [The Ozark Mountain Daredevils] |
+| **Randle Chowning** | Performer [The Ozark Mountain Daredevils] |
+| **Steve Cash** | Performer [The Ozark Mountain Daredevils] |
+| **Harry Mittman** | Photography By |
+| **Jim Mayfield (2)** | Photography By [Black And White] |
+| **David Anderle** | Producer |
+| **Glyn Johns** | Producer |
+
 ## See also
 
 - [The Ozark Mountain Daredevils](The_Ozark_Mountain_Daredevils.md)

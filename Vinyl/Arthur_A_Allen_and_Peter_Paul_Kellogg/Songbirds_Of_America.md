@@ -66,6 +66,15 @@ By Arthur A. Allen & Peter Paul Kellogg
 | B11 | **Pewee** |  |
 | B12 | **Cardinal** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nathan Resnick** | Design, Edited By |
+| **Roger Tory Peterson** | Liner Notes |
+| **Arthur A. Allen** | Recorded By |
+| **Peter Paul Kellogg** | Recorded By, Engineer |
+
 ## See also
 
 - [](Arthur_A_Allen_and_Peter_Paul_Kellogg.md)

@@ -52,6 +52,13 @@ By Nat King Cole
 | B4 | **Dear Lonely Hearts** | 3:06 |
 | B5 | **Ramblin' Rose** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Dexter, Jr.** | Producer |
+| **Lee Gillette** | Producer |
+
 ## See also
 
 - [Make Her Mine](Make_Her_Mine.md)

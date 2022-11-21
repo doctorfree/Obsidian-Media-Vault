@@ -56,6 +56,53 @@ By No Doubt
 | B6 | **End It On This** | 3:45 |
 | B7 | **Tragic Kingdom** | 5:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tony Ferguson** | A&R [Interscope A&R] |
+| **Greg Smith (3)** | Baritone Saxophone |
+| **Tony Kanal** | Bass |
+| **Mitch Okmin** | Booking |
+| **Melissa Hasin** | Cello |
+| **Morbido / Bizarrio** | Creative Director, Design, Other [Digital Imaging] |
+| **Brent Smith (2)** | Directed By [Interscope A&R Assistance] |
+| **Paul Palmer** | Directed By [Trauma Records A&R] |
+| **Rob Kahane** | Directed By [Trauma Records A&R] |
+| **Adrian Young** | Drums, Percussion |
+| **Tom Dumont** | Guitar |
+| **Matthew Wilder** | Keyboards [Additional] |
+| **Seth Lichtenstein** | Legal |
+| **Robert Vosgien** | Mastered By |
+| **David J. Holman** | Mixed By |
+| **Paul Palmer** | Mixed By |
+| **Debra Boylan** | Other [Business Management] |
+| **Larry Einbund** | Other [Business Management] |
+| **Albhy Galuten** | Other [Director of Paradygm] |
+| **Kevin Matthew Frawley** | Other [Merchandise] |
+| **Daniel Arsenault** | Photography |
+| **Eric Stefani** | Piano, Keyboards |
+| **Matthew Wilder** | Producer |
+| **George Landress** | Recorded By |
+| **John Potoker** | Recorded By |
+| **Matt Hyde** | Recorded By |
+| **Phil Kaffel** | Recorded By |
+| **Ray Blair** | Recorded By |
+| **Bill Bergman** | Saxophone |
+| **Gerard Boisse** | Saxophone |
+| **Aloke DasGupta** | Sitar |
+| **Stephen Perkins** | Steel Drums |
+| **Donnie Spada** | Technician [Stage] |
+| **Nick Lane** | Trombone |
+| **Gabrial McNair** | Trombone, Percussion [Additional] |
+| **Les Lovitt** | Trumpet |
+| **Phil Jordan** | Trumpet |
+| **Gwen Stefani** | Vocals |
+| **Eric Stefani** | Written-By |
+| **Gwen Stefani** | Written-By |
+| **Tom Dumont** | Written-By |
+| **Tony Kanal** | Written-By |
+
 ## See also
 
 - [](No_Doubt.md)

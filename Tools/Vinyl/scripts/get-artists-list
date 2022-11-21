@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# get-artists-list
+#
+# Insert a table of contributors and their roles to all Vinyl albums
 
 TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
 URL="https://api.discogs.com/releases"
@@ -24,11 +28,17 @@ do
                   sed -e 's/^ *//' -e 's/ *$//'`
       [ "${release_id}" ] || continue
       extra=`echo "${album}" | sed -e "s%\.md%%"`
-      [ -f "${extra}.txt" ] || {
+      [ -s "${extra}.txt" ] || {
         curl --stderr /dev/null \
           -A "${AGE}" "${URL}/${release_id}" \
           -H "Authorization: Discogs token=${token}" | \
           jq -r '.extraartists[] | "\(.name)%\(.role)"' > "${extra}.txt"
+        sleep 1
+      }
+      [ -s "${extra}.txt" ] || {
+        echo "Empty roles file ${extra}.txt"
+        rm -f "${extra}.txt"
+        continue
       }
 
       # Insert artist roles list for this album

@@ -49,6 +49,26 @@ By The Move
 | B2 | **Brontosaurus** | 4:30 |
 | B3 | **Feel Too Good** | 9:33 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeff Lynne** | Backing Vocals |
+| **Roy Wood** | Backing Vocals |
+| **Rick Price (4)** | Bass |
+| **Graphreaks** | Design |
+| **Bev Bevan** | Drums, Percussion |
+| **Jeff Lynne** | Drums, Percussion |
+| **Roger Wake** | Engineer |
+| **Roy Wood** | Oboe, Sitar, Slide Guitar, Cello, Guitar, Bass, Saxophone [All Saxes] |
+| **Phil Copestake** | Other [Refreshments] |
+| **(The Famous) Upsy** | Percussion [Various Percussive Implements] |
+| **Jeff Lynne** | Piano, Guitar |
+| **Jeff Lynne** | Producer [Produced By] |
+| **Roy Wood** | Producer [Produced By] |
+| **Jeff Lynne** | Vocals |
+| **Roy Wood** | Vocals |
+
 ## See also
 
 - [Fire Brigade](Fire_Brigade.md)

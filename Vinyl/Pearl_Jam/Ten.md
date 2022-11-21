@@ -66,6 +66,49 @@ By Pearl Jam
 | D4 | **Deep** |  |
 | D5 | **Release** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Goldstone** | A&R |
+| **Andy Fischer** | Art Direction, Artwork [Concept], Design |
+| **Eddie Vedder** | Art Direction, Artwork [Concept], Design |
+| **Jeff Ament** | Art Direction, Artwork [Concept], Design |
+| **Eddie Vedder** | Artwork [Additional Art] |
+| **Steve Pitstick** | Artwork [Additional Art] |
+| **Jeff Ament** | Bass [Basses] |
+| **Walter Gray** | Cello |
+| **Dave Krusen** | Drums |
+| **Nick Didia** | Engineer |
+| **Adrian Moore (3)** | Engineer [Additional Engineering] |
+| **Billy Bowers** | Engineer [Additional Engineering] |
+| **Dave Hillis** | Engineer [Additional Engineering] |
+| **Don Gilmore** | Engineer [Additional Engineering] |
+| **Darren Tablan** | Engineer [Assistant] |
+| **Tom Tapley** | Engineer [Assistant] |
+| **Mike McCready** | Guitar [Guitars] |
+| **Stone Gossard** | Guitar [Guitars] |
+| **Wes Garland** | Lacquer Cut By |
+| **Richard Leher** | Legal [Attorney] |
+| **Eddie Vedder** | Lyrics By |
+| **Kelly Curtis** | Management |
+| **Don Muller** | Management [Agent, Triad] |
+| **Bob Ludwig** | Mastered By |
+| **Tim Palmer** | Mixed By |
+| **Dave Krusen** | Music By |
+| **Eddie Vedder** | Music By |
+| **Jeff Ament** | Music By |
+| **Mike McCready** | Music By |
+| **Stone Gossard** | Music By |
+| **Tim Palmer** | Performer [Fire Extinguisher, Pepper Shaker] |
+| **Lance Mercer** | Photography By [Photos] |
+| **Rick Parashar** | Piano, Organ, Percussion |
+| **Pearl Jam** | Producer |
+| **Rick Parashar** | Producer |
+| **Bob Ludwig** | Remastered By [2008] |
+| **Brendan O'Brien** | Remix |
+| **Eddie Vedder** | Vocals |
+
 ## See also
 
 - [](Pearl_Jam.md)

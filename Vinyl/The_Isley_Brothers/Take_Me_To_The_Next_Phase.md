@@ -44,6 +44,18 @@ By The Isley Brothers
 | A | **Take Me To The Next Phase (Part 1)** | 4:12 |
 | B | **Take Me To The Next Phase (Part 2)** | 3:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Isley Brothers** | Arranged By, Producer |
+| **Chris Jasper** | Written-By |
+| **Ernie Isley** | Written-By |
+| **Marvin Isley** | Written-By |
+| **O'Kelly Isley** | Written-By |
+| **Ronald Isley** | Written-By |
+| **Rudolph Isley** | Written-By |
+
 ## See also
 
 - [](The_Isley_Brothers.md)

@@ -52,6 +52,46 @@ By Average White Band
 | B4 | **I Just Can't Give You Up** | 3:24 |
 | B5 | **There's Always Someone Waiting** | 5:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Average White Band** | Arranged By |
+| **Roger Ball** | Arranged By [Horns] |
+| **Alan Gorrie** | Backing Vocals |
+| **Hamish Stuart** | Backing Vocals |
+| **Onnie McIntyre** | Backing Vocals, Guitar |
+| **Alan Gorrie** | Bass |
+| **Ralph MacDonald** | Congas, Percussion [Additional] |
+| **Barry Feinstein** | Design, Photography By |
+| **Camouflage Productions** | Design, Photography By [For] |
+| **Robbie McIntosh (2)** | Drums, Percussion |
+| **Gene Paul** | Engineer |
+| **Howard Albert** | Engineer |
+| **Karl Richardson** | Engineer |
+| **Lew Hahn** | Engineer |
+| **Ron Albert** | Engineer |
+| **Steve Klein** | Engineer |
+| **Bobby Warner** | Engineer [Additional Recording] |
+| **Jimmy Douglass** | Engineer [Additional Recording] |
+| **Hamish Stuart** | Guitar [Solo], Soloist |
+| **Onnie McIntyre** | Guitar [Solo], Soloist |
+| **Tim Bruckner** | Illustration [Front Cover] |
+| **Roger Ball** | Keyboards, Arranged By [Horns], Alto Saxophone, Baritone Saxophone |
+| **Hamish Stuart** | Lead Guitar |
+| **Hamish Stuart** | Lead Vocals |
+| **Alan Gorrie** | Lead Vocals, Design Concept [Logo Concept] |
+| **Dennis King** | Mastered By |
+| **Arif Mardin** | Mixed By [Re-mixed By] |
+| **Gene Paul** | Mixed By [Re-mixed By] |
+| **Arif Mardin** | Producer |
+| **Malcolm Duncan** | Tenor Saxophone |
+| **Michael Brecker** | Tenor Saxophone |
+| **Glenn Ferris** | Trombone |
+| **Marvin Stamm** | Trumpet |
+| **Mel Davis** | Trumpet |
+| **Randy Brecker** | Trumpet |
+
 ## See also
 
 - [](Average_White_Band.md)

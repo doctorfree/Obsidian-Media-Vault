@@ -55,6 +55,31 @@ By Professor Longhair
 | B5 | **Mardi Gras In New Orleans** | 2:42 |
 | B6 | **She Walks Right In** | 2:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Robert Parker** | Alto Saxophone |
+| **Alvin Tyler** | Baritone Saxophone |
+| **Edgar Blanchard** | Bass |
+| **Unknown Artist** | Bass |
+| **Pete Lowry** | Concept By [Series Concept] |
+| **Stanislaw Zagorski** | Design |
+| **Al Miller (3)** | Drums |
+| **Earl Palmer** | Drums |
+| **John Woodrow** | Drums |
+| **Dennis King** | Engineer [Mastering Engineer] |
+| **Mike Leadbitter** | Liner Notes |
+| **James LaRocca** | Photography By |
+| **Ahmet Ertegun** | Producer |
+| **Herb Abramson** | Producer |
+| **Jerry Wexler** | Producer |
+| **Ilhan Mimaroglu** | Research, Compiled By |
+| **Jerry Wexler** | Research, Compiled By, Liner Notes |
+| **Lee Allen** | Tenor Saxophone |
+| **Unknown Artist** | Tenor Saxophone |
+| **Henry Roeland Byrd** | Vocals, Piano, Written-By |
+
 ## See also
 
 - [Crawfish Fiesta](Crawfish_Fiesta.md)

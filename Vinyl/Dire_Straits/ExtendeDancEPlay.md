@@ -46,6 +46,19 @@ By Dire Straits
 | B1 | **Two Young Lovers** | 3:22 |
 | B2 | **If I Had You** | 4:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Illsley** | Bass |
+| **Terry Williams (3)** | Drums |
+| **John Etchells** | Engineer |
+| **Hal Lindes** | Guitar |
+| **Bob Ludwig** | Lacquer Cut By |
+| **Alan Clark** | Piano |
+| **Mark Knopfler** | Producer, Written-By |
+| **Mark Knopfler** | Vocals, Guitar |
+
 ## See also
 
 - [Brothers In Arms](Brothers_In_Arms.md)

@@ -44,6 +44,12 @@ By The Moments
 | A | **I Don't Wanna Go** | 3:25 |
 | B | **Oh I Could Have Loved You** | 4:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sylvia Robinson** | Producer |
+
 ## See also
 
 - [](The_Moments.md)

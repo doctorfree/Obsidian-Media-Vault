@@ -45,6 +45,16 @@ By XTC
 | B1 | **Buschman President** | 3:10 |
 | B2 | **Pulsing Pulsing** | 1:36 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hugh Padgham** | Engineer |
+| **Steve Shotter** | Illustration [Illustrations] |
+| **Steve Lillywhite** | Producer |
+| **Cooke Key** | Sleeve |
+| **George Chambers** | Tape Op |
+
 ## See also
 
 - [The Loving](The_Loving.md)

@@ -52,6 +52,33 @@ By Flo & Eddie
 | B4 | **Sway When You Walk** | 2:02 |
 | B5 | **Moving Targets** | 4:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Erik Scott** | Bass |
+| **Allan Macmillan** | Conductor [Strings, Horns], Arranged By |
+| **Ron Coro** | Design |
+| **Mick Haggerty** | Design [Logo] |
+| **Craig Krampf** | Drums |
+| **David McMacken** | Illustration |
+| **Andy Cahan** | Keyboards |
+| **Phil Reed (6)** | Lead Guitar |
+| **Mike Reese** | Mastered By |
+| **Ethan Russell** | Photography By |
+| **Howard Kaylan** | Producer |
+| **Mark Volman** | Producer |
+| **Ron Nevison** | Producer |
+| **Skip Taylor** | Producer |
+| **Ron Nevison** | Recorded By, Mixed By |
+| **Cathy Callon** | Recorded By, Mixed By [Assistant] |
+| **Eric Schilling** | Recorded By, Mixed By [Assistant] |
+| **Rick Smith (2)** | Recorded By, Mixed By [Assistant] |
+| **Howard Kaylan** | Vocals |
+| **Mark Volman** | Vocals, Guitar |
+| **Howard Kaylan** | Written-By |
+| **Mark Volman** | Written-By |
+
 ## See also
 
 - ["Illegal, Immoral And Fattening"](Illegal__Immoral_And_Fattening.md)

@@ -72,6 +72,38 @@ By Red Hot Chili Peppers
 | H2 | **Turn It Again** | 6:05 |
 | H3 | **Death Of A Martian** | 4:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Flea** | Bass, Trumpet |
+| **Chad Smith** | Drums |
+| **Chris Holmes (3)** | Engineer [Additional] |
+| **Dana Nielsen** | Engineer [Additional] |
+| **Jason Lader** | Engineer [Additional] |
+| **John Frusciante** | Guitar, Backing Vocals |
+| **Kevin Gray** | Lacquer Cut By |
+| **Steve Hoffman** | Lacquer Cut By |
+| **Kevin Gray** | Mastered By |
+| **Steve Hoffman** | Mastered By |
+| **Andrew Scheps** | Mixed By |
+| **Ryan Hewitt** | Mixed By |
+| **Jason Gossman** | Mixed By [Assistant] |
+| **Sara Killion** | Mixed By [Assistant] |
+| **Lenny Castro** | Percussion [Additional] |
+| **Paulinho Da Costa** | Percussion [Additional] |
+| **Gus Van Sant** | Photography By |
+| **Michael Muller (2)** | Photography By |
+| **Rick Rubin** | Producer |
+| **Andrew Scheps** | Recorded By |
+| **Mark Linett** | Recorded By |
+| **Ryan Hewitt** | Recorded By |
+| **Anthony Zamora** | Recorded By [Assistant] |
+| **Phillip Broussard** | Recorded By [Assistant] |
+| **Jon Cohan** | Technician [Drums] |
+| **Dave Lee (4)** | Technician [Guitar] |
+| **Anthony Kiedis** | Vocals |
+
 ## See also
 
 - [Freaky Styley](Freaky_Styley.md)

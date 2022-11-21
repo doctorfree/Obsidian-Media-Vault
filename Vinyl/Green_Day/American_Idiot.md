@@ -55,6 +55,39 @@ By Green Day
 |  | **Homecoming** | 9:18 |
 | D2 | **Whatsername** | 4:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Monika Clinger** | A&R [Assistant] |
+| **Chris Bilheimer** | Art Direction, Photography By |
+| **Mike Dirnt** | Bass, Vocals |
+| **Cheryl Jenets** | Coordinator [Project Coordinator] |
+| **Tre Cool** | Drums, Vocals |
+| **Nigel Lundemo** | Edited By [Additional Pro Tools] |
+| **Doug McKean** | Engineer |
+| **Brian Vibberts** | Engineer [Assistant] |
+| **Chris Dugan** | Engineer [Assistant] |
+| **Dmitar Krnjaic** | Engineer [Assistant] |
+| **Greg Burns** | Engineer [Assistant] |
+| **Jimmy Hoyson** | Engineer [Assistant] |
+| **Joe Brown (2)** | Engineer [Assistant] |
+| **Reto Peter** | Engineer [Assistant] |
+| **Billie Joe Armstrong** | Guitar, Lead Vocals |
+| **Pat Magnarella** | Management |
+| **Pat Magnarella Company** | Management |
+| **Ted Jensen** | Mastered By |
+| **Stan Ricker** | Mastered By [1/2 Speed Mastering By] |
+| **Chris Lord-Alge** | Mixed By |
+| **Jason Freese** | Musician [Additional], Saxophone |
+| **John Roecker** | Other [Documentarian] |
+| **Green Day** | Producer, Music By |
+| **Rob Cavallo** | Producer, Musician [Additional], Piano |
+| **Kenny Butler** | Technician [Drum Tech] |
+| **Mike Fasano** | Technician [Drum Tech] |
+| **Bill Schneider** | Technician [Guitar Tech] |
+| **Billie Joe Armstrong** | Words By |
+
 ## See also
 
 - [Revolution Radio](Revolution_Radio.md)

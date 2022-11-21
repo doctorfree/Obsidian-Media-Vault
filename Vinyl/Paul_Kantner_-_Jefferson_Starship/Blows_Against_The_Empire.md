@@ -52,6 +52,14 @@ By Paul Kantner / Jefferson Starship
 | B5 | **X-M** |  |
 | B6 | **Starship** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Kantner** | Guitar, Vocals, Banjo, Bass [Bass Machine] |
+| **Grace Slick** | Piano, Vocals |
+| **Paul Kantner** | Producer |
+
 ## See also
 
 - [](Paul_Kantner_-_Jefferson_Starship.md)

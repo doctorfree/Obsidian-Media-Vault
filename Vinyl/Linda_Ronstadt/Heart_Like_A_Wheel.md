@@ -52,6 +52,40 @@ By Linda Ronstadt
 | B4 | **Keep Me From Blowing Away** | 3:10 |
 | B5 | **You Can Close Your Eyes** | 3:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andrew Gold** | Acoustic Guitar |
+| **Bob Warford** | Acoustic Guitar |
+| **Gregory Rose** | Arranged By [Strings], Conductor |
+| **Andrew Gold** | Backing Vocals |
+| **Kenny Edwards** | Backing Vocals |
+| **Linda Ronstadt** | Backing Vocals |
+| **Kenny Edwards** | Bass |
+| **Rod Dyer** | Design |
+| **Andrew Gold** | Drums |
+| **Andrew Gold** | Electric Piano |
+| **David Lindley** | Fiddle |
+| **Jimmie Fadden** | Harmonica |
+| **Dr. Groove (4)** | Lacquer Cut By |
+| **Mr. Record** | Lacquer Cut By |
+| **Bernie Grundman** | Mastered By |
+| **Andrew Gold** | Percussion |
+| **Len Correa** | Photography |
+| **Eve Babitz** | Photography [Innersleeve] |
+| **Andrew Gold** | Piano |
+| **Peter Asher** | Producer |
+| **Dennis Ferrante** | Recorded By [Additional] |
+| **George Massenburg** | Recorded By [Additional] |
+| **John Haeny** | Recorded By [Additional] |
+| **Peter Kelsey** | Recorded By [Additional] |
+| **Peter Swettenham** | Recorded By [Additional] |
+| **Dave Hassinger** | Recorded By, Mixed By |
+| **Val Garay** | Recorded By, Mixed By |
+| **Sneaky Pete Kleinow** | Steel Guitar |
+| **Andrew Gold** | Tambourine |
+
 ## See also
 
 - [Don't Cry Now](Dont_Cry_Now.md)

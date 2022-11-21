@@ -44,6 +44,29 @@ By Slow Gherkin
 | B1 | **Salsa III** |  |
 | B2 | **Drunken Sailor** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Peter Cowan (2)** | Accordion |
+| **Phil Boutelle** | Alto Saxophone, Vocals |
+| **Ian Berry (5)** | Artwork [Cover Art] |
+| **Zack Kent** | Bass |
+| **James Rickman** | Booking |
+| **Matt Porter** | Booking |
+| **James Rickman** | Drums, Vocals |
+| **Megan Rickman** | Graphics [Vinyl] |
+| **A.J. Marquez** | Guitar, Vocals |
+| **Bill Lightner** | Mastered By |
+| **Kym Agresti** | Photography By [Photograph] |
+| **Steve Loveless** | Recorded By, Mixed By |
+| **Rob Pratt** | Tenor Saxophone, Vocals |
+| **Brigham Hausman** | Trombone |
+| **Josh Montgomery (2)** | Trumpet |
+| **Matt Porter** | Trumpet |
+| **Slow Gherkin** | Written-By [All Of The Music] |
+| **Tom Rickman (2)** | Written-By [Main Horn Line] |
+
 ## See also
 
 - [](Slow_Gherkin.md)

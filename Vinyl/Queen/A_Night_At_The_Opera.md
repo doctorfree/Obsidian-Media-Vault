@@ -54,6 +54,28 @@ By Queen
 | B4 | **Bohemian Rhapsody** | 5:55 |
 | B5 | **God Save The Queen** | 1:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Costa** | Art Direction |
+| **Queen** | Composed By, Arranged By, Performer [Performed By] |
+| **John Deacon** | Electric Bass |
+| **Mike Stone** | Engineer [Executive] |
+| **Gary Lyons** | Engineer [Invaluable Additional Engineering] |
+| **Brian May** | Guitar, Guitar [Orchestral Backdrops] |
+| **Terry Dunavan** | Lacquer Cut By |
+| **John Reid (8)** | Management |
+| **John Harris** | Other [Equipment Supervision] |
+| **Roger Taylor** | Percussion |
+| **Queen** | Producer |
+| **Roy Thomas Baker** | Producer |
+| **Freddie Mercury** | Vocals, Piano [Bechstein Debauchery] |
+| **Brian May** | Written-By |
+| **Freddie Mercury** | Written-By |
+| **John Deacon** | Written-By |
+| **Roger Taylor** | Written-By |
+
 ## See also
 
 - [Another One Bites The Dust](Another_One_Bites_The_Dust.md)

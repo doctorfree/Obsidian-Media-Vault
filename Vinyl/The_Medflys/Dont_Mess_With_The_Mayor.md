@@ -48,6 +48,13 @@ Autographed by Carl Christ with inscription "Ron, You made my day"
 | A | **Don't Mess With The Mayor** | 3:20 |
 | B | **State Of Mine** | 4:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Carl Christ** | Written-By |
+| **Dale Kurokawa** | Written-By, Producer |
+
 ## See also
 
 - [](The_Medflys.md)

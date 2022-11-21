@@ -44,6 +44,15 @@ By Brick
 | A | **Dusic** | 3:43 |
 | B | **Happy** | 4:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brick** | Arranged By |
+| **Ed Seay** | Engineer |
+| **Brick** | Producer |
+| **Phil Benton** | Producer |
+
 ## See also
 
 - [](Brick.md)

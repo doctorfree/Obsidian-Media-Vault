@@ -54,6 +54,24 @@ By Gruppo Sportivo
 | B5 | **On Her Own** | 3:19 |
 | B6 | **The Goofananahoo** | 2:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gruppo Sportivo** | Arranged By |
+| **Bob Lens** | Artwork |
+| **Ellen (11)** | Artwork |
+| **Josee Van Iersel** | Backing Vocals |
+| **Richard Schulte Nordholt** | Bass |
+| **Max Mollinger** | Drums |
+| **A Swedish Ladies Volleyball Team** | Engineer |
+| **Peter Calicher** | Keyboards |
+| **The Carmen Hairset** | Mixed By, Producer |
+| **Eddie Conard** | Percussion |
+| **Pieter Van Der Meer** | Photography By [Photowork] |
+| **Hans Vandenburg** | Vocals [20th Century Vox], Guitar |
+| **Van DeFruits** | Written-By [All Songs] |
+
 ## See also
 
 - [Back To 78](Back_To_78.md)

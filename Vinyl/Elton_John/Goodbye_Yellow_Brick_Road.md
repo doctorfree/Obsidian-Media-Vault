@@ -59,6 +59,24 @@ By Elton John
 | D4 | **Social Disease** |  |
 | D5 | **Harmony** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Larkham** | Art Direction |
+| **Michael Ross (3)** | Art Direction |
+| **Stephen Brown (2)** | Coordinator |
+| **David Hentschel** | Engineer |
+| **Andy Scott (2)** | Engineer [Assistant] |
+| **Peter Kelsey** | Engineer [Assistant] |
+| **Ian Beck** | Illustration [Cover] |
+| **Doug Sax** | Lacquer Cut By, Mastered By |
+| **Robert Hadley** | Lacquer Cut By, Mastered By |
+| **Del Newman** | Other [Orchestral Arrangement] |
+| **Gus Dudgeon** | Producer |
+| **Bob Ludwig** | Remastered By |
+| **Elton John & Bernie Taupin** | Written By |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

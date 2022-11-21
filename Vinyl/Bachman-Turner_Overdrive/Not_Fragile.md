@@ -51,6 +51,26 @@ By Bachman-Turner Overdrive
 | B3 | **Second Hand** | 3:30 |
 | B4 | **Givin' It All Away** | 3:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **C.F. Turner** | Bass |
+| **Rob Bachman** | Drums |
+| **Blair Thornton** | Guitar |
+| **Randy Bachman** | Guitar |
+| **Kent Duncan** | Mastered By |
+| **Bruce Allen Management (Direction)** | Other |
+| **John Austin, Weasel (Greg) Morgan (Equipment)** | Other |
+| **Rob Bachman** | Percussion |
+| **Bruce Larson** | Photography By |
+| **John Brott** | Photography By |
+| **Randy Bachman** | Producer |
+| **Blair Thornton** | Written-By |
+| **C.F. Turner** | Written-By |
+| **Randy Bachman** | Written-By |
+| **Rob Bachman** | Written-By |
+
 ## See also
 
 - [Bachman-Turner Overdrive II](Bachman-Turner_Overdrive_II.md)

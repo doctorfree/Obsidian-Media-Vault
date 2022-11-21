@@ -44,6 +44,12 @@ By Johnny Cash
 | A | **Big River** | 2:28 |
 | B | **Big River** | 2:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Johnny Cash** | Written-By |
+
 ## See also
 
 - [](Johnny_Cash.md)

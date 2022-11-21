@@ -51,6 +51,26 @@ By James Gang
 | B3 | **White Man / Black Man** | 5:39 |
 | B4 | **Live My Life Again** | 5:26 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Baker (5)** | Arranged By [Horns] |
+| **Patrick Cullie** | Artwork [Back Cover Design] |
+| **Tom Wright (7)** | Artwork [Back Cover Design] |
+| **Barry Feinstein** | Artwork [Front Cover Design] |
+| **Tom Wilkes (2)** | Artwork [Front Cover Design] |
+| **Bill Szymczyk** | Engineer |
+| **Edison Youngblood** | Engineer |
+| **Ken Hamann** | Engineer |
+| **Tom Baker (5)** | Horns |
+| **Philip Melnick** | Photography By |
+| **Tom Wright (7)** | Photography By |
+| **Bill Szymczyk** | Producer |
+| **James Gang** | Producer |
+| **Bill Szymczyk** | Remix [Engineer] |
+| **Don Gehman** | Technician [Live Sound] |
+
 ## See also
 
 - [](James_Gang.md)

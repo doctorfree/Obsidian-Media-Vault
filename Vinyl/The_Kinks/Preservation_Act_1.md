@@ -53,6 +53,30 @@ By The Kinks
 | B4 | **Sitting In The Midday Sun** | 3:40 |
 | B5 | **Demolition** | 4:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Davies** | Arranged By, Producer, Written-By |
+| **Pat Doyle (2)** | Art Direction |
+| **Krysia Kocjan** | Backing Vocals |
+| **Lee Pavey** | Backing Vocals |
+| **Lewis Rich** | Backing Vocals |
+| **Pamela Travis** | Backing Vocals |
+| **Sue Brown** | Backing Vocals |
+| **Dave Davies** | Engineer |
+| **Roger Beale** | Engineer |
+| **Bob Ludwig** | Mastered By |
+| **Alan Holmes (2)** | Performer |
+| **Dave Davies** | Performer |
+| **John Beecham** | Performer |
+| **John Dalton** | Performer |
+| **John Gosling (2)** | Performer |
+| **Laurie Brown** | Performer |
+| **Mick Avory** | Performer |
+| **Ray Davies** | Performer |
+| **Chris Hopper** | Photography By |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

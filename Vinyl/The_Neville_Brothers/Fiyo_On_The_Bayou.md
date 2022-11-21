@@ -50,6 +50,43 @@ By The Neville Brothers
 | B3 | **Mona Lisa** | 3:44 |
 | B4 | **Run Joe** | 3:34 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Wardell Quezergue** | Arranged By [Horns Arranged By] |
+| **Chuck Beeson** | Art Direction |
+| **Jeffrey Kent Ayeroff** | Art Direction |
+| **David Barard** | Bass |
+| **Alfred Brown** | Contractor [String Contractor] |
+| **Melanie Nissen** | Design |
+| **Eddie Garcia** | Engineer [Assistant Engineer, Atlantic Studios] |
+| **Danny Jones (2)** | Engineer [Assistant Engineer, Sea-Saint Studios] |
+| **Cornelius Dennis, Jr.** | Engineer [Assistant Engineer, Studio In The Country] |
+| **Cosimo V. Matassa** | Engineer [Assistant Engineer, Studio In The Country] |
+| **David Farrell** | Engineer [Assistant Engineer, Studio In The Country] |
+| **Skip Godwin** | Engineer [Assistant Engineer, Studio In The Country] |
+| **Carl Blouin** | Horns [Horn Section], Baritone Saxophone |
+| **Amadee Castenell** | Horns [Horn Section], Saxophone |
+| **Jim Duggan** | Horns [Horn Section], Trombone |
+| **Jim Weber (2)** | Horns [Horn Section], Trumpet |
+| **Joe Foxx** | Horns [Horn Section], Trumpet |
+| **Lou Beach** | Illustration [Front Cover Illustration] |
+| **Pearl Beach** | Illustration [Front Cover Illustration] |
+| **George Piros** | Lacquer Cut By |
+| **Bill Johnston (3)** | Management [Management And Direction] |
+| **George Piros** | Mastered By |
+| **David Gahr** | Photography By [Photo Of Aaron, Art & Cyril Neville] |
+| **Jeanette Korad** | Photography By [Photo Of Charles Neville] |
+| **Syndey Byrd** | Photography By [Photo Of George "Big Chief Jolly" Landry] |
+| **Joel Dorn** | Producer |
+| **Hal Willner** | Production Manager [Production Associate] |
+| **Gene Paul** | Recorded By, Mixed By [Re-mixed By] |
+| **Herman Ernest III** | Rhythm Section, Drums |
+| **Leo Nocentelli** | Rhythm Section, Guitar |
+| **Art Neville** | Rhythm Section, Keyboards |
+| **David "Fathead" Newman** | Soloist, Tenor Saxophone [All Tenor Saxophone Solos] |
+
 ## See also
 
 - [](The_Neville_Brothers.md)

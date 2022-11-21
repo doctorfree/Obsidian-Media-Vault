@@ -54,6 +54,17 @@ By The Who
 | B5 | **A Legal Matter** |  |
 | B6 | **The Ox** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Entwistle** | Bass Guitar |
+| **David Wedgbury** | Cover [Photograph] |
+| **Keith Moon** | Drums |
+| **Miles Showell** | Lacquer Cut By |
+| **Pete Townshend** | Lead Guitar |
+| **Roger Daltrey** | Lead Vocals |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

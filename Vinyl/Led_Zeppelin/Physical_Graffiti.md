@@ -57,6 +57,28 @@ By Led Zeppelin
 | D4 | **Black Country Woman** | 4:24 |
 | D5 | **Sick Again** | 4:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **AGI (4)** | Artwork [Package Concept], Design |
+| **Mike Doud (2)** | Artwork [Package Concept], Design |
+| **Peter Corriston** | Artwork [Package Concept], Design |
+| **Maurice Tate** | Artwork [Tinting Extrordinaire] |
+| **Peter Grant** | Executive-Producer |
+| **David Heffernan** | Illustration [Window] |
+| **John Davis (4)** | Lacquer Cut By |
+| **Eddie Kramer** | Mixed By |
+| **Keith Harwood** | Mixed By |
+| **BP Fallon** | Photography By |
+| **Elliott Erwitt** | Photography By |
+| **Ray Harper** | Photography By |
+| **Andy Johns** | Recorded By |
+| **Eddie Kramer** | Recorded By |
+| **George Chkiantz** | Recorded By |
+| **Ron Nevison** | Recorded By |
+| **Jimmy Page** | Remastered By, Producer |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

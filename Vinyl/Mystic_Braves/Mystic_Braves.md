@@ -51,6 +51,17 @@ By Mystic Braves
 | B3 | **Vicious Cycle** |  |
 | B4 | **High N'Dry ** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tony Malacara** | Bass, Vocals |
+| **Cameron Gartung** | Drums, Percussion |
+| **Julian Ducatenzeiler** | Guitar, Vocals |
+| **Shane Stotsenberg** | Guitar, Vocals |
+| **Julian Ducatenzeiler** | Songwriter |
+| **Tony Malacara** | Songwriter |
+
 ## See also
 
 - [Desert Island](Desert_Island.md)

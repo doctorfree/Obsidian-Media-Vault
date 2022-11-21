@@ -54,6 +54,27 @@ By Various
 | B5 | **Kids (Poopdeck Pappy's Opinion)** | 4:24 |
 | B6 | **I'm Popeye The Sailor Man (Boop! Boop!)** | 1:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Van Dyke Parks** | Arranged By, Conductor |
+| **Christopher Whorf** | Design |
+| **Rick Riccio** | Engineer |
+| **Bob Gravenor** | Engineer [Location Recording] |
+| **Phil Dunne** | Engineer [Location Recording] |
+| **Randy Honaker** | Engineer [Location Recording] |
+| **Mike Hatcher** | Engineer [Second Engineer] |
+| **Brian Gardner** | Lacquer Cut By [Runout Etching ❀] |
+| **The Mysterious Karsten** | Organ |
+| **Doug Dillard** | Performer [The Falcons] |
+| **Harry Nilsson** | Performer [The Falcons] |
+| **Klaus Voormann** | Performer [The Falcons] |
+| **Ray Cooper** | Performer [The Falcons] |
+| **The Mysterious Karsten** | Performer [The Falcons] |
+| **Van Dyke Parks** | Performer [The Falcons] |
+| **Harry Nilsson** | Written-By, Producer |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

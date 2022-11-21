@@ -50,6 +50,15 @@ By Jorma Kaukonen
 | B3 | **Good Shepherd** | 4:19 |
 | B4 | **Mann's Fate** | 6:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Maureen Hunter** | Artwork |
+| **Brooklyn Bridge Publications** | Layout |
+| **Toni A. Brown** | Liner Notes |
+| **Leslie D. Kippel** | Producer |
+
 ## See also
 
 - [](Jorma_Kaukonen.md)

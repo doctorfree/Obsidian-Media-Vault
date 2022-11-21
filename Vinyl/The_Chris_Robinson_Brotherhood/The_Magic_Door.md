@@ -49,6 +49,22 @@ By The Chris Robinson Brotherhood
 | D1 | **Sorrows Of A Blue Eyed Liar** |  |
 | D2 | **Wheel Don't Roll** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alan Forbes** | Artwork |
+| **Mark Dutton** | Bass, Vocals |
+| **George Sluppick** | Drums |
+| **Nicolas Essig** | Engineer [Additional Assistance] |
+| **Geoff Neal** | Engineer [Assisted] |
+| **Chris Robinson (2)** | Guitar, Vocals |
+| **Neal Casal** | Guitar, Vocals |
+| **Adam MacDougall** | Keyboards [Keyboard Wizardry], Vocals |
+| **Matthew Mendenhall** | Photography By |
+| **Thom Monahan** | Producer, Engineer, Mixed By |
+| **Chris Robinson (2)** | Written-By [All Songs] |
+
 ## See also
 
 - [Phosphorescent Harvest](Phosphorescent_Harvest.md)

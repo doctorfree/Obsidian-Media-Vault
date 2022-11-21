@@ -50,6 +50,14 @@ By The Moody Blues
 | B3 | **When You're A Free Man** | 6:06 |
 | B4 | **I'm Just A Singer (In A Rock And Roll Band)** | 4:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Baker** | Engineer |
+| **Tony Clarke** | Producer |
+| **Derek Varnals** | Recorded By |
+
 ## See also
 
 - [A Question Of Balance](A_Question_Of_Balance.md)

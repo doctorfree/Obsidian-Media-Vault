@@ -57,6 +57,18 @@ This copy in sleeve with just photos of a town, no text.
 | B5 | **It's Bad Grammar, Baby** | 2:20 |
 | B6 | **Jukies' Ball** | 4:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jaime Leopold** | Double Bass [Bull Fiddle] |
+| **Jon Weber (2)** | Lead Guitar |
+| **Bob Johnston** | Producer |
+| **Sid Page** | Violin |
+| **Sherry Snow** | Vocals |
+| **Christina Viola Gancher** | Vocals, Celesta [Celeste], Piano |
+| **Dan Hicks** | Vocals, Rhythm Guitar, Harmonica, Drums |
+
 ## See also
 
 - [Striking It Rich!](Striking_It_Rich!.md)

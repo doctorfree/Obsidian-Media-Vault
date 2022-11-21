@@ -44,6 +44,14 @@ By Meri Wilson
 | A | **Telephone Man** | 1:58 |
 | B | **Itinerary** | 2:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Boomer Castleman** | Producer [Produced By] |
+| **Jim Rutledge** | Producer [Produced By] |
+| **Meri Wilson** | Written-By |
+
 ## See also
 
 - [](Meri_Wilson.md)

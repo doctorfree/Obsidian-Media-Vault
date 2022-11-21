@@ -42,6 +42,12 @@ By Ella Fitzgerald With The Andy Love Quintet
 | A | **A Sunday Kind Of Love** | 3:24 |
 | B | **That's My Desire** | 2:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Haggart And His Orchestra** | Orchestra |
+
 ## See also
 
 - [](Ella_Fitzgerald_With_The_Andy_Love_Quintet.md)

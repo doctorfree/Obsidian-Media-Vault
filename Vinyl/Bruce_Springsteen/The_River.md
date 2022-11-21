@@ -62,6 +62,48 @@ By Bruce Springsteen
 | D3 | **Drive All Night** | 8:26 |
 | D4 | **Wreck On The Highway** | 3:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Wachtel** | Art Direction, Design |
+| **Clarence Clemons** | Backing Vocals |
+| **Roy Bittan** | Backing Vocals |
+| **Steve Van Zandt** | Backing Vocals |
+| **Garry Tallent** | Bass |
+| **Max Weinberg** | Drums |
+| **Dana Bisbee** | Engineer [Assistant] |
+| **Garry Rindfuss** | Engineer [Assistant] |
+| **James Farber** | Engineer [Assistant] |
+| **Jeff Hendrickson** | Engineer [Assistant] |
+| **Raymond Willard** | Engineer [Assistant] |
+| **Bruce Springsteen** | Guitar |
+| **Steve Van Zandt** | Guitar |
+| **Bruce Springsteen** | Harmonica |
+| **Ken Perry** | Mastered By |
+| **Bob Clearmountain** | Mixed By |
+| **Chuck Plotkin** | Mixed By |
+| **Toby Scott** | Mixed By |
+| **Jim Bauerlein** | Mixed By [Digital Operator] |
+| **Danny Federici** | Organ |
+| **Frank Stefanko** | Photography By [Cover] |
+| **Amanda Flick** | Photography By [Other] |
+| **Barry Goldenberg** | Photography By [Other] |
+| **David Gahr** | Photography By [Other] |
+| **Frank Stefanko** | Photography By [Other] |
+| **Jimmy Wachtel** | Photography By [Other] |
+| **Joel Bernstein** | Photography By [Other] |
+| **Roy Bittan** | Piano |
+| **Bruce Springsteen** | Producer |
+| **Jon Landau** | Producer |
+| **Steve Van Zandt** | Producer |
+| **Bob Clearmountain** | Recorded By |
+| **Jimmy Iovine** | Recorded By |
+| **Neil Dorfsman** | Recorded By |
+| **Clarence Clemons** | Saxophone |
+| **Bruce Springsteen** | Vocals |
+| **Bruce Springsteen** | Written-By |
+
 ## See also
 
 - [](Bruce_Springsteen.md)

@@ -44,6 +44,13 @@ By The Four Aces
 | A | **Three Coins In The Fountain** | 3:00 |
 | B | **Wedding Bells (Are Breaking Up That Old Gang Of Mine)** | 2:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Pleis** | Directed By [Chorus And Orchestra] |
+| **Al Alberts** | Featuring |
+
 ## See also
 
 - [](The_Four_Aces.md)

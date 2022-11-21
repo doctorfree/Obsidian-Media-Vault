@@ -44,6 +44,12 @@ By Mahalia Jackson
 | A | **Silent Night, Holy Night** |  |
 | B | **Mary's Little Boy Chile** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sid Bass** | Conductor |
+
 ## See also
 
 - [](Mahalia_Jackson.md)

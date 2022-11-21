@@ -56,6 +56,31 @@ By Dwarves
 | B6 | **Who I Am** |  |
 | B7 | **Anything You Want** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Todd Congelliere** | Executive-Producer |
+| **Doktor Rev. Shaw** | Layout |
+| **Eric Valentine** | Mastered By |
+| **Andy Carpenter (2)** | Mixed By |
+| **Blag Dahlia** | Mixed By |
+| **Andy Now** | Musician |
+| **Blag The Ripper** | Musician |
+| **Chip Fracture** | Musician |
+| **Gregory Pecker** | Musician |
+| **Hewhocannotbenamed** | Musician |
+| **Josh Freese** | Musician |
+| **Rex Everything** | Musician |
+| **Salt Peter** | Musician |
+| **The Fresh Prince Of Darkness** | Musician |
+| **Jen Doty** | Photography By |
+| **Joe Glasco** | Photography By |
+| **Blag Dahlia** | Producer |
+| **Andy Carpenter (2)** | Recorded By |
+| **Harper Hug** | Recorded By |
+| **Dwarves** | Songwriter [All Songs By] |
+
 ## See also
 
 - [](Dwarves.md)

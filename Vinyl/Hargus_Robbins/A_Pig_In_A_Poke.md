@@ -52,6 +52,28 @@ By Hargus Robbins
 | B4 | **White Silver Sands** | 2:39 |
 | B5 | **Blue Bayou** | 3:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Edenton** | Acoustic Guitar |
+| **Hargus Robbins** | Arranged By |
+| **Ron Coro** | Design |
+| **Buddy Harman** | Drums |
+| **Larrie Londin** | Drums |
+| **Henry Strzelecki** | Electric Bass |
+| **Rod Smarr** | Electric Guitar [Rhythm] |
+| **Lou Bradley** | Engineer |
+| **Johnny Gimble** | Fiddle |
+| **Pete Wade** | Lead Guitar, Guitar [Gut String] |
+| **Slick Lawson** | Photography By |
+| **Hargus Robbins** | Producer |
+| **Ken Laxton** | Remix |
+| **Ronnie Reynolds** | Remix |
+| **Lloyd Green** | Steel Guitar, Dobro |
+| **Tony Migliore** | Synthesizer [Arp] |
+| **Hargus Robbins** | Synthesizer, Clavinet, Baby Grand Piano |
+
 ## See also
 
 - [](Hargus_Robbins.md)

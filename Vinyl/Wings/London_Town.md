@@ -56,6 +56,29 @@ By Wings
 | B5 | **Don't Let It Bring You Down** | 4:34 |
 | B6 | **Morse Moose And The Grey Goose** | 6:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Aubrey Powell** | Cover [Coordination] |
+| **George Hardie** | Cover [Coordination] |
+| **Denny Laine** | Design, Photography By |
+| **Linda McCartney** | Design, Photography By |
+| **Paul McCartney** | Design, Photography By |
+| **Geoff Emerick** | Engineer |
+| **Mark Vigars** | Engineer [Assistant] |
+| **Peter Henderson** | Engineer [Assistant] |
+| **Steve Churchyard** | Engineer [Assistant] |
+| **Jimmy McCulloch** | Guitar, Percussion |
+| **John Golden** | Lacquer Cut By |
+| **Graham Hughes (2)** | Photography By [Additional] |
+| **Henry Diltz** | Photography By [Additional] |
+| **Paul McCartney** | Producer |
+| **Paul McCartney** | Producer, Vocals, Guitar, Bass, Keyboards, Drums, Percussion, Violin, Flageolet, Recorder |
+| **Joe English** | Vocals, Drums, Percussion, Harmonica |
+| **Denny Laine** | Vocals, Guitar, Bass, Flageolet, Recorder, Percussion |
+| **Linda McCartney** | Vocals, Keyboards, Percussion |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

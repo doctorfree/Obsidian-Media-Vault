@@ -51,6 +51,30 @@ By Jesse Colin Young
 | B3b | **Jambalaya (On The Bayou)** |  |
 | B4 | **Country Home** | 4:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mel Martin** | Arranged By [Horns], Soprano Saxophone, Tenor Saxophone, Baritone Saxophone |
+| **Sidney Wasserbach** | Design [Album], Photography By |
+| **Jeffrey Myer** | Drums |
+| **Eddie Ottenstein** | Guitar |
+| **Richard Earthquake Anderson** | Harmonica |
+| **David Hayes** | Harmony Vocals |
+| **Jesse Colin Young** | Harmony Vocals |
+| **Suzi Young** | Harmony Vocals |
+| **Jon Sievert** | Photography By [Lyric Sheet] |
+| **Scott Lawrence** | Piano, Vibraphone |
+| **Cameron Henry (2)** | Remastered By |
+| **Jim Rothermel** | Soprano Saxophone, Alto Saxophone, Flute, Clarinet |
+| **Bob Ferreira** | Tenor Saxophone |
+| **Gordon Messick** | Trombone |
+| **Pat O'Hara** | Trombone |
+| **Tom Harrell** | Trumpet |
+| **John Tenney** | Violin |
+| **Jesse Colin Young** | Vocals, Guitar |
+| **Jesse Colin Young** | Written-By |
+
 ## See also
 
 - [](Jesse_Colin_Young.md)

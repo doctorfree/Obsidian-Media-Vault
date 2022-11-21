@@ -51,6 +51,19 @@ By Commodores
 | B4 | **Patch It Up** | 3:59 |
 | B5 | **Easy** | 4:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Andrews** | Engineer [Mastering] |
+| **Cal Harris** | Engineer [Recording] |
+| **Jane Clark** | Engineer [Recording] |
+| **Darrell Jones (2)** | Guitar [Pickin' And Finger Slickin'], Other [Very Special Thanks] |
+| **Jack Andrews** | Lacquer Cut By |
+| **Cal Harris** | Mixed By, Synthesizer [Godfather Of], Other [Very Special Thanks] |
+| **James Anthony Carmichael** | Producer, Arranged By |
+| **Commodores** | Producer, Arranged By, Written-By |
+
 ## See also
 
 - [](Commodores_index.md)

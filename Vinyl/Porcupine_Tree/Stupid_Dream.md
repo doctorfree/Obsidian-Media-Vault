@@ -54,6 +54,26 @@ By Porcupine Tree
 | D1 | **Tinto Brass** | 6:37 |
 | D2 | **Stop Swimming** | 6:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Thorpe** | Arranged By [Orchestra] |
+| **Steven Wilson** | Arranged By [Orchestra], Mixed By [New Stereo Mixes], Mastered By |
+| **Colin Edwin** | Bass Guitar, Double Bass |
+| **Nicholas Kok** | Conductor |
+| **Carl Glover (4)** | Design [Sleeve] |
+| **Chris Maitland** | Drums, Percussion |
+| **KR (3)** | Lacquer Cut By |
+| **Lasse Hoile** | Photography By |
+| **Lasse Hoile** | Photography By |
+| **Elliot Ness (3)** | Recorded By [Foel Studio] |
+| **Chris Thorpe** | Recorded By [Orchestra] |
+| **East Of England Orchestra** | Strings |
+| **Richard Barbieri** | Synthesizer [Analogue], Organ [Hammond], Mellotron |
+| **Steven Wilson** | Vocals, Guitar, Piano, Sampler [Samples], Producer |
+| **Steven Wilson** | Written-By |
+
 ## See also
 
 - [Nil Recurring](Nil_Recurring.md)

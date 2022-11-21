@@ -51,6 +51,21 @@ By Ty Segall
 | B4 | **Papers** | 3:00 |
 | B5 | **Take Care (To Comb Your Hair)** | 3:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mikal Cronin** | Bass |
+| **Charles Moothart** | Drums, Percussion |
+| **Jon San Paolo** | Engineer [Assistant] |
+| **Emmett Kelly** | Guitar, Vocals |
+| **Ty Segall** | Guitar, Vocals |
+| **Kevin McCaughey (3)** | Layout, Design |
+| **Kyle Thomas (3)** | Photography By |
+| **Ben Boye** | Piano |
+| **Steve Albini** | Recorded By |
+| **Ty Segall** | Written-By |
+
 ## See also
 
 - [](Ty_Segall_index.md)

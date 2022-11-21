@@ -53,6 +53,22 @@ By Cat Stevens
 | B5 | **Father & Son** | 3:36 |
 | B6 | **Tea For The Tillerman** | 1:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Del Newman** | Arranged By [Strings] |
+| **John Ryan (27)** | Bass |
+| **Harvey Burns** | Drums |
+| **Alun Davies** | Guitar [2nd] |
+| **Cat Stevens** | Guitar, Keyboards |
+| **Cat Stevens** | Illustration [Front] |
+| **Lee Hulko** | Lacquer Cut By |
+| **Shepard Sherbell** | Photography By [Photograph] |
+| **Paul Samwell-Smith** | Producer |
+| **Jack Rothstein** | Soloist [Solo], Violin |
+| **Cat Stevens** | Songwriter [All Songs Written By] |
+
 ## See also
 
 - [](Cat_Stevens.md)

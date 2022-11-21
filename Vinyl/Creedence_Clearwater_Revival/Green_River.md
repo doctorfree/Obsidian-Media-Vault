@@ -51,6 +51,16 @@ By Creedence Clearwater Revival
 | B4 | **Sinister Purpose** | 3:19 |
 | B5 | **The Night Time Is The Right Time** | 3:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Stu Cook** | Bass |
+| **Doug Clifford** | Drums |
+| **John Fogerty** | Producer, Arranged By, Lead Guitar, Vocals |
+| **Tom Fogerty** | Rhythm Guitar |
+| **John Fogerty** | Written-By |
+
 ## See also
 
 - [Cosmo's Factory](Cosmos_Factory.md)

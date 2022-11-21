@@ -52,6 +52,15 @@ By Donovan
 | B4 | **The Fat Angel** | 4:01 |
 | B5 | **Celeste** | 4:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dick Smith (9)** | Design [Cover Design] |
+| **Rob LoVerde** | Lacquer Cut By |
+| **Mickie Most** | Producer |
+| **Donovan** | Sleeve Notes |
+
 ## See also
 
 - [A Gift From A Flower To A Garden](A_Gift_From_A_Flower_To_A_Garden.md)

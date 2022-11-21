@@ -44,6 +44,14 @@ By 1910 Fruitgum Company
 | A | **1, 2, 3, Red Light** | 1:54 |
 | B | **Sticky, Sticky** | 2:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeff Katz** | Producer |
+| **Jerry Kasenetz** | Producer |
+| **Sal Trimachi** | Producer |
+
 ## See also
 
 - [Indian Giver](Indian_Giver.md)

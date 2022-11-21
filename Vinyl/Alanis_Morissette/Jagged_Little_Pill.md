@@ -54,6 +54,36 @@ By Alanis Morissette
 | B5 | **Not The Doctor** | 3:44 |
 | B6 | **Wake Up** | 4:54 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Guy Oseary** | A&R |
+| **Tom Recchion** | Art Direction, Design |
+| **Lance Morrison** | Bass |
+| **Jolie Levine** | Coordinator [Production Coordinator] |
+| **Matt Laug** | Drums |
+| **Rich Weingart** | Engineer [Second Engineer] |
+| **Victor McCoy** | Engineer [Second Engineer] |
+| **Basil Fung** | Guitar |
+| **Glen Ballard** | Guitar |
+| **Alanis Morissette** | Harmonica |
+| **Glen Ballard** | Keyboards |
+| **Chris Bellman** | Lacquer Cut By |
+| **Chris Bellman** | Mastered By |
+| **Chris Fogel** | Mixed By |
+| **Benmont Tench** | Organ |
+| **Michael Thompson (3)** | Organ |
+| **John Patrick Salisbury** | Photography By |
+| **Glen Ballard** | Producer, Written-By [Music] |
+| **Glen Ballard** | Programmed By |
+| **Chris Fogel** | Recorded By |
+| **Glen Ballard** | Recorded By |
+| **Ted Blaisdell** | Recorded By |
+| **Ross Garfield** | Technician [Drum Doctor] |
+| **Tina Wood** | Technician [Guitar Care & Feeding] |
+| **Alanis Morissette** | Written-By, Vocals |
+
 ## See also
 
 - [](Alanis_Morissette.md)

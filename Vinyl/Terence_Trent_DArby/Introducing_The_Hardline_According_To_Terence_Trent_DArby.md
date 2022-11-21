@@ -53,6 +53,37 @@ By Terence Trent D'Arby
 | B4 | **As Yet Untitled** | 5:33 |
 | B5 | **Who's Lovin' You** | 4:33 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ebo Ross** | Backing Vocals |
+| **Frank Collins** | Backing Vocals |
+| **Glenn Gregory** | Backing Vocals |
+| **Lance Ellington** | Backing Vocals |
+| **Tony Jackson** | Backing Vocals |
+| **Phil Spalding** | Bass |
+| **Richard 'Cass' Lewis** | Bass |
+| **Sean Oliver** | Bass |
+| **Laughing Man** | Chorus |
+| **Martyn Ware** | Chorus |
+| **Michele Oldland** | Chorus |
+| **Phil Legg** | Chorus |
+| **Bruce Smith** | Drums |
+| **Clive Mngaza** | Drums |
+| **Preston Heyman** | Drums |
+| **Blast Murray** | Guitar |
+| **Christian Marsac** | Guitar |
+| **Pete Glenister** | Guitar |
+| **Tim Cansfield** | Guitar |
+| **Andy Whitmore** | Keyboards |
+| **Nick Plytas** | Keyboards |
+| **Ivar Ybrad** | Other |
+| **Frank Ricotti** | Percussion |
+| **Preston Heyman** | Percussion |
+| **Christian Marsac** | Saxophone |
+| **Mel Collins** | Saxophone |
+
 ## See also
 
 - [](Terence_Trent_DArby.md)

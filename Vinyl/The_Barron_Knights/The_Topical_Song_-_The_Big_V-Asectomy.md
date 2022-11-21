@@ -42,6 +42,12 @@ By The Barron Knights
 | A | **The Topical Song ** | 3:26 |
 | B | **The Big V-Asectomy ** | 2:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Peter Langford** | Producer |
+
 ## See also
 
 - [](The_Barron_Knights.md)

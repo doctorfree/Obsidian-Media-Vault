@@ -51,6 +51,56 @@ By Charlie
 | B3 | **Keep Me In Mind** | 5:31 |
 | B4 | **I Like To Rock And Roll** | 6:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eugene Organ** | Acoustic Guitar |
+| **Terry Thomas** | Acoustic Guitar |
+| **Eugene Organ** | Backing Vocals |
+| **Jackie Sullivan** | Backing Vocals |
+| **Jean Hawker** | Backing Vocals |
+| **John Anderson (18)** | Backing Vocals |
+| **Kay Garner** | Backing Vocals |
+| **Terry Thomas** | Backing Vocals |
+| **John Anderson (18)** | Bass |
+| **Allan Mason** | Coordinator [A&R Coordination] |
+| **Steve Begor** | Coordinator [Album Coordinated] |
+| **Terry Thomas** | Design [Cover Design] |
+| **Rod Dyer, Inc.** | Design [Inner Sleeve] |
+| **Steve Gadd (2)** | Drums |
+| **Julian Colbeck** | Electric Piano |
+| **Eugene Organ** | Guitar |
+| **Terry Thomas** | Guitar |
+| **Julian Colbeck** | Keyboards |
+| **Eugene Organ** | Lead Guitar |
+| **Terry Thomas** | Lead Guitar |
+| **Terry Thomas** | Lead Vocals |
+| **Barry Dickins** | Management |
+| **MAM (Artists Management Ltd.)** | Management |
+| **BNB Associates Ltd.** | Management [North America] |
+| **Jack Nelson** | Management [North America] |
+| **Julian Colbeck** | Organ |
+| **David Darling (3)** | Photography By |
+| **John Campbell (9)** | Photography By [Live Shots] |
+| **Julian Colbeck** | Piano |
+| **Eugene Organ** | Producer |
+| **Julian Colbeck** | Producer |
+| **Terry Thomas** | Producer |
+| **Jerry Smith (11)** | Recorded By |
+| **Neil Ross** | Recorded By |
+| **Peter Kelsey** | Recorded By |
+| **Stephen W. Tayler** | Recorded By |
+| **Frank DeLuna** | Remastered By |
+| **Marv Bornstein** | Remastered By |
+| **Colin Green** | Tape Op |
+| **John Brand** | Tape Op |
+| **Peter Kamlish** | Tape Op |
+| **Reno Ruocco** | Tape Op |
+| **Julian Colbeck** | Written-By |
+| **Steve Gadd (2)** | Written-By |
+| **Terry Thomas** | Written-By |
+
 ## See also
 
 - [](Charlie.md)

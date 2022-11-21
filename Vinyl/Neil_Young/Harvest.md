@@ -52,6 +52,16 @@ By Neil Young
 | B4 | **The Needle And The Damage Done** | 2:03 |
 | B5 | **Words (Between The Lines Of Age)** | 6:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Wilkes (2)** | Design |
+| **Chris Bellman** | Lacquer Cut By |
+| **Joel Bernstein** | Photography By |
+| **Chris Bellman** | Remastered By |
+| **Neil Young** | Written-By |
+
 ## See also
 
 - [](Neil_Young.md)

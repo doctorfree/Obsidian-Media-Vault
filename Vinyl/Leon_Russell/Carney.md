@@ -54,6 +54,12 @@ By Leon Russell
 | B5 | **This Masquerade** | 4:22 |
 | B6 | **Magic Mirror** | 4:54 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Kevin Gray** | Remastered By |
+
 ## See also
 
 - [Hank Wilson's Back Vol. I](Hank_Wilsons_Back_Vol_I.md)

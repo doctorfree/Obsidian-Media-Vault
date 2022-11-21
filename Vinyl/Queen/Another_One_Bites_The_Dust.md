@@ -44,6 +44,13 @@ By Queen
 | A | **Another One Bites The Dust** | 3:32 |
 | B | **Don't Try Suicide** | 3:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mack (2)** | Engineer, Co-producer |
+| **Queen** | Producer |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

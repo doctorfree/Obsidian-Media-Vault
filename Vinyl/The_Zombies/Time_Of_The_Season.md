@@ -44,6 +44,13 @@ By The Zombies
 | A | **Time Of The Season** | 3:32 |
 | B | **Friends Of Mine** | 2:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris White (2)** | Producer |
+| **Rod Argent** | Producer |
+
 ## See also
 
 - [](The_Zombies.md)

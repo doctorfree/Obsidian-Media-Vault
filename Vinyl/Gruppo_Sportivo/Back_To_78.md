@@ -57,6 +57,31 @@ By Gruppo Sportivo
 | B6 | **Bottom Of The Class** | 3:03 |
 | B7 | **The Single** | 1:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eric Wehrmeyer** | Bass |
+| **Young And Ugly** | Design, Art Direction |
+| **Max Mollinger** | Drums |
+| **Hans Nouse** | Lacquer Cut By |
+| **Josee Van Iersel** | Lead Vocals, Backing Vocals |
+| **Meike Touw** | Lead Vocals, Backing Vocals |
+| **Hans Vandenburg** | Lead Vocals, Guitar |
+| **Peter Calicher** | Organ [Farfisa], Piano |
+| **Ed De Jong** | Other [Special Thanks To] |
+| **Piet Legerstee** | Other [Special Thanks To] |
+| **Anton Corbijn** | Photography By [Inner Sleeve] |
+| **Eef Van Os** | Photography By [Inner Sleeve] |
+| **Gruppo Sportivo** | Photography By [Inner Sleeve] |
+| **Ton Schutter** | Photography By [Inner Sleeve] |
+| **Anton Corbijn** | Photography By [Label] |
+| **Hans Vandenburg** | Producer |
+| **Robert Jan Stips** | Producer |
+| **Robin Freeman** | Recorded By |
+| **Peter Calicher** | Written-By |
+| **Van DeFruits** | Written-By |
+
 ## See also
 
 - [Design Moderne](Design_Moderne.md)

@@ -61,6 +61,22 @@ By The Grateful Dead
 | D3 | **Hey Little One** | 5:39 |
 | D4 | **New, New Minglewood Blues** | 3:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Vance** | Art Direction, Design |
+| **Doran Tyson** | Co-producer [Associate Producer] |
+| **Ivette Ramos** | Co-producer [Associate Producer] |
+| **Bob Masse** | Cover |
+| **Mark Pinkus** | Executive-Producer |
+| **Chris Bellman** | Lacquer Cut By |
+| **Jeffrey Norman** | Mastered By |
+| **The Grateful Dead** | Producer |
+| **David Lemieux (2)** | Producer [For Release] |
+| **Owsley Stanley** | Recorded By |
+| **Michael Wesley Johnson** | Research [Tape Research] |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

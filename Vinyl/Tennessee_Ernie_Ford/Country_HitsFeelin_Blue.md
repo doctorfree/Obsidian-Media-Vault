@@ -54,6 +54,14 @@ By Tennessee Ernie Ford
 | B5 | **Tears On My Pillow** | 2:45 |
 | B6 | **May You Never Walk Alone** | 2:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Mosher** | Bass |
+| **Billy Strange** | Guitar |
+| **Lee Gillette** | Producer |
+
 ## See also
 
 - [This Lusty Land!](This_Lusty_Land!.md)

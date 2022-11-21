@@ -53,6 +53,25 @@ By Eagles
 | B5 | **Bitter Creek** | 5:00 |
 | B6 | **Doolin-Dalton / Desperado (Reprise)** | 4:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jim Ed Norman** | Arranged By [String Arrangements] |
+| **R. Twerk & Co.** | Art Direction [For], Design [For] |
+| **Gary Burden** | Art Direction, Design |
+| **Glyn Johns** | Engineer |
+| **Howard Kilgour** | Engineer [Assistant] |
+| **The Geffen, Roberts Co.** | Management [Direction] |
+| **Henry Diltz** | Photography By, Lettering |
+| **Glyn Johns** | Producer |
+| **Bernie Leadon** | Written-By |
+| **Don Henley** | Written-By |
+| **Glenn Frey** | Written-By |
+| **Jackson Browne** | Written-By |
+| **John David Souther** | Written-By |
+| **Randy Meisner** | Written-By |
+
 ## See also
 
 - [Hotel California](Hotel_California.md)

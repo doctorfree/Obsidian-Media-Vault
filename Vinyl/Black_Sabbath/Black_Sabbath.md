@@ -49,6 +49,19 @@ By Black Sabbath
 | B3 | **Sleeping Village** |  |
 | B4 | **Warning** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Geezer Butler** | Bass Guitar |
+| **Keef (4)** | Design, Photography By |
+| **Bill Ward** | Drums |
+| **Barry Sheffield** | Engineer |
+| **Tom Allom** | Engineer |
+| **Tony Iommi** | Lead Guitar |
+| **Rodger Bain** | Producer |
+| **Ozzy Osbourne** | Vocals, Harmonica |
+
 ## See also
 
 - [Master Of Reality](Master_Of_Reality.md)

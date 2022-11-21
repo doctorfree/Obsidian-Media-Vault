@@ -54,6 +54,20 @@ By Tame Impala
 | D1 | **Runway, Houses, City, Clouds** |  |
 | D2 | **I Don't Really Mind** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dreamtime & Walkabout** | A&R |
+| **Tim Holmes** | Engineer |
+| **Wes Garland** | Lacquer Cut By |
+| **Jodie Regan** | Management |
+| **Peter Shershin** | Management [Dave Fridmann Managed By] |
+| **Greg Calbi** | Mastered By |
+| **Dave Fridmann** | Mixed By |
+| **Kevin Parker (2)** | Producer, Recorded By, Written-By, Vocals, Instruments |
+| **Rob Grant (3)** | Recorded By [Additional Recording] |
+
 ## See also
 
 - [](Tame_Impala.md)

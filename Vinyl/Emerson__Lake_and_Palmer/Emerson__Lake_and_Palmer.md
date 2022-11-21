@@ -48,6 +48,26 @@ By "Emerson, Lake & Palmer"
 | B2 | **Tank** | 6:44 |
 | B3 | **Lucky Man** | 4:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Emerson, Lake & Palmer** | Arranged By, Directed By |
+| **Hugh Gilmour** | Artwork [Reissue Artwork] |
+| **Jon Wilson (3)** | Coordinator |
+| **Steve Hammonds** | Coordinator |
+| **Eddy Offord** | Engineer |
+| **Greg Moore (4)** | Lacquer Cut By |
+| **Andy Pearce** | Mastered By [Vinyl] |
+| **Carl Palmer** | Other [Special Thanks To] |
+| **Graham Lilley** | Other [Special Thanks To] |
+| **Greg Lake** | Other [Special Thanks To] |
+| **Jo Headland** | Other [Special Thanks To] |
+| **Keith Emerson** | Other [Special Thanks To] |
+| **Stewart Young** | Other [Special Thanks To] |
+| **Nic Dartnell** | Painting [Cover Painting] |
+| **Greg Lake** | Producer |
+
 ## See also
 
 - [Brain Salad Surgery](Brain_Salad_Surgery.md)

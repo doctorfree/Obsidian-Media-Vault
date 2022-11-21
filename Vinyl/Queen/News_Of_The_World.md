@@ -53,6 +53,40 @@ By Queen
 | B4 | **It's Late** | 6:27 |
 | B5 | **My Melancholy Blues** | 3:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian May** | Acoustic Guitar |
+| **John Deacon** | Acoustic Guitar |
+| **Kelly Freas** | Artwork |
+| **Brian May** | Backing Vocals |
+| **Roger Taylor** | Backing Vocals |
+| **John Deacon** | Bass Guitar |
+| **Roger Taylor** | Bass Guitar |
+| **Paul Prenter** | Coordinator |
+| **Pete Brown (11)** | Coordinator |
+| **Freddie Mercury** | Cowbell |
+| **John Harris** | Crew [Equipment Supervision] |
+| **Brian Spencer (2)** | Crew [Road] |
+| **Chris Taylor (25)** | Crew [Road] |
+| **Peter Hince** | Crew [Road] |
+| **Ritchie Anderson** | Crew [Road] |
+| **Roger Taylor** | Drums |
+| **Brian May** | Guitar |
+| **Roger Taylor** | Guitar |
+| **Cream (7)** | Layout, Sleeve [Sleeve Coordination] |
+| **John Reid (8)** | Management |
+| **Brian May** | Maracas |
+| **Freddie Mercury** | Piano |
+| **Queen** | Producer |
+| **Mike Stone** | Producer [Assistant] |
+| **Roger Taylor** | Rhythm Guitar |
+| **Gerry Stickells** | Tour Manager |
+| **Brian May** | Vocals |
+| **Freddie Mercury** | Vocals |
+| **Roger Taylor** | Vocals |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

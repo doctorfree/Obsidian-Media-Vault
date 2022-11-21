@@ -92,6 +92,12 @@ By Marvin Gaye
 | CD2-17 | **You're The Man (Alternate Version 1)** |  |
 | CD2-18 | **You're The Man (Alternate Version 2)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Marvin Gaye** | Producer |
+
 ## See also
 
 - [](Marvin_Gaye.md)

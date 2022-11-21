@@ -53,6 +53,20 @@ By David Bowie
 | B4 | **Fame** | 4:10 |
 | B5 | **Golden Years** | 3:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Henry Wrenn-Meleck** | Compilation Producer |
+| **Jo Blair** | Compilation Producer |
+| **Nigel Reeve** | Compilation Producer |
+| **Scott Minshall** | Design [Reissue Design] |
+| **Gavin O'Neill (2)** | Graphics [Scanning & Retouching] |
+| **Mark Adams (11)** | Graphics [Scanning & Retouching] |
+| **Ray Staff** | Mastered By |
+| **Tom Kelley (3)** | Photography By |
+| **Aisha Cohen** | Product Manager |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

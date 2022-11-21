@@ -52,6 +52,26 @@ By Elton John
 | B4 | **Crocodile Rock** | 3:56 |
 | B5 | **High Flying Bird** | 4:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Buckmaster** | Arranged By [Orchestral Arrangements By] |
+| **David Larkham** | Art Direction, Design [Sleeve] |
+| **Michael Ross (3)** | Art Direction, Design [Sleeve] |
+| **Stephen Brown (2)** | Coordinator |
+| **Ken Scott** | Engineer |
+| **Bernie Taupin** | Lyrics By |
+| **Darrell Johnson** | Mastered By |
+| **Elton John** | Performer [Starring] |
+| **Davey Johnstone** | Performer [With] |
+| **Dee Murray** | Performer [With] |
+| **Nigel Olsson** | Performer [With] |
+| **Ed Caraeff** | Photography By [Cover] |
+| **Gus Dudgeon** | Producer |
+| **Bernie Taupin** | Written-By |
+| **Elton John** | Written-By |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

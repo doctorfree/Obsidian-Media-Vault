@@ -44,6 +44,12 @@ By Unknown Artist
 | A | **Narration And Standing Wave Test** |  |
 | B | **Test Music** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ralph Eck** | Lacquer Cut By |
+
 ## See also
 
 - [](Unknown_Artist.md)

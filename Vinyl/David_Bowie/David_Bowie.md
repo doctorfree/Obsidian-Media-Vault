@@ -51,6 +51,26 @@ By David Bowie
 | B4 | **God Knows I'm Good** |  |
 | B5 | **Memory Of A Free Festival** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Bowie** | Arranged By |
+| **Paul Buckmaster** | Arranged By |
+| **Tony Visconti** | Arranged By |
+| **Victor Vasarely** | Artwork [Front Cover, Based On 'CTA 25 Neg'] |
+| **Calvin Mark Lee** | Design Concept |
+| **David Bowie** | Design Concept |
+| **Vernon Dewhurst** | Design [Front Cover] |
+| **Barry Sheffield** | Engineer |
+| **Ken Scott** | Engineer |
+| **Malcolm Toft** | Engineer |
+| **George Underwood** | Illustration ['The Depth Of The Circle' Back Cover] |
+| **Gus Dudgeon** | Producer [Produced By] |
+| **Tony Visconti** | Producer [Produced By] |
+| **David Bowie** | Vocals, Twelve-String Guitar [12 String Guitar], Stylophone, Kalimba, Organ [Rosedal Electric Chord Organ] |
+| **David Bowie** | Written-By |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

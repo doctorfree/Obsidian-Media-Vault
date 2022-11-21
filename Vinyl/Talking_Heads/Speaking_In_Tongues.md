@@ -51,6 +51,30 @@ By Talking Heads
 | B3 | **Pull Up The Roots** | 5:08 |
 | B4 | **This Must Be The Place (Naive Melody)** | 4:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Byrne** | Cover |
+| **Chris Frantz** | Drums, Backing Vocals, Synthesizer |
+| **John Convertino (2)** | Engineer [Assistant Engineer, Basic Tracks  Recording] |
+| **Butch Jones** | Engineer [Basic Tracks Recording] |
+| **Frank Gibson** | Engineer [Final Overdubbing And Mixing Assistant Engineer] |
+| **Jay Mark** | Engineer [Final Overdubbing And Mixing Assistant Engineer] |
+| **Alex Sadkin** | Engineer [Final Overdubbing And Mixing] |
+| **Jerry Harrison** | Keyboards, Guitar, Backing Vocals |
+| **Chris Bellman** | Lacquer Cut By |
+| **David Byrne** | Lyrics By |
+| **Ted Jensen** | Mastered By |
+| **Alex Sadkin** | Mixed By |
+| **Chris Frantz** | Music By |
+| **David Byrne** | Music By |
+| **Jerry Harrison** | Music By |
+| **Tina Weymouth** | Music By |
+| **Talking Heads** | Producer |
+| **Tina Weymouth** | Synthesizer, Bass [String Bass], Backing Vocals, Guitar |
+| **David Byrne** | Vocals, Keyboards, Guitar [Guitars], Bass, Percussion |
+
 ## See also
 
 - [Fear Of Music](Fear_Of_Music.md)

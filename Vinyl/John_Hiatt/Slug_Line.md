@@ -54,6 +54,31 @@ By John Hiatt
 | B5 | **Sharon's Got A Drugstore** | 2:10 |
 | B6 | **Washable Ink** | 3:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Van Hamersveld** | Art Direction |
+| **Etan McElroy** | Backing Vocals |
+| **Jon Paris** | Bass |
+| **Veyler Hildebrand** | Bass |
+| **B.J. Wilson** | Drums |
+| **Bruce Gary** | Drums |
+| **Gerry Conway** | Drums |
+| **Thom Mooney** | Drums |
+| **Russ Gary** | Engineer |
+| **Michael Carnevale** | Engineer [Second] |
+| **John Hiatt** | Guitar |
+| **Jon Paris** | Guitar |
+| **Denny Bruce** | Management |
+| **Nick Rozsa** | Photography By |
+| **Etan McElroy** | Piano |
+| **Todd Cochran** | Piano |
+| **Denny Bruce** | Producer |
+| **John Hiatt** | Vocals |
+| **Jim Wismar** | Written-By |
+| **John Hiatt** | Written-By |
+
 ## See also
 
 - [](John_Hiatt.md)

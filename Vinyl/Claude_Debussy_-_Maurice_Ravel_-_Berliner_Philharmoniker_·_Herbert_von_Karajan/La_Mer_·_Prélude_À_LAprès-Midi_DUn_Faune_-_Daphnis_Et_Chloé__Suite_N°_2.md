@@ -43,6 +43,19 @@ By Claude Debussy / Maurice Ravel - Berliner Philharmoniker · Herbert von Karaj
 |  | **«Daphnis Et Chloé», Suite N° 2** |  |
 | B2 | **Prélude À L'Après-Midi D'Un Faune (Vorspiel Zum Nachmittag Eines Fauns)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Claude Debussy** | Composed By |
+| **Maurice Ravel** | Composed By |
+| **Herbert von Karajan** | Conductor |
+| **Günter Hermanns** | Engineer |
+| **Karlheinz Zöller** | Flute [Soloflöte] |
+| **Constantin Floros** | Liner Notes |
+| **Berliner Philharmoniker** | Orchestra |
+| **Otto Gerdes** | Producer |
+
 ## See also
 
 - [](Claude_Debussy_-_Maurice_Ravel_-_Berliner_Philharmoniker_·_Herbert_von_Karajan.md)

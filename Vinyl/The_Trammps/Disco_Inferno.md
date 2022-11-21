@@ -44,6 +44,14 @@ By The Trammps
 | A | **Disco Inferno** | 3:35 |
 | B | **You Touch My Hot Line** | 4:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Moulton & José Rodriguez** | Mastered By [Etched] |
+| **Tom Moulton** | Mixed By |
+| **B-H-Y** | Producer |
+
 ## See also
 
 - [](The_Trammps.md)

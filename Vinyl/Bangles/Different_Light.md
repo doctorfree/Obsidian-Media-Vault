@@ -54,6 +54,25 @@ By Bangles
 | B5 | **Following** | 3:18 |
 | B6 | **Not Like You** | 3:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lane/Donald** | Art Direction |
+| **Michael Steele** | Bass, Vocals |
+| **Bangles** | Cover [Cover Concept] |
+| **Debbi Peterson** | Drums, Vocals |
+| **Peggy McLeonard** | Engineer |
+| **Tchad Blake** | Engineer |
+| **David Glover** | Engineer [Assistant] |
+| **Mike Kloster** | Engineer [Assistant] |
+| **Susanna Hoffs** | Guitar, Vocals |
+| **Vicki Peterson** | Lead Guitar, Vocals |
+| **Wally Traugott** | Mastered By [Runout Etchings] |
+| **David Leonard** | Mixed By |
+| **Raul Vega** | Photography By |
+| **David Kahne** | Producer |
+
 ## See also
 
 - [](Bangles.md)

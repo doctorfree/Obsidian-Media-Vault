@@ -44,6 +44,14 @@ By "Leonard Bernstein, George Gershwin, The New York Philharmonic Orchestra, Col
 | A | **An American In Paris** |  |
 | B | **Rhapsody In Blue** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Elian Grafische Vormgeving** | Artwork |
+| **George Gershwin** | Composed By |
+| **Getty Images** | Photography By [Cover Photo] |
+
 ## See also
 
 - [](Leonard_Bernstein__George_Gershwin__The_New_York_Philharmonic_Orchestra__Columbia_Symphony_Orchestra.md)

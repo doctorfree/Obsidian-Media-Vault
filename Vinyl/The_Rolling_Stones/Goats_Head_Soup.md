@@ -52,6 +52,38 @@ By The Rolling Stones
 | B4 | **Can You Hear The Music** | 5:32 |
 | B5 | **Star Star** | 4:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jim Price** | Arranged By [Horns] |
+| **Nicky Harrison** | Arranged By [Strings] |
+| **John Pasche** | Artwork [Goats Head Soup] |
+| **Bill Wyman** | Bass |
+| **Billy Preston** | Clavinet |
+| **David Bailey (5)** | Design [Album], Photography By |
+| **Ray Lawrence** | Design [Designer] |
+| **Charlie Watts** | Drums |
+| **Carlton Lee** | Engineer [Assistant] |
+| **Doug Bennett** | Engineer [Assistant] |
+| **Howard Kilgour** | Engineer [Assistant] |
+| **Andy Johns** | Engineer [Chief], Mixed By |
+| **Jim Horn** | Flute, Alto Saxophone |
+| **Keith Richards** | Guitar, Bass, Vocals |
+| **Mick Taylor** | Guitar, Bass, Vocals |
+| **Jimmy Miller** | Percussion |
+| **Nik Pascal** | Percussion |
+| **Rebop Kwaku Baah** | Percussion |
+| **Ian Stewart** | Performer [With Jangles] |
+| **Billy Preston** | Piano |
+| **Ian Stewart** | Piano |
+| **Nicky Hopkins** | Piano |
+| **Jimmy Miller** | Producer |
+| **Jagger-Richards** | Songwriter |
+| **Bobby Keys** | Tenor Saxophone, Baritone Saxophone |
+| **Chuck Findley** | Trumpet |
+| **Mick Jagger** | Vocals, Guitar, Blues Harp [Harp], Piano |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

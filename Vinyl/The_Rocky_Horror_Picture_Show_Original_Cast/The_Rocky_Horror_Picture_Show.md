@@ -56,6 +56,21 @@ By """The Rocky Horror Picture Show"" Original Cast"
 | B5 | **Super Heroes** | 2:45 |
 | B6 | **Science Fiction/Double Feature: Reprise** | 1:26 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Count Ian Blair** | Acoustic Guitar, Electric Guitar |
+| **Dave Wintour** | Bass Guitar |
+| **Gull Graphics** | Design [Sleeve] |
+| **John Pasche** | Design [Sleeve] |
+| **John "Rabbit" Bundrick** | Keyboards |
+| **Richard Hartley** | Keyboards, Directed By [Musical Direction], Arranged By, Producer |
+| **Richard O'Brien** | Libretto By [Original Musical Play], Music By, Lyrics By |
+| **Keith Grant** | Mixed By [Remixed By] |
+| **Phil Chapman** | Mixed By [Remixed By] |
+| **Phil Kenzie** | Saxophone |
+
 ## See also
 
 - [](The_Rocky_Horror_Picture_Show_Original_Cast.md)

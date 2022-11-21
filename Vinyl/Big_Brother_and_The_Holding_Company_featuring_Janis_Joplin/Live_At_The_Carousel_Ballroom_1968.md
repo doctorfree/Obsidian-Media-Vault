@@ -57,6 +57,45 @@ By Big Brother & The Holding Company featuring Janis Joplin
 |  | **Bonus Track** |  |
 | D3 | **Call On Me** | 3:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phil Yarnall** | Art Direction, Design |
+| **Smay Design** | Art Direction, Design |
+| **Peter Albin** | Bass, Vocals |
+| **Mouse Studios** | Cover, Artwork, Typography [Lettering] |
+| **Stanley Mouse** | Cover, Artwork, Typography [Lettering] |
+| **Dave Getz** | Drums, Vocals |
+| **James Gurley** | Guitar, Vocals |
+| **Sam Andrew** | Guitar, Vocals |
+| **Janis Joplin** | Lead Vocals |
+| **Bear (6)** | Liner Notes |
+| **Bob Scott (11)** | Liner Notes |
+| **Jaan Uhelszki** | Liner Notes |
+| **Joel Selvin** | Liner Notes |
+| **John Meyer** | Liner Notes |
+| **Rhoney Stanley** | Liner Notes |
+| **Sheilah Stanley** | Liner Notes |
+| **Starfinder Stanley** | Liner Notes |
+| **David Byrnes (2)** | Management |
+| **Jeffrey Jampol** | Management |
+| **John Branca** | Management |
+| **Paul Stubblebine** | Mastered By |
+| **Amalie R. Rothschild** | Photography By |
+| **Bob Cato** | Photography By |
+| **Bob Seidemann** | Photography By |
+| **Elliott Landy** | Photography By |
+| **Jerry Burchard** | Photography By |
+| **Ted Streshinsky** | Photography By |
+| **Adam Farber** | Production Manager [Project Direction] |
+| **Jim Parham** | Production Manager [Project Direction] |
+| **Marisa Magliola** | Production Manager [Project Direction] |
+| **Owsley Stanley** | Recorded By, Producer |
+| **Adam Farber** | Supervised By |
+| **Starfinder Stanley** | Supervised By |
+| **Owsley Stanley** | Supervised By [Mastering] |
+
 ## See also
 
 - [](Big_Brother_and_The_Holding_Company_featuring_Janis_Joplin.md)

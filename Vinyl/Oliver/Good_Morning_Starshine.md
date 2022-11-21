@@ -44,6 +44,12 @@ By Oliver
 | A | **Good Morning Starshine** | 3:33 |
 | B | **Can't You See** | 2:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Crewe** | Producer, Directed By |
+
 ## See also
 
 - [](Oliver.md)

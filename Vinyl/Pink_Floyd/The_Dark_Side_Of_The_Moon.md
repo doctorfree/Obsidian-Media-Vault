@@ -52,6 +52,32 @@ By Pink Floyd
 | B4 | **Brain Damage** |  |
 | B5 | **Eclipse** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Hardie** | Artwork [Sleeve Art, Stickers Art] |
+| **Barry St. John** | Backing Vocals |
+| **Doris Troy** | Backing Vocals |
+| **Lesley Duncan** | Backing Vocals |
+| **Liza Strike** | Backing Vocals |
+| **Roger Waters** | Bass, Vocals, Synthesizer [Vcs3], Effects [Tape], Lyrics By |
+| **Hipgnosis (2)** | Design [Sleeve], Photography By |
+| **Alan Parsons** | Engineer |
+| **Peter James** | Engineer [Assistant] |
+| **Richard Wright** | Keyboards, Vocals, Synthesizer [Vcs3] |
+| **Stan Ricker** | Lacquer Cut By |
+| **Roger Waters** | Lyrics By |
+| **Stan Ricker** | Mastered By [Half-speed] |
+| **Chris Thomas** | Mixed By [Supervised] |
+| **Nick Mason** | Percussion, Effects [Tape] |
+| **Pink Floyd** | Producer, Music By |
+| **David Gilmour** | Vocals, Guitar, Synthesizer [Vcs3] |
+| **David Gilmour** | Written-By |
+| **Nick Mason** | Written-By |
+| **Richard Wright** | Written-By |
+| **Roger Waters** | Written-By |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

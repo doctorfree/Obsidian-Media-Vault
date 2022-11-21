@@ -44,6 +44,13 @@ By The Lovin' Spoonful
 | A | **Darling Be Home Soon** | 3:32 |
 | B | **Darlin' Companion** | 2:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Erik Jacobsen** | Producer [Produced By] |
+| **John Sebastian** | Written-By |
+
 ## See also
 
 - [Daydream](Daydream.md)

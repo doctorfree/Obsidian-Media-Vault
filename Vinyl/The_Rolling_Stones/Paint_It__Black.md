@@ -44,6 +44,14 @@ By The Rolling Stones
 | A | **Paint It, Black** | 3:19 |
 | B | **Stupid Girl** | 2:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Hassinger** | Engineer |
+| **Andrew Loog Oldham** | Producer |
+| **Jagger-Richards** | Written-By |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

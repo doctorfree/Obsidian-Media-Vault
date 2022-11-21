@@ -48,6 +48,14 @@ This copy says "Cheshire Music, Inc." rather than "Essex Music, Inc." for "I'm A
 | A | **I'm A Man** | 2:28 |
 | B | **I Can't Get Enough Of It** | 3:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Miller** | Producer |
+| **Jimmy Miller** | Written-By |
+| **Steve Winwood** | Written-By |
+
 ## See also
 
 - [](The_Spencer_Davis_Group.md)

@@ -61,6 +61,28 @@ By Monty Python
 | B6 | **Taking In The Terrier** |  |
 | B7 | **The Phone In** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Doret** | Artwork [Cover Art] |
+| **Terry Gilliam** | Artwork [Inner Sleeve Art] |
+| **Nancy Greenberg** | Artwork [U. S. Art Direction] |
+| **André Jacquemin** | Edited By, Effects, Arranged By, Mixed By, Technician [Finally Assembled By] |
+| **David Howman** | Edited By, Effects, Arranged By, Mixed By, Technician [Finally Assembled By] |
+| **Terry Gilliam** | Edited By, Effects, Arranged By, Mixed By, Technician [Finally Assembled By] |
+| **Alan Bailey** | Engineer |
+| **Neil Innes** | Music By |
+| **Hazel Pethig** | Other [Costumes] |
+| **Mrs. Jacquemin** | Other [Food] |
+| **Carol Cleveland** | Performer |
+| **Eric Idle** | Written-By, Performer |
+| **Graham Chapman** | Written-By, Performer |
+| **John Cleese** | Written-By, Performer |
+| **Michael Palin** | Written-By, Performer |
+| **Terry Gilliam** | Written-By, Performer |
+| **Terry Jones** | Written-By, Performer |
+
 ## See also
 
 - [Another Monty Python Record](Another_Monty_Python_Record.md)

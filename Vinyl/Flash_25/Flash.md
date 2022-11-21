@@ -47,6 +47,18 @@ By Flash (25)
 | B1 | **Dreams Of Heaven** |  |
 | B2 | **The Time It Takes** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Bennett** | Bass Guitar, Backing Vocals, Acoustic Guitar |
+| **Mike Hough** | Drums, Cymbal, Percussion, Badinage |
+| **Peter Banks** | Electric Guitar, Acoustic Guitar, Spanish Guitar, Synthesizer, Backing Vocals |
+| **Colin Carter** | Lead Vocals, Percussion |
+| **Joe Reagoso** | Mastered By |
+| **Ron McMaster** | Mastered By |
+| **Tony Kaye** | Organ, Piano, Synthesizer |
+
 ## See also
 
 - [](Flash_25.md)

@@ -52,6 +52,17 @@ By John Renbourn
 | B5 | **My Sweet Potato** | 3:17 |
 | B6 | **Seven Up** | 3:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Wood** | Engineer |
+| **Terry Cox** | Finger Cymbals, Drums [African], Glockenspiel |
+| **Ray Warleigh** | Flute |
+| **John Renbourn** | Guitar |
+| **Nathan Joseph** | Producer |
+| **Osiris Visions** | Sleeve, Design |
+
 ## See also
 
 - [The Lady And The Unicorn](The_Lady_And_The_Unicorn.md)

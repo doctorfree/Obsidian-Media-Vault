@@ -53,6 +53,12 @@ By The New Pornographers
 | B5 | **Clockwise** |  |
 | B6 | **Avalanche Alley** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Janos** | Mastered By |
+
 ## See also
 
 - [Brill Bruisers](Brill_Bruisers.md)

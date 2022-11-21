@@ -53,6 +53,27 @@ By Squeeze
 | B5 | **Wrong Side Of The Moon** | 2:25 |
 | B6 | **There At The Top** | 3:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Del Newman** | Arranged By [Strings] |
+| **John Bentley** | Bass |
+| **Michael Ross (3)** | Design, Art Direction |
+| **Gilson Lavis** | Drums |
+| **Andrew Lumm** | Engineer |
+| **Jools Holland** | Keyboards, Vocals |
+| **Glenn Tilbrook** | Lead Guitar, Keyboards, Vocals |
+| **Frank DeLuna** | Mastered By |
+| **John Wood** | Mixed By |
+| **Squeeze (2)** | Mixed By |
+| **Mike Laye** | Photography By [Front Cover] |
+| **John Wood** | Producer |
+| **Chris Difford** | Rhythm Guitar, Vocals |
+| **Chris Difford** | Written-By |
+| **Glenn Tilbrook** | Written-By |
+| **Jools Holland** | Written-By |
+
 ## See also
 
 - [Sweets From A Stranger](Sweets_From_A_Stranger.md)

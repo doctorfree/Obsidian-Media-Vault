@@ -44,6 +44,14 @@ By Michael Jackson / Paul McCartney
 | A | **The Girl Is Mine** | 3:41 |
 | B | **Can't Get Outta The Rain** | 4:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Gardner** | Mastered By [Etched ❀] |
+| **Linda McCartney** | Photography By |
+| **Quincy Jones** | Producer |
+
 ## See also
 
 - [](Michael_Jackson_-_Paul_McCartney.md)

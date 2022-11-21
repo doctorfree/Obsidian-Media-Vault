@@ -44,6 +44,14 @@ By Gruppo Sportivo
 | A | **Disco Really Made It** | 4:00 |
 | B | **I Don't Know** | 2:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hans Vandenburg** | Producer |
+| **Robert Jan Stips** | Producer |
+| **Van DeFruits** | Written-By |
+
 ## See also
 
 - [Back To 78](Back_To_78.md)

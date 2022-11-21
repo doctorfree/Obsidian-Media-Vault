@@ -44,6 +44,12 @@ By Plummet Airlines
 | A | **Silver Shirt** | 2:59 |
 | B | **This Is The World** | 2:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sean Tyla** | Producer |
+
 ## See also
 
 - [](Plummet_Airlines.md)

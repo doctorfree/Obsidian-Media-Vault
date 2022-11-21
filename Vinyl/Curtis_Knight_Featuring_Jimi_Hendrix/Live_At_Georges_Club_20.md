@@ -57,6 +57,16 @@ By Curtis Knight Featuring Jimi Hendrix
 | D3 | **Come On (Let The Good Times Roll)** | 4:10 |
 | D4 | **Band Outro** | 0:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eddie Kramer** | Compilation Producer |
+| **Janie Hendrix** | Compilation Producer |
+| **John McDermott** | Compilation Producer |
+| **Bernie Grundman** | Lacquer Cut By |
+| **John McDermott** | Liner Notes |
+
 ## See also
 
 - [](Curtis_Knight_Featuring_Jimi_Hendrix.md)

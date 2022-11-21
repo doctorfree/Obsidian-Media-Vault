@@ -48,6 +48,39 @@ By Paul Horn
 | B2 | **Quite Early One Morning** | 8:13 |
 | B3 | **The Juggler** | 5:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Abraham Laboriel** | Bass |
+| **Lalo Schifrin** | Composed By, Arranged By, Conductor [Conducted By] |
+| **Israel Baker** | Concertmaster [Concert Master] |
+| **Buck Davis** | Coordinator [Art Coordination] |
+| **Jim Keltner** | Drums |
+| **Don Henderson** | Engineer [Assistant Engineer] |
+| **Paul Horn** | Executive-Producer |
+| **Paul Horn** | Flute, Alto Flute |
+| **Dean Parks** | Guitar |
+| **Charles Loper** | Horns |
+| **Chuck Findley** | Horns |
+| **Ernie Watts** | Horns |
+| **Jim Horn** | Horns |
+| **Oscar Brashear** | Horns |
+| **Clark Spangler** | Keyboards, Synthesizer [Synth] |
+| **Joe Sample** | Keyboards, Synthesizer [Synth] |
+| **Lalo Schifrin** | Keyboards, Synthesizer [Synth] |
+| **Mike Melvoin** | Keyboards, Synthesizer [Synth] |
+| **P. F. T.** | Layout [Back Panel Layout], Design |
+| **Mike Reese** | Mastered By |
+| **Emil Richards** | Percussion |
+| **Paulinho Da Costa** | Percussion |
+| **Robin Horn** | Percussion |
+| **Bob Levy (4)** | Photography By [Front Cover Photo By] |
+| **Buddy Rosenberg** | Photography By [Front Cover Photo By] |
+| **Al Schmitt** | Producer |
+| **Buck Davis** | Producer [Production Assistant] |
+| **Rick Ruggieri** | Recorded By, Mixed By |
+
 ## See also
 
 - [Inside](Inside.md)

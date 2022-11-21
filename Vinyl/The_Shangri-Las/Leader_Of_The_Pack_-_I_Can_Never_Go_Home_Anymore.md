@@ -44,6 +44,12 @@ By The Shangri-Las
 | A | **Leader Of The Pack** | 2:53 |
 | B | **I Can Never Go Home Anymore** | 3:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George "Shadow" Morton** | Producer |
+
 ## See also
 
 - [](The_Shangri-Las.md)

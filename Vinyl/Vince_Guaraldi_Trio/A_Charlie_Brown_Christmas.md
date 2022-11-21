@@ -54,6 +54,17 @@ By Vince Guaraldi Trio
 | B6 | **The Christmas Song** | 3:15 |
 | B7 | **Greensleeves** | 5:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Monty Budwig** | Bass |
+| **Charles M. Schulz** | Cover |
+| **Colin Bailey** | Drums |
+| **Ralph J. Gleason** | Liner Notes |
+| **George Horn** | Mastered By [Mastering (1988)] |
+| **Vince Guaraldi** | Piano |
+
 ## See also
 
 - [](Vince_Guaraldi_Trio.md)

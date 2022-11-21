@@ -44,6 +44,13 @@ By "Crosby, Stills, Nash & Young"
 | A | **Teach Your Children** | 2:53 |
 | B | **Carry On** | 4:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dennis King** | Lacquer Cut By |
+| **Crosby, Stills, Nash & Young** | Producer [Prod. By] |
+
 ## See also
 
 - [Déjà Vu](Déjà_Vu.md)

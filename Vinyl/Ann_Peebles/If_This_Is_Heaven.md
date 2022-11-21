@@ -44,6 +44,12 @@ By Ann Peebles
 | A | **If This Is Heaven** | 3:07 |
 | B | **When I'm In Your Arms** | 3:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Willie Mitchell** | Producer |
+
 ## See also
 
 - [](Ann_Peebles.md)

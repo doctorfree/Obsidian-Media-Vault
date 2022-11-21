@@ -60,6 +60,61 @@ By The Paul Butterfield Blues Band
 | D2 | **Driftin' And Driftin'** | 13:44 |
 | D3 | **Blind Leading The Blind** | 4:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Robert L. Heimall** | Art Direction |
+| **Barron Storey** | Artwork [Cover Art] |
+| **Robert W. Zachary Jr.** | Assemblage, Edited By |
+| **Trevor Lawrence** | Baritone Saxophone |
+| **Fred Beckmeier** | Bass |
+| **Jerome Arnold** | Bass |
+| **Rod Hicks** | Bass, Cello, Vocals |
+| **Bugsy Maugh** | Bass, Vocals |
+| **Big Black (2)** | Congas |
+| **Bobbye Hall** | Congas, Bongos |
+| **Jo Ann Gruber** | Design |
+| **Billy Davenport** | Drums |
+| **Dennis Whitted** | Drums |
+| **George Davidson** | Drums |
+| **Sam Lay** | Drums |
+| **Phillip Wilson** | Drums, Congas, Percussion, Vocals [Vocal] |
+| **Bruce Botnick** | Engineer |
+| **Edison Youngblood** | Engineer |
+| **Fritz Richmond** | Engineer |
+| **Joe Zagarino** | Engineer |
+| **Marc Harmon** | Engineer |
+| **Mark Abramson** | Engineer |
+| **Paul A. Rothchild** | Engineer |
+| **Ray Thompson** | Engineer |
+| **Todd Rundgren** | Engineer |
+| **Mark Abramson** | Engineer [with the assistance of] |
+| **Buzzy Feiten** | Guitar, Piano, Organ |
+| **Ralph Wash** | Guitar, Vocals |
+| **Paul Butterfield** | Harmonica, Guitar, Flute, Piano, Vocals |
+| **Ron McMaster** | Lacquer Cut By |
+| **Tony Glover** | Liner Notes |
+| **Joe Reagoso** | Mastered By |
+| **Mark Naftalin** | Organ, Piano, Keyboards |
+| **Mark Naftalin** | Organ, Piano, Keyboards |
+| **Daniel R. Rubin** | Photography By |
+| **Jerry Ragovoy** | Piano |
+| **Teddy Harris** | Piano, Keyboards |
+| **Jerry Ragovoy** | Producer |
+| **John Court** | Producer |
+| **Mark Abramson** | Producer |
+| **Paul A. Rothchild** | Producer |
+| **Todd Rundgren** | Producer |
+| **Mark Abramson** | Producer [with the assistance of] |
+| **Elvin Bishop** | Rhythm Guitar, Guitar |
+| **Mike Bloomfield** | Slide Guitar, Guitar |
+| **David Sanborn** | Soprano Saxophone, Alto Saxophone, Baritone Saxophone |
+| **Jac Holzman** | Supervised By [Production] |
+| **Gene Dinwiddie** | Tenor Saxophone, Flute, Tambourine, Mandolin |
+| **Steve Madaio** | Trumpet |
+| **Keith Johnson** | Trumpet, Piano |
+
 ## See also
 
 - [](The_Paul_Butterfield_Blues_Band.md)

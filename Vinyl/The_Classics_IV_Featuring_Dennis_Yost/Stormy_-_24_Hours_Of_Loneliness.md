@@ -42,6 +42,16 @@ By The Classics IV Featuring Dennis Yost
 | A | **Stormy** | 2:45 |
 | B | **24 Hours Of Loneliness** | 2:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Emory Gordy, Jr.** | Arranged By |
+| **Buddy Buie** | Producer |
+| **Dennis Yost** | Vocals [Featuring] |
+| **Buddy Buie** | Written-By |
+| **James B. Cobb Jr.** | Written-By |
+
 ## See also
 
 - [](The_Classics_IV_Featuring_Dennis_Yost.md)

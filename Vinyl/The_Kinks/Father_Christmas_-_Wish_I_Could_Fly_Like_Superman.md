@@ -44,6 +44,12 @@ By The Kinks
 | A | **Father Christmas** | 3:39 |
 | B | **(Wish I Could Fly Like) Superman** | 3:26 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Davies** | Producer, Written-By |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

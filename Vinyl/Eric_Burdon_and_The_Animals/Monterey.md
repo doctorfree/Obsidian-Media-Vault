@@ -44,6 +44,17 @@ By Eric Burdon & The Animals
 | A | **Monterey** | 4:21 |
 | B | **Ain't That So** | 3:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Wilson (2)** | Producer |
+| **Barry Jenkins** | Written-By |
+| **Danny McCulloch** | Written-By |
+| **Eric Burdon** | Written-By |
+| **John Weider** | Written-By |
+| **Victor Briggs** | Written-By |
+
 ## See also
 
 - [Help Me Girl](Help_Me_Girl.md)

@@ -47,6 +47,29 @@ By "Emerson, Lake & Palmer"
 | A4 | **Benny The Bouncer** | 2:15 |
 |  | **Karn Evil 9** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hugh Gilmour** | Artwork [2016 Re-Issue] |
+| **Greg Lake** | Bass, Electric Guitar [Zomaitis Electric 6 & 12 String Guitars], Acoustic Guitar, Vocals, Producer |
+| **Jon Wilson (3)** | Coordinator [Release] |
+| **Steve Hammonds** | Coordinator [Release] |
+| **Chris Kimsey** | Engineer |
+| **Geoff Young** | Engineer |
+| **Greg Moore (4)** | Lacquer Cut By |
+| **Stewart Young** | Management |
+| **Andy Pearce** | Mastered By [2014 Original Album Remaster] |
+| **Matt Wortham** | Mastered By [2014 Original Album Remaster] |
+| **Keith Emerson** | Organ, Piano, Harpsichord, Accordion, Synthesizer [Custom Built Moog Synthesizers], Synthesizer [Moog Polyphonic Enssemble] |
+| **Carl Palmer** | Other [Special Thanks To] |
+| **Graham Lilley** | Other [Special Thanks To] |
+| **Greg Lake** | Other [Special Thanks To] |
+| **Jo Headland** | Other [Special Thanks To] |
+| **Keith Emerson** | Other [Special Thanks To] |
+| **Stewart Young** | Other [Special Thanks To] |
+| **Carl Palmer** | Percussion, Synthesizer [Percussion] |
+
 ## See also
 
 - ["Emerson, Lake & Palmer"](Emerson__Lake_and_Palmer.md)

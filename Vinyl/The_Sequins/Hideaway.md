@@ -44,6 +44,13 @@ By The Sequins
 | A | **Hideaway** | 2:35 |
 | B | **I Ain't Gonna Cry (No More)** | 2:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Garry Sherman** | Arranged By, Conductor |
+| **Jack Gold** | Producer |
+
 ## See also
 
 - [](The_Sequins.md)

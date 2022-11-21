@@ -44,6 +44,12 @@ By Ella Fitzgerald
 | A | ** Melancholy Me** | 2:50 |
 | B | **Somebody Bad Stole De Wedding Bell** | 2:26 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sy Oliver** | Directed By |
+
 ## See also
 
 - [](Ella_Fitzgerald.md)

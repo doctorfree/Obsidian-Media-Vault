@@ -52,6 +52,36 @@ By The Rolling Stones
 | B4 | **Short And Curlies** | 2:44 |
 | B5 | **Fingerprint File** | 6:41 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Blue Magic** | Backing Vocals |
+| **Bill Wyman** | Bass Guitar, Synthesizer |
+| **Ed Leach** | Cowbell |
+| **Guy Peellaert** | Design, Painting |
+| **Charlie Watts** | Drums |
+| **Howard Kilgour** | Engineer [Assistant] |
+| **Mack (2)** | Engineer [Assistant] |
+| **Rod Thear** | Engineer [Assistant] |
+| **Tapani Tapanainen** | Engineer [Assistant] |
+| **George Chkiantz** | Engineer [Overdubs] |
+| **Kenny Jones** | Featuring |
+| **Willie Weeks** | Featuring |
+| **Keith Richards** | Guitar, Vocals, Bass |
+| **Mick Taylor** | Guitar, Vocals, Synthesizer, Congas, Bass |
+| **Keith Harwood** | Mixed By |
+| **Ray Cooper** | Percussion |
+| **Ian Stewart** | Piano |
+| **Nicky Hopkins** | Piano |
+| **Billy Preston** | Piano, Clavinet |
+| **The Glimmer Twins** | Producer |
+| **Andy Johns** | Recorded By |
+| **Keith Harwood** | Recorded By |
+| **Charlie Jolly** | Tabla |
+| **Mick Jagger** | Vocals, Guitar |
+| **Jagger-Richards** | Written-By |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

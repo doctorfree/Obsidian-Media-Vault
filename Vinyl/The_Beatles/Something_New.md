@@ -53,6 +53,16 @@ By The Beatles
 | B4 | **If I Fell** | 2:19 |
 | B5 | **Komm, Gib Mir Deine Hand (I Want To Hold Your Hand)** | 2:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Martin** | Producer |
+| **Dave Dexter, Jr.** | Producer [With The Assistance Of] |
+| **Carl Perkins** | Written-By |
+| **Larry Williams (3)** | Written-By |
+| **Lennon-McCartney** | Written-By |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

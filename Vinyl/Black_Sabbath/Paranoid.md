@@ -50,6 +50,24 @@ By Black Sabbath
 | B3 | **Rat Salad** |  |
 | B4 | **Jack The Stripper / Fairies Wear Boots** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Terence Butler** | Bass Guitar |
+| **Bill Ward** | Composed By |
+| **John Osbourne (3)** | Composed By |
+| **Terence Butler** | Composed By |
+| **Tony Iommi** | Composed By |
+| **Keef (4)** | Design [Album], Photography By |
+| **Bill Ward** | Drums |
+| **Brian Humphries** | Engineer |
+| **Tom Allom** | Engineer |
+| **Sean Magee** | Lacquer Cut By |
+| **Tony Iommi** | Lead Guitar |
+| **Rodger Bain** | Producer |
+| **Ozzy Osbourne** | Vocals |
+
 ## See also
 
 - [Black Sabbath](Black_Sabbath.md)

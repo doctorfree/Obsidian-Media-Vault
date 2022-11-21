@@ -48,6 +48,16 @@ By Blind Faith
 | B1 | **Sea Of Joy** | 5:19 |
 | B2 | **Do What You Like** | 15:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Blackwell** | Arranged By [By Arrangement With] |
+| **Robert Stigwood** | Arranged By [By Arrangement With] |
+| **Bob Seidemann** | Artwork [Cover Design], Photography By [Photographed] |
+| **Mick Milligan** | Artwork [Spaceship Built By] |
+| **Jimmy Miller** | Producer [Produced By] |
+
 ## See also
 
 - [](Blind_Faith_index.md)

@@ -50,6 +50,16 @@ By Walter Carlos
 | B5 | **William Tell Overture (Abridged)** | 1:17 |
 | B6 | **Country Lane** | 4:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Karenlee Grant** | Design [Construction] |
+| **Chris Nelson (10)** | Liner Notes |
+| **Cliff Morris (2)** | Mastered By |
+| **David Vine (2)** | Photography By [Cover Photo] |
+| **Rachel Elkind** | Producer |
+
 ## See also
 
 - [](Walter_Carlos.md)

@@ -44,6 +44,13 @@ By Louis Armstrong / Wayne Fontana & The Mindbenders
 | A | **What A Wonderful World** | 2:17 |
 | B | **Game Of Love** | 2:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Anderle** | Producer |
+| **Ellen Vogt** | Producer [Assistant] |
+
 ## See also
 
 - [](Louis_Armstrong_-_Wayne_Fontana_and_The_Mindbenders.md)

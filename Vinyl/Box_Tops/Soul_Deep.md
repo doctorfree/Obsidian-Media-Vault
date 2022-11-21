@@ -44,6 +44,13 @@ By Box Tops
 | A | **Soul Deep** | 2:25 |
 | B | **(The) Happy Song** | 1:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chips Moman** | Producer |
+| **Tommy Cogbill** | Producer |
+
 ## See also
 
 - [](Box_Tops.md)

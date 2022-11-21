@@ -52,6 +52,21 @@ By Creedence Clearwater Revival
 | B4 | **Side O' The Road** | 3:21 |
 | B5 | **Effigy** | 6:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Fogerty** | Arranged By, Producer, Lead Guitar, Vocals |
+| **Stu Cook** | Bass |
+| **Doug Clifford** | Drums |
+| **Kevin Gray** | Lacquer Cut By |
+| **Steve Hoffman** | Lacquer Cut By |
+| **Basul Parik** | Photography By [Front And Back Cover Photos] |
+| **Kevin Gray** | Remastered By |
+| **Steve Hoffman** | Remastered By |
+| **Tom Fogerty** | Rhythm Guitar |
+| **John Fogerty** | Written-By |
+
 ## See also
 
 - [Cosmo's Factory](Cosmos_Factory.md)

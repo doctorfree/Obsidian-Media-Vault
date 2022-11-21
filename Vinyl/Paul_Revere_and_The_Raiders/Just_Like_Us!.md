@@ -54,6 +54,24 @@ By Paul Revere & The Raiders
 | B5 | **New Orleans** | 2:57 |
 | B6 | **Action** | 1:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phil Volk** | Bass |
+| **Roger Hart (2)** | Coordinator |
+| **Mike Smith (34)** | Drums |
+| **Drake Levin** | Lead Guitar |
+| **Dick Clark (2)** | Liner Notes [Back Cover] |
+| **Paul Revere** | Liner Notes [Back Cover] |
+| **Roger Hart (2)** | Liner Notes [Back Cover] |
+| **Roger Hart (2)** | Management |
+| **Paul Revere** | Organ |
+| **Guy Webster** | Photography By [Front Cover] |
+| **Terry Melcher** | Producer |
+| **Mark Lindsay** | Saxophone |
+| **Mark Lindsay** | Vocals |
+
 ## See also
 
 - [Midnight Ride](Midnight_Ride.md)

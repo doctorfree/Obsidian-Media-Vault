@@ -54,6 +54,15 @@ By The Rolling Stones
 | B5 | **Have You Seen Your Mother, Baby, Standing In The Shadow?** | 2:50 |
 | B6 | **(I Can't Get No) Satisfaction** | 3:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Stephen Inglis** | Design [Cover] |
+| **Glyn Johns** | Engineer |
+| **Gered Mankowitz** | Photography By |
+| **Andrew Loog Oldham** | Producer |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

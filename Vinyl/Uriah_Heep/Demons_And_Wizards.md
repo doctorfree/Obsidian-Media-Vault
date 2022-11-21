@@ -51,6 +51,20 @@ By Uriah Heep
 | B3a | **Paradise** | 12:41 |
 | B3b | **The Spell** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Thain** | Bass |
+| **Lee Kerslake** | Drums, Percussion |
+| **Peter Gallen** | Engineer |
+| **Ashley Howe** | Engineer [Assistant] |
+| **Mick Box** | Guitar |
+| **Ken Hensley** | Keyboards, Guitar, Percussion |
+| **Gerry Bron** | Producer |
+| **David Byron** | Vocals |
+| **Uriah Heep** | Voice |
+
 ## See also
 
 - [Look At Yourself](Look_At_Yourself.md)

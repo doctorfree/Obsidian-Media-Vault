@@ -54,6 +54,16 @@ By The Rolling Stones
 | B5 | **Miss Amanda Jones** | 2:48 |
 | B6 | **Something Happened To Me Yesterday** | 4:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Rolling Stones** | Arranged By |
+| **Charlie Watts** | Artwork [Drawings] |
+| **Gered Mankowitz** | Photography By |
+| **Andrew Loog Oldham** | Producer |
+| **Jagger-Richards** | Written-By |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

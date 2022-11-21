@@ -49,6 +49,31 @@ By Deep Purple
 | B2 | **Fools** |  |
 | B3 | **No One Came** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ian Hansford** | Crew [Equipment] |
+| **Rob Cooksey** | Crew [Equipment] |
+| **Ron Quinton** | Crew [Equipment] |
+| **Castle, Chappell & Partners Limited** | Design |
+| **Alan O'Duffy** | Engineer |
+| **Louis Austin** | Engineer |
+| **Martin Birch** | Engineer |
+| **Miles Showell** | Mastered By [1/2 Speed Abbey Road] |
+| **Ian Gillan** | Performer |
+| **Ian Paice** | Performer |
+| **Jon Lord** | Performer |
+| **Ritchie Blackmore** | Performer |
+| **Roger Glover** | Performer |
+| **Tony Burrett** | Photography By [Chagford Studios] |
+| **Deep Purple** | Producer |
+| **Ian Gillan** | Written-By |
+| **Ian Paice** | Written-By |
+| **Jon Lord** | Written-By |
+| **Ritchie Blackmore** | Written-By |
+| **Roger Glover** | Written-By |
+
 ## See also
 
 - [Burn](Burn.md)

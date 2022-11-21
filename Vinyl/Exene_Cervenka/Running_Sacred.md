@@ -54,6 +54,32 @@ By Exene Cervenka
 | B5 | **Just Another Perfect Day** |  |
 | B6 | **Will Jesus Wash The Bloodstains From Your Hands** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Geoff Gans** | Art Direction |
+| **Exene Cervenka** | Artwork [Drawings And Writings] |
+| **David McLees** | Coordinator [Project Assistance/coordination] |
+| **Jan Davis** | Coordinator [Project Assistance/coordination] |
+| **Elaine Anderson** | Engineer [Mixing Assistant] |
+| **Russell Anderson** | Engineer [Record Assistant] |
+| **Arturo Gerst** | Featuring |
+| **Danny Krieger** | Featuring |
+| **Duke McVinnie** | Featuring |
+| **Eliza Gilkyson** | Featuring |
+| **Jim Christie** | Featuring |
+| **John Doe (2)** | Featuring |
+| **Jon Dee Graham** | Featuring |
+| **Julie Christensen** | Featuring |
+| **Ken Stange** | Featuring |
+| **Tony Gilkyson** | Featuring |
+| **Will MacGregor** | Featuring |
+| **Bernie Grundman** | Mastered By |
+| **Viggo Mortensen** | Photography By |
+| **Tony Gilkyson** | Producer |
+| **Tom McCauley** | Recorded By, Mixed By |
+
 ## See also
 
 - [](Exene_Cervenka.md)

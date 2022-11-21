@@ -54,6 +54,28 @@ Autographed by band members with personal notes.
 | B4 | **Purity Test, Part 2** | 0:44 |
 | B5 | **Triple Witching Hour** | 6:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Daniel Lewis (2)** | Bass |
+| **Anthony Guess** | Drums |
+| **"Razor" James** | Engineer |
+| **David Plank** | Engineer |
+| **Paul Mandl** | Engineer, Producer |
+| **George Earth** | Guitar |
+| **Amy Excolere** | Keyboards |
+| **Wendy Bardsley** | Mixed By, Engineer |
+| **Andy Murdock** | Mixed By, Engineer, Producer |
+| **David Plank** | Mixed By, Producer, Engineer |
+| **Clay Holden** | Photography By [Band Members] |
+| **Steve Gladstone** | Photography By [Band Members] |
+| **Steve Gladstone** | Photography By [of Televisonary Idol] |
+| **David Plank** | Producer |
+| **Darby Gould** | Vocals |
+| **Rob Brezsny** | Vocals, Design Concept |
+| **World Entertainment War** | Written-By, Arranged By, Producer |
+
 ## See also
 
 - [](World_Entertainment_War.md)

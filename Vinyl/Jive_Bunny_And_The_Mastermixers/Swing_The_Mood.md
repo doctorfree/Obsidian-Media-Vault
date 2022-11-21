@@ -44,6 +44,18 @@ By Jive Bunny And The Mastermixers
 | A | **Swing The Mood (Radio Mix)** | 4:02 |
 | B | **Glenn Miller Medley (The J.B. Edit)** | 3:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Les Hemstock** | Concept By [Original Concept] |
+| **Mick Hand (2)** | Design [Sleeve] |
+| **Andy Pickles** | Engineer |
+| **John Pickles** | Executive-Producer |
+| **Dennis King** | Mastered By |
+| **Andy Pickles** | Producer |
+| **Les Hemstock** | Producer |
+
 ## See also
 
 - [](Jive_Bunny_And_The_Mastermixers.md)

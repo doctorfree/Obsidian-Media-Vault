@@ -53,6 +53,20 @@ By David Bowie
 | B5 | **Suffragette City** |  |
 | B6 | **Rock 'N' Roll Suicide** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Bowie** | Arranged By |
+| **Mick Ronson** | Arranged By |
+| **Trevor Bolder** | Bass |
+| **Mick Woodmansey** | Drums |
+| **Spiders From Mars** | Featuring |
+| **Mick Ronson** | Guitar, Piano, Vocals |
+| **David Bowie** | Guitar, Saxophone, Vocals |
+| **David Bowie** | Producer |
+| **Ken Scott** | Producer |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

@@ -51,6 +51,68 @@ By The Tubes
 | B3 | **Poland Whole / Madam I'm Adam** | 6:33 |
 | B4 | **Young And Rich** | 5:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Paich** | Arranged By |
+| **Jack Nitzsche** | Arranged By |
+| **Deniece Williams** | Backing Vocals |
+| **Gene Morford** | Backing Vocals |
+| **Jerry Whitman** | Backing Vocals |
+| **Julia Tillman Waters** | Backing Vocals |
+| **Maxine Willard Waters** | Backing Vocals |
+| **Ron Hicklin** | Backing Vocals |
+| **Stan Farber** | Backing Vocals |
+| **Rick Anderson** | Bass, Vocals [Vocal Quips] |
+| **Armand Kaproff** | Cello |
+| **David Speltz** | Cello |
+| **Michael Cotten** | Design |
+| **Prairie Prince** | Design |
+| **Chuck Domanico** | Double Bass [String Bass] |
+| **Ed Thacker** | Engineer |
+| **Roger Steen** | Guitar, Blues Harp, Vocals |
+| **Bill Spooner** | Guitar, Vocals |
+| **Vince Welnick** | Keyboards, Synthesizer |
+| **Fee Waybill** | Lead Vocals [Method Frontman] |
+| **Bud Scoppa** | Liner Notes [Editor] |
+| **Ken Scott** | Liner Notes [Technical Notes] |
+| **Bag-O-Bucks** | Management |
+| **Gary Peterson (5)** | Management |
+| **Mort Moriarty** | Management |
+| **Frank DeLuna** | Mastered By |
+| **Alan Estes** | Percussion |
+| **Julius Wechter** | Percussion |
+| **Prairie Prince** | Percussion [Power Percussion] |
+| **Norman Seeff** | Photography By [Back Cover And Sleeve] |
+| **Harry Mittman** | Photography By [Front Cover] |
+| **Don Randi** | Piano |
+| **Ken Scott** | Producer |
+| **Jay Migliori** | Saxophone |
+| **Steve Douglas** | Saxophone |
+| **Allan Harshman** | Strings |
+| **Assa Drori** | Strings |
+| **Harry Bluestone** | Strings |
+| **Herschel Wise** | Strings |
+| **James Getzoff** | Strings |
+| **Jesse Ehrlich** | Strings |
+| **Leonard Malarsky** | Strings |
+| **Lou Klass** | Strings |
+| **Marshall Sosson** | Strings |
+| **Marvin Limonick** | Strings |
+| **Murray Adler** | Strings |
+| **Nathan Ross** | Strings |
+| **Ray Kelley** | Strings |
+| **Samuel Boghossian** | Strings |
+| **Virginia Majewski** | Strings |
+| **William Kurasch** | Strings |
+| **Michael Cotten** | Synthesizer |
+| **Steve Douglas** | Tambourine |
+| **George Bohanon** | Trombone |
+| **Bobby Shew** | Trumpet |
+| **Junie Osaki** | Typography |
+| **Re Styles (2)** | Vocals [Funky-Pretty Vocals] |
+
 ## See also
 
 - [](The_Tubes.md)

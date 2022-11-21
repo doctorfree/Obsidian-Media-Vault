@@ -54,6 +54,19 @@ By Alice Cooper
 | B5 | **Teenage Lament '74** | 3:54 |
 | B6 | **Muscle Of Love** | 3:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dennis Dunaway** | Bass |
+| **Pacific Eye & Ear** | Design Concept |
+| **Neal Smith** | Drums |
+| **Glen Buxton** | Guitar |
+| **Michael Bruce** | Guitar |
+| **Bill Garland** | Illustration |
+| **Drew Struzan** | Illustration |
+| **Alice Cooper (2)** | Vocals |
+
 ## See also
 
 - [Killer](Killer.md)

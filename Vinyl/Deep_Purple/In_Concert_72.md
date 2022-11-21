@@ -52,6 +52,27 @@ By Deep Purple
 | E | **Encore: Lucille** | 7:32 |
 | F | **Maybe I'm A Leo (Soundcheck)** | 4:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hugh Gilmour** | Art Direction |
+| **Hugh Gilmour** | Design |
+| **Adrian Revill** | Engineer [Original Recording] |
+| **Peter Mew** | Mastered By |
+| **Barry Plummer** | Photography By |
+| **Mike Harding (2)** | Presenter |
+| **Carol Conlon** | Producer |
+| **Helen Owens** | Producer |
+| **Nigel Reeve** | Producer |
+| **Pete Dauncey** | Producer [Original Recording] |
+| **Peter Mew** | Remix |
+| **Ian Gillan** | Written-By |
+| **Ian Paice** | Written-By |
+| **Jon Lord** | Written-By |
+| **Ritchie Blackmore** | Written-By |
+| **Roger Glover** | Written-By |
+
 ## See also
 
 - [Burn](Burn.md)

@@ -48,6 +48,26 @@ By Return To Forever
 | B2 | **The Magician** | 5:27 |
 | B3 | **Duel Of The Jester And The Tyrant (Part I & Part II)** | 11:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Berg** | Design |
+| **Lenny White** | Drums, Timpani, Congas, Timbales, Handbell [Hand Bells], Snare [Snare Drum], Cymbal [Suspended Cymbals], Performer [Alarm Clock] |
+| **Stanley Clarke** | Electric Bass [Alembic Bass With Instant Flanger], Bass [Piccolo Bass], Double Bass [Acoustic Bass], Bell Tree, Handbell [Hand Bells] |
+| **Al Di Meola** | Electric Guitar, Acoustic Guitar, Guitar [Soprano], Handbell [Hand Bells], Slide Whistle |
+| **Tom Likes** | Engineer [Assistant Engineer] |
+| **Dennis Mackay** | Engineer [Recording], Engineer [Remix] |
+| **Theta Management** | Management |
+| **Wilson McLean** | Painting [Cover Painting] |
+| **Don Hunstein** | Photography By [Back Cover] |
+| **Chick Corea** | Piano [Acoustic], Electric Piano [Fender Rhodes], Clavinet [Honer], Synthesizer [Mini Moog, Moog 15, Micro Mini Moog, Arp Odyssey, Yamaha Organ, Polymoog], Marimba, Percussion |
+| **Chick Corea** | Producer |
+| **Al Di Meola** | Producer [Assistant] |
+| **Lenny White** | Producer [Assistant] |
+| **Stanley Clarke** | Producer [Assistant] |
+| **Gerard Huerta** | Typography [Logo] |
+
 ## See also
 
 - [](Return_To_Forever.md)

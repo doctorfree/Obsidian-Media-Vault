@@ -44,6 +44,13 @@ By Nat King Cole
 | A | **Marnie** | 2:40 |
 | B | **More And More Of Your Amor** | 2:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ralph Carmichael** | Conductor |
+| **Lee Gillette** | Producer |
+
 ## See also
 
 - [Make Her Mine](Make_Her_Mine.md)

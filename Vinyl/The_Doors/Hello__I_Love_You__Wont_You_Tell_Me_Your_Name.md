@@ -44,6 +44,14 @@ By The Doors
 | A | **Hello, I Love You, Won't You Tell Me Your Name?** | 2:13 |
 | B | **Love Street** | 2:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bruce Botnick** | Engineer |
+| **Paul A. Rothchild** | Producer |
+| **The Doors** | Written-By |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

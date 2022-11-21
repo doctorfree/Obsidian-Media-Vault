@@ -44,6 +44,15 @@ By Steam
 | A | **Na Na Hey Hey Kiss Him Goodbye** | 3:45 |
 | B | **Don't Stop Lovin' Me** | 3:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Leka** | Producer |
+| **Dale Frashuer** | Written-By |
+| **Gary DeCarlo** | Written-By |
+| **Paul Leka** | Written-By |
+
 ## See also
 
 - [](Steam.md)

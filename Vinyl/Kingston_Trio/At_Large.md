@@ -54,6 +54,13 @@ By Kingston Trio
 | B5 | **Scarlet Ribbons** |  |
 | B6 | **Remember The Alamo** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nat Hentoff** | Liner Notes |
+| **Voyle Gilmore** | Producer |
+
 ## See also
 
 - [](Kingston_Trio.md)

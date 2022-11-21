@@ -54,6 +54,18 @@ By The Lovin' Spoonful
 | B5 | **Younger Girl** | 2:23 |
 | B6 | **Summer In The City** | 2:39 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chrystal Starr Russell** | Cover, Artwork |
+| **Acy Lehman** | Cover, Design |
+| **Val Valentin** | Engineer |
+| **Bob Cavallo** | Management |
+| **Erik Jacobsen** | Producer |
+| **John Sebastian** | Written-By |
+| **Steve Boone** | Written-By |
+
 ## See also
 
 - [Darling Be Home Soon / Darlin' Companion](Darling_Be_Home_Soon_-_Darlin_Companion.md)

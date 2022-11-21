@@ -53,6 +53,20 @@ By Paul Simon
 | B5 | **Paranoia Blues** | 2:54 |
 | B6 | **Congratulations** | 3:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Simon** | Composed By |
+| **Stéphane Grappelli** | Composed By |
+| **John Berg** | Design |
+| **Ron Coro** | Design |
+| **Roy Halee** | Engineer |
+| **P.A. Harper** | Photography By |
+| **Paul Simon** | Producer |
+| **Roy Halee** | Producer |
+| **Ryan Smith (2)** | Remastered By |
+
 ## See also
 
 - [There Goes Rhymin' Simon](There_Goes_Rhymin_Simon.md)

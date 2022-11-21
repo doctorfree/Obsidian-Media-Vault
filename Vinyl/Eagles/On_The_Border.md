@@ -52,6 +52,33 @@ By Eagles
 | B4 | **Good Day In Hell** | 4:27 |
 | B5 | **Best Of My Love** | 4:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Art Direction, Design |
+| **R. Twerk & Co.** | Art Direction, Design |
+| **Don Felder** | Electric Guitar |
+| **Rob Thaer** | Engineer [Assisted By, At Olympic Studios] |
+| **Allan Blazek** | Engineer [Assisted By, At The Record Plant] |
+| **Gary Ladinsky** | Engineer [Assisted By, At The Record Plant] |
+| **Bill Szymczyk** | Engineer [Remix Engineer] |
+| **Lee Hulko** | Lacquer Cut By |
+| **Rick Griffin (2)** | Lettering |
+| **Beatian Yazz** | Painting [Cover Painting] |
+| **Don Felder** | Performer [The Eagles Are, Late Arrival] |
+| **Bernie Leadon** | Performer [The Eagles Are] |
+| **Don Henley** | Performer [The Eagles Are] |
+| **Glenn Frey** | Performer [The Eagles Are] |
+| **Randy Meisner** | Performer [The Eagles Are] |
+| **Henry Diltz** | Photography By |
+| **Bill Szymczyk** | Producer, Engineer |
+| **Glyn Johns** | Producer, Engineer |
+| **Randy Meisner** | Vocals, Bass |
+| **Don Henley** | Vocals, Drums |
+| **Bernie Leadon** | Vocals, Guitar, Banjo, Steel Guitar |
+| **Glenn Frey** | Vocals, Guitar, Piano |
+
 ## See also
 
 - [Desperado](Desperado.md)

@@ -52,6 +52,21 @@ By Vanilla Fudge
 | B5 | **Illusions Of My Childhood - Part Three** | 0:22 |
 | B6 | **Eleanor Rigby** | 8:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tim Bogert** | Bass |
+| **Haig Adishian** | Design |
+| **Carmine Appice** | Drums |
+| **Bill Stahl** | Engineer [Recording] |
+| **Joe Venneri** | Engineer [Recording] |
+| **Vince Martell** | Guitar |
+| **Mark Stein** | Organ |
+| **Bruce Laurance** | Photography By [Back Cover] |
+| **Richard Stevens (5)** | Photography By [Front Cover] |
+| **George "Shadow" Morton** | Producer |
+
 ## See also
 
 - [](Vanilla_Fudge_index.md)

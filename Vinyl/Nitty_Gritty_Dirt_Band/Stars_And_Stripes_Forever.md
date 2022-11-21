@@ -66,6 +66,28 @@ By Nitty Gritty Dirt Band
 | D4 | **My True Story** | 3:08 |
 | D5 | **Diggy Liggy Lo** | 3:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Neckar** | Coordinator |
+| **William E. McEuen** | Directed By [Album Direction], Producer, Design |
+| **Dino Lappas** | Engineer [Cowtown and Kansas State] |
+| **Mike Denecke** | Engineer [Remix Engineer] |
+| **Gary Mullen** | Engineer [Woodland] |
+| **Dean Torrence** | Graphics |
+| **Kittyhawk Graphics** | Graphics |
+| **L. A. Fine Arts Squad** | Painting [Back Cover] |
+| **Terry Schoonhoven** | Painting [Back Cover] |
+| **Vic Henderson (3)** | Painting [Back Cover] |
+| **Alice McEuen** | Photography By |
+| **Bill Higgins** | Photography By |
+| **Kansas Film Works** | Photography By |
+| **Kerwin Plevka** | Photography By |
+| **William E. McEuen** | Photography By |
+| **William Eastabrook** | Photography By |
+| **Win Muldrow** | Photography By [Fifties pictures] |
+
 ## See also
 
 - [](Nitty_Gritty_Dirt_Band.md)

@@ -58,6 +58,14 @@ By Frank Sinatra
 | B7 | **I'll Never Be The Same** |  |
 | B8 | **This Love Of Mine** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nelson Riddle** | Arranged By, Conductor |
+| **Ron McMaster** | Lacquer Cut By |
+| **Voyle Gilmore** | Producer |
+
 ## See also
 
 - [Learnin' The Blues / If I Had Three Wishes](Learnin_The_Blues_-_If_I_Had_Three_Wishes.md)

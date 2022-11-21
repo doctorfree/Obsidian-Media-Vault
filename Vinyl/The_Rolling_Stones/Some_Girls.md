@@ -52,6 +52,45 @@ By The Rolling Stones
 | B4 | **Beast Of Burden** | 4:24 |
 | B5 | **Shattered** | 3:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Keith Richards** | Acoustic Guitar |
+| **Ron Wood** | Acoustic Guitar |
+| **Keith Richards** | Backing Vocals |
+| **Mick Jagger** | Backing Vocals |
+| **Ron Wood** | Backing Vocals |
+| **Bill Wyman** | Bass |
+| **Keith Richards** | Bass |
+| **Ron Wood** | Bass |
+| **Sugar Blue** | Blues Harp [Harp] |
+| **Peter Corriston** | Design, Cover [Concept] |
+| **Charlie Watts** | Drums |
+| **Keith Richards** | Electric Guitar |
+| **Mick Jagger** | Electric Guitar |
+| **Ron Wood** | Electric Guitar |
+| **Ian McLagan** | Electric Piano |
+| **Barry Sage** | Engineer [Assistants] |
+| **Ben King (2)** | Engineer [Assistants] |
+| **Dave Jordan** | Engineer [Assistants] |
+| **Philippe (8)** | Engineer [Assistants] |
+| **Chris Kimsey** | Engineer, Mixed By |
+| **Ted Jensen** | Lacquer Cut By |
+| **Ron Wood** | Lead Guitar, Bass Drum |
+| **Mick Jagger** | Lead Vocals |
+| **Ted Jensen** | Mastered By |
+| **Ian McLagan** | Organ [Hammond] |
+| **Ron Wood** | Pedal Steel Guitar |
+| **Keith Richards** | Piano |
+| **The Glimmer Twins** | Producer |
+| **Mel Collins** | Saxophone |
+| **Ron Wood** | Slide Guitar |
+| **Bill Wyman** | Synthesizer |
+| **Charlie Watts** | Tom Tom |
+| **Jagger-Richards** | Written-By |
+| **Whitfield-Strong** | Written-By |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

@@ -53,6 +53,16 @@ By Nick Lowe
 | B4 | **Born Fighter** | 3:07 |
 | B5 | **Love So Fine** | 3:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nick Lowe** | Producer |
+| **Ian Gomm** | Written-By |
+| **Mickey Jupp** | Written-By |
+| **Nick Lowe** | Written-By |
+| **Rockpile** | Written-By |
+
 ## See also
 
 - [Lovers Jamboree](Lovers_Jamboree.md)

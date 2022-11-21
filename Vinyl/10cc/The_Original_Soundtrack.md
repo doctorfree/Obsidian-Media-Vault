@@ -50,6 +50,21 @@ By 10cc
 | B4 | **Life Is A Minestrone** | 4:30 |
 | B5 | **The Film Of My Love** | 5:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eric Stewart** | Band [10 cc are] |
+| **Graham Gouldman** | Band [10 cc are] |
+| **Kevin Godley** | Band [10 cc are] |
+| **Lol Creme** | Band [10 cc are] |
+| **Hipgnosis (2)** | Design [Sleeve Design], Photography By [Photograph] |
+| **Eric Stewart** | Engineer [Engineered By], Mixed By |
+| **Humphrey Ocean** | Illustration [Pencil Drawings] |
+| **Melvyn Abrahams** | Lacquer Cut By |
+| **Melvyn Abrahams** | Mastered By [Master Cut] |
+| **10cc** | Producer [Produced and], Recorded By |
+
 ## See also
 
 - [10cc](10cc.md)

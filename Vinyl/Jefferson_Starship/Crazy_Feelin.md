@@ -44,6 +44,13 @@ By Jefferson Starship
 | A | **Crazy Feelin'** | 2:30 |
 | B | **Love Too Good** | 4:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jefferson Starship** | Producer |
+| **Larry Cox** | Producer |
+
 ## See also
 
 - [Count On Me / Show Yourself](Count_On_Me_-_Show_Yourself.md)

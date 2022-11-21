@@ -44,6 +44,13 @@ By Emitt Rhodes / Chris Price
 | A | **How Can You Mend A Broken Heart** | 3:13 |
 | B | **Please Read Me** | 2:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Barry Gibb** | Written-By |
+| **Robin Gibb** | Written-By |
+
 ## See also
 
 - [](Emitt_Rhodes_-_Chris_Price.md)

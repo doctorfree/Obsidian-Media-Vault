@@ -52,6 +52,25 @@ By Blue Öyster Cult
 | B3 | **Teen Archer** | 3:57 |
 | B4 | **Mistress Of The Salmon Salt (Quicklime Girl)** | 5:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joe Bouchard** | Bass, Vocals, Keyboards |
+| **Gawlik** | Cover |
+| **Albert Bouchard** | Drums, Vocals |
+| **Tim Geelan** | Engineer |
+| **Donald "Buck Dharma" Roeser** | Guitar, Vocals |
+| **Allen Lanier** | Keyboards, Rhythm Guitar |
+| **Rainer Maillard** | Lacquer Cut By |
+| **Jack Ashkinazy** | Mastered By |
+| **Roni Hoffman** | Photography By [Photo] |
+| **Murray Krugman** | Producer |
+| **Sandy Pearlman** | Producer |
+| **Lou Schlossberg** | Recorded By [Recordists] |
+| **Phil Giambalvo** | Recorded By [Recordists] |
+| **Eric Bloom** | Vocals, Guitar [Stun], Synthesizer |
+
 ## See also
 
 - [Agents Of Fortune](Agents_Of_Fortune.md)

@@ -51,6 +51,15 @@ By Hello People
 | B4 | **Mr. Truth Evading, Masquerading Man** | 2:20 |
 | B5 | **Paris In The Rain** | 4:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hello People** | Arranged By, Effects [Vocal Instrumental] |
+| **Raymond Ross** | Photography By [B&w] |
+| **Bert Andrews** | Photography By [Cover] |
+| **Lew Futterman** | Producer |
+
 ## See also
 
 - [Bricks](Bricks.md)

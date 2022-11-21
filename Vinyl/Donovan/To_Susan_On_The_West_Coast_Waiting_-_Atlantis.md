@@ -44,6 +44,13 @@ By Donovan
 | A | **To Susan On The West Coast Waiting** | 3:13 |
 | B | **Atlantis** | 4:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mickie Most** | Producer |
+| **Donovan Phillips Leitch** | Written-By |
+
 ## See also
 
 - [A Gift From A Flower To A Garden](A_Gift_From_A_Flower_To_A_Garden.md)

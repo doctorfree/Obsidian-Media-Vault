@@ -49,6 +49,21 @@ By Moe.
 | C2 | **Puebla** | 11:34 |
 | D1 | **Silver Sun** | 15:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rob Derhak** | Bass Guitar, Vocals |
+| **Philip McGonigle** | Creative Director |
+| **Vinnie Amico** | Drums |
+| **Casey Latter** | Engineer, Mixed By |
+| **Chuck Garvey** | Guitar, Vocals |
+| **Al Schnier** | Guitar, Vocals, Keyboards, Mandolin |
+| **Alex Abrash** | Mastered By |
+| **Jim Loughlin** | Percussion |
+| **Jay Blakesberg** | Photography By |
+| **Steve Young (12)** | Recorded By |
+
 ## See also
 
 - [](Moe.md)

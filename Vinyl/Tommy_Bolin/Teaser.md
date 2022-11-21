@@ -51,6 +51,42 @@ By Tommy Bolin
 | B3 | **Wild Dogs** | 4:10 |
 | B4 | **Lotus** | 3:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Brown (44)** | Backing Vocals |
+| **Lee Kiefer** | Backing Vocals |
+| **The Sniffettes** | Backing Vocals |
+| **Tommy Bolin** | Backing Vocals |
+| **Paul Stallworth** | Bass |
+| **Stanley Sheldon** | Bass |
+| **Bobby Berge** | Drums |
+| **Jan Hammer** | Drums |
+| **Jeff Porcaro** | Drums |
+| **Narada Michael Walden** | Drums |
+| **Prairie Prince** | Drums |
+| **Lee Kiefer** | Engineer |
+| **Michael Bronstein** | Engineer [Assistant] |
+| **Dennis MacKay** | Engineer [Remix] |
+| **Davey Moire** | Engineer [Second] |
+| **Tommy Bolin** | Guitar |
+| **Jan Hammer** | Organ |
+| **Phil Collins** | Percussion |
+| **Raphael Cruz** | Percussion |
+| **Sammy Figueroa** | Percussion |
+| **David Foster** | Piano |
+| **Jan Hammer** | Piano |
+| **Ron Fransen** | Piano |
+| **Tommy Bolin** | Piano |
+| **Lee Kiefer** | Producer |
+| **Tommy Bolin** | Producer |
+| **David Sanborn** | Saxophone |
+| **David Foster** | Synthesizer |
+| **Jan Hammer** | Synthesizer |
+| **Tommy Bolin** | Synthesizer [Arp] |
+| **Tommy Bolin** | Vocals |
+
 ## See also
 
 - [](Tommy_Bolin.md)

@@ -52,6 +52,30 @@ By Traveling Wilburys
 | B4 | **Tweeter And The Monkey Man** | 5:30 |
 | B5 | **End Of The Line** | 3:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Charlie T. Jnr Wilbury** | Acoustic Guitar, Vocals, Backing Vocals |
+| **Lefty Wilbury** | Acoustic Guitar, Vocals, Backing Vocals |
+| **Lucky Wilbury** | Acoustic Guitar, Vocals, Backing Vocals |
+| **David Costa** | Art Direction |
+| **Jim Keltner** | Drums |
+| **Bill Bottrell** | Engineer |
+| **Don Smith** | Engineer |
+| **Phil McDonald** | Engineer |
+| **Richard Dodd** | Engineer |
+| **Steve Hall** | Mastered By |
+| **Ray Cooper** | Percussion |
+| **Neal Preston** | Photography By [Band] |
+| **Chris Smith (5)** | Photography By [Sleeve] |
+| **Gered Mankowitz** | Photography By [Sleeve] |
+| **Nelson Wilbury** | Producer, Guitar, Vocals, Backing Vocals |
+| **Otis Wilbury** | Producer, Keyboards, Guitar, Vocals, Backing Vocals |
+| **Jim Horn** | Saxophone |
+| **Hugh Jampton** | Sleeve Notes |
+| **Traveling Wilburys** | Written-By |
+
 ## See also
 
 - [The Traveling Wilburys Collection](The_Traveling_Wilburys_Collection.md)

@@ -44,6 +44,12 @@ By Tom Jones
 | A | **What A Night** | 3:24 |
 | B | **That's Where I Belong** | 3:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gordon Mills (2)** | Producer |
+
 ## See also
 
 - [](Tom_Jones.md)

@@ -56,6 +56,47 @@ By Kid Rock
 | D13 | **Where U At Rock** | 4:24 |
 | D14 | **Black Chick, White Guy** | 7:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andrew Karp** | A&R |
+| **Jason Flom** | A&R |
+| **Misty Love** | Backing Vocals |
+| **Shirley Hayden** | Backing Vocals |
+| **Stefanie Eulinberg** | Band [Twisted Brown Trucker], Drums |
+| **Jason Krause** | Band [Twisted Brown Trucker], Guitar [Metal] |
+| **Jimmie Bones** | Band [Twisted Brown Trucker], Keyboards |
+| **Kenny Olson** | Band [Twisted Brown Trucker], Lead Guitar |
+| **Joe C** | Band [Twisted Brown Trucker], Rap, Performer [Tweed] |
+| **Uncle Kracker** | Band [Twisted Brown Trucker], Turntables, Performer [Side-Kick] |
+| **John Pinsky** | Design |
+| **Al Sutton** | Engineer |
+| **John Travis** | Engineer |
+| **Kid Rock** | Engineer |
+| **Derek Matuja** | Engineer [Assisted By] |
+| **The Twisted Brown Trucker Band** | Engineer [Assisted By] |
+| **Tommy Valentino (2)** | Legal |
+| **Stephen Hutton** | Management [for Uppercut Management] |
+| **Tony Dawsey** | Mastered By |
+| **Andrew Nehra** | Musician [Our Friends Who Contributed...] |
+| **Bob Ebeling** | Musician [Our Friends Who Contributed...] |
+| **Chris Peters** | Musician [Our Friends Who Contributed...] |
+| **DJ Swamp** | Musician [Our Friends Who Contributed...] |
+| **Eminem** | Musician [Our Friends Who Contributed...] |
+| **Jon Gornbein** | Musician [Our Friends Who Contributed...] |
+| **Kenny Tudrick** | Musician [Our Friends Who Contributed...] |
+| **Matt O'Brien (2)** | Musician [Our Friends Who Contributed...] |
+| **Michael Nehra** | Musician [Our Friends Who Contributed...] |
+| **Robert Bradley (4)** | Musician [Our Friends Who Contributed...] |
+| **Randy G** | Photography By [Front Cover] |
+| **Susan Yannetti** | Photography By [Insert - "Bubble Bath"] |
+| **Joseph Cultice** | Photography By [Insert - "Cigar"] |
+| **Cut Throat Adverting Agency** | Promotion [Advertising] |
+| **Donna Yakes** | Technician [June Bug Control] |
+| **Sue Ritchie** | Technician [June Bug Control] |
+| **Tom Yakes** | Technician [June Bug Control] |
+
 ## See also
 
 - [](Kid_Rock.md)

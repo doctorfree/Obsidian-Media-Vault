@@ -52,6 +52,61 @@ By Heart
 | B4 | **How Deep It Goes** | 3:49 |
 | B5 | **Dreamboat Annie (Reprise)** | 3:48 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ann Wilson** | Acoustic Guitar |
+| **Nancy Wilson (2)** | Acoustic Guitar |
+| **Roger Fisher (2)** | Acoustic Guitar |
+| **Nancy Wilson (2)** | Acoustic Guitar [6 & 12 String] |
+| **Heart** | Arranged By |
+| **Mike Flicker** | Arranged By |
+| **Howard Leese** | Arranged By [Orchestral] |
+| **Rob Deans** | Arranged By [Orchestral] |
+| **Ann Wilson** | Backing Vocals |
+| **Before Dawn** | Backing Vocals |
+| **Geoff Foubert** | Backing Vocals |
+| **Howard Leese** | Backing Vocals |
+| **Jim Hill (4)** | Backing Vocals |
+| **Nancy Wilson (2)** | Backing Vocals |
+| **Tessie Bensussen** | Backing Vocals |
+| **Geoff Foubert** | Banjo |
+| **Brian Newcombe** | Bass |
+| **Steve Fossen** | Bass |
+| **Howard Leese** | Bells |
+| **Howard Leese** | Bells [Orchestral] |
+| **Ray Ayotte** | Congas |
+| **Mike Fisher (2)** | Directed By [Special Direction] |
+| **Dave Wilson (2)** | Drums |
+| **Duris Maxwell** | Drums |
+| **Kat Hendrikse** | Drums |
+| **Michael Derosier** | Drums |
+| **Howard Leese** | Electric Guitar |
+| **Nancy Wilson (2)** | Electric Guitar |
+| **Roger Fisher (2)** | Electric Guitar |
+| **Mike Flicker** | Engineer |
+| **Rolf Hennemann** | Engineer |
+| **Ann Wilson** | Flute |
+| **Roger Fisher (2)** | Lap Steel Guitar |
+| **Captain Paste-Up** | Layout |
+| **Ann Wilson** | Lead Vocals [All] |
+| **Albatross Management Inc.** | Management |
+| **Ken Kinnear** | Management |
+| **Patrick Collins** | Mastered By [Credits] |
+| **Mike Flicker** | Percussion |
+| **Ray Ayotte** | Percussion |
+| **Toby Rankin** | Photography By |
+| **Rob Deans** | Piano |
+| **Mike Flicker** | Producer |
+| **Howard Leese** | Producer [Assistant] |
+| **Howard Leese** | Synthesizer |
+| **Rob Deans** | Synthesizer |
+| **Mike Flicker** | Timpani |
+| **Jim Rimmer** | Typography [Signature Lettering] |
+| **Ann Wilson** | Written-By |
+| **Nancy Wilson (2)** | Written-By |
+
 ## See also
 
 - [Dog & Butterfly](Dog_and_Butterfly.md)

@@ -44,6 +44,13 @@ By ? & The Mysterians
 | A | **Can't Get Enough Of You, Baby** | 2:01 |
 | B | **Smokes** | 1:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Adams** | Lacquer Cut By |
+| **Neil Bogart** | Producer |
+
 ## See also
 
 - [96 Tears](96_Tears.md)

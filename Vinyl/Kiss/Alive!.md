@@ -58,6 +58,24 @@ By Kiss
 | D3 | **Rock And Roll All Nite** | 3:37 |
 | D4 | **Let Me Go, Rock 'N Roll** | 5:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dennis Woloch** | Design |
+| **Bob Ludwig** | Mastered By |
+| **Ace Frehley** | Performer [Kiss] |
+| **Gene Simmons** | Performer [Kiss] |
+| **Paul Stanley** | Performer [Kiss] |
+| **Peter Criss** | Performer [Kiss] |
+| **David Spindel** | Photography By |
+| **Fin Costello** | Photography By |
+| **John Kelly (15)** | Photography By |
+| **Mike Martineau** | Photography By |
+| **Phillipe Morgan** | Photography By |
+| **Stephen Levy** | Photography By |
+| **Eddie Kramer** | Producer, Engineer, Mixed By |
+
 ## See also
 
 - [](Kiss.md)

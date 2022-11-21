@@ -54,6 +54,30 @@ By John Fogerty
 | B5 | **Blue Moon Nights** | 2:33 |
 | B6 | **Bad Bad Boy** | 4:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Linda Cobb** | Art Direction, Design |
+| **Bob Glaub** | Bass |
+| **Chester Thompson** | Drums |
+| **Jeff Donavan** | Drums |
+| **Kenny Aronoff** | Drums |
+| **John Lowson** | Engineer |
+| **John Fogerty** | Guitar [All] |
+| **John Fogerty** | Guitar [Dobro] |
+| **Bob Fogerty** | Handclaps |
+| **John Fogerty** | Handclaps |
+| **Thomas Verdonck** | Handclaps |
+| **Bob Ludwig** | Mastered By |
+| **Bob Clearmountain** | Mixed By |
+| **Luis Conte** | Percussion |
+| **John Fogerty** | Producer, Arranged By |
+| **John Fogerty** | Sitar [Electric] |
+| **John Fogerty** | Steel Guitar [Lap] |
+| **Luis Conte** | Tambourine |
+| **John Fogerty** | Written-By |
+
 ## See also
 
 - [](John_Fogerty.md)

@@ -44,6 +44,12 @@ By Glen Campbell
 | A | **Sunflower** | 2:50 |
 | B | **How High Did We Go** | 3:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Klein** | Producer [Produced By] |
+
 ## See also
 
 - [](Glen_Campbell.md)

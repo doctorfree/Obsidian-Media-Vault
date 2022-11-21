@@ -53,6 +53,23 @@ By The Doors
 | B4 | **Take It As It Comes** | 2:13 |
 | B5 | **The End** | 11:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **William S. Harvey** | Art Direction, Design |
+| **John Densmore** | Drums |
+| **Bruce Botnick** | Engineer |
+| **Robby Krieger** | Guitar |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Ray Manzarek** | Organ, Piano, Bass |
+| **Joel Brodsky** | Photography By [Back Cover Photo] |
+| **Guy Webster** | Photography By [Front Cover Photo] |
+| **Paul A. Rothchild** | Producer |
+| **Jac Holzman** | Supervised By [Production Supervisor] |
+| **Jim Morrison** | Vocals |
+| **The Doors** | Words By, Music By |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

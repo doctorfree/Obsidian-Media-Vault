@@ -44,6 +44,15 @@ By Aretha Franklin
 | A | **Freeway Of Love** | 4:09 |
 | B | **Until You Say You Love Me** | 4:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Narada Michael Walden** | Producer, Arranged By |
+| **Jeffrey Cohen** | Written-By |
+| **Narada Michael Walden** | Written-By |
+| **Preston Glass** | Written-By |
+
 ## See also
 
 - [](Aretha_Franklin.md)

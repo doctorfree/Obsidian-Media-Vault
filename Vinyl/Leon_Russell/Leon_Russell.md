@@ -57,6 +57,23 @@ Number 1189 in numbered edition
 | B5 | **Pisces Apple Lady** | 2:50 |
 | B6 | **Roll Away The Stone** | 3:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roberta Ballard** | Coordinator [Production Coordinator] |
+| **Tom Wilkes (2)** | Design |
+| **Bob Wynne Graphics** | Design [Reissue] |
+| **Glyn Johns** | Engineer, Mixed By |
+| **Kevin Gray** | Mastered By |
+| **Jim McCrary** | Photography By |
+| **Denny Cordell** | Producer |
+| **Leon Russell** | Producer |
+| **Bonnie Bramlett** | Written-By |
+| **Chris Stainton** | Written-By |
+| **Greg Dempsey** | Written-By |
+| **Leon Russell** | Written-By |
+
 ## See also
 
 - [Carney](Carney.md)

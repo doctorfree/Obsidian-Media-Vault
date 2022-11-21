@@ -52,6 +52,17 @@ By Harry Nilsson
 | B4 | **Jump Into The Fire** | 6:54 |
 | B5 | **I'll Never Leave You** | 4:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phill Brown** | Engineer [Additional] |
+| **Robin Geoffrey Cable** | Engineer, Recorded By |
+| **Acy Lehman** | Graphics |
+| **Jeff Powell** | Lacquer Cut By |
+| **Dean Torrence** | Photography By |
+| **Richard Perry** | Producer |
+
 ## See also
 
 - [Everybody's Talkin'](Everybodys_Talkin.md)

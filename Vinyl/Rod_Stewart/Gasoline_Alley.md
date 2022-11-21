@@ -51,6 +51,18 @@ By Rod Stewart
 | B4 | **Jo's Lament** | 3:35 |
 | B5 | **You're My Girl ( I Don't Want To Discuss It)** | 4:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Desmond Strobel** | Art Direction |
+| **Michael Trossman** | Design [Album] |
+| **Rod Stewart** | Liner Notes |
+| **Ron Wood** | Liner Notes |
+| **David Redfern** | Photography By |
+| **Lou Reizner** | Producer |
+| **Rod Stewart** | Producer |
+
 ## See also
 
 - [Every Picture Tells A Story](Every_Picture_Tells_A_Story.md)

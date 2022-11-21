@@ -55,6 +55,27 @@ By The Moody Blues
 | B6 | **The Voyage** | 4:07 |
 | B7 | **Have You Heard - Part II** | 2:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Symonds** | Liner Notes |
+| **Lionel Bart** | Liner Notes |
+| **Phil Travers** | Painting [Cover Painting] |
+| **Graeme Edge** | Performer |
+| **John Lodge** | Performer |
+| **Justin Hayward** | Performer |
+| **Mike Pinder** | Performer |
+| **Ray Thomas** | Performer |
+| **Terence Ibbott** | Photography By [Inside Back Cover] |
+| **David Wedgbury** | Photography By [Inside Front Cover] |
+| **Tony Clarke** | Producer |
+| **Graeme Edge** | Written-By |
+| **John Lodge** | Written-By |
+| **Justin Hayward** | Written-By |
+| **Mike Pinder** | Written-By |
+| **Ray Thomas** | Written-By |
+
 ## See also
 
 - [A Question Of Balance](A_Question_Of_Balance.md)

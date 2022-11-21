@@ -60,6 +60,23 @@ By Various
 | D4 | **Living In A Trance** | 3:03 |
 | D5 | **Get Happy** | 2:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Christina Toth** | Coordinator [Music Coordinator for Amazon Studios] |
+| **Annie Stoll** | Design |
+| **Brian Burton** | Executive-Producer |
+| **KM (5)** | Lacquer Cut By |
+| **Bob Bowen** | Management [Head of Music for Amazon Studios], Product Manager [Executive Album Producer] |
+| **Melyssa Hardwick** | Management [TV Music Creative for Amazon Studios] |
+| **Joe LaPorta** | Mastered By |
+| **Michael H. Brauer** | Mixed By |
+| **Danger Mouse** | Producer |
+| **Sam Cohen** | Producer |
+| **Sam Cohen** | Recorded By |
+| **Eric Giordano** | Recorded By [Assisted By] |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

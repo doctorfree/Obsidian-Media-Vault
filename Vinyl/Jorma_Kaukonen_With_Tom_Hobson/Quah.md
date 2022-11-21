@@ -55,6 +55,20 @@ Number 860 of 2500
 | B4 | **Sweet Hawaiian Sunshine** | 2:42 |
 | B5 | **Hamar Promenade** | 4:34 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Salisbury** | Arranged By [Strings], Conductor |
+| **Maurice (50)** | Coordinator [Production Coordinator] |
+| **Pat Ieraci** | Coordinator [Production Coordinator] |
+| **Margareta Kaukonen** | Cover |
+| **Tom Hobson** | Guitar |
+| **Jorma Kaukonen** | Guitar, Vocals |
+| **Jim Marshall (3)** | Photography By |
+| **Jack Casady** | Producer |
+| **Mallory Earl** | Recorded By, Mixed By |
+
 ## See also
 
 - [](Jorma_Kaukonen_With_Tom_Hobson.md)

@@ -53,6 +53,15 @@ By The Beatles
 | B4 | **Baby You're A Rich Man** | 3:07 |
 | B5 | **All You Need Is Love** | 3:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Gibson (7)** | Artwork [Drawings] |
+| **Tony Barrow** | Liner Notes [Book Editor] |
+| **John Kelly (5)** | Photography By |
+| **George Martin** | Producer |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

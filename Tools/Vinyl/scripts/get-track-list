@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# get-track-list
+#
+# Insert a track listing to all Vinyl albums
 
 TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
 URL="https://api.discogs.com/releases"

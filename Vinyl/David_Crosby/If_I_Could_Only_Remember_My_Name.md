@@ -51,6 +51,37 @@ By David Crosby
 | B4 | **Orleans** | 1:56 |
 | B5 | **I'd Swear There Was Somebody Here** | 1:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Kreutzmann** | Performer |
+| **David Crosby** | Performer |
+| **David Freiberg** | Performer |
+| **David Geffen** | Performer |
+| **Elliot Roberts** | Performer |
+| **Ethan Crosby** | Performer |
+| **Gary Burden** | Performer |
+| **Grace Slick** | Performer |
+| **Graham Nash** | Performer |
+| **Gregg Rolie** | Performer |
+| **Henry Diltz** | Performer |
+| **Jack Casady** | Performer |
+| **Jerry Garcia** | Performer |
+| **Joni Mitchell** | Performer |
+| **Jorma Kaukonen** | Performer |
+| **Laura Allan** | Performer |
+| **Michael Shrieve** | Performer |
+| **Mickey Hart** | Performer |
+| **Neil Young** | Performer |
+| **Paul Kantner** | Performer |
+| **Phil Lesh** | Performer |
+| **Robert Hammer (2)** | Performer |
+| **Ronald Stone** | Performer |
+| **Stephen Barncard** | Performer |
+| **David Crosby** | Written-By |
+| **Neil Young** | Written-By |
+
 ## See also
 
 - [](David_Crosby.md)

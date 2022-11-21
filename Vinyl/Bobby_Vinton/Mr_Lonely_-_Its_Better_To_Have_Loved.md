@@ -44,6 +44,13 @@ By Bobby Vinton
 | A | **Mr. Lonely** |  |
 | B | **It's Better To Have Loved** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Morgan (2)** | Producer |
+| **Bobby Vinton** | Written-By |
+
 ## See also
 
 - [](Bobby_Vinton.md)

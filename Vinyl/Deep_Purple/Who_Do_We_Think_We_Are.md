@@ -49,6 +49,33 @@ By Deep Purple
 | B2 | **Place In Line** |  |
 | B3 | **Our Lady** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Coletta** | Design [Cover Design] |
+| **Roger Glover** | Design [Cover Design] |
+| **Martin Birch** | Engineer |
+| **Ron McMaster** | Lacquer Cut By [Runout Etch] |
+| **Ian Paice** | Mixed By |
+| **Roger Glover** | Mixed By |
+| **Fin Costello** | Photography By [Cover Photography] |
+| **Deep Purple** | Producer |
+| **Joe Reagoso** | Producer [Reissue Producer] |
+| **Jeremy Gee** | Recorded By [Rolling Stones Mobile Unit] |
+| **Nick Watterton** | Recorded By [Rolling Stones Mobile Unit] |
+| **Michael Wale** | Research [Press Research] |
+| **Tony Edwards (9)** | Research [Press Research] |
+| **Colin Hart (2)** | Technician [Equipment] |
+| **Ian Hansford** | Technician [Equipment] |
+| **Rob Cooksey** | Technician [Equipment] |
+| **Ron Quinton** | Technician [Equipment] |
+| **Ian Gillan** | Written-By |
+| **Ian Paice** | Written-By |
+| **Jon Lord** | Written-By |
+| **Ritchie Blackmore** | Written-By |
+| **Roger Glover** | Written-By |
+
 ## See also
 
 - [Burn](Burn.md)

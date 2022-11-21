@@ -52,6 +52,21 @@ By Joe Pass
 | B4 | **Ode To Billy Joe** | 3:30 |
 | B5 | **Li'l Darlin'** | 3:34 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eberhard Weber** | Bass |
+| **Heinz Bähr (2)** | Design |
+| **Kenny Clare** | Drums |
+| **Rolf Donner** | Engineer [Recording Engineer] |
+| **Joe Pass** | Guitar |
+| **Heino Leja** | Lacquer Cut By |
+| **Hubertus Mall** | Photography By [Cover Photo] |
+| **German Hasenfratz** | Photography By [Inside Photos] |
+| **Hans Georg Brunner-Schwer** | Producer [Produced By] |
+| **Willi Fruth** | Recording Supervisor [Recording Director] |
+
 ## See also
 
 - [](Joe_Pass.md)

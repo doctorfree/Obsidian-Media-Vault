@@ -65,6 +65,54 @@ By The London Symphony Orchestra And The English Chamber Choir
 | D4 | **We're Not Gonna Take It** |  |
 | D5 | **See Me, Feel Me** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Wil Malone** | Arranged By |
+| **Big Jim Sullivan** | Arranged By [Additional Arrangements] |
+| **David Measham** | Conductor, Directed By |
+| **Anton Matthews** | Engineer [Assistant] |
+| **Bob Potter** | Engineer [Assistant] |
+| **Mike Bobak** | Engineer [Assistant] |
+| **Keith Grant** | Engineer [Chief] |
+| **Tom Carnase** | Graphics [Logotype] |
+| **Tom Wilkes (2)** | Graphics [Logotype] |
+| **Wilkes & Braun Inc.** | Graphics, Design Concept |
+| **David Edward Byrd** | Illustration [Acid Queen] |
+| **Doug Johnson (7)** | Illustration [Cousin Kevin] |
+| **Richard Harvey (7)** | Illustration [Doctor] |
+| **Wilson McClean** | Illustration [Father] |
+| **Alex Gnidziejko** | Illustration [Hawker] |
+| **Charles E. White III** | Illustration [Local Lad] |
+| **Jim Manos** | Illustration [Mother] |
+| **Richard Amsel** | Illustration [Narrator] |
+| **Robert Heindel** | Illustration [Nurse] |
+| **Mark English (5)** | Illustration [Tommy] |
+| **Robert Grossmann** | Illustration [Uncle Ernie] |
+| **Lee Hulko** | Mastered By |
+| **Pete Townshend** | Narrator |
+| **Merry Clayton** | Performer [Acid Queen] |
+| **John Entwistle** | Performer [Cousin Kevin] |
+| **Richard Harris** | Performer [Doctor] |
+| **Steve Winwood** | Performer [Father] |
+| **Richie Havens** | Performer [Hawker] |
+| **Rod Stewart** | Performer [Local Lad] |
+| **Graham Bell** | Performer [Lover] |
+| **Maggie Bell** | Performer [Mother] |
+| **Sandy Denny** | Performer [Nurse] |
+| **Roger Daltrey** | Performer [Tommy] |
+| **Ringo Starr** | Performer [Uncle Ernie] |
+| **Ethan Russell** | Photography By [Location] |
+| **Tom Wilkes (2)** | Photography By [Location] |
+| **Phil Marco** | Photography By [Stills] |
+| **Lou Reizner** | Producer |
+| **Kit Lambert** | Producer [The Who´s Original Recording Of Tommy] |
+| **John Entwistle** | Written-By |
+| **Keith Moon** | Written-By |
+| **Pete Townshend** | Written-By |
+| **Sonny Boy Williamson (2)** | Written-By |
+
 ## See also
 
 - [](The_London_Symphony_Orchestra_And_The_English_Chamber_Choir.md)

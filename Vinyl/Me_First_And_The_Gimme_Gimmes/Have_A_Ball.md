@@ -58,6 +58,16 @@ Autographed by band members on front cover
 | B5 | **Mandy** |  |
 | B6 | **Rocket Man** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Fat Mike (2)** | Bass |
+| **Dave Raun** | Drums |
+| **Jake Jackson (2)** | Guitar |
+| **Joey Cape** | Guitar |
+| **Spike Slawson** | Vocals |
+
 ## See also
 
 - [Take A Break](Take_A_Break.md)

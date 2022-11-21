@@ -44,6 +44,15 @@ By Richard Marx
 | A | **Too Late To Say Goodbye (Single Version)** | 4:04 |
 | B | **Real World (LP Version)** | 4:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Cole (4)** | Engineer, Mixed By |
+| **David Cole (4)** | Producer |
+| **Richard Marx** | Producer |
+| **Richard Marx** | Written-By |
+
 ## See also
 
 - [](Richard_Marx.md)

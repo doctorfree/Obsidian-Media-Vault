@@ -64,6 +64,33 @@ By Donovan
 | D5 | **Starfish-On-The-Toast** | 2:38 |
 | D6 | **Epistle To Derroll** | 5:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sid Maurer** | Art Direction |
+| **John Carr** | Bongos |
+| **Donovan** | Composed By, Arranged By |
+| **John Carr** | Congas |
+| **Karl Ferris** | Design [Photograph Design] |
+| **Ken Baldock** | Double Bass [String Bass] |
+| **Keith Webb** | Drums |
+| **Tony Carr** | Drums, Bells, Congas, Cymbal [Turkish And Finger Cymbals] |
+| **Cliff Barton** | Electric Bass |
+| **Eric Leese** | Electric Guitar |
+| **Mike Ross-Trevor** | Engineer |
+| **Ashley Kozak** | Executive-Producer |
+| **Harold McNair** | Flute |
+| **Donovan** | Harmonica |
+| **Mick Taylor (6)** | Illustration |
+| **Sheena McCall** | Illustration |
+| **Donovan** | Lyrics By [Verse] |
+| **Mike O'Neill (2)** | Organ, Piano, Harpsichord |
+| **Mickie Most** | Producer |
+| **Mike Carr (2)** | Vibraphone |
+| **Donovan** | Vocals, Guitar, Liner Notes |
+| **Donovan** | Whistling |
+
 ## See also
 
 - [Cosmic Wheels](Cosmic_Wheels.md)

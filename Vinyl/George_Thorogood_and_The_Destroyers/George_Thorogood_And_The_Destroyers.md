@@ -52,6 +52,19 @@ By George Thorogood & The Destroyers
 | B4 | **I'll Change My Style** | 3:57 |
 | B5 | **Delaware Slide** | 7:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Thorogood** | Acoustic Guitar, Electric Guitar, Harmonica, Lead Vocals |
+| **Bill Blough** | Bass |
+| **Susan Marsh** | Design |
+| **Jeff Simon** | Drums |
+| **John Nagy** | Engineer, Mixed By [Mixdown] |
+| **Ron Smith (3)** | Guitar [Second] |
+| **Henry Horenstein** | Photography By [Color Photography] |
+| **Sam Clover** | Photography By [On Back Sleeve, Left Side] |
+
 ## See also
 
 - [](George_Thorogood_and_The_Destroyers_index.md)

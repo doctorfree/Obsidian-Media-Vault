@@ -60,6 +60,32 @@ By Frank Zappa
 | F1 | **Watermelon In Easter Hay** | 10:00 |
 | F2 | **A Little Green Rosetta** | 7:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Marginal Chagrin** | Baritone Saxophone |
+| **Stumuk** | Bass Saxophone |
+| **Arthur Barrow** | Bass, Vocals |
+| **Vinnie Colaiuta** | Drums |
+| **Joe Chiccarelli** | Engineer [Recording] |
+| **Mick Glossop** | Engineer [Remix] |
+| **Steve Nye** | Engineer [Remix] |
+| **Craig Steward** | Harmonica |
+| **Peter Wolf (3)** | Keyboards |
+| **Tommy Mars** | Keyboards |
+| **Frank Zappa** | Lead Guitar, Vocals, Arranged By, Conductor |
+| **Ike Willis** | Lead Vocals |
+| **Bernie Grundman** | Mastered By |
+| **Ed Mann** | Percussion |
+| **Frank Zappa** | Producer |
+| **Warren Cuccurullo** | Rhythm Guitar, Vocals |
+| **Denny Walley** | Slide Guitar, Vocals |
+| **Jeff Hollie** | Tenor Saxophone |
+| **Al Malkin** | Vocals |
+| **Dale Bozzio** | Vocals |
+| **Ed Mann** | Vocals |
+
 ## See also
 
 - [I Don't Wanna Get Drafted!](I_Dont_Wanna_Get_Drafted!.md)

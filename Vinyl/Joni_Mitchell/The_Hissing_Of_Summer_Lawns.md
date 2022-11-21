@@ -52,6 +52,26 @@ By Joni Mitchell
 | B4 | **Sweet Bird** | 4:10 |
 | B5 | **Shadows And Light** | 4:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joni Mitchell** | Acoustic Guitar |
+| **Max Bennett** | Bass |
+| **Wilton Felder** | Bass |
+| **John Guerin** | Drums |
+| **Larry Carlton** | Electric Guitar |
+| **Victor Feldman** | Electric Piano |
+| **Ellis Sorkin** | Engineer [Assistant] |
+| **Henry Lewy** | Engineer, Mixed By |
+| **Bud Shank** | Flute |
+| **Chris Bellman** | Lacquer Cut By |
+| **Norman Seeff** | Photography By |
+| **Joni Mitchell** | Piano |
+| **Chuck Findley** | Trumpet |
+| **Joni Mitchell** | Vocals, Mixed By, Design, Illustration |
+| **Joni Mitchell** | Written-By |
+
 ## See also
 
 - [Blue](Blue.md)

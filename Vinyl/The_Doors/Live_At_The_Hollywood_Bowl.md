@@ -48,6 +48,21 @@ By The Doors
 | B3 | **The Hill Dwellers** | 2:21 |
 | B4 | **Spanish Caravan** | 1:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Curtice Taylor** | Artwork [Colorization] |
+| **Carol Bobolts** | Design |
+| **John Densmore** | Drums |
+| **Bruce Botnick** | Engineer |
+| **Robby Krieger** | Guitar |
+| **Ray Manzarek** | Keyboards |
+| **Henry Diltz** | Photography By |
+| **Paul A. Rothchild** | Producer |
+| **Jim Morrison** | Vocals |
+| **The Doors** | Written-By |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

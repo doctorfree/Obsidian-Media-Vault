@@ -52,6 +52,23 @@ By Smith
 | B4 | **Let's Spend The Night Together** | 2:55 |
 | B5 | **I'll Hold Out My Hand** | 3:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmie Haskell** | Arranged By [Horns] |
+| **Bill Cooper** | Engineer |
+| **Bill Schnee** | Engineer |
+| **Phil Kaye** | Engineer |
+| **Bob Evans (5)** | Performer |
+| **Gayle McCormick** | Performer |
+| **James Richard Cliburn** | Performer |
+| **Jerry Carter** | Performer |
+| **Larry Moss** | Performer |
+| **Paul Slaughter** | Photography By |
+| **Joel Sill** | Producer |
+| **Steve Barri** | Producer |
+
 ## See also
 
 - [Take A Look Around](Take_A_Look_Around.md)

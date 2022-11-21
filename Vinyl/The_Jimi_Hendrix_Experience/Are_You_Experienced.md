@@ -53,6 +53,20 @@ By The Jimi Hendrix Experience
 | B4 | **Foxy Lady** | 3:15 |
 | B5 | **Are You Experienced?** | 3:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ed Thrasher** | Art Direction |
+| **Mitch Mitchell** | Drums |
+| **Eddie Kramer** | Engineer [Uncredited] |
+| **Noel Redding** | Guitar, Bass [Uncredited], Backing Vocals [Uncredited] |
+| **Jimi Hendrix** | Guitar, Vocals [Uncredited] |
+| **Karl Ferris** | Photography By |
+| **Yameta Co. Ltd.** | Producer [A Yameta Production] |
+| **Chas Chandler** | Producer [Uncredited] |
+| **Jimi Hendrix** | Written-By |
+
 ## See also
 
 - [](The_Jimi_Hendrix_Experience.md)

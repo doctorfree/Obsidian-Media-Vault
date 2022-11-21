@@ -53,6 +53,27 @@ By Dr. John
 | B4 | **I Been Hoodood** | 3:12 |
 | B5 | **Cold Cold Cold** | 2:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Meters** | Backing Band [Rhythm] |
+| **Jessica Smith** | Backing Vocals |
+| **Robbie Montgomery** | Backing Vocals |
+| **George Porter, Jr.** | Bass |
+| **James Flournoy Holmes** | Design, Painting |
+| **Joseph Modeliste** | Drums |
+| **Karl Richardson** | Engineer |
+| **David Michael Holmes** | Graphics [Graphic Coordinator] |
+| **Leo Nocentelli** | Lead Guitar |
+| **Allen Toussaint** | Mixed By [Re-mixed By] |
+| **Arif Mardin** | Mixed By [Re-mixed By] |
+| **Jimmy Douglass** | Mixed By [Re-mixed By] |
+| **Art Neville** | Organ |
+| **Allen Toussaint** | Producer, Arranged By, Piano, Electric Piano, Acoustic Guitar, Congas, Tambourine, Backing Vocals, Conductor |
+| **Gary Brown (2)** | Saxophone |
+| **Mac Rebennack** | Vocals, Backing Vocals |
+
 ## See also
 
 - [](Dr_John.md)

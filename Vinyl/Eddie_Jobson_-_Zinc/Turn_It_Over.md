@@ -44,6 +44,14 @@ By Eddie Jobson / Zinc
 | A | **Turn It Over (Residential Mix)** | 5:08 |
 | B | **Turn It Over** | 3:59 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Cary Sharaf El Din** | Guitar [Uncredited] |
+| **Wally Traugott** | Lacquer Cut By |
+| **Eddie Jobson** | Producer, Written-By |
+
 ## See also
 
 - [](Eddie_Jobson_-_Zinc.md)

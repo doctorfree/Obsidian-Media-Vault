@@ -54,6 +54,21 @@ By The Beach Boys
 | B5 | **I'm Bugged At My Ol' Man** | 2:15 |
 | B6 | **And Your Dream Comes True** | 1:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alan Jardine** | Lead Vocals |
+| **Brian Wilson** | Lead Vocals |
+| **Mike Love** | Lead Vocals |
+| **Alan Jardine** | Performer |
+| **Brian Wilson** | Performer |
+| **Carl Wilson** | Performer |
+| **Dennis Wilson (2)** | Performer |
+| **Mike Love** | Performer |
+| **Brian Wilson** | Written-By |
+| **Mike Love** | Written-By |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

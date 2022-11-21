@@ -61,6 +61,47 @@ By Joe Cocker
 | D4 | **The Letter** | 4:20 |
 | D5 | **Delta Lady** | 5:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Stainton** | Arranged By |
+| **Leon Russell** | Arranged By |
+| **Carl Radle** | Bass |
+| **Bobby Jones (4)** | Choir |
+| **Claudia Lennear** | Choir |
+| **Daniel Moore** | Choir |
+| **Don Preston (2)** | Choir |
+| **Donna Washburn** | Choir |
+| **Donna Weiss** | Choir |
+| **Matthew Moore** | Choir |
+| **Nickey Barclay** | Choir |
+| **Pamela Polland** | Choir |
+| **Rita Coolidge** | Choir |
+| **Bobby Torres** | Congas |
+| **Tom Wilkes (2)** | Design |
+| **Craig Braun** | Design Concept [Packaging Concept] |
+| **Chuck Blackwell** | Drums |
+| **Jim Gordon** | Drums |
+| **Jim Keltner** | Drums |
+| **Eddie Kramer** | Engineer [Locaton] |
+| **Leon Russell** | Guitar |
+| **Ron Wolin** | Illustration |
+| **John Mendelsohn** | Liner Notes |
+| **Glyn Johns** | Mixed By, Mastered By |
+| **Chris Stainton** | Organ |
+| **Chuck Blackwell** | Percussion |
+| **Sandy Konikoff** | Percussion |
+| **Andee Cohen** | Photography By |
+| **Jim McCrary** | Photography By |
+| **Chris Stainton** | Piano |
+| **Leon Russell** | Piano |
+| **Denny Cordell** | Producer |
+| **Leon Russell** | Producer |
+| **Don Preston (2)** | Rhythm Guitar |
+| **Bobby Keys** | Tenor Saxophone |
+| **Jim Price** | Trumpet |
+
 ## See also
 
 - [](Joe_Cocker.md)

@@ -56,6 +56,24 @@ By Marcy Playground
 | C | **Hallelujah** | 3:48 |
 | D | **The Needle And The Damage Done** | 3:48 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Henry Marquez** | Art Direction |
+| **Donny Phillips** | Design |
+| **Robert Laverdiere** | Design [Package Design] |
+| **Jim Sabella** | Engineer |
+| **Kenny Gioia** | Engineer |
+| **Kevin Gray** | Lacquer Cut By |
+| **Greg Calbi** | Mastered By |
+| **Kenny Gioia** | Mixed By |
+| **Marcy Playground** | Mixed By |
+| **Chris Blake (4)** | Photography By [Black And White Photo] |
+| **James Wojcik** | Photography By [Cover And Color Photo] |
+| **Dorin Sauerbier** | Plated By |
+| **John Wozniak** | Producer |
+
 ## See also
 
 - [](Marcy_Playground_index.md)

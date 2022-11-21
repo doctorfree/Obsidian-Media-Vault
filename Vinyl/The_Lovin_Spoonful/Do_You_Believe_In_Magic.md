@@ -54,6 +54,21 @@ By The Lovin' Spoonful
 | B5 | **On The Road Again** | 1:52 |
 | B6 | **Night Owl Blues** | 3:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joel Tanner** | Design [Cover] |
+| **Joe Butler** | Drums |
+| **Steve Boone** | Electric Bass |
+| **Val Valentin** | Engineer [Director Of Engineering] |
+| **Zal Yanovsky** | Lead Guitar |
+| **Antonia Duren** | Liner Notes |
+| **Peter Stampfel** | Liner Notes |
+| **Chuck Stewart** | Photography By [Cover] |
+| **Erik Jacobsen** | Producer |
+| **John Sebastian** | Vocals, Guitar, Autoharp, Harmonica |
+
 ## See also
 
 - [Darling Be Home Soon / Darlin' Companion](Darling_Be_Home_Soon_-_Darlin_Companion.md)

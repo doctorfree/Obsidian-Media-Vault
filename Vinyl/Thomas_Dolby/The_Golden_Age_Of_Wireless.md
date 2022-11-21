@@ -52,6 +52,23 @@ By Thomas Dolby
 | B4 | **One Of Our Submarines** | 5:11 |
 | B5 | **Cloudburst At Shingle Street** | 5:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andrew Douglas** | Cover |
+| **Thomas Dolby** | Cover |
+| **Elisabeth Aumont** | Crew [Fruit Juice Everywhere] |
+| **Lesley Fairbairn** | Crew [Personal Assistant] |
+| **Bill Smith (19)** | Layout |
+| **Andy Ferguson (2)** | Management |
+| **Cracks 90 Ltd.** | Management |
+| **Thomas Dolby** | Producer |
+| **Tim Friese-Greene** | Producer |
+| **Jo Kerr** | Written-By |
+| **Thomas Dolby** | Written-By |
+| **Tim Kerr (2)** | Written-By |
+
 ## See also
 
 - [Blinded By Science](Blinded_By_Science.md)

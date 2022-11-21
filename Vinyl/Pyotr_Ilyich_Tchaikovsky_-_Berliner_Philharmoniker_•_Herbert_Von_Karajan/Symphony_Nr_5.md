@@ -43,6 +43,20 @@ By Pyotr Ilyich Tchaikovsky : Berliner Philharmoniker • Herbert Von Karajan
 |--------------|-----------|--------------|
 |  | **Peter Tschaikowsky: Symphony Nr. 5 E-Moll Op.64** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Pyotr Ilyich Tchaikovsky** | Composed By |
+| **Herbert Von Karajan** | Conductor |
+| **Siegfried Lauterwasser** | Cover |
+| **Günter Hermanns** | Engineer |
+| **Uwe Kraemer** | Liner Notes |
+| **Berliner Philharmoniker** | Orchestra |
+| **Hans Hirsch** | Producer |
+| **Magdalene Padberg** | Producer |
+| **Michel Glotz** | Recording Supervisor |
+
 ## See also
 
 - [](Pyotr_Ilyich_Tchaikovsky_-_Berliner_Philharmoniker_•_Herbert_Von_Karajan.md)

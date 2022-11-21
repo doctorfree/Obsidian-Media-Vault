@@ -44,6 +44,13 @@ By Aerosmith
 | A | **Draw The Line (Intro. :17)** | 3:17 |
 | B | **Bright, Light, Fright (Intro. :20)** | 2:17 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Aerosmith** | Producer |
+| **Jack Douglas** | Producer |
+
 ## See also
 
 - [The Other Side](The_Other_Side.md)

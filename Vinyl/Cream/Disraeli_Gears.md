@@ -53,6 +53,13 @@ By Cream
 | B5 | **Take It Back** | 3:05 |
 | B6 | **Mother's Lament** | 1:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lex van Coeverden** | Lacquer Cut By |
+| **Felix Pappalardi** | Producer |
+
 ## See also
 
 - [Wheels Of Fire](Wheels_Of_Fire.md)

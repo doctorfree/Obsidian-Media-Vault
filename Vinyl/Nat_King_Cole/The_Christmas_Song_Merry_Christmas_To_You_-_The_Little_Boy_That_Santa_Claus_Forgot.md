@@ -44,6 +44,12 @@ By Nat King Cole
 | A | **The Christmas Song (Merry Christmas To You)** | 3:12 |
 | B | **The Little Boy That Santa Claus Forgot** | 2:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nelson Riddle** | Conductor [Orchestra] |
+
 ## See also
 
 - [Make Her Mine](Make_Her_Mine.md)

@@ -44,6 +44,13 @@ By The Grass Roots
 | A | **Temptation Eyes** | 2:35 |
 | B | **Keepin' Me Down** | 4:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phil Kaye** | Engineer |
+| **Steve Barri** | Producer |
+
 ## See also
 
 - [Let's Live For Today](Lets_Live_For_Today.md)

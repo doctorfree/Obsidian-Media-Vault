@@ -53,6 +53,20 @@ By Nick Drake
 | B4 | **Harvest Breed** |  |
 | B5 | **From The Morning** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Trevithick** | Artwork [Cover] |
+| **John Wood** | Engineer |
+| **Sean Magee** | Lacquer Cut By [Runout Etching i…i] |
+| **Keith Morris (8)** | Photography By [Inside Photograph] |
+| **John Wood** | Producer |
+| **Witchseason Productions Ltd.** | Producer |
+| **CCS (2)** | Typography |
+| **Nick Drake** | Vocals, Guitar, Piano |
+| **Nick Drake** | Written-By |
+
 ## See also
 
 - [](Nick_Drake.md)

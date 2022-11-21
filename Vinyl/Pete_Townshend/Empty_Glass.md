@@ -52,6 +52,29 @@ By Pete Townshend
 | B4 | **Empty Glass** | 5:20 |
 | B5 | **Gonna Get Ya** | 6:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tony Butler** | Bass |
+| **Bob Carlos Clarke** | Design [Sleeve] |
+| **James Asher** | Drums |
+| **Kenny Jones** | Drums |
+| **Mark Brzezicki** | Drums |
+| **Simon Phillips** | Drums |
+| **Bill Price** | Engineer |
+| **Steve Nye** | Engineer [Additional] |
+| **Richard Evans (7)** | Graphics |
+| **Pete Townshend** | Guitar, Synthesizer, Vocals, Written-By |
+| **Peter Hope Evans** | Harmonica |
+| **John "Rabbit" Bundrick** | Keyboards |
+| **Bill Curbishley** | Management |
+| **Chris Chappel** | Management [Assistant] |
+| **Ted Jensen** | Mastered By |
+| **Tim Young** | Mastered By |
+| **Lindsey And Julie** | Other [Models] |
+| **Chris Thomas** | Producer |
+
 ## See also
 
 - [](Pete_Townshend.md)

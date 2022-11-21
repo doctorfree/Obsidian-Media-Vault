@@ -68,6 +68,30 @@ By "Stephen Stills, Manassas"
 | D3 | **The Treasure (Take One)** | 8:09 |
 | D4 | **Blues Man** | 4:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roger Bush** | Acoustic Bass |
+| **Bill Wyman** | Bass |
+| **Calvin "Fuzzy" Samuels** | Bass |
+| **Joe Lala** | Congas, Percussion, Timbales, Voice |
+| **Dallas Taylor** | Drums, Producer |
+| **Stephen Stills** | Electric Piano, Guitar, Organ, Clavinet [Clavenette], Slide Guitar [Bottleneck], Piano, Producer, Voice |
+| **Jerry Aiello** | Electric Piano, Organ, Clavinet [Clavenette], Piano |
+| **Paul Harris (2)** | Electric Piano, Organ, Clavinet [Clavenette], Piano, Piano [Tack] |
+| **Howard Albert** | Engineer, Recorded By, Mixed By |
+| **Ron Albert** | Engineer, Recorded By, Mixed By |
+| **Byron Berline** | Fiddle |
+| **Chris Hillman** | Guitar, Mandolin, Producer, Voice |
+| **Al Perkins** | Guitar, Steel Guitar, Voice |
+| **Sydney George** | Harmonica |
+| **Al Wilson** | Other [In Tribute] |
+| **Duane Allman** | Other [In Tribute] |
+| **Jimi Hendrix** | Other [In Tribute] |
+| **Chris Hillman** | Written-By |
+| **Stephen Stills** | Written-By |
+
 ## See also
 
 - [](Stephen_Stills__Manassas.md)

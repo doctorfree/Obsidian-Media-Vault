@@ -48,6 +48,21 @@ By UK
 | B2 | **Nothing To Lose** | 3:58 |
 | B3 | **Carrying No Cross** | 12:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Fidler (2)** | Crew |
+| **Graham Davies (2)** | Crew |
+| **Hipgnosis (2)** | Design [Cover Design], Photography By |
+| **Terry Bozzio** | Drums, Percussion |
+| **John Punter** | Engineer |
+| **Nigel Walker** | Engineer [Assistant] |
+| **George Marino** | Mastered By |
+| **Eddie Jobson** | Producer, Arranged By, Keyboards, Electric Violin, Written-By |
+| **John Wetton** | Producer, Arranged By, Voice [Lead], Bass, Written-By |
+| **Geoff Emerick** | Recorded By [Backing Tracks] |
+
 ## See also
 
 - [](UK.md)

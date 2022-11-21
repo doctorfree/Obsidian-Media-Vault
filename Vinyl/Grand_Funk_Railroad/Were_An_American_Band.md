@@ -50,6 +50,21 @@ By Grand Funk Railroad
 | B3 | **Walk Like A Man** | 4:03 |
 | B4 | **Loneliest Rider** | 5:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Hoernle** | Art Direction |
+| **Andrew Cavaliere** | Artwork [Concept], Design |
+| **Lynn Goldsmith** | Artwork [Concept], Design |
+| **Mel Schacher** | Bass |
+| **Seth Snyder** | Engineer [Assistant] |
+| **Craig Frost** | Organ, Piano [Electric], Keyboards [Clavinet], Synthesizer [Moog] |
+| **Lynn Goldsmith** | Photography By |
+| **Todd Rundgren** | Producer, Engineer |
+| **Don Brewer** | Vocals, Drums, Percussion |
+| **Mark Farner** | Vocals, Guitar, Acoustic Guitar, Piano [Electric], Congas |
+
 ## See also
 
 - [Caught In The Act](Caught_In_The_Act.md)

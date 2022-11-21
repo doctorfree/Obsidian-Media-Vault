@@ -51,6 +51,24 @@ By The J. Geils Band
 | B3 | **Desire (Please Don't Turn Away)** | 3:35 |
 | B4 | **Till The Walls Come Tumblin' Down** | 4:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Carin Goldberg** | Art Direction, Design |
+| **Daniel Klein (2)** | Bass |
+| **Mark Handel** | Design |
+| **Stephen Bladd** | Drums, Vocals |
+| **David Thoener** | Engineer |
+| **J. Geils** | Guitar |
+| **Magic Dick** | Harmonica, Alto Saxophone |
+| **Seth Justman** | Keyboards, Vocals |
+| **Joe Brescio** | Mastered By |
+| **Seth Justman** | Producer, Arranged By |
+| **Peter Wolf** | Vocals |
+| **Peter Wolf** | Written-By |
+| **Seth Justman** | Written-By |
+
 ## See also
 
 - [](The_J_Geils_Band.md)

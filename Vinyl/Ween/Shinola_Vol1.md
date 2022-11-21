@@ -54,6 +54,17 @@ By Ween
 | B11 | **Monique The Freak** |  |
 | B12 | **Someday** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Emily Lazar** | Mastered By |
+| **Andrew Weiss** | Mixed By, Producer |
+| **Dean Ween** | Performer, Written-By |
+| **Gene Ween** | Performer, Written-By |
+| **Tom Nichols (5)** | Photography By |
+| **Ween** | Producer |
+
 ## See also
 
 - [](Ween.md)

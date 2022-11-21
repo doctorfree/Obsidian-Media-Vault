@@ -52,6 +52,17 @@ By Hello People
 | B4 | **Come And See Me** | 6:38 |
 | B5 | **I Ride To Nowhere** | 3:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lew Futterman** | Producer |
+| **Bill Szymczyk** | Recorded By [Sound Recording] |
+| **Hal Dreeben** | Recorded By [Sound Recording] |
+| **Pete Weiss (2)** | Recorded By [Sound Recording] |
+| **Stu Black** | Recorded By [Sound Recording] |
+| **Hello People** | Vocals, Instrumentation By, Arranged By |
+
 ## See also
 
 - [Bricks](Bricks.md)

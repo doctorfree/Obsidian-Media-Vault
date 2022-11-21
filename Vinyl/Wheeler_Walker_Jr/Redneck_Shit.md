@@ -53,6 +53,20 @@ By Wheeler Walker Jr.
 | B5 | **Sit On My Face** |  |
 | B6 | **Which One O' You Queers Gonna Suck My Dick?** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Allen (13)** | Bass |
+| **Chris Powell (4)** | Drums, Percussion, Vocals |
+| **Mark Petaccia** | Engineer |
+| **Leroy Powell** | Guitar, Pedal Steel Guitar, Harmonica, Vocals |
+| **Dave Cobb** | Guitar, Percussion |
+| **Pete Lyman** | Mastered By |
+| **Darrell Thorp** | Mixed By |
+| **Dave Cobb** | Producer |
+| **Wheeler Walker Jr.** | Vocals, Guitar |
+
 ## See also
 
 - [](Wheeler_Walker_Jr.md)

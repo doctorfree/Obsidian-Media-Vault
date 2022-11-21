@@ -47,6 +47,19 @@ By "Jan Garbarek - Bobo Stenson Quartet With Palle Danielsson, Jon Christensen"
 | B1 | **Witchi-Tai-To** | 4:24 |
 | B2 | **Desireless** | 20:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **B & B Wojirsch** | Design [Cover Design] |
+| **Palle Danielsson** | Double Bass |
+| **Jon Christensen** | Drums |
+| **Jan Erik Kongshaug** | Engineer |
+| **Paul Maar** | Photography By [Cover Photo] |
+| **Bobo Stenson** | Piano |
+| **Manfred Eicher** | Producer [Produced By] |
+| **Jan Garbarek** | Soprano Saxophone, Tenor Saxophone |
+
 ## See also
 
 - [](Jan_Garbarek_-_Bobo_Stenson_Quartet_With_Palle_Danielsson__Jon_Christensen.md)

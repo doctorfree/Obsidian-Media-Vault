@@ -44,6 +44,12 @@ By Led Zeppelin
 | A | **Whole Lotta Love** | 5:33 |
 | B | **Living Loving Maid (She's Just A Woman)** | 2:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Page** | Producer |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

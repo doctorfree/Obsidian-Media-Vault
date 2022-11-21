@@ -44,6 +44,12 @@ By K.T. Oslin
 | A | **Didn't Expect It To Go Down This Way** | 3:14 |
 | B | **Round The Clock Lovin'** | 4:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Harold Shedd** | Producer |
+
 ## See also
 
 - [](KT_Oslin.md)

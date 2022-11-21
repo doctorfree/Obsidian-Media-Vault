@@ -51,6 +51,52 @@ By Madonna
 | B4 | **Jimmy Jimmy** |  |
 | B5 | **Love Makes The World Go Round** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Putnam** | Acoustic Guitar |
+| **Bill Meyers** | Arranged By [Strings] |
+| **Jeffrey Kent Ayeroff** | Art Direction |
+| **Jeri McManus** | Art Direction |
+| **David Williams (4)** | Backing Vocals |
+| **Edie Lehmann** | Backing Vocals |
+| **Jackie Jackson** | Backing Vocals |
+| **Jonathan Moffett** | Backing Vocals |
+| **Keithen Carter** | Backing Vocals |
+| **Madonna** | Backing Vocals |
+| **Richard Marx** | Backing Vocals |
+| **Siedah Garrett** | Backing Vocals |
+| **Jeri McManus** | Design |
+| **Patrick Leonard** | Drum Programming |
+| **Stephen Bray** | Drum Programming |
+| **Jonathan Moffett** | Drums |
+| **Patrick Leonard** | Drums |
+| **Stephen Bray** | Drums |
+| **Bruce Gaitsch** | Electric Guitar |
+| **John Putnam** | Electric Guitar |
+| **Michael Verdick** | Engineer, Mixed By |
+| **Bruce Gaitsch** | Guitar |
+| **Dann Huff** | Guitar |
+| **David Williams (4)** | Guitar |
+| **Paul Jackson Jr.** | Guitar |
+| **Patrick Leonard** | Keyboards |
+| **Stephen Bray** | Keyboards |
+| **Fred Zarr** | Keyboards [Additional] |
+| **Patrick Leonard** | Keyboards [Additional] |
+| **Freddy Demann** | Management |
+| **Weisner-DeMann Entertainment** | Management |
+| **Dan Nebenzal** | Mixed By [Assistant] |
+| **Jonathan Moffett** | Percussion |
+| **Paulinho Da Costa** | Percussion |
+| **Herb Ritts** | Photography By |
+| **Madonna** | Producer |
+| **Patrick Leonard** | Producer |
+| **Stephen Bray** | Producer |
+| **Bruce Gaitsch** | Rhythm Guitar |
+| **David Williams (4)** | Rhythm Guitar |
+| **David Boruff** | Saxophone |
+
 ## See also
 
 - [Like A Prayer](Like_A_Prayer.md)

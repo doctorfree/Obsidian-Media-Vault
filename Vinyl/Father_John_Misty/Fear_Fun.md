@@ -54,6 +54,24 @@ By Father John Misty
 | B5 | **Tee Pees 1-12** |  |
 | B6 | **Everyman Needs A Companion** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeff Kleinsmith** | Design |
+| **Sasha Barr** | Design |
+| **Hugo Nicolson** | Engineer |
+| **Jonathan Wilson** | Engineer |
+| **Wylie Gelber** | Engineer [Assistant] |
+| **Greg Calbi** | Mastered By |
+| **Ray Janos** | Mastered By [Vinyl] |
+| **Phil Ek** | Mixed By |
+| **Dimitri Drjuchin** | Painting [Cover], Artwork [Interior] |
+| **Emma Garr** | Photography By [Insert] |
+| **J. Tillman** | Producer |
+| **Jonathan Wilson** | Producer |
+| **J. Tillman** | Written-By [All Songs By] |
+
 ## See also
 
 - ["I Love You, Honeybear"](I_Love_You__Honeybear.md)

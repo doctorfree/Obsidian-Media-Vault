@@ -62,6 +62,16 @@ By Redbone
 | D4 | **Niki Hokey** | 3:16 |
 | D5 | **Sweet Lady Of Love** | 3:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lee James (5)** | Liner Notes |
+| **Alex Kazanegras** | Producer |
+| **Lolly Vegas** | Producer |
+| **Pat Vegas** | Producer |
+| **Pete Welding** | Producer |
+
 ## See also
 
 - [](Redbone.md)

@@ -51,6 +51,31 @@ By Dire Straits
 | B3 | **One World** | 3:36 |
 | B4 | **Brothers In Arms** | 6:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tony Levin** | Bass [Uncredited] |
+| **John Illsley** | Bass, Vocals |
+| **Omar Hakim** | Drums |
+| **Terry Williams (3)** | Drums |
+| **Steve Jackson (3)** | Engineer [Assisted By, Air Montserrat] |
+| **Bruce Lampcov** | Engineer [Assisted By, Power Station] |
+| **Dave Greenberg** | Engineer [Assisted By, Power Station] |
+| **Neil Dorfsman** | Engineer [Engineered By] |
+| **Mark Knopfler** | Guitar [Guitars], Vocals |
+| **Alan Clark** | Keyboards |
+| **Guy Fletcher** | Keyboards, Vocals |
+| **Bob Ludwig** | Lacquer Cut By |
+| **Bob Ludwig** | Mastered By [Masterdisk] |
+| **John Dent** | Mastered By [Sound Clinic] |
+| **Thomas Steyer** | Painting |
+| **Deborah Feingold** | Photography By |
+| **Mark Knopfler** | Producer [Produced By] |
+| **Neil Dorfsman** | Producer [Produced By] |
+| **Sutton Cooper** | Sleeve |
+| **Mark Knopfler** | Songwriter [Songs Written By] |
+
 ## See also
 
 - [ExtendeDancEPlay](ExtendeDancEPlay.md)

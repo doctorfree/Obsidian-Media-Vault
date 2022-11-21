@@ -48,6 +48,22 @@ By Wall Of Voodoo
 | B3 | **Ring Of Fire** | 4:59 |
 | B4 | **Granma's House** | 0:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bruce Moreland** | Bass, Piano |
+| **Index Images** | Design |
+| **Jim Hill** | Engineer |
+| **Marc Moreland** | Guitar |
+| **Jeff Sanders** | Mastered By |
+| **Joe Nanini** | Percussion |
+| **Scott Lindgren** | Photography By |
+| **Wall Of Voodoo** | Producer, Cover [Cover Concept] |
+| **Chas T. Gray** | Synthesizer |
+| **Stan Ridgway** | Vocals, Organ |
+| **Wall Of Voodoo** | Written-By |
+
 ## See also
 
 - [Dark Continent](Dark_Continent.md)

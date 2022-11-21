@@ -44,6 +44,12 @@ By Madness
 | A | **Grey Day** | 3:40 |
 | B | **Memories** | 2:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Arun Chakraverty** | Lacquer Cut By |
+
 ## See also
 
 - [](Madness.md)

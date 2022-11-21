@@ -54,6 +54,23 @@ By The Association
 | B5 | **Remember** | 2:35 |
 | B6 | **Changes** | 2:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Peter Whorf Graphics** | Design [Album Designed By] |
+| **Gary Paxton** | Engineer |
+| **Peter Romano** | Engineer |
+| **Phyllis Burgess** | Liner Notes |
+| **Brian Cole (2)** | Performer |
+| **Gary Alexander** | Performer |
+| **Jim Yester** | Performer |
+| **Russ Giguere** | Performer |
+| **Ted Bluechel, Jr.** | Performer |
+| **Terry Kirkman** | Performer |
+| **Fred Poore** | Photography By [Cover] |
+| **Curt Boettcher** | Producer |
+
 ## See also
 
 - [](The_Association.md)

@@ -45,6 +45,24 @@ By Yes
 |  | **And You And I** | 10:09 |
 | B2 | **Siberian Khatru** | 8:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Yes** | Arranged By |
+| **Chris Squire** | Bass, Vocals |
+| **Brian Lane (3)** | Coordinator |
+| **Roger Dean (4)** | Cover, Photography By |
+| **Steve Howe** | Guitar, Vocals |
+| **Rick Wakeman** | Keyboards |
+| **Chris Bellman** | Lacquer Cut By |
+| **Bill Bruford** | Percussion |
+| **Martin Adelman** | Photography By |
+| **Eddy Offord** | Producer |
+| **Yes** | Producer |
+| **Mike Dunne** | Tape Op [Tapes] |
+| **Jon Anderson** | Vocals |
+
 ## See also
 
 - [Fragile](Fragile.md)

@@ -44,6 +44,12 @@ By Three Dog Night
 | A | **Mama Told Me (Not To Come)** | 2:58 |
 | B | **Rock & Roll Widow** | 2:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Richard Podolor** | Producer |
+
 ## See also
 
 - [](Three_Dog_Night.md)

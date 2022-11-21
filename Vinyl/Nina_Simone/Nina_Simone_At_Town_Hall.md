@@ -53,6 +53,16 @@ By Nina Simone
 | B5 | **Wild Is The Wind** | 3:22 |
 | B6 | **Fine And Mellow** | 3:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nina Simone** | Arranged By |
+| **Don Ross (8)** | Liner Notes |
+| **Howard Berk** | Liner Notes |
+| **Bob Blake** | Producer |
+| **Jack Gold** | Producer |
+
 ## See also
 
 - [My Baby Just Cares For Me](My_Baby_Just_Cares_For_Me.md)

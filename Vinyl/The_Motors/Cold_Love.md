@@ -44,6 +44,12 @@ By The Motors
 | A | **Cold Love (Stereo)** | 3:45 |
 | B | **Cold Love (Mono)** | 3:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Robert John Lange** | Producer |
+
 ## See also
 
 - [](The_Motors.md)

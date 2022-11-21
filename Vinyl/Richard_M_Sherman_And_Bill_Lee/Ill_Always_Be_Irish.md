@@ -44,6 +44,13 @@ By Richard M. Sherman And Bill Lee
 | A | **I'll Always Be Irish** |  |
 | B | **What's Wrong With That** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Richard M. Sherman** | Written-By, Music By |
+| **Robert B. Sherman** | Written-By, Music By |
+
 ## See also
 
 - [](Richard_M_Sherman_And_Bill_Lee.md)

@@ -55,6 +55,22 @@ By Wall Of Voodoo
 | B5 | **Good Times** | 2:28 |
 | B6 | **Crack The Bell** | 3:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Philip Culp** | Art Direction, Design |
+| **Bruce Moreland** | Bass, Keyboards |
+| **Joe Nanini** | Drums, Percussion |
+| **Kirk Ferraioli** | Engineer [Assistant] |
+| **Jim Hill** | Engineer, Producer |
+| **Paul McKenna** | Engineer, Producer |
+| **Marc Moreland** | Guitar |
+| **Stan Ridgway** | Harmonica, Keyboards, Vocals |
+| **Chas T. Gray** | Keyboards |
+| **Scott Lindgren** | Photography By |
+| **Wall Of Voodoo** | Producer, Written-By |
+
 ## See also
 
 - [Mexican Radio](Mexican_Radio.md)

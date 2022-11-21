@@ -53,6 +53,22 @@ By Cass Elliot
 | B4 | **When I Just Wear My Smile** | 2:20 |
 | B5 | **Who's To Blame** | 2:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmie Haskell** | Accordion, Arranged By, Conductor |
+| **Gary Burden** | Art Direction, Design |
+| **Joe Osborn** | Bass |
+| **Hal Blaine** | Drums, Percussion |
+| **Phil Kaye** | Engineer, Percussion |
+| **Mike Deasy** | Guitar |
+| **Ben Benay** | Guitar, Harmonica |
+| **Larry Knechtel** | Keyboards |
+| **Henry Diltz** | Photography By |
+| **Steve Barri** | Producer, Percussion |
+| **Red Rhodes** | Steel Guitar |
+
 ## See also
 
 - [](Cass_Elliot.md)

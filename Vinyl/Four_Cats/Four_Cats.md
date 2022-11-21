@@ -45,6 +45,12 @@ By Four Cats
 | B1 | **After A Fashion** | 2:13 |
 | B2 | **Coffee Shop** | 3:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Justin Mayer** | Engineer |
+
 ## See also
 
 - [](Four_Cats_index.md)

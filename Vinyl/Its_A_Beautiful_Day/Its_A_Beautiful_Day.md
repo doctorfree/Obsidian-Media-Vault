@@ -49,6 +49,23 @@ By It's A Beautiful Day
 | B2 | **Bulgaria** | 6:10 |
 | B3 | **Time Is** | 9:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mitchell Holman** | Bass |
+| **Globe Propaganda** | Cover [Front Cover] |
+| **Val Fuentes** | Drums |
+| **Brian Ross-Myring** | Engineer |
+| **Hal Wagenet** | Guitar |
+| **Bruce Steinberg** | Harmonica |
+| **Col. John Walker** | Management |
+| **Linda Laflamme** | Organ, Piano, Electric Piano, Celesta [Celeste], Harpsichord |
+| **Bruce Steinberg** | Photography By [Center And Back Cover] |
+| **David Laflamme** | Producer |
+| **David Laflamme** | Violin, Vocals |
+| **Pattie Santos** | Vocals, Tambourine, Bells, Wood Block [Block], Percussion [Gourd] |
+
 ## See also
 
 - [](Its_A_Beautiful_Day_index.md)

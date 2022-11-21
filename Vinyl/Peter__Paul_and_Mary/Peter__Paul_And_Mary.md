@@ -54,6 +54,16 @@ By "Peter, Paul & Mary"
 | B5 | **Autumn To May** |  |
 | B6 | **Where Have All The Flowers Gone** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Milton Glaser** | Cover, Design |
+| **Bill Schwartau** | Engineer [Recording] |
+| **Milton Okun** | Music Director [Musical Direction] |
+| **Bernard Cole** | Photography By [Cover Photo] |
+| **Albert B. Grossman** | Producer |
+
 ## See also
 
 - [(Moving)](Moving.md)

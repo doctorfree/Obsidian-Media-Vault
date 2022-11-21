@@ -47,6 +47,17 @@ By Blind Acceptance
 | B2 | **Mental Isolation** |  |
 | B3 | **Shoelaces** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **James White (23)** | Bass, Vocals |
+| **Joe Donaldson** | Drums, Percussion |
+| **Jim Weyeneth** | Engineer |
+| **Blind Bill** | Guitar, Vocals |
+| **Blind Acceptance** | Music By [All Music By] |
+| **Aron Heshkowitz** | Vocals, Lyrics By, Songwriter [All Songs By], Artwork [Cover And Insert] |
+
 ## See also
 
 - [](Blind_Acceptance.md)

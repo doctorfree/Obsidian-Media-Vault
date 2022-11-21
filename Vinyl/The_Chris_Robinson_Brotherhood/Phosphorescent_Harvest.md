@@ -54,6 +54,18 @@ By The Chris Robinson Brotherhood
 | E | **Humboldt Windchimes** | 4:37 |
 | F | **Star Crossed Lonely Sailor** | 5:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mark Dutton** | Bass, Vocals |
+| **George Sluppick** | Drums |
+| **Chris Robinson (2)** | Guitar, Vocals, Written-By |
+| **Neal Casal** | Guitar, Vocals, Written-By |
+| **Adam MacDougall** | Keyboards, Vocals |
+| **JJ Golden** | Mastered By |
+| **Thom Monahan** | Producer, Engineer, Mixed By |
+
 ## See also
 
 - [The Magic Door](The_Magic_Door.md)

@@ -55,6 +55,27 @@ Limited edition numbered copy 150 of 500
 | B3 | **I'm A Cadillac / El Camino Dolo Roso** | 7:47 |
 | B4 | **I Wish I Was Your Mother** | 4:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ian Hunter** | Arranged By |
+| **Thunderthighs** | Backing Vocals |
+| **Paul Buckmaster** | Cello [Electric Cello] |
+| **Alan Harris** | Engineer |
+| **Bill Price** | Engineer |
+| **John Leckie** | Engineer |
+| **Alan Harris** | Engineer [Mix] |
+| **Peter Swettenham** | Engineer [Mix] |
+| **Kevin Gray** | Mastered By |
+| **Phil John** | Other [Equipment] |
+| **Richard Anderson** | Other [Equipment] |
+| **Stan Tippins** | Other [Group Schedule Executive] |
+| **Mott The Hoople** | Producer |
+| **Dan Loggins** | Producer [Production Supervisor] |
+| **Andy Mackay** | Saxophone |
+| **Graham Preskett** | Violin |
+
 ## See also
 
 - [All The Young Dudes](All_The_Young_Dudes.md)

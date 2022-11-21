@@ -58,6 +58,13 @@ By Pete Seeger
 | B7 | **Ha Ha This Away** |  |
 | B8 | **Bobby's Three Years Old Today** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Irwin Rosenhouse** | Illustration |
+| **David Hancock** | Lacquer Cut By |
+
 ## See also
 
 - [](Pete_Seeger.md)

@@ -44,6 +44,18 @@ By Eurythmics And Aretha Franklin
 | A | **Sisters Are Doin' It For Themselves (Edited Version)** | 4:29 |
 | B | **I Love You Like A Ball And Chain** | 4:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Adam Williams** | Engineer |
+| **Jay Willis** | Engineer [Assistant] |
+| **David A. Stewart** | Mixed By |
+| **Don Smith** | Mixed By |
+| **David A. Stewart** | Producer |
+| **Annie Lennox** | Written-By |
+| **David A. Stewart** | Written-By |
+
 ## See also
 
 - [](Eurythmics_And_Aretha_Franklin.md)

@@ -46,6 +46,30 @@ By Renaissance
 | A3 | **Ocean Gypsy** | 7:04 |
 |  | **Song Of Scheherazade** | 24:39 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Dunford** | Acoustic Guitar, Vocals |
+| **Renaissance (4)** | Arranged By [Musical Arrangements] |
+| **Tony Cox** | Arranged By [Orchestral Arrangements] |
+| **Jon Camp** | Bass, Pedalboard [Bass Pedals], Vocals |
+| **Betty Thatcher** | Composed By |
+| **Michael Dunford** | Composed By |
+| **David Hitchcock** | Coordinator [Co-ordination] |
+| **Hipgnosis (2)** | Cover, Design, Photography By |
+| **Terry Sullivan** | Drums, Percussion, Vocals |
+| **Pat Stapley** | Engineer [Assistant, Recording] |
+| **Annie Plant** | Engineer [Assistant, Remixing] |
+| **Mike Pela** | Engineer [Assistant, Remixing] |
+| **John Kurlander** | Engineer [Recording] |
+| **Dick Plant** | Engineer [Remixing] |
+| **Colin Elgie** | Illustration |
+| **John Tout** | Keyboards, Vocals |
+| **Daniel Krieger** | Lacquer Cut By |
+| **Annie Haslam** | Lead Vocals |
+| **Renaissance (4)** | Producer |
+
 ## See also
 
 - [](Renaissance.md)

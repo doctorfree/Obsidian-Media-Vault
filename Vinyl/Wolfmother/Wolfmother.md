@@ -60,6 +60,35 @@ By Wolfmother
 | D3 | **Joker & The Thief (Loving Hands Remix)** |  |
 | D4 | **Woman (MSTRKRFT Remix)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeff Sosnow** | A&R |
+| **Luke Wood** | A&R |
+| **Steve Pav** | A&R |
+| **Chris Ross (4)** | Bass, Keyboards |
+| **Nicole Harding** | Coordinator [Production] |
+| **Myles Heskett** | Drums |
+| **Stewart Whitmore** | Edited By [Digitally] |
+| **Andy Brohard** | Edited By [Pro Tools] |
+| **Ryan Castle** | Engineer |
+| **Andy Brohard** | Engineer [Assistant] |
+| **Cameron Barton** | Engineer [Assistant] |
+| **Pete Martinez** | Engineer [Assistant] |
+| **Andrew Stockdale** | Guitar, Vocals |
+| **Frank Frazetta** | Illustration |
+| **Jonathan Zawada** | Layout |
+| **John Watson (12)** | Management |
+| **Melissa Chenery** | Management |
+| **Stephen Marcussen** | Mastered By |
+| **Dave Sardy** | Percussion |
+| **Lenny Castro** | Percussion |
+| **Dave Sardy** | Producer, Mixed By |
+| **Andrew Stockdale** | Written-By |
+| **Chris Ross (4)** | Written-By |
+| **Myles Heskett** | Written-By |
+
 ## See also
 
 - [](Wolfmother_index.md)

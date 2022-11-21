@@ -53,6 +53,16 @@ By The Beatles
 | B4 | **I Feel Fine** | 2:20 |
 | B5 | **Everybody's Trying To Be My Baby** | 2:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Harrison** | Performer |
+| **John Lennon** | Performer |
+| **Paul McCartney** | Performer |
+| **Ringo Starr** | Performer |
+| **George Martin** | Producer |
+
 ## See also
 
 - [Help! In Concert](Help!_In_Concert.md)

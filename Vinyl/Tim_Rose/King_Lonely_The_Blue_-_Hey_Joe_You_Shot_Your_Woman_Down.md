@@ -44,6 +44,12 @@ By Tim Rose
 | A | **King Lonely The Blue** | 2:10 |
 | B | **Hey Joe (You Shot Your Woman Down)** | 2:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Rubinson** | Producer |
+
 ## See also
 
 - [](Tim_Rose.md)

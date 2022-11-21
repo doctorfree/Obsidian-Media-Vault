@@ -52,6 +52,18 @@ By Paul McCartney
 | B4 | **Angry** | 3:35 |
 | B5 | **However Absurd** | 5:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eric Stewart** | Harmony Vocals |
+| **Kate Robbins** | Harmony Vocals |
+| **Linda McCartney** | Harmony Vocals |
+| **Ruby James** | Harmony Vocals |
+| **George Hurrell** | Photography By |
+| **Paul McCartney** | Producer |
+| **Hugh Padgham** | Producer, Engineer, Mixed By |
+
 ## See also
 
 - [McCartney](McCartney.md)

@@ -55,6 +55,26 @@ By Adam And The Ants
 | B5 | **Physical (You're So)** | 4:26 |
 | B6 | **The Human Beings** | 4:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Clive Richardson (2)** | Artwork [Video Film] |
+| **Stephanie Gluck** | Artwork [Video Film] |
+| **Danny Kleinman** | Artwork [Warrior Ant Logo] |
+| **Julian Balme** | Design [Graphic] |
+| **Hugh Jones** | Engineer |
+| **Kevin Mooney** | Performer [Made By] |
+| **Marco Pirroni** | Performer [Made By] |
+| **Merrick** | Performer [Made By] |
+| **Terry Lee Miall** | Performer [Made By] |
+| **Adam Ant** | Performer [Made By], Artwork [Sleeve Concept] |
+| **Peter Ashworth** | Photography By |
+| **Chris Hughes** | Producer |
+| **Julian Balme** | Sleeve [Concept] |
+| **Adam Ant** | Written-By |
+| **Adam Ant & Marco Pirroni** | Written-By |
+
 ## See also
 
 - [](Adam_And_The_Ants.md)

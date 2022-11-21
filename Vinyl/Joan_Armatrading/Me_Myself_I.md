@@ -52,6 +52,33 @@ By Joan Armatrading
 | B4 | **Simon** | 3:40 |
 | B5 | **I Need You** | 2:44 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joan Armatrading** | Acoustic Guitar [12 String] |
+| **Chris Spedding** | Acoustic Guitar [6 String] |
+| **Steve Margoshes** | Arranged By [Strings], Conductor [Strings] |
+| **Chuck Beeson** | Art Direction, Design |
+| **Marcus Miller** | Bass |
+| **Will Lee** | Bass |
+| **Anton Fig** | Drums |
+| **Thom Panunzio** | Engineer |
+| **Gregg Caruso** | Engineer [Assistant Engineer] |
+| **Chris Spedding** | Guitar |
+| **Hiram Bullock** | Guitar |
+| **Richard Hirsch** | Guitar |
+| **Mike Stone (28)** | Management |
+| **Greg Calbi** | Mastered By |
+| **Danny Federici** | Organ |
+| **Brian Hagiwara** | Photography By |
+| **Clifford Carter** | Piano |
+| **Paul Shaffer** | Piano |
+| **Phillip St. John** | Piano |
+| **Richard Gottehrer** | Producer |
+| **Clarence Clemons** | Saxophone |
+| **Joan Armatrading** | Written-By |
+
 ## See also
 
 - [Joan Armatrading](Joan_Armatrading.md)

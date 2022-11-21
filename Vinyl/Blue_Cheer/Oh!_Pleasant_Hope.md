@@ -51,6 +51,30 @@ By Blue Cheer
 | B4 | **Lester The Arrester** | 3:09 |
 | B5 | **Heart Full Of Soul** | 4:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Yoder** | Acoustic Guitar, Electric Guitar, Vocals |
+| **Desmond Strobel** | Art Direction |
+| **Doug Killmer** | Bass |
+| **Jim Keylor** | Bass |
+| **John Craig (3)** | Design [Album] |
+| **Kent Housman** | Dobro, Guitar, Backing Vocals |
+| **Norman Mayell** | Drums, Guitar, Sitar, Vocals, Cover [Cover Concept] |
+| **Mark Harman** | Engineer |
+| **George Horn** | Engineer, Engineer [Remix Engineer] |
+| **Dehner Patten** | Guitar |
+| **Jack May** | Guitar |
+| **Dr. Richard Peddicord** | Guitar, Vocals |
+| **Cynthia Jobse** | Harp |
+| **Ralph Burns Kellogg** | Piano, Organ, Bass |
+| **Blue Cheer** | Producer |
+| **Eric Albronda** | Producer |
+| **Ron Stallings** | Saxophone |
+| **Bob Gurland** | Trumpet [Mouth] |
+| **Dickie Peterson** | Vocals, Bass |
+
 ## See also
 
 - [](Blue_Cheer.md)

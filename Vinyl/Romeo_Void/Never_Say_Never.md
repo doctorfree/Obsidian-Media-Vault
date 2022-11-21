@@ -46,6 +46,21 @@ By Romeo Void
 | B1 | **Present Tense** | 5:47 |
 | B2 | **Not Safe** | 3:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Frank Zincavage** | Bass, Design |
+| **Peter Soe, Jr.** | Design |
+| **Larry Carter** | Drums |
+| **Walter Turbitt** | Engineer [Assistant Engineer] |
+| **Peter Woods (2)** | Guitar |
+| **Romeo Void** | Lyrics By [Words By], Music By |
+| **Ric Ocasek** | Producer [Produced By] |
+| **Ian Taylor** | Producer [Produced By], Engineer [Engineered By] |
+| **Benjamin Bossi** | Saxophone |
+| **Debora Iyall** | Vocals |
+
 ## See also
 
 - [](Romeo_Void.md)

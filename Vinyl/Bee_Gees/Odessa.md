@@ -59,6 +59,17 @@ By Bee Gees
 | D3 | **First Of May** | 2:48 |
 | D4 | **The British Opera** | 3:17 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Adrian Barber** | Engineer |
+| **Philip Wade** | Engineer |
+| **Ted Sharp** | Engineer |
+| **Bee Gees** | Producer |
+| **Robert Stigwood** | Producer |
+| **Robin Gibb, Barry Gibb & Maurice Gibb** | Written-By |
+
 ## See also
 
 - [To Love Somebody / How Can You Mend A Broken Heart](To_Love_Somebody_-_How_Can_You_Mend_A_Broken_Heart.md)

@@ -56,6 +56,12 @@ By The Beach Boys
 | B6 | **Airplane** |  |
 | B7 | **Love Is A Woman** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron McMaster** | Lacquer Cut By |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

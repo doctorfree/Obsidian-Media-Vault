@@ -52,6 +52,19 @@ By Spoon
 | B4 | **Shotgun** |  |
 | B5 | **Us** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Robert Pope** | Bass, Percussion |
+| **Jim Eno** | Drums, Percussion, Keyboards |
+| **Alex Fischel** | Keyboards, Piano, Guitar, Percussion |
+| **Chris Bellman** | Lacquer Cut By |
+| **Howie Weinberg** | Mastered By |
+| **Gentry Studer** | Mastered By [Assisted] |
+| **Dave Fridmann** | Producer, Mixed By, Recorded By |
+| **Britt Daniel** | Vocals, Guitar, Keyboards, Piano, Percussion, Bass, Songwriter |
+
 ## See also
 
 - [](Spoon.md)

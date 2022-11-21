@@ -52,6 +52,31 @@ By Ambrosia
 | B3 | **Can't Let A Woman** | 4:18 |
 | B4 | **We Need You Too** | 5:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ambrosia (2)** | Arranged By |
+| **David Larkham** | Art Direction |
+| **Hogin McMurtrie** | Artwork [Pyramid Art And Production, Calligraphy], Design |
+| **Joe Puerta** | Bass, Synthesizer [Moog Pedals], Vocals |
+| **Alfred Kwashie Ladzekpo** | Conductor [Cal Arts African Ensemble Directed By] |
+| **Kobla Ladzekpo** | Conductor [Cal Arts African Ensemble Directed By] |
+| **Burleigh Drummond** | Drums, Percussion, Bassoon |
+| **Tom Trefethen** | Engineer [Additional] |
+| **Freddie Piro** | Executive-Producer |
+| **David Pack** | Guitar, Strings [String Ensemble], Vocals |
+| **Christopher North** | Keyboards, Vocals |
+| **Ruth Underwood** | Marimba |
+| **Allen Zentz** | Mastered By |
+| **Andrew Powell** | Orchestrated By |
+| **CalArts African Ensemble** | Performer |
+| **Ed Caraeff** | Photography By |
+| **Alan Parsons** | Producer, Engineer |
+| **Keith O. Johnson** | Recorded By [Special Effects] |
+| **Ian Underwood** | Saxophone |
+| **Daniel Kobialka** | Violin |
+
 ## See also
 
 - [](Ambrosia.md)

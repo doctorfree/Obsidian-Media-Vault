@@ -52,6 +52,32 @@ By Queens Of The Stone Age
 | D1 | **I Appear Missing** |  |
 | D2 | **...Like Clockwork** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Boneface** | Artwork |
+| **Mark Rankin** | Engineer |
+| **Alain Johannes** | Engineer [Additional] |
+| **Justin Smith (51)** | Engineer [Additional] |
+| **Chris Bellman** | Lacquer Cut By |
+| **Josh Homme** | Lyrics By |
+| **Gavin Lurssen** | Mastered By |
+| **Joe Barresi** | Mixed By |
+| **Mark Rankin** | Mixed By |
+| **Dean Fertita** | Performer |
+| **Josh Homme** | Performer |
+| **Mikey Shuman** | Performer |
+| **Troy Van Leeuwen** | Performer |
+| **James Lavelle** | Producer |
+| **Josh Homme** | Producer |
+| **Queens Of The Stone Age** | Producer |
+| **Charlie May** | Written-By |
+| **James Lavelle** | Written-By |
+| **Josh Homme** | Written-By |
+| **Mark Lanegan** | Written-By |
+| **Queens Of The Stone Age** | Written-By |
+
 ## See also
 
 - [](Queens_Of_The_Stone_Age.md)

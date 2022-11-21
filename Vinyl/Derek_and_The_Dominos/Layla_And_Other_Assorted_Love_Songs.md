@@ -56,6 +56,22 @@ By Derek & The Dominos
 | D3 | **Layla** | 7:10 |
 | D4 | **Thorn Tree In The Garden** | 2:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Carl Radle** | Bass, Percussion |
+| **Jim Gordon** | Drums, Percussion, Piano |
+| **Chuck Kirkpatrick** | Engineer |
+| **Howard Albert** | Engineer |
+| **Karl Richardson** | Engineer |
+| **Mack Emerman** | Engineer |
+| **Ron Albert** | Engineer |
+| **Duane Allman** | Guitar |
+| **Eric Clapton** | Guitar, Lead Vocals |
+| **Bobby Whitlock** | Organ, Piano, Vocals, Acoustic Guitar |
+| **The Dominos** | Producer, Arranged By |
+
 ## See also
 
 - [](Derek_and_The_Dominos.md)

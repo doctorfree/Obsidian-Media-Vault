@@ -44,6 +44,15 @@ By The Rolling Stones
 | A | **Jumpin' Jack Flash** | 3:40 |
 | B | **Child Of The Moon** | 3:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Rolling Stones** | Arranged By [Uncredited] |
+| **Dominick Romeo** | Mastered By [Uncredited] |
+| **Jimmy Miller** | Producer |
+| **Jagger-Richards** | Written-By |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

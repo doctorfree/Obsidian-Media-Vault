@@ -44,6 +44,12 @@ By Jimmy Briscoe And The Beavers
 | A | **Invitation To The World** | 3:45 |
 | B | **Ain't Nothing New Under The Sun** | 4:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Kyser** | Producer, Arranged By |
+
 ## See also
 
 - [](Jimmy_Briscoe_And_The_Beavers.md)

@@ -53,6 +53,16 @@ By Bobby Goldsboro
 | B5 | **Beautiful People** | 2:20 |
 | B6 | **A Woman** | 2:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Justis** | Arranged By |
+| **Don Tweedy** | Arranged By |
+| **Ray Stevens** | Arranged By |
+| **Bob Montgomery** | Producer |
+| **Jack Gold** | Producer |
+
 ## See also
 
 - [Watching Scotty Grow / Water Color Days](Watching_Scotty_Grow_-_Water_Color_Days.md)

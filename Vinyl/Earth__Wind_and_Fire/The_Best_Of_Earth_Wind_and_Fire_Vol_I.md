@@ -52,6 +52,22 @@ By "Earth, Wind & Fire"
 | B4 | **Reasons** | 5:01 |
 | B5 | **Singasong** | 3:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Shusei Nagaoka** | Artwork [Cover] |
+| **Charles Stepney** | Co-producer |
+| **Bruce Talamon** | Photography By |
+| **Don Hunstein** | Photography By |
+| **Don Myrick** | Photography By |
+| **Guy Crowder** | Photography By |
+| **James Fee** | Photography By |
+| **Johnny Graham** | Photography By |
+| **Lee Lawrence (2)** | Photography By |
+| **Nadine Talamon** | Photography By |
+| **Maurice White** | Producer |
+
 ## See also
 
 - [](Earth__Wind_and_Fire.md)

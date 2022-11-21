@@ -44,6 +44,15 @@ By New Riders Of The Purple Sage
 | A | **Louisiana Lady** | 3:02 |
 | B | **Last Lonely Eagle** | 5:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phil Lesh** | Executive Producer |
+| **Steve Barncard** | Executive Producer |
+| **New Riders Of The Purple Sage** | Producer, Arranged By |
+| **John Dawson** | Written-By |
+
 ## See also
 
 - [](New_Riders_Of_The_Purple_Sage.md)

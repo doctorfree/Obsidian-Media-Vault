@@ -44,6 +44,12 @@ By Frankie Laine
 | A | **I'll Take Care Of Your Cares** | 2:46 |
 | B | **Making Memories** | 2:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Thiele** | Producer |
+
 ## See also
 
 - [](Frankie_Laine.md)

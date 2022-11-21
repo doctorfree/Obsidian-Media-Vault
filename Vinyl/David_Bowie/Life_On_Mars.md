@@ -44,6 +44,15 @@ By David Bowie
 | A | **Life On Mars? (2003 Ken Scott Mix)** | 3:50 |
 | AA | **Life On Mars? (Live)** | 3:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Darren Evans (2)** | Design |
+| **Ray Staff** | Mastered By |
+| **Mick Rock** | Photography By |
+| **David Bowie** | Written-By |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

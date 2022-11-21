@@ -65,6 +65,76 @@ By Andrew Lloyd Webber & Tim Rice
 | D4 | **Crucifixion** | 4:04 |
 | D5 | **John Nineteen: Forty One** | 2:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Henry McCullough** | Acoustic Guitar |
+| **Bill Levy** | Art Direction |
+| **Alan Spenner** | Bass |
+| **Alan Weighall** | Bass Guitar |
+| **Jeff Clyne** | Bass Guitar |
+| **Peter Morgan (2)** | Bass Guitar |
+| **Anthony Brooke** | Bassoon |
+| **Joseph Castaldini** | Bassoon |
+| **Ian Herbert** | Clarinet |
+| **Andrew Lloyd Webber** | Composed By, Arranged By [Orchestration], Music Director [Musical Direction] |
+| **Ernie Cefalu** | Design |
+| **Mike Vickers** | Directed By [Moog Synthesizer] |
+| **John Marshall** | Drums |
+| **Bruce Rowland** | Drums, Percussion |
+| **Henry McCullough** | Electric Guitar |
+| **Neil Hubbard** | Electric Guitar |
+| **Martin Rushent** | Engineer [Advision] |
+| **Alan O'Duffy** | Engineer [Chief Recording] |
+| **Tony Bridge** | Engineer [Cutting] |
+| **Anton Matthews** | Engineer [Recording] |
+| **Jeremy Gee** | Engineer [Recording] |
+| **Steve Vaughan** | Engineer [Recording] |
+| **Brian Warren** | Flute |
+| **Chris Taylor (5)** | Flute |
+| **Chris Spedding** | Guitar |
+| **Clive Hicks** | Guitar |
+| **Louis Stewart** | Guitar |
+| **Steve Vaughan** | Guitar |
+| **Andrew McGavin** | Horns |
+| **Douglas Moore (3)** | Horns |
+| **James W. Brown (2)** | Horns |
+| **Jim Buck Jr** | Horns |
+| **Jim Buck Sr** | Horns |
+| **John Burden** | Horns |
+| **Tim Rice** | Lyrics By |
+| **Don Norman** | Management [Production] |
+| **Bill Le Sage** | Percussion |
+| **Karl Jenkins** | Piano |
+| **Norman Cave** | Piano |
+| **Peter Robinson** | Piano, Electric Piano, Organ, Organ [Positive] |
+| **Mick Weaver** | Piano, Organ |
+| **Andrew Lloyd Webber** | Piano, Organ, Synthesizer [Moog] |
+| **Andrew Lloyd Webber** | Producer |
+| **Tim Rice** | Producer |
+| **City Of London Ensemble** | Strings |
+| **Alan Doggett** | Synthesizer [Moog], Conductor [Principal Orchestra] |
+| **Chris Mercer** | Tenor Saxophone |
+| **Anthony Moore (7)** | Trombone |
+| **Frank Jones (12)** | Trombone |
+| **Keith Christie** | Trombone |
+| **Harry Beckett** | Trumpet |
+| **Ian Hamer** | Trumpet |
+| **Kenny Wheeler** | Trumpet |
+| **Les Condon** | Trumpet |
+| **Brian Keith (2)** | Vocals [Annas] |
+| **Victor Brox** | Vocals [Caiaphas, High Priest] |
+| **Ian Gillan** | Vocals [Jesus Christ] |
+| **Murray Head** | Vocals [Judas Iscariot] |
+| **Mike D'Abo** | Vocals [King Herod] |
+| **Annette Brox** | Vocals [Maid By The Fire] |
+| **Yvonne Elliman** | Vocals [Mary Magdalene] |
+| **Paul Davis (11)** | Vocals [Peter] |
+| **Barry Dennen** | Vocals [Pontius Pilate] |
+| **Paul Raven (2)** | Vocals [Priest] |
+| **John Gustafson** | Vocals [Simon Zealotes] |
+
 ## See also
 
 - [](Andrew_Lloyd_Webber_and_Tim_Rice.md)

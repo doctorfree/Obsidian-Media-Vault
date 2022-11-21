@@ -53,6 +53,22 @@ By Mandrill
 | B5 | **Here Today Gone Tomorrow** | 4:30 |
 | B6 | **The Sun Must Go Down** | 3:17 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron Nackman** | Art Direction |
+| **Joseph Westerfield** | Artwork |
+| **Joseph Westerfield** | Design Concept, Design |
+| **Mandrill** | Design Concept, Design |
+| **Shelly Yakus** | Engineer |
+| **Steve Bruno (2)** | Engineer [Assistant Engineer (Uncredited)] |
+| **Andy Edlen** | Engineer [Assistant Engineer] |
+| **Dave Palmer (2)** | Engineer, Recorded By, Mixed By |
+| **Alfred Brown** | Producer |
+| **Mandrill** | Producer |
+| **Mandrill** | Written-By, Arranged By |
+
 ## See also
 
 - [](Mandrill.md)

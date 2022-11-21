@@ -177,6 +177,54 @@ By The Kinks
 | T6 | **Animal Farm** | 3:01 |
 | T7 | **Days** | 2:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Davies** | Arranged By |
+| **Ray Davies** | Arranged By |
+| **The Kinks** | Arranged By |
+| **The Kinks** | Art Direction [Arthur (Or The Decline And Fall Of The British Empire)] |
+| **John Sellards** | Artwork [LP Artwork] |
+| **Pete Quaife** | Bass |
+| **Andrew Sandoval** | Compiled By |
+| **Lew Warburton** | Conductor [Brass & Strings Conducted By] |
+| **Bob Lawrie (2)** | Design [Arthur (Or The Decline And Fall Of The British Empire)], Artwork [Arthur (Or The Decline And Fall Of The British Empire)] |
+| **Phil Smee** | Design [Package Design], Artwork [Package Artwork] |
+| **Pye Records Studios** | Design [Sleeve Design, Something Else By The Kinks], Art Direction [Something Else By The Kinks] |
+| **Pye Records Studios** | Design [Sleeve Design, The Kinks Are The Village Green Preservation Society], Art Direction [The Kinks Are The Village Green Preservation Society] |
+| **Didier Dehauteur** | Directed By [Project Director] |
+| **Mick Avory** | Drums |
+| **Alan McKenzie** | Engineer |
+| **Andy Hendriksen** | Engineer |
+| **Brian Humphries** | Engineer |
+| **Irish (2)** | Engineer |
+| **Alan O'Duffy** | Engineer [Ass. Engineers] |
+| **Vic Maile** | Engineer [Ass. Engineers] |
+| **Ray Davies** | Guitar, Keyboards, Vocals |
+| **Dave Davies** | Guitar, Vocals |
+| **Nicky Hopkins** | Harpsichord |
+| **Kevin Gray** | Lacquer Cut By |
+| **Andy Neill** | Liner Notes, Interviewer |
+| **Doug Hinman** | Management [Project Assistance] |
+| **John Digilio** | Management [Project Assistance] |
+| **Kelly Gateson** | Management [Project Assistance] |
+| **Saskia Pels** | Management [Project Assistance] |
+| **Elliot Stubbs** | Management [Project Manager] |
+| **Kevin Gray** | Mastered By |
+| **Ray Davies** | Music Director |
+| **Mark Hayward (4)** | Photography By [Photographs Provided By] |
+| **Mike Leale** | Photography By [Something Else By The Kinks] |
+| **John Prosser (3)** | Photography By [The Kinks Are The Village Green Preservation Society] |
+| **Ray Davies** | Producer |
+| **Shel Talmy** | Producer |
+| **Shel Talmy** | Recorded By |
+| **Frank Smyth** | Sleeve Notes [Face To Face] |
+| **Brian Sommerville** | Sleeve Notes [Kinks] |
+| **Michael Aldred** | Sleeve Notes [The Kink Kontroversy] |
+| **Julian Mitchell** | Written-By [Original Story Of Arthur, Arthur (Or The Decline And Fall Of The British Empire)] |
+| **Ray Davies** | Written-By [Original Story Of Arthur, Arthur (Or The Decline And Fall Of The British Empire)] |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

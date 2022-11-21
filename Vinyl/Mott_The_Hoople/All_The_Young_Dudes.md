@@ -55,6 +55,21 @@ Limited edition numbered copy 0676 of 1000
 | B3 | **Ready For Love/After Lights** |  |
 | B4 | **Sea Diver** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Overend Watts** | Bass |
+| **Dale Griffin** | Drums |
+| **David Hentschel** | Engineer |
+| **Keith Harwood** | Engineer |
+| **Ted Sharp** | Engineer |
+| **David Bowie** | Producer, Saxophone |
+| **Kevin Gray** | Remastered By |
+| **Mick Ralphs** | Vocals, Guitar |
+| **Verden Allen** | Vocals, Organ |
+| **Ian Hunter** | Vocals, Piano |
+
 ## See also
 
 - [Mott](Mott.md)

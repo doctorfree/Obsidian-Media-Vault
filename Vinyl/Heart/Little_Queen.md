@@ -52,6 +52,52 @@ By Heart
 | B4 | **Cry To Me** | 2:51 |
 | B5 | **Go On Cry** | 5:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Doud (2)** | Art Direction |
+| **Howard Leese** | Backing Vocals |
+| **Lynn Wilson** | Backing Vocals |
+| **Nancy Wilson (2)** | Backing Vocals |
+| **Seal Dunnington** | Backing Vocals |
+| **Steve Fossen** | Bass Guitar |
+| **Michael Derosier** | Chimes |
+| **John Kehe** | Design |
+| **Michael Derosier** | Drums |
+| **Roger Fisher (2)** | Electric Guitar |
+| **Buzz Richmond** | Engineer |
+| **Mike Flicker** | Engineer |
+| **Ann Wilson** | Flute |
+| **Ann Wilson** | Guitar |
+| **Howard Leese** | Guitar |
+| **Nancy Wilson (2)** | Guitar |
+| **Roger Fisher (2)** | Guitar |
+| **Ann Wilson** | Keyboards |
+| **Howard Leese** | Keyboards |
+| **John Golden** | Lacquer Cut By |
+| **Ann Wilson** | Lead Vocals |
+| **Nancy Wilson (2)** | Lead Vocals |
+| **Sue Ennis** | Lyrics By |
+| **Howard Leese** | Mandolin |
+| **Nancy Wilson (2)** | Mandolin |
+| **Roger Fisher (2)** | Mandolin |
+| **John Golden** | Mastered By |
+| **Howard Leese** | Mellotron |
+| **Howard Leese** | Pedalboard [Moog Bass] |
+| **Michael Derosier** | Percussion |
+| **Steve Fossen** | Percussion |
+| **Bob Seidemann** | Photography By |
+| **Bob Seidemann** | Photography By |
+| **Howard Leese** | Piano |
+| **Nancy Wilson (2)** | Piano |
+| **Mike Flicker** | Producer, Engineer |
+| **Roger Fisher (2)** | Steel Guitar |
+| **Howard Leese** | Synthesizer |
+| **Michael Derosier** | Tabla |
+| **Michael Derosier** | Timpani |
+| **Ann Wilson** | Violin |
+
 ## See also
 
 - [Dog & Butterfly](Dog_and_Butterfly.md)

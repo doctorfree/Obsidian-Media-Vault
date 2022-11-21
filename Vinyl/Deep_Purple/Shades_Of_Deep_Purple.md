@@ -51,6 +51,21 @@ By Deep Purple
 | B3 | **Love Help Me** |  |
 | B4 | **Hey Joe** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Les Weisbrich** | Design [Cover design] |
+| **Ian Paice** | Drums |
+| **Barry Ainsworth** | Engineer |
+| **Sean Magee** | Lacquer Cut By |
+| **Ritchie Blackmore** | Lead Guitar |
+| **CAB.** | Liner Notes |
+| **Derek Lawrence** | Producer |
+| **Rod Evans** | Vocals |
+| **Nick Simper** | Vocals, Bass Guitar |
+| **Jon Lord** | Vocals, Organ |
+
 ## See also
 
 - [Burn](Burn.md)

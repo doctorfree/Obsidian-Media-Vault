@@ -44,6 +44,14 @@ By Any Trouble
 | A | **Touch And Go** | 3:56 |
 | B | **Man Of The Moment** | 3:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Harvey Goldberg** | Engineer |
+| **David Kershenbaum** | Producer |
+| **Clive Gregson** | Written-By |
+
 ## See also
 
 - [](Any_Trouble.md)

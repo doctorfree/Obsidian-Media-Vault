@@ -44,6 +44,14 @@ By Bobby Goldsboro
 | A | **Watching Scotty Grow** | 2:28 |
 | B | **Water Color Days** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Don Tweedy** | Arranged By |
+| **Bob Montgomery** | Producer |
+| **Bobby Goldsboro** | Producer |
+
 ## See also
 
 - [Honey](Honey.md)

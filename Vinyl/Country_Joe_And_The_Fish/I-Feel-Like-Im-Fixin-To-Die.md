@@ -56,6 +56,20 @@ MIssing Fish Game poster
 | B4 | **Eastern Jam** | 4:23 |
 | B5 | **Colors For Susan** | 5:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Claude Rie** | Lacquer Cut By |
+| **Barry Melton** | Music By, Words By |
+| **Bruce Barthol** | Music By, Words By |
+| **Country Joe McDonald** | Music By, Words By |
+| **David Cohen** | Music By, Words By |
+| **Gary Hirsh** | Music By, Words By |
+| **Joel Brodsky** | Photography By |
+| **Samuel B. Charters** | Producer |
+| **Ed Friedner** | Recorded By, Effects [Special] |
+
 ## See also
 
 - [](Country_Joe_And_The_Fish.md)

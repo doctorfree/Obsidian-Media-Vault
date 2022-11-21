@@ -52,6 +52,33 @@ By David Bowie
 | B4 | **The Jean Genie** | 4:06 |
 | B5 | **Lady Grinning Soul** | 3:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Bowie** | Arranged By |
+| **Mick Ronson** | Arranged By |
+| **Geoff Maccormack** | Backing Vocals |
+| **Juanita Franklin** | Backing Vocals |
+| **Linda Lewis** | Backing Vocals |
+| **Trevor Bolder** | Bass |
+| **Brian Duffy (3)** | Design [Album Cover Designed By] |
+| **Celia Philo** | Design [Album Cover Designed By] |
+| **Mick Woodmansey** | Drums |
+| **Ken Scott** | Engineer |
+| **Mike Moran (7)** | Engineer |
+| **Pierre Laroche** | Make-Up |
+| **Ken Scott** | Mixed By |
+| **Mick Ronson** | Mixed By |
+| **David Bowie** | Performer [Played By] |
+| **Mick Ronson** | Performer [Played By] |
+| **Mike Garson** | Piano |
+| **David Bowie** | Producer |
+| **Ken Scott** | Producer |
+| **Ken Fordham** | Saxophone [Bux-Saxophones], Flute |
+| **David Bowie** | Written-By |
+| **Jagger-Richards** | Written-By |
+
 ## See also
 
 - [ChangesOneBowie](ChangesOneBowie.md)

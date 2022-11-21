@@ -54,6 +54,25 @@ By Squeeze
 | B5 | **The Very First Dance** | 3:18 |
 | B6 | **The Elephant Ride** | 3:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Del Newman** | Arranged By [Orchestral] |
+| **John Bentley** | Bass, Backing Vocals |
+| **Simon Ryan** | Design [Cover] |
+| **Squeeze (2)** | Design [Cover] |
+| **Gilson Lavis** | Drums |
+| **Butch Yates** | Engineer [Assistant] |
+| **Don Snow** | Keyboards, Backing Vocals |
+| **Frank DeLuna** | Lacquer Cut By [⚇ In Runouts] |
+| **Frank DeLuna** | Mastered By |
+| **Michael Putland** | Photography By [Cover] |
+| **Phil McDonald** | Producer |
+| **Squeeze (2)** | Producer |
+| **Chris Difford** | Written-By, Guitar, Vocals |
+| **Glenn Tilbrook** | Written-By, Guitar, Vocals |
+
 ## See also
 
 - [Argybargy](Argybargy.md)

@@ -55,6 +55,29 @@ By Wings
 | B6 | **Treat Her Gently / Lonely Old People** | 4:24 |
 | B7 | **Crossroads Theme** | 1:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul McCartney** | Arranged By |
+| **Tony Dorsey** | Arranged By |
+| **Geoff Britton** | Drums |
+| **Alan O'Duffy** | Engineer |
+| **Geoff Emerick** | Engineer |
+| **George Hardie** | Graphics |
+| **George Peckham** | Mastered By |
+| **Denny Laine** | Performer |
+| **Jimmy McCulloch** | Performer |
+| **Joe English** | Performer |
+| **Linda McCartney** | Performer |
+| **Paul McCartney** | Performer |
+| **Sylvia De Swaan** | Photography By [Black & White Poster] |
+| **Aubrey Powell** | Photography By [Centrefold, Balls] |
+| **Hipgnosis (2)** | Photography By [Centrefold, Balls] |
+| **Linda McCartney** | Photography By [Cover] |
+| **Paul McCartney** | Producer |
+| **Paul McCartney** | Songwriter |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

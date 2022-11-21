@@ -58,6 +58,20 @@ Mono
 | B5 | **Butchie's Tune** | 2:34 |
 | B6 | **Big Noise From Speonk** | 2:48 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Boone** | Bass, Piano |
+| **Michael Malatak** | Design [Cover Design] |
+| **Joe Butler** | Drums |
+| **Val Valentin** | Engineer |
+| **John Sebastian** | Guitar, Harmonica, Autoharp |
+| **John Sebastian** | Lead Guitar |
+| **Zal Yanovsky** | Lead Guitar |
+| **Alan Brooks (3)** | Photography By [Cover] |
+| **Erik Jacobsen** | Producer |
+
 ## See also
 
 - [Darling Be Home Soon / Darlin' Companion](Darling_Be_Home_Soon_-_Darlin_Companion.md)

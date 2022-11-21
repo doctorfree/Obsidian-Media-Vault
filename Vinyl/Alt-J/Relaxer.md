@@ -50,6 +50,17 @@ By Alt-J
 | B3 | **Last Year** | 6:06 |
 | B4 | **Pleader** | 5:48 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Osamu Sato** | Cover [Front And Back Cover Image] |
+| **Heino Leja** | Lacquer Cut By |
+| **KR (3)** | Lacquer Cut By |
+| **Charlie Andrew** | Producer |
+| **Ellie Rowsell** | Vocals [Additional Vocals] |
+| **Marika Hackman** | Vocals [Additional Vocals] |
+
 ## See also
 
 - [](Alt-J.md)

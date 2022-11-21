@@ -49,6 +49,23 @@ By Big Brother & The Holding Company
 | B2 | **Oh, Sweet Mary** | 4:13 |
 | B3 | **Ball And Chain** | 9:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Peter Albin** | Bass |
+| **Sam Andrew** | Bass, Guitar |
+| **Robert Crumb** | Cover [Cover Artwork] |
+| **Dave Getz** | Drums |
+| **Fred Catero** | Engineer |
+| **James Gurley** | Engineer |
+| **Janis Joplin** | Engineer |
+| **Jerry Hochman** | Engineer |
+| **Roy Segal** | Engineer |
+| **James Gurley** | Guitar |
+| **Kevin Gray** | Mastered By, Lacquer Cut By |
+| **Janis Joplin** | Vocals |
+
 ## See also
 
 - [](Big_Brother_and_The_Holding_Company.md)

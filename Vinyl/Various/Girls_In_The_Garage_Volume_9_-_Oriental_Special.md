@@ -56,6 +56,12 @@ By Various
 | B6 | **Come Back When You Grow Up** |  |
 | B7 | **Fever** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bradley Ghoulstein** | Compiled By |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

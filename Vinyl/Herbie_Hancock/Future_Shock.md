@@ -48,6 +48,30 @@ By Herbie Hancock
 | B2 | **Autodrive** | 6:25 |
 | B3 | **Rough** | 6:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Em** | CGI Artist ["Approach" Computer Generated Image] |
+| **Mike Krowiak** | Engineer [Assistant, RPM] |
+| **Billy Youdelman** | Engineer [Garage Sale Recording] |
+| **Bryan Bell** | Engineer [Garage Sale Recording] |
+| **Dave Jerden** | Engineer [Garage Sale Recording] |
+| **Martin Bisi** | Engineer [OAO] |
+| **Dominick Maita** | Engineer [RPM] |
+| **Howie Weinberg** | Lacquer Cut By [Runout Etch] |
+| **Adam's Dad Management Co.** | Management |
+| **Roger Trilling** | Management [Administration For Material] |
+| **Howie Weinberg** | Mastered By |
+| **Dave Jerden** | Mixed By |
+| **Herbie Hancock** | Producer |
+| **Material** | Producer |
+| **Tony Meilandt** | Producer [Associate] |
+| **Bill Laswell** | Written-By |
+| **Curtis Mayfield** | Written-By |
+| **Herbie Hancock** | Written-By |
+| **Michael Beinhorn** | Written-By |
+
 ## See also
 
 - [](Herbie_Hancock.md)

@@ -53,6 +53,26 @@ By Joni Mitchell
 | B5 | **Trouble Child** | 3:57 |
 | B6 | **Twisted** | 2:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Anthony Hudson (2)** | Art Direction, Design |
+| **Jim Hughart** | Bass |
+| **Max Bennett** | Bass |
+| **Wilton Felder** | Bass |
+| **Joni Mitchell** | Composed By |
+| **John Guerin** | Drums, Percussion |
+| **Larry Carlton** | Electric Guitar |
+| **Joe Sample** | Electric Piano |
+| **Henry Lewy** | Engineer [Sound Engineer] |
+| **Chris Bellman** | Lacquer Cut By |
+| **Bernie Grundman** | Mastered By [Mastering Engineer] |
+| **Joni Mitchell** | Painting [Cover Painting] |
+| **Norman Seeff** | Photography By |
+| **Joni Mitchell** | Piano |
+| **Tom Scott** | Woodwind [Woodwinds], Reeds |
+
 ## See also
 
 - [Blue](Blue.md)

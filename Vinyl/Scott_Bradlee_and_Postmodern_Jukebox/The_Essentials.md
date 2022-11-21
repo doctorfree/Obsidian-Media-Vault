@@ -60,6 +60,12 @@ By Scott Bradlee & Postmodern Jukebox
 | D3 | **Hey Ya!** |  |
 | D4 | **Such Great Heights** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Scott Bradlee** | Producer, Arranged By, Mixed By, Mastered By |
+
 ## See also
 
 - [](Scott_Bradlee_and_Postmodern_Jukebox.md)

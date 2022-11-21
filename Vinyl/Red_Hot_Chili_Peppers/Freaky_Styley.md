@@ -56,6 +56,55 @@ By Red Hot Chili Peppers
 | B8 | **Thirty Dirty Birds** | 0:13 |
 | B9 | **Yertle The Turtle** | 3:36 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Fred Wesley** | Arranged By [Horn Arrangements] |
+| **Henry Marquez** | Art Direction |
+| **Andre Foxxe** | Backing Vocals |
+| **Garry Shider** | Backing Vocals |
+| **Garry Shider** | Backing Vocals |
+| **George Clinton** | Backing Vocals |
+| **Joel Virgel Viergel** | Backing Vocals |
+| **Louis Kabbabie** | Backing Vocals |
+| **Michael Payne** | Backing Vocals |
+| **Pat Lewis** | Backing Vocals |
+| **Robert "P-Nut" Johnson** | Backing Vocals |
+| **Shirley Hayden** | Backing Vocals |
+| **Steve Boyd** | Backing Vocals |
+| **Homeboy (8)** | Band |
+| **Homes** | Band |
+| **Homesqueeze** | Band |
+| **Homey** | Band |
+| **Maceo Parker** | Band [The Horny Horns], Saxophone |
+| **Fred Wesley** | Band [The Horny Horns], Trombone |
+| **Bennie Cowan** | Band [The Horny Horns], Trumpet |
+| **Flea** | Band [The Red Hot Chili Peppers], Bass |
+| **Cliff Martinez** | Band [The Red Hot Chili Peppers], Drums |
+| **Hillel Slovak** | Band [The Red Hot Chili Peppers], Guitar |
+| **Anthony Kiedis** | Band [The Red Hot Chili Peppers], Lead Vocals |
+| **Peter Shea** | Design |
+| **Greg Ward** | Engineer |
+| **John Bauer** | Engineer [2nd] |
+| **Horny Horns** | Horns |
+| **Ron McMaster** | Lacquer Cut By |
+| **Lindy Goetz Management** | Management |
+| **Ron McMaster** | Mastered By |
+| **Bruce Nazarian** | Mixed By |
+| **Greg Ward** | Mixed By |
+| **Jim Bauerlein** | Mixed By |
+| **Jim Vitti** | Mixed By |
+| **Red Hot Chili Peppers** | Mixed By |
+| **Gnome Sound** | Other [Equipment Rental From] |
+| **Hy James** | Other [Equipment Rental From] |
+| **Maruga** | Other [Massages By] |
+| **Larry Fratangelo** | Percussion |
+| **Nels Israelson** | Photography By |
+| **Bob Alford** | Photography By [Studio Photos] |
+| **George Clinton** | Producer |
+| **Red Hot Chili Peppers** | Written-By |
+
 ## See also
 
 - [Mother's Milk](Mothers_Milk.md)

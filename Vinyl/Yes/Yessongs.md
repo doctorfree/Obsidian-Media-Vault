@@ -57,6 +57,26 @@ By Yes
 | F1 | **Yours Is No Disgrace** | 14:21 |
 |  | **Starship Trooper** | 9:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Lane (3)** | Coordinator |
+| **Roger Dean (4)** | Cover [Cover Design], Design [Cover Design], Illustration |
+| **Mike Dunne** | Engineer [Assistant] |
+| **Geoffrey Haslam** | Engineer [Recording] |
+| **George Piros** | Mastered By, Lacquer Cut By |
+| **Alan White** | Performer |
+| **Bill Bruford** | Performer |
+| **Chris Squire** | Performer |
+| **Jon Anderson** | Performer |
+| **Rick Wakeman** | Performer |
+| **Steve Howe** | Performer |
+| **David Gahr** | Photography By [Additional] |
+| **Martyn Dean** | Photography By, Layout |
+| **Eddy Offord** | Producer |
+| **Yes** | Producer |
+
 ## See also
 
 - [Close To The Edge](Close_To_The_Edge.md)

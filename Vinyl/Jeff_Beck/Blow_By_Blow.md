@@ -51,6 +51,20 @@ By Jeff Beck
 | B3 | **Freeway Jam** | 4:57 |
 | B4 | **Diamond Dust** | 8:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phil Chen** | Bass |
+| **John Collier (3)** | Cover [Art] |
+| **John Berg** | Design |
+| **Richard Bailey** | Drums, Percussion |
+| **Denim Bridges** | Engineer |
+| **Jeff Beck** | Guitar |
+| **Max Middleton** | Keyboards |
+| **George Martin** | Orchestrated By [Arranged] |
+| **George Martin** | Producer |
+
 ## See also
 
 - [](Jeff_Beck.md)

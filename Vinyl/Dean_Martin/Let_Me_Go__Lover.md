@@ -46,6 +46,12 @@ By Dean Martin
 | B1 | **Mambo Italiano** |  |
 | B2 | **That's All I Want From You** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dick Stabile** | Conductor |
+
 ## See also
 
 - [Everybody Loves Somebody / A Little Voice](Everybody_Loves_Somebody_-_A_Little_Voice.md)

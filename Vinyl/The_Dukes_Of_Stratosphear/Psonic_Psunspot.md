@@ -52,6 +52,15 @@ By The Dukes Of Stratosphear
 | B4 | **The Affiliated** | 2:17 |
 | B5 | **Pale And Precious** | 5:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Leckie** | Producer |
+| **The Dukes Of Stratosphear** | Producer |
+| **Sir John Johns** | Written-By |
+| **The Red Curtain** | Written-By |
+
 ## See also
 
 - [The Mole From The Ministry](The_Mole_From_The_Ministry.md)

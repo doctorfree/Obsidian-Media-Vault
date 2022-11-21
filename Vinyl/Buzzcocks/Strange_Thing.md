@@ -44,6 +44,14 @@ By Buzzcocks
 | A | **Strange Thing** | 4:08 |
 | B | **Airwaves Dream** | 3:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Porky (5)** | Mastered By |
+| **Adrian Boot** | Photography By [Band Photo On Strange Thing Side Of Sleeve] |
+| **Martin Hannett** | Producer |
+
 ## See also
 
 - [](Buzzcocks.md)

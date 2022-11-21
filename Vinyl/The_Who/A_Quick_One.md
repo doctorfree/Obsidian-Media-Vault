@@ -52,6 +52,15 @@ By The Who
 | B3 | **So Sad About Us** |  |
 | B4 | **A Quick One, While He's Away** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alan Aldridge** | Design [Cover Design] |
+| **Chris Stamp** | Executive-Producer |
+| **Miles Showell** | Lacquer Cut By |
+| **Kit Lambert** | Producer |
+
 ## See also
 
 - [My Generation](My_Generation.md)

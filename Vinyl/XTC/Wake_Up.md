@@ -45,6 +45,12 @@ By XTC
 | B1 | **Take This Town** | 4:07 |
 | B2 | **Mantis On Parole - Homo Safari Series No. 4** | 3:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **XTC** | Producer |
+
 ## See also
 
 - [Making Plans For Nigel](Making_Plans_For_Nigel.md)

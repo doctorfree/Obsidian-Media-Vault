@@ -54,6 +54,18 @@ By Mitch Ryder & The Detroit Wheels
 | B5 | **Bring It On Home To Me** | 3:33 |
 | B6 | **Baby Jane (Mo-Mo Jane)** | 3:59 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Crewe** | Arranged By, Conductor, Producer |
+| **Steven Craig Productions** | Design |
+| **Gordon Clark** | Engineer |
+| **Harry Yarmark** | Engineer |
+| **George Ingram** | Lacquer Cut By |
+| **Howard Cook (2)** | Liner Notes |
+| **Ron Harris (8)** | Photography By [Cover] |
+
 ## See also
 
 - [Breakout...!!!](Breakout!!!.md)

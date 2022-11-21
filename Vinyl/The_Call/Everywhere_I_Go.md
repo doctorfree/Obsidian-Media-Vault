@@ -44,6 +44,13 @@ By The Call
 | A | **Everywhere I Go** | 3:51 |
 | B | **Tore The Old Place Down** | 4:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Call** | Producer |
+| **Michael Been** | Producer, Written-By |
+
 ## See also
 
 - [](The_Call.md)

@@ -44,6 +44,12 @@ By Connie Boswell
 | A | **Call Me Darling** | 2:08 |
 | B | **The Philadelphia Waltz** | 2:44 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Siravo** | Directed By |
+
 ## See also
 
 - [](Connie_Boswell.md)

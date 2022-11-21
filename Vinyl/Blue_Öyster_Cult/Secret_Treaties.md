@@ -50,6 +50,25 @@ By Blue Öyster Cult
 | B3 | **Flaming Telepaths** | 5:18 |
 | B4 | **Astronomy** | 6:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron Lesser** | Artwork [Cover Art] |
+| **Joe Bouchard** | Bass, Vocals |
+| **John Berg** | Design |
+| **Albert Bouchard** | Drums, Vocals |
+| **Tim Geelan** | Engineer |
+| **Jerry Smith** | Engineer [Second] |
+| **Allen Lanier** | Keyboards, Rhythm Guitar, Synthesizer [All] |
+| **Donald "Buck Dharma" Roeser** | Lead Guitar, Vocals |
+| **Eric Bloom** | Lead Vocals, Keyboards, Guitar [Stun] |
+| **Murray Krugman** | Producer |
+| **Sandy Pearlman** | Producer |
+| **Lehman Yates** | Recorded By [Recordists] |
+| **Lou Schlossberg** | Recorded By [Recordists] |
+| **Willem Makkee** | Remastered By, Lacquer Cut By |
+
 ## See also
 
 - [Agents Of Fortune](Agents_Of_Fortune.md)

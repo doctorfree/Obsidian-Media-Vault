@@ -60,6 +60,56 @@ By John Lennon & Yoko Ono / The Plastic Ono Band With Elephants Memory And Invis
 | D3 | **Scumbag** | 13:10 |
 | D4 | **Aü** | 3:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Lennon & Yoko Ono** | Arranged By |
+| **Gary Van Scyoc** | Bass |
+| **Klaus Voormann** | Bass [Base] |
+| **Klaus Voormann** | Bass [Overdubbed] |
+| **Jim Pons** | Bass, Vocals, Dialog |
+| **Allan Steckler** | Cover [Live Jam LP New Cover] |
+| **Cal Schenkel** | Cover [Live Jam LP Original Cover By] |
+| **John Lennon & Yoko Ono** | Design Concept [Sleeve Concept] |
+| **Michael Gross (10)** | Design [Sleeve Design] |
+| **Alan White** | Drums |
+| **Aynsley Dunbar** | Drums |
+| **Jim Gordon** | Drums |
+| **Keith Moon** | Drums |
+| **Yoko Ono** | Drums |
+| **Jim Keltner** | Drums, Percussion |
+| **Rick Frank** | Drums, Percussion |
+| **Nicky Hopkins** | Electric Piano |
+| **Danny Turbeville** | Engineer |
+| **Roy Cicala** | Engineer |
+| **Roy Cicala** | Engineer |
+| **Eric Clapton** | Guitar |
+| **George Harrison** | Guitar |
+| **Wayne "Tex" Gabriel** | Guitar |
+| **Frank Zappa** | Guitar, Dialog |
+| **Delaney Bramlett** | Guitar, Percussion |
+| **Bob Harris (5)** | Keyboards [2nd], Vocals |
+| **Sean Magee** | Lacquer Cut By [Runout Etching i…i] |
+| **Ron Frangipane** | Orchestrated By [String Orchestration] |
+| **Billy Preston** | Organ |
+| **Delaney & Bonnie & Friends** | Percussion, Brass |
+| **Yoko Ono** | Performer [Bag] |
+| **Bob Gruen** | Photography By [Inside Left Cover] |
+| **Joe Sia** | Photography By [Inside Right Cover] |
+| **Adam Ippolito** | Piano, Organ |
+| **John Lennon & Yoko Ono** | Producer |
+| **Phil Spector** | Producer |
+| **Bobby Keys** | Saxophone |
+| **Stan Bronstein** | Saxophone, Flute |
+| **Don Preston** | Synthesizer [Mini Moog] |
+| **Jack Douglas** | Technician |
+| **Yoko Ono** | Vocals |
+| **Howard Kaylan** | Vocals, Dialog |
+| **Mark Volman** | Vocals, Dialog |
+| **John Lennon** | Vocals, Guitar, Other [National] |
+| **Ian Underwood** | Woodwind, Keyboards, Vocals |
+
 ## See also
 
 - [](John_Lennon_and_Yoko_Ono_-_The_Plastic_Ono_Band_With_Elephants_Memory_And_Invisible_Strings.md)

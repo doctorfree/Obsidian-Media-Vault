@@ -56,6 +56,24 @@ By Slash
 | D2 | **Saint Is A Sinner Too** | 3:28 |
 | D3 | **We're All  Gonna Die** | 4:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Chaney** | Bass |
+| **Trevor Whatever** | Coordinator [Session] |
+| **Ron English (3)** | Cover, Illustration |
+| **P.R. Brown** | Design, Photography By |
+| **Josh Freese** | Drums |
+| **Bradley Cook** | Engineer |
+| **Slash (3)** | Guitar |
+| **The Collective (8)** | Management |
+| **Lenny Castro** | Percussion |
+| **Gene Kirkland** | Photography By |
+| **Big Chris Flores** | Post Production |
+| **Eric Valentine** | Producer, Mixed By, Recorded By |
+| **Chet Haun** | Technician [Guitar] |
+
 ## See also
 
 - [](Slash_index.md)

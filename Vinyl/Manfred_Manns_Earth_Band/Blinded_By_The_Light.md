@@ -44,6 +44,12 @@ By Manfred Mann's Earth Band
 | A | **Blinded By The Light** | 3:48 |
 | B | **Starbird No. 2** | 3:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Manfred Mann's Earth Band** | Producer |
+
 ## See also
 
 - [](Manfred_Manns_Earth_Band.md)

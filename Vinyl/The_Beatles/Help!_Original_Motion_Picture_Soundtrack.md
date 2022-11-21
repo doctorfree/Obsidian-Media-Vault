@@ -54,6 +54,24 @@ By The Beatles
 | B5 | **You're Gonna Lose That Girl** | 2:18 |
 | B6 | **The Chase** | 2:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Lennon** | Acoustic Guitar |
+| **John Lennon** | Acoustic Guitar |
+| **George Harrison** | Backing Vocals |
+| **John Lennon** | Backing Vocals |
+| **Paul McCartney** | Backing Vocals |
+| **Paul McCartney** | Bass |
+| **Ringo Starr** | Drums |
+| **Norman Smith** | Engineer |
+| **George Harrison** | Guitar [Lead] |
+| **John Lennon** | Lead Vocals |
+| **Dave Dexter, Jr.** | Producer |
+| **George Martin** | Producer |
+| **Ken Thorne** | Score |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

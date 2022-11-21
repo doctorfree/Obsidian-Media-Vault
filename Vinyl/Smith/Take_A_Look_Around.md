@@ -44,6 +44,14 @@ By Smith
 | A | **Take A Look Around** | 2:33 |
 | B | **Mojalesky Ridge** | 2:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmie Haskell** | Arranged By [Horns] |
+| **Joel Sill** | Producer |
+| **Steve Barri** | Producer |
+
 ## See also
 
 - [A Group Called Smith](A_Group_Called_Smith.md)

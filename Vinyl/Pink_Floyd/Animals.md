@@ -47,6 +47,24 @@ By Pink Floyd
 | B2 | **Sheep** | 10:22 |
 | B3 | **Pigs On The Wing (Part Two)** | 1:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Aubrey Powell** | Art Direction [Organised By] |
+| **Storm Thorgerson** | Art Direction [Organised By] |
+| **Roger Waters** | Design [Sleeve] |
+| **Brian Humphries** | Engineer |
+| **Nick Mason** | Graphics |
+| **Roger Waters** | Lyrics By |
+| **Colin Jones (7)** | Photography By |
+| **Howard Bartrop** | Photography By |
+| **Nic Tucker** | Photography By |
+| **Peter Christopherson** | Photography By |
+| **Rob Brimson** | Photography By |
+| **Robert Ellis (4)** | Photography By |
+| **Pink Floyd** | Producer |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

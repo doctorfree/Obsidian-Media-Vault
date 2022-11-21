@@ -44,6 +44,14 @@ By The British Walkers
 | A | **Shake** | 2:17 |
 | B | **That Was Yesterday** | 2:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bobby Poe** | Producer |
+| **Mitch Corday** | Producer |
+| **Vernon Sandusky** | Producer |
+
 ## See also
 
 - [](The_British_Walkers.md)

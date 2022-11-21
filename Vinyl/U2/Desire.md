@@ -44,6 +44,19 @@ By U2
 | A | **Desire** | 2:59 |
 | B | **Hallelujah Here She Comes** | 4:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **DZN, The Design Group** | Design |
+| **Steve Averill** | Design [Based On An Idea By] |
+| **Works Associates** | Design [Based On An Idea By] |
+| **U2** | Music By |
+| **Anton Corbijn** | Photography By |
+| **Bill Rubenstein (2)** | Photography By [Back Cover] |
+| **Jimmy Iovine** | Producer |
+| **Bono** | Words By |
+
 ## See also
 
 - [Angel Of Harlem](Angel_Of_Harlem.md)

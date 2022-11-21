@@ -44,6 +44,13 @@ By The Dells
 | A | **Always Together** | 3:04 |
 | B | **I Want My Momma** | 2:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Charles Stepney** | Arranged By |
+| **Bobby Miller** | Producer [Produced By], Written-By |
+
 ## See also
 
 - [](The_Dells.md)

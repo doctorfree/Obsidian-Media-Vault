@@ -44,6 +44,13 @@ By Bobby Womack
 | A | **Where Do We Go From Here** | 4:58 |
 | B | **Just My Imagination** | 5:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bobby Womack** | Arranged By, Producer |
+| **Otis Smith** | Executive-Producer |
+
 ## See also
 
 - [](Bobby_Womack.md)

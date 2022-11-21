@@ -53,6 +53,12 @@ By Davy Jones
 | B5 | **My Dad** | 2:35 |
 | B6 | **This Bouquet** | 2:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hank Levine** | Producer, Arranged By |
+
 ## See also
 
 - [](Davy_Jones.md)

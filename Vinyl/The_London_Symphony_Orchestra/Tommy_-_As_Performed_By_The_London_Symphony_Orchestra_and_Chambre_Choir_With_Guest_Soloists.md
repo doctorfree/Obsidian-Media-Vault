@@ -67,6 +67,12 @@ By The London Symphony Orchestra
 | D4 | **We're Not Gonna Take It** |  |
 | D5 | **See Me, Feel Me** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lou Reizner** | Producer |
+
 ## See also
 
 - [](The_London_Symphony_Orchestra.md)

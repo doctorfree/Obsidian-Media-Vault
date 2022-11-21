@@ -52,6 +52,23 @@ By The Holy Sisters Of The Gaga Dada
 | B4 | **Beside You** | 5:15 |
 | B5 | **Future** | 3:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jill Fido** | Bass, Vocals |
+| **Merlyn Rosenberg** | Design [Cover] |
+| **Zero Jessephski, Jr.** | Drums, Percussion |
+| **Brett Gurewitz** | Engineer |
+| **Greg Shaw (2)** | Executive-Producer |
+| **Wild Kim Sockit** | Guitar, Vocals |
+| **Mary Jean Porsia** | Keyboards, Vocals |
+| **Blake Leyh** | Producer |
+| **Bill Dees** | Written-By |
+| **Jill Fido** | Written-By |
+| **Mary Jean Porsia** | Written-By |
+| **Roy Orbison** | Written-By |
+
 ## See also
 
 - [](The_Holy_Sisters_Of_The_Gaga_Dada.md)

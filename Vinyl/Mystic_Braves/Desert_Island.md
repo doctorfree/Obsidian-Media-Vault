@@ -52,6 +52,20 @@ By Mystic Braves
 | B4 | **In The Past** | 2:32 |
 | B5 | **Earthshake** | 4:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Harrison Roberts** | Artwork |
+| **Tony Malacara** | Bass, Vocals |
+| **Cameron Gartung** | Drums |
+| **Henry Stotsenberg** | Executive-Producer |
+| **Julian Ducatenzeiler** | Guitar, Vocals |
+| **Shane Stotsenberg** | Guitar, Vocals |
+| **Chris Bellman** | Mastered By |
+| **Ignacio Gonzalez** | Organ, Percussion |
+| **Victor Ducatenzeiler** | Trumpet |
+
 ## See also
 
 - [Mystic Braves](Mystic_Braves.md)

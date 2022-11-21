@@ -61,6 +61,26 @@ By Todd Rundgren
 | D3 | **Is It My Name?** | 4:01 |
 | D4 | **Just One Victory** | 4:59 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Ludwig** | Engineer [Mastering] |
+| **Arthur Wood (3)** | Painting [Cover] |
+| **Todd Rundgren** | Producer |
+| **Joe Reagoso** | Remastered By |
+| **Adolph Green** | Written-By |
+| **Al Cleveland** | Written-By |
+| **Betty Comden** | Written-By |
+| **Curtis Mayfield** | Written-By |
+| **Donald Storball** | Written-By |
+| **Jule Styne** | Written-By |
+| **Renaldo Benson** | Written-By |
+| **Smokey Robinson** | Written-By |
+| **Thom Bell** | Written-By |
+| **Todd Rundgren** | Written-By |
+| **William Hart** | Written-By |
+
 ## See also
 
 - [Time Heals](Time_Heals.md)

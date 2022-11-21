@@ -46,6 +46,12 @@ By "Johannes Brahms, Philharmonisches Staatsorchester Hamburg, Sir Charles Macke
 | B1 | **Symphony No. 1 In C Minor, Op. 68-Un Poco Allegretto E Grazioso** | 4:38 |
 | B2 | **Op. 68-Adagio-Più Andante-Allegro Non Troppo, Ma Con Brio** | 16:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Ziering** | Artwork |
+
 ## See also
 
 - [](Johannes_Brahms__Philharmonisches_Staatsorchester_Hamburg__Sir_Charles_Mackerras.md)

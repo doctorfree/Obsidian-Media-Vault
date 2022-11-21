@@ -44,6 +44,12 @@ By The Beatles
 | A | **Hey Jude** | 7:11 |
 | B | **Revolution** | 3:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lennon-McCartney** | Written-By |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

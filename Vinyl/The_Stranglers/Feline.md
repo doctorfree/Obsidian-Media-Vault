@@ -53,6 +53,16 @@ By The Stranglers
 |  | **Free Special 7" Disc** |  |
 | C | **Aural Sculpture** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nick Marchant** | Art Direction |
+| **Nick Marchant** | Design |
+| **Tim Widdall** | Design |
+| **Henry Arden** | Photography By [Insert] |
+| **The Stranglers** | Written-By |
+
 ## See also
 
 - [](The_Stranglers.md)

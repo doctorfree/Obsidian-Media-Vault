@@ -62,6 +62,39 @@ By David Bowie
 | E2 | **Rock 'N' Roll Suicide** | 5:10 |
 | E3 | **John, I'm Only Dancing (Again)** | 8:41 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Sanborn** | Alto Saxophone, Flute |
+| **Anthony Hinton** | Backing Vocals |
+| **Ava Cherry** | Backing Vocals |
+| **Diane Sumler** | Backing Vocals |
+| **Luther Vandross** | Backing Vocals |
+| **Robin Clark (2)** | Backing Vocals |
+| **Warren Peace** | Backing Vocals |
+| **Richard Grando** | Baritone Saxophone, Flute |
+| **Doug Rauch** | Bass |
+| **Pablo Rosario** | Congas |
+| **Scott Minshall** | Design |
+| **Greg Errico** | Drums |
+| **Carlos Alomar** | Guitar |
+| **Earl Slick** | Guitar |
+| **Ray Staff** | Mastered By |
+| **Tony Visconti** | Mixed By |
+| **Jaime Andrews** | Photography By [Front Cover & Centre Spread] |
+| **Terry O'Neill (2)** | Photography By [Inside Panel & Back Cover] |
+| **Mike Garson** | Piano, Mellotron |
+| **David Bowie** | Producer |
+| **Aisha Cohen** | Producer [Project Produced For Release By For RZO Music] |
+| **Nigel Reeve** | Producer [Project Produced For Release By For Warner Music] |
+| **Olivia Thomas** | Producer [Project Produced For Release By For Warner Music] |
+| **David Bowie** | Vocals, Guitar, Harmonica |
+| **David Bowie** | Written-By |
+| **Eddie Floyd** | Written-By |
+| **Steve Cropper** | Written-By |
+| **Warren Peace** | Written-By |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

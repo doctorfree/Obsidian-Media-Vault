@@ -44,6 +44,12 @@ By Nick Apollo
 | A | **Can I Depend On You** | 3:32 |
 | B | **The Italian Delight (Scungilli Song)** | 2:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nick Apollo** | Producer, Written-By |
+
 ## See also
 
 - [](Nick_Apollo.md)

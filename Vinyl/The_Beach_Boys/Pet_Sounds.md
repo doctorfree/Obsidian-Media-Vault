@@ -55,6 +55,14 @@ By The Beach Boys
 | B5 | **Pet Sounds** | 2:20 |
 | B6 | **Caroline No** | 2:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Wilson** | Producer |
+| **Cheryl Pawelski** | Reissue Producer |
+| **Ron McMaster** | Remastered By |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

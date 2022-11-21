@@ -51,6 +51,38 @@ By Flo & Eddie
 | B5 | **Let Me Make Love To You** | 2:20 |
 | B6 | **There's No Business Like Show Business** | 3:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nick DeCaro** | Arranged By, Conductor |
+| **Ron Coro** | Art Direction |
+| **Alan Harnetaux** | Crew [Technical Crew] |
+| **Bob Truax** | Crew [Technical Crew] |
+| **George Thrift** | Crew [Technical Crew] |
+| **Bill Naegels** | Design Concept |
+| **Rod Dyer, Inc.** | Design Concept |
+| **Alex Kazanegras** | Engineer |
+| **Dee Robb** | Engineer |
+| **Tom Perry** | Engineer [Mixing] |
+| **Skip Taylor Productions, Inc.** | Management, Directed By |
+| **Doug Sax** | Mastered By [Disc Mastering] |
+| **Erik Scott** | Musician [The Players], Bass |
+| **Leland Sklar** | Musician [The Players], Bass |
+| **Aynsley Dunbar** | Musician [The Players], Drums |
+| **Craig Krampf** | Musician [The Players], Drums |
+| **Danny Kortchmar** | Musician [The Players], Guitar |
+| **Andy Cahan** | Musician [The Players], Keyboards |
+| **Ian Underwood** | Musician [The Players], Keyboards |
+| **Phil Reed (6)** | Musician [The Players], Lead Guitar |
+| **Howard Kaylan** | Musician [The Players], Lead Vocals |
+| **Mark Volman** | Musician [The Players], Vocals, Guitar |
+| **Mark Volman And Howard Kaylan** | Performer [Flo And Eddie Are] |
+| **Chuck Pulin** | Photography By [Inner Sleeve Photo] |
+| **Alky Georgiades** | Photography By [Jacket Photos] |
+| **Norman Seeff** | Photography By [Magazine Photos] |
+| **Joe Wissert** | Producer |
+
 ## See also
 
 - [Moving Targets](Moving_Targets.md)

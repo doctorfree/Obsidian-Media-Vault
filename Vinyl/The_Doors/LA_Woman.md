@@ -52,6 +52,23 @@ By The Doors
 | B4 | **The WASP (Texas Radio And The Big Beat)** | 4:12 |
 | B5 | **Riders On The Storm** | 7:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jerry Scheff** | Bass |
+| **Carl Cossick** | Concept By [Album Concept], Design |
+| **John Densmore** | Drums |
+| **Robby Krieger** | Guitar |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Bill Siddons** | Management [Personal] |
+| **Wendell Hamick** | Photography By, Effects [Visual Effects] |
+| **Ray Manzarek** | Piano, Organ |
+| **Bruce Botnick** | Producer |
+| **The Doors** | Producer |
+| **Marc Benno** | Rhythm Guitar |
+| **Jim Morrison** | Vocals |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

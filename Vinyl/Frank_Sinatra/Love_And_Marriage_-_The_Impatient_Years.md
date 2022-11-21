@@ -44,6 +44,12 @@ By Frank Sinatra
 | A | **Love And Marriage** | 2:37 |
 | B | **The Impatient Years** | 3:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sammy Cahn & Jimmy Van Heusen** | Written-By |
+
 ## See also
 
 - [In The Wee Small Hours](In_The_Wee_Small_Hours.md)

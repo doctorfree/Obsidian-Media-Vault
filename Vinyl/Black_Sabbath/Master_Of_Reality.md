@@ -50,6 +50,24 @@ By Black Sabbath
 | B3 | **Solitude** | 5:02 |
 | B4 | **Into The Void** | 6:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Stanford** | Art Direction |
+| **Geezer Butler** | Bass Guitar |
+| **Hugh Gilmour** | Coordinator |
+| **Bloomsbury Group** | Design |
+| **Gilmour Design** | Design [Reissue] |
+| **Bill Ward** | Drums |
+| **Tony Iommi** | Lead Guitar |
+| **Ozzy Osbourne** | Lead Vocals |
+| **Keef (4)** | Photography By |
+| **Rodger Bain** | Producer |
+| **Andy Pearce** | Remastered By |
+| **Matt Wortham** | Remastered By |
+| **David Wells (2)** | Sleeve Notes |
+
 ## See also
 
 - [Black Sabbath](Black_Sabbath.md)

@@ -51,6 +51,39 @@ By Jennifer Warnes
 | B4 | **A Singer Must Die** | 4:50 |
 | B5 | **Came So Far For Beauty** | 3:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Leslie Wintner** | Art Direction, Design |
+| **Jennifer Warnes** | Art Direction, Producer |
+| **Vinnie Colaiuta** | Drums |
+| **Clive Taylor** | Engineer [Assistant] |
+| **Dan Reed (5)** | Engineer [Assistant] |
+| **Duane Seykora** | Engineer [Assistant] |
+| **Garth Richardson** | Engineer [Assistant] |
+| **Jeff Park** | Engineer [Assistant] |
+| **Joel Stoner** | Engineer [Assistant] |
+| **Ken Fowler** | Engineer [Assistant] |
+| **Nyya Lark** | Engineer [Assistant] |
+| **Russell Bracher** | Engineer [Assistant] |
+| **Sharon Rice (2)** | Engineer [Assistant] |
+| **Steve Ford** | Engineer [Assistant] |
+| **Terry Dunavan** | Engineer [Assistant] |
+| **Billy Youdelman** | Engineer [Chief Recording Engineer] |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Leonard Cohen** | Lyrics By |
+| **Bernie Grundman** | Mastered By |
+| **Bill Elliott** | Music By |
+| **John Lissauer** | Music By |
+| **Leonard Cohen** | Music By |
+| **Betsy Annas** | Photography By [Back Cover] |
+| **Roscoe Beck** | Producer |
+| **Jennifer Warnes** | Producer, Music By, Lyrics By |
+| **Chuck Barth** | Programmed By |
+| **Todd Yyega** | Programmed By |
+| **Bernie Grundman** | Remastered By |
+
 ## See also
 
 - [](Jennifer_Warnes.md)

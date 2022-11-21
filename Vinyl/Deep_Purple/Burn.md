@@ -50,6 +50,27 @@ By Deep Purple
 | B3 | **Mistreated** | 7:25 |
 | B4 | **"A" 200** | 3:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nesbit, Phipps And Froome** | Artwork [Art Studio] |
+| **Candle Makers Supplies** | Artwork [Candles] |
+| **Ian Paice** | Drums |
+| **Martin Birch** | Engineer |
+| **George (187)** | Engineer [Assisted By] |
+| **Paul (220)** | Engineer [Assisted By] |
+| **Tapani Tapanainen** | Engineer [Assisted By] |
+| **Jon Lord** | Keyboards |
+| **Ron McMaster** | Lacquer Cut By |
+| **Ritchie Blackmore** | Lead Guitar |
+| **Joe Reagoso** | Mastered By |
+| **Fin Costello** | Photography By |
+| **Deep Purple** | Producer |
+| **Claude Nobs** | Technician [Help And Vitality] |
+| **David Coverdale** | Vocals |
+| **Glenn Hughes** | Vocals, Bass Guitar |
+
 ## See also
 
 - [Deep Purple](Deep_Purple.md)

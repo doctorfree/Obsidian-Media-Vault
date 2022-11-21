@@ -52,6 +52,14 @@ By Kenny Rogers & The First Edition
 | B4 | **Love Woman** | 2:45 |
 | B5 | **Tell It All Brother** | 3:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Bowen** | Producer |
+| **Kenny Rogers** | Producer |
+| **Mike Post** | Producer |
+
 ## See also
 
 - [](Kenny_Rogers_and_The_First_Edition.md)

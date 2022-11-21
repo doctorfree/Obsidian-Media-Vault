@@ -44,6 +44,12 @@ By Ricky Nelson
 | A | **Lonesome Town** | 2:17 |
 | B | **I Got A Feeling** | 2:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Baker Knight** | Written-By |
+
 ## See also
 
 - [](Ricky_Nelson.md)

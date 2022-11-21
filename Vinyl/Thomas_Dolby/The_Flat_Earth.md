@@ -49,6 +49,36 @@ By Thomas Dolby
 | B3 | **I Scare Myself** | 5:37 |
 | B4 | **Hyperactive!** | 4:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Adele Bertei** | Backing Vocals |
+| **Bruce Woolley** | Backing Vocals |
+| **Lesley Fairbairn** | Backing Vocals |
+| **Matthew Seligman** | Bass |
+| **Baker Dave** | Design [Album Design] |
+| **Malcolm Garrett** | Design [Album Design] |
+| **Thomas Dolby** | Design [Album Design] |
+| **Dan Lacksman** | Engineer [In Brussels] |
+| **Assorted iMaGes** | Graphics |
+| **Kevin Armstrong** | Guitar, Backing Vocals, Trumpet |
+| **Andy Ferguson (2)** | Management |
+| **Cracks 90 Ltd.** | Management |
+| **Wally Traugott** | Mastered By |
+| **Alan Douglas (2)** | Mixed By |
+| **Mike Shipley** | Mixed By [In London] |
+| **Robyn Hitchcock** | Other [As Keith] |
+| **Kevin Armstrong** | Other [As The Analyst] |
+| **Lu** | Other [As The Analyst] |
+| **Matthew Salt** | Percussion [Tins], Effects [Thundersheet] |
+| **Clif Brigden** | Percussion, Electronic Drums [Computer Drums] |
+| **Richard Haughton** | Photography By |
+| **Thomas Dolby** | Piano, Effects, Vocals |
+| **Thomas Dolby** | Producer |
+| **Justin Hildreth** | Sampler [Drum Samples] |
+| **Peter Thoms** | Trombone |
+
 ## See also
 
 - [Blinded By Science](Blinded_By_Science.md)

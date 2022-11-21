@@ -44,6 +44,12 @@ By Morris Day
 | A | **The Oak Tree** | 4:32 |
 | B | **The Oak Tree (Dance Instrumental)** | 3:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Morris Day** | Producer, Written-By, Arranged By |
+
 ## See also
 
 - [](Morris_Day.md)

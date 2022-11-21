@@ -44,6 +44,13 @@ By George Benson
 | A | **On Broadway** | 5:14 |
 | B | **We As Love** | 6:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Al Schmitt** | Mixed By, Recorded By |
+| **Tommy LiPuma** | Producer [Produced By] |
+
 ## See also
 
 - [](George_Benson.md)

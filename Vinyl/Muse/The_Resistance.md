@@ -53,6 +53,23 @@ By Muse
 | D2 | **Exogenesis: Symphony Part 2 (Cross-Pollination)** |  |
 | D3 | **Exogenesis: Symphony Part 3 (Redemption)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **La Boca** | Artwork |
+| **Chris Wolstenholme** | Bass, Vocals |
+| **Dominic Howard** | Drums, Percussion, Synth, Programmed By |
+| **Adrian Bushby** | Engineer |
+| **Tommaso Colliva** | Engineer [Additional And Technical Setup] |
+| **Ted Jensen** | Mastered By |
+| **Mark Stent** | Mixed By |
+| **Muse** | Performer |
+| **Danny Clinch** | Photography By [Band] |
+| **Muse** | Producer |
+| **Matthew Bellamy** | Vocals, Guitar, Keyboards, Synth, Programmed By |
+| **Matthew Bellamy** | Written-By, Arranged By [Orchestral] |
+
 ## See also
 
 - [Absolution](Absolution.md)

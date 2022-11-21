@@ -49,6 +49,20 @@ By Funkadelic
 | B2 | **Back In Our Minds** | 2:38 |
 | B3 | **Wars Of Armageddon** | 9:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Krieger** | Art Direction |
+| **Dorothy Schwartz** | Coordinator [Album Coordination] |
+| **Paula Bisacca** | Design [Album Design] |
+| **The Graffiteria** | Design [Album Design] |
+| **Armen Boladian** | Executive-Producer |
+| **Joel Brodsky** | Photography By [Cover] |
+| **Ron Scribner** | Photography By [Inside Cover] |
+| **George Clinton** | Producer [Produced By] |
+| **Bob Scerbo** | Supervised By [Album] |
+
 ## See also
 
 - [](Funkadelic.md)

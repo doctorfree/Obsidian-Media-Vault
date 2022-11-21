@@ -64,6 +64,31 @@ By Stevie Wonder
 | F1 | **All Day Sucker** | 5:06 |
 | F2 | **Easy Goin' Evening (My Mama's Call)** | 3:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Don Hunter** | Effects [Special Effects] |
+| **Dr. Larry Scott** | Effects [Special Effects] |
+| **Fountain Jones** | Effects [Special Effects] |
+| **John Harris (11)** | Effects [Special Effects] |
+| **Nelson Hayes** | Effects [Special Effects] |
+| **Gary Olazabal** | Engineer |
+| **John Fischbach** | Engineer |
+| **Howie Lindeman** | Engineer [Assistant Engineering, Hit Factory] |
+| **Rick Smith (2)** | Engineer [Assistant Engineering, Record Plant, Los Angeles] |
+| **Steve Smith (7)** | Engineer [Assistant Engineering, Record Plant, Los Angeles] |
+| **Chris Morris (2)** | Engineer [Assistant Engineering, Sausalito] |
+| **David Henson** | Engineer [Assistant Engineering] |
+| **Stevie Wonder** | Lead Guitar |
+| **Andrew Berliner** | Mastered By |
+| **Jeff Sanders** | Mastered By |
+| **Stevie Wonder** | Producer, Arranged By |
+| **Charles Brewer** | Programmed By |
+| **John Fischbach** | Programmed By |
+| **Stevie Wonder** | Programmed By |
+| **Gary Olazabal** | Technician [Bass EQ] |
+
 ## See also
 
 - [Stevie Wonder's Journey Through The Secret Life Of Plants](Stevie_Wonders_Journey_Through_The_Secret_Life_Of_Plants.md)

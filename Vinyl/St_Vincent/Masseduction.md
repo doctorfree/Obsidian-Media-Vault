@@ -55,6 +55,12 @@ By St. Vincent
 | B6 | **Slow Disco** | 2:44 |
 | B7 | **Smoking Section** | 3:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Janos** | Lacquer Cut By |
+
 ## See also
 
 - [St. Vincent](St_Vincent.md)

@@ -59,6 +59,22 @@ By Jefferson Airplane
 | B4 | **Won't You Try** | 5:01 |
 | B5 | **Saturday Afternoon** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jefferson Airplane** | Arranged By |
+| **Ron Cobb (2)** | Cover [Album] |
+| **Jefferson Airplane** | Design, Liner Notes |
+| **Rich Schmitt** | Engineer |
+| **Joe Reagoso** | Interviewer [With Jorma Kaukonen & Jack Casady May 2015] |
+| **Bob Ludwig** | Lacquer Cut By |
+| **Joe Reagoso** | Mastered By |
+| **Alan Pappé** | Photography By |
+| **Al Schmitt** | Producer |
+| **The Walking Owls** | Sleeve [Album Title] |
+| **Paul Kantner** | Written-By |
+
 ## See also
 
 - [Crown Of Creation](Crown_Of_Creation.md)

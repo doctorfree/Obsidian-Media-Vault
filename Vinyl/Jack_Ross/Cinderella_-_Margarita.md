@@ -44,6 +44,12 @@ By Jack Ross
 | A | **Cinderella** | 3:27 |
 | B | **Margarita** | 2:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Norman Malkin** | Producer |
+
 ## See also
 
 - [](Jack_Ross.md)

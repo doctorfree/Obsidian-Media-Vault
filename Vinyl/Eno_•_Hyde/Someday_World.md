@@ -51,6 +51,21 @@ By Eno • Hyde
 | D1 | **When I Built This World** | 5:47 |
 | D2 | **To Us All** | 3:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Eno** | Composed By |
+| **Fred Gibson (2)** | Composed By |
+| **Karl Hyde** | Composed By |
+| **Brian Eno** | Cover |
+| **Nick Robertson (4)** | Design [Photographic Treatments] |
+| **Kevin Metcalfe** | Mastered By |
+| **Tessa Angus** | Photography By [Additional] |
+| **Karl Hyde** | Photography By [Front Cover], Photography By [Electricity Shots] |
+| **Brian Eno** | Producer |
+| **Fred Gibson (2)** | Producer |
+
 ## See also
 
 - [](Eno_•_Hyde.md)

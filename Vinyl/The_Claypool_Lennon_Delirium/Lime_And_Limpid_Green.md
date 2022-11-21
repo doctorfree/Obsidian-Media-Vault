@@ -46,6 +46,20 @@ By The Claypool Lennon Delirium
 | B1 | **The Court Of The Crimson King** |  |
 | B2 | **Satori** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ben Wittholz** | Artwork By [Original Cover Art & Layout By] |
+| **Les Claypool** | Bass, Vocals |
+| **Paulo Baldi** | Drums |
+| **Les Claypool** | Engineer |
+| **Sean Lennon** | Guitar, Vocals |
+| **Pete Drungle** | Keyboards |
+| **Stephen Marcussen** | Mastered By |
+| **Les Claypool** | Producer |
+| **Sean Lennon** | Producer |
+
 ## See also
 
 - [](The_Claypool_Lennon_Delirium.md)

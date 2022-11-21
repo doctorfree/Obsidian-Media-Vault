@@ -54,6 +54,22 @@ By Spirit
 | B5 | **Caught** | 3:10 |
 | B6 | **New Dope In Town** | 4:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Wilkes (2)** | Design |
+| **Armin Steiner** | Engineer |
+| **Eric Weinbang** | Engineer |
+| **John Stachowiak** | Engineer |
+| **Guy Webster** | Photography By |
+| **Lou Adler** | Producer |
+| **Ed Cassidy** | Written-By |
+| **Jay Ferguson** | Written-By |
+| **John Locke** | Written-By |
+| **Mark Andes** | Written-By |
+| **Randy California** | Written-By |
+
 ## See also
 
 - [Spirit](Spirit.md)

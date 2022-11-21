@@ -54,6 +54,31 @@ By Missing Persons
 | B5 | **Rock And Roll Suspension** | 2:34 |
 | B6 | **No Way Out** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dale Bozzio** | Arranged By, Vocals |
+| **Terry Bozzio** | Arranged By, Vocals |
+| **Warren Cuccurullo** | Arranged By, Vocals |
+| **Kurt Triffet** | Artwork, Design |
+| **Patrick O'Hearn** | Bass, Electric Bass, Synthesizer |
+| **Steve Brooks** | Coordinator [Production Coordinator] |
+| **Terry Bozzio** | Drums |
+| **Brian Leshon** | Engineer [Assistant] |
+| **Phil Jost** | Engineer [Assistant] |
+| **Ralph Sutton** | Engineer [Assistant] |
+| **Ken Scott** | Engineer, Producer, Management |
+| **Elmi Graphics** | Graphics [Dye Transfer (Color Retouching)] |
+| **Warren Cuccurullo** | Guitar |
+| **Chuck Wild** | Keyboards |
+| **Terry Bozzio** | Keyboards |
+| **Bernie Grundman** | Mastered By |
+| **Tracy Hill, Doug Powell, Cheri Gregg** | Other [Hair] |
+| **Angelika Schubert** | Other [Make-up] |
+| **Glen Wexler** | Photography By, Art Direction, Design |
+| **Terry Bozzio** | Written-By |
+
 ## See also
 
 - [](Missing_Persons.md)

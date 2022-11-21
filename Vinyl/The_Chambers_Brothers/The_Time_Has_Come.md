@@ -52,6 +52,18 @@ By The Chambers Brothers
 | B3 | **What The World Needs Now Is Love** |  |
 | B4 | **Time Has Come Today** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Keenan** | Performer |
+| **George Chambers (3)** | Performer |
+| **Joseph Chambers** | Performer |
+| **Lester Chambers** | Performer |
+| **Willie Chambers** | Performer |
+| **Jim Marshall (3)** | Photography By |
+| **David Rubinson** | Producer |
+
 ## See also
 
 - [](The_Chambers_Brothers.md)

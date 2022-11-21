@@ -50,6 +50,26 @@ By Black Oak Arkansas
 | B3 | **Lord Have Mercy On My Soul** | 6:15 |
 | B4 | **When Electricity Came To Arkansas** | 4:26 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Pat Daugherty** | Bass Guitar, Vocals |
+| **Eve Babitz** | Design, Photography By |
+| **Wayne Evans** | Drums |
+| **Brian Bruderlin** | Engineer |
+| **Lee D. Weisel** | Executive-Producer |
+| **Sheldon Krechman** | Executive-Producer |
+| **Harvey Jett** | Lead Guitar, Banjo, Piano, Vocals |
+| **Stanley Knight** | Lead Guitar, Steel Guitar, Organ, Vocals |
+| **Jim Dandy** | Lead Vocals, Washboard |
+| **Doc Siegel** | Mixed By |
+| **Jay Senter** | Mixed By |
+| **Lee Dorman** | Producer |
+| **Mike Pinera** | Producer |
+| **Rick Reynolds** | Twelve-String Guitar [Rhythm], Vocals |
+| **Black Oak Arkansas** | Written-By, Arranged By |
+
 ## See also
 
 - [](Black_Oak_Arkansas_index.md)

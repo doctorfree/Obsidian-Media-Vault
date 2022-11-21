@@ -51,6 +51,31 @@ By Joe Jackson
 | B3 | **Be My Number Two** | 4:18 |
 | B4 | **Heart Of Ice** | 6:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Graham Maby** | Bass |
+| **Jeremy Darby** | Coordinator [Production Coordinator] |
+| **Gary Burke** | Drums |
+| **Rik Pekkonen** | Engineer |
+| **Vinnie Zummo** | Guitar |
+| **Ed Roynesdal** | Keyboards, Violin |
+| **Quantum (12)** | Layout |
+| **Basement Music** | Management |
+| **John Telfer (2)** | Management |
+| **Bernie Grundman** | Mastered By |
+| **Dan Nash** | Mixed By [Mixdown Assistant] |
+| **Charles Reilly (2)** | Photography By |
+| **David Kershenbaum** | Producer |
+| **Joe Jackson** | Producer |
+| **Tony Aiello** | Saxophone, Flute |
+| **Frank Dickinson** | Technician [Digital Recording System] |
+| **Michael Morreale** | Trumpet, Flugelhorn |
+| **Elaine Caswell** | Vocals |
+| **Ellen Foley** | Vocals |
+| **Joe Jackson** | Vocals, Piano, Saxophone, Written-By, Arranged By |
+
 ## See also
 
 - [](Joe_Jackson.md)

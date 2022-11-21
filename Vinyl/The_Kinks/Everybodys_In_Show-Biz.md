@@ -73,6 +73,34 @@ By The Kinks
 | F3 | **History (Studio Outtake)** | 5:20 |
 | F4 | **Supersonic Rocket Ship (Alternate Mix)** | 4:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Davis, Wade & Farrell** | Art Direction, Design |
+| **John Sellards** | Artwork [Restoration] |
+| **Dave Jones (5)** | Baritone Saxophone, Clarinet |
+| **Alan Holmes (2)** | Baritone Saxophone, Clarinet, Flute |
+| **John Dalton** | Bass Guitar |
+| **Mick Avory** | Drums |
+| **Mike Bobak** | Engineer |
+| **Barry Hammond** | Engineer [Original Recording Engineers] |
+| **Martin Levan** | Engineer [Original Recording Engineers] |
+| **Mike Bobak** | Engineer [Original Recording Engineers] |
+| **Mike Butcher** | Engineer [Original Recording Engineers] |
+| **Ray Davies** | Guitar, Vocals |
+| **John Gosling (2)** | Keyboards, Accordion |
+| **Kevin Gray** | Lacquer Cut By |
+| **Dave Davies** | Lead Guitar, Vocals |
+| **Guy Massey** | Mixed By |
+| **Jørgen Angel** | Photography By [The Kinks At Roskilde] |
+| **Ray Davies** | Producer |
+| **Andrew Sandoval** | Producer [Reissue Producer For Sony Legacy] |
+| **Vic Anesini** | Remastered By |
+| **John Beecham** | Trombone, Tuba |
+| **Mike Cotton** | Trumpet |
+| **Ray Davies** | Words By, Music By |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

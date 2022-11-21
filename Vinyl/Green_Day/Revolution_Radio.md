@@ -54,6 +54,24 @@ By Green Day
 | B5 | **Forever Now** | 6:52 |
 | B6 | **Ordinary World** | 3:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Dirnt** | Bass, Vocals |
+| **Frank Maddocks** | Creative Director [Creative Direction], Photography By, Design |
+| **Tre Cool** | Drums, Percussion |
+| **Chris Dugan** | Engineer |
+| **Billie Joe Armstrong** | Guitar, Vocals |
+| **Pat Magnarella** | Management |
+| **Eric Boulanger (2)** | Mastered By |
+| **Andrew Scheps** | Mixed By |
+| **Justin Hergett** | Mixed By [Mix Assistant] |
+| **Nick Spanos** | Photography By [Cover Photo] |
+| **Green Day** | Producer |
+| **Andrew Buscher** | Technician [Guitar Tech] |
+| **Bill Schneider** | Technician [Guitar Tech] |
+
 ## See also
 
 - [American Idiot](American_Idiot.md)

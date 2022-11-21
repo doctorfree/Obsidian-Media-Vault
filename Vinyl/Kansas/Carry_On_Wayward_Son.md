@@ -44,6 +44,13 @@ By Kansas
 | A | **Carry On Wayward Son** | 3:26 |
 | B | **Questions Of My Childhood** | 3:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Kansas (2)** | Arranged By |
+| **Jeff Glixman** | Producer |
+
 ## See also
 
 - [Leftoverture](Leftoverture.md)

@@ -44,6 +44,14 @@ By Brenda & The Tabulations
 | A | **Dry Your Eyes** | 2:30 |
 | B | **The Wash** | 2:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Finiz** | Arranged By [Arr.], Producer [Prod. By] |
+| **Brenda Payton** | Written-By |
+| **Maurice Coates** | Written-By |
+
 ## See also
 
 - [](Brenda_and_The_Tabulations.md)

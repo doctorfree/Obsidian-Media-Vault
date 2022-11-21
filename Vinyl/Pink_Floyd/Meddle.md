@@ -48,6 +48,28 @@ By Pink Floyd
 | A5 | **Seamus** | 2:09 |
 | B | **Echoes** | 23:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roger Waters** | Bass Guitar, Vocals |
+| **Pink Floyd** | Composed By, Producer |
+| **Hipgnosis (2)** | Design [Album Cover] |
+| **Pink Floyd** | Design [Album Cover] |
+| **John Leckie** | Engineer [Air Studios, EMI Studios Abbey Road] |
+| **Peter Bown** | Engineer [Air Studios, EMI Studios Abbey Road] |
+| **Robin Black** | Engineer [Morgan Studios] |
+| **Roger Quested** | Engineer [Morgan Studios] |
+| **David Gilmour** | Guitar [Guitars], Vocals |
+| **Richard Wright** | Keyboards, Vocals |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Nick Mason** | Percussion |
+| **Hipgnosis (2)** | Photography By [Inner Sleeve Photo] |
+| **Robert Dowling** | Photography By [Outer Sleeve Photos] |
+| **Bernie Grundman** | Remastered By |
+| **James Guthrie** | Remastered By |
+| **Joel Plante** | Remastered By |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

@@ -47,6 +47,23 @@ By King Crimson
 | B1 | **Moonchild (Including (A) The Dream (B) The Illusion)** |  |
 | B2 | **The Court Of The Crimson King (Including (A) The Return Of The Fire Witch (B) The Dance Of The Puppets)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Greg Lake** | Bass Guitar, Lead Vocals |
+| **Barry Godber** | Cover, Artwork [Download Card] |
+| **Michael Giles** | Drums, Percussion, Vocals |
+| **Robin Thompson** | Engineer |
+| **Tony Page** | Engineer [Assistant Engineer] |
+| **Robert Fripp** | Guitar |
+| **John Dent** | Lacquer Cut By |
+| **King Crimson** | Producer [Produced By] |
+| **Ian McDonald** | Reeds, Woodwind, Vibraphone [Vibes], Keyboards, Mellotron, Vocals |
+| **Dik Fraser** | Technician [Equipment] |
+| **Richard Vickers** | Technician [Equipment] |
+| **Peter Sinfield** | Words By, Other [Illumination] |
+
 ## See also
 
 - [](King_Crimson.md)

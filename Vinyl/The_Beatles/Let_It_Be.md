@@ -54,6 +54,17 @@ By The Beatles
 | B4 | **For You Blue** | 2:33 |
 | B5 | **Get Back** | 3:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Kosh** | Design |
+| **Billy Preston** | Keyboards [Uncredited] |
+| **Sam Feldman** | Lacquer Cut By |
+| **Ethan Russell** | Photography By [Photographs By] |
+| **Phil Spector** | Producer [Reproduced For Disc] |
+| **George Martin** | Producer [Uncredited, Original Recordings] |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

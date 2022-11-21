@@ -50,6 +50,21 @@ By The Jackson 5
 | B3 | **You Need Love Like I Do (Don't You?)** | 4:25 |
 | B4 | **Dancing Machine** | 3:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **James Anthony Carmichael** | Arranged By [Vocals] |
+| **Suzee Ikeda** | Coordinator [& Production Assistant] |
+| **AGI (4)** | Design |
+| **Desmond Strobel** | Design |
+| **Berry Gordy** | Executive-Producer |
+| **Russ Terrana** | Mixed By |
+| **Jim Britt** | Photography By |
+| **Hal Davis** | Producer |
+| **Art Stewart** | Recorded By |
+| **Russ Terrana** | Recorded By |
+
 ## See also
 
 - [Greatest Hits](Greatest_Hits.md)

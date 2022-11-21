@@ -44,6 +44,12 @@ By Leon Haywood
 | A | **Dream Dream** | 3:12 |
 | B | **Let Me Make It Good To You** | 3:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Leon Haywood** | Producer |
+
 ## See also
 
 - [](Leon_Haywood.md)

@@ -44,6 +44,13 @@ By Johnnie Ray
 | A | **Please, Mr. Sun** |  |
 | B | **Here Am I - Broken Hearted** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Carroll** | Directed By [Orch.] |
+| **The Four Lads** | Featuring [With] |
+
 ## See also
 
 - [](Johnnie_Ray.md)

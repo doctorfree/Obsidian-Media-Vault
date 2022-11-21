@@ -58,6 +58,41 @@ By Soundgarden
 | D4 | **Like Suicide** |  |
 | D5 | **She Likes Surprises** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Josh Graham** | Art Direction [Reissue], Design [Reissue] |
+| **Ben Shepherd** | Bass, Vocals |
+| **Kelk** | Design [Original Front Cover] |
+| **Matt Cameron** | Drums, Percussion |
+| **Jason Corsaro** | Engineer |
+| **Adam Kasper** | Engineer [Assisted By], Mixed By [Assisted By] |
+| **Ron McMaster** | Lacquer Cut By |
+| **Kim Thayil** | Lead Guitar |
+| **Laffitte Management Group** | Management |
+| **The Artists Organization** | Management |
+| **William Morris Agency** | Management [Booking Agency] |
+| **Flood Bumstead MacCready & McCarthy** | Management [Business] |
+| **Provident Financial Management** | Management [Business] |
+| **VWC** | Management [Business] |
+| **King, Holmes, Paterno & Berliner** | Management [Legal Counsel] |
+| **Stephen Marcussen** | Mastered By [Reissue] |
+| **Alex Reed** | Mixed By |
+| **Brendan O'Brien** | Mixed By |
+| **Brendan O'Brien** | Mixed By |
+| **Michael Beinhorn** | Mixed By |
+| **Michael Beinhorn** | Mixed By |
+| **Kevin Westenberg** | Photography By [Band Photos, Reissue] |
+| **Michael Beinhorn** | Producer |
+| **Soundgarden** | Producer |
+| **Jeff Fura** | Producer [Reissue] |
+| **Liuba Shapiro** | Product Manager [Reissue] |
+| **Monique McGuffin** | Production Manager [Reissue] |
+| **Joe Hadlock** | Recorded By [Assisted By] |
+| **Kim Thayil** | Supervised By [Reissue] |
+| **Chris Cornell** | Vocals, Guitar |
+
 ## See also
 
 - [](Soundgarden.md)

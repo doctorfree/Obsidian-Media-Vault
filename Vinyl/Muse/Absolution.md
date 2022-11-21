@@ -56,6 +56,31 @@ By Muse
 | D2 | **Thoughts Of A Dying Atheist** | 3:11 |
 | D3 | **Ruled By Secrecy** | 4:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Audrey Riley** | Arranged By [Strings] |
+| **Matthew Bellamy** | Arranged By [Strings], Music By, Lyrics By, Vocals, Guitar, Keyboards |
+| **Dan Abbott (2)** | Design [Cover Design] |
+| **Storm Thorgerson** | Design [Cover Design] |
+| **Wally Gagel** | Engineer [Additional] |
+| **Rich Costey** | Engineer [Additional], Producer [Additional] |
+| **Wally Gagel** | Engineer, Engineer [Digital] |
+| **Lee Baker (6)** | Layout |
+| **Howie Weinberg** | Mastered By |
+| **Rich Costey** | Mixed By |
+| **Chris Wolstenholme** | Music By, Bass Guitar, Backing Vocals |
+| **Dominic Howard** | Music By, Drums, Percussion |
+| **Rupert Truman** | Photography By |
+| **Sean Winstanley** | Photography By |
+| **Perou** | Photography By [Band Photo] |
+| **Muse** | Producer |
+| **Paul Reeve** | Producer |
+| **John Cornfield** | Producer, Engineer |
+| **Rich Costey** | Producer, Engineer |
+| **Sam Winston (2)** | Typography [Typographic Book] |
+
 ## See also
 
 - [Black Holes And Revelations](Black_Holes_And_Revelations.md)

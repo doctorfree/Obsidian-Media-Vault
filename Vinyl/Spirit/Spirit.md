@@ -53,6 +53,25 @@ By Spirit
 | B4 | **The Great Canyon Fire In General** | 2:50 |
 | B5 | **Elijah** | 10:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Marty Paich** | Arranged By [Strings, Horns] |
+| **Tom Wilkes (2)** | Art Direction |
+| **Mark Andes** | Bass, Vocals |
+| **Corporate Head** | Design [Album Design] |
+| **Ed Cassidy** | Drums, Percussion |
+| **Armin Steiner** | Engineer |
+| **Eirik W. Wangberg** | Engineer |
+| **Michael Lietz** | Engineer |
+| **Randy California** | Guitar |
+| **John Locke** | Keyboards |
+| **Jay Thompson (4)** | Photography By [Back Cover] |
+| **Guy Webster** | Photography By [Cover] |
+| **Lou Adler** | Producer |
+| **Jay Ferguson** | Vocals, Percussion |
+
 ## See also
 
 - [Clear](Clear.md)

@@ -44,6 +44,24 @@ By The Special Guests
 | A | **I'm In Love With You** | 1:49 |
 | B | **It's Not You** | 3:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Greenfield** | Alto Saxophone, Vocals |
+| **Paul Foglino** | Bass |
+| **The Special Guests (3)** | Design [Cover] |
+| **Dave Helberg** | Drums |
+| **Kramer (2)** | Engineer |
+| **Mark Ettinger (2)** | Keyboards, Vocals |
+| **Joe Brescio** | Lacquer Cut By |
+| **Wally Griffith** | Lead Guitar |
+| **Tom Meltzer** | Lead Vocals, Rhythm Guitar |
+| **Samantha McCormick** | Photography By |
+| **Kramer (2)** | Producer |
+| **Ted Houghton** | Producer |
+| **Jennifer Collins (2)** | Tenor Saxophone |
+
 ## See also
 
 - [](The_Special_Guests.md)

@@ -46,6 +46,18 @@ By Wendy Carlos
 |  | **Concerto No. 2 In F Major. BWV 1047** |  |
 |  | **Concerto No. 6 In B Flat Major, BWV 1051 ** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Johann Sebastian Bach** | Composed By |
+| **Andrea Klein** | Design |
+| **John Berg** | Design |
+| **James Grashow** | Illustration [Woodcut] |
+| **Wendy Carlos** | Interviewee |
+| **Allan Kozinn** | Liner Notes, Interviewer |
+| **Rachel Elkind** | Producer |
+
 ## See also
 
 - [Wendy Carlos's Clockwork Orange (Complete Original Score)](Wendy_Carloss_Clockwork_Orange_Complete_Original_Score.md)

@@ -47,6 +47,30 @@ By Chris Squire
 | B1 | **Lucky Seven** | 6:57 |
 | B2 | **Safe (Canon Song)** | 14:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Squire** | Arranged By, Producer, Written-By |
+| **Chris Squire** | Bass, Guitar, Vocals |
+| **Bill Bruford** | Drums, Percussion |
+| **Gregg Jackman** | Engineer |
+| **Nigel Luby** | Engineer [Assistant] |
+| **Jimmy Hastings** | Flute |
+| **David Snell (2)** | Harp |
+| **Arun Chakraverty** | Lacquer Cut By |
+| **John Wilbraham** | Leader [Brass Sections] |
+| **Jim Buck** | Leader [Horn Sections] |
+| **Julian Gaillard** | Leader [String Sections] |
+| **Adrian Brett** | Leader [Woodwind Sections] |
+| **Barry Rose** | Organ [Pipe] |
+| **Patrick Moraz** | Organ, Synthesizer [Bass] |
+| **Brian Lane (3)** | Photography By [Frontcover Polaroid] |
+| **Laurence Bernes** | Photography By, Artwork By [Cover Design] |
+| **Andrew Pryce Jackman** | Piano, Electric Piano, Conductor |
+| **Mel Collins** | Saxophone |
+| **Nikki Squire** | Vocals |
+
 ## See also
 
 - [](Chris_Squire.md)

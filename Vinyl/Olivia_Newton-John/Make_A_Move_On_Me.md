@@ -44,6 +44,12 @@ By Olivia Newton-John
 | A | **Make A Move On Me** | 3:17 |
 | B | **Falling** | 3:44 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Farrar** | Producer [Produced By] |
+
 ## See also
 
 - [Physical](Physical.md)

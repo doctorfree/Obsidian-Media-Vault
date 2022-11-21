@@ -57,6 +57,19 @@ Mono
 | B4 | **4 Eyes** | 2:53 |
 | B5 | **Summer In The City** | 2:39 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Henry Diltz** | Clarinet, Photography By |
+| **Larry Hankin** | Jew's Harp |
+| **Kevin Gray** | Lacquer Cut By |
+| **Erik Jacobsen** | Producer |
+| **John Sebastian** | Written-By |
+| **Mark Sebastian** | Written-By |
+| **Steve Boone** | Written-By |
+| **Zal Yanovsky** | Written-By |
+
 ## See also
 
 - [Darling Be Home Soon / Darlin' Companion](Darling_Be_Home_Soon_-_Darlin_Companion.md)

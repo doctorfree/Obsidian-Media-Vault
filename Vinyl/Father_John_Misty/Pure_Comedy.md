@@ -55,6 +55,13 @@ By Father John Misty
 | D1 | **So I'm Growing Old On Magic Mountain** |  |
 | D2 | **In Twenty Years Or So** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Bellman** | Lacquer Cut By |
+| **J. Tillman** | Written-By |
+
 ## See also
 
 - [Fear Fun](Fear_Fun.md)

@@ -54,6 +54,15 @@ By The Ventures
 | B5 | **The McCoy** | 2:12 |
 | B6 | **Honky Tonk** | 2:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Pate/Francis & Associates** | Design [Cover] |
+| **Joe Boles** | Engineer |
+| **Garrett-Howard** | Photography By [Cover] |
+| **Bob Reisdorff** | Producer |
+
 ## See also
 
 - [](The_Ventures.md)

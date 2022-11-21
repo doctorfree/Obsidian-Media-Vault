@@ -49,6 +49,35 @@ By Deep Purple
 | C2 | **Lazy** |  |
 | D | **Space Truckin'** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roger Glover** | Bass |
+| **Warner Pioneer Recording Unit** | Coordinator [Co-ordination] |
+| **Roger Glover** | Design [Cover Design] |
+| **Ian Paice** | Drums |
+| **Martin Birch** | Engineer |
+| **Kevin Flegg** | Engineer [Marshall Engineer] |
+| **Ron McMaster** | Lacquer Cut By |
+| **Ritchie Blackmore** | Lead Guitar |
+| **Joe Reagoso** | Mastered By |
+| **Ian Paice** | Mixed By |
+| **Roger Glover** | Mixed By |
+| **Jon Lord** | Organ, Piano |
+| **Fin Costello** | Photography By |
+| **Deep Purple** | Producer |
+| **Colin Hart (2)** | Technician [Equipment] |
+| **Ian Hansford** | Technician [Equipment] |
+| **Rob Cooksey** | Technician [Equipment] |
+| **Ron Quinton** | Technician [Equipment] |
+| **Ian Gillan** | Vocals |
+| **Ian Gillan** | Written-By |
+| **Ian Paice** | Written-By |
+| **Jon Lord** | Written-By |
+| **Ritchie Blackmore** | Written-By |
+| **Roger Glover** | Written-By |
+
 ## See also
 
 - [Burn](Burn.md)

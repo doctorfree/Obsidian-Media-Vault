@@ -44,6 +44,15 @@ By Barbara Acklin
 | A | **Love Makes A Woman** | 2:49 |
 | B | **Come And See Me Baby** | 2:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sonny Sanders** | Arranged By |
+| **Gerald Sims** | Directed By [Orchestra] |
+| **Carl Davis** | Producer |
+| **Eugene Record** | Producer |
+
 ## See also
 
 - [](Barbara_Acklin.md)

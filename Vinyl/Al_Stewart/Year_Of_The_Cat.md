@@ -44,6 +44,14 @@ By Al Stewart
 | A | **Year Of The Cat** | 4:32 |
 | B | **Broadway Hotel** | 3:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Allen Zentz** | Mastered By |
+| **Alan Parsons** | Producer |
+| **Al Stewart** | Written-By |
+
 ## See also
 
 - [](Al_Stewart.md)

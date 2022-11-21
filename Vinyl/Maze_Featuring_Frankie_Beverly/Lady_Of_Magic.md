@@ -44,6 +44,13 @@ By Maze Featuring Frankie Beverly
 | A | **Lady Of Magic** | 3:33 |
 | B | **Time Is On My Side** | 5:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ken Perry** | Lacquer Cut By |
+| **Frankie Beverly** | Producer, Arranged By, Written-By |
+
 ## See also
 
 - [](Maze_Featuring_Frankie_Beverly.md)

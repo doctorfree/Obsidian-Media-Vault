@@ -44,6 +44,12 @@ By Wings
 | A | **Goodnight Tonight** | 7:25 |
 | B | **Daytime Nightime Suffering** | 3:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul McCartney** | Written-By |
+
 ## See also
 
 - [London Town](London_Town.md)

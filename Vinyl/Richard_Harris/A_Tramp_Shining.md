@@ -51,6 +51,12 @@ By Richard Harris
 | B3 | **If You Must Leave My Life** | 3:18 |
 | B4 | **A Tramp Shining** | 2:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Webb** | Producer |
+
 ## See also
 
 - [](Richard_Harris.md)

@@ -53,6 +53,16 @@ By Paul Horn
 | B5 | **Mantra II / Duality** | 2:24 |
 | B6 | **Ustad Isa / Mantra III** | 2:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Archer (5)** | Engineer [Recording] |
+| **Kip Kipnis** | Liner Notes |
+| **Earl Barton (2)** | Photography By |
+| **Larry Kurland** | Photography By |
+| **Paul Horn** | Producer, Liner Notes |
+
 ## See also
 
 - [Dream Machine](Dream_Machine.md)

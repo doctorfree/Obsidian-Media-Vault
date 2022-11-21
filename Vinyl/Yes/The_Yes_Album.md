@@ -53,6 +53,12 @@ By Yes
 | B2 | **A Venture** | 3:13 |
 | B3 | **Perpetual Change** | 8:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron McMaster** | Lacquer Cut By |
+
 ## See also
 
 - [Close To The Edge](Close_To_The_Edge.md)

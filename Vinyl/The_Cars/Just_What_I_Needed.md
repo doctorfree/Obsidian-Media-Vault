@@ -44,6 +44,14 @@ By The Cars
 | A | **Just What I Needed** | 3:44 |
 | B | **I'm In Touch With Your World** | 3:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Geoff Workman** | Engineer |
+| **Roy Thomas Baker** | Producer |
+| **Ric Ocasek** | Written-By |
+
 ## See also
 
 - [My Best Friend's Girl](My_Best_Friends_Girl.md)

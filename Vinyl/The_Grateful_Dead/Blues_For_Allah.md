@@ -53,6 +53,29 @@ By The Grateful Dead
 | B3b | **Sand Castles & Glass Camels** | 5:26 |
 | B3c | **Unusual Occurances In The Desert** | 3:48 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phil Lesh** | Bass, Vocals |
+| **Bill Kreutzmann** | Drums, Percussion |
+| **Robbie Taylor (3)** | Engineer [Assistant] |
+| **Dan Healy** | Engineer, Mixed By |
+| **Bob Weir** | Guitar, Vocals |
+| **Jerry Garcia** | Guitar, Vocals |
+| **Keith Godchaux** | Keyboards, Vocals |
+| **Robert Hunter** | Lyrics By |
+| **Philip Garris** | Painting [Cover] |
+| **Mickey Hart** | Percussion, Effects [Crickets] |
+| **The Grateful Dead** | Producer, Mixed By |
+| **Steve Schuster** | Reeds, Flute |
+| **Betty Cantor** | Technician [Production Assistant] |
+| **Bob Matthews** | Technician [Production Assistant] |
+| **Brett Cohen** | Technician [Production Assistant] |
+| **Ram Rod** | Technician [Production Assistant] |
+| **Steve Brown (12)** | Technician [Production Assistant] |
+| **Donna Godchaux** | Vocals |
+
 ## See also
 
 - [Built To Last](Built_To_Last.md)

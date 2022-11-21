@@ -53,6 +53,33 @@ By Steven Wilson
 | D1 | **Detonation** | 9:19 |
 | D2 | **Song Of Unborn** | 5:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Shulman** | Authoring [Blu-Ray And DVD] |
+| **Neil Warnock** | Booking |
+| **Steve Martin (18)** | Booking |
+| **Paul Stacey** | Co-producer, Engineer |
+| **Isobel Griffiths** | Contractor [Orchestral Session Fixed By] |
+| **Rob Carmichael (2)** | Design |
+| **Keith Prior** | Engineer [Assistance] |
+| **Steve Price (6)** | Engineer [Strings And Choir] |
+| **Andy Partridge** | Lyrics By |
+| **Steven Wilson** | Lyrics By |
+| **Penny Morgan** | Management |
+| **Peter Rudge** | Management |
+| **Tim Young** | Mastered By |
+| **Cenzo Townshend** | Mixed By |
+| **Paul 'P-Dub' Walton** | Mixed By |
+| **Steven Wilson** | Mixed By |
+| **Steven Wilson** | Music By |
+| **Stephen Humphries** | Other [Recording Journal And Interviews] |
+| **Lasse Hoile** | Photography By |
+| **Steven Wilson** | Producer |
+| **Dave Stewart** | Producer [Strings And Choir] |
+| **Benoît Corboz** | Recorded By [Sophie's Vocals] |
+
 ## See also
 
 - [Grace For Drowning](Grace_For_Drowning.md)

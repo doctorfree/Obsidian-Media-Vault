@@ -51,6 +51,37 @@ By Tim Curry
 | B3 | **Something Short Of Paradise** | 3:20 |
 | B4 | **Charge It** | 5:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Sanborn** | Alto Saxophone |
+| **Roland Young (3)** | Art Direction |
+| **Arnold McCuller** | Backing Vocals |
+| **David Lasley** | Backing Vocals |
+| **Ula Hedwig** | Backing Vocals |
+| **Bob Babbitt** | Bass |
+| **Larry Williams (9)** | Design [Artwork By], Photography By |
+| **Paula Greif** | Design [Artwork By], Photography By |
+| **Charles Collins** | Drums, Percussion |
+| **Bruce Tergesen** | Engineer |
+| **Kevin Herron** | Engineer |
+| **David Prentice** | Engineer [Assistant] |
+| **Jesse Henderson (2)** | Engineer [Assistant] |
+| **Jon Smith (3)** | Engineer [Assistant] |
+| **Scott Macpherson** | Engineer [Assistant] |
+| **Michael Kamen** | Keyboards, Oboe, Synthesizer [Arps] |
+| **Dick Wagner** | Lead Guitar, Acoustic Guitar |
+| **Clodagh Wallace** | Management |
+| **Bob Ludwig** | Mastered By |
+| **Jimmy Maelen** | Percussion |
+| **Allan Schwartzberg** | Percussion [Mouth Percussion] |
+| **Bette Sussman** | Piano, Other [Fender], Electric Piano [Rhodes], Clavinet, Organ |
+| **Dick Wagner** | Producer |
+| **Michael Kamen** | Producer |
+| **Michael Tschudin** | Synthesizer |
+| **Tim Curry** | Vocals |
+
 ## See also
 
 - [](Tim_Curry.md)

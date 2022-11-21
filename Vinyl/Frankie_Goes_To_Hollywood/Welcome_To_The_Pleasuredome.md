@@ -63,6 +63,59 @@ By Frankie Goes To Hollywood
 | D4 | **The Power Of Love** | 5:29 |
 | D5 | **Bang...** | 1:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Howe** | Acoustic Guitar |
+| **Anne Dudley** | Arranged By [String Arrangement] |
+| **XLZTT** | Art Direction [Dome Souvenirs Models Were Ordered About By] |
+| **Lo Cole** | Artwork [Colours On The Cover] |
+| **Mark O'Toole** | Bass, Vocals |
+| **ZTT** | Coordinator [Co-ordination] |
+| **Bazaar (12)** | Costume Designer [Pleasure Guard-In Clothes] |
+| **Jean Paul Gaultier** | Costume Designer [Pleasure Guard-In Clothes] |
+| **XL Design** | Design |
+| **ZTT** | Design |
+| **Peter Gill** | Drums |
+| **Stuart Bruce** | Engineer [The Lads Were Engineered By] |
+| **Stephen Lipson** | Engineer, Producer [Production Assistant] |
+| **Brian Nash** | Guitar |
+| **Stephen Lipson** | Guitar [Lipson Service Guitar] |
+| **Anne Dudley** | Keyboards [Additional] |
+| **Andy Richards** | Keyboards, Other [Pottery] |
+| **Greg Calbi** | Lacquer Cut By [Runout Etching ☆] |
+| **Holly Johnson** | Lead Vocals [The Voice] |
+| **Debbie Bunn** | Make-Up [Dome Souvenirs Models Made Up By] |
+| **Lynne Easton** | Make-Up [Pleasure Guard-In Make Up] |
+| **Nu-Visions Management Ltd.** | Management |
+| **Greg Calbi** | Mastered By |
+| **Ian Cooper** | Mastered By |
+| **Paul Rutherford** | Model [Dome Souvenirs Modelled By] |
+| **Luis Jardim** | Percussion, Other [Cignals] |
+| **Anton Corbijn** | Photography By [Black And White, Dutch Pink] |
+| **Peter Brown (23)** | Photography By [Dome Souvenirs] |
+| **Steve Romney** | Photography By [Party] |
+| **Peter Ashworth** | Photography By [Pleasure Guard-In] |
+| **John Stoddart (2)** | Photography By [Pre Bang Liverpool] |
+| **Tony Barratt (2)** | Photography By [Video] |
+| **Eric Watson (3)** | Photography By [Wargames] |
+| **Trevor Horn** | Producer [Produced And All That] |
+| **Stephen Lipson** | Soloist, Guitar [Lipson Service Guitar] |
+| **Iain R. Webb** | Stylist [Dome Souvenirs Models Styled By] |
+| **Bashia (2)** | Stylist [Pleasure Guard-In Stylist] |
+| **J.J. Jeczalik** | Technician [Software, Hardware], Other [The Fifth Dimension] |
+| **Paul Morley** | Text By [Acted During The Bang] |
+| **Paul Rutherford** | Vocals, Other ['I Came To Dance'] |
+| **Christopher Barrie** | Voice Actor [Acted During The Bang] |
+| **Patrick Allen** | Voice Actor [Acted During The Bang] |
+| **Andy Richards** | Written-By |
+| **Bacharach And David** | Written-By |
+| **Bruce Springsteen** | Written-By |
+| **Frankie Goes To Hollywood** | Written-By |
+| **Gerry Marsden** | Written-By |
+| **Whitfield-Strong** | Written-By |
+
 ## See also
 
 - [](Frankie_Goes_To_Hollywood.md)

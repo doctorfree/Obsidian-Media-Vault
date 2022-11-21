@@ -61,6 +61,26 @@ By Jerry Lee Lewis
 | D4 | **What'd I Say** | 4:58 |
 |  | **Rock & Roll Medley** | 3:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Robin McBride** | A&R |
+| **Jim Ladwig** | Art Direction |
+| **John Youssi** | Design |
+| **Martin Rushent** | Engineer |
+| **Geoff Young** | Engineer [Asst. Eng.] |
+| **John Bromley** | Engineer [Asst. Eng.] |
+| **Paul Hardiman** | Engineer [Asst. Eng.] |
+| **Charles Fach** | Executive-Producer |
+| **Gilbert Kong** | Lacquer Cut By |
+| **Joe Sundwall** | Lettering |
+| **Gilbert Kong** | Mastered By |
+| **Barrie Wentzell** | Photography By |
+| **Steve Rowland** | Producer |
+| **Jerry Lee Lewis** | Vocals, Electric Piano |
+| **Jerry Lee Lewis** | Vocals, Piano |
+
 ## See also
 
 - [Waiting For A Train (All Around The Watertank)](Waiting_For_A_Train_All_Around_The_Watertank.md)

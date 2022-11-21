@@ -44,6 +44,15 @@ By Antonín Dvořák - István Kertész - The London Symphony Orchestra
 |  | **Symphony No. 9 In E Minor, Op. 95** |  |
 | B2 | **"Othello" Overture, Op. 93** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Antonín Dvořák** | Composed By |
+| **István Kertész** | Conductor |
+| **Pieter Bruegel the Elder** | Cover [Painting; Uncredited; <i>"The Peasant Wedding"</i>] |
+| **The London Symphony Orchestra** | Orchestra |
+
 ## See also
 
 - [](Antonín_Dvořák_-_István_Kertész_-_The_London_Symphony_Orchestra.md)

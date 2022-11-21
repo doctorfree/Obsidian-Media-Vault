@@ -49,6 +49,12 @@ By The Dave Brubeck Quartet
 | B3 | **Everybody's Jumpin'** |  |
 | B4 | **Pick Up Sticks** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Race** | Sleeve Notes |
+
 ## See also
 
 - [](The_Dave_Brubeck_Quartet.md)

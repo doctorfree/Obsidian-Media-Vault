@@ -48,6 +48,16 @@ By "Johann Sebastian Bach, Isang Enders"
 | E | **Suite Nr. 1 G - Dur BWV 1007** |  |
 | F | **Suite Nr. 6 D - Dur BWV 1012** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Johann Sebastian Bach** | Composed By |
+| **Taeuk Kang** | Cover |
+| **Daniel Enders** | Design |
+| **Bernhard Güttler** | Producer [Recording] |
+| **Isang Enders** | Violoncello |
+
 ## See also
 
 - [](Johann_Sebastian_Bach__Isang_Enders.md)

@@ -43,6 +43,13 @@ By The Spinning Wighats
 |--------------|-----------|--------------|
 | A | **I Can't Hide** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Wilson (3)** | Written-By |
+| **Cyril Jordan** | Written-By |
+
 ## See also
 
 - [](The_Spinning_Wighats.md)

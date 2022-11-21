@@ -82,6 +82,12 @@ By The Four Seasons
 | D9 | **The Sun Ain't Gonna Shine Anymore** |  |
 | D10 | **Stay** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Hicks (5)** | Design [Jacket] |
+
 ## See also
 
 - [Walk Like A Man](Walk_Like_A_Man.md)

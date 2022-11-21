@@ -49,6 +49,36 @@ By Jethro Tull
 |  | **Baker St. Muse** |  |
 | B3 | **Grace** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joe Garnett** | Artwork [Front Cover] |
+| **Ron Kriss** | Artwork [Front Cover] |
+| **Phil Smee** | Artwork [Reissue] |
+| **Jeffrey Hammond-Hammond** | Bass Guitar, Double Bass [String Bass] |
+| **Katherine Thulborn** | Cello |
+| **David Palmer (2)** | Conductor, Written-By [Arrangements For Orchestra] |
+| **Barriemore Barlow** | Drums, Percussion |
+| **Martin Barre** | Electric Guitar |
+| **Robin Black** | Engineer |
+| **Patrick Halling** | Leader, Violin |
+| **Jo Blair** | Management [Marketing] |
+| **Steven Wilson** | Mixed By [Stereo Remix] |
+| **Brian Ward (5)** | Photography By |
+| **Carl Dunn** | Photography By [Main] |
+| **John Evan** | Piano, Organ |
+| **Ian Anderson** | Producer |
+| **Martin Webb** | Research [Additional, Reissue], Sleeve Notes [Reissue] |
+| **Don Needham** | Research [Audio Research And Assistance, Reissue] |
+| **Tim Chacksfield** | Research [Reissue], Coordinator [Project Co-ordination, Reissue] |
+| **Bridget Procter** | Violin |
+| **Elizabeth Edwards** | Violin |
+| **Rita Eddowes** | Violin |
+| **Ian Anderson** | Vocals [Sang], Acoustic Guitar, Flute |
+| **Ian Anderson** | Written-By [All Compositions] |
+| **David Palmer (2)** | Written-By [Arrangements For Orchestra] |
+
 ## See also
 
 - [Aqualung (The 2011 Steven Wilson Stereo Remix)](Aqualung_The_2011_Steven_Wilson_Stereo_Remix.md)

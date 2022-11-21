@@ -53,6 +53,29 @@ By Fleetwood Mac
 | B4 | **Oh Daddy** | 3:54 |
 | B5 | **Gold Dust Woman** | 5:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John McVie** | Bass |
+| **Fleetwood Mac** | Design [Concept] |
+| **Herbert Wheeler Worthington III** | Design [Concept] |
+| **Desmond Strobel** | Design [Original Album Design] |
+| **Mick Fleetwood** | Drums, Percussion |
+| **Ken Caillat** | Engineer |
+| **Richard Dashut** | Engineer |
+| **Chris Morris (2)** | Engineer [Assisted] |
+| **Lindsey Buckingham** | Guitar, Vocals |
+| **Christine McVie** | Keyboards, Synthesizer, Vocals |
+| **Kevin Gray** | Mastered By, Lacquer Cut By |
+| **Steve Hoffman** | Mastered By, Lacquer Cut By |
+| **Herbert Wheeler Worthington III** | Photography By |
+| **Fleetwood Mac** | Producer |
+| **Ken Caillat** | Producer [With] |
+| **Richard Dashut** | Producer [With] |
+| **Larry Vigon** | Typography [Hand Lettering] |
+| **Stevie Nicks** | Vocals |
+
 ## See also
 
 - [Don't Stop / Never Going Back Again](Dont_Stop_-_Never_Going_Back_Again.md)

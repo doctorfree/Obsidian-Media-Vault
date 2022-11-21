@@ -62,6 +62,35 @@ By Willie Nelson And Leon Russell
 | D4 | **Stormy Weather** | 2:35 |
 | D5 | **One For My Baby And "One More For The Road"** | 2:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Leon Russell** | Arranged By |
+| **Virginia Team** | Art Direction |
+| **Jim Boatman** | Backing Vocals |
+| **Bee Spears** | Bass |
+| **Chris Ethridge** | Bass |
+| **Bill Johnson (12)** | Design |
+| **Paul English** | Drums |
+| **Rex Ludwick** | Drums |
+| **Roger Linn** | Engineer |
+| **Jody Payne** | Guitar, Backing Vocals |
+| **Mickey Raphael** | Harmonica |
+| **Bernie Grundman** | Mastered By |
+| **John Gallie** | Organ |
+| **Ambrose Adekoya Campbell** | Percussion |
+| **Charlyn Zlotnik** | Photography By [Back Photograph & Inner Gatefold] |
+| **Melinda Wilkman** | Photography By [Front Photograph] |
+| **Larry Dixon (2)** | Photography [Inner Gatefold] |
+| **Tom Kemp** | Photography [Inner Gatefold] |
+| **Leon Russell** | Producer |
+| **Willie Nelson** | Producer |
+| **Marty Grebb** | Saxophone |
+| **Willie Nelson** | Vocals |
+| **Willie Nelson** | Vocals, Guitar |
+| **Leon Russell** | Vocals, Keyboards |
+
 ## See also
 
 - [](Willie_Nelson_And_Leon_Russell.md)

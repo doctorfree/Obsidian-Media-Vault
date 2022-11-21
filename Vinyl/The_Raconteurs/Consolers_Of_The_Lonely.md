@@ -56,6 +56,45 @@ By The Raconteurs
 | D2 | **These Stones Will Shout** |  |
 | D3 | **Carolina Drama** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brendan Benson** | Arranged By [Horns] |
+| **Jack White (2)** | Arranged By [Horns] |
+| **Wayne Jackson** | Arranged By [Horns] |
+| **The Raconteurs** | Arranged By [Songs] |
+| **Brandy St.John** | Artwork [General Garmentry & Bewitchery] |
+| **Jack Lawrence** | Bass, Banjo, Backing Vocals [Bass, Banjo And Back-up Vocality] |
+| **Dean Fertita** | Clavinet |
+| **Patrick Keeler** | Design [Packaging], Layout |
+| **Rob Jones** | Design [Packaging], Layout |
+| **Patrick Keeler** | Drums, Percussion [Drums And Repercussions] |
+| **Joe Chiccarelli** | Engineer |
+| **Lowell Reynolds** | Engineer [Assistant Engineer For Recording And Mixing] |
+| **Vance Powell** | Engineer [Mix Down Engineer] |
+| **Dirk Powell** | Fiddle |
+| **The Memphis Horns** | Horns |
+| **Jack Hale, Sr.** | Horns [The Memphis Horns] |
+| **Tom McGinley (2)** | Horns [The Memphis Horns] |
+| **Wayne Jackson** | Horns [The Memphis Horns] |
+| **Kevin Gray** | Lacquer Cut By |
+| **Ian Montone** | Management |
+| **Vlado Meller** | Mastered By |
+| **Mark Santangelo** | Mastered By [Assistant] |
+| **Kevin Gray** | Mastered By [Vinyl] |
+| **Jack White (2)** | Mixed By |
+| **Tiffany Steffens** | Other [Hand Model And Devil's Advocate] |
+| **Stephen Berkman** | Photography By [Tintype] |
+| **Brendan Benson** | Producer |
+| **Jack White (2)** | Producer |
+| **Angela Messina** | Set Designer [Set Deconstructor] |
+| **The Flory Dory Girls** | Vocals [Female] |
+| **Brendan Benson** | Vocals, Guitar [Sing, String, Ring, Ding, Dong] |
+| **Jack White (2)** | Vocals, Guitar, Synthesizer, Piano, Organ [Vocals, Frets, Stylophone, Pianos And Vital Organs], Stylophone |
+| **Brendan Benson** | Written-By |
+| **Jack White (2)** | Written-By |
+
 ## See also
 
 - [Broken Boy Soldiers](Broken_Boy_Soldiers.md)

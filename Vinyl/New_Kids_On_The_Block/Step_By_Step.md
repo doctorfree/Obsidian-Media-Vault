@@ -44,6 +44,17 @@ By New Kids On The Block
 | A | **Step By Step** | 4:27 |
 | B | **Valentine Girl** | 3:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Maurice Starr** | Arranged By, Producer, Written-By |
+| **Leo Okeke** | Engineer |
+| **Sidney Burton** | Engineer |
+| **Dick Scott (3)** | Executive-Producer |
+| **Howie Weinberg** | Mastered By |
+| **Maurice Starr** | Written-By |
+
 ## See also
 
 - [](New_Kids_On_The_Block.md)

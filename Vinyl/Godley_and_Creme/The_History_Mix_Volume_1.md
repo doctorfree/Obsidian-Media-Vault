@@ -49,6 +49,17 @@ By Godley & Creme
 | B4 | **Save A Mountain For Me** | 3:34 |
 | B5 | **Golden Boy** | 5:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eric Stewart** | Producer, Performer |
+| **Godley & Creme** | Producer, Performer |
+| **Graham Gouldman** | Producer, Performer |
+| **J.J. Jeczalik** | Producer, Performer |
+| **Nigel Gray** | Producer, Performer |
+| **Trevor Horn** | Producer, Performer |
+
 ## See also
 
 - [](Godley_and_Creme.md)

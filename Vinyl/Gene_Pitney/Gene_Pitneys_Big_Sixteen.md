@@ -58,6 +58,16 @@ By Gene Pitney
 | B7 | **Take Me Tonight** | 2:33 |
 | B8 | **Half Heaven - Half Heartache** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alan Lorber** | Arranged By, Conductor |
+| **Burt Bacharach** | Arranged By, Conductor |
+| **Jerry Ragovoy** | Arranged By, Conductor |
+| **Norman Art Studio** | Cover, Design |
+| **Bacharach And David** | Written-By |
+
 ## See also
 
 - [](Gene_Pitney.md)

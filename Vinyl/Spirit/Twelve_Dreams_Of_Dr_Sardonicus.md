@@ -54,6 +54,20 @@ By Spirit
 | B5 | **Morning Will Come** | 2:58 |
 | B6 | **Soldier** | 2:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bruce McCauley** | Art Direction |
+| **John Locke** | Art Direction |
+| **Carl Rowatti** | Lacquer Cut By |
+| **Bruce McCauley** | Photography By [Back Photograph], Graphics |
+| **Ira Cohen** | Photography By [Color Photographs] |
+| **David Briggs** | Producer |
+| **Jay Ferguson** | Written-By |
+| **John Locke** | Written-By |
+| **Randy California** | Written-By |
+
 ## See also
 
 - [Clear](Clear.md)

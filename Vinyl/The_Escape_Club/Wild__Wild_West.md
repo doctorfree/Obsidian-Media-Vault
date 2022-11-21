@@ -44,6 +44,14 @@ By The Escape Club
 | A | **Wild, Wild West** | 3:59 |
 | B | **We Can Run** | 3:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Hellman** | Engineer |
+| **Chris Kimsey** | Producer |
+| **The Escape Club** | Written-By |
+
 ## See also
 
 - [](The_Escape_Club.md)

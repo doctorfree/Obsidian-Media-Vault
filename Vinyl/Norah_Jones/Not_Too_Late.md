@@ -55,6 +55,30 @@ By Norah Jones
 | B6 | **Rosie's Lullaby** | 3:56 |
 | B7 | **Not Too Late** | 3:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jesse Harris** | Acoustic Guitar |
+| **Carla Leighton** | Art Direction, Design |
+| **Lee Alexander** | Bass |
+| **Andrew Borger** | Drums |
+| **Adam Levy** | Electric Guitar |
+| **Norah Jones** | Electric Piano [Wurlitzer] |
+| **Tom Schick** | Engineer |
+| **Yohei Goto** | Engineer [Assistant] |
+| **Greg Calbi** | Mastered By |
+| **Lee Alexander** | Mixed By |
+| **Tom Schick** | Mixed By, Recorded By |
+| **Larry Goldings** | Organ [Hammond B-3] |
+| **Melanie Little Gomez** | Painting |
+| **Todd Chalfant** | Photography By |
+| **Norah Jones** | Piano |
+| **Lee Alexander** | Producer |
+| **Norah Jones** | Vocals |
+| **Lee Alexander** | Written-By |
+| **Norah Jones** | Written-By |
+
 ## See also
 
 - [Come Away With Me](Come_Away_With_Me.md)

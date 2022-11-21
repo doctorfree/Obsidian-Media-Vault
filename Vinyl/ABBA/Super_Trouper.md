@@ -52,6 +52,16 @@ By ABBA
 | B4 | **Lay All Your Love On Me** | 4:33 |
 | B5 | **The Way Old Friends Do** | 2:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rune Söderqvist** | Design [Album Design] |
+| **Michael B. Tretow** | Engineer |
+| **George Piros** | Lacquer Cut By |
+| **Lars Larsson (2)** | Photography By [Photo] |
+| **Björn Ulvaeus & Benny Andersson** | Songwriter [All Songs Written], Arranged By, Producer |
+
 ## See also
 
 - [Fernando / Dancing Queen](Fernando_-_Dancing_Queen.md)

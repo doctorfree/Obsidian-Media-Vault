@@ -44,6 +44,12 @@ By The Harry Simeone Chorale / The Voices Of The Junior Chorale
 | A | **The Little Drummer Boy** | 3:03 |
 | B | **Die Lorelei** | 2:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Irv Docktor** | Illustration |
+
 ## See also
 
 - [](The_Harry_Simeone_Chorale_-_The_Voices_Of_The_Junior_Chorale.md)

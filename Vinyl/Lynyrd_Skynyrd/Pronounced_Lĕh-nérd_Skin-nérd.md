@@ -50,6 +50,32 @@ By Lynyrd Skynyrd
 | B3 | **Poison Whiskey** | 3:11 |
 | B4 | **Free Bird** | 9:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ed King (2)** | Bass |
+| **Roosevelt Gook** | Bass, Mellotron, Harmony Vocals |
+| **Bob Burns (2)** | Drums |
+| **Robert Nix** | Drums |
+| **Bob Langford** | Engineer |
+| **Danny Turbeville** | Engineer |
+| **Rodney Mills** | Engineer |
+| **Steve Katz** | Harmonica |
+| **Billy Powell** | Keyboards |
+| **Allen Collins** | Lead Guitar |
+| **Ed King (2)** | Lead Guitar |
+| **Gary Rossington** | Lead Guitar |
+| **Ronnie Van Zant** | Lead Vocals |
+| **Roosevelt Gook** | Mandolin, Bass Drum |
+| **Roosevelt Gook** | Organ |
+| **Bobbye Hall** | Percussion |
+| **Emerson-Loew** | Photography By [Cover & All Others] |
+| **Tom Hill (8)** | Photography By [On Stage] |
+| **Al Kooper** | Producer, Engineer, Remix |
+| **Allen Collins** | Rhythm Guitar |
+| **Gary Rossington** | Rhythm Guitar |
+
 ## See also
 
 - [One More For The Fans](One_More_For_The_Fans.md)

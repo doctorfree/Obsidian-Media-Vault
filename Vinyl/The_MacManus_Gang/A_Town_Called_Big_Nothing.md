@@ -45,6 +45,21 @@ By The MacManus Gang
 | B1 | **Return To Big Nothing** |  |
 | B2 | **A Town Called Big Nothing (The Long March)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Declan Patrick Aloysius MacManus** | Composed By |
+| **Pete Thomas** | Drums |
+| **Declan Patrick Aloysius MacManus** | Guitar, Bass, Vocals, Percussion |
+| **Tim Young** | Mastered By |
+| **Steve Hart (3)** | Piano |
+| **Declan Patrick Aloysius MacManus** | Producer |
+| **Colin Fairley** | Recorded By |
+| **Ross McManus** | Trumpet, Handclaps |
+| **Cait O'Riordan** | Vocals |
+| **Sy Richardson** | Voice [Speaking Voice] |
+
 ## See also
 
 - [](The_MacManus_Gang.md)

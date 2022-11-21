@@ -54,6 +54,25 @@ By Chris Cornell
 | B5 | **Pillow Of Your Bones** |  |
 | B6 | **Steel Rain** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alain Johannes** | Engineer |
+| **Chris Cornell** | Engineer |
+| **John Golden** | Lacquer Cut By |
+| **Dave Collins** | Mastered By |
+| **Alain Johannes** | Music By |
+| **Chris Cornell** | Music By |
+| **Natasha Shneider** | Music By |
+| **Alain Johannes** | Producer, Arranged By, Mixed By |
+| **Chris Cornell** | Producer, Arranged By, Mixed By |
+| **Natasha Shneider** | Producer, Arranged By, Mixed By |
+| **Andrew Garver** | Transferred By [Digital Transfers] |
+| **Alain Johannes** | Words By |
+| **Chris Cornell** | Words By |
+| **Natasha Shneider** | Words By |
+
 ## See also
 
 - [](Chris_Cornell.md)

@@ -44,6 +44,14 @@ By Orchestral Manoeuvres In The Dark
 | A | **Enola Gay** | 3:36 |
 | B | **Annex** | 4:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Staff** | Lacquer Cut By |
+| **Mike Howlett** | Producer |
+| **Orchestral Manoeuvres In The Dark** | Producer |
+
 ## See also
 
 - [Souvenir](Souvenir.md)

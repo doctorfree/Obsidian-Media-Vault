@@ -44,6 +44,16 @@ By Warrant
 | A | **Cherry Pie** | 3:20 |
 | B | **Thin Disguise** | 3:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Collins** | Edited By [Digital Editing And Sequencing] |
+| **Martin Horenburg** | Engineer [Assistant] |
+| **Jimmy Hoyson** | Engineer, Mixed By |
+| **Ted Jensen** | Mastered By |
+| **Beau Hill** | Producer [Produced By], Mixed By |
+
 ## See also
 
 - [](Warrant.md)

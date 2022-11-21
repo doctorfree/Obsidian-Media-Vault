@@ -43,6 +43,21 @@ By Pink Floyd
 |--------------|-----------|--------------|
 | A | **Interstellar Overdrive** | 14:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roger Waters** | Bass |
+| **Aubrey Powell** | Creative Director |
+| **Peter Curzon** | Design |
+| **Nick Mason** | Drums |
+| **Syd Barrett** | Guitar |
+| **Richard Wright** | Keyboards |
+| **Andy Jackson** | Mastered By |
+| **Ray Staff** | Mastered By |
+| **Irene Winsby** | Photography By |
+| **Pink Floyd** | Producer |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

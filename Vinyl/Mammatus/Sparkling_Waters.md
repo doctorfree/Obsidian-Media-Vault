@@ -46,6 +46,13 @@ By Mammatus
 | C | **The Elkhorn** |  |
 | D | **Ornia** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roger Seibel** | Mastered By |
+| **Phil Manley** | Recorded By, Mixed By |
+
 ## See also
 
 - [](Mammatus.md)

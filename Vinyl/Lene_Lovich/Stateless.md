@@ -53,6 +53,25 @@ By Lene Lovich
 | B5 | **One In A 1,000,000** | 2:48 |
 | B6 | **Tonight** | 4:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Morton (2)** | Artwork |
+| **Ron Francois** | Bass, Percussion, Vocals |
+| **Bobby Irwin** | Drums, Percussion, Vocals |
+| **Aldo Bocca** | Engineer |
+| **Jeremy Green** | Engineer |
+| **Pete Fox** | Engineer |
+| **Roger Bechirian** | Engineer, Mixed By |
+| **Les Chappell** | Guitar, Percussion, Synthesizer, Vocals |
+| **Brian Griffin (3)** | Photography By |
+| **Nick Plytas** | Piano, Organ [Hammond] |
+| **The Stateless** | Producer |
+| **Roger Bechirian** | Remix |
+| **Jeff Smith (9)** | Synthesizer [Polyphonic] |
+| **Lene Lovich** | Vocals, Percussion [Tuned], Saxophone |
+
 ## See also
 
 - [](Lene_Lovich.md)

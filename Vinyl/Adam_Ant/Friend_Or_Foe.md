@@ -54,6 +54,45 @@ By Adam Ant
 | B5 | **Try This For Sighs** | 3:01 |
 | B6 | **Man Called Marco** | 3:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Adam Ant** | Acoustic Guitar |
+| **Adam Ant** | Arranged By [Bass Arrangements] |
+| **Marco Pirroni** | Arranged By [Bass Arrangements] |
+| **Adam Ant** | Backing Vocals |
+| **Sam Brown** | Backing Vocals |
+| **Sonia Jones** | Backing Vocals |
+| **Vicki Brown** | Backing Vocals |
+| **Adam Ant** | Bass |
+| **Marco Pirroni** | Bass |
+| **Marco Pirroni** | Castanets |
+| **Stuart Monks** | Crew [Guitars And Equipment], Photography By [Liner] |
+| **Jules Halfant** | Design [Graphic] |
+| **Bogdan Wiczling** | Drums |
+| **Alan Douglas (2)** | Engineer |
+| **Martin Drover** | Flugelhorn |
+| **Marco Pirroni** | Guitar |
+| **Ray Janos** | Lacquer Cut By [Runout Etch √ANOS] |
+| **Adam Ant** | Marimba |
+| **Adam Ant** | Percussion |
+| **Marco Pirroni** | Percussion |
+| **Adam Ant** | Percussion [Sticks] |
+| **Bogdan Wiczling** | Percussion [Sticks] |
+| **Allan Ballard** | Photography By [Cover, Liner Photography] |
+| **Adam Ant** | Producer, Design [Cover], Written-By |
+| **Marco Pirroni** | Producer, Written-By |
+| **Jeff Daly** | Saxophone |
+| **Gavin MacKillop** | Tape Op [Tape Operator] |
+| **George Chambers** | Tape Op [Tape Operator] |
+| **Adam Ant** | Triangle |
+| **Martin Drover** | Trumpet |
+| **Adam Ant** | Violin [Attempted] |
+| **Adam Ant** | Vocals |
+| **Jude Kelly** | Vocals |
+| **Marco Pirroni** | Vocals |
+
 ## See also
 
 - [](Adam_Ant.md)

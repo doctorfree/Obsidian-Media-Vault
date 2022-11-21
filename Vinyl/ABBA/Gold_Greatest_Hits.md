@@ -61,6 +61,22 @@ By ABBA
 | D4 | **Thank You For The Music** | 3:51 |
 | D5 | **Waterloo** | 2:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Griffin (4)** | Compiled By |
+| **George McManus** | Compiled By [Assistant] |
+| **Ingemar Bergman** | Compiled By [Assistant] |
+| **Jackie Stansfield** | Compiled By [Assistant] |
+| **John Tobler** | Compiled By [Assistant] |
+| **John Waller** | Compiled By [Assistant] |
+| **Icon (21)** | Design |
+| **John Tobler** | Liner Notes |
+| **Björn Ulvaeus & Benny Andersson** | Producer |
+| **Michael B. Tretow** | Remastered By [Digitally] |
+| **Björn Ulvaeus & Benny Andersson** | Written-By |
+
 ## See also
 
 - [Fernando / Dancing Queen](Fernando_-_Dancing_Queen.md)

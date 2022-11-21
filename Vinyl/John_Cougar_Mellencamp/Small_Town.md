@@ -44,6 +44,14 @@ By John Cougar Mellencamp
 | A | **Small Town** | 3:42 |
 | B | **Small Town (Acoustic Version)** | 4:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Don Gehman** | Producer [Produced By] |
+| **Little Bastard** | Producer [Produced By] |
+| **John Cougar Mellencamp** | Written-By |
+
 ## See also
 
 - [](John_Cougar_Mellencamp.md)

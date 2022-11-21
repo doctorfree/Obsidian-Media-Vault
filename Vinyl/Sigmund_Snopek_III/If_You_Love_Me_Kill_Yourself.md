@@ -44,6 +44,12 @@ By Sigmund Snopek III
 | A | **If You Love Me Kill Yourself** | 3:17 |
 | B | **Solalex** | 6:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Stephen Powers** | Producer |
+
 ## See also
 
 - [](Sigmund_Snopek_III.md)

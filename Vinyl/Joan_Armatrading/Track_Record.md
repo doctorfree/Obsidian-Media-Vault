@@ -55,6 +55,25 @@ By Joan Armatrading
 | B5 | **Willow** | 4:03 |
 | B6 | **Rosie** | 3:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Ross (3)** | Design, Art Direction |
+| **Glyn Johns** | Engineer |
+| **Val Garay** | Engineer |
+| **Frank DeLuna** | Lacquer Cut By [Runout Etching: (face with pointy ears)] |
+| **Mike Noble (2)** | Management |
+| **Running Dog Management** | Management |
+| **Frank DeLuna** | Mastered By |
+| **Moshe Brakha** | Photography By |
+| **Glyn Johns** | Producer |
+| **Joan Armatrading** | Producer |
+| **Richard Gottehrer** | Producer |
+| **Steve Lillywhite** | Producer |
+| **Val Garay** | Producer |
+| **Joan Armatrading** | Written-By |
+
 ## See also
 
 - [Joan Armatrading](Joan_Armatrading.md)

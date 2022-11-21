@@ -65,6 +65,19 @@ By Louis And Bebe Barron
 | B8 | **The Homecoming** | 1:56 |
 | B9 | **Overture Reprise** | 2:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Louis And Bebe Barron** | Composed By, Producer |
+| **Mary Ellen Kabat** | Edited By [Album Tape Assembly] |
+| **Bill Malone** | Liner Notes |
+| **Louis And Bebe Barron** | Liner Notes |
+| **Bobby Hata** | Mastered By |
+| **Louis Barron** | Mixed By [Remix] |
+| **Adam Barron** | Other [Editorial Suggestions] |
+| **Renate Druks** | Painting [Cover Painting], Art Direction |
+
 ## See also
 
 - [](Louis_And_Bebe_Barron.md)

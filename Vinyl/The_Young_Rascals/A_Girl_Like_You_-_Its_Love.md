@@ -44,6 +44,14 @@ By The Young Rascals
 | A | **A Girl Like You** | 2:46 |
 | B | **It's Love** | 3:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Young Rascals** | Producer |
+| **Eddie Brigati** | Written-By |
+| **Felix Cavaliere** | Written-By |
+
 ## See also
 
 - [How Can I Be Sure](How_Can_I_Be_Sure.md)

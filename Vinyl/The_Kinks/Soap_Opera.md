@@ -54,6 +54,14 @@ By The Kinks
 | B5 | **(A) Face In The Crowd** |  |
 | B6 | **You Can't Stop The Music** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Pat Doyle (2)** | Art Direction |
+| **Joe Petagno** | Illustration |
+| **Ray Davies** | Written-By, Arranged By, Producer |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

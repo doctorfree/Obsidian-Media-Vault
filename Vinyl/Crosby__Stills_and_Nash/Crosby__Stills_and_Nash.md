@@ -52,6 +52,24 @@ By "Crosby, Stills & Nash"
 | B4 | **Long Time Gone** | 4:17 |
 | B5 | **49 Bye-Byes** | 5:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Art Direction, Design |
+| **Dallas Taylor** | Drums |
+| **Bill Halverson** | Engineer |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Stephen Stills** | Lead Guitar, Organ, Bass |
+| **David Geffen** | Management [Direction] |
+| **Bernie Grundman** | Mastered By [Uncredited] |
+| **Ahmet Ertegun** | Other [Spiritual Guidance] |
+| **Henry Diltz** | Photography By [Cover Photo] |
+| **David Crosby** | Producer |
+| **Graham Nash** | Producer |
+| **Stephen Stills** | Producer |
+| **David Crosby** | Rhythm Guitar |
+
 ## See also
 
 - [](Crosby__Stills_and_Nash_index.md)

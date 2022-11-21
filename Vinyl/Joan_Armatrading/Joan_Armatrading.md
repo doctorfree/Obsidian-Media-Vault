@@ -52,6 +52,16 @@ By Joan Armatrading
 | B4 | **Like Fire** | 5:11 |
 | B5 | **Tall In The Saddle** | 5:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Fabio Nicoli** | Art Direction |
+| **Nick Marshall (7)** | Design |
+| **Clive Arrowsmith** | Photography By |
+| **Glyn Johns** | Producer, Engineer |
+| **Joan Armatrading** | Written-By |
+
 ## See also
 
 - [Me Myself I](Me_Myself_I.md)

@@ -53,6 +53,19 @@ By Hello People
 | B5 | **How High Is The Moon** | 3:14 |
 | B6 | **Save A Dance For Me** | 3:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tim Bryant (2)** | Design |
+| **David Le Sage** | Engineer [Assistant] |
+| **Ron Slenzak** | Photography By |
+| **Todd Rundgren** | Producer, Engineer |
+| **Bobby Sedita** | Written-By |
+| **Greg Geddes** | Written-By |
+| **Larry Tasse** | Written-By |
+| **N.D. Smart II** | Written-By |
+
 ## See also
 
 - [Bricks](Bricks.md)

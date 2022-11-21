@@ -44,6 +44,13 @@ By Blues Magoos
 | A | **(We Ain't Got) Nothin' Yet** | 2:10 |
 | B | **Gotta Get Away** | 2:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Art Polhemus** | Producer [Produced By] |
+| **Bob Wyld** | Producer [Produced By] |
+
 ## See also
 
 - [](Blues_Magoos.md)

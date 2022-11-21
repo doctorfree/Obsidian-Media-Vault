@@ -55,6 +55,26 @@ By Gino Vannelli
 | B6 | **To The War (Reflection)** | 2:02 |
 | B7 | **Summers Of My Life** | 4:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gino Vannelli** | Arranged By, Producer, Vocals |
+| **Brenda Russell (2)** | Backing Vocals |
+| **Dianne Brooks** | Backing Vocals |
+| **Graham Lear** | Drums |
+| **Jay Graydon** | Electric Guitar |
+| **Jon Kelly** | Engineer [Assistent] |
+| **Steve Prestage** | Engineer [Assistent] |
+| **Norm Kinney** | Engineer [Re-mix] |
+| **Geoff Emerick** | Engineer, Producer |
+| **Ross Vannelli** | Guitar, Backing Vocals |
+| **Richard Baker** | Organ, Synthesizer, Arranged By [Strings & Brass] |
+| **Dido Morris** | Percussion |
+| **John J. Mandel** | Percussion, Timpani |
+| **Joe Vannelli** | Producer, Electric Piano, Grand Piano, Clavinet, Synthesizer, Arranged By [Strings & Brass] |
+| **Gino Vannelli** | Written-By, Vocals |
+
 ## See also
 
 - [](Gino_Vannelli.md)

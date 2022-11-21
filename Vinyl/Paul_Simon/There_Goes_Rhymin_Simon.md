@@ -56,6 +56,23 @@ Numbered copy 3372 of limited edition
 | B4 | **St. Judy's Comet** | 3:19 |
 | B5 | **Loves Me Like A Rock** | 3:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Cranshaw** | Bass |
+| **David Hood** | Bass |
+| **Muscle Shoals Rhythm Section** | Co-producer |
+| **Phil Ramone** | Co-producer |
+| **Roger Hawkins** | Drums |
+| **Rich Blakin** | Engineer [Assistant] |
+| **Jerry Masters** | Engineer [Supervising] |
+| **Phil Ramone** | Engineer [Supervising] |
+| **Paul Simon** | Guitar |
+| **Pete Carr** | Guitar, Electric Guitar |
+| **Paul Simon** | Producer, Composed By [All Compositions] |
+| **Ryan Smith (2)** | Remastered By |
+
 ## See also
 
 - [Paul Simon](Paul_Simon.md)

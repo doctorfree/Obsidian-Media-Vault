@@ -60,6 +60,12 @@ By Hans Zimmer & Junkie XL
 | E4 | **They Were Hunters** | 2:46 |
 | E5 | **Fight Night** | 4:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Wes Garland** | Lacquer Cut By |
+
 ## See also
 
 - [](Hans_Zimmer_and_Junkie_XL.md)

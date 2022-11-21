@@ -56,6 +56,28 @@ By Streetlight Manifesto
 | B5 | **As The Footsteps Die Out Forever** |  |
 | B6 | **1234 1234** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dan Ross (2)** | Baritone Saxophone, Alto Saxophone |
+| **Chris Pazsik** | Bass, Backing Vocals [Bgd Vocals] |
+| **Rob Thatcher** | Body Percussion [Hand Percussion] |
+| **Christopher Thatcher** | Drums |
+| **Jay Franco** | Mastered By |
+| **Tomas Kalnoky** | Recorded By, Mixed By |
+| **Jim Conti** | Tenor Saxophone |
+| **Mike Soprano** | Trombone |
+| **James Egan** | Trumpet, Backing Vocals [Bgd Vocals] |
+| **Colin Bell (2)** | Vocals [Gang] |
+| **Jeff Smith (31)** | Vocals [Gang] |
+| **Kenny Holland (2)** | Vocals [Gang] |
+| **Knowles (2)** | Vocals [Gang] |
+| **Rob Thatcher** | Vocals [Gang] |
+| **Streetlight Manifesto** | Vocals [Gang] |
+| **Tomas Kalnoky** | Vocals, Guitar |
+| **Tomas Kalnoky** | Words By, Music By |
+
 ## See also
 
 - [](Streetlight_Manifesto.md)

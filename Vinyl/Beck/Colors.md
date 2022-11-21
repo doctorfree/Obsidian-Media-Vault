@@ -52,6 +52,45 @@ By Beck
 | B4 | **Square One** |  |
 | B5 | **Fix Me** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roger Joseph Manning Jr.** | Backing Vocals |
+| **Dwayne Moore** | Bass [Additional] |
+| **Christopher Lee Lyons** | Design [Assistance] |
+| **Beck Hansen** | Design, Art Direction |
+| **Jimmy Turrell** | Design, Art Direction |
+| **Steve Stacey** | Design, Art Direction |
+| **Ilan Rubin** | Drums |
+| **Alex Pasco** | Engineer |
+| **Beck Hansen** | Engineer |
+| **Cassidy Turbin** | Engineer |
+| **Cole M.G.N.** | Engineer |
+| **Darrell Thorp** | Engineer |
+| **David Greenbaum (2)** | Engineer |
+| **Florian Lagatta** | Engineer |
+| **Greg Kurstin** | Engineer |
+| **Jesse Shatkin** | Engineer |
+| **John Hanes** | Engineer |
+| **Julian Burg** | Engineer |
+| **Greg Kurstin** | Guitar, Piano, Organ, Synthesizer, Bass, Percussion, Drums, Clavinet, Piano [Rhodes], Mellotron, Marimba |
+| **Chris Bellman** | Lacquer Cut By [Lacquers By] |
+| **Chris Bellman** | Mastered By |
+| **Emily Lazar** | Mastered By |
+| **Randy Merrill** | Mastered By |
+| **Tom Coyne** | Mastered By |
+| **Serban Ghenea** | Mixed By |
+| **Péter Hapák** | Photography By [Cover] |
+| **Elliot Lee Hazel** | Photography By [Interior] |
+| **Greg Kurstin** | Producer |
+| **Feist** | Vocals |
+| **Beck Hansen** | Vocals, Guitar, Piano, Piano [Rhodes], Organ, Synthesizer, Bass, Glockenspiel, Percussion |
+| **Andrew Wyatt** | Written-By |
+| **Beck Hansen** | Written-By |
+| **Cole M.G.N.** | Written-By |
+| **Greg Kurstin** | Written-By |
+
 ## See also
 
 - [](Beck.md)

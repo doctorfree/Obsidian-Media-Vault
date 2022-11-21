@@ -49,6 +49,21 @@ By Captain Beefheart And The Magic Band
 | B3 | **Twist Ah Luck** | 3:23 |
 | B4 | **Bluejeans And Moonbeams** | 5:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ira Ingber** | Bass |
+| **Gene Pello** | Drums |
+| **Greg Ladanyi** | Engineer |
+| **Jimmy Caravan** | Keyboards |
+| **Mark Gibbons** | Keyboards |
+| **Micheal Smotherman** | Keyboards, Backing Vocals |
+| **Ty Grimes** | Percussion |
+| **Andy Di Martino** | Producer |
+| **Dean Smith** | Slide Guitar |
+| **Don Van Vliet** | Vocals, Harmonica |
+
 ## See also
 
 - [](Captain_Beefheart_And_The_Magic_Band.md)

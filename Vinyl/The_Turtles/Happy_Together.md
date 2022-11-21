@@ -53,6 +53,23 @@ By The Turtles
 | B4 | **Like The Seasons** | 1:48 |
 | B5 | **Rugs Of Woods & Flowers** | 3:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Wilkes (2)** | Artwork [Graphics] |
+| **Jim Pons** | Bass Guitar, Vocals |
+| **John Barbata** | Drums |
+| **Armin Steiner** | Engineer |
+| **Bruce Botnick** | Engineer |
+| **Guy Webster** | Photography By |
+| **Bones Howe** | Producer |
+| **Joe Wissert** | Producer |
+| **Jim Tucker (2)** | Rhythm Guitar |
+| **Howard Kaylan** | Vocals |
+| **Mark Volman** | Vocals, Effects [Special Effects] |
+| **Al Nichol** | Vocals, Lead Guitar |
+
 ## See also
 
 - [Turtle Soup](Turtle_Soup.md)

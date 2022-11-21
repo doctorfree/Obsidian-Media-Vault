@@ -56,6 +56,51 @@ This is numbered copy 1098 of 5000
 | B4 | **Past Addresses** | 5:22 |
 | B5 | **Silent Crusade** | 4:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Campbell** | Arranged By [String Arrangements] |
+| **Steve Stanley (2)** | Art Direction, Design |
+| **MPS (4)** | Artwork [Deluxe Packaging By] |
+| **Daniel Moore** | Backing Vocals |
+| **Doug Dillard** | Backing Vocals |
+| **Emmylou Harris** | Backing Vocals |
+| **John Hartford** | Backing Vocals |
+| **Matthew Moore** | Backing Vocals |
+| **Pepper Watkins** | Backing Vocals |
+| **Steven Soles** | Backing Vocals |
+| **Thomas Kaye** | Backing Vocals |
+| **Doug Dillard** | Banjo |
+| **Jim Fielder** | Bass |
+| **Birdie Breeze** | Coordinator [Project Coordination] |
+| **David Larkham** | Design |
+| **Sammy Creason** | Drums |
+| **Gary Legon** | Executive-Producer |
+| **Byron Berline** | Fiddle |
+| **Michael Utley** | Keyboards |
+| **Jerry McGee** | Lead Guitar [Lead Electric & Acoustic Guitar] |
+| **Paul Sommerstein** | Legal |
+| **John Einarson** | Liner Notes |
+| **George Baer Wallace** | Liner Notes [With Contributions From] |
+| **Sheryl Farber** | Liner Notes [With Contributions From] |
+| **Tom Sandford** | Liner Notes [With Contributions From] |
+| **Dan Hersch** | Mastered By |
+| **Doug Sax** | Mastered By [Mastered For Vinyl By] |
+| **Robert Hadley** | Mastered By [Mastered For Vinyl By] |
+| **Al Perkins** | Pedal Steel Guitar |
+| **Murray Neitlich** | Photography By [Booklet Pg. 3] |
+| **Ed Caraeff** | Photography By, Art Direction |
+| **Thomas Kaye** | Producer |
+| **Shore Fire Media** | Public Relations |
+| **Joel Soyffer** | Recorded By |
+| **George Baer Wallace** | Reissue Producer [Produced For Release By] |
+| **J.D. Martignon** | Reissue Producer [Produced For Release By] |
+| **Roger Nichols** | Remix |
+| **Jeff Baxter** | Rhythm Guitar [Rhythm Electric & Acoustic Guitar] |
+| **Sheryl Farber** | Supervised By [Editorial Supervision] |
+| **John Strother** | Transferred By [Tape Transfers] |
+
 ## See also
 
 - [No Other](No_Other.md)

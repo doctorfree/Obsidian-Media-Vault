@@ -46,6 +46,12 @@ By The Ghost Of A Saber Tooth Tiger
 | B1 | **Pierrot** |  |
 | B2 | **Richard Brown** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alex Theodoropulos** | Illustration |
+
 ## See also
 
 - [Midnight Sun](Midnight_Sun.md)

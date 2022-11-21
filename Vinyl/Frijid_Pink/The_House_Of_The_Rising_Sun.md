@@ -44,6 +44,12 @@ By Frijid Pink
 | A | **The House Of The Rising Sun** | 3:23 |
 | B | **Drivin' Blues** | 3:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Valvano** | Producer |
+
 ## See also
 
 - [](Frijid_Pink.md)

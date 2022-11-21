@@ -44,6 +44,13 @@ By Bobby Hendricks
 | A | **Itchy Twitchy Feeling** | 2:30 |
 | B | **Psycho** | 2:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Oliver's Orchestra** | Orchestra |
+| **Jimmy Oliver** | Written-By |
+
 ## See also
 
 - [](Bobby_Hendricks.md)

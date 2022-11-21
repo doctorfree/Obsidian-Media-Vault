@@ -52,6 +52,24 @@ By Rod Stewart
 | B4 | **(I Know) I'm Losing You** | 5:22 |
 | B5 | **Reason To Believe** | 4:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Martell Brandy** | Acoustic Guitar |
+| **Martin Quittenton** | Acoustic Guitar |
+| **Andy Pyle** | Bass |
+| **Danny Thompson** | Bass |
+| **Mick Waller** | Drums |
+| **Ron Wood** | Guitar, Guitar [Pedal Steel], Bass |
+| **Ray Jackson (2)** | Mandolin |
+| **Gilbert Kong** | Mastered By |
+| **Ian McLagan** | Organ |
+| **Pete Sears** | Piano |
+| **Rod Stewart** | Producer, Acoustic Guitar, Vocals |
+| **Dick Powell** | Violin |
+| **Maggie Bell** | Vocals |
+
 ## See also
 
 - [Gasoline Alley](Gasoline_Alley.md)

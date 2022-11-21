@@ -50,6 +50,27 @@ By Poco
 | B2 | **Magnolia** | 6:18 |
 | B3 | **Let's Dance Tonight** | 3:49 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Art Direction, Design |
+| **Brian Christian** | Engineer [Recording] |
+| **Bill C. Graham** | Fiddle |
+| **Chris Hillman** | Mandolin |
+| **Doug Sax** | Mastered By |
+| **Joe Lala** | Percussion |
+| **George Grantham** | Performer |
+| **Paul Cotton** | Performer |
+| **Richie Furay** | Performer |
+| **Rusty Young** | Performer |
+| **Timothy B. Schmit** | Performer |
+| **Henry Diltz** | Photography By [Back Cover] |
+| **Tom Gundelfinger** | Photography By [Front Cover] |
+| **Paul Harris (2)** | Piano |
+| **Jack Richardson** | Producer |
+| **Dennis Smith** | Recorded By |
+
 ## See also
 
 - [](Poco.md)

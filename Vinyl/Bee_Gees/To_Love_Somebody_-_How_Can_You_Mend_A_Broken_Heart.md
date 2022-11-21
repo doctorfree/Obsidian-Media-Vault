@@ -44,6 +44,16 @@ By Bee Gees
 | A | **To Love Somebody** | 3:55 |
 | B | **How Can You Mend A Broken Heart** | 3:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Albhy Galuten** | Producer |
+| **Karl Richardson** | Producer |
+| **Robin Gibb, Barry Gibb & Maurice Gibb** | Producer |
+| **Barry Gibb** | Written-By |
+| **Robin Gibb** | Written-By |
+
 ## See also
 
 - [Odessa](Odessa.md)

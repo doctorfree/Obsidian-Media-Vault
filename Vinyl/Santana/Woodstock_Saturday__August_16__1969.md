@@ -50,6 +50,26 @@ By Santana
 | B2 | **Soul Sacrifice** | 11:35 |
 | B3 | **Fried Neck Bones And Some Home Fries** | 6:41 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rob Santos** | A&R [Legacy] |
+| **Steve Berkowitz** | A&R [Legacy] |
+| **Mark Larson** | Art Direction, Design |
+| **Adam Farber** | Art Direction, Directed By |
+| **Jim Parham** | Directed By |
+| **Lee Osborne (2)** | Engineer [Location Recording] |
+| **SST (8)** | Lacquer Cut By |
+| **Vic Anesini** | Mastered By |
+| **Hanley Sound, Inc.** | Other [Original 8 Track Recording] |
+| **Camera 5** | Photography By [Back Cover] |
+| **Ken Regan** | Photography By [Back Cover] |
+| **Shelly Rusten** | Photography By [Front Cover] |
+| **Elliott Landy** | Photography By [Insert Crowd Photo] |
+| **Bob Irwin** | Producer |
+| **Eddie Kramer** | Supervised By, Mixed By |
+
 ## See also
 
 - [Abraxas](Abraxas.md)

@@ -44,6 +44,15 @@ By Nick Lowe
 | A | **Lovers Jamboree** | 3:37 |
 | B | **Lovers Jamboree** | 3:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Vlado Meller** | Mastered By |
+| **Dave Edmunds** | Producer |
+| **Nick Lowe** | Written-By |
+| **Paul Carrack** | Written-By |
+
 ## See also
 
 - [Labour Of Lust](Labour_Of_Lust.md)

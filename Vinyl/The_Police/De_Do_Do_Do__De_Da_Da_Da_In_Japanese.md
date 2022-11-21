@@ -44,6 +44,14 @@ By The Police
 | A | **De Do Do Do, De Da Da Da (Spanish Version)** | 4:00 |
 | B | **De Do Do Do, De Da Da Da (Japanese Version)** | 4:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nigel Gray** | Producer |
+| **The Police** | Producer |
+| **Sting** | Written-By |
+
 ## See also
 
 - [](The_Police.md)

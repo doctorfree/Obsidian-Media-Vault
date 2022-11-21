@@ -52,6 +52,53 @@ By The Hues Corporation
 | B4 | **Live A Lie** | 2:13 |
 | B5 | **Miracle Maker (Sweet Soul Shaker)** | 3:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **D'Arneill Pershing** | Arranged By |
+| **Gene Page** | Arranged By |
+| **Perry Botkin Jr.** | Arranged By |
+| **Tom Sellers** | Arranged By |
+| **The Hues Corporation** | Arranged By [Vocals] |
+| **Wally Holmes** | Arranged By [Vocals] |
+| **Frank Mulvey** | Art Direction [Art Director] |
+| **William Green** | Baritone Saxophone |
+| **David Hungate** | Bass |
+| **Joe Osborn** | Bass |
+| **Wilton Felder** | Bass |
+| **Edgar Lustgarten (2)** | Cello |
+| **Chino Valdes** | Congas |
+| **Hal Blaine** | Drums |
+| **Jim Gordon** | Drums |
+| **Ron Tutt** | Drums |
+| **Grover Helsley** | Engineer [Recording] |
+| **Pete Abbott** | Engineer [Recording] |
+| **Al Casey (2)** | Guitar |
+| **Dennis Budimir** | Guitar |
+| **Larry Carlton** | Guitar |
+| **Louie Shelton** | Guitar |
+| **Joe Sample** | Keyboards |
+| **Holmes/Ratner Entertainment** | Management |
+| **Gary Coleman** | Percussion |
+| **Emerson-Loew** | Photography By |
+| **John Florez** | Producer |
+| **Kent Tunks** | Technician |
+| **Steve Francisco** | Technician |
+| **Charles Loper** | Trombone |
+| **Lew McCreary** | Trombone |
+| **Bud Brisbois** | Trumpet |
+| **Chuck Findley** | Trumpet |
+| **Paul Hubinon** | Trumpet |
+| **David Schwartz** | Viola |
+| **Harry Bluestone** | Violin |
+| **Israel Baker** | Violin |
+| **James Getzoff** | Violin |
+| **Sidney Sharp** | Violin |
+| **Ann Kelley** | Vocals |
+| **Fleming Williams** | Vocals |
+| **St. Clair Lee** | Vocals |
+
 ## See also
 
 - [](The_Hues_Corporation.md)

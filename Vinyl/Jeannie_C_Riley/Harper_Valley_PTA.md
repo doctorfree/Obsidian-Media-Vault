@@ -53,6 +53,15 @@ By Jeannie C. Riley
 | B4 | **The Ballad Of Louise** | 2:51 |
 | B5 | **Satan Place** | 3:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Southern Album Service** | Design [Album] |
+| **Jerry Kennedy** | Dobro [Dobro Picking] |
+| **Bill Forshee** | Photography By |
+| **Shelby S Singleton Jr.** | Producer |
+
 ## See also
 
 - [](Jeannie_C_Riley.md)

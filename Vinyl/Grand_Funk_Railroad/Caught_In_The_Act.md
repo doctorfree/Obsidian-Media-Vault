@@ -56,6 +56,30 @@ By Grand Funk Railroad
 | D1 | **Inside Lookin' Out** | 12:11 |
 | D2 | **Gimme Shelter** | 6:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lymbo Inc.** | Art Direction |
+| **The Funkettes** | Backing Vocals |
+| **Jana (17)** | Backing Vocals  [Funkette] |
+| **Lorraine Feather** | Backing Vocals [Funkette] |
+| **Mel Schacher** | Bass, Backing Vocals |
+| **Beth Ellor** | Design [Costume Design] |
+| **Dina Gary** | Design [Costume Design] |
+| **J. Jamerson** | Design [Costume Design] |
+| **Joe Barbaria** | Engineer [Assistant-O.D.O. Studios] |
+| **David Hewitt** | Engineer [Assistant-The Record Plant East Mobile Unit] |
+| **Rod O'Brien** | Engineer [Assistant-The Record Plant East Mobile Unit] |
+| **Jack Sherdel** | Engineer [O.D.O. Studios] |
+| **Carmine Rubino** | Engineer [The Record Plant East Mobile Unit] |
+| **Craig Frost** | Keyboards, Percussion, Backing Vocals |
+| **Mark Farner** | Organ |
+| **Lynn Goldsmith** | Photography By |
+| **Jimmy Ienner** | Producer |
+| **Don Brewer** | Vocals, Drums, Percussion |
+| **Mark Farner** | Vocals, Guitar [Guitars], Harp |
+
 ## See also
 
 - [E Pluribus Funk](E_Pluribus_Funk.md)

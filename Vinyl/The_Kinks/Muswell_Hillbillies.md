@@ -68,6 +68,35 @@ By The Kinks
 | D5 | **Queenie (Backing Track)** | 3:41 |
 | D6 | **Muswell Hillbillies Radio Spot** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rob Santos** | A&R |
+| **John Sellards** | Art Direction, Design [Reissue] |
+| **Bloomsbury Group** | Art Direction, Photography By |
+| **John Dalton** | Bass |
+| **The Mike Cotton Sound** | Brass |
+| **Mick Avory** | Drums |
+| **Barry Hammond** | Engineer [Original Recording] |
+| **Gregg Jackman** | Engineer [Original Recording] |
+| **Martin Levan** | Engineer [Original Recording] |
+| **Mike Bobak** | Engineer [Original Recording] |
+| **Mike Butcher** | Engineer [Original Recording] |
+| **Roger Quested** | Engineer [Original Recording] |
+| **John Gosling (2)** | Keyboards, Accordion |
+| **Daniel Krieger** | Lacquer Cut By |
+| **Kevin Gray** | Lacquer Cut By |
+| **Dougal Lott** | Mixed By |
+| **Richard Edwards** | Mixed By |
+| **Albert Pinheiro** | Mixed By [Assistant] |
+| **Andrew Sandoval** | Reissue Producer |
+| **Vic Anesini** | Remastered By |
+| **Richard Whittaker** | Transferred By [Original Analog Masters] |
+| **Dave Davies** | Vocals, Guitar |
+| **Ray Davies** | Vocals, Guitar, Keyboards |
+| **Ray Davies** | Written-By, Producer |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

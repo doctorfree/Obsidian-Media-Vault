@@ -51,6 +51,20 @@ By David Bowie
 | B4 | **The Man Who Sold The World** | 3:58 |
 | B5 | **The Supermen** | 3:39 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Keef (4)** | Design, Photography By |
+| **Mick Woodmansey** | Drums |
+| **Tony Visconti** | Electric Bass, Piano, Guitar |
+| **Ken Scott** | Engineer |
+| **Mick Ronson** | Guitar |
+| **David Bowie** | Guitar, Vocals |
+| **Tony Visconti** | Producer [Produced By] |
+| **Ralph Mace** | Synthesizer [Moog Synthesizer] |
+| **David Bowie** | Written-By |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

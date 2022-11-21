@@ -52,6 +52,14 @@ By The Rolling Stones
 | B4 | **Dead Flowers** | 4:05 |
 | B5 | **Moonlight Mile** | 5:56 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andy Warhol** | Artwork [Cover] |
+| **Jimmy Miller** | Producer |
+| **Jagger-Richards** | Written-By |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

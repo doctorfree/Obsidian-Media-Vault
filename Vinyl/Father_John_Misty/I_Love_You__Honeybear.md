@@ -53,6 +53,24 @@ By Father John Misty
 | D1 | **Holy Shit** |  |
 | D2 | **I Went To The Store One Day** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **J. Tillman** | Art Direction |
+| **Sasha Barr** | Art Direction |
+| **Alia Penner** | Artwork [Inside] |
+| **Bryce Gonzales** | Engineer |
+| **Ryan Smith (2)** | Lacquer Cut By |
+| **Greg Calbi** | Mastered By |
+| **Jonathan Wilson** | Mixed By |
+| **Phil Ek** | Mixed By |
+| **Stacey Rozich** | Painting |
+| **Emma Elizabeth Tillman** | Photography By |
+| **J. Tillman** | Producer |
+| **Jonathan Wilson** | Producer |
+| **Father John Misty** | Written-By |
+
 ## See also
 
 - [Fear Fun](Fear_Fun.md)

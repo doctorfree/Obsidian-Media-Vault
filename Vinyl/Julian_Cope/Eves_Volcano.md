@@ -44,6 +44,14 @@ By Julian Cope
 | A | **Eve's Volcano** | 3:50 |
 | B | **Almost Beautiful Child** | 5:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Double De Harrison** | Producer |
+| **Warne Livesey** | Producer |
+| **Tom Lord-Alge** | Remix |
+
 ## See also
 
 - [](Julian_Cope.md)

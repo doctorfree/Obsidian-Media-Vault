@@ -50,6 +50,17 @@ By The Firesign Theatre
 | B2 | **Chapter 5 - Pickles Down The Rat Hole!** | 6:13 |
 | B3 | **Chapter 6 - The Electrician Exposes Himself!** | 9:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nisan Eventoff** | Design |
+| **Pete Abbott** | Engineer |
+| **Steve Francisco** | Engineer |
+| **Bob Schulenberg** | Illustration [Cover] |
+| **Keith Sheridan** | Typography [Hand Lettering] |
+| **The Firesign Theatre** | Written-By, Performer [Performed By], Producer |
+
 ## See also
 
 - ["Don't Crush That Dwarf, Hand Me The Pliers"](Dont_Crush_That_Dwarf__Hand_Me_The_Pliers.md)

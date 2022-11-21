@@ -51,6 +51,20 @@ By Dave Mason
 | B3 | **Relation Ships** | 5:02 |
 | B4 | **You Can't Take It When You Go** | 4:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Glaub** | Bass |
+| **Lorrie Sullivan** | Design, Photography By |
+| **Rick Jaeger** | Drums |
+| **Linda Tyler** | Engineer [Assistant] |
+| **Al Schmitt** | Engineer [Recording & Mixing] |
+| **Jim Krueger** | Guitar, Vocals |
+| **Mike Finnigan** | Keyboards, Vocals |
+| **Arnie Acosta** | Mastered By |
+| **Dave Mason** | Producer, Guitar, Lead Vocals, Design |
+
 ## See also
 
 - [](Dave_Mason_index.md)

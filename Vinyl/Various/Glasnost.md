@@ -53,6 +53,20 @@ By Various
 | B4 | **Honest John / Честный Джон** | 4:34 |
 | B5 | **We Need Peace / Нам нужен мир** | 4:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Stuart Raven-Hill** | Compiled By |
+| **Ulrich Hetscher** | Compiled By |
+| **Ulrike Kuberka** | Concept By |
+| **Nuala Byles** | Design |
+| **Stuart Raven-Hill** | Mastered By |
+| **Ulrich Hetscher** | Mastered By |
+| **Peter Berressem** | Photography By |
+| **Gesa Pansch** | Translated By |
+| **Ulrich Hetscher** | Translated By |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

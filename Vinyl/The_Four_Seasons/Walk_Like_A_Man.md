@@ -44,6 +44,13 @@ By The Four Seasons
 | A | **Walk Like A Man** | 2:11 |
 | B | **Lucky Ladybug** | 2:41 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Charlie Calello** | Arranged By, Conductor |
+| **Bob Crewe** | Producer |
+
 ## See also
 
 - [The Greatest Hits Of Frankie Valli & The Four Seasons](The_Greatest_Hits_Of_Frankie_Valli_and_The_Four_Seasons.md)

@@ -54,6 +54,23 @@ By Tennessee Ernie Ford
 | B5 | **Gaily The Troubadour** |  |
 | B6 | **The Last Letter** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rolly Bundock** | Bass |
+| **Darol Rice** | Bass Clarinet |
+| **Darol Rice** | Clarinet |
+| **Red Mandel** | Clarinet |
+| **Milt Holland** | Drums |
+| **Roy Harte** | Drums |
+| **Red Mandel** | Flute |
+| **Bobby Gibbons** | Guitar |
+| **Bobby Gibbons** | Mandolin |
+| **Jack Fascinato** | Music By |
+| **Ken Veeder** | Photography By [Cover Photo] |
+| **Charles Parlato** | Trumpet |
+
 ## See also
 
 - [Country Hits...Feelin' Blue](Country_HitsFeelin_Blue.md)

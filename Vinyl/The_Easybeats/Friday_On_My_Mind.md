@@ -44,6 +44,12 @@ By The Easybeats
 | A | **Friday On My Mind** | 2:47 |
 | B | **Made My Bed: Gonna Lie In It** | 2:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Shel Talmy** | Producer |
+
 ## See also
 
 - [](The_Easybeats.md)

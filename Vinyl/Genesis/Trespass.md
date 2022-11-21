@@ -48,6 +48,20 @@ By Genesis
 | B2 | **Dusk** | 4:15 |
 | B3 | **The Knife** | 8:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Rutherford** | Acoustic Guitar [12 String], Bass [Electric 12-string], Cello, Backing Vocals, Guitar [Nylon] |
+| **Anthony Phillips** | Acoustic Guitar [12 String], Guitar [Lead Electric], Dulcimer, Backing Vocals |
+| **Genesis** | Arranged By, Composed By |
+| **Paul Whitehead** | Artwork |
+| **John Mayhew** | Drums, Percussion, Backing Vocals |
+| **Robin Geoffrey Cable** | Engineer |
+| **Peter Gabriel** | Lead Vocals, Flute, Accordion, Tambourine, Bass Drum |
+| **Tony Banks** | Organ, Piano, Mellotron, Guitar, Backing Vocals |
+| **John Anthony** | Producer |
+
 ## See also
 
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)

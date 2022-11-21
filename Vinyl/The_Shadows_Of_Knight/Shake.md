@@ -44,6 +44,13 @@ By The Shadows Of Knight
 | A | **Shake** | 2:28 |
 | B | **From Way Out To Way Under** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Arthur Resnick** | Producer [Prod. By] |
+| **Joey Levine** | Producer [Prod. By] |
+
 ## See also
 
 - [](The_Shadows_Of_Knight.md)

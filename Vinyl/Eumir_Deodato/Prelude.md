@@ -48,6 +48,51 @@ By Eumir Deodato
 | B2 | **Prelude To Afternoon Of A Faun** | 5:13 |
 | B3 | **September 13** | 5:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eumir Deodato** | Arranged By, Conductor, Piano, Electric Piano |
+| **Ron Carter** | Bass, Electric Bass |
+| **Charles McCracken** | Cello |
+| **Harvey Shapiro** | Cello |
+| **Seymour Barab** | Cello |
+| **Ray Barretto** | Congas |
+| **Pete Turner (4)** | Cover, Photography By |
+| **Bob Ciano** | Design |
+| **Billy Cobham** | Drums |
+| **Stanley Clarke** | Electric Bass, Soloist |
+| **John Tropea** | Electric Guitar |
+| **George Marge** | Flute, Alto Flute, Bass Flute |
+| **Phil Badner** | Flute, Alto Flute, Bass Flute |
+| **Romeo Penque** | Flute, Alto Flute, Bass Flute |
+| **Hubert Laws** | Flute, Alto Flute, Bass Flute, Soloist |
+| **Jim Buffington** | French Horn |
+| **Peter Gordon (8)** | French Horn |
+| **Jay Berliner** | Guitar |
+| **Airto Moreira** | Percussion |
+| **Duane Michals** | Photography By |
+| **Creed Taylor** | Producer |
+| **Rudy Van Gelder** | Recorded By |
+| **Bill Watrous** | Trombone |
+| **Garnett Brown** | Trombone |
+| **George Strakey** | Trombone |
+| **Paul Faulise** | Trombone |
+| **Wayne Andre** | Trombone |
+| **Joe Shepley** | Trumpet |
+| **John Frosk** | Trumpet |
+| **Marky Markowitz** | Trumpet |
+| **Marvin Stamm** | Trumpet, Soloist |
+| **Alfred Brown** | Viola |
+| **Emanuel Vardi** | Viola |
+| **David Nadien** | Violin |
+| **Elliot Rosoff** | Violin |
+| **Emanuel Green** | Violin |
+| **Gene Orloff** | Violin |
+| **Harry Lookofsky** | Violin |
+| **Max Ellen** | Violin |
+| **Paul Gershman** | Violin |
+
 ## See also
 
 - [](Eumir_Deodato.md)

@@ -51,6 +51,14 @@ By Porcupine Tree
 | D1 | **Even Less** | 13:55 |
 | D2 | **Oceans Have No Memory** | 3:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Anderson (3)** | Recorded By [Assistant, Foel Studios], Mixed By [Assistant, Foel Studios] |
+| **Mark Daghorn** | Recorded By [Assistant, New Rising], Mixed By [Assistant, New Rising] |
+| **Steven Wilson** | Recorded By, Mixed By |
+
 ## See also
 
 - [Nil Recurring](Nil_Recurring.md)

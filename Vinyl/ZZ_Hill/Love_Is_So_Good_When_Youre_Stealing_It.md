@@ -44,6 +44,13 @@ By Z.Z. Hill
 | A | **Love Is So Good When You're Stealing It** | 3:22 |
 | B | **Need You By My Side** | 3:59 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bert DeCoteaux** | Arranged By, Conductor, Producer |
+| **Ray Janos** | Mastered By |
+
 ## See also
 
 - [](ZZ_Hill.md)

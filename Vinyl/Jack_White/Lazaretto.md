@@ -58,6 +58,28 @@ By Jack White
 | B7 | **Untitled** |  |
 | B8 | **Untitled** | 0:44 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tristan Duke** | Artwork [Hologram Track] |
+| **Jack White (2)** | Design, Layout |
+| **Nathanio Strimpopulos** | Design, Layout |
+| **Lars Fox** | Edited By [Additional] |
+| **Ian Montone** | Management |
+| **Bob Ludwig** | Mastered By |
+| **Jack White (2)** | Mixed By |
+| **Joshua V. Smith** | Mixed By |
+| **Mary Ellen Matthews** | Photography By |
+| **Lewis Hine** | Photography By [Additional] |
+| **Jack White (2)** | Producer |
+| **Joshua V. Smith** | Recorded By |
+| **Vance Powell** | Recorded By |
+| **Joshua V. Smith** | Recorded By [Assistant] |
+| **Mindy Watts** | Recorded By [Assistant] |
+| **Blind Willie McTell** | Written-By |
+| **Jack White (2)** | Written-By |
+
 ## See also
 
 - [Acoustic Recordings 1998-2016](Acoustic_Recordings_1998-2016.md)

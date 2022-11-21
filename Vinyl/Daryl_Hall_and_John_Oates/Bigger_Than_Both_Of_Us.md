@@ -51,6 +51,34 @@ By Daryl Hall & John Oates
 | B3 | **You'll Never Learn** | 4:12 |
 | B4 | **Falling** | 6:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Daryl Hall & John Oates** | Arranged By |
+| **Leland Sklar** | Bass |
+| **Scott Edwards (2)** | Bass |
+| **James Getzoff** | Concertmaster |
+| **Daryl Hall** | Cover [Concept], Cover [Design] |
+| **Ed Greene (2)** | Drums |
+| **Jim Gordon** | Drums |
+| **John Arrias** | Engineer |
+| **John Mills (2)** | Engineer |
+| **Armin Steiner** | Engineer [Strings] |
+| **John Oates** | Guitar, Harmonica, Vocals |
+| **Ron Barrey** | Illustration [Illustrated By] |
+| **Daryl Hall** | Keyboards, Mandolin [Mandola], Synthesizer, Vocals, Design, Artwork [Cover Concept] |
+| **Christopher Bond** | Lead Guitar, Keyboards, Synthesizer |
+| **Tommy Mottola** | Management |
+| **Allen Zentz** | Mastered By |
+| **Gary Coleman** | Percussion |
+| **Gribbitt!** | Photography By [Cover] |
+| **Kathy Hohl** | Photography By [Insert] |
+| **Sam Emerson** | Photography By [Insert] |
+| **Tom Hensley** | Piano |
+| **Christopher Bond** | Producer, Arranged By, Arranged By [Strings] |
+| **Tom Scott** | Saxophone, Flute, Lyricon |
+
 ## See also
 
 - [](Daryl_Hall_and_John_Oates.md)

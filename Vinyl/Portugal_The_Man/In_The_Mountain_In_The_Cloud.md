@@ -53,6 +53,15 @@ By Portugal. The Man
 | B10 | **Share With Me The Sun** |  |
 | B11 | **Sleep Forever** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Zachary Scott Carothers** | Bass, Percussion, Vocals |
+| **Jason Wade Sechrist** | Drums, Other [Gang] |
+| **Ryan Neighbors** | Piano, Keyboards [Rhodes], Organ, Synth, Vocals |
+| **John Baldwin Gourley** | Vocals, Guitar, Organ, Other [Machines] |
+
 ## See also
 
 - [](Portugal_The_Man.md)

@@ -66,6 +66,41 @@ By Camper Van Beethoven
 | D5 | **It's Gonna Rain** | 4:02 |
 | D6 | **Might Makes Right Dub** | 2:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Casey Martin** | Backing Vocals |
+| **Lauren Hoffman** | Backing Vocals |
+| **Johnny Hickman** | Backing Vocals, Autoharp [MIDI] |
+| **Victor Krummenacher** | Bass Guitar, Guitar |
+| **Mirissa Neff** | Design [Original Package Design] |
+| **Victor Krummenacher** | Design [Original Package Design] |
+| **Ches Smith** | Drums |
+| **Chris Pedersen** | Drums, Percussion |
+| **Miguel Urbiztondo** | Drums, Percussion |
+| **David Immerglück** | Guitar, Backing Vocals, Pedal Steel Guitar, Mandolin |
+| **David Lowery** | Guitar, Vocals, Piano |
+| **Greg Lisher** | Lead Guitar |
+| **David Lowery** | Liner Notes |
+| **Kevin Gray** | Mastered By [Vinyl] |
+| **Alan Weatherhead** | Mixed By |
+| **David Lowery** | Mixed By |
+| **John Morand** | Mixed By |
+| **Jonathan Segel** | Mixed By |
+| **Alan Weatherhead** | Pedal Steel Guitar, Guitar, Synth |
+| **Andy The German** | Photography By |
+| **Troy Gaspard** | Photography By |
+| **Camper Van Beethoven** | Producer [Original Album] |
+| **Alan Weatherhead** | Recorded By |
+| **Bryan Hoffa** | Recorded By |
+| **Casey Martin** | Recorded By |
+| **John Morand** | Recorded By |
+| **Greg Allen (7)** | Reissue Producer, Art Direction, Design |
+| **Chris Molla** | Synth |
+| **William Grishaw** | Synth, Piano |
+| **Jonathan Segel** | Violin, Guitar, Synth, Vocals |
+
 ## See also
 
 - [Camper Van Beethoven](Camper_Van_Beethoven.md)

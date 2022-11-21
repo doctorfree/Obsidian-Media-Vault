@@ -54,6 +54,13 @@ By Wilson Pickett
 | B5 | **Soul Dance Number Three** | 2:38 |
 | B6 | **Land Of 1000 Dances** | 2:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joe Reagoso** | Remastered By |
+| **Kevin Gray** | Remastered By |
+
 ## See also
 
 - ["634-5789 (Soulsville, U.S.A.)"](634-5789_Soulsville__USA.md)

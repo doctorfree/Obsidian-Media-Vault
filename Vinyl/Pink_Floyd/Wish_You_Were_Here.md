@@ -47,6 +47,27 @@ By Pink Floyd
 | B2 | **Wish You Were Here** |  |
 |  | **Shine On You Crazy Diamond (6 - 9)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Carlena Williams** | Backing Vocals |
+| **Venetta Fields** | Backing Vocals |
+| **Howard Bartrop** | Design |
+| **Jeff Smith (17)** | Design |
+| **Peter Christopherson** | Design |
+| **Richard Manning (3)** | Design |
+| **Hipgnosis (2)** | Design, Sleeve, Photography By |
+| **Brian Humphries** | Engineer |
+| **Peter James** | Engineer [Assisted By] |
+| **George Hardie** | Graphics |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Roger Waters** | Lyrics By |
+| **Pink Floyd** | Producer |
+| **Bernie Grundman** | Remastered By |
+| **James Guthrie** | Remastered By |
+| **Joel Plante** | Remastered By |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

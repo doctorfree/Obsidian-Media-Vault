@@ -44,6 +44,16 @@ By The American Comedy Network
 | B2 | **Krapco Home Psychiatrist** | 1:02 |
 | B3 | **Krapco Gene Splicer** | 1:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Todd Deasey** | Lacquer Cut By |
+| **Mahlon Merrick** | Music By [The Gillette Look Sharp March] |
+| **Bob Rivers (2)** | Producer |
+| **The American Comedy Network** | Producer |
+| **The American Comedy Network** | Written-By |
+
 ## See also
 
 - [](The_American_Comedy_Network.md)

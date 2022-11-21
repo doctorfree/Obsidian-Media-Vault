@@ -48,6 +48,14 @@ Donnie is my brother
 | A | **One More Goodbye, One More Hello** |  |
 | B | **One More Goodbye, One More Hello** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Terry Choate** | Producer |
+| **Deborah Allen** | Written-By |
+| **Rafe Van Hoy** | Written-By |
+
 ## See also
 
 - [](Donnie_Record.md)

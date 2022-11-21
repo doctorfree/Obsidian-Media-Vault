@@ -52,6 +52,23 @@ By Phil Collins
 | B4 | **Inside Out** | 5:14 |
 | B5 | **Take Me Home** | 5:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Leland Sklar** | Bass |
+| **Baker Dave** | Design [Album Design] |
+| **Chief Gary** | Design [Album Design] |
+| **Phil Collins** | Design [Album Design] |
+| **Phil Collins** | Drums |
+| **Daryl Stuermer** | Guitar |
+| **Phil Collins** | Keyboards |
+| **Peter Ashworth** | Photography By |
+| **Phil Collins** | Producer |
+| **Hugh Padgham** | Producer, Engineer |
+| **Steve "Barney" Chase** | Technician [Assisted By] |
+| **Phil Collins** | Vocals |
+
 ## See also
 
 - [](Phil_Collins.md)

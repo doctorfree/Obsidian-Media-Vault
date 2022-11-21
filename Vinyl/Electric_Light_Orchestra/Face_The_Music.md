@@ -50,6 +50,28 @@ By Electric Light Orchestra
 | B3 | **Down Home Town** | 3:53 |
 | B4 | **One Summer Dream** | 5:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeff Lynne** | Arranged By [Strings] |
+| **Louis Clark** | Arranged By [Strings] |
+| **Richard Tandy** | Arranged By [Strings] |
+| **Kelly Groucutt** | Bass, Vocals, Backing Vocals |
+| **Hugh McDowell** | Cello |
+| **Melvyn Gale** | Cello |
+| **John Kehe** | Design |
+| **Mick Haggerty** | Design |
+| **Bev Bevan** | Drums, Percussion, Backing Vocals |
+| **Mack (2)** | Engineer |
+| **Jeff Lynne** | Guitar, Vocals, Backing Vocals |
+| **Norman Seeff** | Photography By [Back Cover] |
+| **Fred Valentine** | Photography By [Cover & Inside Sleeve] |
+| **Richard Tandy** | Piano, Synthesizer [Moog], Guitar, Clavinet |
+| **Jeff Lynne** | Producer |
+| **Mik Kaminski** | Violin |
+| **Jeff Lynne** | Written-By |
+
 ## See also
 
 - [Eldorado - A Symphony By The Electric Light Orchestra](Eldorado_-_A_Symphony_By_The_Electric_Light_Orchestra.md)

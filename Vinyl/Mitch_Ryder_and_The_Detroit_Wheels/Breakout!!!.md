@@ -55,6 +55,12 @@ By Mitch Ryder & The Detroit Wheels
 | B5 | **I Need Help** | 2:26 |
 | B6 | **Breakout** | 3:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Crewe** | Arranged By, Conductor, Producer |
+
 ## See also
 
 - [Take A Ride...](Take_A_Ride.md)

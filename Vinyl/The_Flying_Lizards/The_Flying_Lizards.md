@@ -52,6 +52,16 @@ By The Flying Lizards
 | B4 | **Events During Flood** | 3:25 |
 | B5 | **The Window** | 4:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Laurie-Rae Chamberlain** | Artwork [Xerography] |
+| **Dave Hunt** | Engineer |
+| **David Cunningham** | Engineer |
+| **Richard Rayner-Canham** | Photography By |
+| **David Cunningham** | Producer |
+
 ## See also
 
 - [](The_Flying_Lizards_index.md)

@@ -44,6 +44,13 @@ By Sly & The Family Stone
 | A | **Thank You (Falettinme Be Mice Elf Agin)** | 4:47 |
 | B | **Everybody Is A Star** | 3:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sly Stone** | Producer [Produced By] |
+| **Sylvester Stewart** | Written-By |
+
 ## See also
 
 - [](Sly_and_The_Family_Stone.md)

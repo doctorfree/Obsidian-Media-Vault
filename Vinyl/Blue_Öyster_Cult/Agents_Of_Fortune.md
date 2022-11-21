@@ -52,6 +52,46 @@ By Blue Öyster Cult
 | B4 | **Tenderloin** | 3:53 |
 | B5 | **Debbie Denise** | 4:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Blue Öyster Cult** | Arranged By |
+| **Allen Lanier** | Bass |
+| **Joe Bouchard** | Bass |
+| **Andy Engel** | Design [Album] |
+| **John Berg** | Design [Album] |
+| **Albert Bouchard** | Drums, Acoustic Guitar, Harmonica |
+| **Andy Abrams** | Engineer [Recording And Mixing] |
+| **Shelly Yakus** | Engineer [Recording And Mixing] |
+| **Allen Lanier** | Guitar |
+| **Donald "Buck Dharma" Roeser** | Guitar |
+| **Eric Bloom** | Guitar |
+| **Michael Brecker** | Horns |
+| **Randy Brecker** | Horns |
+| **Allen Lanier** | Keyboards |
+| **Eric Bloom** | Keyboards |
+| **Joe Reagoso** | Mastered By |
+| **Tony Stevens (3)** | Mastered By |
+| **Ron McMaster** | Mastered By [Vinyl] |
+| **Lynn Curlee** | Painting [Cover] |
+| **Albert Bouchard** | Percussion |
+| **Donald "Buck Dharma" Roeser** | Percussion |
+| **Eric Bloom** | Percussion |
+| **Columbia Records Photo Studio** | Photography By |
+| **Don Hunstein** | Photography By |
+| **Joe Bouchard** | Piano |
+| **David Lucas** | Producer |
+| **Murray Krugman** | Producer |
+| **Sandy Pearlman** | Producer |
+| **Donald "Buck Dharma" Roeser** | Synthesizer |
+| **Albert Bouchard** | Vocals |
+| **Allen Lanier** | Vocals |
+| **Donald "Buck Dharma" Roeser** | Vocals |
+| **Eric Bloom** | Vocals |
+| **Joe Bouchard** | Vocals |
+| **Patti Smith** | Vocals |
+
 ## See also
 
 - [Secret Treaties](Secret_Treaties.md)

@@ -44,6 +44,15 @@ By Kenny Rogers
 | A | **Lucille** | 3:39 |
 | B | **Till I Get It Right** | 3:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Billy Sherrill** | Engineer |
+| **Harold Lee (7)** | Engineer |
+| **Bob Sowell** | Lacquer Cut By |
+| **Larry Butler** | Producer |
+
 ## See also
 
 - [](Kenny_Rogers.md)

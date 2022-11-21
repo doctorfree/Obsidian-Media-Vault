@@ -46,6 +46,24 @@ By Porcupine Tree
 | B1 | **Cheating the Polygraph** | 7:10 |
 | B2 | **What Happens Now?** | 8:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Colin Edwin** | Bass Guitar |
+| **Carl Glover (4)** | Design |
+| **Gavin Harrison** | Drums, Percussion |
+| **Mark Prator** | Engineer [SW Gutars Engineered By] |
+| **Richard Barbieri** | Keyboards, Synthesizer |
+| **MK (11)** | Lacquer Cut By |
+| **Steven Wilson** | Mixed By, Mastered By |
+| **Lasse Hoile** | Photography By |
+| **John Wesley (3)** | Producer [SW Gutars Produced By] |
+| **Steven Wilson** | Producer [SW Gutars Produced By] |
+| **Porcupine Tree** | Producer, Arranged By |
+| **Steven Wilson** | Remastered By |
+| **Steven Wilson** | Vocals, Piano, Keyboards, Guitar |
+
 ## See also
 
 - [Recordings](Recordings.md)

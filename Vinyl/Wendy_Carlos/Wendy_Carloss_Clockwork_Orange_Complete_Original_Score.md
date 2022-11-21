@@ -52,6 +52,14 @@ By Wendy Carlos
 | 9 | **Biblical Daydreams** | 2:06 |
 | 10 | **Country Lane** | 4:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Wendy Carlos** | Artwork [Assembly], Graphics, Performer, Remastered By |
+| **Chelsea Louviere** | Painting [Cover Painting] |
+| **Rachel Elkind** | Producer |
+
 ## See also
 
 - [Switched-On Brandenburgs (The Complete Concertos)](Switched-On_Brandenburgs_The_Complete_Concertos.md)

@@ -52,6 +52,24 @@ By "Merl Saunders, Jerry Garcia, John Kahn, Bill Vitt"
 | D1 | **Someday Baby** | 10:13 |
 | D2 | **Like A Road** | 10:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tony Lane (2)** | Art Direction, Design |
+| **John Kahn** | Bass |
+| **Bill Vitt** | Drums |
+| **Jerry Garcia** | Guitar, Vocals |
+| **Merl Saunders** | Keyboards |
+| **Annie Leibovitz** | Photography By |
+| **Steven Shames** | Photography By [Back Cover] |
+| **Bill Vitt** | Producer |
+| **Jerry Garcia** | Producer |
+| **John Kahn** | Producer |
+| **Merl Saunders** | Producer |
+| **Betty Cantor** | Recorded By |
+| **Rex Jackson** | Recorded By |
+
 ## See also
 
 - [](Merl_Saunders__Jerry_Garcia__John_Kahn__Bill_Vitt.md)

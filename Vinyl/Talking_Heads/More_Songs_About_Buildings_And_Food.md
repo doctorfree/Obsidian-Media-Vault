@@ -53,6 +53,24 @@ By Talking Heads
 | B4 | **Take Me To The River** | 5:00 |
 | B5 | **The Big Country** | 5:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tina Weymouth** | Bass Guitar |
+| **David Byrne** | Cover [Concept] |
+| **Jimmy de Sana** | Cover [Reproduction] |
+| **Chris Frantz** | Drums, Percussion |
+| **Rhett Davies** | Engineer |
+| **Benjamin Armbrister** | Engineer [Assistant Engineer] |
+| **Chris Bellman** | Lacquer Cut By, Remastered By |
+| **Joe Gastwirt** | Mastered By |
+| **Jerry Harrison** | Piano, Organ, Synthesizer, Guitar, Backing Vocals |
+| **Brian Eno** | Producer |
+| **Talking Heads** | Producer |
+| **Brian Eno** | Synthesizer, Piano, Guitar, Percussion, Backing Vocals |
+| **David Byrne** | Vocals, Guitar, Synthesizer [Synthesized Percussion] |
+
 ## See also
 
 - [Fear Of Music](Fear_Of_Music.md)

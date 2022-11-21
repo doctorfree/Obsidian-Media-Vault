@@ -51,6 +51,25 @@ By Elton John
 | B4 | **All The Nasties** | 5:07 |
 | B5 | **Goodbye** | 1:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Buckmaster** | Arranged By, Conductor |
+| **David Larkham** | Art Direction, Sleeve, Design |
+| **Gill (18)** | Artwork [Back Cover Embroidery] |
+| **Yanis (3)** | Artwork [Front Cover Embroidery] |
+| **Stephen Brown (2)** | Coordinator |
+| **Robin Geoffrey Cable** | Engineer |
+| **Sean Magee** | Lacquer Cut By |
+| **David Larkham** | Photography By [Booklet Cover], Illustration |
+| **Bob Gruen** | Photography By [Booklet] |
+| **Ed Caraeff** | Photography By [Elton John] |
+| **Gus Dudgeon** | Producer |
+| **Bob Ludwig** | Remastered By |
+| **Ken Scott** | Remix |
+| **Elton John & Bernie Taupin** | Written-By |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

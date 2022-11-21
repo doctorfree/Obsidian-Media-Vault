@@ -54,6 +54,36 @@ By John Lennon
 | B5 | **Nobody Loves You (When You're Down And Out)** |  |
 | B6 | **Ya Ya** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eddie Mottau** | Acoustic Guitar |
+| **Roy Kohara** | Art Direction, Design |
+| **Klaus Voormann** | Bass |
+| **Ken Ascher** | Clavinet |
+| **May Pang** | Coordinator [Production Coordinator] |
+| **Jim Keltner** | Drums |
+| **Ken Ascher** | Electric Piano |
+| **Shelly Yakus** | Engineer |
+| **Jimmy Iovine** | Engineer [Over-Dub Engineer] |
+| **Roy Cicala** | Engineer [Strings and Re-Mix Engineer] |
+| **Jesse Ed Davis** | Guitar |
+| **Ron Aprea** | Horns |
+| **The Little Big Horns** | Horns |
+| **Sean Magee** | Lacquer Cut By [Runout Etching i…i, variant 2] |
+| **Greg Calbi** | Mastered By |
+| **Tom Rabstenek** | Mastered By |
+| **Ken Ascher** | Orchestrated By [Orchestration], Conductor |
+| **Arthur Jenkins** | Percussion |
+| **The Little Big Horns** | Performer [with] |
+| **The Philharmanic Orchestrange** | Performer [with] |
+| **The Plastic Ono Band** | Performer [with] |
+| **Bob Gruen** | Photography By |
+| **Nicky Hopkins** | Piano |
+| **John Lennon** | Producer, Arranged By, Liner Notes |
+| **John Lennon** | Written-By |
+
 ## See also
 
 - [Imagine](Imagine.md)

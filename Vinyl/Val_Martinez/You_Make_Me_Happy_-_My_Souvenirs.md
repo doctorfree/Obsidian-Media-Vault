@@ -44,6 +44,13 @@ By Val Martinez
 | A | **You Make Me Happy** | 2:06 |
 | B | **My Souvenirs** | 2:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Shorty Rogers** | Arranged By |
+| **Shorty Rogers** | Conductor |
+
 ## See also
 
 - [](Val_Martinez.md)

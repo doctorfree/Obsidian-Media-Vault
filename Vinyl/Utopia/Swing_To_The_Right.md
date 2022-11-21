@@ -52,6 +52,28 @@ By Utopia
 | B4 | **Only Human** | 5:09 |
 | B5 | **One World** | 3:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Wagman** | Art Direction |
+| **Geoffrey Thomas (2)** | Artwork [Tinting] |
+| **Walt Behnke** | Cover |
+| **Lisa Amowitz** | Design |
+| **The Creative Directors Inc.** | Design |
+| **Chris Andersen** | Engineer [(Engineered By] |
+| **Todd Rundgren** | Engineer [(Engineered By] |
+| **Eric Gardner (3)** | Management |
+| **Ted Jensen** | Mastered By |
+| **Kasim Sulton** | Performer |
+| **Roger Powell** | Performer |
+| **Todd Rundgren** | Performer |
+| **Willie Wilcox** | Performer |
+| **United Press International** | Photography By [Photo Credits] |
+| **Todd Rundgren** | Producer |
+| **Utopia (5)** | Producer |
+| **Utopia (5)** | Written-By |
+
 ## See also
 
 - [Ra](Ra.md)

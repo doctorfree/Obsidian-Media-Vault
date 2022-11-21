@@ -57,6 +57,21 @@ By Cream
 | D1 | **Traintime** | 6:52 |
 | D2 | **Toad** | 15:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Martin Sharp (2)** | Artwork [Album Art] |
+| **Stanislaw Zagorski** | Design [Album Design] |
+| **Adrian Barber** | Engineer |
+| **Bill Halverson** | Engineer |
+| **Tom Dowd** | Engineer |
+| **Adrian Barber** | Engineer [Re-mix] |
+| **Lex van Coeverden** | Lacquer Cut By |
+| **Lex van Coeverden** | Mastered By |
+| **Felix Pappalardi** | Producer |
+| **Robert Stigwood** | Producer [By Arrangement With] |
+
 ## See also
 
 - [Disraeli Gears](Disraeli_Gears.md)

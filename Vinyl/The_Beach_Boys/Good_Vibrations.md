@@ -48,6 +48,15 @@ By The Beach Boys
 | B2 | **Good Vibrations (Live Concert Rehearsal 8/25/67)** |  |
 | B3 | **Let's Go Away For Awhile (Original B-Side)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron McMaster** | Lacquer Cut By |
+| **Brian Wilson** | Producer |
+| **Brian Wilson** | Written-By |
+| **Mike Love** | Written-By |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

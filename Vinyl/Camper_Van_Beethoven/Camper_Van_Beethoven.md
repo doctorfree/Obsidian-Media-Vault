@@ -58,6 +58,29 @@ By Camper Van Beethoven
 | B7 | **Interstellar Overdrive** |  |
 | B8 | **Shut Us Down** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andrew Norton** | Artwork [Colored By] |
+| **Jonathan Segel** | Artwork [Colored By] |
+| **David Lowery** | Artwork [Drawing] |
+| **David Lowery** | Artwork [Printing] |
+| **Jonathan Segel** | Artwork [Printing] |
+| **Victor Krummenacher** | Bass, Vocals, Other [Cake Decoration] |
+| **Crispy Derson** | Drums [Legendary Drummer], Other [Wearer Of Wigs!] |
+| **Tom Fox** | Engineer |
+| **Eugene Chadbourne** | Guitar [Genuine Psychedelic Guitar Solos], Banjo, Other [Leaving One Dirty Sock In Albuquerque] |
+| **Jonathan Segel** | Guitar, Bass, Instruments [Everything You Hear On This Record That Is Not A Guitar Or Drum], Other [Wore False Nose & Moustache Glasses] |
+| **Greg Lisher** | Guitar, Guitar [Solos Of Enduring Beauty And Great Strength] |
+| **David Lowery** | Guitar, Vocals, Steel Guitar, Other [Pantomine Horse (actually 1/2 Of Pantomine Horse)] |
+| **Jack Adams (2)** | Mastered By |
+| **Soviet Spys** | Other [Swim Upstream Disguised As Trout] |
+| **Chris Molla** | Pedal Steel Guitar, Guitar, Vocals, Other [Hairstyles] |
+| **Edie Winograde** | Photography By [Front Cover Photo] |
+| **Camper Van Beethoven** | Producer |
+| **Camper Van Beethoven** | Written-By |
+
 ## See also
 
 - [New Roman Times](New_Roman_Times.md)

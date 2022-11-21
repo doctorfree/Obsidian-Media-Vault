@@ -44,6 +44,15 @@ By ABBA
 | A | **Fernando** | 4:11 |
 | AA | **Dancing Queen** | 3:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Piros** | Lacquer Cut By |
+| **Benny Andersson** | Written-By |
+| **Björn Ulvaeus** | Written-By |
+| **Stig Anderson** | Written-By |
+
 ## See also
 
 - [Gold (Greatest Hits)](Gold_Greatest_Hits.md)

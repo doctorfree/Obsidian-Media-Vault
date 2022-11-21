@@ -53,6 +53,29 @@ By New York Dolls
 | B5 | **Private World** | 3:39 |
 | B6 | **Jet Boy** | 4:41 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **New York Dolls** | Arranged By |
+| **Arthur Kane** | Bass |
+| **Jerry Nolan** | Drums |
+| **Ed Sprigg** | Engineer |
+| **Jack Douglas** | Engineer |
+| **David Krebs** | Executive-Producer |
+| **Marty Thau** | Executive-Producer |
+| **Paul Nelson** | Executive-Producer |
+| **Steve Leber** | Executive-Producer |
+| **Johnny Thunders** | Guitar, Vocals |
+| **Sylvain Sylvain** | Guitar, Vocals, Piano |
+| **Todd Rundgren** | Producer, Piano [Additional], Synthesizer [Moog] |
+| **The Fantastic Buddy Bowser** | Saxophone |
+| **David Johansen** | Vocals, Harmonica, Gong |
+| **Arthur Kane** | Written-By |
+| **David Johansen** | Written-By |
+| **Johnny Thunders** | Written-By |
+| **Sylvain Sylvain** | Written-By |
+
 ## See also
 
 - [](New_York_Dolls_index.md)

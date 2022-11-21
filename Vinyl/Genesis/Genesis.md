@@ -51,6 +51,21 @@ By Genesis
 | B4 | **Silver Rainbow** | 4:27 |
 | B5 | **It's Gonna Get Better** | 5:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Smith (19)** | Cover |
+| **Phil Collins** | Drums, Percussion, Lead Vocals |
+| **Hugh Padgham** | Engineer |
+| **Mike Rutherford** | Guitar, Bass, Backing Vocals |
+| **Tony Banks** | Keyboards, Backing Vocals |
+| **Pounda** | Mastered By |
+| **Genesis** | Producer |
+| **Hugh Padgham** | Producer [With] |
+| **Geoff Callingham** | Technician [Technical Assistance] |
+| **Genesis** | Written-By [All Songs Written By] |
+
 ## See also
 
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)

@@ -70,6 +70,35 @@ By Wings
 | F3 | **Hi, Hi, Hi** |  |
 | F4 | **Soily** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Geoff Halpin** | Design [Lettering] |
+| **Richard Evans (7)** | Design, Graphics |
+| **Jeff Cummins** | Design, Painting [Inner] |
+| **Richard Manning (3)** | Design, Painting [Outer] |
+| **Robert Ellis (4)** | Design, Photography By [Poster] |
+| **Hipgnosis (2)** | Design, Sleeve |
+| **MPL Communications** | Design, Sleeve |
+| **Joe English** | Drums, Vocals |
+| **Jack Maxson** | Engineer [Recording] |
+| **Mark Vigars** | Engineer [Recording] |
+| **Phil McDonald** | Engineer [Recording] |
+| **Tom Walsh (3)** | Engineer [Recording] |
+| **Paul McCartney** | Producer |
+| **Guy Massey** | Remastered By [Audio Remastered] |
+| **Simon Gibson** | Remastered By [Audio Remastered] |
+| **Steve Rooke** | Remastered By [Audio Remastered] |
+| **Howie Casey** | Saxophone |
+| **Thaddeus Richard** | Saxophone, Clarinet, Flute |
+| **Tony Dorsey** | Trombone |
+| **Steve Howard** | Trumpet, Flugelhorn |
+| **Paul McCartney** | Vocals, Bass Guitar, Piano, Acoustic Guitar |
+| **Jimmy McCulloch** | Vocals, Electric Guitar, Acoustic Guitar, Bass |
+| **Denny Laine** | Vocals, Electric Guitar, Acoustic Guitar, Piano, Bass, Goblet Drum [Gob Iron] |
+| **Linda McCartney** | Vocals, Keyboards |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

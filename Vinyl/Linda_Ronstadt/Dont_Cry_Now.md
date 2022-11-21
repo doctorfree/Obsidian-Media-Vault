@@ -52,6 +52,24 @@ By Linda Ronstadt
 | B4 | **Everybody Loves A Winner** | 3:15 |
 | B5 | **I Believe In You** | 2:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Boylan** | Co-producer |
+| **Peter Asher** | Co-producer |
+| **Cathy Deeter** | Design [Cover Design] |
+| **Glenn Ross** | Design [Cover Design] |
+| **John Haeny** | Engineer |
+| **Peter Granet** | Engineer |
+| **Ric Tarantini** | Engineer |
+| **Al Schmitt** | Engineer [Remix] |
+| **John David Souther** | Engineer [Remix] |
+| **Ed Caraeff** | Photography By [Cover Photo] |
+| **Terry Wright (3)** | Photography By [Sleeve] |
+| **John Boylan** | Producer |
+| **John David Souther** | Producer |
+
 ## See also
 
 - [Hasten Down The Wind](Hasten_Down_The_Wind.md)

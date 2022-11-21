@@ -50,6 +50,29 @@ By The Grateful Dead
 | B3 | **Easy Wind** | 4:59 |
 | B4 | **Casey Jones** | 4:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bonnie Parker (3)** | Administrator [Guardians of the Vault] |
+| **David Parker (12)** | Administrator [Guardians of the Vault] |
+| **Cosmic Gail** | Administrator [Lady in Waiting] |
+| **Ram Rod** | Crew [Equipment] |
+| **Rex Jackson** | Crew [Equipment] |
+| **Sonny Heard** | Crew [Equipment] |
+| **Alembic** | Engineer [Engineered By] |
+| **Kent Duncan** | Lacquer Cut By |
+| **Robert Hunter** | Lyrics By |
+| **John McIntire** | Management [Big Nurse] |
+| **Sam Cutler** | Management [Executive Nanny] |
+| **Jerry Garcia** | Music By |
+| **Phil Lesh** | Music By |
+| **Mouse Studios** | Photography By [Cover Photo], Artwork, Design |
+| **Toon N Tree** | Photography By [Cover Photo], Artwork, Design |
+| **Betty Cantor** | Producer |
+| **Bob Matthews** | Producer |
+| **The Grateful Dead** | Producer |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

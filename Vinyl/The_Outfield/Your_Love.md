@@ -44,6 +44,13 @@ By The Outfield
 | A | **Your Love** | 3:22 |
 | B | **61 Seconds** | 4:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **William Wittman** | Producer |
+| **John Spinks** | Written-By |
+
 ## See also
 
 - [](The_Outfield.md)

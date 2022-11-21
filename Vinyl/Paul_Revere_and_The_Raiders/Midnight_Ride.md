@@ -53,6 +53,22 @@ By Paul Revere & The Raiders
 | B4 | **Take A Look At Yourself** |  |
 | B5 | **Melody For An Unknown Girl** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Revere & The Raiders** | Arranged By |
+| **Terry Melcher** | Arranged By |
+| **Roger Hart (2)** | Coordinator [Music] |
+| **Drake Levin** | Performer |
+| **Mark Lindsay** | Performer |
+| **Mike Smith (34)** | Performer |
+| **Paul Revere** | Performer |
+| **Phil Volk** | Performer |
+| **Guy Webster** | Photography By [Cover] |
+| **Dean Martin Jr.** | Tambourine, Maracas |
+| **Keith Allison** | Tambourine, Maracas |
+
 ## See also
 
 - [Just Like Us!](Just_Like_Us!.md)

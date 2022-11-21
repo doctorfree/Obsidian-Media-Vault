@@ -44,6 +44,12 @@ By Frank Ifield
 | A | **I Remember You** |  |
 | B | **I Listen To My Heart** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Norrie Paramor** | Directed By [Accompaniment] |
+
 ## See also
 
 - [](Frank_Ifield.md)

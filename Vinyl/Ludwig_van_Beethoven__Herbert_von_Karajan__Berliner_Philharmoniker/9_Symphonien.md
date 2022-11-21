@@ -51,6 +51,15 @@ By "Ludwig van Beethoven, Herbert von Karajan, Berliner Philharmoniker"
 |  | **Symphonie Nr. 8 F-Dur Op. 93** |  |
 |  | **IX. Symphonie D-Moll Op. 125** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ludwig van Beethoven** | Composed By |
+| **Herbert von Karajan** | Conductor |
+| **Günter Hermanns** | Engineer |
+| **Berliner Philharmoniker** | Orchestra |
+
 ## See also
 
 - [](Ludwig_van_Beethoven__Herbert_von_Karajan__Berliner_Philharmoniker.md)

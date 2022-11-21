@@ -44,6 +44,13 @@ By Yazoo
 | A | **Nobody's Diary** | 3:58 |
 | B | **State Farm** | 3:34 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eric Radcliffe** | Producer |
+| **Yazoo** | Producer |
+
 ## See also
 
 - [](Yazoo.md)

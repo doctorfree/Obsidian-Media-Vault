@@ -54,6 +54,16 @@ By The Grass Roots
 | B5 | **This Precious Time** | 3:01 |
 | B6 | **House Of Stone** | 2:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Philip Schwartz** | Cover, Design, Photography |
+| **Chuck Britz** | Engineer |
+| **Warren Entner** | Photography |
+| **P.F. Sloan** | Producer |
+| **Steve Barri** | Producer |
+
 ## See also
 
 - [Temptation Eyes](Temptation_Eyes.md)

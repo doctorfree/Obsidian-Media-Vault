@@ -281,6 +281,12 @@ By The Beatles
 | AF6 | **Let It Be** |  |
 | AF7 | **You Know My Name (Look Up The Number)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sean Magee** | Mastered By |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

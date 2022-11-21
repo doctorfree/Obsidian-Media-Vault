@@ -58,6 +58,16 @@ By Black Eyed Peas
 | D3 | **Head Bobs** |  |
 | D4 | **Positivity** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Will I Am** | Co-producer |
+| **Brian Lapin** | Mixed By |
+| **Tim Latham** | Mixed By |
+| **Will I Am** | Producer |
+| **Kim Hill** | Vocals |
+
 ## See also
 
 - [](Black_Eyed_Peas.md)

@@ -49,6 +49,19 @@ By Fleetwood Mac
 | B2 | **Jumping At Shadows** | 4:58 |
 | B3 | **Can't Hold On** | 6:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John McVie** | Bass |
+| **Helen Robinson (5)** | Cover, Design |
+| **Mick Fleetwood** | Drums |
+| **Danny Kirwan** | Guitar, Vocals |
+| **Jeremy Spencer** | Guitar, Vocals |
+| **Peter Green (2)** | Guitar, Vocals |
+| **Frank Ford (11)** | Lacquer Cut By |
+| **Vic Maile** | Recorded By |
+
 ## See also
 
 - [Don't Stop / Never Going Back Again](Dont_Stop_-_Never_Going_Back_Again.md)

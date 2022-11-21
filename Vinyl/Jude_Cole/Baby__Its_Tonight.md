@@ -44,6 +44,14 @@ By Jude Cole
 | A | **Baby, It's Tonight** | 3:40 |
 | B | **Heart Of Blues** | 4:59 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Ostin** | Executive Producer |
+| **David Tyson** | Producer |
+| **Jude Cole** | Written-By |
+
 ## See also
 
 - [](Jude_Cole.md)

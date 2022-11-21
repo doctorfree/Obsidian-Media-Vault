@@ -51,6 +51,28 @@ By Madonna
 | B3 | **Pretender** | 4:31 |
 | B4 | **Stay** | 4:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeffrey Kent Ayeroff** | Art Direction |
+| **Paula Greif** | Art Direction |
+| **Jeri McManus** | Art Direction, Design |
+| **Curtis King** | Backing Vocals |
+| **Frank Simms** | Backing Vocals |
+| **George Simms** | Backing Vocals |
+| **Madonna** | Backing Vocals |
+| **Bernard Edwards** | Bass |
+| **Jimmy Bralower** | Drum Programming [Linn, Simmons] |
+| **Tony Thompson (2)** | Drums |
+| **Weisner-DeMann Entertainment** | Management |
+| **Steven Meisel** | Photography By |
+| **Nile Rodgers** | Producer, Guitar |
+| **Rob Sabino** | Synthesizer [Assorted] |
+| **Rob Sabino** | Synthesizer [Bass] |
+| **Madonna** | Written-By |
+| **Stephen Bray** | Written-By |
+
 ## See also
 
 - [Like A Prayer](Like_A_Prayer.md)

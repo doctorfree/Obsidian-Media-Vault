@@ -54,6 +54,26 @@ By Buffalo Springfield
 | B5 | **Uno Mundo** | 2:00 |
 | B6 | **Kind Woman** | 4:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Derinda Christiansen** | Artwork [Backliner] |
+| **Jimini Productions** | Artwork [Cover] |
+| **Adrian Barber** | Engineer |
+| **Jim Messina** | Engineer |
+| **Phil Iehle** | Engineer |
+| **Jim Messina** | Producer |
+| **Jim Messina** | Vocals [Lead] |
+| **Neil Young** | Vocals [Lead] |
+| **Richie Furay** | Vocals [Lead] |
+| **Stephen Stills** | Vocals [Lead] |
+| **Jim Messina** | Written-By |
+| **Micki Callen** | Written-By |
+| **Neil Young** | Written-By |
+| **Richie Furay** | Written-By |
+| **Stephen Stills** | Written-By |
+
 ## See also
 
 - [Rock 'N' Roll Woman / A Child's Claim To Fame](Rock_N_Roll_Woman_-_A_Childs_Claim_To_Fame.md)

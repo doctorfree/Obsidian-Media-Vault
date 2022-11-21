@@ -61,6 +61,16 @@ By Lynyrd Skynyrd
 | F1 | **Free Bird ** | 13:59 |
 | F2 | **Sweet Home Alabama** | 3:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Don Was** | Directed By |
+| **Keith Wortman** | Executive-Producer |
+| **Ken Levitan** | Executive-Producer |
+| **Ross Schilling** | Executive-Producer |
+| **Keith Wortman** | Other [Creator] |
+
 ## See also
 
 - [(Pronounced 'Lĕh-'nérd 'Skin-'nérd)](Pronounced_Lĕh-nérd_Skin-nérd.md)

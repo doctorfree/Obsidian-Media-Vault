@@ -49,6 +49,32 @@ By Rickie Lee Jones
 | B2 | **Rainbow Sleeves** | 3:40 |
 | B3 | **So Long** | 2:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nathan East** | Bass |
+| **Eddie Karam** | Conductor [Horns & Strings] |
+| **Jeri McManus** | Design [Album Design] |
+| **Rickie Lee Jones** | Design [Album Design] |
+| **Art Rodriguez** | Drums |
+| **Michael Ruff (2)** | Electric Piano [Fender Rhodes] |
+| **Ken Tracht** | Engineer [2nd Engineer] |
+| **Margaret Gwynne** | Engineer [2nd Engineer] |
+| **Mark Linett** | Engineer, Mixed By, Producer [Production Assistant] |
+| **Dean Parks** | Guitar |
+| **Bobby Hata** | Mastered By [Digitally Mastered By] |
+| **Earl Dannar** | Oboe |
+| **Craig Dietz** | Photography By [Back Cover] |
+| **Rickie Lee Jones** | Piano, Producer, Vocals, Illustration [Cover Drawing] |
+| **Annie Streer** | Producer [Production Assistant] |
+| **JoAnn Tominaga** | Producer [Production Assistant] |
+| **Karen Appere** | Producer [Production Assistant] |
+| **Liz Rosenberg** | Producer [Production Assistant] |
+| **Steve Baker (3)** | Producer [Production Assistant] |
+| **Larry Williams** | Saxophone |
+| **Chuck Findley** | Trumpet |
+
 ## See also
 
 - [Rickie Lee Jones](Rickie_Lee_Jones.md)

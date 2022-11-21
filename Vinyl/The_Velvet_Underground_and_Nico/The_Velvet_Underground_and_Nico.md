@@ -53,6 +53,22 @@ By The Velvet Underground & Nico
 | B4 | **Black Angel's Death Song** | 3:10 |
 | B5 | **European Son To Delmore Schwartz** | 7:44 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Acy Lehman** | Design [Cover Design] |
+| **David Cheppa** | Lacquer Cut By |
+| **Lou Reed** | Lead Guitar, Guitar [Ostrich], Vocals |
+| **Andy Warhol** | Painting [Cover Painting Banana] |
+| **Moe Tucker** | Percussion |
+| **Hugo (38)** | Photography By |
+| **Paul Morrissey (2)** | Photography By |
+| **Andy Warhol** | Producer |
+| **Sterling Morrison** | Rhythm Guitar, Bass Guitar |
+| **John Cale** | Viola [Electric], Piano, Bass Guitar |
+| **Nico (3)** | Vocals [Chanteuse] |
+
 ## See also
 
 - [](The_Velvet_Underground_and_Nico_index.md)

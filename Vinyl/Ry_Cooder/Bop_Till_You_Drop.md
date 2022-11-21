@@ -51,6 +51,23 @@ By Ry Cooder
 | B4 | **Don't You Mess Me Up A Good Thing** | 4:08 |
 | B5 | **I Can't Win** | 4:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tim Drummond** | Bass |
+| **Mike Salisbury** | Design [Album] |
+| **Jim Keltner** | Drums |
+| **Loyd Clifft** | Engineer [Assistant] |
+| **Stuart Gitlin** | Engineer [Assistant] |
+| **David Lindley** | Guitar |
+| **David Alexander (5)** | Photography By |
+| **Ry Cooder** | Producer, Lead Vocals, Guitar |
+| **Lee Herschberg** | Recorded By |
+| **Penny RIngwood** | Supervised By [Production Coordinator] |
+| **Vicki Fortson** | Supervised By [Production Coordinator] |
+| **Wally Bivens** | Supervised By [Production Services] |
+
 ## See also
 
 - [](Ry_Cooder.md)

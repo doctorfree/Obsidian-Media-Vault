@@ -52,6 +52,41 @@ By John Lennon
 | B4 | **How?** | 3:37 |
 | B5 | **Oh Yoko!** | 4:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Lennon** | Arranged By |
+| **John Lennon & Yoko Ono** | Arranged By |
+| **Yoko Ono** | Artwork [Whip And Mirror] |
+| **Yoko Ono** | Cover [Cloud Piece On Cover] |
+| **Yoko Ono** | Design [Cover Design], Photography By |
+| **Eddie Beer** | Engineer [Ascot Sound Studios] |
+| **Eddie Klein** | Engineer [Ascot Sound Studios] |
+| **Eddie Veal** | Engineer [Ascot Sound Studios] |
+| **Eddy Offord** | Engineer [Ascot Sound Studios] |
+| **Phil McDonald** | Engineer [Ascot Sound Studios] |
+| **Jack Douglas** | Engineer [Record Plant] |
+| **Roy Cicala** | Engineer [Record Plant] |
+| **Shelly Yakus** | Engineer [Record Plant] |
+| **Allan Steckler** | Engineer [This And That At Record Plant] |
+| **Arlene Reckson-Cohen** | Engineer [This And That At Record Plant] |
+| **Tom Rabstenek** | Engineer [This And That At Record Plant] |
+| **The Flux Fiddlers** | Featuring [With] |
+| **Sean Magee** | Lacquer Cut By [Runout Etching i…i] |
+| **Dan Richter** | Management [John & Yoko's Personal Assistant] |
+| **Torrie Zito** | Orchestrated By [String Orchestrations] |
+| **Val & Diana** | Other [Food By] |
+| **Mal Evans & Peter Bendry** | Other [This & That] |
+| **John Lennon** | Performer |
+| **The Plastic Ono Band** | Performer |
+| **John Lennon & Yoko Ono** | Producer |
+| **Phil Spector** | Producer |
+| **John Lennon** | Songwriter |
+| **Yoko Ono** | Songwriter [Uncredited] |
+| **George Maciunas** | Typography |
+| **John Lennon** | Vocals [Uncredited] |
+
 ## See also
 
 - [Walls And Bridges](Walls_And_Bridges.md)

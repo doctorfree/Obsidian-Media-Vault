@@ -49,6 +49,32 @@ By The Doors
 | B3 | **Little Red Rooster** | 7:05 |
 | B4 | **Moonlight Drive (Including Horse Latitudes)** | 5:34 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Doors** | Artwork [Concept] |
+| **Jeff Lancaster** | Design |
+| **John Densmore** | Drums |
+| **Robby Krieger** | Guitar |
+| **John Sebastian** | Harmonica |
+| **Ben Edmonds** | Liner Notes |
+| **Bernie Grundman** | Mastered By |
+| **Bill Gazecki** | Mixed By |
+| **Rick Hart** | Mixed By |
+| **Ray Manzarek** | Organ, Bass |
+| **Jim Marshall (3)** | Photography By [Back Cover] |
+| **Peter Polymenakos** | Photography By [Back Cover] |
+| **Yale Joel** | Photography By [Fillmore East] |
+| **David Sygall** | Photography By [Front Cover] |
+| **Henry Diltz** | Photography By [Hollywood Bowl] |
+| **Paul A. Rothchild** | Producer |
+| **Bruce Botnick** | Recorded By [Live] |
+| **Jim Morrison** | Vocals |
+| **The Doors** | Written-By |
+| **Van Morrison** | Written-By |
+| **Willie Dixon** | Written-By |
+
 ## See also
 
 - ["Hello, I Love You, Won't You Tell Me Your Name?"](Hello__I_Love_You__Wont_You_Tell_Me_Your_Name.md)

@@ -47,6 +47,12 @@ By Orchestral Manoeuvres In The Dark
 | B1 | **Motion & Heart (Amazon Version)** | 3:07 |
 | B2 | **Sacred Heart** | 3:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **BilBo (3)** | Lacquer Cut By |
+
 ## See also
 
 - [Enola Gay](Enola_Gay.md)

@@ -59,6 +59,50 @@ By Robert Fripp
 | B8 | **Water Music II** | 4:16 |
 | B9 | **Postscript** | 0:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Sprouse** | Cover [Colorist] |
+| **Amos Poe** | Cover [VTR Images] |
+| **Chris Stein** | Design, Photography By |
+| **Ed Sprigg** | Engineer |
+| **Jim Bonnefond** | Engineer |
+| **Robert Fripp** | Engineer |
+| **Steve Short** | Engineer |
+| **David Prentice** | Engineer [Assistant] |
+| **Jon Smith (3)** | Engineer [Assistant] |
+| **Michael Ruffo** | Engineer [Assistant] |
+| **Barry Andrews** | Featuring |
+| **Brian Eno** | Featuring |
+| **Daryl Hall** | Featuring |
+| **Jerry Marotta** | Featuring |
+| **Narada Michael Walden** | Featuring |
+| **Peter Gabriel** | Featuring |
+| **Peter Hammill** | Featuring |
+| **Phil Collins** | Featuring |
+| **Robert Fripp** | Featuring |
+| **Sid McGinnis** | Featuring |
+| **Terre Roche** | Featuring |
+| **Tony Levin** | Featuring |
+| **George Piros** | Mastered By |
+| **Mary Lou Green** | Other [Hair] |
+| **Robert Fripp** | Producer |
+| **Cream (7)** | Typography |
+| **Edith Fripp** | Voice |
+| **Evelyn Harris** | Voice |
+| **John G. Bennett** | Voice |
+| **Shivapuri Baba** | Voice |
+| **Joanna Walton** | Words By |
+| **Peter Gabriel** | Words By |
+| **Robert Fripp** | Words By |
+| **Daryl Hall** | Written-By |
+| **Joanna Walton** | Written-By |
+| **John G. Bennett** | Written-By |
+| **Peter Gabriel** | Written-By |
+| **Peter Hammill** | Written-By |
+| **Robert Fripp** | Written-By |
+
 ## See also
 
 - [](Robert_Fripp.md)

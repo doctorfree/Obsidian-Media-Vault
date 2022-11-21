@@ -45,6 +45,12 @@ By Jimmy Page & The Black Crowes
 | A2 | **Bring It On Home** | 5:27 |
 | B | **In The Light** | 9:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Janos** | Lacquer Cut By |
+
 ## See also
 
 - [](Jimmy_Page_and_The_Black_Crowes.md)

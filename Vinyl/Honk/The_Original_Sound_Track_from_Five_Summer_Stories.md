@@ -54,6 +54,20 @@ By Honk
 | B4 | **Tunnel Of Love (Instrumental)** | 4:02 |
 | B5 | **Pipeline Sequence (Instrumental)** | 4:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Don Whaley** | Bass, Vocals |
+| **Tris Imboden** | Drums |
+| **Fred Borkgren** | Engineer |
+| **Beth Fitchet** | Guitar, Vocals |
+| **Richard Stekol** | Guitar, Vocals |
+| **Steve Wood (2)** | Keyboards, Vocals |
+| **Honk (2)** | Producer |
+| **Terry Wright (2)** | Producer |
+| **Craig Buhler** | Saxophone, Clarinet, Flute |
+
 ## See also
 
 - [](Honk.md)

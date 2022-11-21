@@ -43,6 +43,19 @@ By "Henryk Szeryng, Johannes Brahms, The London Symphony Orchestra, Antal Dorati
 |--------------|-----------|--------------|
 |  | **Violin Concerto In D Major, Opus 77** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Johannes Brahms** | Composed By |
+| **Antal Dorati** | Conductor |
+| **George Maas** | Design [Cover] |
+| **The London Symphony Orchestra** | Orchestra |
+| **Angus McBean** | Photography By [Cover] |
+| **Harold Lawrence** | Producer |
+| **James Lyons** | Sleeve Notes |
+| **Henryk Szeryng** | Violin |
+
 ## See also
 
 - [](Henryk_Szeryng__Johannes_Brahms__The_London_Symphony_Orchestra__Antal_Dorati.md)

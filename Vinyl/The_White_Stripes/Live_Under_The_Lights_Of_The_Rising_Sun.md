@@ -72,6 +72,14 @@ By The White Stripes
 | D7 | **I'm Bored** | 2:27 |
 | D8 | **Screwdriver** | 3:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Trent Thibodeaux** | Artwork |
+| **Wes Garland** | Lacquer Cut By |
+| **Masao Nakagami** | Photography By |
+
 ## See also
 
 - [Get Behind Me Satan](Get_Behind_Me_Satan.md)

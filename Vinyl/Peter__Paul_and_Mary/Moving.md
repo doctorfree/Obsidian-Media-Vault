@@ -54,6 +54,17 @@ By "Peter, Paul & Mary"
 | B5 | **Morning Train** |  |
 | B6 | **A'soalin'** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Schwartau** | Engineer [Recording] |
+| **John Court** | Liner Notes |
+| **Milton Okun** | Music Director [Musical Director] |
+| **Barry Feinstein** | Photography By [Back] |
+| **Bernard Cole** | Photography By [Front] |
+| **Albert B. Grossman** | Producer |
+
 ## See also
 
 - ["Peter, Paul And Mary"](Peter__Paul_And_Mary.md)

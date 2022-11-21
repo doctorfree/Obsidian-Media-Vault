@@ -62,6 +62,49 @@ By Sean Lennon
 | 19 | **Mind Control** |  |
 | 20 | **Exile** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sean Lennon** | Acoustic Guitar |
+| **Sean Lennon** | Arranged By |
+| **Charlotte Kemp Muhl** | Backing Vocals |
+| **Jordan Galland** | Backing Vocals |
+| **Sean Lennon** | Backing Vocals |
+| **Sean Lennon** | Banjo |
+| **Hideaki Aomori** | Bass Clarinet |
+| **Clarice Jensen** | Cello |
+| **Sean Lennon** | Chamberlin |
+| **Hideaki Aomori** | Clarinet |
+| **Charlotte Kemp Muhl** | Cover [Cover Photo] |
+| **Geoffrey Thorpe** | Design [Cover Design] |
+| **Geoffrey Thorpe** | Design [Package Design] |
+| **Sean Lennon** | Drums |
+| **Sean Lennon** | Electric Bass |
+| **Sean Lennon** | Electric Guitar |
+| **Sean Lennon** | Electric Upright Bass |
+| **Scott Hollingsworth** | Engineer |
+| **Hideaki Aomori** | Flute |
+| **C. J. Camerieri** | French Horn |
+| **Sean Lennon** | Harmonica |
+| **Sean Lennon** | Harpsichord |
+| **Sean Lennon** | MIDI Controller [MIDI Programming] |
+| **Sean Lennon** | Mandolin |
+| **Sean Lennon** | Mellotron |
+| **Scott Hollingsworth** | Mixed By |
+| **Sean Lennon** | Organ |
+| **Sean Lennon** | Percussion |
+| **Sean Lennon** | Performer |
+| **Sean Lennon** | Piano |
+| **Sean Lennon** | Producer |
+| **Sean Lennon** | Synth |
+| **Michael Davis** | Trombone |
+| **C. J. Camerieri** | Trumpet |
+| **Sean Lennon** | Vibraphone |
+| **Rob Moose** | Viola |
+| **Rob Moose** | Violin |
+| **Sean Lennon** | Written By |
+
 ## See also
 
 - [](Sean_Lennon.md)

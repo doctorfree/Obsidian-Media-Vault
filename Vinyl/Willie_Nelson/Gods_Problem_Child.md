@@ -55,6 +55,12 @@ By Willie Nelson
 | B5 | **I Made A Mistake** |  |
 | B6 | **He Won't Ever Be Gone** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Buddy Cannon** | Producer |
+
 ## See also
 
 - [](Willie_Nelson.md)

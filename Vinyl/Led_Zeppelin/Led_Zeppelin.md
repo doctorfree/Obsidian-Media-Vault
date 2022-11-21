@@ -60,6 +60,23 @@ By Led Zeppelin
 | F1 | **I Can't Quit You Baby** | 6:41 |
 | F2 | **How Many More Times** | 10:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Paul Jones** | Bass, Organ, Backing Vocals [Backing Vocal] |
+| **Studio Fury** | Design [2014 Album Design] |
+| **George Hardie** | Design [Cover Design, Original Album] |
+| **John Bonham** | Drums, Timpani [Tympani], Backing Vocals [Backing Vocal] |
+| **Robert Plant** | Electric Guitar, Acoustic Guitar, Pedal Steel Guitar, Backing Vocals [Backing Vocal] |
+| **Glyn Johns** | Engineer [Engineered By] |
+| **Peter Grant** | Executive-Producer |
+| **Chris Dreja** | Photography By [Back Liner Photo, Original Album] |
+| **Jean-Pierre Leloir** | Photography By [Live At The Olympia Photo] |
+| **Herb Greene** | Photography By [Press Photo] |
+| **Jimmy Page** | Producer [Produced By] |
+| **Jimmy Page** | Remastered By |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

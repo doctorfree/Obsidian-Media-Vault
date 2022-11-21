@@ -52,6 +52,31 @@ By Jefferson Starship
 | B4 | **Sandalphon** | 4:08 |
 | B5 | **There Will Be Love** | 5:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Roberts (3)** | Arranged By [Strings & Horns] |
+| **Frank Mulvey** | Art Direction |
+| **David Freiberg** | Bass, Keyboards, Vocals |
+| **Pete Sears** | Bass, Keyboards, Vocals |
+| **Larry Cox** | Co-producer, Engineer |
+| **Pat Ieraci** | Coordinator [Production] |
+| **John Barbata** | Drums, Percussion, Vocals, Congas |
+| **Gribbitt!** | Graphics |
+| **Craig Chaquico** | Lead Guitar, Vocals |
+| **Kent Duncan** | Mastered By |
+| **Bobbye Hall** | Percussion, Congas |
+| **Jim Marshall (3)** | Photography By [Liner] |
+| **Grace Slick** | Piano, Vocals |
+| **Jefferson Starship** | Producer |
+| **Jeffrey Husband** | Recorded By |
+| **Steve Mantoani** | Recorded By |
+| **Paul Kantner** | Rhythm Guitar, Vocals |
+| **Irv Cox** | Saxophone |
+| **Papa John Creach** | Violin |
+| **Marty Balin** | Vocals |
+
 ## See also
 
 - [Count On Me / Show Yourself](Count_On_Me_-_Show_Yourself.md)

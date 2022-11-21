@@ -49,6 +49,20 @@ By The Grateful Dead
 |  | **Terrapin Station** |  |
 |  | **Terrapin Part I** | 16:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Kevin Gray** | Lacquer Cut By |
+| **Bill Kreutzmann** | Performer |
+| **Bob Weir** | Performer |
+| **Donna Godchaux** | Performer |
+| **Jerry Garcia** | Performer |
+| **Keith Godchaux** | Performer |
+| **Mickey Hart** | Performer |
+| **Phil Lesh** | Performer |
+| **Keith Olsen** | Producer |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

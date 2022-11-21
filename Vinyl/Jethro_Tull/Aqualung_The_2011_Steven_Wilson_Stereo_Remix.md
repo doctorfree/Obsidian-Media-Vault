@@ -55,6 +55,37 @@ By Jethro Tull
 | B4 | **Locomotive Breath** |  |
 | B5 | **Wind-Up** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Palmer (2)** | Arranged By [Orchestra Arranged By], Conductor [Orchestra Conducted By] |
+| **Jeffrey Hammond-Hammond** | Bass Guitar, Alto Recorder, Voice [Odd Voices] |
+| **Darren Evans (2)** | Design |
+| **Clive Bunker** | Drums [A Thousand Drums], Percussion |
+| **Martin Barre** | Electric Guitar, Recorder [Descant Recorder] |
+| **John Burns** | Engineer |
+| **Ian Anderson** | Flute, Acoustic Guitar, Voice |
+| **John Burns** | Interviewee [Q & A] |
+| **CCS (2)** | Layout [Original Layout By] |
+| **Steven Wilson** | Liner Notes |
+| **Dom Lawson** | Liner Notes, Interviewer [Interviews] |
+| **Helen Owens** | Management [Marketing By] |
+| **Peter Mew** | Mastered By [Mastering By] |
+| **Steven Wilson** | Mixed By [New Stereo Mixes By] |
+| **Burton Silverman** | Painting [Paintings By] |
+| **Barry Plummer** | Photography By |
+| **Bubi Heilemann** | Photography By |
+| **Michael Putland** | Photography By |
+| **Norbert Unfried** | Photography By |
+| **John Evan** | Piano, Organ, Mellotron |
+| **Ian Anderson** | Producer [Produced By] |
+| **Terry Ellis** | Producer [Produced By] |
+| **Don Needham** | Research [Additional Research By] |
+| **Tim Chacksfield** | Research [Project Research], Coordinator [Project Co-ordination] |
+| **Kris Burton** | Transferred By [Muti Track Transfers By] |
+| **Ian Anderson** | Written-By |
+
 ## See also
 
 - [Minstrel In The Gallery (40th Anniversary LP Édition)](Minstrel_In_The_Gallery_40th_Anniversary_LP_Édition.md)

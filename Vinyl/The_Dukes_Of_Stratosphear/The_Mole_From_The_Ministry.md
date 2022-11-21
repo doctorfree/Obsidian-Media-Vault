@@ -44,6 +44,15 @@ By The Dukes Of Stratosphear
 | A | **The Mole From The Ministry** | 4:14 |
 | B | **My Love Explodes** | 3:49 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Leckie** | Producer |
+| **Swami Anand Nagara** | Producer |
+| **The Dukes Of Stratosphear** | Producer |
+| **Sir John Johns** | Written-By |
+
 ## See also
 
 - [Psonic Psunspot](Psonic_Psunspot.md)

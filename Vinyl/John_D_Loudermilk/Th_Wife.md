@@ -44,6 +44,12 @@ By John D. Loudermilk
 | A | **Th' Wife** | 2:40 |
 | B | **Nothing To Gain** | 2:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Ferguson** | Producer |
+
 ## See also
 
 - [](John_D_Loudermilk.md)

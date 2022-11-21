@@ -44,6 +44,13 @@ By Bing Crosby
 | A | **Silent Night (Christmas Hymn)** |  |
 | B | **Adeste Fideles (Oh, Come, All Ye Faithful)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Max Terr's Mixed Chorus** | Chorus |
+| **John Scott Trotter And His Orchestra** | Orchestra |
+
 ## See also
 
 - [](Bing_Crosby.md)

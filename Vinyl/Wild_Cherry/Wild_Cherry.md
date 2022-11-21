@@ -51,6 +51,32 @@ By Wild Cherry
 | B4 | **Get It Up** | 3:01 |
 | B5 | **What In The Funk Do You See** | 3:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Robert Parissi** | Arranged By |
+| **Wild Cherry** | Arranged By |
+| **Becky Goldstein** | Backing Vocals |
+| **Tampa Lann** | Backing Vocals |
+| **Allen Wentz** | Bass, Synthesizer, Vocals |
+| **Bob Rath** | Concept By [Cover] |
+| **Ronald Beitle** | Drums, Vocals |
+| **Ken Hamann** | Engineer, Advisor [Technical Advisor] |
+| **Carl Maduri** | Executive-Producer |
+| **Chuck Berginc** | Horns |
+| **Jack Brandiar** | Horns |
+| **Joe Eckert** | Horns |
+| **Rick Singer** | Horns |
+| **Robert Parissi** | Lead Guitar, Lead Vocals |
+| **Bryan Bassett** | Lead Guitar, Vocals |
+| **Bruno Bornino** | Liner Notes |
+| **Carl Maduri** | Mixed By |
+| **Ken Hamann** | Mixed By |
+| **Robert Parissi** | Mixed By |
+| **Frank Laffitte** | Photography By |
+| **Robert Parissi** | Producer |
+
 ## See also
 
 - [](Wild_Cherry_index.md)

@@ -44,6 +44,19 @@ By Talk Talk
 | A | **Today** | 3:13 |
 | B | **It's So Serious** | 3:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **James Marsh** | Illustration [Uncredited] |
+| **Nick Webb** | Lacquer Cut By |
+| **Mike Robinson** | Mixed By |
+| **Hollis-Webb-Brenner-Harris** | Written By |
+| **Lee Harris** | Written-By |
+| **Mark Hollis** | Written-By |
+| **Paul Webb** | Written-By |
+| **Simon Brenner** | Written-By |
+
 ## See also
 
 - [](Talk_Talk.md)

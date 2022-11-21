@@ -44,6 +44,13 @@ By XTC
 | A | **Wonderland** |  |
 | B | **Jump** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Nye** | Producer |
+| **XTC** | Producer |
+
 ## See also
 
 - [Making Plans For Nigel](Making_Plans_For_Nigel.md)

@@ -49,6 +49,27 @@ By Genesis
 | B2 | **After The Ordeal** | 4:07 |
 | B3 | **The Cinema Show / Aisle Of Plenty** | 12:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Phil Collins** | Drums, Percussion, Vocals [Vocal] |
+| **Steve Hackett** | Electric Guitar, Guitar [Nylon Guitar] |
+| **Rhett Davies** | Engineer [Assistant Engineer] |
+| **Tony Banks** | Keyboards, Twelve-String Guitar [12-string] |
+| **George Piros** | Mastered By |
+| **Betty Swanwick** | Painting [Cover Painting By] |
+| **Barrie Wentzell** | Photography By [Photo] |
+| **Genesis** | Producer |
+| **John Burns** | Producer |
+| **Mike Rutherford** | Twelve-String Guitar [12-string], Bass, Sitar [Electric Sitar] |
+| **Peter Gabriel** | Vocals, Flute, Oboe, Percussion |
+| **Mike Rutherford** | Written-By [All Titles Done By All] |
+| **Peter Gabriel** | Written-By [All Titles Done By All] |
+| **Phil Collins** | Written-By [All Titles Done By All] |
+| **Steve Hackett** | Written-By [All Titles Done By All] |
+| **Tony Banks** | Written-By [All Titles Done By All] |
+
 ## See also
 
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)

@@ -54,6 +54,13 @@ By Wanda Jackson
 | B5 | **Don'a Wan'a** | 2:10 |
 | B6 | **I Gotta Know** | 2:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ken Nelson (2)** | Producer |
+| **Wanda Jackson** | Vocals |
+
 ## See also
 
 - [](Wanda_Jackson.md)

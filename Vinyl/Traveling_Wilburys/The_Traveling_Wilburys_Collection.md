@@ -73,6 +73,40 @@ By Traveling Wilburys
 | F4 | **You Took My Breath Away** |  |
 | F5 | **Wilbury Twist** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Spike Wilbury** | Acoustic Guitar, Electric Guitar, Vocals, Backing Vocals, Mandolin, Sitar |
+| **Charlie T. Jnr Wilbury** | Acoustic Guitar, Vocals, Backing Vocals |
+| **Lefty Wilbury** | Acoustic Guitar, Vocals, Backing Vocals |
+| **Lucky Wilbury** | Acoustic Guitar, Vocals, Backing Vocals |
+| **Muddy Wilbury** | Acoustic Guitar, Vocals, Backing Vocals |
+| **Clayton Wilbury** | Acoustic Guitar, Vocals, Backing Vocals, Bass, Keyboards |
+| **Boo Wilbury** | Acoustic Guitar, Vocals, Backing Vocals, Harmonica |
+| **David Costa** | Art Direction |
+| **Jim Keltner** | Drums |
+| **Bill Bottrell** | Engineer |
+| **Don Smith** | Engineer |
+| **Phil McDonald** | Engineer |
+| **Richard Dodd** | Engineer |
+| **Ryan Ulyate** | Engineer [2007], Mixed By [2007] |
+| **Hugh Jampton** | Liner Notes |
+| **Ted Ashenbecker** | Liner Notes |
+| **Kevin Gray** | Mastered By |
+| **Jim Keltner** | Percussion |
+| **Ray Cooper** | Percussion |
+| **Neal Preston** | Photography By [Band] |
+| **Caroline Greyshock** | Photography By [Sleeve] |
+| **Chris Smith (5)** | Photography By [Sleeve] |
+| **Gered Mankowitz** | Photography By [Sleeve] |
+| **Julian Hawkins** | Photography By [Wilbury Twist] |
+| **Nelson Wilbury** | Producer, Guitar, Vocals, Backing Vocals |
+| **Otis Wilbury** | Producer, Keyboards, Guitar, Vocals, Backing Vocals, Mixed By [Co-mixed] |
+| **Steve Hall** | Remastered By [Digitally Remastered] |
+| **Jim Horn** | Saxophone |
+| **Traveling Wilburys** | Written-By |
+
 ## See also
 
 - [Volume One](Volume_One.md)

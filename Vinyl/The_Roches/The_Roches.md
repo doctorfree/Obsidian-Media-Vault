@@ -52,6 +52,28 @@ By The Roches
 | B4 | **Quitting Time** | 4:16 |
 | B5 | **Pretty And High** | 4:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tony Levin** | Bass |
+| **Brad Kanawyer** | Design |
+| **Peter Whorf** | Design [Art Direction] |
+| **Ed Sprigg** | Engineer |
+| **Robert Fripp** | Guitar [Electric, Fripperies] |
+| **Gary Heery** | Photography By |
+| **Robert Fripp** | Producer |
+| **Larry Fast** | Programmed By [Synthesizer] |
+| **Maggie Roche** | Synthesizer |
+| **Jimmy Maelen** | Triangle, Shaker |
+| **Maggie Roche** | Vocals, Guitar |
+| **Suzzy Roche** | Vocals, Guitar |
+| **Terre Roche** | Vocals, Guitar |
+| **Maggie Roche** | Written-By |
+| **Maggie Roche** | Written-By |
+| **Suzzy Roche** | Written-By |
+| **Terre Roche** | Written-By |
+
 ## See also
 
 - [](The_Roches_index.md)

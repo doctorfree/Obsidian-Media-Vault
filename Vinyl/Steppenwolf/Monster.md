@@ -44,6 +44,13 @@ By Steppenwolf
 | A | **Monster** | 3:55 |
 | B | **Berry Rides Again** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gabriel Mekler** | Producer |
+| **John Kay** | Written-By |
+
 ## See also
 
 - [Steppenwolf](Steppenwolf.md)

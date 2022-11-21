@@ -53,6 +53,25 @@ By Jefferson Airplane
 | B5 | **White Rabbit** | 2:31 |
 | B6 | **Plastic Fantastic Lover** | 2:36 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jerry Garcia** | Advisor  [Musical And Spiritual Adviser] |
+| **Jack Casady** | Bass, Bass [Fuzz], Rhythm Guitar |
+| **Marty Balin** | Design [Album] |
+| **Dave Hassinger** | Engineer |
+| **Marty Balin** | Guitar, Vocals |
+| **Paul Kantner** | Guitar, Vocals |
+| **Jorma Kaukonen** | Lead Guitar, Rhythm Guitar, Vocals |
+| **Jack Casady** | Liner Notes |
+| **Jorma Kaukonen** | Liner Notes |
+| **Spencer Dryden** | Percussion |
+| **Herb Greene** | Photography By |
+| **Grace Slick** | Piano, Organ, Recorder, Vocals |
+| **Rick Jarrard** | Producer |
+| **Joe Reagoso** | Remastered By |
+
 ## See also
 
 - [After Bathing At Baxter's](After_Bathing_At_Baxters.md)

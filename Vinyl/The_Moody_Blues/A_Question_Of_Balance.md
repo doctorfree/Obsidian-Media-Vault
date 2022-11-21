@@ -52,6 +52,22 @@ By The Moody Blues
 | B4 | **Melancholy Man** |  |
 | B5 | **The Balance** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Adrian Martins** | Engineer |
+| **Derek Varnals** | Engineer |
+| **Robin Thompson** | Engineer |
+| **The Moody Blues** | Instruments [All Instruments Played By] |
+| **Joe Reagoso** | Mastered By |
+| **Phil Travers** | Painting [Cover] |
+| **David Rohl** | Photography By |
+| **David Rohl** | Photography [Montage] |
+| **Mike Goss** | Photography [Montage] |
+| **Tony Clarke** | Producer |
+| **Joe Reagoso** | Reissue Producer |
+
 ## See also
 
 - [In Search Of The Lost Chord](In_Search_Of_The_Lost_Chord.md)

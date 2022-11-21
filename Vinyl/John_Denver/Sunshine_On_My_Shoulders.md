@@ -44,6 +44,12 @@ By John Denver
 | A | **Sunshine On My Shoulders** | 3:18 |
 | B | **Around And Around** | 2:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Milton Okun** | Producer |
+
 ## See also
 
 - [](John_Denver.md)

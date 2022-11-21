@@ -44,6 +44,12 @@ By Julie Rogers
 | A | **The Wedding** | 2:28 |
 | B | **Without Your Love** | 2:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Johnny Arthey** | Directed By |
+
 ## See also
 
 - [](Julie_Rogers.md)

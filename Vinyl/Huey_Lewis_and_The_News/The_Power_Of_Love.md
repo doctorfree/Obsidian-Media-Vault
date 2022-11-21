@@ -44,6 +44,12 @@ By Huey Lewis & The News
 | A | **The Power Of Love** | 3:53 |
 | B | **Bad Is Bad** | 3:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Huey Lewis & The News** | Producer |
+
 ## See also
 
 - [](Huey_Lewis_and_The_News.md)

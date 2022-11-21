@@ -44,6 +44,13 @@ By Jimmy Roselli
 | A | **Don't Cry, Little Girl, Don't Cry** | 2:12 |
 | B | **Just Say I Love Her** | 2:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ralph Burns** | Conductor |
+| **Jimmy Roselli** | Producer |
+
 ## See also
 
 - [](Jimmy_Roselli.md)

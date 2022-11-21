@@ -44,6 +44,13 @@ By Gene Chandler
 | A | **Get Down** | 3:35 |
 | B | **I'm The Traveling Kind** | 4:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Wally Traugott** | Mastered By |
+| **Carl Davis** | Producer [Produced By] |
+
 ## See also
 
 - [](Gene_Chandler.md)

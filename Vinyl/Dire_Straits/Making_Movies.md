@@ -49,6 +49,24 @@ By Dire Straits
 | B3 | **Solid Rock** | 3:25 |
 | B4 | **Les Boys** | 4:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Neil Terk** | Artwork |
+| **John Illsley** | Bass, Vocals |
+| **Pick Withers** | Drums, Vocals |
+| **Shelly Yakus** | Engineer |
+| **Jeff Hendrickson** | Engineer [Assistant] |
+| **Jon Mathias** | Engineer [Assistant] |
+| **Roy Bittan** | Keyboards |
+| **Greg Calbi** | Mastered By |
+| **Brian Griffin (3)** | Photography By |
+| **Jimmy Iovine** | Producer |
+| **Mark Knopfler** | Producer |
+| **Mark Knopfler** | Vocals, Guitar |
+| **Mark Knopfler** | Written-By |
+
 ## See also
 
 - [Brothers In Arms](Brothers_In_Arms.md)

@@ -47,6 +47,38 @@ By Julie Brown
 | B2 | **'Cause I'm A Blond** | 2:14 |
 | B3 | **Earth Girls Are Easy** | 4:44 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Leslie Livrano** | Backing Vocals |
+| **Linda Lawley** | Backing Vocals |
+| **Lorraine Feather** | Backing Vocals |
+| **Nancy Bouche** | Backing Vocals |
+| **Jeff Steele** | Bass |
+| **Kevin McCormack** | Bass |
+| **Terrence McNally** | Co-producer |
+| **Chuck Berkinshaw** | Drums |
+| **Steve Appel** | Drums |
+| **Alex Vertikoff** | Engineer |
+| **Gary Brandt** | Engineer |
+| **Jeffrey Lesser** | Engineer |
+| **Mike Hamilton (3)** | Engineer |
+| **Steve Thoma** | Engineer |
+| **Craig Hull** | Guitar |
+| **Danny Grenier** | Guitar |
+| **Sterling Smith** | Keyboards, Synthesizer |
+| **Steve Thoma** | Keyboards, Synthesizer |
+| **Carol Hibbs** | Mastered By |
+| **Robert Nease** | Photography By [Cover] |
+| **Dan Lawson** | Producer |
+| **Steve Thoma** | Producer |
+| **Chris Mostert** | Saxophone |
+| **Charlie Coffey** | Written-By |
+| **Julie Brown** | Written-By |
+| **Ray Colcord** | Written-By |
+| **Terrence McNally** | Written-By |
+
 ## See also
 
 - [](Julie_Brown.md)

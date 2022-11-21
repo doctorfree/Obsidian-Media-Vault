@@ -42,6 +42,12 @@ By Ray Stevens With The Merry Melody Singers
 | A | **Ahab, The Arab** | 2:47 |
 | B | **Harry The Hairy Ape** | 2:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Shelby S Singleton Jr.** | Producer |
+
 ## See also
 
 - [](Ray_Stevens_With_The_Merry_Melody_Singers.md)

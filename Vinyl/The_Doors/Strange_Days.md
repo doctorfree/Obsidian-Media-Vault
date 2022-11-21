@@ -52,6 +52,24 @@ By The Doors
 | B3 | **I Can't See Your Face In My Mind** | 3:18 |
 | B4 | **When The Music's Over** | 11:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Doug Lubahn** | Bass |
+| **William S. Harvey** | Cover [Concept], Art Direction |
+| **John Densmore** | Drums |
+| **Bruce Botnick** | Engineer [Audio Engineering] |
+| **Robby Krieger** | Guitar |
+| **Ray Manzarek** | Keyboards, Marimba |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Joel Brodsky** | Photography By [Cover Photography] |
+| **Paul A. Rothchild** | Producer |
+| **Jac Holzman** | Supervised By [Production Supervisor] |
+| **Jim Morrison** | Vocals |
+| **The Doors** | Words By, Music By |
+| **The Doors** | Written-By, Arranged By, Performer |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

@@ -51,6 +51,26 @@ By Pearl Harbor And The Explosions
 | B3 | **Get A Grip On Yourself** | 3:30 |
 | B4 | **Up And Over** | 5:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hilary Stench** | Bass, Vocals |
+| **Basil Pao** | Design [Cover Design] |
+| **John Stench** | Drums, Percussion |
+| **Jim Gaines** | Engineer |
+| **Ken Kessie** | Engineer [Assistant] |
+| **Wayne Lewis** | Engineer [Assistant] |
+| **Peter Bilt** | Guitar, Vocals |
+| **John Golden** | Mastered By |
+| **Michael Jang** | Photography By |
+| **David Kahne** | Producer |
+| **Pearl E. Gates** | Vocals, Percussion |
+| **Hilary Stench** | Written-By |
+| **John Stench** | Written-By |
+| **Pearl E. Gates** | Written-By |
+| **Peter Bilt** | Written-By |
+
 ## See also
 
 - [](Pearl_Harbor_And_The_Explosions_index.md)

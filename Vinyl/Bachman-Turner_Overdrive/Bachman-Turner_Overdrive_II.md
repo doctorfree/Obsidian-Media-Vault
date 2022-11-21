@@ -50,6 +50,12 @@ By Bachman-Turner Overdrive
 | B3 | **I Don't Have To Hide** | 4:24 |
 | B4 | **Takin' Care Of Business** | 4:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Randy Bachman** | Producer |
+
 ## See also
 
 - [Not Fragile](Not_Fragile.md)

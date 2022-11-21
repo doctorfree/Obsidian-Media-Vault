@@ -52,6 +52,19 @@ By The Rumour
 | B4 | **Leaders** | 3:10 |
 | B5 | **I Can't Help Myself** | 2:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andrew Bodnar** | Bass |
+| **Steve Goulding** | Drums, Vocals |
+| **Brinsley Schwarz (2)** | Guitar, Vocals |
+| **Martin Belmont** | Guitar, Vocals |
+| **Bob Andrews** | Keyboards, Vocals |
+| **The Rumour** | Producer |
+| **Roger Bechirian** | Producer, Engineer |
+| **Dick Hanson** | Trumpet |
+
 ## See also
 
 - [](The_Rumour.md)

@@ -49,6 +49,21 @@ By Uriah Heep
 | B3 | **What Should Be Done** | 4:13 |
 | B4 | **Love Machine** | 3:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Uriah Heep** | Arranged By |
+| **Paul Newton (2)** | Bass Guitar |
+| **Douglas Maxwell Ltd.** | Design |
+| **Mick Box** | Lead Guitar, Acoustic Guitar |
+| **David Byron** | Lead Vocals |
+| **Ken Hensley** | Liner Notes |
+| **KR (3)** | Mastered By |
+| **Ken Hensley** | Organ, Piano, Guitar, Acoustic Guitar, Vocals |
+| **Tony Evans (8)** | Photography By |
+| **Gerry Bron** | Producer |
+
 ## See also
 
 - [Demons And Wizards](Demons_And_Wizards.md)

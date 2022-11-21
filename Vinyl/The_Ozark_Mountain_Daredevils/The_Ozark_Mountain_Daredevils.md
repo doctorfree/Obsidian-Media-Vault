@@ -52,6 +52,49 @@ By The Ozark Mountain Daredevils
 | B4 | **Within Without** | 4:25 |
 | B5 | **Beauty In The River** | 3:53 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Dillon (3)** | Acoustic Guitar |
+| **Larry Lee (3)** | Acoustic Guitar |
+| **Randle Chowning** | Acoustic Guitar |
+| **Mike Doud (2)** | Art Direction |
+| **John Dillon (3)** | Autoharp |
+| **Michael Granda** | Bass |
+| **Mike Dempsey (2)** | Design |
+| **Larry Lee (3)** | Drums |
+| **John Dillon (3)** | Dulcimer |
+| **John Dillon (3)** | Electric Guitar |
+| **John Dillon (3)** | Fiddle |
+| **Randle Chowning** | Harmonica [Harp] |
+| **Steve Cash** | Harmonica [Harp] |
+| **Buddy Brayfield** | Harpsichord |
+| **John Dillon (3)** | Jew's Harp [Mouthbow] |
+| **Randle Chowning** | Lead Guitar [Electric] |
+| **John Dillon (3)** | Mandolin |
+| **Buddy Brayfield** | Organ |
+| **Buddy Brayfield** | Percussion |
+| **John Dillon (3)** | Percussion |
+| **Larry Lee (3)** | Percussion |
+| **Michael Granda** | Percussion |
+| **Steve Cash** | Percussion |
+| **Bill Higgins** | Photography By |
+| **Kansas Film Works** | Photography By |
+| **Jeremy Parkin** | Photography By [Sleeve] |
+| **Buddy Brayfield** | Piano |
+| **David Anderle** | Producer |
+| **Glyn Johns** | Producer |
+| **Randle Chowning** | Resonator Guitar [National Steel] |
+| **Larry Lee (3)** | Saw |
+| **Michael Granda** | Sounds [Chicken Squawks] |
+| **Buddy Brayfield** | Vocals |
+| **John Dillon (3)** | Vocals |
+| **Larry Lee (3)** | Vocals |
+| **Michael Granda** | Vocals |
+| **Randle Chowning** | Vocals |
+| **Steve Cash** | Vocals |
+
 ## See also
 
 - [It'll Shine When It Shines](Itll_Shine_When_It_Shines.md)

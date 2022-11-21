@@ -53,6 +53,17 @@ By Herman's Hermits
 | B5 | **I Gotta Dream On** | 2:04 |
 | B6 | **Wonderful World** | 1:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Acy Lehman** | Design Concept |
+| **Val Valentin** | Engineer [Director Of Engineering] |
+| **June Harris** | Liner Notes |
+| **William Claxton** | Photography By  [Back Cover] |
+| **Rama (11)** | Photography By  [Front Cover] |
+| **Mickie Most** | Producer |
+
 ## See also
 
 - [Listen People / Got A Feeling](Listen_People_-_Got_A_Feeling.md)

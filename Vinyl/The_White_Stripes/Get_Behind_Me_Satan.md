@@ -55,6 +55,20 @@ By The White Stripes
 | D2 | **Red Rain** | 3:53 |
 | D3 | **I'm Lonely (But I Ain't That Lonely Yet)** | 4:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nathanio Strimpopulos** | Artwork |
+| **Trent Thibodeaux** | Artwork |
+| **Wes Garland** | Lacquer Cut By |
+| **Jack White (2)** | Liner Notes |
+| **Nick Pavey** | Photography By [Cover, Assistant] |
+| **Ewen Spencer** | Photography By [Cover] |
+| **Jack White (2)** | Producer |
+| **Matthew Kettle** | Recorded By |
+| **Jack White (2)** | Written-By |
+
 ## See also
 
 - [Live Under The Lights Of The Rising Sun](Live_Under_The_Lights_Of_The_Rising_Sun.md)

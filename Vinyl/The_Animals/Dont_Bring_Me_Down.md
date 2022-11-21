@@ -44,6 +44,12 @@ By The Animals
 | A | **Don't Bring Me Down** | 3:13 |
 | B | **Cheating** | 2:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tom Wilson (2)** | Producer |
+
 ## See also
 
 - [The Best Of The Animals](The_Best_Of_The_Animals.md)

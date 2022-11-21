@@ -44,6 +44,12 @@ By Otis Redding
 | A | **White Christmas** | 3:06 |
 | B | **Merry Christmas, Baby** | 2:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Cropper** | Producer |
+
 ## See also
 
 - [](Otis_Redding.md)

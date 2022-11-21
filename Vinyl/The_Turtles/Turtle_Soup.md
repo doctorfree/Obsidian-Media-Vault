@@ -54,6 +54,26 @@ By The Turtles
 | B5 | **Dance This Dance** | 4:25 |
 | B6 | **You Don't Have To Walk In The Rain** | 2:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Art Direction, Design |
+| **Chuck Britz** | Engineer |
+| **Henry Diltz** | Photography By |
+| **Ray Davies** | Producer |
+| **Al Nichol** | Songwriter |
+| **Howard Kaylan** | Songwriter |
+| **Jim Pons** | Songwriter |
+| **John Seiter** | Songwriter |
+| **Mark Volman** | Songwriter |
+| **Ray Pohlman** | Strings, Horns |
+| **Jim Pons** | Vocals, Bass, Guitar |
+| **John Seiter** | Vocals, Drums, Piano |
+| **Al Nichol** | Vocals, Guitar, Keyboards, Bass [6-String] |
+| **Mark Volman** | Vocals, Guitar, Percussion |
+| **Howard Kaylan** | Vocals, Percussion, Organ |
+
 ## See also
 
 - [Happy Together](Happy_Together.md)

@@ -51,6 +51,19 @@ By McKendree Spring
 | B3 | **Growing** | 3:52 |
 | B4 | **Spring** | 4:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Fran McKendree** | Acoustic Guitar, Vocals |
+| **McKendree Spring** | Arranged By, Performer |
+| **Chris Bishop (5)** | Bass [Fender], Vocals |
+| **Roger Dean (4)** | Cover [Designed And Drawn] |
+| **Martin Slutsky** | Electric Guitar |
+| **Martin Lennard** | Engineer |
+| **Michael Brovsky** | Producer |
+| **Michael Dreyfuss** | Violin [Electric], Viola [Electric], Synthesizer [Arp And Moog] |
+
 ## See also
 
 - [Too Young To Feel This Old](Too_Young_To_Feel_This_Old.md)

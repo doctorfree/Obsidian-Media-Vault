@@ -68,6 +68,37 @@ By Billie Holiday
 | D5 | **All Of You** |  |
 | D6 | **Isn't This A Lovely Day?** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Benny Carter** | Alto Saxophone |
+| **Willie "The Lion" Smith** | Alto Saxophone |
+| **Aaron Bell** | Bass |
+| **John Simmons** | Bass |
+| **Leonard Gaskin** | Bass |
+| **Anthony Sciacca** | Clarinet |
+| **Joe Mondragon** | Double Bass |
+| **Ray Brown** | Double Bass |
+| **Alvin Stoller** | Drums |
+| **Chico Hamilton** | Drums |
+| **Cozy Cole** | Drums |
+| **Larry Bunker** | Drums |
+| **Lenny McBrowne** | Drums |
+| **Lenny McBrowne** | Drums |
+| **Barney Kessel** | Guitar |
+| **Billy Taylor** | Piano |
+| **Bobby Tucker** | Piano |
+| **Jimmy Rowles** | Piano |
+| **Oscar Peterson** | Piano |
+| **Michael Heatley** | Sleeve Notes |
+| **Ben Webster** | Tenor Saxophone |
+| **Flip Phillips** | Tenor Saxophone |
+| **Paul Quinichette** | Tenor Saxophone |
+| **Charlie Shavers** | Trumpet |
+| **Harry Edison** | Trumpet |
+| **Billie Holiday** | Vocals |
+
 ## See also
 
 - [](Billie_Holiday.md)

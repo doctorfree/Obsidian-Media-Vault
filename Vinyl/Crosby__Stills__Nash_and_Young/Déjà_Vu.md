@@ -52,6 +52,25 @@ By "Crosby, Stills, Nash & Young"
 |  | **Country Girl** | 5:05 |
 | B5 | **Everybody I Love You** | 2:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Art Direction, Design |
+| **Greg Reeves** | Bass |
+| **Elliot Roberts & Associates** | Creative Director [Direction] |
+| **Bill Halverson** | Engineer |
+| **Al Brown (5)** | Lacquer Cut By |
+| **David Geffen** | Management [Agent & Friend] |
+| **Dallas Taylor** | Percussion |
+| **Tom Gundelfinger** | Photography By [Cover] |
+| **Salli Sasche** | Photography By [Inside (2 In Lower Right Corner)] |
+| **Henry Diltz** | Photography By [Inside] |
+| **David Crosby** | Producer |
+| **Graham Nash** | Producer |
+| **Neil Young** | Producer |
+| **Stephen Stills** | Producer |
+
 ## See also
 
 - [Teach Your Children / Carry On](Teach_Your_Children_-_Carry_On.md)

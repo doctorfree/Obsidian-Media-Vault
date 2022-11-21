@@ -51,6 +51,22 @@ By Rory Gallagher
 | B3 | **Edged In Blue** |  |
 | B4 | **Barley & Grape Rag** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mark Jessett Design** | Art Direction |
+| **Gerry McAvoy** | Bass |
+| **Rod De'Ath** | Drums, Percussion |
+| **Dónal Gallagher** | Executive-Producer |
+| **Lou Martin** | Keyboards |
+| **Michael Putland** | Photography By |
+| **Roger Glover** | Producer |
+| **Rory Gallagher** | Producer |
+| **Andy Pearce** | Remastered By |
+| **Matt Wortham** | Remastered By |
+| **Rory Gallagher** | Vocals, Guitar, Harmonica |
+
 ## See also
 
 - [Against The Grain](Against_The_Grain.md)

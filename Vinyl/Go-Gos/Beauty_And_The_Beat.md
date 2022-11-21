@@ -53,6 +53,32 @@ By Go-Go's
 | B5 | **Skidmarks On My Heart** | 3:13 |
 | B6 | **Can't Stop The World** | 3:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ginger Canzoneri** | Art Direction |
+| **Mike Doud (2)** | Art Direction |
+| **Kathy Valentine** | Bass, Guitar |
+| **Mike Fink** | Design |
+| **Gina Schock** | Drums, Percussion |
+| **Charlotte Caffey** | Lead Guitar, Vocals, Keyboards |
+| **Belinda Carlisle** | Lead Vocals |
+| **Ginger Canzoneri** | Management [Go-go's Management] |
+| **Darroll Gustamachio** | Mixed By [Assistant] |
+| **Eric Korte** | Mixed By [Assistant] |
+| **Gray Russell** | Mixed By [Assistant] |
+| **Go-Go's** | Music By [All Selections Written By] |
+| **George DuBose** | Photography By |
+| **Cindy Marsh (2)** | Photography By [Photo Illustration] |
+| **Richard Gottehrer** | Producer |
+| **Rob Freeman** | Producer, Recorded By, Mixed By |
+| **James A. Ball** | Recorded By [Additional, Assistant] |
+| **John Terelle** | Recorded By [Assistant] |
+| **Ted Blechta** | Recorded By [Assistant] |
+| **Jane Wiedlin** | Rhythm Guitar, Vocals |
+| **Go-Go's** | Written-By [All Selections] |
+
 ## See also
 
 - [Get Up And Go](Get_Up_And_Go.md)

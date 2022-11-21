@@ -51,6 +51,24 @@ By The Kinks
 | B4 | **Full Moon** | 3:50 |
 | B5 | **Life Goes On** | 5:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Dyer (4)** | Art Direction |
+| **Andy Pyle** | Bass Guitar |
+| **John Dalton** | Bass Guitar |
+| **Robert L. Heimall** | Design |
+| **Mick Avory** | Drums, Percussion |
+| **Roger Wake** | Engineer |
+| **Hal Fiedler** | Graphics [Calligraphy] |
+| **John Gosling (2)** | Keyboards, Backing Vocals |
+| **Dave Davies** | Lead Guitar, Lead Vocals, Backing Vocals |
+| **Bob Ludwig** | Mastered By |
+| **James Wedge** | Photography By |
+| **Ray Davies** | Vocals, Guitar, Keyboards |
+| **Ray Davies** | Written-By, Producer, Arranged By |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

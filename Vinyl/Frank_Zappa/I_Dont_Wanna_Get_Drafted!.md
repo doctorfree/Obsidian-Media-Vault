@@ -44,6 +44,20 @@ By Frank Zappa
 | A | **I Don't Wanna Get Drafted** | 3:10 |
 | B | **Ancient Armaments** | 4:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Cal Schenkel** | Artwork, Design |
+| **Arthur Barrow** | Bass, Keyboards |
+| **Frank Zappa** | Composed By, Arranged By, Conductor |
+| **Vinnie Colaiuta** | Drums |
+| **Frank Zappa** | Guitar, Vocals |
+| **Ike Willis** | Guitar, Vocals |
+| **Ray White** | Guitar, Vocals |
+| **Tommy Mars** | Keyboards |
+| **Norman Seeff** | Photography By |
+
 ## See also
 
 - ["Joe's Garage Acts 1, 2 & 3"](Joes_Garage_Acts_1__2_and_3.md)

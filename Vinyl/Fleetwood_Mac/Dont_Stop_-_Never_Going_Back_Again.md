@@ -44,6 +44,16 @@ By Fleetwood Mac
 | A | **Don't Stop** | 3:11 |
 | B | **Never Going Back Again** | 2:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Morris (2)** | Engineer [Assisted By] |
+| **Ken Perry** | Lacquer Cut By |
+| **Fleetwood Mac** | Producer |
+| **Ken Caillat** | Producer, Engineer |
+| **Richard Dashut** | Producer, Engineer |
+
 ## See also
 
 - [In Concert](In_Concert.md)

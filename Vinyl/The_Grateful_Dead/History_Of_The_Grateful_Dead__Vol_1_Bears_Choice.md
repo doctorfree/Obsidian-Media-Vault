@@ -49,6 +49,13 @@ By The Grateful Dead
 | B1 | **Smokestack Lightnin** | 18:00 |
 | B2 | **Hard To Handle** | 6:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Owsley Stanley** | Producer |
+| **Bear (6)** | Recorded By |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

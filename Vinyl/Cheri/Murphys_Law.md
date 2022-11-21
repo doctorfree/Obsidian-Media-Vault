@@ -44,6 +44,19 @@ By Cheri
 | A | **Murphy's Law (Remix)** | 3:53 |
 | B | **Murphy's Law (Instrumental)** | 3:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Geraldine Hunt** | Arranged By, Orchestrated By |
+| **Peter Dowse** | Arranged By, Orchestrated By |
+| **Herb Powers Jr.** | Mastered By |
+| **Freddie James** | Producer |
+| **Geraldine Hunt** | Producer |
+| **Michael Arato** | Remix |
+| **Daniel Joseph** | Written-By |
+| **Geraldine Hunt** | Written-By |
+
 ## See also
 
 - [](Cheri.md)

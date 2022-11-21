@@ -44,6 +44,13 @@ By Dean Martin
 | A | **Everybody Loves Somebody** | 2:40 |
 | B | **A Little Voice** | 2:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ernie Freeman** | Arranged By |
+| **Jimmy Bowen** | Producer [Produced By] |
+
 ## See also
 
 - ["Let Me Go, Lover"](Let_Me_Go__Lover.md)

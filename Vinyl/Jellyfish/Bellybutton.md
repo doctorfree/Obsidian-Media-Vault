@@ -52,6 +52,37 @@ By Jellyfish
 | B4 | **Baby's Coming Back** | 2:57 |
 | B5 | **Calling Sarah** | 4:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mick Haggerty** | Art Direction |
+| **Steve Samiof** | Art Direction |
+| **Steven McDonald** | Bass |
+| **Jack Joseph Puig** | Co-producer, Engineer, Mixed By |
+| **R. Wippo Meckler** | Design |
+| **John Patitucci** | Double Bass [Upright Bass] |
+| **Ken Allardyce** | Engineer [Assisted By] |
+| **Ken Felton** | Engineer [Assisted By] |
+| **Rail Rogut** | Engineer [Assisted By] |
+| **Jason Falkner** | Guitar [Most Of The Guitars], Bass [Most Of The Basses], Backing Vocals [Some Background Singing] |
+| **Tommy Morgan** | Harmonica |
+| **Alan Mintz** | Legal [Representation] |
+| **Chris Coyle (2)** | Management |
+| **Victor Ratto** | Management |
+| **Chris Manning** | Other [Band Witchdoctor And Mime] |
+| **Lenny Castro** | Percussion |
+| **Luis Conte** | Percussion |
+| **Peter Darley Miller** | Photography By |
+| **Roger Joseph Manning Jr.** | Piano [Lots Of Piano], Harpsichord, Vocals [Singing] |
+| **Albhy Galuten** | Producer |
+| **North Hollywood Wire Choir** | Strings [String Accompaniment] |
+| **Sid Page** | Strings [String Accompaniment] |
+| **Chuck Findley** | Trumpet |
+| **Andy Sturmer** | Vocals [Most Of The Singing], Drums, Guitar [Some], Keyboards [Some] |
+| **Andy Sturmer** | Written-By |
+| **Roger Joseph Manning Jr.** | Written-By |
+
 ## See also
 
 - [Radio Jellyfish](Radio_Jellyfish.md)

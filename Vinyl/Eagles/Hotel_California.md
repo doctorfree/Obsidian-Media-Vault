@@ -51,6 +51,27 @@ By Eagles
 | B4 | **Try And Love Again** | 5:10 |
 | B5 | **The Last Resort** | 7:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Don Henley** | Art Direction |
+| **John Kosh** | Art Direction |
+| **John Kosh** | Artwork [Graphics] |
+| **Norman Seeff** | Artwork [Poster] |
+| **Allan Blazek** | Engineer |
+| **Bill Szymczyk** | Engineer |
+| **Bruce Hensal** | Engineer |
+| **Ed Mashal** | Engineer |
+| **Bernie Grundman** | Mastered By |
+| **David Alexander (5)** | Photography By [Cover] |
+| **Bill Szymczyk** | Producer, Mixed By |
+| **Randy Meisner** | Vocals, Bass, Guitarrón |
+| **Don Henley** | Vocals, Drums, Percussion |
+| **Glenn Frey** | Vocals, Guitar, Keyboards |
+| **Joe Walsh** | Vocals, Guitar, Keyboards |
+| **Don Felder** | Vocals, Guitar, Slide Guitar |
+
 ## See also
 
 - [Desperado](Desperado.md)

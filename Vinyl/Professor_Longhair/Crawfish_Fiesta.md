@@ -55,6 +55,34 @@ By Professor Longhair
 | B6 | **Crawfish Fiesta** | 3:10 |
 | B7 | **River's Invitation** | 3:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andy Kaslow** | Arranged By [Horns] |
+| **Tony Dagradi** | Arranged By [Horns] |
+| **Jim Moore (3)** | Baritone Saxophone |
+| **David Lee Watson** | Bass |
+| **Alfred Roberts** | Congas |
+| **Ross & Harvey Inc.** | Design [Album Design] |
+| **Johnny Vidacovich** | Drums |
+| **Eddie B. Flick** | Engineer [Mixing Assisted By] |
+| **Skip Godwin** | Engineer [Recording Associate Engineer] |
+| **Mac Rebennack** | Guitar |
+| **Mark Richardson (3)** | Lacquer Cut By |
+| **Mindy Giles** | Liner Notes |
+| **Tad Jones (2)** | Liner Notes |
+| **Mac Rebennack** | Musical Assistance [Invaluable Production Assistance By] |
+| **Michael P. Smith (2)** | Photography By |
+| **Professor Longhair** | Piano, Vocals |
+| **Allison Kaslow** | Producer |
+| **Andy Kaslow** | Producer |
+| **Bruce Iglauer** | Producer |
+| **Fred Breitberg** | Recorded By, Mixed By |
+| **Andy Kaslow** | Tenor Saxophone |
+| **Tony Dagradi** | Tenor Saxophone |
+| **Walton Payton** | Tuba |
+
 ## See also
 
 - ["Go To The Mardi Gras / Everyday, Everynight"](Go_To_The_Mardi_Gras_-_Everyday__Everynight.md)

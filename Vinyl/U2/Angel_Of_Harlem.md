@@ -44,6 +44,16 @@ By U2
 | A | **Angel Of Harlem** | 3:42 |
 | B | **A Room At The Heartbreak Hotel** | 5:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **DZN, The Design Group** | Design |
+| **Arnie Acosta** | Lacquer Cut By |
+| **U2** | Music By |
+| **Colm Henry** | Photography By [Front Cover] |
+| **Bono** | Words By |
+
 ## See also
 
 - [Desire](Desire.md)

@@ -51,6 +51,16 @@ By Yes
 | E2 | **Roundabout** |  |
 | F | **Yours Is No Disgrace** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Squire** | Bass, Vocals |
+| **Alan White** | Drums |
+| **Rick Wakeman** | Keyboards |
+| **Steve Howe** | Vocals, Guitar |
+| **Jon Anderson** | Vocals, Percussion |
+
 ## See also
 
 - [Close To The Edge](Close_To_The_Edge.md)

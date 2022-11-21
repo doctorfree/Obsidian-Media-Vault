@@ -51,6 +51,21 @@ By Jeff Beck Group
 | B3 | **Highways** | 4:42 |
 | B4 | **Definitely Maybe** | 5:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Clive Chaman** | Bass |
+| **Karenlee Grant** | Design [Cover] |
+| **Cozy Powell** | Drums |
+| **Ron Capone** | Engineer |
+| **Jeff Beck** | Guitar |
+| **Richie Simpson** | Photography By [Cover Photos] |
+| **Max Middleton** | Piano |
+| **Steve Cropper** | Producer |
+| **Bobby Tench** | Vocals |
+| **Jeff Beck** | Written-By |
+
 ## See also
 
 - [](Jeff_Beck_Group_index.md)

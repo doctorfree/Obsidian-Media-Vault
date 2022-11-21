@@ -66,6 +66,70 @@ By Bob Dylan
 | D5 | **Wigwam** | 3:08 |
 | D6 | **Alberta #2** | 3:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron Coro** | Design |
+| **Don Puluse** | Engineer |
+| **Glyn Johns** | Engineer |
+| **Neil Wilburn** | Engineer |
+| **Bob Dylan** | Painting [Cover] |
+| **Al Kooper** | Performer |
+| **Al Rogers** | Performer |
+| **Albert W. Butler** | Performer |
+| **Albertine Robinson** | Performer |
+| **Barry McDonald (5)** | Performer |
+| **Bill Pursell** | Performer |
+| **Bob Moore** | Performer |
+| **Bob Wilson** | Performer |
+| **Brenton Banks** | Performer |
+| **Byron Bach** | Performer |
+| **Carol Montgomery** | Performer |
+| **Charlie Daniels** | Performer |
+| **Charlie McCoy** | Performer |
+| **David Bromberg** | Performer |
+| **Dennis Good** | Performer |
+| **Dolores Edgin** | Performer |
+| **Dottie Dillard** | Performer |
+| **Doug Kershaw** | Performer |
+| **Elkin "Bubba" Fowler** | Performer |
+| **Emanuel Green** | Performer |
+| **Frank Smith** | Performer |
+| **Fred Carter, Jr.** | Performer |
+| **Freddie Hill** | Performer |
+| **Garth Hudson** | Performer |
+| **Gary Vanosdale** | Performer |
+| **Gene Mullins** | Performer |
+| **George Binkley** | Performer |
+| **Hilda Harris** | Performer |
+| **June Page** | Performer |
+| **Karl Himmel** | Performer |
+| **Kenny Buttrey** | Performer |
+| **Levon Helm** | Performer |
+| **Lillian Hunt** | Performer |
+| **Maeretha Stewart** | Performer |
+| **Martha McCrory** | Performer |
+| **Martin Katahn** | Performer |
+| **Marvin Chantry** | Performer |
+| **Millie Kirkham** | Performer |
+| **Norman Blake (2)** | Performer |
+| **Ollie Mitchell** | Performer |
+| **Pete Drake** | Performer |
+| **Rex Peer** | Performer |
+| **Richard Manuel** | Performer |
+| **Rick Danko** | Performer |
+| **Robbie Robertson** | Performer |
+| **Ron Cornelius** | Performer |
+| **Sheldon Kurland** | Performer |
+| **Solie Fott** | Performer |
+| **Stu Woods** | Performer |
+| **Tony Terran** | Performer |
+| **Al Clayton (2)** | Photography By |
+| **John Cohen (2)** | Photography By |
+| **Bob Johnston** | Producer |
+| **Bob Dylan** | Written-By |
+
 ## See also
 
 - [](Bob_Dylan.md)

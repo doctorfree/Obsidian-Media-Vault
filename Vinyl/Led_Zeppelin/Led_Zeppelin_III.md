@@ -63,6 +63,18 @@ By Led Zeppelin
 | D3 | **Jennings Farm Blues (Rough Mix Of All Guitar Overdubs That Day)** | 5:54 |
 | D4 | **Key To The Highway / Trouble In Mind (Rough Mix)** | 4:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Zacron** | Design Concept [Visual Creations] |
+| **Terry Manning** | Engineer [Ardent Studios, Memphis, Tennessee] |
+| **Andy Johns** | Engineer [London] |
+| **Peter Grant** | Executive-Producer |
+| **John Davis (4)** | Lacquer Cut By |
+| **Jimmy Page** | Producer |
+| **Jimmy Page** | Remastered By |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

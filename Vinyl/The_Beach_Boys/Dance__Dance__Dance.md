@@ -44,6 +44,12 @@ By The Beach Boys
 | A | **Dance, Dance, Dance** | 2:00 |
 | B | **The Warmth Of The Sun** | 2:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Wilson** | Producer |
+
 ## See also
 
 - [Darlin' / Here Today](Darlin_-_Here_Today.md)

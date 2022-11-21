@@ -57,6 +57,23 @@ Promotional copy
 | B4 | **Boy About Town** | 1:59 |
 | B5 | **Scrape Away** | 3:59 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Smith (19)** | Design [Sleeve] |
+| **The Jam** | Design [Sleeve] |
+| **Alan Douglas (2)** | Engineer |
+| **George Chambers** | Engineer |
+| **Percy Bysshe Shelley** | Liner Notes [Poem] |
+| **Pennie Smith** | Photography By [All Other Pics] |
+| **Andrew Douglas** | Photography By [Back Cover] |
+| **Andrew Rosen** | Photography By [Front Cover] |
+| **Martyn Goddard** | Photography By [Front Cover] |
+| **The Jam** | Producer |
+| **Vic Coppersmith-Heaven** | Producer |
+| **Paul Weller** | Songwriter |
+
 ## See also
 
 - [](The_Jam.md)

@@ -53,6 +53,21 @@ By Count Five
 | B4 | **Can't Get Your Lovin'** | 1:45 |
 | B5 | **Out In The Street** | 2:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Craig Atkinson** | Drums |
+| **Roy Chaney** | Electric Bass [Fender] |
+| **Sy Mitchell** | Engineer |
+| **Ron McMaster** | Lacquer Cut By |
+| **John Michalski** | Lead Guitar |
+| **Bernard Yeszin** | Photography By [Cover], Design |
+| **Hal Winn** | Producer |
+| **Joseph Hooven** | Producer |
+| **John Byrne (2)** | Vocals, Rhythm Guitar |
+| **Kenn Ellner** | Vocals, Tambourine, Harmonica |
+
 ## See also
 
 - [](Count_Five.md)

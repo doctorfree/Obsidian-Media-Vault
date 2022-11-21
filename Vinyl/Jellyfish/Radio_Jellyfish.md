@@ -52,6 +52,15 @@ By Jellyfish
 | B4 | **That Is Why** | 4:08 |
 | B5 | **No Matter What** | 2:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eric Dover** | Guitar |
+| **Tim Smith (5)** | Guitar |
+| **Roger Joseph Manning Jr.** | Keyboards, Vocals, Percussion |
+| **Andy Sturmer** | Vocals, Percussion |
+
 ## See also
 
 - [Bellybutton](Bellybutton.md)

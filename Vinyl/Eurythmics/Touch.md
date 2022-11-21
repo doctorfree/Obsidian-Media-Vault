@@ -51,6 +51,41 @@ By Eurythmics
 | B3 | **No Fear, No Hate, No Pain (No Broken Hearts)** | 5:24 |
 | B4 | **Paint A Rumour** | 7:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Kamen** | Arranged By [Strings Arranged], Conductor [Strings Conducted By] |
+| **Andrew Christian** | Artwork [Art, With Thanks To], Design [With Thanks To] |
+| **Laurence Stevens** | Artwork [Art], Design |
+| **The Croquettes** | Band [Eurythmics Live], Backing Vocals |
+| **Gill O'Donovan** | Band [Eurythmics Live], Backing Vocals [The Croquettes] |
+| **Maggie Ryder** | Band [Eurythmics Live], Backing Vocals [The Croquettes] |
+| **Suzie O'List** | Band [Eurythmics Live], Backing Vocals [The Croquettes] |
+| **Dean Garcia** | Band [Eurythmics Live], Bass |
+| **Pete Phipps** | Band [Eurythmics Live], Drums |
+| **Dick Cuthell** | Band [Eurythmics Live], Horns |
+| **Martin Dobson** | Band [Eurythmics Live], Horns |
+| **Vic Martin** | Band [Eurythmics Live], Synth [Synths] |
+| **Martin Dobson** | Baritone Saxophone [Baritone Sax] |
+| **Dean Garcia** | Bass Guitar |
+| **Jon Bavin** | Engineer |
+| **David A. Stewart** | Guitar, Keyboards, Dulcimer, Xylophone, Backing Vocals, Sequencer [Drum And Synthesizer Sequencers] |
+| **Dick Cuthell** | Horns, Trumpet, Flugelhorn [Flugel Horn], Cornet |
+| **Jack Adelman** | Lacquer Cut By |
+| **Annie Lennox** | Lead Vocals [All Lead Vocals], Backing Vocals, Keyboards, Flute |
+| **Kenny Smith (6)** | Management |
+| **Gary Kurfirst** | Management [Management (USA)] |
+| **Karen Ciccone** | Management [Personal Assistant] |
+| **Brian Aris** | Photography By [Inner Sleeve] |
+| **Peter Ashworth** | Photography By [Outer Sleeve] |
+| **David A. Stewart** | Producer |
+| **Annie Lennox** | Songwriter, Arranged By |
+| **David A. Stewart** | Songwriter, Arranged By |
+| **The British Philharmonic Orchestra** | Strings [Strings Appear Courtesy Of] |
+| **Annie Lennox** | Written-By |
+| **David A. Stewart** | Written-By |
+
 ## See also
 
 - [](Eurythmics.md)

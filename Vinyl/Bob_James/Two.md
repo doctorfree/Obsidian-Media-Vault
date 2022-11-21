@@ -48,6 +48,60 @@ By Bob James
 | B2 | **You're As Right As Rain** | 5:29 |
 | B3 | **Dream Journey** | 5:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob James** | Arranged By, Conductor |
+| **Eric Gale** | Bass |
+| **Alan Shulman** | Cello |
+| **Alla Goldberg** | Cello |
+| **Anthony Sophos** | Cello |
+| **George Ricci** | Cello |
+| **Jesse Levy** | Cello |
+| **Seymour Barab** | Cello |
+| **Warren Lash** | Cello |
+| **Eddie Daniels** | Clarinet |
+| **Bob Ciano** | Design [Album] |
+| **Andrew Smith (4)** | Drums |
+| **Bob James** | Electric Piano, Clavinet, Synthesizer [Arp Odyssey], Organ [Yamaha Yc30] |
+| **Rudy Van Gelder** | Engineer |
+| **Al Richmond** | French Horn |
+| **Jim Buffington** | French Horn |
+| **Peter Gordon (8)** | French Horn |
+| **Eric Gale** | Guitar |
+| **Richard Resnicoff** | Guitar |
+| **Rudy Van Gelder** | Lacquer Cut By |
+| **Arthur Jenkins** | Percussion |
+| **Ralph MacDonald** | Percussion |
+| **Gene Laurents** | Photography By [Cover] |
+| **Creed Taylor** | Producer |
+| **Eddie Bert** | Trombone |
+| **Thomas Mitchell** | Trombone |
+| **Tony Studd** | Trombone |
+| **Wayne Andre** | Trombone |
+| **John Frosk** | Trumpet, Flugelhorn |
+| **Lew Soloff** | Trumpet, Flugelhorn |
+| **Marvin Stamm** | Trumpet, Flugelhorn |
+| **Randy Brecker** | Trumpet, Flugelhorn |
+| **Victor Paz** | Trumpet, Flugelhorn |
+| **Charles Libove** | Violin |
+| **David Nadien** | Violin |
+| **Emanuel Green** | Violin |
+| **Gene Orloff** | Violin |
+| **Harold Kohon** | Violin |
+| **Harry Cykman** | Violin |
+| **Harry Glickman** | Violin |
+| **Harry Lookofsky** | Violin |
+| **Joe Malin** | Violin |
+| **Matthew Raimondi** | Violin |
+| **Max Ellen** | Violin |
+| **Paul Gershman** | Violin |
+| **Frank Floyd** | Vocals [Group] |
+| **Lani Groves** | Vocals [Group] |
+| **Patti Austin** | Vocals [Group] |
+| **Zachary Sanders** | Vocals [Group] |
+
 ## See also
 
 - [One](One.md)

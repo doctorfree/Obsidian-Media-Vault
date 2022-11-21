@@ -48,6 +48,23 @@ By Jimi Hendrix
 | B3 | **Message Of Love** | 5:24 |
 | B4 | **We Gotta Live Together** | 5:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Victor Kahn (2)** | Design |
+| **Bob Ludwig** | Lacquer Cut By |
+| **Joshua Light Show** | Lighting [Background] |
+| **Jimi Hendrix** | Liner Notes, Written-By |
+| **Billy Cox** | Performer |
+| **Buddy Miles** | Performer |
+| **Jimi Hendrix** | Performer |
+| **Jan Blom (2)** | Photography By |
+| **Heaven Research** | Producer |
+| **Wally Heider** | Recorded By [Live] |
+| **Eddie Kramer** | Supervised By [Remixing & Engineering] |
+| **Jimi Hendrix** | Written-By |
+
 ## See also
 
 - [](Jimi_Hendrix.md)

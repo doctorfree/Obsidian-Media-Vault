@@ -57,6 +57,58 @@ Numbered limited edition box packaging
 | D2 | **Company** |  |
 | D3 | **After Hours** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nick DeCaro** | Accordion |
+| **Rickie Lee Jones** | Arranged By [Horns] |
+| **Mike Salisbury** | Art Direction, Design [Cover Design] |
+| **Arno Lucas** | Backing Vocals [Background Vocals] |
+| **Joe Turano** | Backing Vocals [Background Vocals] |
+| **Leslie Smith** | Backing Vocals [Background Vocals] |
+| **Matthew Weiner** | Backing Vocals [Background Vocals] |
+| **Michael McDonald** | Backing Vocals [Background Vocals] |
+| **Rickie Lee Jones** | Backing Vocals [Background Vocals] |
+| **Red Callender** | Bass |
+| **Willie Weeks** | Bass [Fender Bass] |
+| **Andy Newmark** | Drums |
+| **Jeff Porcaro** | Drums |
+| **Mark Stevens (2)** | Drums |
+| **Steve Gadd** | Drums |
+| **Victor Feldman** | Drums |
+| **Roger Nichols** | Engineer [Additional Engineering] |
+| **Tom Knox** | Engineer [Additional Engineering] |
+| **Lee Herschberg** | Engineer [Engineered By] |
+| **Loyd Clifft** | Engineer [Engineered By] |
+| **Buzzy Feiten** | Guitar |
+| **Fred Tackett** | Guitar |
+| **Rickie Lee Jones** | Guitar |
+| **Chuck Findley** | Horns |
+| **Ernie Watts** | Horns |
+| **Tom Scott** | Horns |
+| **Mac Rebennack** | Keyboards |
+| **Neil Larsen** | Keyboards |
+| **Ralph Grierson** | Keyboards |
+| **Randy Kerber** | Keyboards |
+| **Rickie Lee Jones** | Keyboards |
+| **Victor Feldman** | Keyboards |
+| **Krieg Wunderlich** | Lacquer Cut By |
+| **Nick Mathe** | Management [Nexus Management By] |
+| **Fred Tackett** | Mandolin |
+| **Krieg Wunderlich** | Mastered By |
+| **Lee Herschberg** | Mixed By, Mastered By |
+| **Mark Stevens (2)** | Percussion |
+| **Rickie Lee Jones** | Percussion |
+| **Victor Feldman** | Percussion |
+| **Norman Seeff** | Photography By [Cover Photo] |
+| **Lenny Waronker** | Producer [Produced By] |
+| **Russ Titelman** | Producer [Produced By] |
+| **Penny Ringwood** | Producer [Production Assistant] |
+| **Michael Boddicker** | Synthesizer |
+| **Randy Newman** | Synthesizer |
+| **Rickie Lee Jones** | Written-By |
+
 ## See also
 
 - [Girl At Her Volcano](Girl_At_Her_Volcano.md)

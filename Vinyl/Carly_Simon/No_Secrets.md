@@ -52,6 +52,31 @@ By Carly Simon
 | B4 | **Night Owl** | 3:47 |
 | B5 | **When You Close Your Eyes** | 3:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Carly Simon** | Acoustic Guitar |
+| **Jimmy Ryan (3)** | Acoustic Guitar |
+| **Paul Keogh** | Acoustic Guitar |
+| **Robert L. Heimall** | Art Direction, Design |
+| **Jimmy Ryan (3)** | Bass |
+| **Klaus Voormann** | Bass |
+| **David Katz** | Contractor [Musicians] |
+| **Andy Newmark** | Drums |
+| **Jimmy Ryan (3)** | Electric Guitar |
+| **Mark Berry** | Engineer [Recordist] |
+| **Jimmy Ryan (3)** | Guitar |
+| **Doug Sax** | Lacquer Cut By |
+| **Bill Schnee** | Mixed By, Engineer [Sound Labs] |
+| **Ed Caraeff** | Photography By [Cover] |
+| **Peter Simon (5)** | Photography By [Inner Sleeve] |
+| **Carly Simon** | Piano |
+| **Richard Perry** | Producer |
+| **Robin Geoffrey Cable** | Recorded By, Engineer [Trident] |
+| **Joe Reagoso** | Remastered By |
+| **Ron McMaster** | Remastered By |
+
 ## See also
 
 - [](Carly_Simon.md)

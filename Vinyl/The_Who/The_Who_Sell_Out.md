@@ -55,6 +55,18 @@ By The Who
 | B5 | **Sunrise** |  |
 | B6 | **Rael (1 And 2)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Adrian George** | Artwork [Poster] |
+| **David King (7)** | Design [Cover] |
+| **Roger Law** | Design [Cover] |
+| **Chris Stamp** | Executive-Producer |
+| **Miles Showell** | Lacquer Cut By |
+| **David Montgomery (4)** | Photography By |
+| **Kit Lambert** | Producer |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

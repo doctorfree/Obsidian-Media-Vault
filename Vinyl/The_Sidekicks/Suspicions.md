@@ -44,6 +44,12 @@ By The Sidekicks
 | A | **Suspicions** | 2:37 |
 | V | **Up On The Roof** | 2:34 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jimmy Wisner** | Arranged By |
+
 ## See also
 
 - [](The_Sidekicks.md)

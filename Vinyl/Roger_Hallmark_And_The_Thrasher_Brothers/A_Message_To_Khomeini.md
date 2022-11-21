@@ -42,6 +42,14 @@ By Roger Hallmark And The Thrasher Brothers
 | A | **A Message To Khomeini** | 2:37 |
 | B | **Maharishi** | 3:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Kenny Wallis** | Producer |
+| **Chance Jones** | Written-By |
+| **Signa Faye Linard** | Written-By |
+
 ## See also
 
 - [](Roger_Hallmark_And_The_Thrasher_Brothers.md)

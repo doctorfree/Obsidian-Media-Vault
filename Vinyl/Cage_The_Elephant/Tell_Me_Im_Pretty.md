@@ -52,6 +52,33 @@ By Cage The Elephant
 | B4 | **Punchin' Bag** | 3:51 |
 | B5 | **Portuguese Knife Fight** | 3:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David J. Wolter** | A&R |
+| **Dan Auerbach** | Arranged By |
+| **Meghan Foley** | Art Direction |
+| **Daniel Tichenor** | Bass |
+| **Juliette Buchs Shultz** | Design [Additional], Photography [Additional] |
+| **Kane Stewart** | Design [Senior Graphic Design Artist] |
+| **Jared Champion** | Drums |
+| **Collin Dupuis** | Engineer |
+| **Brad Shultz** | Guitar |
+| **Dan Auerbach** | Guitar [Additional], Backing Vocals, Keyboards, Producer |
+| **Nick Bockrath** | Guitar, Backing Vocals |
+| **Matthan Minster** | Keyboards, Backing Vocals, Percussion |
+| **Q Prime Inc.** | Management |
+| **Brian Lacey** | Mastered By |
+| **Chris Bellman** | Mastered By [Vinyl] |
+| **Tom Elmhirst** | Mixed By |
+| **Moses Moreno** | Other [Styling] |
+| **Ira Chernova** | Photography By |
+| **Emily Davis (8)** | Photography [Hand Tinting] |
+| **Danny Tomczak** | Producer [Assistant] |
+| **Matt Shultz (2)** | Vocals, Acoustic Guitar, Art Direction |
+| **Cage The Elephant** | Written-By |
+
 ## See also
 
 - [](Cage_The_Elephant.md)

@@ -51,6 +51,24 @@ By Oregon
 | B3 | **Waterwheel** | 6:27 |
 | B4 | **Witchi-Tai-To** | 8:21 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Johnny Lee (4)** | Art Direction, Design |
+| **Ron Coro** | Art Direction, Design |
+| **David Wilcox (4)** | Artwork |
+| **Glen Moore** | Bass |
+| **Ralph Towner** | Classical Guitar, Twelve-String Guitar, Piano, Flugelhorn, Percussion |
+| **David Greene** | Engineer |
+| **Jesse Henderson (2)** | Engineer [Associate] |
+| **Matt Murray** | Engineer [Associate] |
+| **Bob Ludwig** | Mastered By |
+| **Paul McCandless** | Oboe, Cor Anglais, Bass Clarinet |
+| **Collin Walcott** | Percussion, Guitar, Sitar, Tabla |
+| **Boe Overlock** | Photography By |
+| **Oregon** | Producer |
+
 ## See also
 
 - [](Oregon.md)

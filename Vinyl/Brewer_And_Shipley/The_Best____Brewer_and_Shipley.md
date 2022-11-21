@@ -62,6 +62,12 @@ By Brewer And Shipley
 | D4 | **Ruby On The Morning** | 2:15 |
 | D5 | **Don't Want To Die In Georgia** | 3:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sam Feldman** | Mastered By |
+
 ## See also
 
 - [People Love Each Other](People_Love_Each_Other.md)

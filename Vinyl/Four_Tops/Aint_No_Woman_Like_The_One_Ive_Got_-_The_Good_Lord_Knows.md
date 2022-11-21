@@ -44,6 +44,14 @@ By Four Tops
 | A | **Ain't No Woman (Like The One I've Got)** | 2:59 |
 | B | **The Good Lord Knows** | 4:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brian Potter** | Producer [Produced By] |
+| **Dennis Lambert** | Producer [Produced By] |
+| **Steve Barri** | Producer [Produced By] |
+
 ## See also
 
 - [](Four_Tops.md)

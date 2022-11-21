@@ -44,6 +44,15 @@ By Rockwell
 | A | **Somebody's Watching Me** | 3:57 |
 | B | **Somebody's Watching Me (Instrumental)** | 3:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Matousek** | Mastered By |
+| **Curtis Anthony Nolen** | Producer [Produced By], Arranged By |
+| **Rockwell** | Producer [Produced By], Arranged By |
+| **Rockwell** | Written-By |
+
 ## See also
 
 - [](Rockwell.md)

@@ -43,6 +43,18 @@ By 20/20
 | B1 | **Child's Play** | 2:09 |
 | B2 | **People In Your Life** | 3:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron Flynt** | Bass Guitar, Keyboards, Vocals |
+| **Joel Turrisi** | Drums |
+| **Chris Silagyi** | Guitar, Synthesizer, Piano, Vocals |
+| **Steve Allen (11)** | Lead Guitar, Keyboards, Vocals |
+| **Shelly Heber** | Management [Career Direction] |
+| **Vision Management** | Management [Career Direction] |
+| **Richard Podolor** | Producer |
+
 ## See also
 
 - [](20-20.md)

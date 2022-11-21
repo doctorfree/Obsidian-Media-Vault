@@ -53,6 +53,15 @@ By Hello People
 | B4 | **Never Met A Girl Like You** | 3:10 |
 | B5 | **Pass Me By** | 3:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Greg Geddes** | Engineer |
+| **Todd Rundgren** | Engineer |
+| **Hello People** | Producer |
+| **Todd Rundgren** | Producer |
+
 ## See also
 
 - [Fusion](Fusion.md)

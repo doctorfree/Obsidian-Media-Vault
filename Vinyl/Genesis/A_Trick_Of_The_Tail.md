@@ -50,6 +50,22 @@ By Genesis
 | B3 | **A Trick Of The Tail** | 4:34 |
 | B4 | **Los Endos** | 5:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Rutherford** | Bass, Twelve-String Guitar, Pedalboard |
+| **David Hentschel** | Co-producer |
+| **Genesis** | Co-producer |
+| **Phil Collins** | Drums, Percussion, Lead Vocals, Backing Vocals |
+| **Steve Hackett** | Electric Harmonium, Twelve-String Guitar |
+| **David Hentschel** | Engineer |
+| **Nick Bradford** | Engineer |
+| **Tex And Jeff** | Other [Equipment] |
+| **Neal, John And Terry** | Other [Liquid Sustenance] |
+| **Tony Banks** | Piano, Synthesizer, Organ, Mellotron, Twelve-String Guitar, Backing Vocals |
+| **Colin Elgie** | Sleeve [Design] |
+
 ## See also
 
 - [Genesis](Genesis.md)

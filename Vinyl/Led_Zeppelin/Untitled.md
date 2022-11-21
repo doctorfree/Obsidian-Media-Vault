@@ -60,6 +60,27 @@ By Led Zeppelin
 | D3 | **Going To California (Mandolin/Guitar Mix)** | 3:34 |
 | D4 | **When The Levee Breaks (Alternate U.K. Mix)** | 7:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Studio Fury** | Design [2014 Album] |
+| **Graphreaks** | Design, Coordinator [Co-ordination] |
+| **Drew Griffiths** | Engineer [Additional Engineering] |
+| **Peter Grant** | Executive-Producer |
+| **Barrington Colby** | Illustration [Inside, 'The Hermit'] |
+| **John Davis (4)** | Lacquer Cut By |
+| **John Davis (4)** | Mastered By [Mastering] |
+| **Sandy Denny** | Performer |
+| **Jim Marshall (3)** | Photography By [Press Photo] |
+| **Jimmy Page** | Producer |
+| **Jimmy Page** | Remastered By |
+| **Jimmy Page** | Written-By |
+| **John Bonham** | Written-By |
+| **John Paul Jones** | Written-By |
+| **Memphis Minnie** | Written-By |
+| **Robert Plant** | Written-By |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

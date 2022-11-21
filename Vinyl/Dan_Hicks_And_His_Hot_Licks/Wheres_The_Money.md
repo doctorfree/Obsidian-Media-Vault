@@ -54,6 +54,21 @@ By Dan Hicks And His Hot Licks
 | B5 | **Is This My Happy Home?** | 3:02 |
 | B6 | **Dig A Little Deeper** | 2:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dan Hicks And His Hot Licks** | Arranged By |
+| **Jaime Leopold** | Double Bass |
+| **Bruce Botnick** | Engineer [Chairman of the Board] |
+| **Dan Hicks** | Liner Notes |
+| **Tommy LiPuma** | Producer |
+| **Sid Page** | Violin, Mandolin, Harmony Vocals |
+| **Dan Hicks** | Vocals, Guitar |
+| **Maryann Price** | Vocals, Percussion |
+| **Naomi Eisenberg** | Vocals, Percussion, Fiddle |
+| **Dan Hicks** | Written-By |
+
 ## See also
 
 - [Original Recordings](Original_Recordings.md)

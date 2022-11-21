@@ -53,6 +53,13 @@ By Creedence Clearwater Revival
 | B4 | **I Heard It Through The Grapevine** | 11:05 |
 | B5 | **Long As I Can See The Light** | 3:33 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Fogerty** | Arranged By, Producer |
+| **Bob Fogerty** | Photography By |
+
 ## See also
 
 - [Green River](Green_River.md)

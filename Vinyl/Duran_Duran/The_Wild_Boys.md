@@ -44,6 +44,14 @@ By Duran Duran
 | A | **The Wild Boys** | 4:14 |
 | B | **(I'm Looking For) Cracks In The Pavement** | 4:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Francesco Scavullo** | Photography By [Front Photograph] |
+| **Assorted Images** | Sleeve [Produced By] |
+| **Duran Duran** | Written-By |
+
 ## See also
 
 - [](Duran_Duran.md)

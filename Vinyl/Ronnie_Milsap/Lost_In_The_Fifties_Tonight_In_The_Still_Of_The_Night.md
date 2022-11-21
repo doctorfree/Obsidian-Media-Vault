@@ -44,6 +44,13 @@ By Ronnie Milsap
 | A | **Lost In The Fifties Tonight (In The Still Of The Night)** | 3:51 |
 | B | **I Might Have Said** | 4:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rob Galbraith** | Producer [Produced By] |
+| **Ronnie Milsap** | Producer [Produced By] |
+
 ## See also
 
 - [Southern Roots](Southern_Roots.md)

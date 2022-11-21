@@ -50,6 +50,31 @@ By Led Zeppelin
 | B3 | **No Quarter** | 7:02 |
 | B4 | **The Ocean** | 4:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Bonham** | Backing Vocals |
+| **John Paul Jones** | Backing Vocals |
+| **Robert Plant** | Backing Vocals |
+| **John Paul Jones** | Bass |
+| **John Bonham** | Drums |
+| **Eddie Kramer** | Engineer |
+| **George Chkiantz** | Engineer |
+| **Keith Harwood** | Engineer |
+| **Peter Grant** | Executive-Producer |
+| **John Paul Jones** | Grand Piano, Synthesizer [Piano], Bass [Synthesised] |
+| **Jimmy Page** | Guitar |
+| **John Davis (4)** | Mastered By, Lacquer Cut By |
+| **John Paul Jones** | Mellotron |
+| **John Paul Jones** | Organ |
+| **John Paul Jones** | Piano |
+| **Jimmy Page** | Producer |
+| **Jimmy Page** | Remastered By |
+| **Hipgnosis (2)** | Sleeve |
+| **John Paul Jones** | Synthesizer |
+| **Robert Plant** | Vocals |
+
 ## See also
 
 - [Led Zeppelin III](Led_Zeppelin_III.md)

@@ -62,6 +62,63 @@ By Eminem
 | D5 | **My Dad's Gone Crazy** | 4:27 |
 | D6 | **Curtains Close (Skit)** | 1:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **DJ Mormile** | A&R [Interscope] |
+| **Marc Labelle (2)** | A&R [Shady Records] |
+| **Jason Noto** | Art Direction, Design |
+| **Jeff Bass** | Bass |
+| **Mike Elizondo** | Bass |
+| **Jeff Bass** | Co-producer |
+| **Kirdis Tucker** | Coordinator [Aftermath Project Coordinator] |
+| **Larry Chatman** | Coordinator [Aftermath Project Coordinator] |
+| **Les Scurry** | Coordinator [Interscope Production Coordination] |
+| **Sarah Catlett** | Coordinator [Studio A&r Coordination For 54sound] |
+| **Alex Reverberi** | Engineer [Assistant] |
+| **James McCrone** | Engineer [Assistant] |
+| **Mike Strange** | Engineer [Assistant] |
+| **Urban Kris** | Engineer [Assistant] |
+| **Mauricio "Veto" Iragorri** | Engineer [Recording] |
+| **Steve King** | Engineer [Recording] |
+| **Dr. Dre** | Executive-Producer |
+| **Jeff Bass** | Executive-Producer [For F.B.T. Productions] |
+| **Mark Bass** | Executive-Producer [For F.B.T. Productions] |
+| **Jeff Bass** | Guitar |
+| **Jeff Bass** | Keyboards |
+| **Mike Elizondo** | Keyboards |
+| **Ron "NEFF-U" Feemstar** | Keyboards |
+| **Paul Rosenberg** | Management |
+| **Joel Martin (8)** | Management [F.b.t. Productions] |
+| **Chris Clancy (2)** | Management [Interscope Product Management] |
+| **Brian Gardner** | Mastered By |
+| **Dr. Dre** | Mixed By |
+| **Steve King** | Mixed By |
+| **Jonathan Mannion** | Photography By |
+| **Dr. Dre** | Producer |
+| **Eminem** | Producer |
+| **Steve King** | Recorded By |
+| **Kevin Dresser** | Typography [Typeface Based On Eminem's Handwriting] |
+| **Andre Young** | Written-By |
+| **Anne Dudley** | Written-By |
+| **Denaun Porter** | Written-By |
+| **Jeff Bass** | Written-By |
+| **Kevin Bell (4)** | Written-By |
+| **Luis Resto** | Written-By |
+| **Malcolm McLaren** | Written-By |
+| **Marshall Mathers** | Written-By |
+| **Mike Elizondo** | Written-By |
+| **Nathaniel Hale** | Written-By |
+| **Obie Trice** | Written-By |
+| **Ondre Moore** | Written-By |
+| **Ron "NEFF-U" Feemstar** | Written-By |
+| **Rufus Johnson** | Written-By |
+| **Steve King** | Written-By |
+| **Steven Tyler** | Written-By |
+| **Trevor Horn** | Written-By |
+| **Von Carlisle** | Written-By |
+
 ## See also
 
 - [](Eminem.md)

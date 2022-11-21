@@ -53,6 +53,24 @@ By T. Rex
 | B5 | **Life's A Gas** |  |
 | B6 | **Rip Off** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Howard Kaylan** | Backing Vocals |
+| **Mark Volman** | Backing Vocals |
+| **Steve Currie** | Bass |
+| **Bill Legend** | Drums |
+| **Malcolm Cecil** | Engineer |
+| **Martin Rushent** | Engineer |
+| **Rik Pekkonen** | Engineer |
+| **Roy Thomas Baker** | Engineer |
+| **Burt Collins** | Flugelhorn |
+| **Mickey Finn (3)** | Percussion, Vocals |
+| **Tony Visconti** | Producer |
+| **Ian McDonald** | Saxophone |
+| **Marc Bolan** | Vocals, Guitar, Written-By |
+
 ## See also
 
 - [](T_Rex.md)

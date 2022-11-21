@@ -51,6 +51,13 @@ By Loggins And Messina
 | B4 | **Same Old Wine** |  |
 | B5 | **Rock'n' Roll Mood** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joe Reagoso** | Mastered By |
+| **Kevin Gray** | Mastered By |
+
 ## See also
 
 - [](Loggins_And_Messina.md)

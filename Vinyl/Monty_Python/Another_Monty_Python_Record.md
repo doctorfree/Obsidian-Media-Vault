@@ -44,6 +44,24 @@ By Monty Python
 | A | **Another Monty Python Record** |  |
 | B | **Another Monty Python Record** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Fred Tomlinson Singers** | Chorus |
+| **Tony Taverner** | Engineer |
+| **Will Roper** | Engineer |
+| **Fred Tomlinson** | Music By |
+| **Carol Cleveland** | Performer |
+| **Terry Gilliam** | Performer |
+| **Eric Idle** | Performer, Written-By |
+| **Graham Chapman** | Performer, Written-By |
+| **John Cleese** | Performer, Written-By |
+| **Michael Palin** | Performer, Written-By |
+| **Michael Palin** | Producer |
+| **Terry Jones** | Producer |
+| **Colin Caldwell** | Recorded By |
+
 ## See also
 
 - [I Bet You They Won't Play This Song On The Radio](I_Bet_You_They_Wont_Play_This_Song_On_The_Radio.md)

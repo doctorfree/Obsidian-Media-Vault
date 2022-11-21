@@ -59,6 +59,18 @@ Autographed by band members on front cover
 | B5 | **Save The Best For Last** |  |
 | B6 | **Natural Woman** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **3AM.net** | Artwork By [Design], Photography [Additional] |
+| **Adam Krammer** | Engineer [Additional, Assistant] |
+| **Eddy Schreyer** | Mastered By |
+| **Mona Whetzel** | Other [Styling Assistant] |
+| **Lisa Brownlee** | Other [Styling] |
+| **Jay Blakesberg** | Photography |
+| **Ryan Greene** | Recorded By, Mixed By |
+
 ## See also
 
 - [Have A Ball](Have_A_Ball.md)

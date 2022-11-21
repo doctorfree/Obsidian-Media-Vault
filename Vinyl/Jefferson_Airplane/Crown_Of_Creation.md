@@ -53,6 +53,25 @@ By Jefferson Airplane
 | B4 | **Greasy Heart** | 3:25 |
 | B5 | **The House At Pooneil Corners** | 5:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Casady** | Bass [Yggdrasil Bass] |
+| **John Van Hamersveld** | Design [Album Design], Art Direction |
+| **Rich Schmitt** | Engineer |
+| **Joe Reagoso** | Interviewer [With Jorma Kaukonen & Jack Casady May 2015] |
+| **Bob Ludwig** | Lacquer Cut By |
+| **Joe Reagoso** | Mastered By |
+| **Usaf** | Photography By [Bomb] |
+| **Hiro (51)** | Photography By [Cover, Back Cover] |
+| **Al Schmitt** | Producer |
+| **Jorma Kaukonen** | Vocals, Lead Guitar, Performer [Electric Chicken] |
+| **Grace Slick** | Vocals, Piano, Organ |
+| **Spencer Dryden** | Vocals, Piano, Organ, Drums, Percussion [Steel Balls] |
+| **Marty Balin** | Vocals, Rhythm Guitar |
+| **Paul Kantner** | Vocals, Rhythm Guitar |
+
 ## See also
 
 - [After Bathing At Baxter's](After_Bathing_At_Baxters.md)

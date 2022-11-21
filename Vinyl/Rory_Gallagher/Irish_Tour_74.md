@@ -58,6 +58,26 @@ By Rory Gallagher
 | E2 | **Who's That Coming** |  |
 | F | **In Your Town** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mark Jessett** | Art Direction |
+| **Gerry McAvoy** | Bass |
+| **Rod De'Ath** | Drums, Percussion |
+| **Dónal Gallagher** | Executive-Producer |
+| **Lou Martin** | Keyboards |
+| **Dónal Gallagher** | Liner Notes |
+| **Gavin Martin** | Liner Notes |
+| **Andy Pearce** | Mastered By |
+| **Matt Wortham** | Mastered By |
+| **Martin Dubka** | Mixed By |
+| **Eric Luke** | Photography By |
+| **Patrick Galvin (2)** | Photography By |
+| **Daniel Gallagher** | Producer [40th Anniversary Edition] |
+| **Rory Gallagher** | Producer [Original Album] |
+| **Rory Gallagher** | Vocals, Guitar, Mandolin, Harmonica |
+
 ## See also
 
 - [Against The Grain](Against_The_Grain.md)

@@ -53,6 +53,27 @@ By Harry Nilsson
 | B5 | **I'd Rather Be Dead** | 3:20 |
 | B6 | **The Most Beautiful World In The World** | 3:33 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Klaus Voormann** | Bass |
+| **Phil McDonald** | Engineer [Additional Recording & Remix At Apple Studios] |
+| **Robin Geoffrey Cable** | Engineer [Final Remix & Recording] |
+| **Ken Scott** | Engineer [Original Balance] |
+| **Chris Spedding** | Guitar |
+| **Peter Frampton** | Guitar |
+| **Harry Nilsson** | Lead Vocals, Electric Piano |
+| **Paul Misso** | Photography By [Additional] |
+| **Tom Hanley (2)** | Photography By [Additional] |
+| **Michael Putland** | Photography By [Album Cover] |
+| **Nicky Hopkins** | Piano |
+| **Richard Perry** | Producer |
+| **Ewart G. Abner Jr.** | Written-By |
+| **Harry Nilsson** | Written-By |
+| **John Moore (5)** | Written-By |
+| **Richard Perry** | Written-By |
+
 ## See also
 
 - [Everybody's Talkin'](Everybodys_Talkin.md)

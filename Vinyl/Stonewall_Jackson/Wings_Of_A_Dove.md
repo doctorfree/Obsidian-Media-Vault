@@ -44,6 +44,12 @@ By Stonewall Jackson
 | A | **Wings Of A Dove** | 2:24 |
 | B | **Save A Little Place For Me** | 2:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Frank Jones (2)** | Producer |
+
 ## See also
 
 - [](Stonewall_Jackson.md)

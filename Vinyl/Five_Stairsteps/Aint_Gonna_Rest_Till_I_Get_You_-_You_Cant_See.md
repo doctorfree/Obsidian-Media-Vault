@@ -44,6 +44,14 @@ By Five Stairsteps
 | A | **Ain't Gonna Rest (Till I Get You)** | 2:34 |
 | B | **You Can't See** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Curtis Mayfield** | Producer |
+| **Clarence Burke** | Written-By |
+| **Clarence Burke Sr.** | Written-By |
+
 ## See also
 
 - [](Five_Stairsteps.md)

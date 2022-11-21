@@ -49,6 +49,17 @@ By Deep Purple
 | B3 | **Living Wreck** |  |
 | B4 | **Hard Lovin' Man** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roger Glover** | Bass Guitar |
+| **Ian Paice** | Drums |
+| **Ritchie Blackmore** | Guitar |
+| **Jon Lord** | Keyboards |
+| **Joe Reagoso** | Mastered By |
+| **Ian Gillan** | Vocals |
+
 ## See also
 
 - [Burn](Burn.md)

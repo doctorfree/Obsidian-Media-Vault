@@ -53,6 +53,29 @@ By Alice Cooper
 | B5 | **The Awakening** | 2:25 |
 | B6 | **Escape** | 3:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Allan Macmillan** | Arranged By |
+| **Bob Ezrin** | Arranged By |
+| **Pacific Eye & Ear** | Design Concept, Design |
+| **Vincent Price (2)** | Guest [Special Guest Star] |
+| **Drew Struzan** | Illustration |
+| **Alive Enterprises, Inc.** | Management [Directed By] |
+| **Bob Brown (3)** | Management [Second Unit Director] |
+| **Mike Reese** | Mastered By |
+| **Bret Lopez** | Photography By |
+| **Bob Ezrin** | Producer |
+| **Michael Sherman** | Producer [Production Assistant] |
+| **Phil Ramone** | Recorded By [A&R Studios] |
+| **Corky Stasiak** | Recorded By [Record Plant East And Electric Lady] |
+| **Dave Palmer (2)** | Recorded By [Record Plant East And Electric Lady] |
+| **Ed Sprigg** | Recorded By [Record Plant East And Electric Lady] |
+| **Rod O'Brien** | Recorded By [Record Plant East And Electric Lady] |
+| **Dave Palmer (2)** | Recorded By [Soundstage] |
+| **Jim Frank** | Recorded By [Soundstage] |
+
 ## See also
 
 - [](Alice_Cooper.md)

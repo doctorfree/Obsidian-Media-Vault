@@ -52,6 +52,19 @@ By The Dickies
 | B4 | **Attack Of The Mole Men** | 3:40 |
 | B5 | **She Loves Me Not** | 1:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Billy Club** | Bass, Vocals |
+| **Artrouble** | Cover [Album] |
+| **Karlos Kaballero** | Drums, Percussion |
+| **Stan Lee** | Guitar, Vibraslap, Vocals |
+| **Chuck Wagon** | Keyboards, Guitar, Saxophone, Harmonica, Synthesizer, Percussion, Vocals |
+| **Leonard Graves Phillips** | Lead Vocals, Mellotron, Piano, Organ |
+| **John Hewlett** | Management |
+| **Robin Geoffrey Cable** | Producer, Engineer |
+
 ## See also
 
 - [](The_Dickies.md)

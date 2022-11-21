@@ -44,6 +44,12 @@ By The Troggs
 | A | **I Can't Control Myself** | 3:01 |
 | B | **Gonna Make You** | 2:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Larry Page** | Producer |
+
 ## See also
 
 - [](The_Troggs.md)

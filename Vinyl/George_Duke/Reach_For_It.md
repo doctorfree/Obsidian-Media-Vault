@@ -52,6 +52,29 @@ By George Duke
 | B4 | **Diamonds** | 6:45 |
 | B5 | **The End** | 1:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Glen Christensen** | Art Direction |
+| **Manolo Badrena** | Congas, Bongos, Percussion [Miscellaneous] |
+| **Ron Lorman** | Crew [Drum Roady] |
+| **Art Satren** | Crew [Road Manager] |
+| **Leon Ndugu Chancler** | Drums, Rototoms [Remo-Roto Toms], Timbales |
+| **Kerry McNabb** | Engineer |
+| **Charles Johnson (2)** | Guitar |
+| **George Duke** | Keyboards, Vocals |
+| **Herb Cohen** | Management |
+| **John Golden** | Mastered By |
+| **Norman Seeff** | Photography By |
+| **George Duke** | Producer |
+| **Bruce Heigh** | Stage Manager |
+| **Alan Santos** | Technician [Monitor Mixer] |
+| **Deborah Thomas** | Vocals |
+| **Dee Henrichs** | Vocals |
+| **Sybil Thomas** | Vocals |
+| **George Duke** | Written-By |
+
 ## See also
 
 - [Feel](Feel.md)

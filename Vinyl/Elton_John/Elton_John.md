@@ -52,6 +52,20 @@ By Elton John
 | B4 | **The Cage** |  |
 | B5 | **The King Must Die** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Buckmaster** | Arranged By, Conductor |
+| **David Larkham** | Art Direction |
+| **Bernie Taupin** | Composed By, Lyrics By |
+| **Elton John** | Composed By, Vocals, Piano |
+| **Stephen Brown (2)** | Coordinator |
+| **Jim Goff** | Design [Sleeve Production] |
+| **Robin Geoffrey Cable** | Engineer |
+| **Stowell Stanford** | Photography By |
+| **Gus Dudgeon** | Producer |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

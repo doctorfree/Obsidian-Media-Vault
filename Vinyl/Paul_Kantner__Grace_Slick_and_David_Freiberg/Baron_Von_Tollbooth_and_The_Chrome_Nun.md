@@ -52,6 +52,29 @@ By "Paul Kantner, Grace Slick & David Freiberg"
 | B4 | **Fishman** | 2:40 |
 | B5 | **Sketches Of China** | 5:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Traylor** | Acoustic Guitar |
+| **Chris Ethridge** | Bass |
+| **Jack Casady** | Bass |
+| **John Barbata** | Drums, Percussion |
+| **Mickey Hart** | Gong [Gongs] |
+| **Craig Chaquico** | Lead Guitar |
+| **Jorma Kaukonen** | Lead Guitar |
+| **David Freiberg** | Piano, Vocals, Keyboards |
+| **David Freiberg** | Producer |
+| **Grace Slick** | Producer |
+| **Paul Kantner** | Producer |
+| **Jerry Garcia** | Steel Guitar, Lead Guitar |
+| **Papa John Creach** | Violin |
+| **David Crosby** | Vocals |
+| **Jack Traylor** | Vocals |
+| **Pointer Sisters** | Vocals |
+| **Grace Slick** | Vocals, Piano |
+| **Paul Kantner** | Vocals, Rhythm Guitar |
+
 ## See also
 
 - [](Paul_Kantner__Grace_Slick_and_David_Freiberg.md)

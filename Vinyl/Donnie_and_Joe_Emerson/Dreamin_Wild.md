@@ -50,6 +50,18 @@ By Donnie & Joe Emerson
 | B3 | **Dream Full Of Dreams** | 5:00 |
 | B4 | **My Heart** | 7:04 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Strath Shepard** | Design [Re-release] |
+| **Dave Segal (2)** | Liner Notes |
+| **Matt Sullivan (4)** | Producer [Re-release] |
+| **Donnie Emerson** | Producer, Mixed By, Engineer |
+| **Dave Cooley** | Remastered By |
+| **Donnie & Joe Emerson** | Written-By |
+| **Donnie Emerson** | Written-By |
+
 ## See also
 
 - [Still Dreamin' Wild](Still_Dreamin_Wild-_The_Lost_Recordings_1979-81.md)

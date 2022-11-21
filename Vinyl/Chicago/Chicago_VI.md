@@ -52,6 +52,26 @@ By Chicago
 | B4 | **Rediscovery** |  |
 | B5 | **Feelin' Stronger Every Day** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Laudir de Oliveira** | Congas |
+| **American Bank Note Company** | Cover [Cover Produced By] |
+| **John Berg** | Cover, Design [Cover Design] |
+| **Nick Fasciano** | Cover, Design [Cover Design] |
+| **Ron McMaster** | Lacquer Cut By |
+| **Joe Reagoso** | Mastered By |
+| **Ron McMaster** | Mastered By |
+| **Rich Blakin** | Mixed By [Engineering Mix Assistant] |
+| **Phil Ramone** | Mixed By [Engineering Mix] |
+| **J.G. O'Rafferty** | Pedal Steel Guitar [Pedal Steel] |
+| **Barry Feinstein** | Photography By [Photographs] |
+| **James William Guercio** | Producer |
+| **Jeff Guercio** | Recorded By [Engineering Recording Assistant] |
+| **Wayne Jarnowski** | Recorded By [Engineering Recording] |
+| **Joe Reagoso** | Remastered By [Mastered By] |
+
 ## See also
 
 - [](Chicago.md)

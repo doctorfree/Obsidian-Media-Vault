@@ -44,6 +44,13 @@ By Depeche Mode
 | A | **People Are People** | 3:43 |
 | B | **In Your Memory** | 4:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Daniel Miller** | Producer |
+| **Depeche Mode** | Producer |
+
 ## See also
 
 - [](Depeche_Mode.md)

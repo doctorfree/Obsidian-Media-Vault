@@ -59,6 +59,37 @@ By Todd Rundgren
 | D2 | **Don't You Ever Learn** | 6:01 |
 | D3 | **Sons Of 1984** | 4:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jim Luft** | Art Direction |
+| **Buffalo Bill Gelber** | Bass |
+| **John Miller (2)** | Bass |
+| **John Siegler** | Bass |
+| **First United Church Of The Cosmic Smorgasbord** | Choir [Voices] |
+| **Ralph Schuckett** | Clavinet |
+| **Kevin Ellman** | Drums |
+| **Wells Kelly** | Drums |
+| **Mark Klingman** | Electric Piano |
+| **Todd Rundgren** | Engineer |
+| **Mark Klingman** | Grand Piano |
+| **Mark Klingman** | Keyboards |
+| **MK (11)** | Lacquer Cut By |
+| **Mark Klingman** | Organ |
+| **Ralph Schuckett** | Organ |
+| **Todd Rundgren** | Performer [All Other Instruments And Voices] |
+| **Joel Shapiro** | Photography By |
+| **Bill Klein, Jr.** | Photography By [Back Cover] |
+| **Alen MacWeeney** | Photography By [Cover] |
+| **Todd Rundgren** | Producer |
+| **Todd Rundgren** | Producer, Engineer, Arranged By |
+| **Michael Brecker** | Saxophone |
+| **Peter Ponzol** | Soprano Saxophone |
+| **Barry Rogers** | Trombone |
+| **Randy Brecker** | Trumpet |
+| **Todd Rundgren** | Written-By |
+
 ## See also
 
 - ["A Wizard, A True Star"](A_Wizard__A_True_Star.md)

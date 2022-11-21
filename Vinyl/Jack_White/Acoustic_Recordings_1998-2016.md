@@ -68,6 +68,24 @@ By Jack White
 | D25 | **Entitlement** | 4:08 |
 | D26 | **Want And Able** | 2:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack White (2)** | Art Direction, Design |
+| **Nathanio Strimpopulos** | Art Direction, Design |
+| **George Ingram** | Lacquer Cut By |
+| **Greil Marcus** | Liner Notes |
+| **Ian Montone** | Management |
+| **Monotone, Inc.** | Management |
+| **Autumn DeWilde** | Photography By [Insert Back Cover] |
+| **Molly Moormeier** | Photography By [Insert Last Page] |
+| **Jo McCaughey** | Photography By [Jacket Front & Rear Cover] |
+| **David Swanson (5)** | Photography By [Jacket Interior & Insert Front Cover] |
+| **Jack White (2)** | Producer |
+| **Andrew Mendelson** | Remastered By |
+| **Jack White (2)** | Songwriter [All Songs Written By] |
+
 ## See also
 
 - [Lazaretto](Lazaretto.md)

@@ -44,6 +44,14 @@ By Neil Diamond
 | A | **September Morn** | 3:40 |
 | B | **I'm A Believer** | 2:21 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alan Lindgren** | Arranged By, Conductor [Orchestra] |
+| **Bob Gaudio** | Producer |
+| **Neil Diamond** | Written-By |
+
 ## See also
 
 - [](Neil_Diamond.md)

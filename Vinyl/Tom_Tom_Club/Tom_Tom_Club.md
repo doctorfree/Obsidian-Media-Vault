@@ -50,6 +50,18 @@ By Tom Tom Club
 | B3 | **On, On, On, On...** | 3:33 |
 | B4 | **Booming And Zooming** | 4:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Benjamin Armbrister** | Engineer [Assistant] |
+| **Kendal Stubbs** | Engineer [Assistant] |
+| **James Rizzi** | Illustration [Cover] |
+| **Chris Frantz** | Producer |
+| **Tina Weymouth** | Producer |
+| **Steven Stanley** | Producer, Recorded By, Mixed By |
+| **Tom Tom Club** | Written-By |
+
 ## See also
 
 - [](Tom_Tom_Club_index.md)

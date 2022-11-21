@@ -44,6 +44,13 @@ By The Dave Clark Five
 | A | **Because** | 2:23 |
 | B | **Theme Without A Name** | 2:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Clark** | Written-By |
+| **Lenny Davidson** | Written-By |
+
 ## See also
 
 - [](The_Dave_Clark_Five.md)

@@ -44,6 +44,14 @@ By Jefferson Starship
 | A | **Count On Me** | 3:14 |
 | B | **Show Yourself** | 4:36 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Golden** | Mastered By |
+| **Jefferson Starship** | Producer |
+| **Larry Cox** | Producer |
+
 ## See also
 
 - [Crazy Feelin'](Crazy_Feelin.md)

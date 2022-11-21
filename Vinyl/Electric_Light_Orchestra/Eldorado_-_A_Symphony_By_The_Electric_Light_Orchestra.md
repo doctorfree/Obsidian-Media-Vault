@@ -52,6 +52,28 @@ By Electric Light Orchestra
 | B4 | **Eldorado** | 5:20 |
 | B5 | **Eldorado Finale** | 1:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeff Lynne** | Arranged By |
+| **Louis Clark** | Arranged By |
+| **Richard Tandy** | Arranged By |
+| **John Williams (30)** | Art Direction |
+| **Michael d'Albuquerque** | Bass |
+| **Hugh McDowell** | Cello |
+| **Mike Edwards (6)** | Cello |
+| **Louis Clark** | Conductor [Orchestra] |
+| **John Kehe** | Design |
+| **Bev Bevan** | Drums, Percussion |
+| **Mike Pela** | Engineer [Assistant] |
+| **Dick Plant** | Engineer [Recording] |
+| **Jeff Lynne** | Guitar, Vocals, Synthesizer [Moog], Backing Vocals, Written-By, Lyrics By, Music By |
+| **Richard Tandy** | Piano, Synthesizer [Moog], Guitar, Backing Vocals |
+| **Jeff Lynne** | Producer |
+| **Mik Kaminski** | Violin |
+| **Peter Ford-Robertson** | Voice [Prologue Spoken] |
+
 ## See also
 
 - [Face The Music](Face_The_Music.md)

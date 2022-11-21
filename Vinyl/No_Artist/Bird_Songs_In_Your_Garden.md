@@ -44,6 +44,13 @@ By No Artist
 | A | **Bird Songs In Your Garden** |  |
 | B | **Bird Songs In Your Garden** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **A. A. Allen** | Producer |
+| **Peter Paul Kellogg** | Producer |
+
 ## See also
 
 - [America's First Man In Orbit](Americas_First_Man_In_Orbit.md)

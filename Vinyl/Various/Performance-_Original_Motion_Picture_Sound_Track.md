@@ -55,6 +55,23 @@ By Various
 | B5 | **Natural Magic** | 1:37 |
 | B6 | **Turner's Murder** | 4:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ed Thrasher** | Art Direction |
+| **Bob West** | Bass |
+| **Randy Newman** | Conductor |
+| **Ken Duskin** | Design [Package Design] |
+| **Gene Parsons** | Drums |
+| **Lowell George** | Guitar |
+| **Russ Titelman** | Guitar |
+| **Milt Holland** | Percussion |
+| **Jack Nitzsche** | Producer, Arranged By |
+| **Nasser Rastegar-Nejad** | Santoor |
+| **Bernie Krause** | Synthesizer [Moog] |
+| **Jack Nitzsche** | Written-By |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

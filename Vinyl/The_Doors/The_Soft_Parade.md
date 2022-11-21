@@ -51,6 +51,30 @@ By The Doors
 | B3 | **Wishful Sinful** | 2:56 |
 | B4 | **The Soft Parade** | 8:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Harris (2)** | Arranged By [Orchestra] |
+| **William S. Harvey** | Art Direction, Design |
+| **Doug Lubahn** | Bass |
+| **Harvey Brooks** | Bass |
+| **Reinol Andino** | Congas |
+| **Jac Holzman** | Coordinator [Production Coordinator] |
+| **John Densmore** | Drums |
+| **Bruce Botnick** | Engineer |
+| **Champ Webb** | English Horn |
+| **Jim Buchanan** | Fiddle |
+| **Robby Krieger** | Guitar |
+| **Peter Schaumann** | Illustration [Inside] |
+| **Ray Manzarek** | Keyboards |
+| **Jesse McReynolds** | Mandolin |
+| **Joel Brodsky** | Photography By |
+| **Paul A. Rothchild** | Producer |
+| **Curtis Amy** | Saxophone |
+| **George Bohanon** | Trombone |
+| **Jim Morrison** | Vocals |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

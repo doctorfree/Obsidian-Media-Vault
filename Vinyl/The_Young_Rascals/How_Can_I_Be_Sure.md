@@ -44,6 +44,14 @@ By The Young Rascals
 | A | **How Can I Be Sure** | 2:50 |
 | B | **I'm So Happy Now** | 2:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Arif Mardin** | Arranged By |
+| **Tom Dowd** | Engineer |
+| **The Young Rascals** | Producer |
+
 ## See also
 
 - [A Girl Like You / It's Love](A_Girl_Like_You_-_Its_Love.md)

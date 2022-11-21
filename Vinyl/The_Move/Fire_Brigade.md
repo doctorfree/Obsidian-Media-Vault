@@ -54,6 +54,14 @@ By The Move
 | B5 | **Yellow Rainbow** |  |
 | B6 | **Brontosaurus** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ian Hunter (4)** | Cover, Design |
+| **Rex Features** | Photography By |
+| **Roy Wood** | Written-By |
+
 ## See also
 
 - [Looking On](Looking_On.md)

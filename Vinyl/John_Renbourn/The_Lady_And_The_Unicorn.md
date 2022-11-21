@@ -57,6 +57,19 @@ By John Renbourn
 | B2.b | **Western Wynde** | 1:25 |
 | B2.c | **Scarborough Fair** | 7:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Warleigh** | Flute |
+| **Tony Roberts** | Flute |
+| **John Renbourn** | Guitar, Liner Notes |
+| **Terry Cox** | Percussion |
+| **Bill Leader** | Producer |
+| **John Renbourn** | Sitar |
+| **Don Harper (2)** | Viola |
+| **Dave Swarbrick** | Violin |
+
 ## See also
 
 - [Sir John Alot Of Merrie Englandes Musyk Thyng & Ye Grene Knyghte](Sir_John_Alot_Of_Merrie_Englandes_Musyk_Thyng_and_Ye_Grene_Knyghte.md)

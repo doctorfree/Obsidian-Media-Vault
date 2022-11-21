@@ -53,6 +53,40 @@ By Talking Heads
 | B4 | **Electric Guitar** | 2:59 |
 | B5 | **Drugs** | 5:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Frantz** | Band |
+| **David Byrne** | Band |
+| **Jerry Harrison** | Band |
+| **Tina Weymouth** | Band |
+| **Ace Penna** | Coordinator [Road Coordination] |
+| **David Hewitt** | Crew |
+| **Fred Ridder** | Crew |
+| **Kooster McAllister** | Crew |
+| **Phil Gitomer** | Crew |
+| **Jerry Harrison** | Design Concept [Cover Concept] |
+| **Brian Eno** | Effects [Treatments] |
+| **Rod O'Brien** | Engineer |
+| **Chris Martinez** | Engineer [Additional Recording And Mixing, Assistant Engineer] |
+| **Julie Last** | Engineer [Additional Recording And Mixing, Assistant Engineer] |
+| **Tom Heid** | Engineer [Additional Recording And Mixing, Assistant Engineer] |
+| **Joe Barbaria** | Engineer [Additional Recording And Mixing] |
+| **Neal Teeman** | Engineer [Additional Recording And Mixing] |
+| **Rod O'Brien** | Engineer [Additional Recording And Mixing] |
+| **Frank Gallagher (4)** | Engineer [Live Sound] |
+| **Chris Bellman** | Lacquer Cut By |
+| **Gary Kurfirst** | Management |
+| **Greg Calbi** | Mastered By |
+| **Jerry Harrison** | Photography By [Concept, Help] |
+| **David Byrne** | Photography By [Concept] |
+| **Jimmy Garcia** | Photography By [Thermograph] |
+| **Brian Eno** | Producer |
+| **Talking Heads** | Producer |
+| **Chris Bellman** | Remastered By |
+| **David Byrne** | Written-By |
+
 ## See also
 
 - [More Songs About Buildings And Food](More_Songs_About_Buildings_And_Food.md)

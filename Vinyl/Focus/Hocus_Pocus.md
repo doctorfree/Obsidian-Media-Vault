@@ -44,6 +44,14 @@ By Focus
 | A | **Hocus Pocus** | 3:18 |
 | AA | **Hocus Pocus II** | 3:25 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Vernon** | Producer |
+| **Jan Akkerman** | Written-By |
+| **Thijs Van Leer** | Written-By |
+
 ## See also
 
 - [](Focus.md)

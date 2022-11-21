@@ -60,6 +60,19 @@ By The Firesign Theatre
 | D5 | **Mark Time!** | 3:52 |
 | D6 | **Forward,  Into The Past** | 6:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dick Wingate** | Coordinator [Album Coordinator], Edited By |
+| **Andy Engel** | Design |
+| **John O'Leary (5)** | Painting [Cover Painting] |
+| **Bill Driml** | Producer |
+| **Cyrus Faryar** | Producer |
+| **Gary Usher** | Producer |
+| **James William Guercio** | Producer |
+| **The Firesign Theatre** | Producer |
+
 ## See also
 
 - ["Don't Crush That Dwarf, Hand Me The Pliers"](Dont_Crush_That_Dwarf__Hand_Me_The_Pliers.md)

@@ -53,6 +53,18 @@ By The Rolling Stones
 | B4 | **Have You Seen Your Mother Baby, Standing In The Shadow?** | 2:33 |
 | B5 | **Street Fighting Man** | 3:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Rolling Stones** | Arranged By |
+| **Sam Feldman** | Lacquer Cut By |
+| **Ethan Russell** | Photography By [Cover And Liner Photographs] |
+| **Andrew Loog Oldham** | Producer |
+| **Jimmy Miller** | Producer |
+| **The Rolling Stones** | Producer |
+| **Jagger-Richards** | Written-By |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

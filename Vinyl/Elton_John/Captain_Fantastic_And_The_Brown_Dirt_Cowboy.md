@@ -52,6 +52,28 @@ By Elton John
 | B4 | **We All Fall In Love Sometimes** |  |
 | B5 | **Curtains** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dee Murray** | Bass |
+| **Bernie Taupin** | Design Concept [Graphics], Art Direction |
+| **David Larkham** | Design Concept [Graphics], Art Direction |
+| **David Larkham And Friends** | Design [Package] |
+| **Alan Aldridge** | Design, Illustration |
+| **Harry Willock** | Design, Illustration |
+| **Nigel Olsson** | Drums |
+| **Jeff Guercio** | Engineer |
+| **Mark Guercio** | Engineer [Assistant] |
+| **Sean Magee** | Lacquer Cut By [Runout Etching i…i] |
+| **Geoff Halpin** | Lettering [Lettering Help] |
+| **Terry O'Neill (2)** | Photography By [Inner Sleeve] |
+| **Gus Dudgeon** | Producer, Remix |
+| **Bob Ludwig** | Remastered By |
+| **Phil Dunne** | Remix |
+| **Elton John** | Vocals |
+| **Elton John & Bernie Taupin** | Written-By |
+
 ## See also
 
 - [Don't Shoot Me I'm Only The Piano Player](Dont_Shoot_Me_Im_Only_The_Piano_Player.md)

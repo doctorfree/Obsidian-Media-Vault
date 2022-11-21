@@ -53,6 +53,30 @@ By St. Vincent
 | B4 | **Every Tear Disappears** | 3:15 |
 | B5 | **Severed Crossed Fingers** | 3:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Willo Perron** | Creative Director |
+| **Brian Roettinger** | Design |
+| **Homer Steinweiss** | Drums |
+| **McKenzie Smith** | Drums |
+| **Daniel Mintseris** | Harpsichord |
+| **Ralph Carney** | Horns |
+| **Adam Pickrell** | Keyboards |
+| **Ray Janos** | Lacquer Cut By |
+| **Greg Calbi** | Mastered By |
+| **John Congleton** | Mixed By |
+| **Renata Raksha** | Photography By |
+| **Daniel Mintseris** | Piano |
+| **John Congleton** | Producer |
+| **John Congleton** | Recorded By |
+| **Annie Clark** | Songwriter |
+| **Daniel Mintseris** | Synthesizer |
+| **Adam Pickrell** | Synthesizer [Minimoog] |
+| **Bobby Sparks** | Synthesizer [Minimoog] |
+| **Annie Clark** | Vocals, Guitar |
+
 ## See also
 
 - [Masseduction](Masseduction.md)

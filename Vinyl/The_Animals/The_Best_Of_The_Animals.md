@@ -57,6 +57,14 @@ By The Animals
 | B6 | **It's My Life** | 3:08 |
 | B7 | **Bring It On Home To Me** | 2:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Carl Rowatti** | Lacquer Cut By |
+| **Adam Ayan** | Mastered By |
+| **Mickie Most** | Producer |
+
 ## See also
 
 - [Don't Bring Me Down](Dont_Bring_Me_Down.md)

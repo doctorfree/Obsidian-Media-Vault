@@ -57,6 +57,35 @@ By Tenacious D
 | B5 | **POD** |  |
 | B6 | **The Metal** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Matt Marshall (3)** | A&R |
+| **Andrew Gross** | Arranged By [Orchestral Arrangements] |
+| **John Spiker** | Bass |
+| **Dave Grohl** | Drums |
+| **John Konesky** | Electric Guitar |
+| **Brad Breeck** | Engineer [Assistant] |
+| **Ed Cherney** | Engineer [Assistant] |
+| **John Spiker** | Engineer [Assistant] |
+| **Nick Raskulinecz** | Engineer [Assistant] |
+| **Casey Stone** | Engineer [Bari Sax And Piano] |
+| **Casey Stone** | Engineer [Orchestral Arrangements] |
+| **Bob Bowen** | Executive-Producer [Music Executive For New Line] |
+| **Silva Artist Management** | Management |
+| **Tom Baker (3)** | Mastered By |
+| **Ken Andrews** | Mixed By |
+| **John King** | Producer |
+| **Jack Black (2)** | Vocals, Acoustic Guitar |
+| **Kyle Gass** | Vocals, Acoustic Guitar |
+| **Jack Black (2)** | Written-By |
+| **John King** | Written-By |
+| **John Konesky** | Written-By |
+| **John Spiker** | Written-By |
+| **Kyle Gass** | Written-By |
+| **Liam Lynch** | Written-By |
+
 ## See also
 
 - [Tenacious D](Tenacious_D.md)

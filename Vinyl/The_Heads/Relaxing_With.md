@@ -52,6 +52,22 @@ By The Heads
 | B4 | **Taken Too Much** |  |
 | B5 | **Coogan's Bluff** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eny 91v** | Artwork By [Cover] |
+| **Simon Price (2)** | Artwork [Cover] |
+| **H.O. Morgan** | Bass |
+| **Wayne Maskell** | Drums |
+| **Corin Dingley** | Engineer |
+| **Paul Allen (6)** | Guitar, Harp |
+| **John Dent** | Mastered By |
+| **Matt** | Photography [Band] |
+| **Corin Dingley** | Producer, Mixed By |
+| **Simon Price (2)** | Vocals, Guitar |
+| **The Heads (2)** | Written-By, Producer, Mixed By |
+
 ## See also
 
 - [](The_Heads.md)

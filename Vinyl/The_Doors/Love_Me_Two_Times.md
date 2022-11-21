@@ -44,6 +44,13 @@ By The Doors
 | A | **Love Me Two Times** | 2:37 |
 | B | **Moonlight Drive** | 2:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul A. Rothchild** | Producer |
+| **The Doors** | Written-By |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

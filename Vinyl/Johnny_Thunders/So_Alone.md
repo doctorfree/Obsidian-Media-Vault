@@ -56,6 +56,12 @@ Limited edition numbered copy 0753 of 1500
 | B4 | **Subway Train** |  |
 | B5 | **Downtown** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Kevin Gray** | Remastered By |
+
 ## See also
 
 - [](Johnny_Thunders.md)

@@ -42,6 +42,12 @@ By Yogi Yorgesson With The John Duffy Trio
 | A | **Yingle Bells** | 2:37 |
 | B | **I Yust Go Nuts At Christmas** | 3:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jay Maynard** | Mastered By |
+
 ## See also
 
 - [](Yogi_Yorgesson_With_The_John_Duffy_Trio.md)

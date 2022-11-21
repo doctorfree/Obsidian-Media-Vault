@@ -51,6 +51,21 @@ By Barbra Streisand
 | B3 | **I Ain't Gonna Cry Tonight** | 5:00 |
 | B4 | **Kiss Me In The Rain** | 4:16 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Greg Mathieson** | Arranged By, Conductor |
+| **Lee Holdridge** | Arranged By, Conductor |
+| **Gayle Levant** | Harp |
+| **Bobbye Hall** | Percussion |
+| **Gary Coleman** | Percussion |
+| **Paulinho Da Costa** | Percussion |
+| **Gary Klein** | Producer |
+| **Greg Mathieson** | Synthesizer |
+| **Ian Underwood** | Synthesizer |
+| **Michael Boddicker** | Synthesizer |
+
 ## See also
 
 - [](Barbra_Streisand.md)

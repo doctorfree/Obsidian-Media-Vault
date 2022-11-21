@@ -44,6 +44,14 @@ By Green Jellÿ
 | A | **Anarchy In The UK** | 3:27 |
 | B | **Green Jelly Theme Song** | 2:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Kevin Coogan** | Management |
+| **C. J. Buscaglia** | Producer |
+| **Sylvia Massy** | Producer |
+
 ## See also
 
 - [](Green_Jellÿ.md)

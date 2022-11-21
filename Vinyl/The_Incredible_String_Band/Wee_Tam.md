@@ -51,6 +51,19 @@ By The Incredible String Band
 | B3 | **Air** | 3:12 |
 | B4 | **Ducks On A Pond** | 9:17 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **William S. Harvey** | Art Direction |
+| **Elaine Gongora** | Design [Cover] |
+| **John Wood** | Engineer |
+| **Guy Webster** | Photography By |
+| **Joe Boyd** | Producer |
+| **Jac Holzman** | Supervised By [American Production Supervision] |
+| **Mike Heron (2)** | Written-By |
+| **Robin Williamson** | Written-By |
+
 ## See also
 
 - [](The_Incredible_String_Band.md)

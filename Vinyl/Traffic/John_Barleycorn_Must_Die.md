@@ -48,6 +48,19 @@ By Traffic
 | B2 | **John Barleycorn** | 6:20 |
 | B3 | **Every Mother's Son** | 7:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Sida** | Design [Album Design] |
+| **Andy Johns** | Engineer |
+| **Brian Humphries** | Engineer |
+| **English Folk Dance And Song Society** | Illustration |
+| **Richard Polak** | Photography By |
+| **Chris Blackwell** | Producer |
+| **Guy Stevens** | Producer |
+| **Steve Winwood** | Producer |
+
 ## See also
 
 - [](Traffic.md)

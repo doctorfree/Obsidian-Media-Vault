@@ -54,6 +54,30 @@ By Howard Jones
 | B5 | **Automaton** | 4:04 |
 | B6 | **Hunger For The Flesh** | 3:54 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rob O'Connor** | Artwork [Graphic Design] |
+| **Stylorouge** | Artwork [Graphic Design] |
+| **Hojo Kurosawa** | Artwork [Human Models] |
+| **Howard Jones** | Music By, Lyrics By, Vocals, Instruments, Programmed By |
+| **Caron Wheeler** | Performer [Afrodiziak Are] |
+| **Claudia Fontaine** | Performer [Afrodiziak Are] |
+| **Naomi Thompson** | Performer [Afrodiziak Are] |
+| **Elizabeth Holden** | Performer [The Effervescents Are] |
+| **Kirstie Fulthorpe** | Performer [The Effervescents Are] |
+| **Laura Bishop (2)** | Performer [The Effervescents Are] |
+| **Tania Matos** | Performer [The Effervescents Are] |
+| **Alan Whetton** | Performer [The Tko Horns Are] |
+| **Brian Maurice** | Performer [The Tko Horns Are] |
+| **Dave Plews** | Performer [The Tko Horns Are] |
+| **Jim Paterson** | Performer [The Tko Horns Are] |
+| **Simon Fowler (2)** | Photography By [Album Sleeve] |
+| **Rupert Hine** | Producer |
+| **Andrew Scarth** | Recorded By [Assistant] |
+| **Stephen W. Tayler** | Recorded By, Mixed By |
+
 ## See also
 
 - [](Howard_Jones.md)

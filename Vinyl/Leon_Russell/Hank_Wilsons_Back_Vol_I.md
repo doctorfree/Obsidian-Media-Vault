@@ -55,6 +55,26 @@ By Leon Russell
 | B6 | **Lost Highway** | 2:18 |
 | B7 | **Goodnight Irene** | 4:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hank Wilson** | Arranged By [Musical] |
+| **Charlie McCoy** | Backing Vocals |
+| **David Briggs (2)** | Backing Vocals |
+| **Dianne Davidson** | Backing Vocals |
+| **Melba Montgomery** | Backing Vocals |
+| **Millie Kirkham** | Backing Vocals |
+| **Ray Edenton** | Backing Vocals |
+| **Eve Babitz** | Design [Cover] |
+| **Joe Mills** | Engineer |
+| **Wally Traugott** | Mastered By |
+| **Daniel Mayo** | Photography By [Hank's Pic] |
+| **Audie Ashworth** | Producer |
+| **Denny Cordell** | Producer |
+| **J.J. Cale** | Producer |
+| **Leon Russell** | Producer |
+
 ## See also
 
 - [Carney](Carney.md)

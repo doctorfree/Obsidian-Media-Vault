@@ -42,6 +42,17 @@ By The Dead Weather
 | A | **Buzzkill(er)** | 3:03 |
 | B | **It's Just Too Bad** | 3:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Trent Thibodeaux** | Artwork |
+| **Wes Garland** | Lacquer Cut By |
+| **Vance Powell** | Mixed By |
+| **Mindy Watts** | Mixed By [Assisted By] |
+| **Joshua V. Smith** | Recorded By |
+| **Mindy Watts** | Recorded By [Assisted By] |
+
 ## See also
 
 - [](The_Dead_Weather.md)

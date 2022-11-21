@@ -53,6 +53,41 @@ By Counting Crows
 | D1 | **Raining In Baltimore** | 4:41 |
 | D2 | **A Murder Of One** | 5:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Larry Vigon** | Art Direction, Design |
+| **Gary Louris** | Backing Vocals [Additional Musicians: Background Vocals] |
+| **Maria McKee** | Backing Vocals [Additional Musicians: Background Vocals] |
+| **Mark Olson (2)** | Backing Vocals [Additional Musicians: Background Vocals] |
+| **Matt Malley** | Bass, Guitar, Vocals |
+| **Robin Sloane** | Creative Director [Creative Direction] |
+| **Brian Jackson (6)** | Design |
+| **Steve Bowman** | Drums, Vocals |
+| **Howard Willing** | Engineer [Additional] |
+| **Robert Hart (3)** | Engineer [Additional] |
+| **Steve Holroyd** | Engineer [Additional] |
+| **Brant Scott** | Engineer [Second] |
+| **Mark Guilbeault** | Engineer [Second] |
+| **Gary Gersh** | Executive-Producer |
+| **T-Bone Burnett** | Guitar [Additional Musicians] |
+| **Bill Dillon** | Guitar [Additional Musicians], Electric Guitar [Additional Musicians: Guitorgan] |
+| **David Immerglück** | Guitar [Additional Musicians], Mandolin [Additional Musicians], Mandocello [Additional Musicians], Vocals [Additional Musicians] |
+| **David Bryson** | Guitar, Vocals |
+| **Chris Bellman** | Lacquer Cut By |
+| **Martin Kirkup** | Management |
+| **Steven Jensen** | Management |
+| **Stephen Marcussen** | Mastered By |
+| **Pat McCarthy** | Mixed By |
+| **Scott Litt** | Mixed By |
+| **Denny Fongheiser** | Percussion [Additional Musicians] |
+| **Michael Tighe (2)** | Photography By |
+| **Charles Gillingham** | Piano, Organ [Hammond B-3], Accordion, Chamberlin, Vocals |
+| **T-Bone Burnett** | Producer |
+| **Pat McCarthy** | Recorded By |
+| **Adam Duritz** | Vocals, Piano, Harmonica |
+
 ## See also
 
 - [](Counting_Crows.md)

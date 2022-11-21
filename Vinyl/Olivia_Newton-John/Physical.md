@@ -44,6 +44,12 @@ By Olivia Newton-John
 | A | **Physical** | 3:43 |
 | B | **The Promise (The Dolphin Song)** | 4:32 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Farrar** | Producer [Produced By] |
+
 ## See also
 
 - [Make A Move On Me](Make_A_Move_On_Me.md)

@@ -50,6 +50,21 @@ By Deep Purple
 | B2 | **Bird Has Flown** |  |
 | B3 | **April** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Deep Purple** | Arranged By [And Devised By] |
+| **Michael Savino (2)** | Art Direction |
+| **Jon Lord** | Composed By [String And Woodwind Section], Arranged By [String And Woodwind Section] |
+| **Barry Ainsworth** | Engineer |
+| **Sean Magee** | Lacquer Cut By [Runout Etching i…i] |
+| **Deep Purple** | Liner Notes |
+| **Hieronymus Bosch (3)** | Painting |
+| **David Anthony (7)** | Photography By |
+| **Derek Lawrence** | Producer |
+| **Peter Mew** | Remastered By |
+
 ## See also
 
 - [Burn](Burn.md)

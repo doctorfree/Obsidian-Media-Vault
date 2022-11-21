@@ -53,6 +53,17 @@ By Steppenwolf
 | B4 | **Take What You Need** | 3:28 |
 | B5 | **The Ostrich** | 5:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Artwork [Cover, Liner Design] |
+| **Bill Cooper** | Engineer |
+| **Richard Podolor** | Engineer |
+| **Tom Gundelfinger** | Photography By |
+| **Gabriel Mekler** | Producer |
+| **Kevin Gray** | Remastered By |
+
 ## See also
 
 - [Monster](Monster.md)

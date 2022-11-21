@@ -59,6 +59,12 @@ By Various
 | B8 | **Cresoxipropanedial En Capsules** |  |
 | B9 | **Trempe Tes Pieds Dans Le Gange** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mimi La Twisteuse** | Compiled By |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

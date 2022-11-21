@@ -62,6 +62,35 @@ By Stevie Wonder
 | D3 | **Tree** | 5:55 |
 | D4 | **Finale** | 6:47 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Cabalka** | Art Direction |
+| **Keith Harris (2)** | Coordinator [Album Cover Coordination] |
+| **Jay Mark** | Engineer [Additional] |
+| **John Fischbach** | Engineer [Additional], Programmed By [Synthesizer] |
+| **Ann Bolling** | Engineer [Assistant] |
+| **Bob Harlan** | Engineer [Assistant] |
+| **Charles Brewer** | Engineer [Assistant] |
+| **Jim Dougherty** | Engineer [Assistant] |
+| **Laura Livingston** | Engineer [Assistant] |
+| **Lindy Griffin** | Engineer [Assistant] |
+| **Gary Olazabal** | Engineer, Mixed By, Producer [Associate], Programmed By [Synthesizer] |
+| **Margo Zafer Nahas** | Illustration [Album Package Illustration] |
+| **Ginny Livingston** | Layout |
+| **Abdoulaye Soumare** | Liner Notes [Bambara Translation] |
+| **Kenji Miura** | Liner Notes [Japanese Translation] |
+| **Mary Ann Monkoshi** | Liner Notes [Japanese Translation] |
+| **Yoshi J. Maejima** | Liner Notes [Japanese Translation] |
+| **Stevie Wonder** | Lyrics By |
+| **Stan Ricker** | Mastered By |
+| **Stevie Wonder** | Music By, Instruments, Producer, Programmed By [Synthesizer] |
+| **Bill Wolf** | Programmed By [Synthesizer, Sequencer] |
+| **Clark Spangler** | Programmed By [Synthesizer, Sequencer] |
+| **Gordon Bahary** | Programmed By [Synthesizer, Sequencer] |
+| **Harry Mandell** | Technician [Computer Music Melodian Design] |
+
 ## See also
 
 - [Songs In The Key Of Life](Songs_In_The_Key_Of_Life.md)

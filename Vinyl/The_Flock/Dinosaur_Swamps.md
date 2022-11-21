@@ -49,6 +49,16 @@ By The Flock
 | B2 | **Mermaid** | 4:53 |
 | B3 | **Uranian Sircus** | 7:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Don Meehan** | Engineer |
+| **Don Puluse** | Engineer |
+| **Aaron Russo** | Management |
+| **John McClure** | Producer |
+| **The Flock** | Written-By |
+
 ## See also
 
 - [](The_Flock.md)

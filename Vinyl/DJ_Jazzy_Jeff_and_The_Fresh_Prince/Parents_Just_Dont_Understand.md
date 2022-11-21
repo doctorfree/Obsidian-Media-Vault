@@ -46,6 +46,16 @@ By DJ Jazzy Jeff & The Fresh Prince
 | B1 | **Parents Just Don't Understand (Instrumental)** | 5:35 |
 | B2 | **Live At Union Square, November 1986** | 4:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bryan "Chuck" New** | Engineer |
+| **DJ Jazzy Jeff & The Fresh Prince** | Producer |
+| **Jeff Townes** | Written-By |
+| **Pete Q. Harris** | Written-By |
+| **Will Smith** | Written-By |
+
 ## See also
 
 - [](DJ_Jazzy_Jeff_and_The_Fresh_Prince.md)

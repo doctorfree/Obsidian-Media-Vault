@@ -44,6 +44,15 @@ By The Time
 | A | **Jerk Out (Edit)** | 3:54 |
 | B | **Mo' Jerk Out** | 4:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Morris Day** | Directed By |
+| **Benny Medina** | Executive Producer |
+| **Jimmy Jam & Terry Lewis** | Producer [Coordinating Producer] |
+| **The Time** | Producer [Produced By], Written By, Arranged By |
+
 ## See also
 
 - [](The_Time.md)

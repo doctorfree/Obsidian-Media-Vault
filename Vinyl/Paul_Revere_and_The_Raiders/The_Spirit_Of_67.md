@@ -53,6 +53,13 @@ By Paul Revere & The Raiders
 | B4 | **1001 Arabian Nights** |  |
 | B5 | **The Great Airplane Strike** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joe Reagoso** | Mastered By |
+| **Terry Melcher** | Producer |
+
 ## See also
 
 - [Just Like Us!](Just_Like_Us!.md)

@@ -52,6 +52,32 @@ By The Ronettes Featuring Veronica Bennett
 | B5 | **When I Saw You** | 2:30 |
 | B6 | **Chapel Of Love** | 2:54 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Nitzsche** | Arranged By |
+| **Jimmy Bond** | Bass |
+| **Larry Knechtel** | Bass |
+| **Ray Pohlman** | Bass |
+| **Hal Blaine** | Drums |
+| **Larry Levine** | Engineer, Sleeve Notes |
+| **Barney Kessel** | Guitar |
+| **Bill Pitman** | Guitar |
+| **Carol Kaye** | Guitar |
+| **Tommy Tedesco** | Guitar |
+| **Vini Poncia** | Guitar |
+| **Jay Migliori** | Horns |
+| **Lou Blackburn** | Horns |
+| **Roy Caton** | Horns |
+| **Steve Douglas** | Horns |
+| **Al De Lory** | Piano |
+| **Don Randi** | Piano |
+| **Harold Battiste** | Piano |
+| **Larry Knechtel** | Piano |
+| **Leon Russell** | Piano |
+| **Phil Spector** | Producer |
+
 ## See also
 
 - [](The_Ronettes_Featuring_Veronica_Bennett.md)

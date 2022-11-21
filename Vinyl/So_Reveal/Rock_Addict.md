@@ -44,6 +44,12 @@ By So Reveal
 | A | **Rock Addict** | 2:40 |
 | B | **Live This Way** | 2:50 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **So Reveal** | Producer |
+
 ## See also
 
 - [](So_Reveal.md)

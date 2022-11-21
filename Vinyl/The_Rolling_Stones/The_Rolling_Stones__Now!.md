@@ -54,6 +54,15 @@ By The Rolling Stones
 | B5 | **Little Red Rooster** | 3:00 |
 | B6 | **Surprise, Surprise** | 2:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Rolling Stones** | Arranged By |
+| **Andrew Loog Oldham** | Liner Notes |
+| **David Bailey (5)** | Photography By |
+| **Andrew Loog Oldham** | Producer |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

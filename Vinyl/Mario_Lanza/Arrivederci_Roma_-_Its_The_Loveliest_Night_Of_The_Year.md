@@ -44,6 +44,12 @@ By Mario Lanza
 | A | **Arrivederci Roma** |  |
 | B | **It's The Loveliest Night Of The Year** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Georgie Stoll & His Orchestra** | Orchestra |
+
 ## See also
 
 - [Mario Lanza Sings The Hit Songs From The Student Prince](Mario_Lanza_Sings_The_Hit_Songs_From_The_Student_Prince.md)

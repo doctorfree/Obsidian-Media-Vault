@@ -48,6 +48,17 @@ By "Tomaso Albinoni, Johann Pachelbel, Berliner Philharmoniker, Herbert von Kara
 | B2 | **Dance Of The Blessed Spirits, From The Opera "Orpheus And Eurydice"** | 6:43 |
 | B3 | **Serenata Notturna In D Major, K. 239** | 13:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Herbert von Karajan** | Conductor |
+| **Reinhild Schmidt** | Edited By |
+| **Günter Hermanns** | Engineer |
+| **Berliner Philharmoniker** | Orchestra |
+| **Günther Breest** | Producer |
+| **Michel Glotz** | Recording Supervisor |
+
 ## See also
 
 - [](Tomaso_Albinoni__Johann_Pachelbel__Berliner_Philharmoniker__Herbert_von_Karajan.md)

@@ -52,6 +52,24 @@ By Linda Ronstadt
 | B4 | **Tumbling Dice** | 3:05 |
 | B5 | **Old Paint** | 3:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Kosh** | Design, Art Direction |
+| **Shawn R. Britton** | Lacquer Cut By [Runout Etchings] |
+| **Shawn R. Britton** | Mastered By [Half-Speed] |
+| **Dan Dugmore** | Performer |
+| **Don Grolnick** | Performer |
+| **Kenny Edwards** | Performer |
+| **Linda Ronstadt** | Performer |
+| **Rick Marotta** | Performer |
+| **Waddy Wachtel** | Performer |
+| **Jim Shea** | Photography By |
+| **Peter Asher** | Producer [Produced By] |
+| **Mark Howlett** | Recorded By [Assisted By], Mixed By [Assisted By] |
+| **Val Garay** | Recorded By, Mixed By |
+
 ## See also
 
 - [Don't Cry Now](Dont_Cry_Now.md)

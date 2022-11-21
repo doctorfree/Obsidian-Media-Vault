@@ -55,6 +55,16 @@ By Red Hot Chili Peppers
 | B6 | **Sexy Mexican Maid** | 3:40 |
 | B7 | **Johnny, Kick A Hole In The Sky** | 5:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ron McMaster** | Lacquer Cut By |
+| **Dave Jerden** | Mixed By |
+| **Michael Beinhorn** | Producer |
+| **D.H. Peligro** | Written-By |
+| **Red Hot Chili Peppers** | Written-By |
+
 ## See also
 
 - [Freaky Styley](Freaky_Styley.md)

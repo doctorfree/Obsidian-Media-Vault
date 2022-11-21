@@ -42,6 +42,16 @@ By Go-Go's
 | A | **Get Up And Go** | 3:12 |
 | B | **Get Up And Go** | 3:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Thom Panunzio** | Mixed By |
+| **Richard Gottehrer** | Producer |
+| **Thom Panunzio** | Recorded By |
+| **Charlotte Caffey** | Written-By |
+| **Jane Wiedlin** | Written-By |
+
 ## See also
 
 - [Beauty And The Beat](Beauty_And_The_Beat.md)

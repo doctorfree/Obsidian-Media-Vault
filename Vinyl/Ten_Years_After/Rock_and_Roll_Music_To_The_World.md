@@ -51,6 +51,22 @@ By Ten Years After
 | B4 | **Tomorrow I'll Be Out Of Town** | 4:26 |
 | B5 | **Rock & Roll Music To The World** | 3:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Leo Lyons** | Bass |
+| **Chris Wright** | Coordinator [Executive Co-ordination] |
+| **Visualeyes Ltd** | Cover |
+| **Ric Lee** | Drums |
+| **Chris Kimsey** | Engineer |
+| **Alvin Lee** | Guitar |
+| **Chick Churchill** | Organ |
+| **Brian Cooke (2)** | Photography By [Front And Back] |
+| **Alvin Lee** | Photography By [Inside] |
+| **Ten Years After** | Producer |
+| **Alvin Lee** | Written-By |
+
 ## See also
 
 - [](Ten_Years_After.md)

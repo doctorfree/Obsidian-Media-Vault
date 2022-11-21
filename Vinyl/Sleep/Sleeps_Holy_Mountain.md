@@ -51,6 +51,15 @@ By Sleep
 | B3 | **From Beyond** |  |
 | B4 | **Nain's Baptism** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Robert Klem** | Artwork |
+| **Al Cisneros** | Bass Vocals |
+| **Chris Hakius** | Drums |
+| **Matt Pike** | Guitar |
+
 ## See also
 
 - [](Sleep.md)

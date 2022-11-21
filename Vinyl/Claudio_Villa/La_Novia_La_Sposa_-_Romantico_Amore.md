@@ -44,6 +44,12 @@ By Claudio Villa
 | A | **La Novia (La Sposa)** |  |
 | B | **Romantico Amore** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Elvio Monti E La Sua Orchestra** | Accompanied By [Orchestra] |
+
 ## See also
 
 - [](Claudio_Villa.md)

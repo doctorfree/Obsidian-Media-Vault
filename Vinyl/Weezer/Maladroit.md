@@ -55,6 +55,34 @@ By Weezer
 | B12 | **Love Explosion** |  |
 | B13 | **December** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Todd Sullivan (2)** | A&R |
+| **Francesca Restrepo** | Art Direction |
+| **Chad Bamford** | Engineer |
+| **Carlos Bedoya** | Engineer [Additional] |
+| **Chris Carroll** | Engineer [Additional] |
+| **Femio Hernandez** | Engineer [Assistant At South Beach] |
+| **Darren Mora** | Engineer [Assistant] |
+| **Steven R. Robillard** | Engineer [Assistant] |
+| **Jordan Schur** | Executive-Producer |
+| **Stephen Marcussen** | Mastered By |
+| **Tom Lord-Alge** | Mixed By |
+| **Brian Bell** | Performer [Weezer] |
+| **Pat Wilson** | Performer [Weezer] |
+| **Rivers Cuomo** | Performer [Weezer] |
+| **Scott Shriner** | Performer [Weezer] |
+| **Chris McPherson** | Photography By |
+| **Karl Koch (4)** | Photography By |
+| **Sarah C. Kim** | Photography By |
+| **Sean Murphy (12)** | Photography By |
+| **Weezer** | Producer |
+| **Chad Bamford** | Producer [Additional] |
+| **Rod Cervera** | Producer [Additional] |
+| **Rivers Cuomo** | Written-By |
+
 ## See also
 
 - [](Weezer.md)

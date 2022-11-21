@@ -62,6 +62,23 @@ By Elvis Costello
 | B9 | **My Funny Valentine** | 1:25 |
 | B10 | **Ghost Train** | 3:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The CBS Records Art Department** | Design |
+| **Aldo Bocca** | Engineer |
+| **Bassman (15)** | Engineer |
+| **Bazza** | Engineer |
+| **Chas Herington** | Engineer |
+| **Guy Bidmead** | Engineer |
+| **Roger Bechirian** | Engineer |
+| **Gregg Geller** | Liner Notes |
+| **Elvis Costello** | Producer |
+| **Nick Lowe** | Producer |
+| **Guy Bidmead** | Remix |
+| **Elvis Costello** | Written-By |
+
 ## See also
 
 - [](Elvis_Costello.md)

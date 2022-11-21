@@ -66,6 +66,16 @@ By Various
 | D5 | **Trip To Loveland** |  |
 | D6 | **No One Was There (Requiem)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rory Wilson** | Art Direction, Illustration |
+| **Andrew Sandoval** | Compilation Producer |
+| **Ian Sefchick** | Lacquer Cut By |
+| **Bill Inglot** | Remastered By |
+| **Dan Hersch** | Remastered By |
+
 ## See also
 
 - [Easy Rider (Music From The Soundtrack)](Easy_Rider_Music_From_The_Soundtrack.md)

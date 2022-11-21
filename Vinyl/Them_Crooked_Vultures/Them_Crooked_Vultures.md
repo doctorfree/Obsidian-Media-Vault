@@ -55,6 +55,27 @@ By Them Crooked Vultures
 | D2 | **Gunman** | 4:47 |
 | D3 | **Spinning In Daffodils** | 7:27 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Morning Breath Inc.** | Art Direction |
+| **Liam Lynch** | Graphics, Artwork |
+| **Brian Gardner** | Mastered By |
+| **Mike Bozzi** | Mastered By [Assisted By] |
+| **Chris Kasych** | Mixed By [Assisted By] |
+| **Dave Grohl** | Musician [Them Crooked Vultures Is] |
+| **John Paul Jones** | Musician [Them Crooked Vultures Is] |
+| **Josh Homme** | Musician [Them Crooked Vultures Is] |
+| **Them Crooked Vultures** | Producer |
+| **Alain Johannes** | Recorded By |
+| **Alain Johannes** | Recorded By [Additional Vocals] |
+| **Justin Smith (51)** | Recorded By [Assisted By] |
+| **Alan Moulder** | Recorded By, Mixed By |
+| **Gersh** | Technician [Drums For Drumfetish] |
+| **Alastair Christie** | Technician [Everything Else] |
+| **Them Crooked Vultures** | Written-By |
+
 ## See also
 
 - [](Them_Crooked_Vultures_index.md)

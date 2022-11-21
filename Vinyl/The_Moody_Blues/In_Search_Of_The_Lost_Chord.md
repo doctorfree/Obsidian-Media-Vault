@@ -54,6 +54,20 @@ By The Moody Blues
 | B5 | **The Word** |  |
 | B6 | **Om** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Lodge** | Bass Guitar, Cello, Tambourine, Snare [Snare Drum], Acoustic Guitar [Accoustic Guitar], Vocals |
+| **Ray Thomas** | Concert Flute ['C' Flute], Alto Flute, Soprano Saxophone, Vocals |
+| **Phil Travers** | Cover |
+| **Graeme Edge** | Drums, Timpani, Tambourine, Tabla [Tablas], Piano |
+| **Kevin Gray** | Lacquer Cut By |
+| **W (12)** | Mastered By |
+| **Mike Pinder** | Mellotron [Mellotrons], Piano, Harpsichord, Cello, Acoustic Guitar [Accoustic Guitar], Bass Guitar, Autoharp |
+| **Tony Clarke** | Producer, Sleeve Notes |
+| **Justin Hayward** | Twelve-String Guitar, Acoustic Guitar [Accoustic Guitar], Electric Guitar, Sitar, Tabla [Tablas], Piano, Mellotron, Bass Guitar, Harpsichord, Percussion, Vocals |
+
 ## See also
 
 - [A Question Of Balance](A_Question_Of_Balance.md)

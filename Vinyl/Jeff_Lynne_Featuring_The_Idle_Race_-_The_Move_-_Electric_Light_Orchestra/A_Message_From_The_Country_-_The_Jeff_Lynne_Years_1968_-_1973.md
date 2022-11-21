@@ -54,6 +54,14 @@ By Jeff Lynne Featuring The Idle Race / The Move / Electric Light Orchestra
 | B7 | **No Time** | 3:42 |
 | B8 | **Showdown** | 4:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jeff Lynne** | Producer |
+| **Roy Wood** | Producer |
+| **Jeff Lynne** | Written-By |
+
 ## See also
 
 - [](Jeff_Lynne_Featuring_The_Idle_Race_-_The_Move_-_Electric_Light_Orchestra.md)

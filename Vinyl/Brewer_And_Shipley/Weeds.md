@@ -52,6 +52,34 @@ By Brewer And Shipley
 | B4 | **Too Soon Tomorrow** | 2:53 |
 | B5 | **Witchi-tai-to** | 6:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Kahn** | Bass |
+| **Robert Huberman** | Bass |
+| **Reinol Andino** | Congas |
+| **Good Karma Productions** | Design, Management |
+| **Bob Jones (3)** | Drums |
+| **Fred Olson (2)** | Electric Guitar |
+| **Mike Bloomfield** | Electric Guitar |
+| **Leo Kulka** | Engineer |
+| **Vance Frost** | Engineer |
+| **Richard Greene** | Fiddle |
+| **Applejack** | Harmonica |
+| **Ira Kamin** | Organ, Piano |
+| **Lee** | Other [Lettering] |
+| **Maple** | Other [Repidograph] |
+| **Red Rhodes** | Pedal Steel Guitar |
+| **Morty** | Photography |
+| **Gary Peterson (9)** | Photography By |
+| **Tom Shipley** | Photography By, Vocals, Acoustic Guitar, Twelve-String Guitar, Words By, Music By |
+| **Nicky Hopkins** | Piano |
+| **Mark Naftalin** | Piano, Organ |
+| **Nick Gravenites** | Producer |
+| **Phil Ford** | Tabla |
+| **Michael Brewer** | Vocals, Acoustic Guitar, Shaker, Vibraslap, Words By, Music By |
+
 ## See also
 
 - [People Love Each Other](People_Love_Each_Other.md)

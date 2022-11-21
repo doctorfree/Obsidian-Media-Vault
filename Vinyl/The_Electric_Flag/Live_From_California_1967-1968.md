@@ -57,6 +57,22 @@ By The Electric Flag
 | D2 | **Hey Joe** | 5:11 |
 | D3 | **I've Been Loving You Too Long** | 6:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mark Kalmus** | Art Direction, Design |
+| **Herbie Rich** | Baritone Saxophone |
+| **Harvey Brooks** | Bass Guitar |
+| **Buddy Miles** | Drums, Vocals |
+| **Mike Bloomfield** | Guitar |
+| **Barry Goldberg** | Keyboards |
+| **Randy Perry** | Mastered By |
+| **David Skye** | Producer |
+| **Peter Strazza** | Tenor Saxophone |
+| **Marcus Doubleday** | Trumpet, Flugelhorn |
+| **Nick Gravenites** | Vocals |
+
 ## See also
 
 - [](The_Electric_Flag.md)

@@ -50,6 +50,32 @@ By Heart
 | B3 | **Mother Earth Blues** | 5:42 |
 | B4 | **I've Got The Music In Me** | 6:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nancy Wilson (2)** | Acoustic Guitar, Electric Guitar, Blues Harp, Vocals |
+| **Howard Leese** | Arranged By [Strings], Conductor [Strings] |
+| **Loren Salazar** | Artwork [Front Cover] |
+| **Steve Fossen** | Bass, Vocals |
+| **Michael Derosier** | Drums |
+| **Mike Flicker** | Engineer |
+| **Rick Keefer** | Engineer |
+| **Larry Green (3)** | Engineer [Assistant Engineer] |
+| **Rolf Hennemann** | Engineer [Assistant Engineer] |
+| **Terry Gottlieb** | Engineer [Assistant Engineer] |
+| **Howard Leese** | Guitar, Keyboards, Vocals |
+| **John Golden** | Lacquer Cut By |
+| **Roger Fisher (2)** | Lead Guitar |
+| **Ann Wilson** | Lead Vocals, Flute, Acoustic Guitar |
+| **Ann Wilson** | Lyrics By |
+| **Nancy Wilson (2)** | Lyrics By |
+| **Ken Kinnear** | Management |
+| **Mike Flicker** | Producer |
+| **Heart** | Producer [Production Assistance] |
+| **Mike Fisher (2)** | Producer [Production Assistance] |
+| **Mike Fisher (2)** | Producer [Special Direction] |
+
 ## See also
 
 - [Dog & Butterfly](Dog_and_Butterfly.md)

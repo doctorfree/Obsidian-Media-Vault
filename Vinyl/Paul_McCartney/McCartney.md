@@ -62,6 +62,42 @@ By Paul McCartney
 | D3 | **Don't Cry Baby (Out-Take)** | 3:06 |
 | D4 | **Women Kind (Demo) (Mono)** | 2:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul McCartney** | Composed By |
+| **Roger Huggett** | Consultant [Creative Consultant] |
+| **Claudia Schmid** | Coordinator [Artwork & Photographic Co-ordinator] |
+| **Lisa Power** | Coordinator [Audio Co-ordinators] |
+| **Ruth Birch** | Coordinator [Audio Co-ordinators] |
+| **Susanne Buckner** | Coordinator [Film Co-ordinator] |
+| **Allan Rouse** | Coordinator [Remastering Project Co-ordinator] |
+| **YES (5)** | Creative Director, Design [Redesign] |
+| **Paul McCartney** | Executive-Producer |
+| **Linda McCartney** | Harmony Vocals [Harmonies] |
+| **Paul McCartney** | Instruments, Voice |
+| **Geoff Emerick** | Mixed By |
+| **Eddie Klein** | Other [MPL Audio Archive] |
+| **Dave Bogart** | Other [Publishing & Copyright] |
+| **Jane Kett** | Other [Publishing & Copyright] |
+| **Nancy Jeffries** | Other [Publishing & Copyright] |
+| **Paul & Linda McCartney** | Photography By [All Other Photographs] |
+| **Linda McCartney** | Photography By [Front & Back Cover Photographs] |
+| **Paul McCartney** | Producer |
+| **Scott Roger** | Project Manager |
+| **Eddie Klein** | Recorded By |
+| **Mark Vigars** | Recorded By |
+| **Geoff Emerick** | Recorded By, Mixed By |
+| **Paul McCartney** | Recorded By, Mixed By |
+| **Guy Massey** | Remastered By |
+| **Steve Rooke** | Remastered By |
+| **Toby McColl** | Research [Additional Research] |
+| **Catherine Shepherd** | Research [Photographic & Artwork Research] |
+| **Rebecca Church** | Research [Photographic & Artwork Research] |
+| **Richard Miller (5)** | Research [Photographic & Artwork Research] |
+| **Paul McCartney** | Songwriter |
+
 ## See also
 
 - [Press To Play](Press_To_Play.md)

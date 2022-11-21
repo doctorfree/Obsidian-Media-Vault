@@ -48,6 +48,13 @@ By Martha Argerich & Claudio Abbado
 |  | **LP 5** | 61:42 |
 |  | **LP 6** | 44:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Claudio Abbado** | Conductor |
+| **Martha Argerich** | Piano |
+
 ## See also
 
 - [](Martha_Argerich_and_Claudio_Abbado.md)

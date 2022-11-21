@@ -44,6 +44,13 @@ By Roky Erickson And The Aliens
 | A | **Mine Mine Mind** | 2:34 |
 | B | **Bloody Hammer** | 5:03 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Stu Cook** | Producer |
+| **Roky Erickson** | Written-By, Vocals [Uncredited] |
+
 ## See also
 
 - [](Roky_Erickson_And_The_Aliens.md)

@@ -53,6 +53,21 @@ By The Rolling Stones
 | B4 | **I Am Waiting** | 3:10 |
 | B5 | **Going Home** | 11:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Wyman** | Bass, Marimba, Bells, Piano, Organ, Harpsichord |
+| **Charlie Watts** | Drums, Marimba, Bells |
+| **Dave Hassinger** | Engineer |
+| **Brian Jones (5)** | Guitar, Dulcimer, Sitar, Marimba, Bells, Piano, Organ, Harpsichord |
+| **Keith Richards** | Guitar, Vocals |
+| **Ian Stewart** | Piano, Organ, Harpsichord |
+| **Jack Nitzsche** | Piano, Organ, Harpsichord |
+| **Andrew Loog Oldham** | Producer |
+| **Jagger-Richards** | Songwriter [Songs By] |
+| **Mick Jagger** | Vocals |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

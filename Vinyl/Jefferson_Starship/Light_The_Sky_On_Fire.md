@@ -44,6 +44,13 @@ By Jefferson Starship
 | A | **Light The Sky On Fire** | 3:56 |
 | B | **Hyperdrive** | 6:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jefferson Starship** | Producer |
+| **Larry Cox** | Producer |
+
 ## See also
 
 - [Count On Me / Show Yourself](Count_On_Me_-_Show_Yourself.md)

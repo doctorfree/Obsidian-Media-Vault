@@ -54,6 +54,15 @@ By The Who
 | B4 | **When I Was A Boy** | 3:29 |
 | B5 | **Bargain (Live)** | 6:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Hoffman** | Compiled By, Remastered By |
+| **Richard Evans (7)** | Design [Sleeve], Painting [Front Cover] |
+| **Greg Fulginiti** | Engineer [Cutting] |
+| **Pete Townshend** | Liner Notes |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

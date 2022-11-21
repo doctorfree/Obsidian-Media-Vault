@@ -49,6 +49,13 @@ This is the 7" EP included with the Armed Forces release of the LP - it includes
 | A2 | **Alison** | 3:04 |
 | B | **Watching The Detectives** | 6:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nick Lowe** | Producer |
+| **Elvis Costello** | Written-By |
+
 ## See also
 
 - [Trust](Trust.md)

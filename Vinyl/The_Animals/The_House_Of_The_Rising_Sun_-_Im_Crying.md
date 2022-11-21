@@ -44,6 +44,12 @@ By The Animals
 | A | **The House Of The Rising Sun** | 2:58 |
 | B | **I'm Crying** | 2:30 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mickie Most** | Producer [Prod.] |
+
 ## See also
 
 - [Don't Bring Me Down](Dont_Bring_Me_Down.md)

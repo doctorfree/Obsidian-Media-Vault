@@ -44,6 +44,12 @@ By Frank Sinatra
 | A | **Learnin' The Blues** | 2:59 |
 | B | **If I Had Three Wishes** | 2:54 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Nelson Riddle And His Orchestra** | Orchestra |
+
 ## See also
 
 - [In The Wee Small Hours](In_The_Wee_Small_Hours.md)

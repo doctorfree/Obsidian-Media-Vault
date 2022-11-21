@@ -47,6 +47,32 @@ By Thomas Dolby
 | B2 | **Airwaves** | 5:20 |
 | B3 | **Flying North** | 5:36 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bruce Woolley** | Backing Vocals |
+| **John Marsh** | Backing Vocals |
+| **Kevin Armstrong** | Backing Vocals |
+| **Lesley Fairbairn** | Backing Vocals |
+| **Miriam Stockley** | Backing Vocals |
+| **Robert John Lange** | Backing Vocals |
+| **Shipping Forecast** | Backing Vocals |
+| **Mark Heyward-Chaplin** | Bass Guitar |
+| **Simon Lloyd** | Brass, Flute |
+| **Thomas Dolby** | Computer [Wave Computer], Drum Programming [Drum Programs], Lead Vocals |
+| **Justin Hildreth** | Drums |
+| **Kevin Armstrong** | Electric Guitar |
+| **Dave Birch** | Guitar |
+| **Eddy Schreyer** | Mastered By |
+| **Andrew Douglas** | Photography By |
+| **Thomas Dolby** | Producer |
+| **Thomas Dolby** | Producer |
+| **Tim Friese-Greene** | Producer |
+| **Matthew Seligman** | Synthesizer [Bass Synthesizer] |
+| **Simon House** | Violin |
+| **Dr. M. Pyke** | Voice [Voice Over] |
+
 ## See also
 
 - [The Flat Earth](The_Flat_Earth.md)

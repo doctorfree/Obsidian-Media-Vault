@@ -42,6 +42,13 @@ By Little Eva
 | A | **The Loco-Motion** | 2:12 |
 | B | **Keep Your Hands Off My Baby** | 2:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gerry Goffin** | Producer |
+| **Goffin And King** | Written-By |
+
 ## See also
 
 - [](Little_Eva.md)

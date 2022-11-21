@@ -46,6 +46,12 @@ By Tim Easton
 | B1 | **Kettle** |  |
 | B2 | **Goin' On A Drunk** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tim Easton** | Songwriter |
+
 ## See also
 
 - [](Tim_Easton.md)

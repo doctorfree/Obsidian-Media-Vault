@@ -44,6 +44,12 @@ By George Clinton
 | A | **Nubian Nut** | 4:10 |
 | B | **Free Alterations** | 4:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eddy Schreyer** | Lacquer Cut By |
+
 ## See also
 
 - [Last Dance](Last_Dance.md)

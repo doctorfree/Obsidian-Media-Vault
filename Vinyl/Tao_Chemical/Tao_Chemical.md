@@ -48,6 +48,30 @@ By Tao Chemical
 | B2 | **Scare Me** |  |
 | B3 | **Sick Of Food** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Janet Ring** | Backing Vocals, Engineer |
+| **Jim Rutledge (2)** | Bass Guitar, Backing Vocals |
+| **B. Modern** | Design [Album] |
+| **Beth Regardz** | Design [Album] |
+| **Tao Chemical** | Design [Album] |
+| **Rick Walker** | Drums, Percussion |
+| **Justin Mayer** | Engineer [Basic Tracks, Additional Engineering] |
+| **Janet Ring** | Engineer [Basic Tracks] |
+| **Noel Gott** | Engineer [Basic Tracks] |
+| **Janet Ring** | Engineer [Mixdown, Assisted By] |
+| **Rick Walker** | Engineer [Mixdown] |
+| **Bill Walker (5)** | Guitar |
+| **Not Michael** | Guitar |
+| **Rob Brezsny** | Lead Vocals |
+| **Marina Shoupe** | Lighting, Set Designer [Stage Design] |
+| **Paul Schraub** | Photography By |
+| **Bruce Gay (2)** | Technician [Tao Technical] |
+| **Paul Abouti** | Technician [Tao Technical] |
+| **Tao Chemical** | Written-By, Arranged By, Producer |
+
 ## See also
 
 - [](Tao_Chemical_index.md)

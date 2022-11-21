@@ -60,6 +60,20 @@ By Led Zeppelin
 | D3 | **Ramble On (Rough Mix With Vocal)** | 4:43 |
 | D4 | **La La (Intro / Outro Rough Mix)** | 4:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Juniper** | Artwork |
+| **Studio Fury** | Design [2014 Album] |
+| **Drew Griffiths** | Engineer [Additional] |
+| **Peter Grant** | Executive-Producer |
+| **John Davis (4)** | Lacquer Cut By |
+| **John Davis (4)** | Mastered By |
+| **Eddie Kramer** | Mixed By |
+| **Jimmy Page** | Producer |
+| **Jimmy Page** | Remastered By |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

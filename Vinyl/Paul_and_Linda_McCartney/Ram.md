@@ -54,6 +54,22 @@ By Paul & Linda McCartney
 | B5 | **Ram On** | 0:55 |
 | B6 | **The Back Seat Of My Car** | 4:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Armin Steiner** | Engineer |
+| **Dixon Van Winkle** | Engineer |
+| **James William Guercio** | Engineer |
+| **Phil Ramone** | Engineer |
+| **Ted Brosnan** | Engineer |
+| **Tim Geelan** | Engineer |
+| **Eirik The Norwegian** | Engineer [Mixing] |
+| **Linda McCartney** | Photography By |
+| **Paul & Linda McCartney** | Producer |
+| **Paul & Linda McCartney** | Written-By |
+| **Paul McCartney** | Written-By |
+
 ## See also
 
 - [](Paul_and_Linda_McCartney.md)

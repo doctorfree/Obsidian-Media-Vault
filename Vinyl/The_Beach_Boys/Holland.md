@@ -56,6 +56,46 @@ By The Beach Boys
 | D1 | **I'm The Pied Piper** | 3:00 |
 | D2 | **Radio King Dom** | 2:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Billy Hinsche** | Backing Vocals |
+| **Bruce Johnston** | Backing Vocals |
+| **Diane Rovell** | Backing Vocals |
+| **Gerry Beckley** | Backing Vocals |
+| **Marilyn Rovell Wilson** | Backing Vocals |
+| **Tony Martin, Jr** | Backing Vocals |
+| **Ricky Fataar** | Drums |
+| **Brian Wilson** | Drums, Synthesizer, Piano |
+| **Rob Fraboni** | Engineer |
+| **Stephen Moffitt** | Engineer |
+| **Charles Lloyd** | Flute |
+| **Tony Martin, Jr** | Guitar |
+| **Alan Jardine** | Guitar, Banjo |
+| **Blondie Chaplin** | Guitar, Bass |
+| **Jack Rieley** | Other [Additional Material By] |
+| **Ricky Fataar** | Percussion |
+| **Russ Mackie** | Photography By, Artwork |
+| **Dennis Wilson (2)** | Piano |
+| **Carl Wilson** | Piano, Electric Piano, Guitar |
+| **Carl Wilson** | Producer |
+| **The Beach Boys** | Producer |
+| **Ricky Fataar** | Slide Guitar |
+| **Rogier Van Otterloo** | Strings |
+| **Ricky Fataar** | Synthesizer |
+| **Carl Wilson** | Synthesizer [bass] |
+| **Daryl Dragon** | Synthesizer [bass] |
+| **Kevin Michaels** | Tambourine |
+| **Frank Mayes** | Tenor Saxophone |
+| **Alan Jardine** | Vocals |
+| **Blondie Chaplin** | Vocals |
+| **Brian Wilson** | Vocals |
+| **Carl Wilson** | Vocals |
+| **Dennis Wilson (2)** | Vocals |
+| **Mike Love** | Vocals |
+| **Ricky Fataar** | Vocals |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

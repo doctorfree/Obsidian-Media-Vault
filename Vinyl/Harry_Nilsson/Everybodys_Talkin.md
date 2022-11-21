@@ -44,6 +44,12 @@ By Harry Nilsson
 | A | **Everybody's Talkin'** | 2:43 |
 | B | **Rainmaker** | 2:33 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rick Jarrard** | Producer |
+
 ## See also
 
 - [Nilsson Schmilsson](Nilsson_Schmilsson.md)

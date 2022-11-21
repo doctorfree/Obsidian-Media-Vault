@@ -66,6 +66,22 @@ By The Who
 | D5 | **Tommy's Holiday Camp** | 0:57 |
 | D6 | **We're Not Gonna Take It** | 7:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Entwistle** | Composed By |
+| **Keith Moon** | Composed By |
+| **Sonny Boy Williamson (2)** | Composed By |
+| **Pete Townshend** | Composed By, Other [Opera By] |
+| **Mike McInnerney** | Design [Cover] |
+| **Damon Lyon-Shaw** | Engineer [Chief] |
+| **Kevin Gray** | Lacquer Cut By |
+| **Meher Baba** | Other [Avatar] |
+| **Barrie Meller** | Photography By |
+| **Kit Lambert** | Producer |
+| **Kevin Gray** | Remastered By |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

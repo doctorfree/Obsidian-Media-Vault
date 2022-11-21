@@ -54,6 +54,13 @@ By The Beatles
 | B5 | **There's A Place** | 1:53 |
 | B6 | **Twist And Shout** | 2:33 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Martin** | Producer |
+| **Lennon-McCartney** | Written-By |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

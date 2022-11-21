@@ -42,6 +42,14 @@ By The Method Actors
 | A | **Rang-A-Tang** |  |
 | B | **Big Red Brain** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Sam Seawright** | Artwork [Cover Art] |
+| **Peter Woolliscroft** | Producer |
+| **Vic Varney** | Producer |
+
 ## See also
 
 - [](The_Method_Actors.md)

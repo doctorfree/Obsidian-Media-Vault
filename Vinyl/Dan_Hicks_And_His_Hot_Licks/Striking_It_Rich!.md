@@ -56,6 +56,12 @@ By Dan Hicks And His Hot Licks
 | B6 | **Skippy's Farewell** | 0:59 |
 | B7 | **Furiyama** | 0:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tommy LiPuma** | Producer |
+
 ## See also
 
 - [Original Recordings](Original_Recordings.md)

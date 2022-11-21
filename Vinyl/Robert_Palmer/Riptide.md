@@ -51,6 +51,33 @@ By Robert Palmer
 | B4 | **Discipline Of Love** | 6:06 |
 | B5 | **Riptide (Reprise)** | 2:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bernard Edwards** | Bass |
+| **Robert Palmer** | Design, Post Production |
+| **Tony Thompson (2)** | Drums |
+| **Jason Corsaro** | Engineer |
+| **Benjamin Armbrister** | Engineer [Assistant At Compass Point Studios] |
+| **Jamie Chaleff** | Engineer [Assistant At Electric Lady] |
+| **John Davenport (2)** | Engineer [Assistant At Hit Factory] |
+| **Michael Abbott (2)** | Engineer [Assistant At Hit Factory] |
+| **Steve Boyer** | Engineer [Assistant At Power Station] |
+| **Steve Rinkoff** | Engineer [Assistant At Power Station] |
+| **Billy Miranda** | Engineer [Assistant At Right Track] |
+| **Don Peterkofsky** | Engineer [Assistant At Sigma Sound] |
+| **Eddie Martinez** | Guitar |
+| **Lenny Pickett** | Horns |
+| **Sue Palmer (4)** | Illustration |
+| **Jack Waldman** | Keyboards |
+| **Jeff Bova** | Keyboards |
+| **Wally Badarou** | Keyboards |
+| **Jack Skinner** | Mastered By |
+| **Eric Thorngren** | Mixed By, Post Production |
+| **Giuseppe Pino** | Photography By |
+| **Bernard Edwards** | Producer |
+
 ## See also
 
 - [](Robert_Palmer.md)

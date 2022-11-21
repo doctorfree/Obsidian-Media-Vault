@@ -55,6 +55,17 @@ By Various
 | B5 | **The Man Who Sold The World** | 5:50 |
 | B6 | **Auld Lang Syne** | 1:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Ross (3)** | Art Direction |
+| **Michael Ross (3)** | Design |
+| **Derek Green** | Executive-Producer |
+| **John Brown (5)** | Photography By [Back] |
+| **Janette Beckman** | Photography By [Front/sleeve] |
+| **Barbara Reeves** | Sleeve |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

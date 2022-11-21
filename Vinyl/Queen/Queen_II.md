@@ -55,6 +55,26 @@ By Queen
 | B5 | **Funny How Love Is** |  |
 | B6 | **Seven Seas Of Rhye** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Richard Dadd (2)** | Artwork [Inspired By A Painting By] |
+| **John Deacon** | Bass Guitar, Acoustic Guitar |
+| **Roy Thomas Baker** | Castanets [Virtuoso Castanets By] |
+| **Mick Rock** | Concept By [Sleeve] |
+| **Queen** | Concept By [Sleeve] |
+| **Mike Stone** | Engineer [Engineered By] |
+| **Brian May** | Guitar [Guitars], Piano, Vocals, Bells |
+| **Jack Nelson** | Management [Management By] |
+| **Roger Taylor** | Percussion, Vocals |
+| **Mick Rock** | Photography By, Art Direction |
+| **Robin Geoffrey Cable** | Producer [Additional Production By] |
+| **Roy Thomas Baker** | Producer [Produced By] |
+| **Queen** | Producer [Produced By], Producer [Additional Production By] |
+| **Ridgeway Watt** | Typography [Typography By] |
+| **Freddie Mercury** | Vocals, Piano, Harpsichord |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

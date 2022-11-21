@@ -53,6 +53,13 @@ By The Beatles
 | B4 | **I'll Get You** | 2:04 |
 | B5 | **She Loves You** | 2:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joe Covello** | Photography By |
+| **George Martin** | Producer |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

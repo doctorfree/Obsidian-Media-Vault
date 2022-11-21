@@ -52,6 +52,41 @@ By Katrina And The Waves
 | B4 | **The Sun Won't Shine** | 3:33 |
 | B5 | **Game Of Love** | 3:17 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Eamon Fitzpatrick** | Arranged By [Brass] |
+| **Alex Cooper** | Backing Vocals |
+| **Kimberley Rew** | Backing Vocals |
+| **Vince De La Cruz** | Backing Vocals |
+| **Wendy Nicholl** | Backing Vocals |
+| **Vince De La Cruz** | Bass |
+| **Dick Hanson** | Brass [Rumour Brass Section] |
+| **John Earle** | Brass [Rumour Brass Section] |
+| **Ray Beavis** | Brass [Rumour Brass Section] |
+| **Manhattan Design** | Design |
+| **Pat Gorman (2)** | Design |
+| **Alex Cooper** | Drums |
+| **Jon Goldberger** | Engineer [Assistant] |
+| **Katrina Leskanich** | Lead Guitar |
+| **Kimberley Rew** | Lead Guitar |
+| **Carmina Gomez-Blanco** | Management |
+| **Bob Ludwig** | Mastered By |
+| **Scott Litt** | Mixed By, Engineer, Producer [Additional Production] |
+| **Alan Chaney** | Organ |
+| **Kimberley Rew** | Organ |
+| **Nick Glennie-Smith** | Organ |
+| **Caroline Greyshock** | Photography By |
+| **Katrina And The Waves** | Producer |
+| **Pat Collier** | Producer |
+| **Katrina Leskanich** | Rhythm Guitar |
+| **Vince De La Cruz** | Rhythm Guitar |
+| **Alex Cooper** | Synthesizer |
+| **Katrina Leskanich** | Vocals |
+| **Kimberley Rew** | Written-By |
+| **Vince De La Cruz** | Written-By |
+
 ## See also
 
 - [](Katrina_And_The_Waves_index.md)

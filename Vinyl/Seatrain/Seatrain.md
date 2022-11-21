@@ -53,6 +53,22 @@ By Seatrain
 | B5 | **Creepin' Midnight** | 5:20 |
 | B6 | **Orange Blossom Special** | 5:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andy Kulberg** | Bass, Vocals, Flute |
+| **Ira Friedlander** | Design |
+| **Bob Cato** | Design, Photography |
+| **Larry Atamanuik** | Drums, Percussion |
+| **Bill Price** | Engineer |
+| **Peter Rowan** | Lead Vocals, Guitar |
+| **Lloyd Baskin** | Lead Vocals, Keyboards |
+| **Jim Roberts (4)** | Lyrics By |
+| **Al Vandenberg** | Photography |
+| **George Martin** | Producer |
+| **Richard Greene** | Violin, Viola, Keyboards, Vocals |
+
 ## See also
 
 - [](Seatrain_index.md)

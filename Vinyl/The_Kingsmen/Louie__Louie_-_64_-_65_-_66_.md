@@ -44,6 +44,13 @@ By The Kingsmen
 | A | **Louie, Louie - 64 - 65 - 66 .....** | 2:24 |
 | B | **Haunted Castle** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jerry Dennon** | Producer |
+| **Ken Chase** | Producer |
+
 ## See also
 
 - [](The_Kingsmen.md)

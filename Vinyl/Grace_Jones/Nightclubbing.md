@@ -51,6 +51,31 @@ By Grace Jones
 | B4 | **Demolition Man** | 4:03 |
 | B5 | **I've Done It Again** | 3:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Emblow** | Accordion |
+| **Jess Roden** | Backing Vocals |
+| **Masai Delon** | Backing Vocals |
+| **Robbie Shakespeare** | Bass Guitar |
+| **Giorgio Armani** | Costume Designer [Jacket] |
+| **Sly Dunbar** | Drums, Electronic Drums [Syndrums] |
+| **Benjamin Armbrister** | Engineer [Assistant] |
+| **Alex Sadkin** | Engineer [Recording] |
+| **Barry Reynolds** | Guitar |
+| **Mikey Chung** | Guitar |
+| **Wally Badarou** | Keyboards |
+| **Tyrone Downie** | Keyboards, Backing Vocals |
+| **Grace Jones** | Lead Vocals, Backing Vocals |
+| **Ted Jensen** | Mastered By |
+| **Jean-Paul Goude** | Painting [Cover], Hair, Make-Up |
+| **Uziah "Sticky" Thompson** | Percussion |
+| **Melvin Speller** | Percussion, Backing Vocals |
+| **Alex Sadkin** | Producer, Mixed By |
+| **Chris Blackwell** | Producer, Mixed By |
+| **Monte Brown** | Rhythm Guitar |
+
 ## See also
 
 - [](Grace_Jones.md)

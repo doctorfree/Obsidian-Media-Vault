@@ -51,6 +51,23 @@ By George Michael
 | B4 | **Monkey** | 5:04 |
 | B5 | **Kissing A Fool** | 4:34 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **George Michael** | Arranged By, Producer, Written-By |
+| **George Michael** | Design |
+| **Stylorouge** | Design |
+| **Chris Porter** | Engineer |
+| **Paul Gomersall** | Engineer [Assisted By] |
+| **Paul Wright** | Engineer [Assisted By] |
+| **Vlado Meller** | Lacquer Cut By |
+| **Vlado Meller** | Mastered By |
+| **Russell Young (3)** | Photography [Front] |
+| **Brian Aris** | Photography [Inside] |
+| **David Austin** | Songwriter |
+| **George Michael** | Songwriter |
+
 ## See also
 
 - [](George_Michael.md)

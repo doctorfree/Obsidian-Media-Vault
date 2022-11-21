@@ -66,6 +66,41 @@ By Tenacious D
 | D2c | **(silence)** | 1:00 |
 | D2d | **Malibu Nights** | 0:48 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Matt Marshall (3)** | A&R |
+| **Brandy Flower** | Art Direction, Design |
+| **John King** | Band [The Dust Brothers] |
+| **Mike Simpson** | Band [The Dust Brothers] |
+| **Steven McDonald** | Bass |
+| **Dave Grohl** | Drums |
+| **John King** | Electronics [Echoplex] |
+| **Tony Schloss** | Engineer [Assistant] |
+| **Bernie Becker** | Engineer [At ArchAngel] |
+| **Adam Kasper** | Engineer [Dave Grohl Sessions] |
+| **Dave Grohl** | Guitar |
+| **Ken Andrews** | Guitar |
+| **Page McConnell** | Keyboards |
+| **Chris Bellman** | Lacquer Cut By |
+| **Kyle Gass** | Lead Guitar [Acoustic], Vocals |
+| **Warren Fitzgerald** | Lead Guitar [Electric] |
+| **Jack Black (2)** | Lead Vocals, Guitar |
+| **G.A.S. Entertainment Co.** | Management [Managed By] |
+| **Tom Baker (3)** | Mastered By |
+| **Ken Andrews** | Mixed By |
+| **The Dust Brothers** | Mixed By |
+| **Cameron Webb** | Mixed By [Assistant] |
+| **Alfredo Ortiz** | Percussion |
+| **Matthew Gass** | Photography By |
+| **Sean Murphy (12)** | Photography By |
+| **The Dust Brothers** | Producer [Produced By] |
+| **Woody Jackson** | Sitar |
+| **Andrew Gross** | Strings |
+| **Bob Odenkirk** | Written-By |
+| **Tenacious D** | Written-By |
+
 ## See also
 
 - [The Pick Of Destiny](The_Pick_Of_Destiny.md)

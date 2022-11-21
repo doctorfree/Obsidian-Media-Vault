@@ -43,6 +43,22 @@ By "Franz Schubert, Emerson String Quartet, Mstislav Rostropovich"
 |--------------|-----------|--------------|
 |  | **Streichquintett C-Dur, D 956 (Op. Post. 163)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Finckel** | Cello |
+| **Mstislav Rostropovich** | Cello |
+| **Franz Schubert** | Composed By |
+| **Christopher Alder** | Edited By |
+| **Dr. Steven Paul** | Executive Producer |
+| **Werner Neumeister** | Photography By |
+| **Christopher Alder** | Producer |
+| **Gernot Von Schultzendorff** | Recording Supervisor |
+| **Lawrence Dutton** | Viola |
+| **Eugene Drucker** | Violin |
+| **Philip Setzer** | Violin |
+
 ## See also
 
 - [](Franz_Schubert__Emerson_String_Quartet__Mstislav_Rostropovich.md)

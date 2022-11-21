@@ -52,6 +52,25 @@ By The Allman Brothers Band
 | C5 | **Little Martha** | 2:09 |
 | D | **Mountain Jam Cont'd.** | 15:06 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Allman Brothers Band** | Arranged By [All Arrangements] |
+| **James Flournoy Holmes** | Design [Album], Illustration |
+| **W. David Powell** | Design [Album], Illustration |
+| **Aaron Baron** | Engineer |
+| **Howard Albert** | Engineer |
+| **Larry Dahlstrom** | Engineer |
+| **Ron Albert** | Engineer |
+| **Wonder Graphics** | Graphics |
+| **Willie Perkins (2)** | Management [Road Manager] |
+| **Joe Dan Petty** | Other [Equipment & Stage] |
+| **Kim Payne** | Other [Equipment & Stage] |
+| **Red Dog (5)** | Other [Equipment & Stage] |
+| **Tom Dowd** | Producer |
+| **Kevin Reeves** | Remastered By |
+
 ## See also
 
 - [](The_Allman_Brothers_Band.md)

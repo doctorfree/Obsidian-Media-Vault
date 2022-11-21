@@ -44,6 +44,13 @@ By Eric Burdon & The Animals
 | A | **Help Me Girl** | 2:35 |
 | B | **That Ain't Where It's At** | 2:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Horace Ott** | Arranged By, Conductor |
+| **Tom Wilson (2)** | Producer |
+
 ## See also
 
 - [Monterey](Monterey.md)

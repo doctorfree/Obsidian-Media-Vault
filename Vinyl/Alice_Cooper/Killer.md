@@ -50,6 +50,21 @@ By Alice Cooper
 | B3 | **Dead Babies** | 5:40 |
 | B4 | **Killer** | 7:07 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alice Cooper (2)** | Design [Album Design] |
+| **Brian Christian** | Engineer [Recording Engineer] |
+| **Jack Richardson** | Executive-Producer |
+| **Randy Kling** | Lacquer Cut By |
+| **Randy Kling** | Lacquer Cut By |
+| **Randy Kling** | Mastered By |
+| **Kachina** | Other [Boa Constrictor] |
+| **Pete Turner (4)** | Photography By |
+| **Bob Ezrin** | Producer, Arranged By [String And Horn Arrangements] |
+| **Joe Lopes** | Technician [Recording Technician] |
+
 ## See also
 
 - [Alice Cooper's Greatest Hits](Alice_Coopers_Greatest_Hits.md)

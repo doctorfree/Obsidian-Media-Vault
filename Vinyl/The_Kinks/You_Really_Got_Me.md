@@ -44,6 +44,13 @@ By The Kinks
 | A | **You Really Got Me** | 2:20 |
 | B | **It's All Right** | 2:35 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Shel Talmy** | Producer |
+| **Ray Davies** | Written-By |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

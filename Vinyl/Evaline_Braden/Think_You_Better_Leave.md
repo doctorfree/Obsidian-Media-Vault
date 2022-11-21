@@ -44,6 +44,12 @@ By Evaline Braden
 | A | **Think You Better Leave** | 2:17 |
 | B | **Half** | 2:22 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **James Monroe Brown** | Producer |
+
 ## See also
 
 - [](Evaline_Braden.md)

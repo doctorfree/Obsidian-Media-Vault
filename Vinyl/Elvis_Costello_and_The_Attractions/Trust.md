@@ -56,6 +56,17 @@ By Elvis Costello & The Attractions
 | B6 | **Fish 'N' Chip Paper** | 2:55 |
 | B7 | **Big Sister's Clothes** | 2:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Krieg Wunderlich** | Lacquer Cut By |
+| **Krieg Wunderlich** | Mastered By |
+| **Nick Lowe** | Producer |
+| **Neill King** | Producer [Assisted By] |
+| **Roger Bechirian** | Producer [In Association With] |
+| **Elvis Costello** | Written-By |
+
 ## See also
 
 - [Accidents Will Happen / Alison](Accidents_Will_Happen_-_Alison.md)

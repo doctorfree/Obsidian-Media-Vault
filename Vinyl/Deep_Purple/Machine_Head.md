@@ -49,6 +49,15 @@ By Deep Purple
 | B2 | **Lazy** | 7:19 |
 | B3 | **Space Truckin'** | 4:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Martin Birch** | Engineer |
+| **Jeremy Gee** | Engineer [Assistant] |
+| **Deep Purple** | Producer |
+| **Nick Watterton** | Technician |
+
 ## See also
 
 - [Burn](Burn.md)

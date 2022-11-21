@@ -50,6 +50,12 @@ By Chuy Reyes & His Orchestra
 | G | **Obsession** |  |
 | H | **"Mama" Son De La Loma** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **William George (3)** | Illustration |
+
 ## See also
 
 - [](Chuy_Reyes_and_His_Orchestra.md)

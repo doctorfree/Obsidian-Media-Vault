@@ -51,6 +51,30 @@ By The Grateful Dead
 | B4 | **Easy To Love You** | 3:40 |
 | B5 | **Don't Ease Me In** | 3:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jim Welch (4)** | Art Direction [Art Direction & Production] |
+| **Stanley Mouse** | Art Direction [Art Direction & Production] |
+| **Alan Trist** | Coordinator, Directed By [Direction By] |
+| **Richard Loren** | Coordinator, Directed By [Direction By] |
+| **Rock Scully** | Coordinator, Directed By [Direction By] |
+| **Betty Cantor-Jackson** | Engineer |
+| **Bob Matthews** | Engineer [Additional Engineering] |
+| **John Cutler** | Engineer [Additional Engineering] |
+| **Pete Thea** | Engineer [Additional Engineering] |
+| **Stanley Mouse** | Illustration |
+| **George Marino** | Mastered By |
+| **Bill Kreutzmann** | Musician [Grateful Dead] |
+| **Bob Weir** | Musician [Grateful Dead] |
+| **Brent Mydland** | Musician [Grateful Dead] |
+| **Jerry Garcia** | Musician [Grateful Dead] |
+| **Mickey Hart** | Musician [Grateful Dead] |
+| **Phil Lesh** | Musician [Grateful Dead] |
+| **Bob Seidemann** | Photography By |
+| **Gary Lyons** | Producer, Engineer |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

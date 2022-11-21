@@ -44,6 +44,14 @@ By Tommy James & The Shondells
 | A | **Sweet Cherry Wine** | 4:25 |
 | B | **Breakaway** | 2:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tommy James & The Shondells** | Arranged By |
+| **Bruce Staple** | Engineer |
+| **Tommy James** | Producer, Written-By |
+
 ## See also
 
 - [](Tommy_James_and_The_Shondells.md)

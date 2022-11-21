@@ -48,6 +48,33 @@ By Steven Wilson
 | C2 | **The Watchmaker** | 11:42 |
 | D | **The Raven That Refused To Sing** | 7:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dave Stewart** | Arranged By [Strings] |
+| **Nick Beggs** | Bass Guitar, Backing Vocals |
+| **Josh Dick** | Booking [America] |
+| **Steve Martin (18)** | Booking [America] |
+| **The Agency Group** | Booking [Concert Booking By] |
+| **Neil Warnock** | Booking [Europe] |
+| **Marco Minnemann** | Drums, Percussion |
+| **Adam Holzman** | Electric Piano [Fender Rhodes], Organ [Hammond], Piano, Synthesizer [Minimoog] |
+| **Brendan Dekora** | Engineer [Assistant Engineer] |
+| **Theo Travis** | Flute [Flutes], Saxophone [Saxophones], Clarinet |
+| **Hajo Mueller** | Illustration [Conceived And Illustrated By] |
+| **MK (11)** | Lacquer Cut By |
+| **Carl Glover (4)** | Layout [Final Layout] |
+| **Guthrie Govan** | Lead Guitar |
+| **Andy Leff** | Management |
+| **Acme Music** | Management [Andy Leff For] |
+| **Alan Parsons** | Producer [Associate Producer], Engineer [Recording Engineer] |
+| **Steven Wilson** | Producer, Mixed By |
+| **Perry Montague-Mason** | Soloist [Strings] |
+| **The London Session Orchestra** | Strings [Performed By] |
+| **Steven Wilson** | Vocals, Mellotron, Keyboards, Guitar [Guitars] |
+| **Steven Wilson** | Written-By |
+
 ## See also
 
 - [Grace For Drowning](Grace_For_Drowning.md)

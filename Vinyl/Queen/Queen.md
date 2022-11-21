@@ -52,6 +52,22 @@ By Queen
 | B5 | **Jesus** |  |
 | B6 | **Seven Seas Of Rhye** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Deacon** | Bass Guitar |
+| **Brian May** | Guitar, Piano, Vocals |
+| **David Cheppa** | Lacquer Cut By |
+| **Roger Taylor** | Percussion, Vocals |
+| **John Anthony** | Producer |
+| **Roy Thomas Baker** | Producer |
+| **Freddie Mercury** | Vocals, Piano |
+| **Brian May** | Written-By |
+| **Freddie Mercury** | Written-By |
+| **Roger Taylor** | Written-By |
+| **Tim Staffell** | Written-By |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

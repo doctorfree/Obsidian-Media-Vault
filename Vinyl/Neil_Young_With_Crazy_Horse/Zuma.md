@@ -49,6 +49,25 @@ By Neil Young With Crazy Horse
 | B3 | **Cortez The Killer** | 7:29 |
 | B4 | **Through My Sails** | 2:41 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Billy Talbot** | Backing Vocals |
+| **Ralph Molina** | Backing Vocals |
+| **Billy Talbot** | Bass |
+| **James Mazzeo** | Cover |
+| **Ralph Molina** | Drums |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Chris Bellman** | Lacquer Cut By |
+| **Elliot Roberts** | Management [Directed By] |
+| **David Briggs** | Producer |
+| **Neil Young** | Producer |
+| **Tim Mulligan** | Producer |
+| **Chris Bellman** | Remastered By [Remastered For Vinyl] |
+| **Frank Sampedro** | Rhythm Guitar |
+| **Neil Young** | Vocals, Written-By |
+
 ## See also
 
 - [](Neil_Young_With_Crazy_Horse.md)

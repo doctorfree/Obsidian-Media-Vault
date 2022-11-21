@@ -44,6 +44,12 @@ By The Irish Rovers
 | A | **The Unicorn** | 3:18 |
 | B | **(The Puppet Song) Whiskey On A Sunday** | 2:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Charles "Bud" Dant** | Producer |
+
 ## See also
 
 - [](The_Irish_Rovers.md)

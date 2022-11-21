@@ -56,6 +56,19 @@ By "Wolfgang Amadeus Mozart, Herbert von Karajan"
 | D3 | **VII. Angus Dei** |  |
 | D4 | **VII. Communio** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hilde Rössel-Majdan** | Alto Vocals, Contralto Vocals |
+| **Walter Berry** | Bass Vocals |
+| **Wiener Singverein** | Chorus |
+| **Reinhold Schmid** | Chorus Master |
+| **Wolfgang Amadeus Mozart** | Composed By |
+| **Wolfgang Meyer (3)** | Organ |
+| **Wilma Lipp** | Soprano Vocals |
+| **Anton Dermota** | Tenor Vocals |
+
 ## See also
 
 - [](Wolfgang_Amadeus_Mozart__Herbert_von_Karajan.md)

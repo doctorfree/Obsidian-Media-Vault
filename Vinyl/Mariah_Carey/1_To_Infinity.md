@@ -61,6 +61,31 @@ By Mariah Carey
 | D3 | **Touch My Body ** | 3:27 |
 | D4 | **Infinity ** | 3:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joey Arbagey** | A&R [Epic] |
+| **Henry Towns** | A&R [Legacy] |
+| **Frank Harkins** | Art Direction, Design |
+| **Fuko Chubachi** | Art Direction, Design |
+| **Gretchen Brennison** | Creative Director [Product Direction] |
+| **Antonio Reid (2)** | Executive-Producer |
+| **Mariah Carey** | Executive-Producer |
+| **Cameron Henry (2)** | Lacquer Cut By [Runout Etchings] |
+| **Mark Wilder** | Mastered By |
+| **Frank Peinemann** | Photography By [All Other Photos] |
+| **Jo Ann Toy** | Photography By [All Other Photos] |
+| **Kip Meyer** | Photography By [All Other Photos] |
+| **Laurence Galud** | Photography By [All Other Photos] |
+| **Mariah Carey** | Photography By [All Other Photos] |
+| **Michael Thompson (8)** | Photography By [All Other Photos] |
+| **Naomi Kaltman** | Photography By [All Other Photos] |
+| **Sony Music Archives** | Photography By [All Other Photos] |
+| **Wayne Maser** | Photography By [Cover, Back & Inside Gatefold] |
+| **Mariah Carey** | Producer |
+| **Mandana Eidgah** | Product Manager [Project Management] |
+
 ## See also
 
 - [](Mariah_Carey.md)

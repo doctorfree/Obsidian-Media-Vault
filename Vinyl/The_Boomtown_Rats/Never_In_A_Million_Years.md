@@ -44,6 +44,12 @@ By The Boomtown Rats
 | A | **Never In A Million Years** | 3:51 |
 | B | **Don't Talk To Me** | 2:54 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Geldof** | Written-By |
+
 ## See also
 
 - [](The_Boomtown_Rats.md)

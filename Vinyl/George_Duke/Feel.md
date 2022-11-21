@@ -52,6 +52,26 @@ By George Duke
 | B5 | **Rashid** | 3:36 |
 | B6 | **Statement** | 1:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Heard** | Acoustic Bass, Electric Bass |
+| **Sätty** | Design [Front Cover] |
+| **Leon Ndugu Chancler** | Drums |
+| **Obdewl'l X** | Guitar |
+| **George Duke** | Keyboards |
+| **Airto Moreira** | Percussion |
+| **Leon Ndugu Chancler** | Percussion |
+| **Baldhard G. Falk** | Photography By [Back Cover] |
+| **Baldhard G. Falk** | Producer |
+| **Kerry McNabb** | Recorded By, Mixed By |
+| **George Duke** | Synthesizer [Bass] |
+| **George Duke** | Vocals |
+| **Flora Purim** | Vocals, Featuring |
+| **George Duke** | Written-By |
+| **Leon Ndugu Chancler** | Written-By |
+
 ## See also
 
 - [Reach For It](Reach_For_It.md)

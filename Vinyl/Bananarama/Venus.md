@@ -44,6 +44,13 @@ By Bananarama
 | A | **Venus** | 3:49 |
 | B | **White Train** | 3:51 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Peter Barrett (3)** | Sleeve |
+| **Simon Withers (2)** | Sleeve |
+
 ## See also
 
 - [](Bananarama.md)

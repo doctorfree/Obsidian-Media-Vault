@@ -54,6 +54,32 @@ By The Rolling Stones
 | B5 | **The Spider And The Fly** | 3:30 |
 | B6 | **One More Try** | 1:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Rolling Stones** | Arranged By [Arrangers] |
+| **Bill Wyman** | Bass |
+| **Phil Spector** | Bass [Zoom Bass] |
+| **Charlie Watts** | Drums |
+| **Dave Hassinger** | Engineer |
+| **Glyn Johns** | Engineer |
+| **Ron Malo** | Engineer |
+| **Brian Jones (5)** | Guitar |
+| **Keith Richards** | Guitar |
+| **Brian Jones (5)** | Harmonica |
+| **Mick Jagger** | Harmonica |
+| **Andrew Loog Oldham** | Liner Notes |
+| **Brian Jones (5)** | Organ, Piano, Harpsichord |
+| **Ian Stewart** | Organ, Piano, Harpsichord |
+| **Jack Nitzsche** | Organ, Piano, Harpsichord |
+| **Charlie Watts** | Percussion |
+| **Jack Nitzsche** | Percussion |
+| **David Bailey (5)** | Photography By [Cover Photo] |
+| **Andrew Loog Oldham** | Producer |
+| **Keith Richards** | Vocals |
+| **Mick Jagger** | Vocals |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

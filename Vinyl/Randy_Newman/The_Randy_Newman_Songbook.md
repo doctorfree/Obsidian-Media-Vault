@@ -98,6 +98,27 @@ By Randy Newman
 | H6 | **I'll Be Home** | 2:27 |
 | H7 | **Wandering Boy** | 3:02 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Michael Carney** | Art Direction, Design |
+| **Lenny Waronker** | Co-producer |
+| **Mitchell Froom** | Co-producer |
+| **Robert Edridge-Waks** | Coordinator [Editorial Coordinator] |
+| **Arthur Moorhead** | Coordinator [Production Coordinator] |
+| **David Boucher** | Engineer |
+| **Steven Rhodes** | Engineer [Assistant Engineer At Sound Factory] |
+| **Seth Waldmann** | Engineer [Assistant Engineer In 2003] |
+| **Cathy Kerr** | Executive-Producer |
+| **Robert Hurwitz** | Executive-Producer |
+| **Jon Ronson** | Liner Notes |
+| **Robert Hurwitz** | Liner Notes |
+| **Bob Ludwig** | Mastered By |
+| **Chris Bellman** | Mastered By [Vinyl] |
+| **Mark Sennet** | Photography By |
+| **Karina Beznicki** | Supervised By [Production Supervisor] |
+
 ## See also
 
 - [](Randy_Newman.md)

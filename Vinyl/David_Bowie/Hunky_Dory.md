@@ -51,6 +51,22 @@ By David Bowie
 | B4 | **Queen Bitch** | 3:14 |
 | B5 | **The Bewlay Brothers** | 5:21 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mick Ronson** | Arranged By |
+| **George Underwood** | Artwork [Front Cover] |
+| **Terry Pastor** | Artwork [Front Cover] |
+| **Trevor Bolder** | Bass |
+| **Mick Woodmansey** | Drums |
+| **Mick Ronson** | Guitar |
+| **David Bowie** | Guitar, Saxophone, Piano |
+| **Brian Ward (5)** | Photography By |
+| **Rick Wakeman** | Piano |
+| **Ken Scott** | Producer, Remix |
+| **David Bowie** | Written-By |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

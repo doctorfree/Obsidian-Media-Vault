@@ -50,6 +50,18 @@ By Procol Harum
 | D2 | **Simple Sister (Rehearsal)** |  |
 | D3 | **Shine On Brightly (Rehearsal)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **B.J. Wilson** | Drums |
+| **Dave Ball (2)** | Electric Guitar |
+| **Chris Copping** | Harpsichord |
+| **Chris Copping** | Organ |
+| **Gary Brooker** | Piano |
+| **Gary Brooker** | Voice |
+| **Keith Reid** | Words By |
+
 ## See also
 
 - [](Procol_Harum.md)

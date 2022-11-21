@@ -55,6 +55,29 @@ By Gruppo Sportivo
 | B6 | **Bottom Of The Class** | 2:04 |
 | B7 | **The Single** | 1:13 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Young And Ugly** | Art Direction |
+| **Eric Wehrmeyer** | Bass |
+| **Anton Corbijn** | Design, Photography By |
+| **Dorien Van Der Valk** | Design, Photography By |
+| **Max Mollinger** | Drums, Vocals |
+| **Aad Link** | Engineer |
+| **Jan Schuurman** | Engineer |
+| **Robin Freeman** | Engineer |
+| **Hans Vandenburg** | Guitar, Vocals |
+| **John Van Vueren** | Management |
+| **Greg Calbi** | Mastered By |
+| **Peter Calicher** | Piano, Organ, Vocals |
+| **Hans Vandenburg** | Producer |
+| **Robert Jan Stips** | Producer |
+| **Josee Van Iersel** | Vocals |
+| **Meike Touw** | Vocals |
+| **Gruppo Sportivo** | Written-By |
+| **Van DeFruits** | Written-By |
+
 ## See also
 
 - [Back To 78](Back_To_78.md)

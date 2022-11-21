@@ -44,6 +44,15 @@ By Janet Jackson
 | A | **Black Cat (Video Mix/Short Solo)** | 4:31 |
 | B | **Black Cat** | 4:48 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John McClain** | Executive-Producer |
+| **Janet Jackson** | Producer |
+| **Jellybean Johnson** | Producer |
+| **Janet Jackson** | Written-By |
+
 ## See also
 
 - [Come Give Your Love To Me](Come_Give_Your_Love_To_Me.md)

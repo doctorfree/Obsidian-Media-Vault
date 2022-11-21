@@ -87,6 +87,16 @@ By Jane's Addiction
 | L3 | **Summertime Rolls ** | 7:59 |
 | L4 | **Ocean Size ** | 4:39 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ernesto Yerena** | Artwork |
+| **Ian Sefchick** | Lacquer Cut By |
+| **Dave Jerden** | Producer |
+| **Jane's Addiction** | Producer |
+| **Perry Farrell** | Producer |
+
 ## See also
 
 - [](Janes_Addiction.md)

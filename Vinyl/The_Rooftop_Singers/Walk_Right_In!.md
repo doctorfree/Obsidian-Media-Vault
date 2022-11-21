@@ -55,6 +55,21 @@ By The Rooftop Singers
 | B6 | **Ha Ha Thisaway** | 1:31 |
 | B7 | **Brandy Leave Me Alone** | 2:14 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Wendell Marshall** | Bass |
+| **Bobby Donaldson** | Drums |
+| **Erik Darling** | Guitar [12-string] |
+| **Willard Svanoe** | Guitar [12-string] |
+| **Erik Darling** | Vocals |
+| **Lynne Taylor** | Vocals |
+| **Willard Svanoe** | Vocals |
+| **Erik Darling** | Written-By |
+| **Lynne Taylor** | Written-By |
+| **Willard Svanoe** | Written-By |
+
 ## See also
 
 - [Walk Right In](Walk_Right_In.md)

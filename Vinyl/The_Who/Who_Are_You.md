@@ -51,6 +51,26 @@ By The Who
 | b3 | **Love Is Coming Down** |  |
 | b4 | **Who Are You** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Andy Fairweather-Low** | Backing Vocals |
+| **John Entwistle** | Bass, Vocals, Horns |
+| **Glyn Johns** | Co-producer |
+| **Jon Astley** | Co-producer |
+| **Bill Smith (19)** | Design |
+| **Keith Moon** | Drums, Percussion |
+| **Judy Szekely** | Engineer |
+| **Pete Townshend** | Guitar, Piano, Synthesizer, Vocals |
+| **Roger Daltrey** | Lead Vocals |
+| **Martyn Goddard** | Photography, Back Cover |
+| **Terry O'Neill (2)** | Photography, Front Cover |
+| **Rod Argent** | Piano |
+| **Ted Astley** | Strings |
+| **Rod Argent** | Synthesizer |
+| **John Entwistle** | Synthesizer, Lead Vocals |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

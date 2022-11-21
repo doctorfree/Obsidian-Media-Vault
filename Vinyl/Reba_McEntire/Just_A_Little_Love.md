@@ -44,6 +44,13 @@ By Reba McEntire
 | A | **Just A Little Love** | 4:01 |
 | B | **If Your Heart's Not In It (What's In It For Me)** | 2:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Randy Kling** | Mastered By [Runout Etchings] |
+| **Norro Wilson** | Producer |
+
 ## See also
 
 - [](Reba_McEntire.md)

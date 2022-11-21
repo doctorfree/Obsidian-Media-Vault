@@ -51,6 +51,26 @@ By Silver Apples
 | B3 | **Dancing Gods** | 5:55 |
 | B4 | **Misty Mountain** | 2:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Anonymous Arts** | Artwork |
+| **Dan Taylor** | Composed By, Arranged By |
+| **Simeon (3)** | Composed By, Arranged By |
+| **Don Van Gordon** | Engineer [Sound] |
+| **Barry Bryant** | Liner Notes, Executive-Producer |
+| **John Walsh** | Other [Liaison] |
+| **Dan Taylor** | Percussion |
+| **Virginia Dwan** | Photography By |
+| **Simeon (3)** | Synthesizer [The Simeon] |
+| **Dan Taylor** | Vocals |
+| **Simeon (3)** | Vocals |
+| **Dan Taylor** | Written-By |
+| **Eileen Lewellen** | Written-By |
+| **Simeon (3)** | Written-By |
+| **Stanley Warren** | Written-By |
+
 ## See also
 
 - [](Silver_Apples_index.md)

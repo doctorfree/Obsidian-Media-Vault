@@ -52,6 +52,20 @@ By Rory Gallagher
 | B4 | **Out On The Western Plain** | 3:53 |
 | B5 | **At The Bottom** | 3:19 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gerry McAvoy** | Bass |
+| **Eckford/Stimpson** | Design [Sleeve] |
+| **Rod De'Ath** | Drums, Percussion |
+| **Ric Stokes** | Engineer [Assistant] |
+| **Lou Martin** | Keyboards |
+| **Richard Polak** | Photography By |
+| **Rory Gallagher** | Producer |
+| **Robin Sylvester** | Recorded By, Remix |
+| **Rory Gallagher** | Written-By |
+
 ## See also
 
 - [Calling Card](Calling_Card.md)

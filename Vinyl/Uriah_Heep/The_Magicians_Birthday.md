@@ -50,6 +50,24 @@ By Uriah Heep
 | B2 | **Tales** | 4:09 |
 | B3 | **The Magician's Birthday** | 10:23 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Thain** | Bass Guitar |
+| **Roger Dean (4)** | Design [Cover] |
+| **Lee Kerslake** | Drums, Percussion |
+| **Peter Gallen** | Engineer |
+| **Ashley Howe** | Engineer [Assistant] |
+| **Mick Box** | Guitar |
+| **Ken Hensley** | Keyboards, Guitar, Synthesizer [Moog] |
+| **Ken Hensley** | Liner Notes |
+| **Gilbert Kong** | Mastered By [Mastering] |
+| **Jason Ward** | Mastered By [Reissue] |
+| **Fin Costello** | Photography By |
+| **Gerry Bron** | Producer |
+| **David Byron** | Vocals |
+
 ## See also
 
 - [Demons And Wizards](Demons_And_Wizards.md)

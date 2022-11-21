@@ -54,6 +54,41 @@ By "Paul Kantner, Grace Slick"
 | B5 | **Universal Copernican Mumbles** | 2:03 |
 | B6 | **Holding Together** | 7:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Joan Chase** | Artwork [Lights Inside] |
+| **Mary Ann Mayer** | Artwork [Lights Inside] |
+| **Acy Lehman** | Cover |
+| **Acy Lehman** | Design [Libretto Booklet, Assistant] |
+| **Gary Blackman** | Design [Libretto Booklet, Assistant] |
+| **Grace Slick** | Design [Libretto Booklet] |
+| **Pat Ieraci** | Engineer |
+| **Edwin Hawkins Singers** | Ensemble |
+| **Grace Slick** | Illustration [Drawings] |
+| **Ann Gottesman** | Illustration [Titanic] |
+| **Bill Laudner** | Performer |
+| **Chris Wing** | Performer |
+| **Craig Chaquico** | Performer |
+| **David Crosby** | Performer |
+| **Graham Nash** | Performer |
+| **Jack Casady** | Performer |
+| **Jack Traylor** | Performer |
+| **Jerry Garcia** | Performer |
+| **Joey Covington** | Performer |
+| **John Vierra** | Performer |
+| **Jorma Kaukonen** | Performer |
+| **Papa John Creach** | Performer |
+| **Patrick Gleeson** | Performer |
+| **Peter Kaukonen** | Performer |
+| **Phill Sawyer** | Performer |
+| **Shelley Silverman** | Performer |
+| **Spencer Dryden** | Performer |
+| **Grace Slick** | Producer |
+| **Paul Kantner** | Producer |
+| **Grace Slick** | Typography [Spellinx] |
+
 ## See also
 
 - [](Paul_Kantner__Grace_Slick.md)

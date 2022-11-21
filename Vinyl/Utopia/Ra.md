@@ -49,6 +49,18 @@ By Utopia
 | B1 | **Hiroshima** | 7:16 |
 | B2 | **Singring And The Glass Guitar (An Electrified Fairytale)** | 18:24 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Kasim Sulton** | Bass, Vocals |
+| **Willie Wilcox** | Drums, Percussion, Vocals |
+| **John Holbrook** | Engineer |
+| **Tom Mark** | Engineer [Assistant] |
+| **Todd Rundgren** | Guitar, Vocals, Producer |
+| **Roger Powell** | Keyboards, Synthesizer, Vocals |
+| **Ken Perry** | Mastered By |
+
 ## See also
 
 - [Swing To The Right](Swing_To_The_Right.md)

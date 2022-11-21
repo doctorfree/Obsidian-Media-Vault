@@ -59,6 +59,23 @@ Couple of small stickers on front cover
 | B6 | **If It's In You** |  |
 | B7 | **Late Night** | 3:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Syd Barrett** | Composed By |
+| **Hipgnosis (2)** | Cover, Design |
+| **Jeff Jarratt** | Engineer |
+| **Michael Sheady** | Engineer |
+| **Peter Mew** | Engineer |
+| **Phil McDonald** | Engineer |
+| **Tony Clark** | Engineer |
+| **James Joyce** | Lyrics By |
+| **Mick Rock** | Photography By [Cover] |
+| **David Gilmour** | Producer |
+| **Malcolm Jones** | Producer |
+| **Roger Waters** | Producer |
+
 ## See also
 
 - [](Syd_Barrett.md)

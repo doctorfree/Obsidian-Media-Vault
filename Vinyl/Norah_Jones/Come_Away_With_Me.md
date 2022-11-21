@@ -56,6 +56,48 @@ By Norah Jones
 | B6 | **The Long Day Is Over** | 2:44 |
 | B7 | **The Nearness Of You** | 3:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rob Burger** | Accordion |
+| **Adam Levy** | Acoustic Guitar |
+| **Jesse Harris** | Acoustic Guitar |
+| **Kevin Breit** | Acoustic Guitar |
+| **Tony Scherr** | Acoustic Guitar |
+| **Arif Mardin** | Arranged By [Strings] |
+| **Lee Alexander** | Bass |
+| **Brian Blade** | Drums |
+| **Dan Rieser** | Drums |
+| **Kenny Wollesen** | Drums |
+| **Adam Levy** | Electric Guitar |
+| **Bill Frisell** | Electric Guitar |
+| **Jesse Harris** | Electric Guitar |
+| **Kevin Breit** | Electric Guitar |
+| **Norah Jones** | Electric Piano [Wurlitzer] |
+| **Jay Newland** | Engineer |
+| **S. Husky Hoskulds** | Engineer |
+| **Brandon Mason** | Engineer [Assistant] |
+| **Dick Kondas** | Engineer [Assistant] |
+| **Mark Birkey** | Engineer [Assistant] |
+| **Adam Rogers (2)** | Guitar |
+| **Ted Jensen** | Mastered By |
+| **Arif Mardin** | Mixed By |
+| **Jay Newland** | Mixed By |
+| **Todd Parker (2)** | Mixed By [Assistant Mixing Engineer] |
+| **Sam Yahel** | Organ [Hammond B3] |
+| **Rob Burger** | Organ [Pump] |
+| **Brian Blade** | Percussion |
+| **Norah Jones** | Piano |
+| **Arif Mardin** | Producer |
+| **Craig Street** | Producer |
+| **Jay Newland** | Producer |
+| **Norah Jones** | Producer |
+| **Kevin Breit** | Resonator Guitar [National Guitar] |
+| **Tony Scherr** | Slide Guitar |
+| **Jenny Scheinman** | Violin |
+| **Norah Jones** | Vocals |
+
 ## See also
 
 - [Not Too Late](Not_Too_Late.md)

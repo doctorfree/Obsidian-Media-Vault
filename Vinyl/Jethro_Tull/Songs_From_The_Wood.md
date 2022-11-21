@@ -51,6 +51,24 @@ By Jethro Tull
 | B3 | **Pibroch (Cap In Hand)** | 8:37 |
 | B4 | **Fire At Midnight** | 2:26 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jethro Tull** | Arranged By |
+| **Shirtsleeve Studio** | Artwork [Back Cover] |
+| **Jay L. Lee** | Artwork [Front Cover Painting] |
+| **John Glascock** | Bass, Vocals |
+| **Barriemore Barlow** | Drums, Marimba, Glockenspiel, Bells, Percussion [Nakers And Tabor] |
+| **Keith Howard** | Effects [Wood-cutter] |
+| **Robin Black** | Engineer |
+| **Thing Moss** | Engineer [Assistant] |
+| **Trevor White (3)** | Engineer [Assistant] |
+| **Martin Barre** | Guitar, Lute, Other [Additional Material] |
+| **John Evan** | Piano, Organ, Synthesizer |
+| **David Palmer (2)** | Piano, Synthesizer, Organ [Portative], Other [Additional Material] |
+| **Ian Anderson** | Vocals, Flute, Acoustic Guitar, Mandolin, Whistle, Producer, Written-By |
+
 ## See also
 
 - [Aqualung (The 2011 Steven Wilson Stereo Remix)](Aqualung_The_2011_Steven_Wilson_Stereo_Remix.md)

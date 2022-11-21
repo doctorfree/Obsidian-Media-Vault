@@ -55,6 +55,29 @@ By Velvet Revolver
 | D3 | **Dirty Little Thing** |  |
 | D4 | **Loving The Alien** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Brett Kilroe** | Art Direction |
+| **Robin C. Hendrickson** | Art Direction |
+| **Duff McKagan** | Backing Vocals [Additional], Bass Guitar, Written-By |
+| **Matt Sorum** | Drums, Backing Vocals [Additional], Written-By |
+| **Douglas Grean** | Engineer [Additional], Producer [Vocals] |
+| **Brandon Belsky** | Engineer [Assistant] |
+| **Rocco Guarino** | Engineer [Assistant] |
+| **Slash (3)** | Guitar, Backing Vocals [Additional], Written-By |
+| **Douglas Grean** | Keyboards |
+| **George Marino** | Mastered By |
+| **Andy Wallace** | Mixed By |
+| **Chris Young (3)** | Mixed By [Second Assistant] |
+| **Dan Winters** | Photography |
+| **Josh Abraham** | Producer |
+| **Velvet Revolver** | Producer |
+| **Ryan Williams** | Recorded By |
+| **Scott Weiland** | Vocals, Written-By |
+| **Dave Kushner** | Written-By |
+
 ## See also
 
 - [](Velvet_Revolver.md)

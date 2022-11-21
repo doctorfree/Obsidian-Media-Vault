@@ -57,6 +57,27 @@ By The Mothers
 | B5 | **Brown Shoes Don't Make It** | 7:26 |
 | B6 | **America Drinks & Goes Home** | 2:43 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Frank Zappa** | Composed By, Arranged By, Conductor, Performer |
+| **Val Valentin** | Engineer [Director Of Engineering] |
+| **David Greene** | Engineer [Remix] |
+| **Ami Hadani** | Engineer, Recorded By |
+| **Frank Zappa** | Layout, Artwork By [Cover Art, Collages], Liner Notes |
+| **Billy Mundi** | Musician |
+| **Bunk Gardner** | Musician |
+| **Don Preston** | Musician |
+| **Jimmy Carl Black** | Musician |
+| **Motorhead Sherwood** | Musician |
+| **Ray Collins** | Musician |
+| **Roy Estrada** | Musician |
+| **Alice Ochs** | Photography By [Front] |
+| **Jerry Deiter** | Photography By [Other] |
+| **Marshal Harmon** | Photography By [Other] |
+| **Tom Wilson (2)** | Producer |
+
 ## See also
 
 - [](The_Mothers.md)

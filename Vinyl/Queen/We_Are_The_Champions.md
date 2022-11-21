@@ -44,6 +44,14 @@ By Queen
 | A | **We Are The Champions** | 3:00 |
 | B | **We Will Rock You** | 2:01 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Terry Dunavan** | Mastered By |
+| **Queen** | Producer |
+| **Mike Stone** | Producer [Assistant] |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

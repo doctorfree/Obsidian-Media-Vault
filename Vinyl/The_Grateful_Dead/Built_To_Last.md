@@ -50,6 +50,15 @@ By The Grateful Dead
 | B3 | **Built To Last** | 5:03 |
 | B4 | **I Will Take You Home** | 3:45 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Alton Kelly** | Artwork, Cover, Art Direction |
+| **Ken Perry** | Mastered By |
+| **Jerry Garcia** | Producer |
+| **John Culter** | Producer |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

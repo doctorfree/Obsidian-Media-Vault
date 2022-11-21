@@ -44,6 +44,15 @@ By The Firesign Theatre
 | A | **This Side** | 22:16 |
 | B | **The Other Side** | 24:12 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **David Ossman** | Featuring |
+| **Peter Bergman (2)** | Featuring |
+| **Philip Austin** | Featuring |
+| **Philip Proctor** | Featuring |
+
 ## See also
 
 - [Forward Into The Past ( An Anthology)](Forward_Into_The_Past__An_Anthology.md)

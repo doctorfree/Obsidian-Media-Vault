@@ -44,6 +44,12 @@ By "James Horner, Group 87"
 | A | **The Search For Spock (Theme From "Star Trek III")** | 3:40 |
 | B | **Returning To Vulcan** | 4:49 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **James Horner** | Composed By [Theme] |
+
 ## See also
 
 - [](James_Horner__Group_87.md)

@@ -52,6 +52,26 @@ By Billy Joel
 | B5 | **Everybody Has A Dream** | 4:35 |
 | B6 | **Untitled** | 1:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Doug Stegmeyer** | Bass |
+| **Liberty DeVitto** | Drums |
+| **Hiram Bullock** | Electric Guitar |
+| **Steve Khan** | Electric Guitar [Six & Twelve String Electric Guitars], Rhythm Guitar [Acoustic Rhythm Guitar], Guitar [High String Guitar] |
+| **Jim Boyer** | Engineer |
+| **Phil Ramone** | Engineer |
+| **Ted Jensen** | Lacquer Cut By |
+| **Home Run (4)** | Management [Produced In Association With] |
+| **Billy Joel** | Music By, Lyrics By |
+| **Patrick Williams** | Orchestrated By |
+| **Jim Houghton** | Photography By |
+| **Billy Joel** | Piano [Acoustic PIano], Vocals, Keyboards [Electric Keyboards], Synthesizer |
+| **Phil Ramone** | Producer |
+| **Kathy Kurs** | Supervised By [Production Associate to Mr. Ramone] |
+| **Richie Cannata** | Tenor Saxophone, Soprano Saxophone, Clarinet, Flute, Organ |
+
 ## See also
 
 - [](Billy_Joel.md)

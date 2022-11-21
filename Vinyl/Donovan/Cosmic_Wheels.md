@@ -52,6 +52,19 @@ By Donovan
 | B4 | **Only The Blues** | 3:10 |
 | B5 | **Appearances** | 3:36 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Donovan Phillips Leitch** | Composed By |
+| **Donovan** | Design [Cover] |
+| **John Kosh** | Design [Cover] |
+| **Mike Bobak** | Engineer |
+| **Lee Hulko** | Mastered By [Runout Etch] |
+| **Tony Evans (8)** | Photography By |
+| **Donovan** | Producer |
+| **Michael Peter Hayes** | Producer |
+
 ## See also
 
 - [A Gift From A Flower To A Garden](A_Gift_From_A_Flower_To_A_Garden.md)

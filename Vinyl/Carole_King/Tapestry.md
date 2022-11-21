@@ -56,6 +56,16 @@ By Carole King
 | B6 | **(You Make Me Feel Like) A Natural Woman** |  |
 | B7 | **Smackwater Jack (Previously Unreleased Live Version)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lou Adler** | Producer |
+| **Carole King** | Written-By |
+| **Gerry Goffin** | Written-By |
+| **Jerry Wexler** | Written-By |
+| **Toni Stern** | Written-By |
+
 ## See also
 
 - [](Carole_King.md)

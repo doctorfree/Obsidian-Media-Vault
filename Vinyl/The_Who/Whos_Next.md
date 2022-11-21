@@ -51,6 +51,19 @@ By The Who
 | B-3 | **Behind Blue Eyes** | 3:41 |
 | B-4 | **Won't Get Fooled Again** | 8:31 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Entwistle** | Bass, Vocals |
+| **Keith Moon** | Drums, Percussion |
+| **Pete Townshend** | Guitar, Vocals |
+| **Nicky Hopkins** | Piano |
+| **The Who** | Producer |
+| **Glyn Johns** | Producer, (Associate) |
+| **Dave Arbus** | Violin |
+| **Roger Daltrey** | Vocals |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

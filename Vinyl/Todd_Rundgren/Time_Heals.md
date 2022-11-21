@@ -44,6 +44,12 @@ By Todd Rundgren
 | A | **Time Heals** | 3:33 |
 | B | **Tiny Demons** | 3:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Todd Rundgren** | Vocals, Instruments, Written-By, Producer, Engineer |
+
 ## See also
 
 - ["A Wizard, A True Star"](A_Wizard__A_True_Star.md)

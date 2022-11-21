@@ -54,6 +54,13 @@ By Linda Ronstadt
 | B5 | **Down So Low** | 4:08 |
 | B6 | **Someone To Lay Down Beside Me** | 4:28 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Rob LoVerde** | Mastered By |
+| **Peter Asher** | Producer |
+
 ## See also
 
 - [Don't Cry Now](Dont_Cry_Now.md)

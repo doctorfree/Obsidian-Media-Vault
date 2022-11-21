@@ -56,6 +56,19 @@ By Steven Wilson
 | D3 | **Track One** | 4:15 |
 | D4 | **Like Dust I Have Cleared From My Eye** | 8:00 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Carl Glover (4)** | Artwork, Design |
+| **Mat Collis** | Engineer [At Koolworld] |
+| **Andy Leff** | Management |
+| **Alx Leeks** | Management [Assistant] |
+| **Paschal Byrne** | Mastered By |
+| **Bettina Ejlersen** | Photography By [Assistant], Film Technician [Assistant] |
+| **Lasse Hoile** | Photography By, Film Director [Films] |
+| **Steven Wilson** | Written-By, Producer, Mixed By |
+
 ## See also
 
 - [The Raven That Refused To Sing (And Other Stories)](The_Raven_That_Refused_To_Sing_And_Other_Stories.md)

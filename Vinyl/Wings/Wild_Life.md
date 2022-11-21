@@ -51,6 +51,25 @@ By Wings
 | B4 | **Tomorrow** | 3:17 |
 | B5 | **Dear Friend** | 5:42 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Denny Seiwell** | Drums |
+| **Alan Parsons** | Engineer |
+| **Tony Clark** | Engineer |
+| **Denny Laine** | Guitar |
+| **Lee Hulko** | Lacquer Cut By |
+| **Clint Harrigan** | Liner Notes |
+| **Lee Hulko** | Mastered By |
+| **Paul & Linda McCartney** | Performer |
+| **Linda McCartney** | Photography By [Photo, Label A] |
+| **Paul McCartney** | Photography By [Photo, Label B] |
+| **Barry Lategan** | Photography By [Photo] |
+| **Paul & Linda McCartney** | Producer |
+| **Carl Dolmetsch** | Recorder [Recorders] |
+| **Gordon House (2)** | Typography [Typo] |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

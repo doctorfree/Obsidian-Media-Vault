@@ -44,6 +44,13 @@ By No Artist
 | A | **America's First Man In Orbit (Side 1)** |  |
 | B | **America's First Man In Orbit (Side 2)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Lt. Col. John A. Powers** | Narrator |
+| **Ward Botsford** | Producer |
+
 ## See also
 
 - [Bird Songs In Your Garden](Bird_Songs_In_Your_Garden.md)

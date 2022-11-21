@@ -58,6 +58,21 @@ By Shocking Blue
 | B6 | **Hot Sand** | 2:35 |
 | B7 | **Wild Wind** | 2:15 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dick Bakker** | Engineer |
+| **Cees van Leeuwen (2)** | Management [Personal Manager] |
+| **Robbie van Leeuwen** | Mixed By |
+| **Cornelis Van Der Beek** | Performer |
+| **Klaasje Van Der Wal** | Performer |
+| **Mariska Veres** | Performer |
+| **Robbie van Leeuwen** | Performer |
+| **Ronnie Hertz** | Photography By |
+| **Shocking Blue** | Producer |
+| **Robbie van Leeuwen** | Written-By |
+
 ## See also
 
 - [](Shocking_Blue.md)

@@ -44,6 +44,12 @@ By Eddie Fisher
 | A | **I Need You Now** |  |
 | B | **Heaven Was Never Like This** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hugo Winterhalter Orchestra** | Featuring [With] |
+
 ## See also
 
 - [](Eddie_Fisher.md)

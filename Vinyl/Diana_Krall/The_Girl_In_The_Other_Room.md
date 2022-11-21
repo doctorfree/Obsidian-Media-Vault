@@ -54,6 +54,27 @@ By Diana Krall
 | D11 | **I'm Coming Through** | 5:07 |
 | D12 | **Departure Bay** | 5:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Hollis King** | Art Direction |
+| **Christian McBride** | Bass |
+| **John Clayton** | Bass |
+| **Isabelle Wong** | Design |
+| **Jeff Hamilton** | Drums |
+| **Peter Erskine** | Drums |
+| **Terri Lyne Carrington** | Drums |
+| **Anthony Wilson** | Guitar |
+| **Ron McMaster** | Lacquer Cut By |
+| **Doug Sax** | Mastered By |
+| **Robert Hadley** | Mastered By |
+| **Al Schmitt** | Mixed By, Recorded By |
+| **Neil Larsen** | Organ [Hammond] |
+| **Mark Seliger** | Photography By |
+| **Tommy LiPuma** | Producer |
+| **Diana Krall** | Producer, Piano, Vocals |
+
 ## See also
 
 - [](Diana_Krall.md)

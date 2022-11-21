@@ -44,6 +44,14 @@ By The Honeydrippers
 | A | **Sea Of Love** | 3:02 |
 | B | **Rockin' At Midnight** | 5:57 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Dennis King** | Lacquer Cut By |
+| **Nugetre** | Producer |
+| **The Fabulous Brill Brothers** | Producer |
+
 ## See also
 
 - [](The_Honeydrippers.md)

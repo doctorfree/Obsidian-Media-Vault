@@ -54,6 +54,13 @@ By Joe Bonamassa
 | D2 | **Sweet Rowena** | 4:34 |
 | D3 | **Prisoner** | 6:49 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roy Weisman** | Executive-Producer |
+| **Kevin Shirley** | Producer |
+
 ## See also
 
 - [](Joe_Bonamassa.md)

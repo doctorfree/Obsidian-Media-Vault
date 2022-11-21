@@ -50,6 +50,24 @@ By Pat Metheny
 | B3 | **Omaha Celebration** | 4:17 |
 | B4 | **Round Trip / Broadway Blues** | 4:58 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Pat Metheny** | Acoustic Guitar [6-String], Electric Guitar [12-String] |
+| **Jaco Pastorius** | Bass |
+| **Pat Metheny** | Composed By |
+| **Bob Moses** | Drums |
+| **Martin Wieland** | Engineer |
+| **John Bittner** | Lacquer Cut By |
+| **Dieter Bonhorst** | Layout |
+| **Gary Burton** | Liner Notes |
+| **Roger Seibel** | Mastered By |
+| **Tim Hines (4)** | Mastered By |
+| **Roberto Masotti** | Photography By [Back Cover] |
+| **Rainer Kiedrowski** | Photography By [Cover] |
+| **Manfred Eicher** | Producer |
+
 ## See also
 
 - [](Pat_Metheny.md)

@@ -54,6 +54,29 @@ By Shawn Phillips
 | B6 | **F Sharp Splendor** | 0:36 |
 | B7 | **Steel Eyes** | 4:18 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Buckmaster** | Arranged By [Orchestra] |
+| **Mike Doud (2)** | Art Direction [Director] |
+| **Robin Geoffrey Cable** | Engineer |
+| **Shawn Phillips (2)** | Guitar, Sitar, Vocals |
+| **Anello Capuano** | Musician |
+| **Poli Palmer** | Musician |
+| **Barry Dean** | Musician [Bass, Guitar] |
+| **Brian Odgers** | Musician [Bass] |
+| **Bruce Rowland** | Musician [Drums] |
+| **Harvey Burns** | Musician [Guitar] |
+| **Jim Cregan** | Musician [Guitar] |
+| **Gerry Salisbury** | Musician [Horn] |
+| **Ann Odell** | Musician [Keyboards] |
+| **Paul Buckmaster** | Musician [Keyboards] |
+| **Peter Robinson** | Musician [Percussion, Keyboards] |
+| **Sanders Nicholson** | Photography By |
+| **Jonathan Weston** | Producer |
+| **Shawn Phillips (2)** | Written-By |
+
 ## See also
 
 - [](Shawn_Phillips.md)

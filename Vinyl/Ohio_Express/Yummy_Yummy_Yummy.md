@@ -44,6 +44,15 @@ By Ohio Express
 | A | **Yummy Yummy Yummy** | 2:18 |
 | B | **Zig Zag** | 2:05 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Arthur Resnick** | Producer |
+| **Jeff Katz** | Producer |
+| **Jerry Kasenetz** | Producer |
+| **Joey Levine** | Producer |
+
 ## See also
 
 - [](Ohio_Express.md)

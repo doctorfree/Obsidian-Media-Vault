@@ -54,6 +54,14 @@ By Johnny Mathis
 | B5 | **No Love (But Your Love)** |  |
 | B6 | **Look At You** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ray Conniff & His Orchestra** | Featuring [With] |
+| **Ray Ellis And His Orchestra** | Featuring [With] |
+| **Norman Menard** | Photography By |
+
 ## See also
 
 - [](Johnny_Mathis.md)

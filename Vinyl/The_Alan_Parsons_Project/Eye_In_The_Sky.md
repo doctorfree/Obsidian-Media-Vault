@@ -52,6 +52,31 @@ By The Alan Parsons Project
 | B4 | **Step By Step** | 3:52 |
 | B5 | **Old And Wise** | 4:52 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Ian Bairnson** | Acoustic Guitar, Electric Guitar |
+| **Andrew Powell** | Arranged By [Orchestra, Choir], Conductor [Orchestra, Choir] |
+| **David Paton** | Bass |
+| **Robert Howes** | Chorus Master |
+| **George Hamer** | Contractor [Orchestral] |
+| **Chris Blair** | Coordinator [Production Co-ordinator, Mastering Consultant] |
+| **Stuart Elliott** | Drums, Percussion |
+| **Tony Richards** | Engineer [Assistant] |
+| **Eric Woolfson** | Executive-Producer |
+| **Alan Parsons** | Keyboards |
+| **Eric Woolfson** | Keyboards |
+| **Keith W. Lehman** | Photography By |
+| **Alan Parsons** | Producer [Produced By], Engineer [Engineered By], Programmed By [Fairlight] |
+| **Mel Collins** | Saxophone |
+| **APB (5)** | Sleeve |
+| **Colin Chambers (2)** | Sleeve |
+| **Hipgnosis (2)** | Sleeve |
+| **The English Chorale** | Vocals |
+| **Alan Parsons** | Written-By |
+| **Eric Woolfson** | Written-By |
+
 ## See also
 
 - [The Turn Of A Friendly Card](The_Turn_Of_A_Friendly_Card.md)

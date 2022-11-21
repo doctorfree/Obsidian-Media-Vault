@@ -54,6 +54,19 @@ By The Crystals
 | B5 | **He Hit Me (And It Felt Like A Kiss)** | 2:28 |
 | B6 | **I Love You Eddie** | 2:55 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Arnold Goland** | Arranged By |
+| **Jack Nitzsche** | Arranged By |
+| **Hal Blaine** | Drums |
+| **Bill McMeekin** | Engineer |
+| **Larry Levine** | Engineer |
+| **Mike Spencer** | Piano |
+| **Phil Spector** | Producer |
+| **Steve Douglas** | Saxophone |
+
 ## See also
 
 - [](The_Crystals.md)

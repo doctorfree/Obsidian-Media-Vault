@@ -48,6 +48,16 @@ By Grace Slick
 | B3 | **Better Lying Down** |  |
 | B4 | **Epic (#38)** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Keith Grant** | Co-producer |
+| **Steve Schuster** | Co-producer |
+| **David Freiberg** | Producer |
+| **Grace Slick** | Producer |
+| **Paul Kantner** | Producer |
+
 ## See also
 
 - [](Grace_Slick.md)

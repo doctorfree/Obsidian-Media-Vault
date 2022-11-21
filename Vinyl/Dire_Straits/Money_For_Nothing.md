@@ -44,6 +44,12 @@ By Dire Straits
 | A | **Money For Nothing (Long Edit)** | 4:38 |
 | B | **Love Over Gold (Live)** | 3:41 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Ludwig** | Mastered By |
+
 ## See also
 
 - [Brothers In Arms](Brothers_In_Arms.md)

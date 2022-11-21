@@ -52,6 +52,36 @@ By "Blood, Sweat And Tears"
 | B3 | **Blues - Part II** | 11:55 |
 | B4 | **Variation On A Theme By Erik Satie (1st Movement)** | 1:37 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Fred Lipsius** | Alto Saxophone, Piano |
+| **Al Kooper** | Arranged By |
+| **Blood, Sweat And Tears** | Arranged By |
+| **Dick Halligan** | Arranged By |
+| **Fred Lipsius** | Arranged By |
+| **Bob Cato** | Artwork [Inside Art] |
+| **Jim Fielder** | Bass |
+| **Bobby Colomby** | Chorus [BS&T Chorus] |
+| **Dick Halligan** | Chorus [BS&T Chorus] |
+| **Timothy Quay** | Cover [Cover Art] |
+| **John Berg** | Design |
+| **Bobby Colomby** | Drums, Percussion, Vocals |
+| **Fred Catero** | Engineer [BS&T Engineering Department] |
+| **Roy Halee** | Engineer [BS&T Engineering Department] |
+| **Steve Katz** | Guitar, Harmonica, Vocals |
+| **David Clayton-Thomas** | Lead Vocals |
+| **Bennett Glotzer** | Management [Personal Management] |
+| **Dennis Katz** | Management [Personal Management] |
+| **Dick Halligan** | Organ, Piano, Flute, Trombone, Vocals |
+| **Harrie George** | Photography By [Back Cover Photo] |
+| **Bob Cato** | Photography By [Photo Collage] |
+| **James William Guercio** | Producer |
+| **Jerry Hyman** | Trombone, Recorder |
+| **Chuck Winfield** | Trumpet, Flugelhorn [Flügelhorn] |
+| **Lew Soloff** | Trumpet, Flugelhorn [Flügelhorn] |
+
 ## See also
 
 - [](Blood__Sweat_And_Tears_index.md)

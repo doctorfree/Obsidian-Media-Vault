@@ -52,6 +52,12 @@ By BNQT
 | B4 | **Tara** |  |
 | B5 | **Fighting The World** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Matt Pence** | Mixed By, Mastered By |
+
 ## See also
 
 - [](BNQT.md)

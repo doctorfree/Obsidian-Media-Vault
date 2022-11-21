@@ -44,6 +44,14 @@ By Blondie
 | A | **Rapture** | 6:33 |
 | B | **Walk Like Me** | 3:46 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Steve Hall** | Lacquer Cut By |
+| **Martin Hoffman (3)** | Photography By |
+| **Mike Chapman** | Producer |
+
 ## See also
 
 - [](Blondie.md)

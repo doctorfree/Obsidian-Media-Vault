@@ -44,6 +44,22 @@ By The Jonzun Crew
 | A | **We Are The Jonzun Crew** | 3:23 |
 | B | **Ground Control** | 5:40 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Maurice Starr** | Co-producer |
+| **Tom Silverman** | Co-producer |
+| **Frank Heller** | Engineer |
+| **Michael Jonzun** | Engineer |
+| **Tom Silverman** | Executive-Producer |
+| **Jose Animal Diaz** | Mixed By |
+| **Michael Jonzun** | Mixed By |
+| **Tom Silverman** | Mixed By |
+| **Michael Jonzun** | Producer |
+| **Maurice Starr** | Written-By |
+| **Michael Jonzun** | Written-By |
+
 ## See also
 
 - [](The_Jonzun_Crew.md)

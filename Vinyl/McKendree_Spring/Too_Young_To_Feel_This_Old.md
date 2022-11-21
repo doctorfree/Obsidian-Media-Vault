@@ -52,6 +52,20 @@ By McKendree Spring
 | B4 | **I'm Gonna Lose That Game Again** | 2:47 |
 | B5 | **Divide And Concord** | 6:26 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Chris Bishop (5)** | Bass, Backing Vocals |
+| **Carson Michaels** | Drums, Backing Vocals |
+| **Martin Rushent** | Engineer |
+| **Martin Slutsky** | Guitar |
+| **Fran McKendree** | Guitar, Vocals |
+| **Bob Ludwig** | Mastered By |
+| **Warren Bernhardt** | Piano, Organ |
+| **Mark London** | Producer |
+| **Michael Dreyfuss** | Violin, Viola |
+
 ## See also
 
 - [Spring Suite](Spring_Suite.md)

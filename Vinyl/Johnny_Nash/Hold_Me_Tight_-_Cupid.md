@@ -44,6 +44,15 @@ By Johnny Nash
 | A | **Hold Me Tight** | 2:50 |
 | B | **Cupid** | 3:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Arthur Jenkins** | Arranged By |
+| **Richard Alderson** | Engineer |
+| **Arthur Jenkins** | Producer |
+| **Johnny Nash** | Producer |
+
 ## See also
 
 - [](Johnny_Nash.md)

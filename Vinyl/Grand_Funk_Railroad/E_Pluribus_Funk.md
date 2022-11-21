@@ -49,6 +49,17 @@ By Grand Funk Railroad
 | B2 | **No Lies** | 3:55 |
 | B3 | **Loneliness** | 8:38 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mel Schacher** | Bass |
+| **Craig Braun** | Design |
+| **Terry Knight** | Design Concept [Cover Concept], Producer [Recording Produced By] |
+| **Don Brewer** | Drums, Percussion, Vocals |
+| **Ken Hamann** | Engineer [Cleveland Recording Co.] |
+| **Mark Farner** | Written-By, Guitar, Organ, Harmonica, Vocals |
+
 ## See also
 
 - [Caught In The Act](Caught_In_The_Act.md)

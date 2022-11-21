@@ -44,6 +44,16 @@ By Aerosmith
 | A | **The Other Side** | 4:06 |
 | B | **My Girl** | 3:11 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mike Fraser** | Engineer, Mixed By |
+| **Bruce Fairbairn** | Producer |
+| **Jim Vallance** | Written-By |
+| **Joe Perry** | Written-By |
+| **Steven Tyler** | Written-By |
+
 ## See also
 
 - [Draw The Line](Draw_The_Line.md)

@@ -51,6 +51,26 @@ By Santana
 | B4 | **Hope You're Feeling Better** | 4:10 |
 | B5 | **El Nicoya** | 1:29 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Mati Klarwein** | Artwork [Cover Art] |
+| **David Brown (5)** | Bass |
+| **Michael Carabello** | Congas |
+| **Michael Shrieve** | Drums |
+| **David Brown (14)** | Engineer |
+| **John Fiore** | Engineer |
+| **Bob Venosa** | Graphics |
+| **Gregg Rolie** | Keyboards, Vocals |
+| **Carlos Santana** | Lead Guitar, Vocals |
+| **Joan Chase** | Photography By |
+| **Marian Schmidt (2)** | Photography By |
+| **Fred Catero** | Producer |
+| **Santana** | Producer |
+| **Annie Rudder** | Supervised By [Continuity] |
+| **José "Chepito" Areas** | Timbales, Congas |
+
 ## See also
 
 - ["Woodstock (Saturday, August 16, 1969)"](Woodstock_Saturday__August_16__1969.md)

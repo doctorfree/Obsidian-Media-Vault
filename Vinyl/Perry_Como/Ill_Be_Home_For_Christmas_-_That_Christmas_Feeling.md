@@ -44,6 +44,12 @@ By Perry Como
 | A | **I'll Be Home For Christmas** |  |
 | B | **That Christmas Feeling** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Russ Case And His Orchestra** | Orchestra |
+
 ## See also
 
 - [](Perry_Como.md)

@@ -52,6 +52,29 @@ By Norman Greenbaum
 | B4 | **Milk Cow** | 3:00 |
 | B5 | **Marcy** | 3:09 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bill Sabatini** | Performer [Songs Sung And Played By] |
+| **Chuck Peterson** | Performer [Songs Sung And Played By] |
+| **Dan Patiris** | Performer [Songs Sung And Played By] |
+| **Doug Killmer** | Performer [Songs Sung And Played By] |
+| **John Coppola** | Performer [Songs Sung And Played By] |
+| **Joyce Stovall** | Performer [Songs Sung And Played By] |
+| **Lillian Stovall** | Performer [Songs Sung And Played By] |
+| **Mitzi (2)** | Performer [Songs Sung And Played By] |
+| **Netta Stovall** | Performer [Songs Sung And Played By] |
+| **Norman Greenbaum** | Performer [Songs Sung And Played By] |
+| **Norman Mayell** | Performer [Songs Sung And Played By] |
+| **Patty (16)** | Performer [Songs Sung And Played By] |
+| **Robbie Robinson (8)** | Performer [Songs Sung And Played By] |
+| **Russell Dashiel** | Performer [Songs Sung And Played By] |
+| **William Truckaway** | Performer [Songs Sung And Played By] |
+| **Lloyd Johnson** | Photography By |
+| **Erik Jacobsen** | Producer |
+| **Norman Greenbaum** | Written-By |
+
 ## See also
 
 - [](Norman_Greenbaum.md)

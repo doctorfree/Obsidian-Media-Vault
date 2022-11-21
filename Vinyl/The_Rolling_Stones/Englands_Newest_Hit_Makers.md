@@ -54,6 +54,15 @@ By The Rolling Stones
 | B5 | **You Can Make It If You Try** | 2:10 |
 | B6 | **Walking The Dog** | 3:10 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **The Rolling Stones** | Arranged By |
+| **Nicholas Wright (2)** | Photography By |
+| **Andrew Loog Oldham** | Producer |
+| **Eric Easton** | Producer |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

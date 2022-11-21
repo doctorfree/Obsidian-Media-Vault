@@ -44,6 +44,22 @@ By Our Daughter's Wedding
 | A | **Nightlife** | 3:16 |
 | B | **Raincoats & Silverware** | 4:20 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Richard Van Dorn** | Engineer |
+| **David Gold (3)** | Lacquer Cut By |
+| **Keith Silva** | Music By |
+| **Layne Rico** | Music By |
+| **V. Wilkinson** | Music By |
+| **Barry Rico** | Photography By [Back Cover Photo] |
+| **Rico West** | Producer |
+| **Layne Rico** | Synthesizer [Synare, Synthesizers], Voice [B Voice], Artwork |
+| **Keith Silva** | Voice, Keyboards |
+| **Keith Silva** | Words By |
+| **Layne Rico** | Words By |
+
 ## See also
 
 - [Elevate Her](Elevate_Her.md)

@@ -44,6 +44,13 @@ By The Cascades
 | A | **Cinderella ** | 2:33 |
 | B | **A Little Like Lovin'** | 2:08 |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Perry Botkin Jr.** | Arranged By, Conductor |
+| **Joe Reisman** | Producer |
+
 ## See also
 
 - [](The_Cascades.md)

@@ -54,6 +54,16 @@ By Various
 | B5 | **My Baby** |  |
 | B6 | **Jelly Roll King** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Candace Cox Mache** | A&R, Sleeve Notes |
+| **Leticia Llesmin** | Artwork, Design |
+| **Carrie Colliton** | Coordinator |
+| **Michael Kurtz** | Coordinator |
+| **Andrew Rossiter** | Other [Marketing] |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

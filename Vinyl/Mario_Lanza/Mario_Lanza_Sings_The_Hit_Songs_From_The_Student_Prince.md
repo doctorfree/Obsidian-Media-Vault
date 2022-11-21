@@ -55,6 +55,13 @@ Cover only, no records
 | D1 | **Deep In My Heart, Dear** |  |
 | D2 | **I'll Walk With God** |  |
 
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Constantine Callinicos** | Directed By [Chorus And Orchestra] |
+| **Mario Lanza** | Tenor Vocals |
+
 ## See also
 
 - [Arrivederci Roma / It's The Loveliest Night Of The Year](Arrivederci_Roma_-_Its_The_Loveliest_Night_Of_The_Year.md)
