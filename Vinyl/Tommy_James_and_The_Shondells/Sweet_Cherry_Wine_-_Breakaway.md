@@ -37,6 +37,13 @@ By Tommy James & The Shondells
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sweet Cherry Wine** | 4:25 |
+| B | **Breakaway** | 2:45 |
+
 ## See also
 
 - [](Tommy_James_and_The_Shondells.md)

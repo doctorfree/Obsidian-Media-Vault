@@ -37,6 +37,23 @@ By The Moody Blues
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Departure** |  |
+| A2 | **Ride My See-Saw** |  |
+| A3 | **Dr. Livingstone, I Presume** |  |
+| A4 | **House Of Four Doors** |  |
+| A5 | **Legend Of A Mind** |  |
+| A6 | **House Of Four Doors (Part Two)** |  |
+| B1 | **Voices In The Sky** |  |
+| B2 | **The Best Way To Travel** |  |
+| B3 | **Visions Of Paradise** |  |
+| B4 | **The Actor** |  |
+| B5 | **The Word** |  |
+| B6 | **Om** |  |
+
 ## See also
 
 - [A Question Of Balance](A_Question_Of_Balance.md)

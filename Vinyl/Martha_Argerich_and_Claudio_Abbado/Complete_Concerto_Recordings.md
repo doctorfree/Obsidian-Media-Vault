@@ -37,6 +37,17 @@ By Martha Argerich & Claudio Abbado
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **LP1** | 48:12 |
+|  | **LP 2** | 55:34 |
+|  | **LP 3** | 32:00 |
+|  | **LP 4** | 63:54 |
+|  | **LP 5** | 61:42 |
+|  | **LP 6** | 44:14 |
+
 ## See also
 
 - [](Martha_Argerich_and_Claudio_Abbado.md)

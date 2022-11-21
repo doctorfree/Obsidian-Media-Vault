@@ -37,6 +37,23 @@ By Queen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Death On Two Legs (Dedicated To....)** | 3:43 |
+| A2 | **Lazing On A Sunday Afternoon** | 1:08 |
+| A3 | **I'm In Love With My Car** | 3:05 |
+| A4 | **You're My Best Friend** | 2:50 |
+| A5 | **'39** | 3:25 |
+| A6 | **Sweet Lady** | 4:01 |
+| A7 | **Seaside Rendezvous** | 2:13 |
+| B1 | **The Prophet's Song** | 8:17 |
+| B2 | **Love Of My Life** | 3:38 |
+| B3 | **Good Company** | 3:26 |
+| B4 | **Bohemian Rhapsody** | 5:55 |
+| B5 | **God Save The Queen** | 1:11 |
+
 ## See also
 
 - [Another One Bites The Dust](Another_One_Bites_The_Dust.md)

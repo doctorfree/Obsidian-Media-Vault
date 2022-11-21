@@ -37,6 +37,12 @@ By The Spinning Wighats
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Can't Hide** |  |
+
 ## See also
 
 - [](The_Spinning_Wighats.md)

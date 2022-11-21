@@ -37,6 +37,13 @@ By John Denver
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sunshine On My Shoulders** | 3:18 |
+| B | **Around And Around** | 2:16 |
+
 ## See also
 
 - [](John_Denver.md)

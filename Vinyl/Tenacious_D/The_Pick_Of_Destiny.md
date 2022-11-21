@@ -37,6 +37,26 @@ By Tenacious D
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Kickapoo** |  |
+| A2 | **Classico** |  |
+| A3 | **Baby** |  |
+| A4 | **Destiny** |  |
+| A5 | **History** |  |
+| A6 | **The Government Totally Sucks** |  |
+| A7 | **Master Exploder** |  |
+| A8 | **The Divide** |  |
+| A9 | **Papagenu (He's My Sassafrass)** |  |
+| B1 | **Dude (I Totally Miss You)** |  |
+| B2 | **Break In-City (Storm The Gate!)** |  |
+| B3 | **Car Chase City** |  |
+| B4 | **Beelzeboss (The Final Showdown)** |  |
+| B5 | **POD** |  |
+| B6 | **The Metal** |  |
+
 ## See also
 
 - [Tenacious D](Tenacious_D.md)

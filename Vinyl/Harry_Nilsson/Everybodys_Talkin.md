@@ -37,6 +37,13 @@ By Harry Nilsson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Everybody's Talkin'** | 2:43 |
+| B | **Rainmaker** | 2:33 |
+
 ## See also
 
 - [Nilsson Schmilsson](Nilsson_Schmilsson.md)

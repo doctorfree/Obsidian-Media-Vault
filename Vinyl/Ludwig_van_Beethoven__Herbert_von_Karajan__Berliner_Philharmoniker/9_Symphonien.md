@@ -37,6 +37,20 @@ By "Ludwig van Beethoven, Herbert von Karajan, Berliner Philharmoniker"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Symphonie Nr. 1 C-Dur Op. 21** |  |
+|  | **Symphonie Nr. 2 D-Dur Op. 36** |  |
+|  | **Symphonie Nr. 3 Es-Dur Op. 55 »Eroica­­«** |  |
+|  | **Symphonie Nr. 4 B-Dur Op. 60** |  |
+|  | **Symphonie Nr. 5 C-Moll Op. 67** |  |
+|  | **Symphonie Nr. 6 F-Dur Op. 68 »Pastorale«** |  |
+|  | **Symphonie Nr. 7 A-Dur Op. 92** |  |
+|  | **Symphonie Nr. 8 F-Dur Op. 93** |  |
+|  | **IX. Symphonie D-Moll Op. 125** |  |
+
 ## See also
 
 - [](Ludwig_van_Beethoven__Herbert_von_Karajan__Berliner_Philharmoniker.md)

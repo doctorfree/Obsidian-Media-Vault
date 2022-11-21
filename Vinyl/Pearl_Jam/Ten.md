@@ -37,6 +37,35 @@ By Pearl Jam
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Ten** |  |
+| A1 | **Once** |  |
+| A2 | **Even Flow** |  |
+| A3 | **Alive** |  |
+| A4 | **Why Go** |  |
+| A5 | **Black** |  |
+| A6 | **Jeremy** |  |
+| B1 | **Oceans** |  |
+| B2 | **Porch** |  |
+| B3 | **Garden** |  |
+| B4 | **Deep** |  |
+| B5 | **Release** |  |
+|  | **Ten Redux** |  |
+| C1 | **Once** |  |
+| C2 | **Even Flow** |  |
+| C3 | **Alive** |  |
+| C4 | **Why Go** |  |
+| C5 | **Black** |  |
+| C6 | **Jeremy** |  |
+| D1 | **Oceans** |  |
+| D2 | **Porch** |  |
+| D3 | **Garden** |  |
+| D4 | **Deep** |  |
+| D5 | **Release** |  |
+
 ## See also
 
 - [](Pearl_Jam.md)

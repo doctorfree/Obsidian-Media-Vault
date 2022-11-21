@@ -41,6 +41,20 @@ By Mott The Hoople
 Limited edition numbered copy 0676 of 1000
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sweet Jane** |  |
+| A2 | **Momma's Little Jewel** |  |
+| A3 | **All The Young Dudes** |  |
+| A4 | **Sucker** |  |
+| A5 | **Jerkin' Crocus** |  |
+| B1 | **One Of The Boys** |  |
+| B2 | **Soft Ground** |  |
+| B3 | **Ready For Love/After Lights** |  |
+| B4 | **Sea Diver** |  |
+
 ## See also
 
 - [Mott](Mott.md)

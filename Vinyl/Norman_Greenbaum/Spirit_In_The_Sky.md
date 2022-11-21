@@ -37,6 +37,21 @@ By Norman Greenbaum
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Junior Cadillac** | 3:32 |
+| A2 | **Spirit In The Sky** | 3:57 |
+| A3 | **Skyline** | 3:10 |
+| A4 | **Jubilee** | 2:56 |
+| A5 | **Alice Bodine** | 3:37 |
+| B1 | **Tars Of India** | 3:00 |
+| B2 | **The Power** | 2:33 |
+| B3 | **Good Lookin' Woman** | 4:13 |
+| B4 | **Milk Cow** | 3:00 |
+| B5 | **Marcy** | 3:09 |
+
 ## See also
 
 - [](Norman_Greenbaum.md)

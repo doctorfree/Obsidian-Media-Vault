@@ -41,6 +41,24 @@ By Syd Barrett
 Couple of small stickers on front cover
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Terrapin** | 5:00 |
+| A2 | **No Good Trying** | 3:26 |
+| A3 | **Love You** | 2:25 |
+| A4 | **No Man's Land** | 3:50 |
+| A5 | **Dark Globe** | 2:10 |
+| A6 | **Here I Go** | 3:13 |
+| B1 | **Octopus** | 3:45 |
+| B2 | **Golden Hair** | 1:56 |
+| B3 | **Long Gone** | 2:47 |
+| B4 | **She Took A Long Cold Look** |  |
+| B5 | **Feel** |  |
+| B6 | **If It's In You** |  |
+| B7 | **Late Night** | 3:12 |
+
 ## See also
 
 - [](Syd_Barrett.md)

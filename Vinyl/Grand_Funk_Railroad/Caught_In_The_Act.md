@@ -37,6 +37,25 @@ By Grand Funk Railroad
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Introduction** | 2:47 |
+| A2 | **Foot Stompin' Music** | 4:02 |
+| A3 | **Rock & Roll Soul** | 3:59 |
+| A4 | **Closer To Home** | 7:14 |
+| B1 | **Heartbreaker** | 7:38 |
+| B2 | **Some Kind Of Wonderful** | 4:05 |
+| B3 | **Shinin' On** | 5:40 |
+| B4 | **The Loco-Motion** | 3:14 |
+| C1 | **Black Licorice** | 4:55 |
+| C2 | **The Railroad** | 6:15 |
+| C3 | **We're An American Band** | 3:45 |
+| C4 | **T.N.U.C.** | 9:13 |
+| D1 | **Inside Lookin' Out** | 12:11 |
+| D2 | **Gimme Shelter** | 6:15 |
+
 ## See also
 
 - [E Pluribus Funk](E_Pluribus_Funk.md)

@@ -37,6 +37,22 @@ By Lene Lovich
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Home** | 3:40 |
+| A2 | **Sleeping Beauty** | 3:00 |
+| A3 | **Lucky Number** | 2:47 |
+| A4 | **Too Tender (To Touch)** | 4:04 |
+| A5 | **Say When** | 2:49 |
+| B1 | **Writing On The Wall** | 3:08 |
+| B2 | **Telepathy** | 2:45 |
+| B3 | **Momentary Breakdown** | 3:18 |
+| B4 | **I Think We're Alone Now** | 2:45 |
+| B5 | **One In A 1,000,000** | 2:48 |
+| B6 | **Tonight** | 4:27 |
+
 ## See also
 
 - [](Lene_Lovich.md)

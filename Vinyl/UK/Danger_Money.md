@@ -37,6 +37,17 @@ By UK
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Danger Money** | 8:15 |
+| A2 | **Rendezvous 6.02** | 5:00 |
+| A3 | **The Only Thing She Needs** | 7:57 |
+| B1 | **Caesar's Palace Blues** | 4:45 |
+| B2 | **Nothing To Lose** | 3:58 |
+| B3 | **Carrying No Cross** | 12:22 |
+
 ## See also
 
 - [](UK.md)

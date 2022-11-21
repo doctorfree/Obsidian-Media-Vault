@@ -37,6 +37,21 @@ By Blue Öyster Cult
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **The Black** |  |
+| A1 | **The Red & The Black** | 4:20 |
+| A2 | **O.D.'d On Life Itself** | 4:50 |
+| A3 | **Hot Rails To Hell** | 5:12 |
+| A4 | **7 Screaming Diz-Busters** | 7:00 |
+|  | **The Red** |  |
+| B1 | **Baby Ice Dog** | 3:28 |
+| B2 | **Wings Wetted Down** | 4:12 |
+| B3 | **Teen Archer** | 3:57 |
+| B4 | **Mistress Of The Salmon Salt (Quicklime Girl)** | 5:07 |
+
 ## See also
 
 - [Agents Of Fortune](Agents_Of_Fortune.md)

@@ -37,6 +37,22 @@ By Dr. John
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Right Place Wrong Time** | 2:50 |
+| A2 | **Same Old Same Old** | 2:39 |
+| A3 | **Just The Same** | 2:49 |
+| A4 | **Qualified** | 4:46 |
+| A5 | **Traveling Mood** | 3:03 |
+| A6 | **Peace Brother Peace** | 2:47 |
+| B1 | **Life** | 2:29 |
+| B2 | **Such A Night** | 2:55 |
+| B3 | **Shoo Fly Marches On** | 3:15 |
+| B4 | **I Been Hoodood** | 3:12 |
+| B5 | **Cold Cold Cold** | 2:37 |
+
 ## See also
 
 - [](Dr_John.md)

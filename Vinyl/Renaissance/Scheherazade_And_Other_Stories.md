@@ -37,6 +37,15 @@ By Renaissance
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Trip To The Fair** | 10:48 |
+| A2 | **The Vultures Fly High** | 3:02 |
+| A3 | **Ocean Gypsy** | 7:04 |
+|  | **Song Of Scheherazade** | 24:39 |
+
 ## See also
 
 - [](Renaissance.md)

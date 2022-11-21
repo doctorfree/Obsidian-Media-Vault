@@ -37,6 +37,23 @@ By Tennessee Ernie Ford
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **John Henry** |  |
+| A2 | **Trouble In Mind** |  |
+| A3 | **Dark As A Dungeon** |  |
+| A4 | **False Hearted Girl** |  |
+| A5 | **Chicken Road** |  |
+| A6 | **Who Will Shoe Your Pretty Little Foot** |  |
+| B1 | **The Rovin Gambler** |  |
+| B2 | **In The Pines** |  |
+| B3 | **I Gave My Love A Cherry** |  |
+| B4 | **Nine Pound Hammer** |  |
+| B5 | **Gaily The Troubadour** |  |
+| B6 | **The Last Letter** |  |
+
 ## See also
 
 - [Country Hits...Feelin' Blue](Country_HitsFeelin_Blue.md)

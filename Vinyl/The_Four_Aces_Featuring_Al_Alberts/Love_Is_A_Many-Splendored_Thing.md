@@ -35,6 +35,13 @@ By The Four Aces Featuring Al Alberts
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Love Is A Many-Splendored Thing** | 2:56 |
+| B | **Shine On Harvest Moon** | 2:27 |
+
 ## See also
 
 - [](The_Four_Aces_Featuring_Al_Alberts.md)

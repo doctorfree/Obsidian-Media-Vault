@@ -37,6 +37,25 @@ By No Doubt
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Spiderwebs** | 4:28 |
+| A2 | **Excuse Me Mr** | 3:04 |
+| A3 | **Just A Girl** | 3:29 |
+| A4 | **Happy Now?** | 3:43 |
+| A5 | **Different People** | 4:34 |
+| A6 | **Hey You** | 3:34 |
+| A7 | **The Climb** | 6:37 |
+| B1 | **Sixteen** | 3:21 |
+| B2 | **Sunday Morning** | 4:33 |
+| B3 | **Don't Speak** | 4:23 |
+| B4 | **You Can Do It** | 4:13 |
+| B5 | **World Go 'Round** | 4:09 |
+| B6 | **End It On This** | 3:45 |
+| B7 | **Tragic Kingdom** | 5:31 |
+
 ## See also
 
 - [](No_Doubt.md)

@@ -35,6 +35,14 @@ By 20/20
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Strange Side Of Love** | 2:57 |
+| B1 | **Child's Play** | 2:09 |
+| B2 | **People In Your Life** | 3:28 |
+
 ## See also
 
 - [](20-20.md)

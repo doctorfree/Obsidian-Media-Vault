@@ -37,6 +37,21 @@ By Donovan
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sunshine Superman** | 3:05 |
+| A2 | **Legend Of A Girl Child Linda** | 6:36 |
+| A3 | **Three King Fishers** | 3:07 |
+| A4 | **Ferris Wheel** | 4:03 |
+| A5 | **Bert's Blues** | 3:46 |
+| B1 | **Season Of The Witch** | 4:46 |
+| B2 | **The Trip** | 4:26 |
+| B3 | **Guinevere** | 3:33 |
+| B4 | **The Fat Angel** | 4:01 |
+| B5 | **Celeste** | 4:00 |
+
 ## See also
 
 - [A Gift From A Flower To A Garden](A_Gift_From_A_Flower_To_A_Garden.md)

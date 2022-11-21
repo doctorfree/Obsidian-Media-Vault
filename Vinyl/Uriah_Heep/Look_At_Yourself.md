@@ -37,6 +37,18 @@ By Uriah Heep
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Look At Yourself** | 5:07 |
+| A2 | **I Wanna Be Free** | 3:59 |
+| A3 | **July Morning** | 10:36 |
+| B1 | **Tears In My Eyes** | 5:02 |
+| B2 | **Shadows Of Grief** | 8:40 |
+| B3 | **What Should Be Done** | 4:13 |
+| B4 | **Love Machine** | 3:37 |
+
 ## See also
 
 - [Demons And Wizards](Demons_And_Wizards.md)

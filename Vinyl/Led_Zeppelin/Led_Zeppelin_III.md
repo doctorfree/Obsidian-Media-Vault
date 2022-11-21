@@ -37,6 +37,32 @@ By Led Zeppelin
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **LP 1: Original Album** |  |
+| A1 | **Immigrant Song** | 2:26 |
+| A2 | **Friends** | 3:55 |
+| A3 | **Celebration Day** | 3:29 |
+| A4 | **Since I've Been Loving You** | 7:25 |
+| A5 | **Out On The Tiles** | 4:04 |
+| B1 | **Gallows Pole** | 4:58 |
+| B2 | **Tangerine** | 3:12 |
+| B3 | **That's The Way** | 5:38 |
+| B4 | **Bron-Y-Aur Stomp** | 4:20 |
+| B5 | **Hats Off To (Roy) Harper** | 3:41 |
+|  | **LP 2: Companion Audio** |  |
+| C1 | **The Immigrant Song (Alternate Mix)** | 2:25 |
+| C2 | **Friends (Track - No Vocal)** | 3:43 |
+| C3 | **Celebration Day (Alternate Mix)** | 3:18 |
+| C4 | **Since I've Been Loving You (Rough Mix Of First Recording)** | 7:16 |
+| C5 | **Bathroom Sound (Track - No Vocal)** | 4:00 |
+| D1 | **Gallows Pole (Rough Mix)** | 5:17 |
+| D2 | **That's The Way (Rough Mix With Dulcimer & Backwards Echo)** | 5:22 |
+| D3 | **Jennings Farm Blues (Rough Mix Of All Guitar Overdubs That Day)** | 5:54 |
+| D4 | **Key To The Highway / Trouble In Mind (Rough Mix)** | 4:05 |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

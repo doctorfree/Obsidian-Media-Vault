@@ -37,6 +37,31 @@ By Paul McCartney
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Lovely Linda** | 0:42 |
+| A2 | **That Would Be Something** | 2:38 |
+| A3 | **Valentine Day** | 1:40 |
+| A4 | **Every Night** | 2:33 |
+| A5 | **Hot As Sun/Glasses** | 2:06 |
+| A6 | **Junk** | 1:54 |
+| A7 | **Man We Was Lonely** | 2:57 |
+| B1 | **Oo You** | 2:49 |
+| B2 | **Momma Miss America** | 4:05 |
+| B3 | **Teddy Boy** | 2:23 |
+| B4 | **Singalong Junk** | 2:35 |
+| B5 | **Maybe I'm Amazed** | 3:48 |
+| B6 | **Kreen-Akrore** | 4:10 |
+| C1 | **Suicide (Out-Take)** | 2:46 |
+| C2 | **Maybe I'm Amazed (From One Hand Clapping)** | 4:51 |
+| C3 | **Every Night (Live At Glasgow, 1979)** | 4:30 |
+| D1 | **Hot As Sun (Live At Glasgow, 1979)** | 2:26 |
+| D2 | **Maybe I'm Amazed (Live At Glasgow, 1979)** | 5:10 |
+| D3 | **Don't Cry Baby (Out-Take)** | 3:06 |
+| D4 | **Women Kind (Demo) (Mono)** | 2:05 |
+
 ## See also
 
 - [Press To Play](Press_To_Play.md)

@@ -37,6 +37,22 @@ By Paul Revere & The Raiders
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Good Thing** |  |
+| A2 | **All About Her** |  |
+| A3 | **In My Community** |  |
+| A4 | **Louise** |  |
+| A5 | **Why, Why Why? (Is It So Hard)** |  |
+| A6 | **Oh! To Be A Man** |  |
+| B1 | **Hungry** |  |
+| B2 | **Undecided Man** |  |
+| B3 | **Our Candidate** |  |
+| B4 | **1001 Arabian Nights** |  |
+| B5 | **The Great Airplane Strike** |  |
+
 ## See also
 
 - [Just Like Us!](Just_Like_Us!.md)

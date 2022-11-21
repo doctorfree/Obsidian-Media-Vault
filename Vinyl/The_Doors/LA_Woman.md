@@ -37,6 +37,21 @@ By The Doors
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Changeling** | 4:20 |
+| A2 | **Love Her Madly** | 3:18 |
+| A3 | **Been Down So Long** | 4:40 |
+| A4 | **Cars Hiss By My Window** | 4:10 |
+| A5 | **L.A. Woman** | 7:49 |
+| B1 | **L'America** | 4:35 |
+| B2 | **Hyacinth House** | 3:10 |
+| B3 | **Crawling King Snake** | 4:57 |
+| B4 | **The WASP (Texas Radio And The Big Beat)** | 4:12 |
+| B5 | **Riders On The Storm** | 7:14 |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

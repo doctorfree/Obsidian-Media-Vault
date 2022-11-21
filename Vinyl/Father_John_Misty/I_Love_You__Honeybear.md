@@ -37,6 +37,22 @@ By Father John Misty
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Love You, Honeybear** |  |
+| A2 | **Chateau Lobby #4 (In C For Two Virgins)** |  |
+| A3 | **True Affection** |  |
+| B1 | **The Night Josh Tillman Came To Our Apt.** |  |
+| B2 | **When You're Smiling And Astride Me** |  |
+| B3 | **Nothing Good Ever Happens At The Goddamn Thirsty Crow** |  |
+| C1 | **Strange Encounter** |  |
+| C2 | **The Ideal Husband** |  |
+| C3 | **Bored In The USA** |  |
+| D1 | **Holy Shit** |  |
+| D2 | **I Went To The Store One Day** |  |
+
 ## See also
 
 - [Fear Fun](Fear_Fun.md)

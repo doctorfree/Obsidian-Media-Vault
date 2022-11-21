@@ -41,6 +41,14 @@ By Elvis Costello & The Attractions
 This is the 7" EP included with the Armed Forces release of the LP - it includes the cover with artwork as displayed in that release.
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Accidents Will Happen** | 3:20 |
+| A2 | **Alison** | 3:04 |
+| B | **Watching The Detectives** | 6:06 |
+
 ## See also
 
 - [Trust](Trust.md)

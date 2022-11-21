@@ -37,6 +37,42 @@ By The Kinks
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Here Comes Yet Another Day** | 3:57 |
+| A2 | **Maximum Consumption** | 4:02 |
+| A3 | **Unreal Reality** | 3:32 |
+| A4 | **Hot Potatoes** | 3:31 |
+| A5 | **Sitting In My Hotel** | 3:24 |
+| B1 | **Motorway** | 3:29 |
+| B2 | **You Don't Know My Name** | 2:35 |
+| B3 | **Supersonic Rocket Ship** | 3:30 |
+| B4 | **Look A Little On The Sunny Side** | 2:48 |
+| B5 | **Celluloid Heroes** | 6:20 |
+| C1 | **Top Of The Pops** | 4:30 |
+| C2 | **Brainwashed** | 2:59 |
+| C3 | **Mr. Wonderful** | 0:43 |
+| C4 | **Acute Schizophrenia Paranoia Blues** | 3:56 |
+| C5 | **Holiday** | 3:51 |
+| D1 | **Muswell Hillbilly** | 3:09 |
+| D2 | **Alcohol** | 5:20 |
+| D3 | **Banana Boat Song** | 1:40 |
+| D4 | **Skin & Bone** | 3:59 |
+| D5 | **Baby Face** | 1:55 |
+| D6 | **Lola** | 1:40 |
+|  | **Bonus Tracks** |  |
+| E1 | **'Til The End Of The Day (Live)** | 2:16 |
+| E2 | **You're Looking Fine (Live)** | 4:38 |
+| E3 | **Get Back In Line (Live)** | 3:13 |
+| E4 | **Have A Cuppa Tea (Live)** | 2:58 |
+| E5 | **Sunny Afternoon (Live)** | 2:38 |
+| F1 | **Complicated Life (Live)** | 3:22 |
+| F2 | **Long Tall Shorty (Live)** | 5:20 |
+| F3 | **History (Studio Outtake)** | 5:20 |
+| F4 | **Supersonic Rocket Ship (Alternate Mix)** | 4:06 |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

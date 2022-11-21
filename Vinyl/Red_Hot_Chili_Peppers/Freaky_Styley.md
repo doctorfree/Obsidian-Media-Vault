@@ -37,6 +37,25 @@ By Red Hot Chili Peppers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Jungle Man** | 4:04 |
+| A2 | **Hollywood (Africa)** | 4:58 |
+| A3 | **American Ghost Dance** | 3:40 |
+| A4 | **If You Want Me To Stay** | 4:06 |
+| A5 | **Nevermind** | 2:43 |
+| B1 | **Freaky Styley** | 3:33 |
+| B2 | **Blackeyed Blonde** | 3:24 |
+| B3 | **The Brothers Cup** | 3:24 |
+| B4 | **Battle Ship** | 1:52 |
+| B5 | **Lovin' And Touchin'** | 0:35 |
+| B6 | **Catholic School Girls Rule** | 1:55 |
+| B7 | **Sex Rap** | 1:54 |
+| B8 | **Thirty Dirty Birds** | 0:13 |
+| B9 | **Yertle The Turtle** | 3:36 |
+
 ## See also
 
 - [Mother's Milk](Mothers_Milk.md)

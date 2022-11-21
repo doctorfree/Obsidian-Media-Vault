@@ -37,6 +37,13 @@ By Nat King Cole
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Christmas Song (Merry Christmas To You)** | 3:12 |
+| B | **The Little Boy That Santa Claus Forgot** | 2:31 |
+
 ## See also
 
 - [Make Her Mine](Make_Her_Mine.md)

@@ -37,6 +37,22 @@ By The Turtles
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Makin' My Mind Up** | 2:20 |
+| A2 | **Guide For The Married Man** | 2:59 |
+| A3 | **Think I'll Run Away** | 2:15 |
+| A4 | **The Walking Song** | 2:15 |
+| A5 | **Me About You** | 2:27 |
+| A6 | **Happy Together** | 2:50 |
+| B1 | **She'd Rather Be With Me** | 2:17 |
+| B2 | **Too Young To Be One** | 2:05 |
+| B3 | **Person Without A Care** | 2:43 |
+| B4 | **Like The Seasons** | 1:48 |
+| B5 | **Rugs Of Woods & Flowers** | 3:00 |
+
 ## See also
 
 - [Turtle Soup](Turtle_Soup.md)

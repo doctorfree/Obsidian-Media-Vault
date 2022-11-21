@@ -37,6 +37,13 @@ By Kitty Kallen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Little Things Mean A Lot** | 2:57 |
+| B | **I Don't Think You Love Me Anymore** | 2:20 |
+
 ## See also
 
 - [](Kitty_Kallen.md)

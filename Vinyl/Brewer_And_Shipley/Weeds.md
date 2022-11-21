@@ -37,6 +37,21 @@ By Brewer And Shipley
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Lady Like You** | 3:12 |
+| A2 | **Rise Up (Easy Rider)** | 3:15 |
+| A3 | **Boomerang** | 3:18 |
+| A4 | **Indian Summer** | 2:59 |
+| A5 | **All Along The Watchtower** | 3:18 |
+| B1 | **People Love Each Other** | 2:55 |
+| B2 | **Pig's Head** | 2:10 |
+| B3 | **Oh, Sweet Lady** | 2:00 |
+| B4 | **Too Soon Tomorrow** | 2:53 |
+| B5 | **Witchi-tai-to** | 6:57 |
+
 ## See also
 
 - [People Love Each Other](People_Love_Each_Other.md)

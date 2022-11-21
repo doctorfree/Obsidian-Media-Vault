@@ -37,6 +37,19 @@ By Led Zeppelin
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Song Remains The Same** | 5:29 |
+| A2 | **The Rain Song** | 7:39 |
+| A3 | **Over The Hills And Far Away** | 4:50 |
+| A4 | **The Crunge** | 3:17 |
+| B1 | **Dancing Days** | 3:43 |
+| B2 | **D'yer Mak'er** | 4:22 |
+| B3 | **No Quarter** | 7:02 |
+| B4 | **The Ocean** | 4:31 |
+
 ## See also
 
 - [Led Zeppelin III](Led_Zeppelin_III.md)

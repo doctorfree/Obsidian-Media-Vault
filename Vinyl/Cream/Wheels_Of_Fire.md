@@ -37,6 +37,26 @@ By Cream
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **In The Studio** |  |
+| A1 | **White Room** | 4:56 |
+| A2 | **Sitting On Top Of The World** | 4:56 |
+| A3 | **Passing The Time** | 4:31 |
+| A4 | **As You Said** | 4:19 |
+| B1 | **Pressed Rat And Warthog** | 3:13 |
+| B2 | **Politician** | 4:11 |
+| B3 | **Those Were The Days** | 2:52 |
+| B4 | **Born Under A Bad Sign** | 3:08 |
+| B5 | **Deserted Cities Of The Heart** | 4:36 |
+|  | **Live At The Fillmore** |  |
+| C1 | **Crossroads** | 4:13 |
+| C2 | **Spoonful** | 16:44 |
+| D1 | **Traintime** | 6:52 |
+| D2 | **Toad** | 15:53 |
+
 ## See also
 
 - [Disraeli Gears](Disraeli_Gears.md)

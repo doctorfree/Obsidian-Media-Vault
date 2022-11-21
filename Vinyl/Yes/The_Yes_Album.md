@@ -37,6 +37,22 @@ By Yes
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Yours Is No Disgrace** | 9:36 |
+| A2 | **The Clap** | 3:07 |
+| A3 | **Starship Trooper** | 9:23 |
+| A3.1 | **Life Seeker** |  |
+| A3.2 | **Disillusion** |  |
+| A3.3 | **Würm** |  |
+| B1 | **I've Seen All Good People** | 6:47 |
+| B1.1 | **Your Move** |  |
+| B1.2 | **All Good People** |  |
+| B2 | **A Venture** | 3:13 |
+| B3 | **Perpetual Change** | 8:50 |
+
 ## See also
 
 - [Close To The Edge](Close_To_The_Edge.md)

@@ -37,6 +37,13 @@ By Michael Jackson / Paul McCartney
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Girl Is Mine** | 3:41 |
+| B | **Can't Get Outta The Rain** | 4:02 |
+
 ## See also
 
 - [](Michael_Jackson_-_Paul_McCartney.md)

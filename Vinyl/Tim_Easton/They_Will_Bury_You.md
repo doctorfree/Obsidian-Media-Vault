@@ -37,6 +37,15 @@ By Tim Easton
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **They Will Bury You** |  |
+| A2 | **Lexington Jail** |  |
+| B1 | **Kettle** |  |
+| B2 | **Goin' On A Drunk** |  |
+
 ## See also
 
 - [](Tim_Easton.md)

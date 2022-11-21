@@ -37,6 +37,13 @@ By Louis Armstrong / Wayne Fontana & The Mindbenders
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **What A Wonderful World** | 2:17 |
+| B | **Game Of Love** | 2:06 |
+
 ## See also
 
 - [](Louis_Armstrong_-_Wayne_Fontana_and_The_Mindbenders.md)

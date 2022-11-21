@@ -37,6 +37,19 @@ By Uriah Heep
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sunrise** | 4:04 |
+| A2 | **Spider Woman** | 2:25 |
+| A3 | **Blind Eye** | 3:33 |
+| A4 | **Echoes In The Dark** | 4:48 |
+| A5 | **Rain** | 3:59 |
+| B1 | **Sweet Lorraine** | 4:13 |
+| B2 | **Tales** | 4:09 |
+| B3 | **The Magician's Birthday** | 10:23 |
+
 ## See also
 
 - [Demons And Wizards](Demons_And_Wizards.md)

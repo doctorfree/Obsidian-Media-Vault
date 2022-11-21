@@ -37,6 +37,13 @@ By Warrant
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Cherry Pie** | 3:20 |
+| B | **Thin Disguise** | 3:14 |
+
 ## See also
 
 - [](Warrant.md)

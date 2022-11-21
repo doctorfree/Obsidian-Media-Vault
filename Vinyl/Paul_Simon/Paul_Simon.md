@@ -37,6 +37,22 @@ By Paul Simon
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mother And Child Reunion** | 3:05 |
+| A2 | **Duncan** | 4:39 |
+| A3 | **Everything Put Together Falls Apart** | 1:59 |
+| A4 | **Run That Body Down** | 3:52 |
+| A5 | **Armistice Day** | 3:55 |
+| B1 | **Me And Julio Down By The Schoolyard** | 2:42 |
+| B2 | **Peace Like A River** | 3:20 |
+| B3 | **Papa Hobo** | 2:34 |
+| B4 | **Hobo's Blues** | 1:21 |
+| B5 | **Paranoia Blues** | 2:54 |
+| B6 | **Congratulations** | 3:42 |
+
 ## See also
 
 - [There Goes Rhymin' Simon](There_Goes_Rhymin_Simon.md)

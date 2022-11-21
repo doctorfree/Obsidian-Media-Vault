@@ -37,6 +37,20 @@ By David Crosby
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Music Is Love** | 3:16 |
+| A2 | **Cowboy Movie** | 8:02 |
+| A3 | **Tamalpais High (At About 3)** | 3:28 |
+| A4 | **Laughing** | 5:20 |
+| B1 | **What Are Their Names** | 4:09 |
+| B2 | **Traction In The Rain** | 3:40 |
+| B3 | **Song With No Words (Tree With No Leaves)** | 5:53 |
+| B4 | **Orleans** | 1:56 |
+| B5 | **I'd Swear There Was Somebody Here** | 1:19 |
+
 ## See also
 
 - [](David_Crosby.md)

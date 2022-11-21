@@ -37,6 +37,19 @@ By Heart
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Cook With Fire** | 4:57 |
+| A2 | **High Time** | 3:21 |
+| A3 | **Hijinx** | 3:31 |
+| A4 | **Straight On** | 5:08 |
+| B1 | **Dog And Butterfly** | 5:20 |
+| B2 | **Lighter Touch** | 5:03 |
+| B3 | **Nada One** | 5:21 |
+| B4 | **Mistral Wind** | 6:43 |
+
 ## See also
 
 - [Dreamboat Annie](Dreamboat_Annie.md)

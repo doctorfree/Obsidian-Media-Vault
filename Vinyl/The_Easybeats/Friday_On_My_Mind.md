@@ -37,6 +37,13 @@ By The Easybeats
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Friday On My Mind** | 2:47 |
+| B | **Made My Bed: Gonna Lie In It** | 2:20 |
+
 ## See also
 
 - [](The_Easybeats.md)

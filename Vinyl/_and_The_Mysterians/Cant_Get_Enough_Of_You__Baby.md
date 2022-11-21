@@ -37,6 +37,13 @@ By ? & The Mysterians
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Can't Get Enough Of You, Baby** | 2:01 |
+| B | **Smokes** | 1:56 |
+
 ## See also
 
 - [96 Tears](96_Tears.md)

@@ -37,6 +37,19 @@ By Tom Tom Club
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Wordy Rappinghood** | 6:27 |
+| A2 | **Genius Of Love** | 5:34 |
+| A3 | **Tom Tom Theme** | 1:25 |
+| A4 | **L'Éléphant** | 4:50 |
+| B1 | **As Above, So Below** | 5:23 |
+| B2 | **Lorelei** | 5:05 |
+| B3 | **On, On, On, On...** | 3:33 |
+| B4 | **Booming And Zooming** | 4:32 |
+
 ## See also
 
 - [](Tom_Tom_Club_index.md)

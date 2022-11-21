@@ -37,6 +37,21 @@ By Phil Collins
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sussudio** | 4:23 |
+| A2 | **Only You Know And I Know** | 4:20 |
+| A3 | **Long Long Way To Go** | 4:20 |
+| A4 | **I Don't Wanna Know** | 4:12 |
+| A5 | **One More Night** | 4:47 |
+| B1 | **Don't Lose My Number** | 4:46 |
+| B2 | **Who Said I Would** | 4:01 |
+| B3 | **Doesn't Anybody Stay Together Anymore** | 4:18 |
+| B4 | **Inside Out** | 5:14 |
+| B5 | **Take Me Home** | 5:51 |
+
 ## See also
 
 - [](Phil_Collins.md)

@@ -37,6 +37,20 @@ By Tommy Bolin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Grind** | 3:26 |
+| A2 | **Homeward Strut** | 3:55 |
+| A3 | **Dreamer** | 5:08 |
+| A4 | **Savannah Woman** | 2:45 |
+| A5 | **Teaser** | 4:27 |
+| B1 | **People, People** | 4:55 |
+| B2 | **Marching Powder** | 4:14 |
+| B3 | **Wild Dogs** | 4:10 |
+| B4 | **Lotus** | 3:56 |
+
 ## See also
 
 - [](Tommy_Bolin.md)

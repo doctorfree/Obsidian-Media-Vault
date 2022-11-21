@@ -37,6 +37,15 @@ By The Ghost Of A Saber Tooth Tiger
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Casanova** |  |
+| A2 | **India** |  |
+| B1 | **Pierrot** |  |
+| B2 | **Richard Brown** |  |
+
 ## See also
 
 - [Midnight Sun](Midnight_Sun.md)

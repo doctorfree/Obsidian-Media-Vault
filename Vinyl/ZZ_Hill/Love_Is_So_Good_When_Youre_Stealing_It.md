@@ -37,6 +37,13 @@ By Z.Z. Hill
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Love Is So Good When You're Stealing It** | 3:22 |
+| B | **Need You By My Side** | 3:59 |
+
 ## See also
 
 - [](ZZ_Hill.md)

@@ -37,6 +37,17 @@ By Traffic
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Glad** | 6:32 |
+| A2 | **Freedom Rider** | 6:20 |
+| A3 | **Empty Pages** | 4:47 |
+| B1 | **Stranger To Himself** | 4:02 |
+| B2 | **John Barleycorn** | 6:20 |
+| B3 | **Every Mother's Son** | 7:05 |
+
 ## See also
 
 - [](Traffic.md)

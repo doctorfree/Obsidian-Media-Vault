@@ -37,6 +37,13 @@ By Sam The Sham & The Pharaohs
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Wooly Bully** | 2:20 |
+| B | **Ain't Gonna Move** | 2:05 |
+
 ## See also
 
 - [](Sam_The_Sham_and_The_Pharaohs.md)

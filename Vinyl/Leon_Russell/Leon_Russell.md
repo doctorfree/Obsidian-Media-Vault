@@ -41,6 +41,22 @@ By Leon Russell
 Number 1189 in numbered edition
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **A Song For You** | 4:00 |
+| A2 | **Dixie Lullaby** | 2:30 |
+| A3 | **I Put A Spell On You** | 4:10 |
+| A4 | **Shoot Out On The Plantation** | 3:10 |
+| A5 | **Hummingbird** | 3:57 |
+| B1 | **Delta Lady** | 4:00 |
+| B2 | **Prince Of Peace** | 3:05 |
+| B3 | **Give Peace A Chance** | 2:15 |
+| B4 | **Hurtsome Body** | 3:35 |
+| B5 | **Pisces Apple Lady** | 2:50 |
+| B6 | **Roll Away The Stone** | 3:06 |
+
 ## See also
 
 - [Carney](Carney.md)

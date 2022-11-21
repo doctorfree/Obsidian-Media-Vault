@@ -41,6 +41,25 @@ By The Lemon Drops
 Limited edition vinyl pressing of 600 copies
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Live In The Springtime** |  |
+| A2 | **It Happens Everyday** |  |
+| A3 | **Sometime Ago** |  |
+| A4 | **The Theater Of Your Eyes** |  |
+| A5 | **Popsicle Girl** |  |
+| A6 | **Paper Plane Flyer** |  |
+| A7 | **Love Is A Word** |  |
+| B1 | **Sometime Ago** |  |
+| B2 | **Flower Child Eyes And Arms** |  |
+| B3 | **Hi How Are You Today?** |  |
+| B4 | **Flower Pure** |  |
+| B5 | **Flowers On The Hillside** |  |
+| B6 | **Dream** |  |
+| B7 | **The Theater Of Your Eyes** |  |
+
 ## See also
 
 - [](The_Lemon_Drops.md)

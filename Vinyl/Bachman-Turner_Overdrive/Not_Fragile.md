@@ -37,6 +37,20 @@ By Bachman-Turner Overdrive
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Not Fragile** | 4:05 |
+| A2 | **Rock Is My Life, And This Is My Song** | 5:00 |
+| A3 | **Roll On Down The Highway** | 3:56 |
+| A4 | **You Ain't Seen Nothing Yet** | 3:54 |
+| A5 | **Free Wheelin'** | 3:44 |
+| B1 | **Sledgehammer** | 4:30 |
+| B2 | **Blue Moanin'** | 3:42 |
+| B3 | **Second Hand** | 3:30 |
+| B4 | **Givin' It All Away** | 3:46 |
+
 ## See also
 
 - [Bachman-Turner Overdrive II](Bachman-Turner_Overdrive_II.md)

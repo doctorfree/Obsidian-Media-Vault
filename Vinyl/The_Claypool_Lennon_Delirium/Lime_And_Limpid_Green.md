@@ -37,6 +37,15 @@ By The Claypool Lennon Delirium
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Astronomy Domine** |  |
+| A2 | **Boris The Spider** |  |
+| B1 | **The Court Of The Crimson King** |  |
+| B2 | **Satori** |  |
+
 ## See also
 
 - [](The_Claypool_Lennon_Delirium.md)

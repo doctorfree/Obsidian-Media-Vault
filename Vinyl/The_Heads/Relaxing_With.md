@@ -37,6 +37,21 @@ By The Heads
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Quad** |  |
+| A2 | **Don't Know Yet** |  |
+| A3 | **Chipped** |  |
+| A4 | **Slow Down** |  |
+| A5 | **U 33** |  |
+| B1 | **Television** |  |
+| B2 | **Woke Up** |  |
+| B3 | **Widowmaker** |  |
+| B4 | **Taken Too Much** |  |
+| B5 | **Coogan's Bluff** |  |
+
 ## See also
 
 - [](The_Heads.md)

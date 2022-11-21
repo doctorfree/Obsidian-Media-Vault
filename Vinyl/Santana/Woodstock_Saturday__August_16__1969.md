@@ -37,6 +37,19 @@ By Santana
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Waiting** | 4:49 |
+| A2 | **Evil Ways** | 4:00 |
+| A3 | **You Just Don't Care** | 4:46 |
+| A4 | **Savor** | 5:23 |
+| A5 | **Jingo** | 5:31 |
+| B1 | **Persuasion** | 2:52 |
+| B2 | **Soul Sacrifice** | 11:35 |
+| B3 | **Fried Neck Bones And Some Home Fries** | 6:41 |
+
 ## See also
 
 - [Abraxas](Abraxas.md)

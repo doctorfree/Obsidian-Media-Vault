@@ -37,6 +37,25 @@ By Muse
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Intro** | 0:22 |
+| A2 | **Apocalypse Please** | 4:12 |
+| A3 | **Time Is Running Out** | 3:56 |
+| A4 | **Sing For Absolution** | 4:54 |
+| B1 | **Stockholm Syndrome** | 4:58 |
+| B2 | **Falling Away With You** | 4:40 |
+| B3 | **Interlude** | 0:37 |
+| B4 | **Hysteria** | 3:47 |
+| C1 | **Blackout** | 4:22 |
+| C2 | **Butterflies & Hurricanes** | 5:01 |
+| C3 | **The Small Print** | 3:29 |
+| D1 | **Endlessly** | 3:48 |
+| D2 | **Thoughts Of A Dying Atheist** | 3:11 |
+| D3 | **Ruled By Secrecy** | 4:52 |
+
 ## See also
 
 - [Black Holes And Revelations](Black_Holes_And_Revelations.md)

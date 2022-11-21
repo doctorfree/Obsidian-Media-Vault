@@ -37,6 +37,24 @@ By Muse
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Supremacy** |  |
+| A2 | **Madness** |  |
+| A3 | **Panic Station** |  |
+| B1 | **Prelude** |  |
+| B2 | **Survival** |  |
+| B3 | **Follow Me** |  |
+| B4 | **Animals** |  |
+| C1 | **Explorers** |  |
+| C2 | **Big Freeze** |  |
+| C3 | **Save Me** |  |
+| D1 | **Liquid State** |  |
+| D2 | **The 2nd Law: Unsustainable** |  |
+| D3 | **The 2nd Law: Isolated System** |  |
+
 ## See also
 
 - [Absolution](Absolution.md)

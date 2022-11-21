@@ -37,6 +37,17 @@ By Anthony Braxton
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Cut One** | 5:10 |
+| A2 | **Cut Two** | 7:36 |
+| A3 | **Cut Three** | 6:43 |
+| B1 | **Cut One** | 6:26 |
+| B2 | **Cut Two** | 7:19 |
+| B3 | **Cut Three** | 6:40 |
+
 ## See also
 
 - [](Anthony_Braxton.md)

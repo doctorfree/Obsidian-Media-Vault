@@ -37,6 +37,13 @@ By Julie Rogers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Wedding** | 2:28 |
+| B | **Without Your Love** | 2:37 |
+
 ## See also
 
 - [](Julie_Rogers.md)

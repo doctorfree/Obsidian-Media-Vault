@@ -37,6 +37,13 @@ By Olivia Newton-John
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Make A Move On Me** | 3:17 |
+| B | **Falling** | 3:44 |
+
 ## See also
 
 - [Physical](Physical.md)

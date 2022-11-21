@@ -37,6 +37,13 @@ By Reba McEntire
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Just A Little Love** | 4:01 |
+| B | **If Your Heart's Not In It (What's In It For Me)** | 2:23 |
+
 ## See also
 
 - [](Reba_McEntire.md)

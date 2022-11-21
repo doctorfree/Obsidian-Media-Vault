@@ -37,6 +37,13 @@ By Al Stewart
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Year Of The Cat** | 4:32 |
+| B | **Broadway Hotel** | 3:55 |
+
 ## See also
 
 - [](Al_Stewart.md)

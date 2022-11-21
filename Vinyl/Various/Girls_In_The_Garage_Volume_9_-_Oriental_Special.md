@@ -37,6 +37,25 @@ By Various
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Kung See, Kung See, Let's Be Happy** |  |
+| A2 | **Hanky Panky** |  |
+| A3 | **Run For Your Life** |  |
+| A4 | **Sugar Town** |  |
+| A5 | **Love Potion #9** |  |
+| A6 | **Yummy, Yummy, Yummy** |  |
+| A7 | **If You Ever Go** |  |
+| B1 | **As Tears Go By** |  |
+| B2 | **I'd Like To Know** |  |
+| B3 | **How To Catch A Girl** |  |
+| B4 | **Hanky Panky** |  |
+| B5 | **My Boy Lollipop** |  |
+| B6 | **Come Back When You Grow Up** |  |
+| B7 | **Fever** |  |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

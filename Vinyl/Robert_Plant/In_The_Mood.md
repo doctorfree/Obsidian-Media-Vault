@@ -37,6 +37,13 @@ By Robert Plant
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **In The Mood** | 5:19 |
+| B | **Horizontal Departure** | 4:19 |
+
 ## See also
 
 - [](Robert_Plant.md)

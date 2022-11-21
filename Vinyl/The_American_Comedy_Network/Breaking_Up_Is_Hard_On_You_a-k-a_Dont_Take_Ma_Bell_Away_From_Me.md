@@ -35,6 +35,15 @@ By The American Comedy Network
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Breaking Up Is Hard On You (a/k/a Don't Take Ma Bell Away From Me)** | 2:26 |
+| B1 | **Krapco's Mr. Cardboard Tube** | 1:02 |
+| B2 | **Krapco Home Psychiatrist** | 1:02 |
+| B3 | **Krapco Gene Splicer** | 1:06 |
+
 ## See also
 
 - [](The_American_Comedy_Network.md)

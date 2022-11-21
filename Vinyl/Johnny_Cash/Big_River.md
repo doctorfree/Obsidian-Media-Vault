@@ -37,6 +37,13 @@ By Johnny Cash
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Big River** | 2:28 |
+| B | **Big River** | 2:28 |
+
 ## See also
 
 - [](Johnny_Cash.md)

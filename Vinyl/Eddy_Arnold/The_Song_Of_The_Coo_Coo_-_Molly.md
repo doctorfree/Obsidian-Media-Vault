@@ -41,6 +41,13 @@ By Eddy Arnold
 This copy is the U.S. Version
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Song Of The Coo Coo** | 2:54 |
+| B | **Molly** | 2:54 |
+
 ## See also
 
 - [](Eddy_Arnold.md)

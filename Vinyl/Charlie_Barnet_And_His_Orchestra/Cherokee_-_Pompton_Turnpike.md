@@ -37,6 +37,13 @@ By Charlie Barnet And His Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Cherokee** | 3:21 |
+| B | **Pompton Turnpike** | 3:00 |
+
 ## See also
 
 - [](Charlie_Barnet_And_His_Orchestra.md)

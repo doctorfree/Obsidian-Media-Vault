@@ -37,6 +37,22 @@ By Portugal. The Man
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **So American** |  |
+| A2 | **Floating (Time Isn’t Working My Side)** |  |
+| A3 | **Got It All (This Can’t Be Living Now)** |  |
+| A4 | **Senseless** |  |
+| A5 | **Head Is A Flame (Cool With It)** |  |
+| B6 | **You Carried Us (Share With Me The Sun)** |  |
+| B7 | **Everything You See (Kids Count Hallelujahs)** |  |
+| B8 | **All Your Light (Times Like These)** |  |
+| B9 | **Once Was One** |  |
+| B10 | **Share With Me The Sun** |  |
+| B11 | **Sleep Forever** |  |
+
 ## See also
 
 - [](Portugal_The_Man.md)

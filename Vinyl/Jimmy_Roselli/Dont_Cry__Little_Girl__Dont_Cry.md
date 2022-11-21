@@ -37,6 +37,13 @@ By Jimmy Roselli
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Don't Cry, Little Girl, Don't Cry** | 2:12 |
+| B | **Just Say I Love Her** | 2:35 |
+
 ## See also
 
 - [](Jimmy_Roselli.md)

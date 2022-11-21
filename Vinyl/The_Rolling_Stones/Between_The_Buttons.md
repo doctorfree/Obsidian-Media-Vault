@@ -37,6 +37,23 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Let's Spend The Night Together** | 3:29 |
+| A2 | **Yesterdays' Papers** | 2:20 |
+| A3 | **Ruby Tuesday** | 3:12 |
+| A4 | **Connection** | 2:13 |
+| A5 | **She Smiled Sweetly** | 2:42 |
+| A6 | **Cool, Calm & Collected** | 4:15 |
+| B1 | **All Sold Out** | 2:15 |
+| B2 | **My Obsession** | 3:20 |
+| B3 | **Who's Been Sleeping Here?** | 3:51 |
+| B4 | **Complicated** | 3:18 |
+| B5 | **Miss Amanda Jones** | 2:48 |
+| B6 | **Something Happened To Me Yesterday** | 4:58 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

@@ -37,6 +37,13 @@ By No Artist
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **America's First Man In Orbit (Side 1)** |  |
+| B | **America's First Man In Orbit (Side 2)** |  |
+
 ## See also
 
 - [Bird Songs In Your Garden](Bird_Songs_In_Your_Garden.md)

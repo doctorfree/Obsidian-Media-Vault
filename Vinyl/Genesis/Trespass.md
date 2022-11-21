@@ -37,6 +37,17 @@ By Genesis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Looking For Someone** | 7:00 |
+| A2 | **White Mountain** | 7:00 |
+| A3 | **Visions Of Angels** | 7:00 |
+| B1 | **Stagnation** | 8:45 |
+| B2 | **Dusk** | 4:15 |
+| B3 | **The Knife** | 8:55 |
+
 ## See also
 
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)

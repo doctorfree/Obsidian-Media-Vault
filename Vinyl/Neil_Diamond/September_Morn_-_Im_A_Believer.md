@@ -37,6 +37,13 @@ By Neil Diamond
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **September Morn** | 3:40 |
+| B | **I'm A Believer** | 2:21 |
+
 ## See also
 
 - [](Neil_Diamond.md)

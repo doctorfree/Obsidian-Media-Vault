@@ -37,6 +37,20 @@ By Dave Mason
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Show Me Some Affection** | 4:18 |
+| A2 | **Get Ahold On Love** | 2:45 |
+| A3 | **Every Woman** | 3:01 |
+| A4 | **It Can't Make Any Difference To Me** | 2:17 |
+| A5 | **All Along The Watchtower** | 4:03 |
+| B1 | **Bring It On Home To Me** | 2:55 |
+| B2 | **Harmony & Melody** | 3:35 |
+| B3 | **Relation Ships** | 5:02 |
+| B4 | **You Can't Take It When You Go** | 4:08 |
+
 ## See also
 
 - [](Dave_Mason_index.md)

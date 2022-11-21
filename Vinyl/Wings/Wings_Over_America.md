@@ -37,6 +37,39 @@ By Wings
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Venus And Mars / Rock Show / Jet** |  |
+| A2 | **Let Me Roll It** |  |
+| A3 | **Spirit Of Ancient Egypt** |  |
+| A4 | **Medicine Jar** |  |
+| B1 | **Maybe I'm Amazed** |  |
+| B2 | **Call Me Back Again** |  |
+| B3 | **Lady Madonna** |  |
+| B4 | **The Long And Winding Road** |  |
+| B5 | **Live And Let Die** |  |
+| C1 | **Picasso's Last Words** |  |
+| C2 | **Richard Cory** |  |
+| C3 | **Bluebird** |  |
+| C4 | **I've Just Seen A Face** |  |
+| C5 | **Blackbird** |  |
+| C6 | **Yesterday** |  |
+| D1 | **You Gave Me The Answer** |  |
+| D2 | **Magneto And Titanium Man** |  |
+| D3 | **Go Now** |  |
+| D4 | **My Love** |  |
+| D5 | **Listen To What The Man Said** |  |
+| E1 | **Let 'Em In** |  |
+| E2 | **Time To Hide** |  |
+| E3 | **Silly Love Songs** |  |
+| E4 | **Beware My Love** |  |
+| F1 | **Letting Go** |  |
+| F2 | **Band On The Run** |  |
+| F3 | **Hi, Hi, Hi** |  |
+| F4 | **Soily** |  |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

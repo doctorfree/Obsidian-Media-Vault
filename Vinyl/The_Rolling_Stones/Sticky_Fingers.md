@@ -37,6 +37,21 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Brown Sugar** | 3:50 |
+| A2 | **Sway** | 3:45 |
+| A3 | **Wild Horses** | 5:41 |
+| A4 | **Can't You Hear Me Knocking** | 7:17 |
+| A5 | **You Gotta Move** | 2:32 |
+| B1 | **Bitch** | 3:42 |
+| B2 | **I Got The Blues** | 4:00 |
+| B3 | **Sister Morphine** | 5:34 |
+| B4 | **Dead Flowers** | 4:05 |
+| B5 | **Moonlight Mile** | 5:56 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

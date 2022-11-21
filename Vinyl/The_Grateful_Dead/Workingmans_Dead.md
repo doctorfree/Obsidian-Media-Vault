@@ -37,6 +37,19 @@ By The Grateful Dead
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Uncle John's Band** | 4:42 |
+| A2 | **High Time** | 5:13 |
+| A3 | **Dire Wolf** | 3:13 |
+| A4 | **New Speedway Boogie** | 4:05 |
+| B1 | **Cumberland Blues** | 3:15 |
+| B2 | **Black Peter** | 5:42 |
+| B3 | **Easy Wind** | 4:59 |
+| B4 | **Casey Jones** | 4:24 |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

@@ -37,6 +37,21 @@ By Chicago
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Critics' Choice** |  |
+| A2 | **Just You 'N' Me** |  |
+| A3 | **Darlin' Dear** |  |
+| A4 | **Jenny** |  |
+| A5 | **What's This World Comin' To** |  |
+| B1 | **Something In This City Changes People** |  |
+| B2 | **Hollywood** |  |
+| B3 | **In Terms Of Two** |  |
+| B4 | **Rediscovery** |  |
+| B5 | **Feelin' Stronger Every Day** |  |
+
 ## See also
 
 - [](Chicago.md)

@@ -37,6 +37,20 @@ By Talking Heads
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Burning Down The House** | 4:00 |
+| A2 | **Making Flippy Floppy** | 4:36 |
+| A3 | **Girlfriend Is Better** | 4:25 |
+| A4 | **Slippery People** | 3:30 |
+| A5 | **I Get Wild / Wild Gravity** | 4:06 |
+| B1 | **Swamp** | 5:09 |
+| B2 | **Moon Rocks** | 5:04 |
+| B3 | **Pull Up The Roots** | 5:08 |
+| B4 | **This Must Be The Place (Naive Melody)** | 4:56 |
+
 ## See also
 
 - [Fear Of Music](Fear_Of_Music.md)

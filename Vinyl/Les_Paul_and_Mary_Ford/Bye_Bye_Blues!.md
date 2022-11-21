@@ -37,6 +37,19 @@ By Les Paul & Mary Ford
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Wabash Blues** |  |
+| A2 | **Bye Bye Blues** |  |
+| A3 | **Blues Stay Away From Me** |  |
+| A4 | **Deep In The Blues** |  |
+| B1 | **St. Louis Blues** |  |
+| B2 | **Mammy's Boogie** |  |
+| B3 | **Frankie And Johnnie** |  |
+| B4 | **Don't Cry Baby** |  |
+
 ## See also
 
 - [](Les_Paul_and_Mary_Ford.md)

@@ -37,6 +37,13 @@ By Ronnie Milsap
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Southern Roots** | 3:38 |
+| B | **Southern Roots** | 3:38 |
+
 ## See also
 
 - [Lost In The Fifties Tonight (In The Still Of The Night)](Lost_In_The_Fifties_Tonight_In_The_Still_Of_The_Night.md)

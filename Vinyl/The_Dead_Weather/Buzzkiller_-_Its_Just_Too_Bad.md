@@ -35,6 +35,13 @@ By The Dead Weather
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Buzzkill(er)** | 3:03 |
+| B | **It's Just Too Bad** | 3:40 |
+
 ## See also
 
 - [](The_Dead_Weather.md)

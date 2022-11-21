@@ -37,6 +37,22 @@ By The New Pornographers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Play Money** |  |
+| A2 | **Whiteout Conditions** |  |
+| A3 | **High Ticket Attractions** |  |
+| A4 | **This Is The World Of The Theater** |  |
+| A5 | **Darling Shade** |  |
+| B1 | **Second Sleep** |  |
+| B2 | **Colosseums** |  |
+| B3 | **We've Been Here Before** |  |
+| B4 | **Juke** |  |
+| B5 | **Clockwise** |  |
+| B6 | **Avalanche Alley** |  |
+
 ## See also
 
 - [Brill Bruisers](Brill_Bruisers.md)

@@ -37,6 +37,22 @@ By The Doors
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Break On Through (To The Other Side)** | 2:25 |
+| A2 | **Soul Kitchen** | 3:30 |
+| A3 | **The Crystal Ship** | 2:30 |
+| A4 | **Twentieth Century Fox** | 2:30 |
+| A5 | **Alabama Song (Whisky Bar)** | 3:15 |
+| A6 | **Light My Fire** | 6:50 |
+| B1 | **Back Door Man** | 3:30 |
+| B2 | **I Looked At You** | 2:18 |
+| B3 | **End Of The Night** | 2:49 |
+| B4 | **Take It As It Comes** | 2:13 |
+| B5 | **The End** | 11:35 |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

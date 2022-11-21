@@ -37,6 +37,13 @@ By Bee Gees
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **To Love Somebody** | 3:55 |
+| B | **How Can You Mend A Broken Heart** | 3:38 |
+
 ## See also
 
 - [Odessa](Odessa.md)

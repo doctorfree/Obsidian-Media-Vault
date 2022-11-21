@@ -37,6 +37,13 @@ By 1910 Fruitgum Company
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **1, 2, 3, Red Light** | 1:54 |
+| B | **Sticky, Sticky** | 2:05 |
+
 ## See also
 
 - [Indian Giver](Indian_Giver.md)

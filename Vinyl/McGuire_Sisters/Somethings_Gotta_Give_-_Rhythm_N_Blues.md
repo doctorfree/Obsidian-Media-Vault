@@ -37,6 +37,13 @@ By McGuire Sisters
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Something's Gotta Give** | 2:51 |
+| B | **Rhythm 'N' Blues (Mama's Got The Rhythm-Papa's Got The Blues)** | 2:33 |
+
 ## See also
 
 - [](McGuire_Sisters.md)

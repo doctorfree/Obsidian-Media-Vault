@@ -37,6 +37,17 @@ By General Douglas MacArthur
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Report To Congress  April 19, 1951 Part1** |  |
+| B | **Report To Congress  April 19, 1951 (Part 2)** |  |
+| C | **Report To Congress  April 19, 1951 (Part 3)** |  |
+| D | **Report To Congress  April 19, 1951 (Part 4)** |  |
+| E | **Report To Congress  April 19, 1951 (Part 5)** |  |
+| F | **Report To Congress  April 19, 1951 (Part 6)** |  |
+
 ## See also
 
 - [](General_Douglas_MacArthur.md)

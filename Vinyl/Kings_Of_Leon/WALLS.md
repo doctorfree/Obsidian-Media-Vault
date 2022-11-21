@@ -37,6 +37,21 @@ By Kings Of Leon
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Waste A Moment** |  |
+| A2 | **Reverend** |  |
+| A3 | **Around The World** |  |
+| A4 | **Find Me** |  |
+| A5 | **Over** |  |
+| A6 | **Muchacho** |  |
+| B1 | **Conversation Piece** |  |
+| B2 | **Eyes On You** |  |
+| B3 | **Wild** |  |
+| B4 | **WALLS** |  |
+
 ## See also
 
 - [](Kings_Of_Leon.md)

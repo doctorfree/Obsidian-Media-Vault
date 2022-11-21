@@ -37,6 +37,15 @@ By DJ Jazzy Jeff & The Fresh Prince
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Parents Just Don't Understand (Extended Mix)** | 5:35 |
+| A2 | **Parents Just Don't Understand (Single Edit)** | 5:12 |
+| B1 | **Parents Just Don't Understand (Instrumental)** | 5:35 |
+| B2 | **Live At Union Square, November 1986** | 4:03 |
+
 ## See also
 
 - [](DJ_Jazzy_Jeff_and_The_Fresh_Prince.md)

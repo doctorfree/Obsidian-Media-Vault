@@ -37,6 +37,22 @@ By Steppenwolf
 - Weight: 200 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sookie Sookie** | 3:09 |
+| A2 | **Everybody's Next One** | 2:53 |
+| A3 | **Berry Rides Again** | 2:45 |
+| A4 | **Hootchie Kootchie Man** | 5:07 |
+| A5 | **Born To Be Wild** | 3:28 |
+| A6 | **Your Wall's Too High** | 5:40 |
+| B1 | **Desperation** | 5:35 |
+| B2 | **The Pusher** | 5:43 |
+| B3 | **A Girl I Knew** | 2:38 |
+| B4 | **Take What You Need** | 3:28 |
+| B5 | **The Ostrich** | 5:43 |
+
 ## See also
 
 - [Monster](Monster.md)

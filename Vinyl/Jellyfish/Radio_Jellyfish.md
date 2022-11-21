@@ -37,6 +37,21 @@ By Jellyfish
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **New Mistake** | 4:04 |
+| A2 | **She Still Loves Him** | 3:55 |
+| A3 | **I Can Hear The Grass Grow** | 4:01 |
+| A4 | **Baby's Coming Back** | 3:04 |
+| A5 | **The Man I Used To Be** | 4:40 |
+| B1 | **Joining A Fan Club** | 3:41 |
+| B2 | **The King Is Half-Undressed** | 3:37 |
+| B3 | **The Ghost At Number One** | 3:44 |
+| B4 | **That Is Why** | 4:08 |
+| B5 | **No Matter What** | 2:51 |
+
 ## See also
 
 - [Bellybutton](Bellybutton.md)

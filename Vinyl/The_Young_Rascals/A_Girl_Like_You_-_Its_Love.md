@@ -37,6 +37,13 @@ By The Young Rascals
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **A Girl Like You** | 2:46 |
+| B | **It's Love** | 3:10 |
+
 ## See also
 
 - [How Can I Be Sure](How_Can_I_Be_Sure.md)

@@ -37,6 +37,14 @@ By Yes
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Close To The Edge** | 18:50 |
+|  | **And You And I** | 10:09 |
+| B2 | **Siberian Khatru** | 8:57 |
+
 ## See also
 
 - [Fragile](Fragile.md)

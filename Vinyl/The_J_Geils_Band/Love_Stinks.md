@@ -37,6 +37,20 @@ By The J. Geils Band
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Just Can't Wait** | 3:24 |
+| A2 | **Come Back** | 5:09 |
+| A3 | **Takin' You Down** | 4:06 |
+| A4 | **Night Time** | 4:29 |
+| A5 | **No Anchovies, Please** | 2:39 |
+| B1 | **Love Stinks** | 3:45 |
+| B2 | **Tryin' Not To Think About It** | 6:19 |
+| B3 | **Desire (Please Don't Turn Away)** | 3:35 |
+| B4 | **Till The Walls Come Tumblin' Down** | 4:01 |
+
 ## See also
 
 - [](The_J_Geils_Band.md)

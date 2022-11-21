@@ -37,6 +37,13 @@ By The Mills Brothers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Had To Call You Up To Say I'm Sorry** | 2:39 |
+| B | **You Didn't Want Me When You Had Me (So Why Do You Want Me Now)** | 2:59 |
+
 ## See also
 
 - [](The_Mills_Brothers.md)

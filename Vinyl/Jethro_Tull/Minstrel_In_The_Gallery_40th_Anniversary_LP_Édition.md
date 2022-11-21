@@ -37,6 +37,18 @@ By Jethro Tull
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Minstrel In The Gallery** |  |
+| A2 | **Cold Wind To Valhalla** |  |
+| A3 | **Black Satin Dancer** |  |
+| A4 | **Requiem** |  |
+| B1 | **One White Duck / 0¹⁰ = Nothing At All** |  |
+|  | **Baker St. Muse** |  |
+| B3 | **Grace** |  |
+
 ## See also
 
 - [Aqualung (The 2011 Steven Wilson Stereo Remix)](Aqualung_The_2011_Steven_Wilson_Stereo_Remix.md)

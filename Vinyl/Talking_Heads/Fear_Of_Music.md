@@ -37,6 +37,22 @@ By Talking Heads
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Zimbra** | 3:06 |
+| A2 | **Mind** | 4:12 |
+| A3 | **Paper** | 2:36 |
+| A4 | **Cities** | 4:05 |
+| A5 | **Life During Wartime** | 3:41 |
+| A6 | **Memories Can't Wait** | 3:30 |
+| B1 | **Air** | 3:33 |
+| B2 | **Heaven** | 4:01 |
+| B3 | **Animals** | 3:29 |
+| B4 | **Electric Guitar** | 2:59 |
+| B5 | **Drugs** | 5:13 |
+
 ## See also
 
 - [More Songs About Buildings And Food](More_Songs_About_Buildings_And_Food.md)

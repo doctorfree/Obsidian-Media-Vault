@@ -37,6 +37,13 @@ By Jimmy Briscoe And The Beavers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Invitation To The World** | 3:45 |
+| B | **Ain't Nothing New Under The Sun** | 4:04 |
+
 ## See also
 
 - [](Jimmy_Briscoe_And_The_Beavers.md)

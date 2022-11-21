@@ -37,6 +37,15 @@ By Brenda Lee
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I'm Sorry** |  |
+| A2 | **That's All You Gotta Do** |  |
+| B1 | **Dynamite** |  |
+| B2 | **Heading Home** |  |
+
 ## See also
 
 - [Brenda Lee](Brenda_Lee.md)

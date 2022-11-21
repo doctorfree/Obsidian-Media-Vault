@@ -37,6 +37,20 @@ By The Who
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A-1 | **Baba O'Riley** | 4:58 |
+| A-2 | **Bargain** | 5:33 |
+| A-3 | **Love Ain't For Keeping** | 2:10 |
+| A-4 | **My Wife** | 3:33 |
+| A-5 | **Song Is Over** | 6:16 |
+| B-1 | **Getting In Tune** | 4:48 |
+| B-2 | **Going Mobile** | 3:42 |
+| B-3 | **Behind Blue Eyes** | 3:41 |
+| B-4 | **Won't Get Fooled Again** | 8:31 |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

@@ -37,6 +37,13 @@ By The Sons Of The Pioneers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Maverick** |  |
+| B | **Cowboy Country** |  |
+
 ## See also
 
 - [](The_Sons_Of_The_Pioneers.md)

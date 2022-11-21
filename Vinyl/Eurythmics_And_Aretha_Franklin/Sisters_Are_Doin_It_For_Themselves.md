@@ -37,6 +37,13 @@ By Eurythmics And Aretha Franklin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sisters Are Doin' It For Themselves (Edited Version)** | 4:29 |
+| B | **I Love You Like A Ball And Chain** | 4:04 |
+
 ## See also
 
 - [](Eurythmics_And_Aretha_Franklin.md)

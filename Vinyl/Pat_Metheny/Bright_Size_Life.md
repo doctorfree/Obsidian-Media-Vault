@@ -37,6 +37,19 @@ By Pat Metheny
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Bright Size Life** | 4:45 |
+| A2 | **Sirabhorn** | 5:27 |
+| A3 | **Unity Village** | 3:38 |
+| A4 | **Missouri Uncompromised** | 4:13 |
+| B1 | **Midwestern Nights Dream** | 6:00 |
+| B2 | **Unquity Road** | 3:36 |
+| B3 | **Omaha Celebration** | 4:17 |
+| B4 | **Round Trip / Broadway Blues** | 4:58 |
+
 ## See also
 
 - [](Pat_Metheny.md)

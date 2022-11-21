@@ -37,6 +37,22 @@ By The Kinks
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Morning Song** | 1:58 |
+| A2 | **Daylight** | 3:16 |
+| A3 | **Sweet Lady Genevieve** | 3:23 |
+| A4 | **There's A Change In The Weather** | 2:52 |
+| A5 | **Where Are They Now?** | 3:24 |
+| A6 | **One Of The Survivors** | 4:25 |
+| B1 | **Cricket** | 2:53 |
+| B2 | **Money & Corruption; I Am Your Man** | 5:52 |
+| B3 | **Here Comes Flash** | 2:35 |
+| B4 | **Sitting In The Midday Sun** | 3:40 |
+| B5 | **Demolition** | 4:01 |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

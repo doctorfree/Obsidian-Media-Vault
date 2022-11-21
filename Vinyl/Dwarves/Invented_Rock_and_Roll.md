@@ -37,6 +37,25 @@ By Dwarves
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Hate Rock** |  |
+| A2 | **Bleed Alright** |  |
+| A3 | **Trailer Trash** |  |
+| A4 | **Kings Of The World** |  |
+| A5 | **Fiction** |  |
+| A6 | **Sluts Of The USA** |  |
+| A7 | **Gentleman Blag** |  |
+| B1 | **Irresistible** |  |
+| B2 | **Armageddon Party** |  |
+| B3 | **Get Up & Get High** |  |
+| B4 | **Dead On The Floor** |  |
+| B5 | **Fun To Try** |  |
+| B6 | **Who I Am** |  |
+| B7 | **Anything You Want** |  |
+
 ## See also
 
 - [](Dwarves.md)

@@ -37,6 +37,20 @@ By The Incredible String Band
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Job's Tears** | 6:40 |
+| A2 | **Puppies** | 5:30 |
+| A3 | **Beyond The See** | 2:16 |
+| A4 | **The Yellow Snake** | 2:04 |
+| A5 | **Log Cabin Home In The Sky** | 4:00 |
+| B1 | **You Get Brighter** | 5:44 |
+| B2 | **The Half-Remarkable Question** | 5:01 |
+| B3 | **Air** | 3:12 |
+| B4 | **Ducks On A Pond** | 9:17 |
+
 ## See also
 
 - [](The_Incredible_String_Band.md)

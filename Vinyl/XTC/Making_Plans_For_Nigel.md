@@ -37,6 +37,14 @@ By XTC
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Making Plans For Nigel** | 3:54 |
+| B1 | **Buschman President** | 3:10 |
+| B2 | **Pulsing Pulsing** | 1:36 |
+
 ## See also
 
 - [The Loving](The_Loving.md)

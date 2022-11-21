@@ -37,6 +37,20 @@ By The Kinks
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Life On The Road** | 5:01 |
+| A2 | **Mr. Big Man** | 3:47 |
+| A3 | **Sleepwalker** | 4:02 |
+| A4 | **Brother** | 5:37 |
+| B1 | **Juke Box Music** | 5:31 |
+| B2 | **Sleepless Night** | 3:15 |
+| B3 | **Stormy Sky** | 3:57 |
+| B4 | **Full Moon** | 3:50 |
+| B5 | **Life Goes On** | 5:01 |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

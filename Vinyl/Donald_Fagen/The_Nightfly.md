@@ -37,6 +37,19 @@ By Donald Fagen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I.G.Y. (International Geophysical Year)** | 6:05 |
+| A2 | **Green Flower Street** | 3:40 |
+| A3 | **Ruby Baby** | 5:38 |
+| A4 | **Maxine** | 3:50 |
+| B1 | **New Frontier** | 6:23 |
+| B2 | **The Nightfly** | 5:45 |
+| B3 | **The Goodbye Look** | 4:47 |
+| B4 | **Walk Between Raindrops** | 2:38 |
+
 ## See also
 
 - [](Donald_Fagen.md)

@@ -37,6 +37,23 @@ By Kingston Trio
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **M.T.A.** |  |
+| A2 | **All My Sorrows** |  |
+| A3 | **Blow Ye Winds** |  |
+| A4 | **Corey, Corey** |  |
+| A5 | **The Seine** |  |
+| A6 | **I Bawled** |  |
+| B1 | **Good News** |  |
+| B2 | **Getaway John** |  |
+| B3 | **The Long Black Rifle** |  |
+| B4 | **Early In The Mornin'** |  |
+| B5 | **Scarlet Ribbons** |  |
+| B6 | **Remember The Alamo** |  |
+
 ## See also
 
 - [](Kingston_Trio.md)

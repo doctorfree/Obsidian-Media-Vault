@@ -37,6 +37,24 @@ By The Who
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Armenia City In The Skies** |  |
+| A2 | **Heinz Baked Beans** |  |
+| A3 | **Mary Anne With The Shaky Hands** |  |
+| A4 | **Odorono** |  |
+| A5 | **Tattoo** |  |
+| A6 | **Our Love Was** |  |
+| A7 | **I Can See For Miles** |  |
+| B1 | **Can't Reach You** |  |
+| B2 | **Medac** |  |
+| B3 | **Relax** |  |
+| B4 | **Silas Stingy** |  |
+| B5 | **Sunrise** |  |
+| B6 | **Rael (1 And 2)** |  |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

@@ -35,6 +35,13 @@ By Roger Hallmark And The Thrasher Brothers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **A Message To Khomeini** | 2:37 |
+| B | **Maharishi** | 3:03 |
+
 ## See also
 
 - [](Roger_Hallmark_And_The_Thrasher_Brothers.md)

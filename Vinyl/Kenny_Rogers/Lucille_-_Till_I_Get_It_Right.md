@@ -37,6 +37,13 @@ By Kenny Rogers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Lucille** | 3:39 |
+| B | **Till I Get It Right** | 3:01 |
+
 ## See also
 
 - [](Kenny_Rogers.md)

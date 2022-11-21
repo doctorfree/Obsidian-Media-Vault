@@ -37,6 +37,23 @@ By Porcupine Tree
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Even Less** | 7:11 |
+| A2 | **Piano Lessons** | 4:20 |
+| A3 | **Stupid Dream** | 0:31 |
+| A4 | **Pure Narcotic** | 5:07 |
+| B1 | **Slave Called Shiver** | 4:41 |
+| B2 | **Don't Hate Me** | 8:36 |
+| C1 | **This Is No Rehearsal** | 3:26 |
+| C2 | **Baby Dream In Cellophane** | 3:14 |
+| C3 | **Stranger By The Minute** | 4:30 |
+| C4 | **A Smart Kid** | 5:23 |
+| D1 | **Tinto Brass** | 6:37 |
+| D2 | **Stop Swimming** | 6:52 |
+
 ## See also
 
 - [Nil Recurring](Nil_Recurring.md)

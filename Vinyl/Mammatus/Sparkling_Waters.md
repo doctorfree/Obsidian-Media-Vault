@@ -37,6 +37,15 @@ By Mammatus
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sparkling Waters Part One** |  |
+| B | **Sparkling Waters Part Two** |  |
+| C | **The Elkhorn** |  |
+| D | **Ornia** |  |
+
 ## See also
 
 - [](Mammatus.md)

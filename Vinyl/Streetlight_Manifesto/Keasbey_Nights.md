@@ -37,6 +37,25 @@ By Streetlight Manifesto
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Dear Sergio** |  |
+| A2 | **Sick And Sad** |  |
+| A3 | **Keasbey Nights** |  |
+| A4 | **Day In, Day Out** |  |
+| A5 | **Walking Away** |  |
+| A6 | **Giving Up, Giving In** |  |
+| A7 | **On & On & On** |  |
+| A8 | **Riding The Fourth Wave** |  |
+| B1 | **This One Goes Out To...** |  |
+| B2 | **Supernothing** |  |
+| B3 | **9mm And A Three Piece Suit** |  |
+| B4 | **Kristina She Don't Know I Exist** |  |
+| B5 | **As The Footsteps Die Out Forever** |  |
+| B6 | **1234 1234** |  |
+
 ## See also
 
 - [](Streetlight_Manifesto.md)

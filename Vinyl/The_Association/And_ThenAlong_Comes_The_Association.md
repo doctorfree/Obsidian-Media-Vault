@@ -37,6 +37,23 @@ By The Association
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Enter The Young** | 2:42 |
+| A2 | **Your Own Love** | 2:19 |
+| A3 | **Don't Blame It On Me** | 2:26 |
+| A4 | **Blistered** | 1:45 |
+| A5 | **I'll Be Your Man** | 2:45 |
+| A6 | **Along Comes Mary** | 2:30 |
+| B1 | **Cherish** | 3:25 |
+| B2 | **Standing Still** | 2:43 |
+| B3 | **Message Of Our Love** | 3:56 |
+| B4 | **Round Again** | 1:48 |
+| B5 | **Remember** | 2:35 |
+| B6 | **Changes** | 2:30 |
+
 ## See also
 
 - [](The_Association.md)

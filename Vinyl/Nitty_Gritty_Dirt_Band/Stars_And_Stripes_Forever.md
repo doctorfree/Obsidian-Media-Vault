@@ -37,6 +37,35 @@ By Nitty Gritty Dirt Band
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Jambalaya (On The Bayou)** | 1:43 |
+| A2 | **Dirt Band Interview** | 3:39 |
+| A3 | **Cosmic Cowboy (Part 1)** | 3:21 |
+| A4 | **Aluminum Record Award** | 1:31 |
+| A5 | **Fish Song** | 3:50 |
+| A6 | **Mr. Bojangles** | 3:46 |
+| B1 | **Vassar Clements Interview** | 3:56 |
+| B2 | **Listen To The Mockingbird** | 2:47 |
+| B3 | **The Sheik Of Araby** | 2:08 |
+| B4 | **Resign Yourself To Me** | 2:40 |
+| B5 | **Dixie Hoedown** | 2:27 |
+| B6 | **Cripple Creek** | 0:54 |
+| B7 | **The Mountain Whipporwill (Or, How Hillbilly Jim Won TheGreat Fiddler's Prize)** | 7:07 |
+| C1 | **Honky Tonkin'** | 2:00 |
+| C2 | **House At Pooh Corner** | 2:54 |
+| C3 | **Buy For Me The Rain** | 2:32 |
+| C4 | **Oh Boy** | 2:50 |
+| C5 | **Teardrops In My Eyes** | 2:11 |
+| C6 | **Glocoat-Blues** | 3:11 |
+| D1 | **Stars And Stripes Forever** | 0:38 |
+| D2 | **Battle Of New Orleans** | 2:58 |
+| D3 | **It Came From The '50s (Blast From The Past)** | 6:46 |
+| D4 | **My True Story** | 3:08 |
+| D5 | **Diggy Liggy Lo** | 3:52 |
+
 ## See also
 
 - [](Nitty_Gritty_Dirt_Band.md)

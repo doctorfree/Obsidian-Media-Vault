@@ -37,6 +37,21 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Dancing With Mr. D.** | 4:52 |
+| A2 | **100 Years Ago** | 4:00 |
+| A3 | **Coming Down Again** | 5:55 |
+| A4 | **Doo Doo Doo Doo Doo (Heartbreaker)** | 3:27 |
+| A5 | **Angie** | 4:31 |
+| B1 | **Silver Train** | 4:25 |
+| B2 | **Hide Your Love** | 4:10 |
+| B3 | **Winter** | 5:30 |
+| B4 | **Can You Hear The Music** | 5:32 |
+| B5 | **Star Star** | 4:25 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

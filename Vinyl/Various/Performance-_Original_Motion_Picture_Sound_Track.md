@@ -37,6 +37,24 @@ By Various
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Gone Dead Train** | 2:55 |
+| A2 | **Performance** | 1:47 |
+| A3 | **Get Away** | 2:05 |
+| A4 | **Powis Square** | 2:23 |
+| A5 | **Rolls Royce And Acid** | 1:47 |
+| A6 | **Dyed, Dead, Red** | 2:32 |
+| A7 | **Harry Flowers** | 4:00 |
+| B1 | **Memo From Turner** | 4:02 |
+| B2 | **The Hashishin** | 3:35 |
+| B3 | **Wake Up, Niggers** | 2:43 |
+| B4 | **Poor White Hound Dog** | 2:45 |
+| B5 | **Natural Magic** | 1:37 |
+| B6 | **Turner's Murder** | 4:15 |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

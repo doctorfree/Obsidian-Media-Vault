@@ -37,6 +37,18 @@ By Deep Purple
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Highway Star** |  |
+| A2 | **Child In Time** |  |
+| B1 | **Smoke On The Water** |  |
+| B2 | **The Mule** |  |
+| C1 | **Strange Kind Of Woman** |  |
+| C2 | **Lazy** |  |
+| D | **Space Truckin'** |  |
+
 ## See also
 
 - [Burn](Burn.md)

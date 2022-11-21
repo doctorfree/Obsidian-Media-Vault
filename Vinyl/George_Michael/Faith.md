@@ -37,6 +37,20 @@ By George Michael
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Faith** | 3:15 |
+| A2 | **Father Figure** | 5:36 |
+|  | **I Want Your Sex (Parts 1 & 2)** | 9:13 |
+| A4 | **One More Try** | 5:50 |
+| B1 | **Hard Day** | 4:47 |
+| B2 | **Hand To Mouth** | 4:35 |
+| B3 | **Look At Your Hands** | 4:35 |
+| B4 | **Monkey** | 5:04 |
+| B5 | **Kissing A Fool** | 4:34 |
+
 ## See also
 
 - [](George_Michael.md)

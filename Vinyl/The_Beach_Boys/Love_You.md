@@ -37,6 +37,25 @@ By The Beach Boys
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Let Us Go On This Way** |  |
+| A2 | **Roller Skating Child** |  |
+| A3 | **Mona** |  |
+| A4 | **Johnny Carson** |  |
+| A5 | **Good Time** |  |
+| A6 | **Honkin' Down The Highway** |  |
+| A7 | **Ding Dang** |  |
+| B1 | **Solar System** |  |
+| B2 | **The Night Was So Young** |  |
+| B3 | **I'll Bet He's Nice** |  |
+| B4 | **Let's Put Our Hearts Together** |  |
+| B5 | **I Wanna Pick You Up** |  |
+| B6 | **Airplane** |  |
+| B7 | **Love Is A Woman** |  |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

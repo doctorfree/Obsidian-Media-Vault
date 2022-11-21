@@ -37,6 +37,13 @@ By Queen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **We Are The Champions** | 3:00 |
+| B | **We Will Rock You** | 2:01 |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

@@ -37,6 +37,37 @@ By The Kinks
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Original Album** |  |
+| A1 | **20th Century Man** | 5:55 |
+| A2 | **Acute Schizophrenia Paranoia Blues** | 3:30 |
+| A3 | **Holiday** | 2:39 |
+| A4 | **Skin And Bone** | 3:38 |
+| A5 | **Alcohol** | 3:35 |
+| A6 | **Complicated Life** | 4:02 |
+| B1 | **Here Come The People In Grey** | 2:57 |
+| B2 | **Have A Cuppa Tea** | 3:43 |
+| B3 | **Holloway Jail** | 3:25 |
+| B4 | **Oklahoma U.S.A.** | 2:38 |
+| B5 | **Uncle Son** | 2:30 |
+| B6 | **Muswell Hillbilly** | 4:56 |
+|  | **Bonus Album** |  |
+| C1 | **Lavender Lane** | 3:49 |
+| C2 | **Mountain Woman** | 3:09 |
+| C3 | **Have A Cuppa Tea (Alternate Version)** | 3:09 |
+| C4 | **Uncle Son (Alternate Version)** | 2:43 |
+| C5 | **Kentucky Moon** | 3:54 |
+| C6 | **Nobody's Fool** | 2:36 |
+| D1 | **Acute Schizophrenia Paranoia Blues (BBC Peel Session)** | 3:47 |
+| D2 | **Holiday (BBC Peel Session)** | 3:08 |
+| D3 | **Skin And Bone (BBC Peel Session)** | 2:34 |
+| D4 | **20th Century Man (Alternate Instrumental Take)** | 3:02 |
+| D5 | **Queenie (Backing Track)** | 3:41 |
+| D6 | **Muswell Hillbillies Radio Spot** |  |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

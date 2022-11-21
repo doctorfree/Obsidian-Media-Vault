@@ -37,6 +37,23 @@ By The Beatles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Help!** | 2:35 |
+| A2 | **The Night Before** | 2:33 |
+| A3 | **From Me To You Fantasy** | 2:03 |
+| A4 | **You've Got To Hide Your Love Away** | 2:08 |
+| A5 | **I Need You** | 2:28 |
+| A6 | **In The Tyrol** | 2:21 |
+| B1 | **Another Girl** | 2:02 |
+| B2 | **Another Hard Day's Night** | 2:28 |
+| B3 | **Ticket To Ride** | 3:03 |
+| B4 | **The Bitter End / You Can't Do That** | 2:20 |
+| B5 | **You're Gonna Lose That Girl** | 2:18 |
+| B6 | **The Chase** | 2:24 |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

@@ -37,6 +37,13 @@ By U2
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Angel Of Harlem** | 3:42 |
+| B | **A Room At The Heartbreak Hotel** | 5:29 |
+
 ## See also
 
 - [Desire](Desire.md)

@@ -37,6 +37,23 @@ By Johnny Mathis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Chances Are** |  |
+| A2 | **All The Time** |  |
+| A3 | **The Twelfth Of Never** |  |
+| A4 | **When Sunny Gets Blue** |  |
+| A5 | **When I Am With You** |  |
+| A6 | **Wonderful! Wonderful!** |  |
+| B1 | **It's Not For Me To Say** |  |
+| B2 | **Come To Me** |  |
+| B3 | **Wild Is The Wind** |  |
+| B4 | **Warm And Tender** |  |
+| B5 | **No Love (But Your Love)** |  |
+| B6 | **Look At You** |  |
+
 ## See also
 
 - [](Johnny_Mathis.md)

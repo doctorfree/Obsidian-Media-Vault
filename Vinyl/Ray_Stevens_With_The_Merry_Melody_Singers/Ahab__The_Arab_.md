@@ -35,6 +35,13 @@ By Ray Stevens With The Merry Melody Singers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Ahab, The Arab** | 2:47 |
+| B | **Harry The Hairy Ape** | 2:47 |
+
 ## See also
 
 - [](Ray_Stevens_With_The_Merry_Melody_Singers.md)

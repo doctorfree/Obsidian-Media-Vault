@@ -37,6 +37,24 @@ By Father John Misty
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Pure Comedy** |  |
+| A2 | **Total Entertainment Forever** |  |
+| A3 | **Things It Would Have Been Helpful To Know Before The Revolution** |  |
+| A4 | **Ballad Of The Dying Man** |  |
+| B1 | **Birdie** |  |
+| B2 | **Leaving LA** |  |
+| C1 | **A Bigger Paper Bag** |  |
+| C2 | **When The God Of Love Returns There'll Be Hell To Pay** |  |
+| C3 | **Smoochie** |  |
+| C4 | **Two Wildly Different Perspectives** |  |
+| C5 | **The Memo** |  |
+| D1 | **So I'm Growing Old On Magic Mountain** |  |
+| D2 | **In Twenty Years Or So** |  |
+
 ## See also
 
 - [Fear Fun](Fear_Fun.md)

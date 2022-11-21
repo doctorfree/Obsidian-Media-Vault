@@ -37,6 +37,18 @@ By Moe.
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Annihilation Blues** | 4:41 |
+| A2 | **Opium** | 13:32 |
+| B1 | **Brittle End** | 6:27 |
+| B2 | **Downward Facing Dog** | 11:01 |
+| C1 | **Queen Of Everything** | 7:19 |
+| C2 | **Puebla** | 11:34 |
+| D1 | **Silver Sun** | 15:01 |
+
 ## See also
 
 - [](Moe.md)

@@ -37,6 +37,21 @@ By Elton John
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Captain Fantastic And The Brown Dirt Cowboy** |  |
+| A2 | **Tower Of Babel** |  |
+| A3 | **Bitter Fingers** |  |
+| A4 | **Tell Me When The Whistle Blows** |  |
+| A5 | **Someone Saved My Life Tonight** |  |
+| B1 | **(Gotta Get A) Meal Ticket** |  |
+| B2 | **Better Off Dead** |  |
+| B3 | **Writing** |  |
+| B4 | **We All Fall In Love Sometimes** |  |
+| B5 | **Curtains** |  |
+
 ## See also
 
 - [Don't Shoot Me I'm Only The Piano Player](Dont_Shoot_Me_Im_Only_The_Piano_Player.md)

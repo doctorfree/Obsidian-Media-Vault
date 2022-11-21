@@ -37,6 +37,13 @@ By Modern English
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Someone's Calling** | 3:53 |
+| B | **Carry Me Down** | 3:56 |
+
 ## See also
 
 - [](Modern_English.md)

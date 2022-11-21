@@ -41,6 +41,23 @@ By Me First And The Gimme Gimmes
 Autographed by band members on front cover
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Danny's Song** |  |
+| A2 | **Leaving On A Jet Plane** |  |
+| A3 | **Me & Julio Down By The Schoolyard** |  |
+| A4 | **One Tin Soldier** |  |
+| A5 | **Uptown Girl** |  |
+| A6 | **I Am A Rock** |  |
+| B1 | **Sweet Caroline** |  |
+| B2 | **Seasons In The Sun** |  |
+| B3 | **Fire And Rain** |  |
+| B4 | **Nobody Does It Better** |  |
+| B5 | **Mandy** |  |
+| B6 | **Rocket Man** |  |
+
 ## See also
 
 - [Take A Break](Take_A_Break.md)

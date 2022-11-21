@@ -37,6 +37,13 @@ By The Call
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Everywhere I Go** | 3:51 |
+| B | **Tore The Old Place Down** | 4:12 |
+
 ## See also
 
 - [](The_Call.md)

@@ -37,6 +37,21 @@ By Paul Kantner / Jefferson Starship
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mau Mau (Amerikon)** |  |
+| A2 | **The Baby Tree** |  |
+| A3 | **Let's Go Together** |  |
+| A4 | **A Child Is Coming** |  |
+| B1 | **Sunrise** |  |
+| B2 | **Hijack** |  |
+| B3 | **Home** |  |
+| B4 | **Have You Seen The Stars Tonite** |  |
+| B5 | **X-M** |  |
+| B6 | **Starship** |  |
+
 ## See also
 
 - [](Paul_Kantner_-_Jefferson_Starship.md)

@@ -37,6 +37,18 @@ By It's A Beautiful Day
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **White Bird** | 6:06 |
+| A2 | **Hot Summer Day** | 5:46 |
+| A3 | **Wasted Union Blues** | 4:00 |
+| A4 | **Girl With No Eyes** | 3:49 |
+| B1 | **Bombay Calling** | 4:25 |
+| B2 | **Bulgaria** | 6:10 |
+| B3 | **Time Is** | 9:42 |
+
 ## See also
 
 - [](Its_A_Beautiful_Day_index.md)

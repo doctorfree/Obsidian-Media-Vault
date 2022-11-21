@@ -37,6 +37,13 @@ By Nat King Cole
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Make Her Mine** | 2:54 |
+| B | **I Envy** | 2:39 |
+
 ## See also
 
 - [Marnie / More And More Of Your Amor](Marnie_-_More_And_More_Of_Your_Amor.md)

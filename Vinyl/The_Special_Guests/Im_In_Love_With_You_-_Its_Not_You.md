@@ -37,6 +37,13 @@ By The Special Guests
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I'm In Love With You** | 1:49 |
+| B | **It's Not You** | 3:03 |
+
 ## See also
 
 - [](The_Special_Guests.md)

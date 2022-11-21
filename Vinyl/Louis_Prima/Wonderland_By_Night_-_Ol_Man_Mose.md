@@ -37,6 +37,13 @@ By Louis Prima
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Wonderland By Night (Wunderland Bei Nacht)** | 3:09 |
+| B | **Ol' Man Mose** | 3:35 |
+
 ## See also
 
 - [](Louis_Prima.md)

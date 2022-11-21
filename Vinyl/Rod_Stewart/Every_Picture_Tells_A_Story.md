@@ -37,6 +37,21 @@ By Rod Stewart
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Every Picture Tells A Story** | 5:58 |
+| A2 | **Seems Like A Long Time** | 4:00 |
+| A3 | **That's All Right** | 6:02 |
+| A4 | **Amazing Grace** | 1:59 |
+| A5 | **Tomorrow Is A Long Time** | 3:44 |
+| B1 | **Link Music - Henry's Time** | 0:30 |
+| B2 | **Maggie May** | 5:46 |
+| B3 | **Mandolin Wind** | 5:32 |
+| B4 | **(I Know) I'm Losing You** | 5:22 |
+| B5 | **Reason To Believe** | 4:07 |
+
 ## See also
 
 - [Gasoline Alley](Gasoline_Alley.md)

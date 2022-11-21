@@ -37,6 +37,21 @@ By Donovan
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Cosmic Wheels** | 4:00 |
+| A2 | **Earth Sign Man** | 3:55 |
+| A3 | **Sleep** | 4:45 |
+| A4 | **Maria Magenta** | 2:10 |
+| A5 | **Wild Witch Lady** | 4:20 |
+| B1 | **The Music Makers** | 4:25 |
+| B2 | **The Intergalactic Laxative** | 2:50 |
+| B3 | **I Like You** | 5:10 |
+| B4 | **Only The Blues** | 3:10 |
+| B5 | **Appearances** | 3:36 |
+
 ## See also
 
 - [A Gift From A Flower To A Garden](A_Gift_From_A_Flower_To_A_Garden.md)

@@ -37,6 +37,20 @@ By Oregon
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Yellow Bell** | 7:03 |
+| A2 | **Fall 77** | 4:27 |
+| A3 | **Reprise** | 1:02 |
+| A4 | **Cane Fields** | 4:37 |
+| A5 | **Dance To The Morning Star** | 5:36 |
+| B1 | **Vision Of A Dancer** | 4:03 |
+| B2 | **Story Telling** | 1:03 |
+| B3 | **Waterwheel** | 6:27 |
+| B4 | **Witchi-Tai-To** | 8:21 |
+
 ## See also
 
 - [](Oregon.md)

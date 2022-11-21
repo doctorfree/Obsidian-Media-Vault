@@ -37,6 +37,13 @@ By Focus
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Hocus Pocus** | 3:18 |
+| AA | **Hocus Pocus II** | 3:25 |
+
 ## See also
 
 - [](Focus.md)

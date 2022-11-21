@@ -37,6 +37,13 @@ By The Dells
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Always Together** | 3:04 |
+| B | **I Want My Momma** | 2:29 |
+
 ## See also
 
 - [](The_Dells.md)

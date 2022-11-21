@@ -37,6 +37,21 @@ By Thomas Dolby
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **She Blinded Me With Science** | 5:09 |
+| A2 | **Radio Silence** | 4:32 |
+| A3 | **Airwaves ** | 3:35 |
+| A4 | **Flying North** | 3:50 |
+| A5 | **Weightless** | 3:45 |
+| B1 | **Europa And The Pirate Twins** | 3:18 |
+| B2 | **Windpower** | 3:58 |
+| B3 | **Commercial Breakup** | 4:15 |
+| B4 | **One Of Our Submarines** | 5:11 |
+| B5 | **Cloudburst At Shingle Street** | 5:45 |
+
 ## See also
 
 - [Blinded By Science](Blinded_By_Science.md)

@@ -37,6 +37,21 @@ By Fine Young Cannibals
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Johnny Come Home** | 3:35 |
+| A2 | **Couldn't Care More** | 3:30 |
+| A3 | **Don't Ask Me To Choose** | 3:05 |
+| A4 | **Funny How Love Is** | 3:28 |
+| A5 | **Suspicious Minds** | 3:56 |
+| B1 | **Blue** | 3:35 |
+| B2 | **Move To Work** | 3:26 |
+| B3 | **On A Promise** | 3:06 |
+| B4 | **Time Isn't Kind** | 3:12 |
+| B5 | **Like A Stranger** | 3:28 |
+
 ## See also
 
 - [](Fine_Young_Cannibals_index.md)

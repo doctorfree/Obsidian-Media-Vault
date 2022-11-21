@@ -37,6 +37,13 @@ By Ray Stevens
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Need Your Help Barry Manilow** | 3:44 |
+| B | **Daydream Romance** | 3:35 |
+
 ## See also
 
 - [](Ray_Stevens.md)

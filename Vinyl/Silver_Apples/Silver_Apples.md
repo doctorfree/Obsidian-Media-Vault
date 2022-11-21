@@ -37,6 +37,20 @@ By Silver Apples
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Oscillations** | 2:47 |
+| A2 | **Seagreen Serenades** | 2:53 |
+| A3 | **Lovefingers** | 4:10 |
+| A4 | **Program** | 4:05 |
+| A5 | **Velvet Cave** | 3:28 |
+| B1 | **Whirly-Bird** | 2:39 |
+| B2 | **Dust** | 3:42 |
+| B3 | **Dancing Gods** | 5:55 |
+| B4 | **Misty Mountain** | 2:38 |
+
 ## See also
 
 - [](Silver_Apples_index.md)

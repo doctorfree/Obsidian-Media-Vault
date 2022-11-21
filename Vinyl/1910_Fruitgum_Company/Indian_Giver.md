@@ -37,6 +37,13 @@ By 1910 Fruitgum Company
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Indian Giver** | 2:30 |
+| B | **Pow Wow** | 2:00 |
+
 ## See also
 
 - ["1, 2, 3, Red Light"](1__2__3__Red_Light.md)

@@ -37,6 +37,22 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Paint It Black** | 3:20 |
+| A2 | **Stupid Girl** | 2:52 |
+| A3 | **Lady Jane** | 3:06 |
+| A4 | **Under My Thumb** | 3:20 |
+| A5 | **Doncha Bother Me** | 2:35 |
+| A6 | **Think** | 3:10 |
+| B1 | **Flight 505** | 3:25 |
+| B2 | **High And Dry** | 3:06 |
+| B3 | **It's Not Easy** | 2:52 |
+| B4 | **I Am Waiting** | 3:10 |
+| B5 | **Going Home** | 11:35 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

@@ -37,6 +37,13 @@ By Janet Jackson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Black Cat (Video Mix/Short Solo)** | 4:31 |
+| B | **Black Cat** | 4:48 |
+
 ## See also
 
 - [Come Give Your Love To Me](Come_Give_Your_Love_To_Me.md)

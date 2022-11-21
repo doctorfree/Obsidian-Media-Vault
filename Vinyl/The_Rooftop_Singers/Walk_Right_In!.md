@@ -37,6 +37,24 @@ By The Rooftop Singers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Walk Right In** | 2:33 |
+| A2 | **Hey Boys** | 2:05 |
+| A3 | **Shoes** | 2:55 |
+| A4 | **Houston Special** | 3:16 |
+| A5 | **Tom Cat** | 2:05 |
+| A6 | **Cool Water** | 2:52 |
+| B1 | **Somebody Came Home** | 2:08 |
+| B2 | **You Don't Know** | 2:26 |
+| B3 | **Stagolee** | 3:12 |
+| B4 | **Rained Five Days** | 2:53 |
+| B5 | **Ham And Eggs** | 2:29 |
+| B6 | **Ha Ha Thisaway** | 1:31 |
+| B7 | **Brandy Leave Me Alone** | 2:14 |
+
 ## See also
 
 - [Walk Right In](Walk_Right_In.md)

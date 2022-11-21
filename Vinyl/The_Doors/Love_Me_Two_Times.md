@@ -37,6 +37,13 @@ By The Doors
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Love Me Two Times** | 2:37 |
+| B | **Moonlight Drive** | 2:16 |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

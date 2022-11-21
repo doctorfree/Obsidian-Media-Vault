@@ -37,6 +37,13 @@ By Stonewall Jackson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Wings Of A Dove** | 2:24 |
+| B | **Save A Little Place For Me** | 2:38 |
+
 ## See also
 
 - [](Stonewall_Jackson.md)

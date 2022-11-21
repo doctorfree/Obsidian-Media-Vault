@@ -37,6 +37,22 @@ By Cream
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Strange Brew** | 2:45 |
+| A2 | **Sunshine Of Your Love** | 4:08 |
+| A3 | **World Of Pain** | 3:05 |
+| A4 | **Dance The Night Away** | 3:31 |
+| A5 | **Blue Condition** | 3:26 |
+| B1 | **Tales Of Brave Ulysses** | 2:50 |
+| B2 | **Swlabr** | 2:32 |
+| B3 | **We're Going Wrong** | 3:25 |
+| B4 | **Outside Woman Blues** | 2:20 |
+| B5 | **Take It Back** | 3:05 |
+| B6 | **Mother's Lament** | 1:47 |
+
 ## See also
 
 - [Wheels Of Fire](Wheels_Of_Fire.md)

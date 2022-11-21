@@ -37,6 +37,13 @@ By Connie Francis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Your Other Love** | 2:05 |
+| B | **Whatever Happened To Rosemarie** | 2:05 |
+
 ## See also
 
 - [Be Anything (But Be Mine) / Tommy](Be_Anything_But_Be_Mine_-_Tommy.md)

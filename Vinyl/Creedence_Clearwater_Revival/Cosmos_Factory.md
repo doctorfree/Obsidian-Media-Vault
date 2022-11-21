@@ -37,6 +37,22 @@ By Creedence Clearwater Revival
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ramble Tamble** | 7:09 |
+| A2 | **Before You Accuse Me** | 3:24 |
+| A3 | **Travelin' Band** | 2:07 |
+| A4 | **Ooby Dooby** | 2:05 |
+| A5 | **Lookin' Out My Back Door** | 2:31 |
+| A6 | **Run Through The Jungle** | 3:09 |
+| B1 | **Up Around The Bend** | 2:40 |
+| B2 | **My Baby Left Me** | 2:17 |
+| B3 | **Who'll Stop The Rain** | 2:28 |
+| B4 | **I Heard It Through The Grapevine** | 11:05 |
+| B5 | **Long As I Can See The Light** | 3:33 |
+
 ## See also
 
 - [Green River](Green_River.md)

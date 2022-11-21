@@ -37,6 +37,24 @@ By The New Pornographers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Brill Bruisers** |  |
+| A2 | **Champions Of Red Wine** |  |
+| A3 | **Fantasy Fools** |  |
+| A4 | **War On The East Coast** |  |
+| A5 | **Backstairs** |  |
+| A6 | **Marching Orders** |  |
+| B1 | **Another Drug Deal Of The Heart** |  |
+| B2 | **Born With A Sound** |  |
+| B3 | **Wide Eyes** |  |
+| B4 | **Dancehall Domine** |  |
+| B5 | **Spidyr** |  |
+| B6 | **Hi-Rise** |  |
+| B7 | **You Tell Me Where** |  |
+
 ## See also
 
 - [Whiteout Conditions](Whiteout_Conditions.md)

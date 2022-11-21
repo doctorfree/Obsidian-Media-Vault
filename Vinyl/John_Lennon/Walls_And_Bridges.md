@@ -37,6 +37,23 @@ By John Lennon
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Going Down On Love** |  |
+| A2 | **Whatever Gets You Thru The Night** |  |
+| A3 | **Old Dirt Road** |  |
+| A4 | **What You Got** |  |
+| A5 | **Bless You** |  |
+| A6 | **Scared** |  |
+| B1 | **# 9 Dream** |  |
+| B2 | **Surprise, Surprise (Sweet Bird Of Paradox)** |  |
+| B3 | **Steel And Glass** |  |
+| B4 | **Beef Jerky** |  |
+| B5 | **Nobody Loves You (When You're Down And Out)** |  |
+| B6 | **Ya Ya** |  |
+
 ## See also
 
 - [Imagine](Imagine.md)

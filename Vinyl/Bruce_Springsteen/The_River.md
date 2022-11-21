@@ -37,6 +37,31 @@ By Bruce Springsteen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Ties That Bind** | 3:33 |
+| A2 | **Sherry Darling** | 4:02 |
+| A3 | **Jackson Cage** | 3:04 |
+| A4 | **Two Hearts** | 2:42 |
+| A5 | **Independence Day** | 4:46 |
+| B1 | **Hungry Heart** | 3:19 |
+| B2 | **Out In The Street** | 4:17 |
+| B3 | **Crush On You** | 3:10 |
+| B4 | **You Can Look (But You Better Not Touch)** | 2:36 |
+| B5 | **I Wanna Marry You** | 3:26 |
+| B6 | **The River** | 4:59 |
+| C1 | **Point Blank** | 6:05 |
+| C2 | **Cadillac Ranch** | 3:02 |
+| C3 | **I'm A Rocker** | 3:34 |
+| C4 | **Fade Away** | 4:40 |
+| C5 | **Stolen Car** | 3:53 |
+| D1 | **Ramrod** | 4:04 |
+| D2 | **The Price You Pay** | 5:27 |
+| D3 | **Drive All Night** | 8:26 |
+| D4 | **Wreck On The Highway** | 3:53 |
+
 ## See also
 
 - [](Bruce_Springsteen.md)

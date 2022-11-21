@@ -37,6 +37,22 @@ By INXS
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **What You Need** |  |
+| A2 | **Listen Like Thieves** |  |
+| A3 | **Kiss The Dirt (Falling Down The Mountain)** |  |
+| A4 | **Shine Like It Does** |  |
+| A5 | **Good And Bad Times** |  |
+| B1 | **Biting Bullets** |  |
+| B2 | **This Time** |  |
+| B3 | **Three Sisters** |  |
+| B4 | **Same Direction** |  |
+| B5 | **One X One** |  |
+| B6 | **Red Red Sun** |  |
+
 ## See also
 
 - [](INXS.md)

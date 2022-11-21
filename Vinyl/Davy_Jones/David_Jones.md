@@ -37,6 +37,22 @@ By Davy Jones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **What Are We Going To Do?** | 2:23 |
+| A2 | **Maybe It's Because I'm A Londoner** | 2:04 |
+| A3 | **Put Me Amongst The Girls** | 3:27 |
+| A4 | **Any Old Iron** | 2:00 |
+| A5 | **Theme For A New Love** | 2:19 |
+| B1 | **It Ain't Me Babe** | 2:34 |
+| B2 | **Face Up To It** | 2:23 |
+| B3 | **Dream Girl** | 2:17 |
+| B4 | **Baby It's Me** | 2:00 |
+| B5 | **My Dad** | 2:35 |
+| B6 | **This Bouquet** | 2:10 |
+
 ## See also
 
 - [](Davy_Jones.md)

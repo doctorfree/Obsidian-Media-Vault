@@ -37,6 +37,13 @@ By Talk Talk
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Today** | 3:13 |
+| B | **It's So Serious** | 3:19 |
+
 ## See also
 
 - [](Talk_Talk.md)

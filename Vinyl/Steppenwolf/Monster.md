@@ -37,6 +37,13 @@ By Steppenwolf
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Monster** | 3:55 |
+| B | **Berry Rides Again** | 2:45 |
+
 ## See also
 
 - [Steppenwolf](Steppenwolf.md)

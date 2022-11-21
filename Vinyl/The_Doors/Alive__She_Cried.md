@@ -37,6 +37,18 @@ By The Doors
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Gloria** | 6:17 |
+| A2 | **Light My Fire (Incl. Graveyard Poem)** | 9:51 |
+| A3 | **You Make Me Real** | 3:06 |
+| B1 | **Texas Radio & The Big Beat** | 1:52 |
+| B2 | **Love Me Two Times** | 3:17 |
+| B3 | **Little Red Rooster** | 7:05 |
+| B4 | **Moonlight Drive (Including Horse Latitudes)** | 5:34 |
+
 ## See also
 
 - ["Hello, I Love You, Won't You Tell Me Your Name?"](Hello__I_Love_You__Wont_You_Tell_Me_Your_Name.md)

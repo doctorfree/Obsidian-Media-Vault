@@ -37,6 +37,22 @@ By Queen
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **We Will Rock You** | 2:02 |
+| A2 | **We Are The Champions** | 3:02 |
+| A3 | **Sheer Heart Attack** | 3:28 |
+| A4 | **All Dead, All Dead** | 3:11 |
+| A5 | **Spread Your Wings** | 4:35 |
+| A6 | **Fight From The Inside** | 3:04 |
+| B1 | **Get Down, Make Love** | 3:51 |
+| B2 | **Sleeping On The Sidewalk** | 3:09 |
+| B3 | **Who Needs You** | 3:07 |
+| B4 | **It's Late** | 6:27 |
+| B5 | **My Melancholy Blues** | 3:31 |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

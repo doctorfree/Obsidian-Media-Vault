@@ -37,6 +37,13 @@ By George Clinton
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Nubian Nut** | 4:10 |
+| B | **Free Alterations** | 4:15 |
+
 ## See also
 
 - [Last Dance](Last_Dance.md)

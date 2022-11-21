@@ -37,6 +37,29 @@ By Various
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The End Of The World** | 2:58 |
+| A2 | **Nature Boy** | 2:41 |
+| A3 | **Can't Help Falling In Love** | 3:13 |
+| A4 | **Spoonful** | 2:48 |
+| A5 | **The House Of The Rising Sun** | 2:27 |
+| B1 | **A Taste Of Honey** | 3:17 |
+| B2 | **Who's Sorry Now** | 2:19 |
+| B3 | **Speaking Of Happiness** | 2:46 |
+| B4 | **Sometimes I Feel Like A Motherless Child** | 3:33 |
+| C1 | **Love Hurts** | 3:22 |
+| C2 | **Lonely Mound Of Clay** | 3:14 |
+| C3 | **I Only Have Eyes For You** | 4:00 |
+| C4 | **Who's Lovin' You** | 3:40 |
+| D1 | **Unchained Melody** | 2:49 |
+| D2 | **Lead Me On ** | 2:36 |
+| D3 | **All Alone Am I** | 3:12 |
+| D4 | **Living In A Trance** | 3:03 |
+| D5 | **Get Happy** | 2:14 |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

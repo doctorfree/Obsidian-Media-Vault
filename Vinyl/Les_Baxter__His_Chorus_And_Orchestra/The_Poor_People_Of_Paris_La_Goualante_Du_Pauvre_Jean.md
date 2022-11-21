@@ -37,6 +37,13 @@ By "Les Baxter, His Chorus And Orchestra"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Poor People Of Paris (La Goualante Du Pauvre Jean)** | 2:24 |
+| B | **Theme From "Helen Of Troy"** | 2:47 |
+
 ## See also
 
 - [](Les_Baxter__His_Chorus_And_Orchestra.md)

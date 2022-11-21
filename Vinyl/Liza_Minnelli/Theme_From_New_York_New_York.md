@@ -37,6 +37,13 @@ By Liza Minnelli
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Theme From New York New York** |  |
+| B | **Hazoy** |  |
+
 ## See also
 
 - [](Liza_Minnelli.md)

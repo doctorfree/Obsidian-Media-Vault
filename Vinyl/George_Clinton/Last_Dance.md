@@ -37,6 +37,13 @@ By George Clinton
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Last Dance** | 3:47 |
+| B | **Get Dressed** | 3:39 |
+
 ## See also
 
 - [Nubian Nut](Nubian_Nut.md)

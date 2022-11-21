@@ -37,6 +37,23 @@ By Vince Guaraldi Trio
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **O Tannenbaum** | 5:03 |
+| A2 | **What Child Is This** | 2:20 |
+| A3 | **My Little Drum** | 3:15 |
+| A4 | **Linus And Lucy** | 3:03 |
+| A5 | **Christmas Time Is Here (Instrumental)** | 6:06 |
+| B1 | **Christmas Time Is Here (Vocal)** | 2:44 |
+| B2 | **Skating** | 2:24 |
+| B3 | **Hark, The Herald Angels Sing** | 1:55 |
+| B4 | **Christmas Is Coming** | 3:22 |
+| B5 | **Für Elise** | 1:02 |
+| B6 | **The Christmas Song** | 3:15 |
+| B7 | **Greensleeves** | 5:25 |
+
 ## See also
 
 - [](Vince_Guaraldi_Trio.md)

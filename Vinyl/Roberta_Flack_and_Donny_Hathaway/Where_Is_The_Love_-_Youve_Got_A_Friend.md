@@ -37,6 +37,13 @@ By Roberta Flack & Donny Hathaway
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Where Is The Love** | 2:43 |
+| B | **You've Got A Friend** | 3:20 |
+
 ## See also
 
 - [](Roberta_Flack_and_Donny_Hathaway.md)

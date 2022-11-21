@@ -37,6 +37,18 @@ By Deep Purple
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Woman From Tokyo** |  |
+| A2 | **Mary Long** |  |
+| A3 | **Super Trouper** |  |
+| A4 | **Smooth Dancer** |  |
+| B1 | **Rat Bat Blue** |  |
+| B2 | **Place In Line** |  |
+| B3 | **Our Lady** |  |
+
 ## See also
 
 - [Burn](Burn.md)

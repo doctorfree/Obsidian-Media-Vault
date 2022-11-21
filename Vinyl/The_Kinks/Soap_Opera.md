@@ -37,6 +37,23 @@ By The Kinks
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Everybody's A Star (Starmaker)** |  |
+| A2 | **Ordinary People** |  |
+| A3 | **Rush Hour Blues** |  |
+| A4 | **Nine To Five** |  |
+| A5 | **When Work Is Over** |  |
+| A6 | **Have Another Drink** |  |
+| B1 | **Underneath The Neon Sign** |  |
+| B2 | **Holiday Romance** |  |
+| B3 | **You Make It All Worthwhile** |  |
+| B4 | **Ducks On The Wall** |  |
+| B5 | **(A) Face In The Crowd** |  |
+| B6 | **You Can't Stop The Music** |  |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

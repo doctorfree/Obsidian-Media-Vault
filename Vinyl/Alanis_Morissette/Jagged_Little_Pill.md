@@ -37,6 +37,23 @@ By Alanis Morissette
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **All I Really Want** | 4:42 |
+| A2 | **You Oughta Know** | 4:07 |
+| A3 | **Perfect** | 3:05 |
+| A4 | **Hand In My Pocket** | 3:38 |
+| A5 | **Right Through You** | 2:53 |
+| A6 | **Forgiven** | 4:57 |
+| B1 | **You Learn** | 3:58 |
+| B2 | **Head Over Feet** | 4:24 |
+| B3 | **Mary Jane** | 4:38 |
+| B4 | **Ironic** | 3:47 |
+| B5 | **Not The Doctor** | 3:44 |
+| B6 | **Wake Up** | 4:54 |
+
 ## See also
 
 - [](Alanis_Morissette.md)

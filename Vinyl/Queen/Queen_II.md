@@ -37,6 +37,24 @@ By Queen
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Side White** |  |
+| A1 | **Procession** |  |
+| A2 | **Father To Son** |  |
+| A3 | **White Queen (As It Began)** |  |
+| A4 | **Some Day One Day** |  |
+| A5 | **The Loser In The End** |  |
+|  | **Side Black** |  |
+| B1 | **Ogre Battle** |  |
+| B2 | **The Fairy Feller's Master-Stroke** |  |
+| B3 | **Nevermore** |  |
+| B4 | **The March Of The Black Queen** |  |
+| B5 | **Funny How Love Is** |  |
+| B6 | **Seven Seas Of Rhye** |  |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

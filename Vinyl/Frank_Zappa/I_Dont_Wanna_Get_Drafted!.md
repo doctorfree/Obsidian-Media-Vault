@@ -37,6 +37,13 @@ By Frank Zappa
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Don't Wanna Get Drafted** | 3:10 |
+| B | **Ancient Armaments** | 4:10 |
+
 ## See also
 
 - ["Joe's Garage Acts 1, 2 & 3"](Joes_Garage_Acts_1__2_and_3.md)

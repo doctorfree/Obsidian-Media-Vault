@@ -37,6 +37,13 @@ By Nick Apollo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Can I Depend On You** | 3:32 |
+| B | **The Italian Delight (Scungilli Song)** | 2:22 |
+
 ## See also
 
 - [](Nick_Apollo.md)

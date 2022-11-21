@@ -37,6 +37,25 @@ By Elvis Costello & The Attractions
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Clubland** | 3:41 |
+| A2 | **Lovers Walk** | 2:16 |
+| A3 | **You'll Never Be A Man** | 2:56 |
+| A4 | **Pretty Words** | 3:10 |
+| A5 | **Strict Time** | 2:40 |
+| A6 | **Luxembourg** | 2:27 |
+| A7 | **Watch Your Step** | 2:59 |
+| B1 | **New Lace Sleeves** | 3:45 |
+| B2 | **From A Whisper To A Scream** | 2:53 |
+| B3 | **Different Finger** | 1:58 |
+| B4 | **White Knuckles** | 3:47 |
+| B5 | **Shot With His Own Gun** | 3:29 |
+| B6 | **Fish 'N' Chip Paper** | 2:55 |
+| B7 | **Big Sister's Clothes** | 2:12 |
+
 ## See also
 
 - [Accidents Will Happen / Alison](Accidents_Will_Happen_-_Alison.md)

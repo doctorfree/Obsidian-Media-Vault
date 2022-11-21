@@ -37,6 +37,21 @@ By The Ozark Mountain Daredevils
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Country Girl** | 3:14 |
+| A2 | **Spaceship Orion** | 3:10 |
+| A3 | **If You Wanna Get To Heaven** | 3:04 |
+| A4 | **Chicken Train** | 3:36 |
+| A5 | **Colorado Song** | 5:06 |
+| B1 | **Standing On The Rock** | 3:54 |
+| B2 | **Road To Glory** | 4:54 |
+| B3 | **Black Sky** | 3:05 |
+| B4 | **Within Without** | 4:25 |
+| B5 | **Beauty In The River** | 3:53 |
+
 ## See also
 
 - [It'll Shine When It Shines](Itll_Shine_When_It_Shines.md)

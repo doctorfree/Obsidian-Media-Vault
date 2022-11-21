@@ -37,6 +37,18 @@ By Black Sabbath
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Black Sabbath** |  |
+| A2 | **The Wizard** |  |
+| A3 | **Wasp/Behind The Wall Of Sleep/Bassically/N.I.B.** |  |
+| B1 | **Wicked World** |  |
+| B2 | **A Bit Of Finger** |  |
+| B3 | **Sleeping Village** |  |
+| B4 | **Warning** |  |
+
 ## See also
 
 - [Master Of Reality](Master_Of_Reality.md)

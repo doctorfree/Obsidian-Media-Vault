@@ -37,6 +37,23 @@ By Spirit
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Dark Eyed Woman** | 3:06 |
+| A2 | **Apple Orchard** | 4:05 |
+| A3 | **So Little Time To Fly** | 2:45 |
+| A4 | **Ground Hog** | 3:01 |
+| A5 | **Cold Wind** | 3:20 |
+| A6 | **Policeman's Ball** | 2:18 |
+| B1 | **Ice** | 5:53 |
+| B2 | **Give A Life, Take A Life** | 3:25 |
+| B3 | **I'm Truckin'** | 2:24 |
+| B4 | **Clear** | 4:08 |
+| B5 | **Caught** | 3:10 |
+| B6 | **New Dope In Town** | 4:24 |
+
 ## See also
 
 - [Spirit](Spirit.md)

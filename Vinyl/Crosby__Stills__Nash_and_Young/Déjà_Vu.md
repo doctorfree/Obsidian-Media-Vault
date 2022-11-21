@@ -37,6 +37,21 @@ By "Crosby, Stills, Nash & Young"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Carry On** | 4:25 |
+| A2 | **Teach Your Children** | 2:53 |
+| A3 | **Almost Cut My Hair** | 4:25 |
+| A4 | **Helpless** | 3:30 |
+| A5 | **Woodstock** | 3:52 |
+| B1 | **Deja Vu** | 4:10 |
+| B2 | **Our House** | 2:59 |
+| B3 | **4 + 20** | 1:55 |
+|  | **Country Girl** | 5:05 |
+| B5 | **Everybody I Love You** | 2:20 |
+
 ## See also
 
 - [Teach Your Children / Carry On](Teach_Your_Children_-_Carry_On.md)

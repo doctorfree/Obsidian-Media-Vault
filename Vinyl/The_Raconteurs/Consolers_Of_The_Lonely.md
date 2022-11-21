@@ -37,6 +37,25 @@ By The Raconteurs
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Consoler Of The Lonely** |  |
+| A2 | **Salute Your Solution** |  |
+| A3 | **You Don't Understand Me** |  |
+| A4 | **Old Enough** |  |
+| B1 | **The Switch And The Spur** |  |
+| B2 | **Hold Up** |  |
+| B3 | **Top Yourself** |  |
+| C1 | **Many Shades Of Black** |  |
+| C2 | **Five On The Five** |  |
+| C3 | **Attention** |  |
+| C4 | **Pull This Blanket Off** |  |
+| D1 | **Rich Kid Blues** |  |
+| D2 | **These Stones Will Shout** |  |
+| D3 | **Carolina Drama** |  |
+
 ## See also
 
 - [Broken Boy Soldiers](Broken_Boy_Soldiers.md)

@@ -37,6 +37,13 @@ By Brenda & The Tabulations
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Dry Your Eyes** | 2:30 |
+| B | **The Wash** | 2:10 |
+
 ## See also
 
 - [](Brenda_and_The_Tabulations.md)

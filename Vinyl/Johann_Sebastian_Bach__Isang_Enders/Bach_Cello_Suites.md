@@ -37,6 +37,17 @@ By "Johann Sebastian Bach, Isang Enders"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Suite Nr. 5 C - Moll BWV 1011 / 995** |  |
+| B | **Suite Nr. 2 D - Moll BWV 1008** |  |
+| C | **Suite Nr. 4 Es - Dur BWV 1010** |  |
+| D | **Suite Nr. 3 C - Dur BWV 1009** |  |
+| E | **Suite Nr. 1 G - Dur BWV 1007** |  |
+| F | **Suite Nr. 6 D - Dur BWV 1012** |  |
+
 ## See also
 
 - [](Johann_Sebastian_Bach__Isang_Enders.md)

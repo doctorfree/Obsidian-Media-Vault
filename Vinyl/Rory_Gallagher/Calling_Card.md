@@ -37,6 +37,20 @@ By Rory Gallagher
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Do You Read Me** |  |
+| A2 | **Country Mile** |  |
+| A3 | **Moonchild** |  |
+| A4 | **Calling Card** |  |
+| A5 | **I'll Admit You're Gone** |  |
+| B1 | **Secret Agent** |  |
+| B2 | **Jack-knife Beat** |  |
+| B3 | **Edged In Blue** |  |
+| B4 | **Barley & Grape Rag** |  |
+
 ## See also
 
 - [Against The Grain](Against_The_Grain.md)

@@ -37,6 +37,19 @@ By The Moody Blues
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Lost In A Lost World** | 4:42 |
+| A2 | **New Horizons** | 5:11 |
+| A3 | **For My Lady** | 3:58 |
+| A4 | **Isn't Life Strange** | 6:09 |
+| B1 | **You And Me** | 4:21 |
+| B2 | **The Land Of Make-Believe** | 4:52 |
+| B3 | **When You're A Free Man** | 6:06 |
+| B4 | **I'm Just A Singer (In A Rock And Roll Band)** | 4:18 |
+
 ## See also
 
 - [A Question Of Balance](A_Question_Of_Balance.md)

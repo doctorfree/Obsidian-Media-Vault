@@ -37,6 +37,18 @@ By Thomas Dolby
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Dissidents** | 4:53 |
+| A2 | **The Flat Earth** | 6:37 |
+| A3 | **Screen Kiss** | 5:31 |
+| B1 | **White City** | 5:20 |
+| B2 | **Mulu The Rain Forest** | 5:00 |
+| B3 | **I Scare Myself** | 5:37 |
+| B4 | **Hyperactive!** | 4:08 |
+
 ## See also
 
 - [Blinded By Science](Blinded_By_Science.md)

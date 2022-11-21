@@ -37,6 +37,37 @@ By Billie Holiday
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Lady Sings The Blues** |  |
+| A1 | **Lady Sings The Blues** |  |
+| A2 | **Trav’lin Light** |  |
+| A3 | **I Must Have That Man** |  |
+| A4 | **Some Other Spring** |  |
+| A5 | **Strange Fruit** |  |
+| A6 | **No Good Man** |  |
+| B1 | **God Bless The Child** |  |
+| B2 | **Good Morning Heartache** |  |
+| B3 | **Love Me Or Leave Me** |  |
+| B4 | **Too Marvellous For Words** |  |
+| B5 | **Willow Weep For Me** |  |
+| B6 | **I Thought About You** |  |
+|  | **The Best Of** |  |
+| C1 | **Blue Moon** |  |
+| C2 | **You Go To My Head** |  |
+| C3 | **These Foolish Things (Remind Me Of You)** |  |
+| C4 | **Love For Sale** |  |
+| C5 | **Speak Low** |  |
+| C6 | **I'm A Fool To Want You** |  |
+| D1 | **Just One Of Those Things** |  |
+| D2 | **He's Funny That Way** |  |
+| D3 | **Stormy Weather** |  |
+| D4 | **Come Rain Or Come Shine** |  |
+| D5 | **All Of You** |  |
+| D6 | **Isn't This A Lovely Day?** |  |
+
 ## See also
 
 - [](Billie_Holiday.md)

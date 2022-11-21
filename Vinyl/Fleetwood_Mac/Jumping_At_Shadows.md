@@ -37,6 +37,18 @@ By Fleetwood Mac
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Oh, Well** | 3:32 |
+| A2 | **Like It This Way** | 4:33 |
+| A3 | **World In Harmony** | 3:42 |
+| A4 | **Only You** | 4:23 |
+| B1 | **Black Magic Woman** | 6:30 |
+| B2 | **Jumping At Shadows** | 4:58 |
+| B3 | **Can't Hold On** | 6:58 |
+
 ## See also
 
 - [Don't Stop / Never Going Back Again](Dont_Stop_-_Never_Going_Back_Again.md)

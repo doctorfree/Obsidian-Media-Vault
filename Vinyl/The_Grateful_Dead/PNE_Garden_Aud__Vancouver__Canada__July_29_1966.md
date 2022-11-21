@@ -37,6 +37,30 @@ By The Grateful Dead
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **7/29/1966** |  |
+| A1 | **Standing On The Corner** | 3:23 |
+| A2 | **I Know You Rider** | 3:14 |
+| A3 | **Next Time You See Me** | 3:37 |
+| A4 | **Sittin' On Top Of The World** | 3:47 |
+| A5 | **You Don't Have To Ask** | 5:14 |
+| B1 | **Big Boss Man** | 4:16 |
+| B2 | **Stealin'** | 3:37 |
+| B3 | **Cardboard Cowboy** | 2:56 |
+| B4 | **It's All Over Now, Baby Blue** | 5:23 |
+| B5 | **Cream Puff War** | 7:52 |
+| C1 | **Viola Lee Blues** | 10:03 |
+| C2 | **Beat It On Down The Line** | 2:47 |
+| C3 | **Good Mornin' Little Schoolgirl** | 5:47 |
+|  | **7/30/1966** |  |
+| D1 | **Cold Rain And Snow** | 3:14 |
+| D2 | **One Kind Favor** | 4:23 |
+| D3 | **Hey Little One** | 5:39 |
+| D4 | **New, New Minglewood Blues** | 3:23 |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

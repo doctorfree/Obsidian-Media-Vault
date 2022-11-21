@@ -37,6 +37,13 @@ By "Crosby, Stills, Nash & Young"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Teach Your Children** | 2:53 |
+| B | **Carry On** | 4:25 |
+
 ## See also
 
 - [Déjà Vu](Déjà_Vu.md)

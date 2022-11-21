@@ -35,6 +35,13 @@ By Ella Fitzgerald With The Andy Love Quintet
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **A Sunday Kind Of Love** | 3:24 |
+| B | **That's My Desire** | 2:58 |
+
 ## See also
 
 - [](Ella_Fitzgerald_With_The_Andy_Love_Quintet.md)

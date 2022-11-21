@@ -37,6 +37,23 @@ By "Peter, Paul & Mary"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Settle Down (Goin' Down That Highway)** |  |
+| A2 | **Gone The Rainbow** |  |
+| A3 | **Flora** |  |
+| A4 | **Pretty Mary** |  |
+| A5 | **Puff** |  |
+| A6 | **This Land Is Your Land** |  |
+| B1 | **Man Come Into Egypt** |  |
+| B2 | **Old Coat** |  |
+| B3 | **Tiny Sparrow** |  |
+| B4 | **Big Boat** |  |
+| B5 | **Morning Train** |  |
+| B6 | **A'soalin'** |  |
+
 ## See also
 
 - ["Peter, Paul And Mary"](Peter__Paul_And_Mary.md)

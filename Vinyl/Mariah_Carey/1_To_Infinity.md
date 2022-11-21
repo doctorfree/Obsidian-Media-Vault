@@ -37,6 +37,30 @@ By Mariah Carey
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Vision of Love** | 3:29 |
+| A2 | **Love Takes Time** | 3:49 |
+| A3 | **Someday** | 3:57 |
+| A4 | **I Don't Wanna Cry** | 4:48 |
+| A5 | **Emotions ** | 4:08 |
+| B1 | **I'll Be There** | 4:24 |
+| B2 | **Dreamlover** | 3:53 |
+| B3 | **Hero** | 4:17 |
+| B4 | **Fantasy** | 4:53 |
+| B5 | **One Sweet Day** | 4:41 |
+| C1 | **Always Be My Baby** | 4:18 |
+| C2 | **Honey** | 4:59 |
+| C3 | **My All** | 3:51 |
+| C4 | **Heartbreaker** | 4:46 |
+| C5 | **Thank God I Found You** | 4:17 |
+| D1 | **We Belong Together ** | 3:22 |
+| D2 | **Don't Forget About Us** | 3:53 |
+| D3 | **Touch My Body ** | 3:27 |
+| D4 | **Infinity ** | 3:58 |
+
 ## See also
 
 - [](Mariah_Carey.md)

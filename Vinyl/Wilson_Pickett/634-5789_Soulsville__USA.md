@@ -37,6 +37,13 @@ By Wilson Pickett
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **634-5789 (Soulsville, U.S.A.)** | 2:55 |
+| B | **That's A Man's Way** | 2:20 |
+
 ## See also
 
 - [The Best Of Wilson Pickett](The_Best_Of_Wilson_Pickett.md)

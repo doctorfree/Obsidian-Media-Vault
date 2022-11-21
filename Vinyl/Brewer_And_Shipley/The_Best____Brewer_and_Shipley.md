@@ -37,6 +37,31 @@ By Brewer And Shipley
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **One Toke Over The LIne** | 3:16 |
+| A2 | **The Light** | 3:09 |
+| A4 | **Oh Mommy** | 3:03 |
+| A5 | **Tarkio Road** | 4:30 |
+| A6 | **Seems Like A Long Time** | 4:12 |
+| B1 | **All Along The Watchtower** | 3:18 |
+| B2 | **Witchi Tai To** | 6:57 |
+| B3 | **Lady Like You** | 2:12 |
+| B4 | **Rise Up** | 3:15 |
+| B5 | **Too Soon Tomorrow** | 2:53 |
+| C1 | **Shake Off The Demon** | 3:08 |
+| C2 | **Rock Me On The Water** | 4:00 |
+| C3 | **Merciful Love** | 1:58 |
+| C4 | **When Everybody Comes Home** | 1:58 |
+| C5 | **Working On The Well** | 3:17 |
+| D1 | **Yankee Lady** | 3:25 |
+| D2 | **Fly Fly Fly** | 3:08 |
+| D3 | **Black Sky** | 3:39 |
+| D4 | **Ruby On The Morning** | 2:15 |
+| D5 | **Don't Want To Die In Georgia** | 3:45 |
+
 ## See also
 
 - [People Love Each Other](People_Love_Each_Other.md)

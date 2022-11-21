@@ -37,6 +37,23 @@ By Various
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Yam What I Yam (Popeye's Declaration Of Self)** | 2:15 |
+| A2 | **He Needs Me (Olive Acknowledges Popeye)** | 3:31 |
+| A3 | **Swee'pea's Lullaby (Popeye's Note To Swee'pea)** | 2:02 |
+| A4 | **Din' We (Bill Barnacle's Lament)** | 3:03 |
+| A5 | **Sweethaven (An Anthem)** | 2:53 |
+| A6 | **Blow Me Down (Popeye Enters Sweethaven)** | 4:07 |
+| B1 | **Sailin' (Popeye And Olive Sing To Swee'pee)** | 2:46 |
+| B2 | **It's Not Easy Being Me (Poopdeck Pappy Is Held Hostage By Bluto)** | 2:17 |
+| B3 | **He's Large (The Eve Of Olive's Engagement To Bluto)** | 4:20 |
+| B4 | **I'm Mean (Bluto)** | 2:32 |
+| B5 | **Kids (Poopdeck Pappy's Opinion)** | 4:24 |
+| B6 | **I'm Popeye The Sailor Man (Boop! Boop!)** | 1:22 |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

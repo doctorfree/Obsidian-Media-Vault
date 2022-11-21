@@ -37,6 +37,14 @@ By Monty Python
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Bet You They Won't Play This Song On The Radio** | 0:56 |
+| B1 | **Sit On My Face** | 0:44 |
+| B2 | **Farewell To John Denver** | 0:19 |
+
 ## See also
 
 - [Another Monty Python Record](Another_Monty_Python_Record.md)

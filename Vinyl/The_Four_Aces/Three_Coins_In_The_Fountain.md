@@ -37,6 +37,13 @@ By The Four Aces
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Three Coins In The Fountain** | 3:00 |
+| B | **Wedding Bells (Are Breaking Up That Old Gang Of Mine)** | 2:20 |
+
 ## See also
 
 - [](The_Four_Aces.md)

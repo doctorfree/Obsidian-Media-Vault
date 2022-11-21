@@ -37,6 +37,22 @@ By Jefferson Airplane
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **She Has Funny Cars** | 3:11 |
+| A2 | **Somebody To Love** | 2:56 |
+| A3 | **My Best Friend** | 3:01 |
+| A4 | **Today** | 3:01 |
+| A5 | **Comin' Back To Me** | 5:20 |
+| B1 | **3/5 Of A Mile In 10 Seconds** | 3:42 |
+| B2 | **D.C.B.A. - 25** | 2:37 |
+| B3 | **How Do You Feel** | 3:32 |
+| B4 | **Embryonic Journey** | 1:54 |
+| B5 | **White Rabbit** | 2:31 |
+| B6 | **Plastic Fantastic Lover** | 2:36 |
+
 ## See also
 
 - [After Bathing At Baxter's](After_Bathing_At_Baxters.md)

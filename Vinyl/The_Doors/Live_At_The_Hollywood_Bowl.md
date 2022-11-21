@@ -37,6 +37,17 @@ By The Doors
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Wake Up** | 1:40 |
+| A2 | **Light  My Fire** | 8:15 |
+| B1 | **Unknown Soldier** | 4:14 |
+| B2 | **A Little Game** | 1:20 |
+| B3 | **The Hill Dwellers** | 2:21 |
+| B4 | **Spanish Caravan** | 1:19 |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

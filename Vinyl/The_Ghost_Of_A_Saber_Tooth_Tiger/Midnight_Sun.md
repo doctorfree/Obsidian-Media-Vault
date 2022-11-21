@@ -37,6 +37,23 @@ By The Ghost Of A Saber Tooth Tiger
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Too Deep** |  |
+| A2 | **Xanadu** |  |
+| A3 | **Animals** |  |
+| A4 | **Johannesburg** |  |
+| A5 | **Midnight Sun** |  |
+| A6 | **Last Call** |  |
+| B1 | **The Devil You Know** |  |
+| B2 | **Golden Earrings** |  |
+| B3 | **Great Expectations** |  |
+| B4 | **Poor Paul Getty** |  |
+| B5 | **Don't Look Back Orpheus** |  |
+| B6 | **Moth To A Flame** |  |
+
 ## See also
 
 - [GOASTT Stories](GOASTT_Stories.md)

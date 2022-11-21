@@ -37,6 +37,19 @@ By Grand Funk Railroad
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **We're An American Band** | 3:25 |
+| A2 | **Stop Lookin' Back** | 4:51 |
+| A3 | **Creepin'** | 7:01 |
+| A4 | **Black Licorice** | 4:43 |
+| B1 | **The Railroad** | 6:07 |
+| B2 | **Ain't Got Nobody** | 4:19 |
+| B3 | **Walk Like A Man** | 4:03 |
+| B4 | **Loneliest Rider** | 5:19 |
+
 ## See also
 
 - [Caught In The Act](Caught_In_The_Act.md)

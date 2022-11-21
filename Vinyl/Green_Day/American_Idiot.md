@@ -37,6 +37,24 @@ By Green Day
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **American Idiot** | 2:54 |
+|  | **Jesus Of Suburbia** | 9:08 |
+| B1 | **Holiday** | 3:52 |
+| B2 | **Boulevard Of Broken Dreams** | 4:20 |
+| B3 | **Are We The Waiting** | 2:42 |
+| B4 | **St. Jimmy** | 2:55 |
+| C1 | **Give Me Novacaine** | 3:25 |
+| C2 | **She's A Rebel** | 2:00 |
+| C3 | **Extraordinary Girl** | 3:33 |
+| C4 | **Letterbomb** | 4:06 |
+| C5 | **Wake Me Up When September Ends** | 4:45 |
+|  | **Homecoming** | 9:18 |
+| D2 | **Whatsername** | 4:12 |
+
 ## See also
 
 - [Revolution Radio](Revolution_Radio.md)

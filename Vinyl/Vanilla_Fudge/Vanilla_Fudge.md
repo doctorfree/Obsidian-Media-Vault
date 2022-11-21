@@ -37,6 +37,21 @@ By Vanilla Fudge
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ticket To Ride** | 5:40 |
+| A2 | **People Get Ready** | 6:30 |
+| A3 | **She's Not There** | 4:55 |
+| A4 | **Bang Bang** | 5:20 |
+| B1 | **Illusions Of My Childhood - Part One** | 0:20 |
+| B2 | **You Keep Me Hanging On** | 7:20 |
+| B3 | **Illusions Of My Childhood - Part Two** | 0:23 |
+| B4 | **Take Me For A Little While** | 3:27 |
+| B5 | **Illusions Of My Childhood - Part Three** | 0:22 |
+| B6 | **Eleanor Rigby** | 8:24 |
+
 ## See also
 
 - [](Vanilla_Fudge_index.md)

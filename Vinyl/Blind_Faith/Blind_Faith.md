@@ -37,6 +37,17 @@ By Blind Faith
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Had To Cry Today** | 8:49 |
+| A2 | **Can't Find My Way Home** | 3:13 |
+| A3 | **Well All Right** | 4:22 |
+| A4 | **Presence Of The Lord** | 4:48 |
+| B1 | **Sea Of Joy** | 5:19 |
+| B2 | **Do What You Like** | 15:27 |
+
 ## See also
 
 - [](Blind_Faith_index.md)

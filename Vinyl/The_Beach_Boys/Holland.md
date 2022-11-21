@@ -37,6 +37,25 @@ By The Beach Boys
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sail On Sailor** | 3:15 |
+| A2 | **Steamboat** | 4:29 |
+|  | **California Saga** |  |
+| B1 | **The Trader** | 5:01 |
+| B2 | **Leaving This Town** | 5:36 |
+| B3 | **Only With You** | 2:56 |
+| B4 | **Funky Pretty** | 4:07 |
+|  | **Mount Vernon And Fairway (A Fairy Tale)** |  |
+| C1 | **Mt. Vernon And Fairway - Theme** | 1:30 |
+| C2 | **I'm The Pied Piper** | 2:24 |
+| C3 | **Better Get Back In Bed** | 1:42 |
+| C4 | **Magic Transistor Radio** | 1:23 |
+| D1 | **I'm The Pied Piper** | 3:00 |
+| D2 | **Radio King Dom** | 2:37 |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

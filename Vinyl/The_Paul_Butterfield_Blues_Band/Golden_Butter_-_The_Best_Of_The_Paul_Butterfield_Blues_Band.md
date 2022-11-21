@@ -37,6 +37,29 @@ By The Paul Butterfield Blues Band
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Born In Chicago** | 3:07 |
+| A2 | **Shake Your Money-Maker** | 2:25 |
+| A3 | **Mellow Down Easy** | 2:49 |
+| A4 | **Our Love Is Drifting** | 3:33 |
+| A5 | **Mystery Train** | 2:35 |
+| A6 | **Look Over Yonders Wall** | 2:26 |
+| B1 | **East-West** | 13:10 |
+| B2 | **Walkin' Blues** | 3:07 |
+| B3 | **Get Out Of My Life, Woman** | 3:12 |
+| B4 | **Mary, Mary** | 2:50 |
+| C1 | **Spoonful** | 2:55 |
+| C2 | **One More Mile** | 3:29 |
+| C3 | **One More Heartache** | 3:36 |
+| C4 | **Last Hope's Gone** | 4:49 |
+| C5 | **In My Own Dream** | 5:46 |
+| D1 | **Love March** | 2:56 |
+| D2 | **Driftin' And Driftin'** | 13:44 |
+| D3 | **Blind Leading The Blind** | 4:00 |
+
 ## See also
 
 - [](The_Paul_Butterfield_Blues_Band.md)

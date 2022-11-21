@@ -37,6 +37,20 @@ By The Doors
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Tell All The People** | 3:24 |
+| A2 | **Touch Me** | 3:15 |
+| A3 | **Shaman's Blues** | 4:45 |
+| A4 | **Do It** | 3:01 |
+| A5 | **Easy Ride** | 2:35 |
+| B1 | **Wild Child** | 2:36 |
+| B2 | **Runnin' Blue** | 2:27 |
+| B3 | **Wishful Sinful** | 2:56 |
+| B4 | **The Soft Parade** | 8:40 |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

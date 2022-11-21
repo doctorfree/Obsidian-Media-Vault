@@ -37,6 +37,20 @@ By Ten Years After
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **You Give Me Loving** | 6:31 |
+| A2 | **Convention Prevention** | 4:25 |
+| A3 | **Turned Off T.V. Blues** | 5:12 |
+| A4 | **Standing At The Station** | 7:07 |
+| B1 | **You Can't Win Them All** | 4:05 |
+| B2 | **Religion** | 5:44 |
+| B3 | **Choo Choo Mama** | 4:00 |
+| B4 | **Tomorrow I'll Be Out Of Town** | 4:26 |
+| B5 | **Rock & Roll Music To The World** | 3:40 |
+
 ## See also
 
 - [](Ten_Years_After.md)

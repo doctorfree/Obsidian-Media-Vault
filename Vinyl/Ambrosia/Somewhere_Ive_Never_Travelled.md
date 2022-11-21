@@ -37,6 +37,21 @@ By Ambrosia
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **And...** | 0:47 |
+| A2 | **Somewhere I've Never Travelled** | 4:09 |
+| A3 | **Cowboy Star** | 6:20 |
+| A4 | **Runnin' Away** | 3:27 |
+| A5 | **Harvey** | 1:27 |
+| A6 | **I Wanna Know** | 5:58 |
+| B1 | **The Brunt** | 5:26 |
+| B2 | **Danse With Me George (Chopin's Plea)** | 7:47 |
+| B3 | **Can't Let A Woman** | 4:18 |
+| B4 | **We Need You Too** | 5:31 |
+
 ## See also
 
 - [](Ambrosia.md)

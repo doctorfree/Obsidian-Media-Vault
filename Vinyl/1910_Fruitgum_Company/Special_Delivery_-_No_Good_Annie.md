@@ -37,6 +37,13 @@ By 1910 Fruitgum Company
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Special Delivery** | 2:40 |
+| B | **No Good Annie** | 2:21 |
+
 ## See also
 
 - ["1, 2, 3, Red Light"](1__2__3__Red_Light.md)

@@ -41,6 +41,22 @@ By The Lovin' Spoonful
 Mono
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Lovin' You** | 2:25 |
+| A2 | **Bes' Friends** | 1:52 |
+| A3 | **Voodoo In My Basement** | 2:35 |
+| A4 | **Darlin' Companion** | 2:22 |
+| A5 | **Henry Thomas** | 1:40 |
+| A6 | **Full Measure** | 2:40 |
+| B1 | **Rain On The Roof** | 2:13 |
+| B2 | **Coconut Grove** | 2:38 |
+| B3 | **Nashville Cats** | 2:34 |
+| B4 | **4 Eyes** | 2:53 |
+| B5 | **Summer In The City** | 2:39 |
+
 ## See also
 
 - [Darling Be Home Soon / Darlin' Companion](Darling_Be_Home_Soon_-_Darlin_Companion.md)

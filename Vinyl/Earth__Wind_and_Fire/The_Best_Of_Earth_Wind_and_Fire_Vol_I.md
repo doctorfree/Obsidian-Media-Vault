@@ -37,6 +37,21 @@ By "Earth, Wind & Fire"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Got To Get You Into My Life** | 4:03 |
+| A2 | **Fantasy** | 3:46 |
+| A3 | **Can't Hide Love** | 4:11 |
+| A4 | **Love Music** | 3:55 |
+| A5 | **Getaway** | 3:46 |
+| B1 | **That's The Way Of The World** | 5:47 |
+| B2 | **September** | 3:37 |
+| B3 | **Shining Star** | 2:50 |
+| B4 | **Reasons** | 5:01 |
+| B5 | **Singasong** | 3:23 |
+
 ## See also
 
 - [](Earth__Wind_and_Fire.md)

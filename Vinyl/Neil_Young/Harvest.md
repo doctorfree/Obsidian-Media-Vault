@@ -37,6 +37,21 @@ By Neil Young
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Out On The Weekend** | 4:32 |
+| A2 | **Harvest** | 3:09 |
+| A3 | **A Man Needs A Maid** | 4:02 |
+| A4 | **Heart Of Gold** | 3:07 |
+| A5 | **Are You Ready For The Country?** | 3:24 |
+| B1 | **Old Man** | 3:22 |
+| B2 | **There's A World** | 2:59 |
+| B3 | **Alabama** | 4:02 |
+| B4 | **The Needle And The Damage Done** | 2:03 |
+| B5 | **Words (Between The Lines Of Age)** | 6:47 |
+
 ## See also
 
 - [](Neil_Young.md)

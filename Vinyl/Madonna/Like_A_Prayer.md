@@ -37,6 +37,22 @@ By Madonna
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Like A Prayer** |  |
+| A2 | **Express Yourself** |  |
+| A3 | **Love Song** |  |
+| A4 | **Till Death Do Us Part** |  |
+| A5 | **Promise To Try** |  |
+| B1 | **Cherish** |  |
+| B2 | **Dear Jessie** |  |
+| B3 | **Oh Father** |  |
+| B4 | **Keep It Together** |  |
+| B5 | **Spanish Eyes** |  |
+| B6 | **Act Of Contrition** |  |
+
 ## See also
 
 - [Like A Virgin](Like_A_Virgin.md)

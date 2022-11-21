@@ -37,6 +37,23 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mercy Mercy** | 2:45 |
+| A2 | **Hitch Hike** | 2:22 |
+| A3 | **The Last Time** | 3:35 |
+| A4 | **That's How Strong My Love Is** | 2:23 |
+| A5 | **Good Times** | 1:57 |
+| A6 | **I'm All Right** | 2:21 |
+| B1 | **Satisfaction** | 3:45 |
+| B2 | **Cry To Me** | 3:08 |
+| B3 | **The Under Assistant West Coast Promotion Man** | 3:10 |
+| B4 | **Play With Fire** | 2:15 |
+| B5 | **The Spider And The Fly** | 3:30 |
+| B6 | **One More Try** | 1:58 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

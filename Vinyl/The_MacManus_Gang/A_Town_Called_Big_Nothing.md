@@ -37,6 +37,14 @@ By The MacManus Gang
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **A Town Called Big Nothing (Really Big Nothing)** |  |
+| B1 | **Return To Big Nothing** |  |
+| B2 | **A Town Called Big Nothing (The Long March)** |  |
+
 ## See also
 
 - [](The_MacManus_Gang.md)

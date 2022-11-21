@@ -37,6 +37,24 @@ By Adam And The Ants
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Dog Eat Dog** | 3:07 |
+| A2 | **"Antmusic"** | 3:36 |
+| A3 | **Los Rancheros** | 3:28 |
+| A4 | **Feed Me To The Lions** | 2:59 |
+| A5 | **Press Darlings** | 4:12 |
+| A6 | **Ants Invasion** | 3:20 |
+| A7 | **Killer In The Home** | 4:19 |
+| B1 | **Kings Of The Wild Frontier** | 3:53 |
+| B2 | **The Magnificent Five** | 3:05 |
+| B3 | **Don't Be Square (Be There)** | 3:29 |
+| B4 | **Jolly Roger** | 2:09 |
+| B5 | **Physical (You're So)** | 4:26 |
+| B6 | **The Human Beings** | 4:24 |
+
 ## See also
 
 - [](Adam_And_The_Ants.md)

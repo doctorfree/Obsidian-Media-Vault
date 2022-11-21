@@ -37,6 +37,35 @@ By Tenacious D
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Kielbasa** | 3:02 |
+| A2 | **One Note Song** | 1:24 |
+| A3 | **Tribute** | 4:08 |
+| A4 | **Wonderboy** | 4:07 |
+| A5 | **Hard Fucking** | 0:36 |
+| A6 | **Fuck Her Gently** | 2:03 |
+| B1 | **Explosivo** | 1:55 |
+| B2 | **Dio** | 1:41 |
+| B3 | **Inward Singing** | 2:13 |
+| B4 | **Kyle Quit The Band** | 1:30 |
+| B5 | **The Road** | 2:20 |
+| C1 | **Cock Pushups** | 0:47 |
+| C2 | **Lee** | 1:02 |
+| C3 | **Friendship Test** | 1:31 |
+| C4 | **Friendship** | 2:00 |
+| C5 | **Karate Schnitzel** | 0:37 |
+| C6 | **Karate** | 1:05 |
+| C7 | **Rock Your Socks** | 3:33 |
+| C8 | **Drive-Thru** | 3:01 |
+| D1 | **Double Team** | 3:11 |
+| D2a | **City Hall** | 6:47 |
+| D2b | **I Believe** | 0:28 |
+| D2c | **(silence)** | 1:00 |
+| D2d | **Malibu Nights** | 0:48 |
+
 ## See also
 
 - [The Pick Of Destiny](The_Pick_Of_Destiny.md)

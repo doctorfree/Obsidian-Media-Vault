@@ -37,6 +37,13 @@ By The Gold Dart All Stars
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Strolling At Midnight - Part I** | 2:35 |
+| B | **Strolling At Midnight - Part II** | 2:45 |
+
 ## See also
 
 - [](The_Gold_Dart_All_Stars.md)

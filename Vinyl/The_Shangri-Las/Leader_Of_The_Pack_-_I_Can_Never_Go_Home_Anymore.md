@@ -37,6 +37,13 @@ By The Shangri-Las
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Leader Of The Pack** | 2:53 |
+| B | **I Can Never Go Home Anymore** | 3:13 |
+
 ## See also
 
 - [](The_Shangri-Las.md)

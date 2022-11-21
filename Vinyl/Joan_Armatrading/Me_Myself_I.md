@@ -37,6 +37,21 @@ By Joan Armatrading
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Me Myself I** | 3:16 |
+| A2 | **Ma-Me-O-Beach** | 3:00 |
+| A3 | **Friends** | 3:05 |
+| A4 | **Is It Tomorrow Yet** | 3:31 |
+| A5 | **Turn Out The Light** | 4:19 |
+| B1 | **When You Kisses Me** | 3:14 |
+| B2 | **All The Way From America** | 4:49 |
+| B3 | **Feeling In My Heart (For You)** | 3:36 |
+| B4 | **Simon** | 3:40 |
+| B5 | **I Need You** | 2:44 |
+
 ## See also
 
 - [Joan Armatrading](Joan_Armatrading.md)

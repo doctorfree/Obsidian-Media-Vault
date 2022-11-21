@@ -37,6 +37,13 @@ By The Who
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Squeeze Box** | 2:39 |
+| B | **Success Story** | 3:20 |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

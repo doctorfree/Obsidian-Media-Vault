@@ -37,6 +37,19 @@ By Donnie & Joe Emerson
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Good Time** | 4:20 |
+| A2 | **Give Me The Chance** | 2:50 |
+| A3 | **Baby** | 4:00 |
+| A4 | **Feels Like The Sun** | 6:30 |
+| B1 | **Love Is** | 3:00 |
+| B2 | **Don't Go Lovin' Nobody Else** | 5:30 |
+| B3 | **Dream Full Of Dreams** | 5:00 |
+| B4 | **My Heart** | 7:04 |
+
 ## See also
 
 - [Still Dreamin' Wild](Still_Dreamin_Wild-_The_Lost_Recordings_1979-81.md)

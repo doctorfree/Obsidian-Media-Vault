@@ -37,6 +37,27 @@ By Camper Van Beethoven
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Good Guys & Bad Guys** |  |
+| A2 | **Jo Stalin's Cadillac** |  |
+| A3 | **Five Sticks** |  |
+| A4 | **Lulu Land** |  |
+| A5 | **Une Fois** |  |
+| A6 | **We Saw Jerry's Daughter** |  |
+| A7 | **Surprise Truck** |  |
+| A8 | **Stairway To Heavan (Sic)** |  |
+| B1 | **The History Of Utah** |  |
+| B2 | **Still Wishing To Course** |  |
+| B3 | **We Love You** |  |
+| B4 | **Hoe Yourself Down** |  |
+| B5 | **Peace & Love** |  |
+| B6 | **Folly** |  |
+| B7 | **Interstellar Overdrive** |  |
+| B8 | **Shut Us Down** |  |
+
 ## See also
 
 - [New Roman Times](New_Roman_Times.md)

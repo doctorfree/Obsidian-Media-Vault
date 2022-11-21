@@ -37,6 +37,13 @@ By Jefferson Starship
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Crazy Feelin'** | 2:30 |
+| B | **Love Too Good** | 4:37 |
+
 ## See also
 
 - [Count On Me / Show Yourself](Count_On_Me_-_Show_Yourself.md)

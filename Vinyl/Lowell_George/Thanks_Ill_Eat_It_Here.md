@@ -37,6 +37,20 @@ By Lowell George
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **What Do You Want The Girl To Do** | 4:45 |
+| A2 | **Honest Man** | 3:43 |
+| A3 | **Two Trains** | 4:32 |
+| A4 | **Can't Stand The Rain** | 3:21 |
+| B1 | **Cheek To Cheek** | 2:21 |
+| B2 | **Easy Money** | 3:28 |
+| B3 | **20 Million Things** | 2:46 |
+| B4 | **Find A River** | 3:42 |
+| B5 | **Himmler's Ring** | 2:25 |
+
 ## See also
 
 - [](Lowell_George.md)

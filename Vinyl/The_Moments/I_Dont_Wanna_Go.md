@@ -37,6 +37,13 @@ By The Moments
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Don't Wanna Go** | 3:25 |
+| B | **Oh I Could Have Loved You** | 4:28 |
+
 ## See also
 
 - [](The_Moments.md)

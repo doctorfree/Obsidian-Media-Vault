@@ -37,6 +37,13 @@ By Smith
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Take A Look Around** | 2:33 |
+| B | **Mojalesky Ridge** | 2:30 |
+
 ## See also
 
 - [A Group Called Smith](A_Group_Called_Smith.md)

@@ -37,6 +37,14 @@ By Jimmy Page & The Black Crowes
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Misty Mountain Hop** | 5:04 |
+| A2 | **Bring It On Home** | 5:27 |
+| B | **In The Light** | 9:06 |
+
 ## See also
 
 - [](Jimmy_Page_and_The_Black_Crowes.md)

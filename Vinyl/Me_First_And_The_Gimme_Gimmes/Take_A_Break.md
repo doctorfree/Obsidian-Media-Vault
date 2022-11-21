@@ -41,6 +41,24 @@ By Me First And The Gimme Gimmes
 Autographed by band members on front cover
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Where Do Broken Hearts Go** |  |
+| A2 | **Hello** |  |
+| A3 | **End Of The Road** |  |
+| A4 | **Ain't No Sunshine** |  |
+| A5 | **Nothing Compares 2 U** |  |
+| A6 | **Crazy** |  |
+| A7 | **Isn't She Lovely** |  |
+| B1 | **I Believe I Can Fly** |  |
+| B2 | **Oh Girl** |  |
+| B3 | **I'll Be There** |  |
+| B4 | **Mona Lisa** |  |
+| B5 | **Save The Best For Last** |  |
+| B6 | **Natural Woman** |  |
+
 ## See also
 
 - [Have A Ball](Have_A_Ball.md)

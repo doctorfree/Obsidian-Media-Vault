@@ -37,6 +37,23 @@ By Father John Misty
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Funtimes In Babylon** |  |
+| A2 | **Nancy From Now On** |  |
+| A3 | **Hollywood Forever Cemetery Sings** |  |
+| A4 | **I'm Writing A Novel** |  |
+| A5 | **O I Long To Feel Your Arms Around Me** |  |
+| A6 | **Misty's Nightmares 1 & 2** |  |
+| B1 | **Only Son Of The Ladiesman** |  |
+| B2 | **This Is Sally Hatchet** |  |
+| B3 | **Well, You Can Do It Without Me** |  |
+| B4 | **Now I'm Learning To Love The War** |  |
+| B5 | **Tee Pees 1-12** |  |
+| B6 | **Everyman Needs A Companion** |  |
+
 ## See also
 
 - ["I Love You, Honeybear"](I_Love_You__Honeybear.md)

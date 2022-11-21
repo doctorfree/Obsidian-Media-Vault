@@ -37,6 +37,13 @@ By Ringo Starr
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Photograph** |  |
+| B | **Down And Out** |  |
+
 ## See also
 
 - [](Ringo_Starr.md)

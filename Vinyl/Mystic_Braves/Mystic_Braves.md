@@ -37,6 +37,20 @@ By Mystic Braves
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mystic Rabbit** |  |
+| A2 | **Trippin' Like I Do** |  |
+| A3 | **Open Up Your Heart** |  |
+| A4 | **Misery Loves Company** |  |
+| A5 | **Oh So Fine** |  |
+| B1 | **Cloud 9** |  |
+| B2 | **Strange Lovers** |  |
+| B3 | **Vicious Cycle** |  |
+| B4 | **High N'Dry ** |  |
+
 ## See also
 
 - [Desert Island](Desert_Island.md)

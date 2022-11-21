@@ -41,6 +41,20 @@ By Mario Lanza
 Cover only, no records
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Orchestral Introduction** |  |
+| A2 | **Serenade** |  |
+| B1 | **Golden Days** |  |
+| B2 | **Drink, Drink, Drink** |  |
+| B3 | **Summertime In Heidelberg** |  |
+| C1 | **Beloved** |  |
+| C2 | **Gaudeamus Igitur** |  |
+| D1 | **Deep In My Heart, Dear** |  |
+| D2 | **I'll Walk With God** |  |
+
 ## See also
 
 - [Arrivederci Roma / It's The Loveliest Night Of The Year](Arrivederci_Roma_-_Its_The_Loveliest_Night_Of_The_Year.md)

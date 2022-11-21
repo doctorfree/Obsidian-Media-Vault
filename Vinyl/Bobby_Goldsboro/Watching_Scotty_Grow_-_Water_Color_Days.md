@@ -37,6 +37,13 @@ By Bobby Goldsboro
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Watching Scotty Grow** | 2:28 |
+| B | **Water Color Days** | 2:45 |
+
 ## See also
 
 - [Honey](Honey.md)

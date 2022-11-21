@@ -37,6 +37,13 @@ By Ann Peebles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **If This Is Heaven** | 3:07 |
+| B | **When I'm In Your Arms** | 3:03 |
+
 ## See also
 
 - [](Ann_Peebles.md)

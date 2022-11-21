@@ -37,6 +37,21 @@ By George Thorogood & The Destroyers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **You Got To Lose** | 3:15 |
+| A2 | **Madison Blues** | 4:24 |
+| A3 | **One Bourbon, One Scotch, One Beer** | 8:20 |
+| A4 | **Kind Hearted Woman** | 3:48 |
+| A5 | **Can't Stop Lovin** | 3:04 |
+| B1 | **Ride On Josephine** | 4:17 |
+| B2 | **Homesick Boy** | 3:02 |
+| B3 | **John Hardy** | 3:18 |
+| B4 | **I'll Change My Style** | 3:57 |
+| B5 | **Delaware Slide** | 7:45 |
+
 ## See also
 
 - [](George_Thorogood_and_The_Destroyers_index.md)

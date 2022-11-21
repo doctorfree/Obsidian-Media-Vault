@@ -37,6 +37,20 @@ By Loggins And Messina
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Nobody But You** |  |
+| A2 | **Danny's Song** |  |
+| A3 | **Vahevala** |  |
+| A4 | **Trilogy:  Lovin' Me/To Make A Woman Feel Wanted/Peace Of Mind** |  |
+| B1 | **Back To Georgia** |  |
+| B2 | **House At Pooh Corner** |  |
+| B3 | **Listen To A Country Song** |  |
+| B4 | **Same Old Wine** |  |
+| B5 | **Rock'n' Roll Mood** |  |
+
 ## See also
 
 - [](Loggins_And_Messina.md)

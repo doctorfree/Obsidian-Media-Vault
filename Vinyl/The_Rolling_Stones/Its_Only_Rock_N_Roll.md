@@ -37,6 +37,21 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **If You Can't Rock Me** | 3:47 |
+| A2 | **Ain't Too Proud To Beg** | 3:32 |
+| A3 | **It's Only Rock 'N Roll (But I Like It)** | 5:08 |
+| A4 | **Till The Next Goodbye** | 4:39 |
+| A5 | **Time Waits For No One** | 6:31 |
+| B1 | **Luxury** | 4:30 |
+| B2 | **Dance Little Sister** | 4:12 |
+| B3 | **If You Really Want To Be My Friend** | 6:17 |
+| B4 | **Short And Curlies** | 2:44 |
+| B5 | **Fingerprint File** | 6:41 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

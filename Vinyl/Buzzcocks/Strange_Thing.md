@@ -37,6 +37,13 @@ By Buzzcocks
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Strange Thing** | 4:08 |
+| B | **Airwaves Dream** | 3:51 |
+
 ## See also
 
 - [](Buzzcocks.md)

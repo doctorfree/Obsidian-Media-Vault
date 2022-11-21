@@ -37,6 +37,19 @@ By Black Sabbath
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **War Pigs / Luke's Wall** | 7:55 |
+| A2 | **Paranoid** | 2:47 |
+| A3 | **Planet Caravan** | 4:29 |
+| A4 | **Iron Man** | 5:54 |
+| B1 | **Electric Funeral** |  |
+| B2 | **Hand Of Doom** |  |
+| B3 | **Rat Salad** |  |
+| B4 | **Jack The Stripper / Fairies Wear Boots** |  |
+
 ## See also
 
 - [Black Sabbath](Black_Sabbath.md)

@@ -37,6 +37,22 @@ By Muse
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Uprising** |  |
+| A2 | **Resistance** |  |
+| A3 | **Undisclosed Desires** |  |
+| B1 | **United States Of Eurasia (+Collateral Damage)** |  |
+| B2 | **Guiding Light** |  |
+| C1 | **Unnatural Selection** |  |
+| C2 | **MK Ultra** |  |
+| C3 | **I Belong To You (+Mon Cœur S'ouvre A Ta Voix)** |  |
+| D1 | **Exogenesis: Symphony Part 1 (Overture)** |  |
+| D2 | **Exogenesis: Symphony Part 2 (Cross-Pollination)** |  |
+| D3 | **Exogenesis: Symphony Part 3 (Redemption)** |  |
+
 ## See also
 
 - [Absolution](Absolution.md)

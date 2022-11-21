@@ -37,6 +37,23 @@ By Adam Ant
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Friend Or Foe** | 3:21 |
+| A2 | **Something Girls** | 2:53 |
+| A3 | **Place In The Country** | 2:47 |
+| A4 | **Desperate But Not Serious** | 4:10 |
+| A5 | **Here Comes The Grump** | 3:31 |
+| A6 | **Hello I Love You** | 2:38 |
+| B1 | **Goody Two Shoes** | 3:27 |
+| B2 | **Crackpot History And The Right To Lie** | 2:44 |
+| B3 | **Made Of Money** | 3:24 |
+| B4 | **Cajun Twisters** | 2:54 |
+| B5 | **Try This For Sighs** | 3:01 |
+| B6 | **Man Called Marco** | 3:25 |
+
 ## See also
 
 - [](Adam_Ant.md)

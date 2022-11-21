@@ -37,6 +37,21 @@ By Joni Mitchell
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **In France They Kiss On Main Street** | 3:17 |
+| A2 | **The Jungle Line** | 4:20 |
+| A3 | **Edith And The Kingpin** | 3:35 |
+| A4 | **Don't Interrupt The Sorrow** | 4:04 |
+| A5 | **Shades Of Scarlett Conquering** | 4:57 |
+| B1 | **The Hissing Of Summer Lawns** | 3:00 |
+| B2 | **The Boho Dance** | 3:56 |
+| B3 | **Harry's House / Centerpiece** | 6:52 |
+| B4 | **Sweet Bird** | 4:10 |
+| B5 | **Shadows And Light** | 4:15 |
+
 ## See also
 
 - [Blue](Blue.md)

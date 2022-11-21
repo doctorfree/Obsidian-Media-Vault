@@ -37,6 +37,27 @@ By Black Eyed Peas
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fallin' Up** |  |
+| A2 | **Clap Your Hands** |  |
+| A3 | **Joints & Jam** |  |
+| A4 | **The Way U Make Me Feel** |  |
+| B1 | **Movement** |  |
+| B2 | **Karma** |  |
+| B3 | **Be Free** |  |
+| B4 | **Say Goodbye** |  |
+| C1 | **Duet** |  |
+| C2 | **Communication** |  |
+| C3 | **What It Is** |  |
+| C4 | **¿Que Dices?** |  |
+| D1 | **A8** |  |
+| D2 | **Love Won't Wait** |  |
+| D3 | **Head Bobs** |  |
+| D4 | **Positivity** |  |
+
 ## See also
 
 - [](Black_Eyed_Peas.md)

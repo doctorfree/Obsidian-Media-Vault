@@ -37,6 +37,16 @@ By "Jan Garbarek - Bobo Stenson Quartet With Palle Danielsson, Jon Christensen"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **A. I. R.** | 8:15 |
+| A2 | **Kukka** | 4:32 |
+| A3 | **Hasta Siempre** | 8:10 |
+| B1 | **Witchi-Tai-To** | 4:24 |
+| B2 | **Desireless** | 20:25 |
+
 ## See also
 
 - [](Jan_Garbarek_-_Bobo_Stenson_Quartet_With_Palle_Danielsson__Jon_Christensen.md)

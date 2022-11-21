@@ -37,6 +37,25 @@ By Steven Wilson
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Vol 1 - Deform To Form A Star** |  |
+| A1 | **Grace For Drowning** | 2:00 |
+| A2 | **Sectarian** | 7:45 |
+| A3 | **Deform To Form A Star** | 8:00 |
+| B1 | **No Part Of Me** | 5:45 |
+| B2 | **Postcard** | 4:30 |
+| B3 | **Raider Prelude** | 2:30 |
+| B4 | **Remainder The Black Dog** | 9:30 |
+|  | **Vol 2 - Like Dust I Have Cleared From My Eye** |  |
+| C1 | **Raider II** | 23:15 |
+| D1 | **Belle De Jour** | 3:00 |
+| D2 | **Index** | 4:45 |
+| D3 | **Track One** | 4:15 |
+| D4 | **Like Dust I Have Cleared From My Eye** | 8:00 |
+
 ## See also
 
 - [The Raven That Refused To Sing (And Other Stories)](The_Raven_That_Refused_To_Sing_And_Other_Stories.md)

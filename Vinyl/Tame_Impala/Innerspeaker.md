@@ -37,6 +37,23 @@ By Tame Impala
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **It Is Not Meant To Be** |  |
+| A2 | **Desire Be Desire Go** |  |
+| A3 | **Alter Ego** |  |
+| B1 | **Lucidity** |  |
+| B2 | **Why Won't You Make Up Your Mind?** |  |
+| B3 | **Solitude Is Bliss** |  |
+| C1 | **Jeremy's Storm** |  |
+| C2 | **Expectation** |  |
+| C3 | **The Bold Arrow Of Time** |  |
+| C4 | **Interlude** |  |
+| D1 | **Runway, Houses, City, Clouds** |  |
+| D2 | **I Don't Really Mind** |  |
+
 ## See also
 
 - [](Tame_Impala.md)

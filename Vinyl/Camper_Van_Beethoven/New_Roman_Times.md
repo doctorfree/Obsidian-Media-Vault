@@ -37,6 +37,35 @@ By Camper Van Beethoven
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1  | **Prelude** | 0:56 |
+| A2 | **Sons Of The New Golden West** | 2:56 |
+| A3 | **51-7** | 4:44 |
+| A4 | **White Fluffy Clouds** | 5:01 |
+| A5 | **That Gum You Like Is Back In Style** | 4:56 |
+| B1 | **Might Makes Right** | 2:47 |
+| B2 | **Militia Song** | 2:10 |
+| B3 | **R 'N' R Uzbekistan** | 1:13 |
+| B4 | **Sons Of The New Golden West (Reprise)** | 0:22 |
+| B5  | **New Roman Times** | 4:47 |
+| B6 | **The Poppies Of Balmorhea** | 3:23 |
+| B7 | **The Long Plastic Hallway** | 5:10 |
+| C1 | **I Am Talking To This Flower** | 2:31 |
+| C2 | **Come Out** | 1:44 |
+| C3 | **Los Tigres Traficantes** | 2:30 |
+| C4 | **I Hate This Part Of Texas** | 2:45 |
+| C5 | **Hippy Chix** | 4:28 |
+| C6  | **Civil Disobedience** | 6:14 |
+| D1 | **Discotheque CVB** | 5:58 |
+| D2 | **Hey Brother** | 2:44 |
+| D3 | **Los Tigres Dub** | 2:38 |
+| D4 | **Alien Ghost Song** | 3:09 |
+| D5 | **It's Gonna Rain** | 4:02 |
+| D6 | **Might Makes Right Dub** | 2:52 |
+
 ## See also
 
 - [Camper Van Beethoven](Camper_Van_Beethoven.md)

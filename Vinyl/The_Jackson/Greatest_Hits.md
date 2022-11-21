@@ -37,6 +37,22 @@ By The Jackson 5
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Want You Back** | 2:58 |
+| A2 | **ABC** | 2:38 |
+| A3 | **Never Can Say Goodbye** | 2:56 |
+| A4 | **Sugar Daddy** | 2:34 |
+| A5 | **I'll Be There** | 3:35 |
+| A6 | **Maybe Tomorrow** | 4:46 |
+| B1 | **The Love You Save** | 2:42 |
+| B2 | **Who's Lovin You** | 3:57 |
+| B3 | **Mama's Pearl** | 3:11 |
+| B4 | **Goin' Back To Indiana** | 3:30 |
+| B5 | **I Found That Girl** | 2:42 |
+
 ## See also
 
 - [Get It Together](Get_It_Together.md)

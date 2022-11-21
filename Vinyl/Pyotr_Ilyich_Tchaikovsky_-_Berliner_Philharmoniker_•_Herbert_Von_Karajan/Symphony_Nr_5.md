@@ -37,6 +37,12 @@ By Pyotr Ilyich Tchaikovsky : Berliner Philharmoniker • Herbert Von Karajan
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Peter Tschaikowsky: Symphony Nr. 5 E-Moll Op.64** |  |
+
 ## See also
 
 - [](Pyotr_Ilyich_Tchaikovsky_-_Berliner_Philharmoniker_•_Herbert_Von_Karajan.md)

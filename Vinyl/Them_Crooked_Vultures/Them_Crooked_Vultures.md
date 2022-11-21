@@ -37,6 +37,24 @@ By Them Crooked Vultures
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **No One Loves Me & Neither Do I** | 5:10 |
+| A2 | **Mind Eraser, No Chaser** | 4:07 |
+| A3 | **New Fang** | 3:49 |
+| A4 | **Dead End Friends** | 3:17 |
+| B1 | **Elephants** | 6:50 |
+| B2 | **Scumbag Blues** | 4:27 |
+| B3 | **Bandoliers** | 5:42 |
+| C1 | **Reptiles** | 4:16 |
+| C2 | **Interlude With Ludes** | 3:44 |
+| C3 | **Warsaw Or The First Breath You Take After You Give Up** | 7:52 |
+| D1 | **Caligulove** | 4:56 |
+| D2 | **Gunman** | 4:47 |
+| D3 | **Spinning In Daffodils** | 7:27 |
+
 ## See also
 
 - [](Them_Crooked_Vultures_index.md)

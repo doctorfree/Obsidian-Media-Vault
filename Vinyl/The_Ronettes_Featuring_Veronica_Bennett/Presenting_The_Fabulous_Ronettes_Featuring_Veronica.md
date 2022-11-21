@@ -35,6 +35,23 @@ By The Ronettes Featuring Veronica Bennett
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Walking In The Rain ** | 2:35 |
+| A2 | **Do I Love You? ** | 2:30 |
+| A3 | **So Young ** | 2:34 |
+| A4 | **(The Best Part Of) Breakin' Up ** | 2:40 |
+| A5 | **I Wonder ** | 2:35 |
+| A6 | **What'd I Say? ** | 4:40 |
+| B1 | **Be My Baby ** | 2:39 |
+| B2 | **You, Baby ** | 2:35 |
+| B3 | **Baby, I Love You ** | 2:49 |
+| B4 | **How Does It Feel? ** | 2:38 |
+| B5 | **When I Saw You** | 2:30 |
+| B6 | **Chapel Of Love** | 2:54 |
+
 ## See also
 
 - [](The_Ronettes_Featuring_Veronica_Bennett.md)

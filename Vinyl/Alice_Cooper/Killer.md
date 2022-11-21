@@ -37,6 +37,19 @@ By Alice Cooper
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Under My Wheels** | 2:50 |
+| A2 | **Be My Lover** | 3:15 |
+| A3 | **Halo Of Flies** | 8:21 |
+| A4 | **Desperado** | 3:25 |
+| B1 | **You Drive Me Nervous** | 2:24 |
+| B2 | **Yeah, Yeah, Yeah** | 3:33 |
+| B3 | **Dead Babies** | 5:40 |
+| B4 | **Killer** | 7:07 |
+
 ## See also
 
 - [Alice Cooper's Greatest Hits](Alice_Coopers_Greatest_Hits.md)

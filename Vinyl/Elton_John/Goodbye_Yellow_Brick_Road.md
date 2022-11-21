@@ -37,6 +37,28 @@ By Elton John
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Funeral For A Friend [Love Lies Bleeding]** |  |
+| A2 | **Candle In The Wind** |  |
+| A3 | **Bennie And The Jets** |  |
+| B1 | **Goodbye Yellow Brick Road** |  |
+| B2 | **This Song Has No Title** |  |
+| B3 | **Grey Seal** |  |
+| B4 | **Jamaica Jerk-off** |  |
+| B5 | **I've Seen That Movie Too** |  |
+| C1 | **Sweet Painted Lady** |  |
+| C2 | **The Ballad Of Danny Bailey [1909 - 34]** |  |
+| C3 | **Dirty Little Girl** |  |
+| C4 | **All The Girls Love Alice** |  |
+| D1 | **Your Sister Can't Twist [But She Can Rock 'n' Roll]** |  |
+| D2 | **Saturday Night's Alright For Fighting** |  |
+| D3 | **Roy Rogers** |  |
+| D4 | **Social Disease** |  |
+| D5 | **Harmony** |  |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

@@ -37,6 +37,18 @@ By The Move
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Looking On** | 7:47 |
+| A2 | **Turkish Tram Conductor Blues** | 4:48 |
+| A3 | **What?** | 6:45 |
+| A4 | **When Alice Comes Back To The Farm** | 3:40 |
+| B1 | **Open Up Said The World At The Door** | 7:12 |
+| B2 | **Brontosaurus** | 4:30 |
+| B3 | **Feel Too Good** | 9:33 |
+
 ## See also
 
 - [Fire Brigade](Fire_Brigade.md)

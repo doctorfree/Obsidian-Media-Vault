@@ -37,6 +37,23 @@ By Tennessee Ernie Ford
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Try Me One More Time** | 2:38 |
+| A2 | **No Letter Today** | 2:30 |
+| A3 | **Born To Lose** | 3:11 |
+| A4 | **Don't Rob Another Man's Castle** | 2:52 |
+| A5 | **There'll Be No Teardrops Tonight** | 2:45 |
+| A6 | **I Don't Hurt Anymore** | 2:46 |
+| B1 | **Worried Mind** | 2:29 |
+| B2 | **No One Will Ever Know** | 2:57 |
+| B3 | **Funny How Time Slips Away** | 3:08 |
+| B4 | **Sweet Dreams** | 2:51 |
+| B5 | **Tears On My Pillow** | 2:45 |
+| B6 | **May You Never Walk Alone** | 2:40 |
+
 ## See also
 
 - [This Lusty Land!](This_Lusty_Land!.md)

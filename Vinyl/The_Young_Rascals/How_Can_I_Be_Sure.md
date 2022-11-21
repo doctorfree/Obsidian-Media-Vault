@@ -37,6 +37,13 @@ By The Young Rascals
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **How Can I Be Sure** | 2:50 |
+| B | **I'm So Happy Now** | 2:46 |
+
 ## See also
 
 - [A Girl Like You / It's Love](A_Girl_Like_You_-_Its_Love.md)

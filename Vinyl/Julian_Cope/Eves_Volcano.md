@@ -37,6 +37,13 @@ By Julian Cope
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Eve's Volcano** | 3:50 |
+| B | **Almost Beautiful Child** | 5:20 |
+
 ## See also
 
 - [](Julian_Cope.md)

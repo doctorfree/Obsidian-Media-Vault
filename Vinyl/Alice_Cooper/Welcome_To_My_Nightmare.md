@@ -37,6 +37,22 @@ By Alice Cooper
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Welcome To My Nightmare** | 5:19 |
+| A2 | **Devil's Food** | 3:38 |
+| A3 | **The Black Widow** | 3:37 |
+| A4 | **Some Folks** | 4:19 |
+| A5 | **Only Women Bleed** | 5:59 |
+| B1 | **Department Of Youth** | 3:18 |
+| B2 | **Cold Ethyl** | 2:51 |
+| B3 | **Years Ago** | 2:51 |
+| B4 | **Steven** | 5:52 |
+| B5 | **The Awakening** | 2:25 |
+| B6 | **Escape** | 3:20 |
+
 ## See also
 
 - [](Alice_Cooper.md)

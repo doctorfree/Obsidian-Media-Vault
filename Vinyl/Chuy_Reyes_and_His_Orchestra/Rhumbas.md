@@ -37,6 +37,19 @@ By Chuy Reyes & His Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Linda Mujer** |  |
+| B | **The Flaming Rumba** |  |
+| C | **Perhaps, Perhaps, Perhaps** |  |
+| D | **Rumba De Fleur** |  |
+| E | **Jack, Jack, Jack (Cu-Tu-Gu-Ru)** |  |
+| F | **Love Me Lazy, Love Me Long** |  |
+| G | **Obsession** |  |
+| H | **"Mama" Son De La Loma** |  |
+
 ## See also
 
 - [](Chuy_Reyes_and_His_Orchestra.md)

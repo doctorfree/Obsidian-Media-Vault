@@ -37,6 +37,19 @@ By Black Oak Arkansas
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Uncle Lijiah** | 3:17 |
+| A2 | **Memories At The Window** | 3:05 |
+| A3 | **The Hills Of Arkansas** | 3:45 |
+| A4 | **I Could Love You** | 6:10 |
+| B1 | **Hot And Nasty** | 2:55 |
+| B2 | **Singing The Blues** | 2:17 |
+| B3 | **Lord Have Mercy On My Soul** | 6:15 |
+| B4 | **When Electricity Came To Arkansas** | 4:26 |
+
 ## See also
 
 - [](Black_Oak_Arkansas_index.md)

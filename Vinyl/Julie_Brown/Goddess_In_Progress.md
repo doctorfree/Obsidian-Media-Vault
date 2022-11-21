@@ -37,6 +37,16 @@ By Julie Brown
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Like 'Em Big And Stupid** | 2:39 |
+| A2 | **The Homecoming Queen's Got A Gun** | 4:37 |
+| B1 | **Will I Make It Through The Eighties?** | 2:20 |
+| B2 | **'Cause I'm A Blond** | 2:14 |
+| B3 | **Earth Girls Are Easy** | 4:44 |
+
 ## See also
 
 - [](Julie_Brown.md)

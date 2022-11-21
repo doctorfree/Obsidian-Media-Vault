@@ -37,6 +37,13 @@ By Frijid Pink
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The House Of The Rising Sun** | 3:23 |
+| B | **Drivin' Blues** | 3:14 |
+
 ## See also
 
 - [](Frijid_Pink.md)

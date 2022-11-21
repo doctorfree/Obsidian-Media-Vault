@@ -37,6 +37,13 @@ By Bobby Womack
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Where Do We Go From Here** | 4:58 |
+| B | **Just My Imagination** | 5:09 |
+
 ## See also
 
 - [](Bobby_Womack.md)

@@ -37,6 +37,12 @@ By "Henryk Szeryng, Johannes Brahms, The London Symphony Orchestra, Antal Dorati
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Violin Concerto In D Major, Opus 77** |  |
+
 ## See also
 
 - [](Henryk_Szeryng__Johannes_Brahms__The_London_Symphony_Orchestra__Antal_Dorati.md)

@@ -37,6 +37,22 @@ By Cass Elliot
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **It's Getting Better** | 3:00 |
+| A2 | **Blow Me A Kiss** | 2:50 |
+| A3 | **Sour Grapes** | 2:35 |
+| A4 | **Easy Come, Easy Go ** | 2:45 |
+| A5 | **I Can Dream, Can't I** | 2:35 |
+| A6 | **Welcome To The World ** | 2:18 |
+| B1 | **Lady Love** | 3:04 |
+| B2 | **He's A Runner** | 3:38 |
+| B3 | **Move In A Little Closer, Baby ** | 2:38 |
+| B4 | **When I Just Wear My Smile** | 2:20 |
+| B5 | **Who's To Blame** | 2:55 |
+
 ## See also
 
 - [](Cass_Elliot.md)

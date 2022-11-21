@@ -37,6 +37,28 @@ By Bee Gees
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Odessa (City On The Black Sea)** | 7:33 |
+| A2 | **You'll Never See My Face Again** | 4:16 |
+| A3 | **Black Diamond** | 3:27 |
+| B1 | **Marley Purt Drive** | 4:26 |
+| B2 | **Edison** | 3:07 |
+| B3 | **Melody Fair** | 3:48 |
+| B4 | **Suddenly** | 2:29 |
+| B5 | **Whisper Whisper** | 3:24 |
+| C1 | **Lamplight** | 4:47 |
+| C2 | **Sound Of Love** | 3:27 |
+| C3 | **Give Your Best** | 3:26 |
+| C4 | **Seven Seas Symphony** | 4:09 |
+| C5 | **With All Nations (International Anthem)** | 1:46 |
+| D1 | **I Laugh In Your Face** | 4:09 |
+| D2 | **Never Say Never Again** | 3:28 |
+| D3 | **First Of May** | 2:48 |
+| D4 | **The British Opera** | 3:17 |
+
 ## See also
 
 - [To Love Somebody / How Can You Mend A Broken Heart](To_Love_Somebody_-_How_Can_You_Mend_A_Broken_Heart.md)

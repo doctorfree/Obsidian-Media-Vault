@@ -37,6 +37,22 @@ By Nick Lowe
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Cruel To Be Kind** | 3:26 |
+| A2 | **Cracking Up** | 2:57 |
+| A3 | **Big Kick, Plain Scrap** | 2:27 |
+| A4 | **American Squirm** | 2:29 |
+| A5 | **You Make Me** | 1:49 |
+| A6 | **Skin Deep** | 3:12 |
+| B1 | **Switch Board Susan** | 3:46 |
+| B2 | **Dose Of You** | 3:18 |
+| B3 | **Without Love** | 2:27 |
+| B4 | **Born Fighter** | 3:07 |
+| B5 | **Love So Fine** | 3:52 |
+
 ## See also
 
 - [Lovers Jamboree](Lovers_Jamboree.md)

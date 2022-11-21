@@ -37,6 +37,23 @@ By The Ozark Mountain Daredevils
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **You Made It Right** | 3:48 |
+| A2 | **Look Away** | 3:35 |
+| A3 | **Jackie Blue** | 4:10 |
+| A4 | **Kansas You Fooler** | 2:37 |
+| A5 | **It Couldn't Be Better** | 4:23 |
+| A6 | **E.E. Lawson** | 3:33 |
+| B1 | **Walkin' Down The Road** | 3:26 |
+| B2 | **What's Happened Along In My Life** | 3:34 |
+| B3 | **It Probably Always Will** | 3:12 |
+| B4 | **Lowlands** | 3:48 |
+| B5 | **Tidal Wave** | 4:10 |
+| B6 | **It'll Shine When It Shines** | 3:37 |
+
 ## See also
 
 - [The Ozark Mountain Daredevils](The_Ozark_Mountain_Daredevils.md)

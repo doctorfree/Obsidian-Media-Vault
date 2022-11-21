@@ -37,6 +37,24 @@ By St. Vincent
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Hang On Me** | 2:48 |
+| A2 | **Pills** | 4:40 |
+| A3 | **Masseduction** | 3:17 |
+| A4 | **Sugarboy** | 4:01 |
+| A5 | **Los Ageless** | 4:41 |
+| A6 | **Happy Birthday, Johnny** | 2:58 |
+| B1 | **Savior** | 3:26 |
+| B2 | **New York** | 2:33 |
+| B3 | **Fear The Future** | 2:31 |
+| B4 | **Young Lover** | 2:33 |
+| B5 | **Dancing With A Ghost** | 0:46 |
+| B6 | **Slow Disco** | 2:44 |
+| B7 | **Smoking Section** | 3:37 |
+
 ## See also
 
 - [St. Vincent](St_Vincent.md)

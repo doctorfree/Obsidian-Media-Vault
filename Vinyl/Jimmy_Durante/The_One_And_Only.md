@@ -37,6 +37,19 @@ By Jimmy Durante
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Inka Dinka Doo** |  |
+| A2 | **Umbriago** |  |
+| A3 | **Start Off Each Day With A Song** |  |
+| A4 | **Durante - The Patron Of The Arts** |  |
+| B1 | **Who Will Be With You When I'm Far Away** |  |
+| B2 | **So I UPS To Him** |  |
+| B3 | **Jimmy, The Well Dressed Man** |  |
+| B4 | **Joe Goes Up - I Come Down** |  |
+
 ## See also
 
 - [](Jimmy_Durante.md)

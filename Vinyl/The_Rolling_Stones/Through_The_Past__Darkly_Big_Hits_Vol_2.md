@@ -37,6 +37,22 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Paint It, Black** | 3:20 |
+| A2 | **Ruby Tuesday** | 3:12 |
+| A3 | **She's A Rainbow** | 4:35 |
+| A4 | **Jumpin' Jack Flash** | 3:40 |
+| A5 | **Mother's Little Helper** | 2:40 |
+| A6 | **Let's Spend The Night Together** | 3:29 |
+| B1 | **Honky Tonk Women** | 3:03 |
+| B2 | **Dandelion** | 3:56 |
+| B3 | **2,000 Light Years From Home** | 4:45 |
+| B4 | **Have You Seen Your Mother Baby, Standing In The Shadow?** | 2:33 |
+| B5 | **Street Fighting Man** | 3:10 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

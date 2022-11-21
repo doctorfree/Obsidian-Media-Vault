@@ -37,6 +37,13 @@ By Ella Fitzgerald
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | ** Melancholy Me** | 2:50 |
+| B | **Somebody Bad Stole De Wedding Bell** | 2:26 |
+
 ## See also
 
 - [](Ella_Fitzgerald.md)

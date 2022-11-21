@@ -37,6 +37,21 @@ By Utopia
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Swing To The Right** | 4:20 |
+| A2 | **Lysistrata** | 2:42 |
+| A3 | **The Up** | 4:07 |
+| A4 | **Junk Rock (Million Monkeys)** | 3:17 |
+| A5 | **Shinola** | 5:17 |
+| B1 | **For The Love Of Money** | 3:41 |
+| B2 | **Last Dollar On Earth** | 4:11 |
+| B3 | **Fahrenheit 451** | 2:47 |
+| B4 | **Only Human** | 5:09 |
+| B5 | **One World** | 3:24 |
+
 ## See also
 
 - [Ra](Ra.md)

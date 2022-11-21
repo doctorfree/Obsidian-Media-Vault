@@ -37,6 +37,13 @@ By The Isley Brothers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Take Me To The Next Phase (Part 1)** | 4:12 |
+| B | **Take Me To The Next Phase (Part 2)** | 3:20 |
+
 ## See also
 
 - [](The_Isley_Brothers.md)

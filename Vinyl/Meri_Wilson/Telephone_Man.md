@@ -37,6 +37,13 @@ By Meri Wilson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Telephone Man** | 1:58 |
+| B | **Itinerary** | 2:51 |
+
 ## See also
 
 - [](Meri_Wilson.md)

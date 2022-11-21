@@ -37,6 +37,13 @@ By Bananarama
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Venus** | 3:49 |
+| B | **White Train** | 3:51 |
+
 ## See also
 
 - [](Bananarama.md)

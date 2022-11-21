@@ -37,6 +37,13 @@ By Vince Vance & The Valiants
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Bomb Iran** | 2:23 |
+| B | **Bye-Bye Baby** | 2:46 |
+
 ## See also
 
 - [](Vince_Vance_and_The_Valiants.md)

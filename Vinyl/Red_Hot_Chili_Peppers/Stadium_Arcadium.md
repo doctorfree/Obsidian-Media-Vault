@@ -37,6 +37,41 @@ By Red Hot Chili Peppers
 - Weight: 150 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Jupiter** |  |
+| A1 | **Dani California** | 4:42 |
+| A2 | **Snow ((Hey Oh))** | 5:35 |
+| A3 | **Charlie** | 4:38 |
+| B1 | **Stadium Arcadium** | 5:15 |
+| B2 | **Hump De Bump** | 3:33 |
+| B3 | **She's Only 18** | 3:25 |
+| B4 | **Slow Cheetah** | 5:20 |
+| C1 | **Torture Me** | 3:44 |
+| C2 | **Strip My Mind** | 4:19 |
+| C3 | **Especially In Michigan** | 4:00 |
+| C4 | **Warlocks** | 3:26 |
+| D1 | **C'mon Girl** | 3:49 |
+| D2 | **Wet Sand** | 5:10 |
+| D3 | **Hey** | 5:40 |
+|  | **Mars** |  |
+| E1 | **Desecration Smile** | 5:00 |
+| E2 | **Tell Me Baby** | 4:08 |
+| E3 | **Hard To Concentrate** | 4:00 |
+| F1 | **21st Century** | 4:22 |
+| F2 | **She Looks To Me** | 4:06 |
+| F3 | **Readymade** | 4:30 |
+| F4 | **If** | 2:52 |
+| G1 | **Make You Feel Better** | 3:52 |
+| G2 | **Animal Bar** | 5:25 |
+| G3 | **So Much I** | 3:44 |
+| G4 | **Storm In A Teacup** | 3:45 |
+| H1 | **We Believe** | 3:35 |
+| H2 | **Turn It Again** | 6:05 |
+| H3 | **Death Of A Martian** | 4:25 |
+
 ## See also
 
 - [Freaky Styley](Freaky_Styley.md)

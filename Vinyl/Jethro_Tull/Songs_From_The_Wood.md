@@ -37,6 +37,20 @@ By Jethro Tull
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Songs From The Wood** | 4:52 |
+| A2 | **Jack-In-The-Green** | 2:27 |
+| A3 | **Cup Of Wonder** | 4:30 |
+| A4 | **Hunting Girl** | 5:11 |
+| A5 | **Ring Out, Solstice Bells** | 3:46 |
+| B1 | **Velvet Green** | 6:03 |
+| B2 | **The Whistler** | 3:30 |
+| B3 | **Pibroch (Cap In Hand)** | 8:37 |
+| B4 | **Fire At Midnight** | 2:26 |
+
 ## See also
 
 - [Aqualung (The 2011 Steven Wilson Stereo Remix)](Aqualung_The_2011_Steven_Wilson_Stereo_Remix.md)

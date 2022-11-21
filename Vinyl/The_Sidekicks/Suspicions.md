@@ -37,6 +37,13 @@ By The Sidekicks
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Suspicions** | 2:37 |
+| V | **Up On The Roof** | 2:34 |
+
 ## See also
 
 - [](The_Sidekicks.md)

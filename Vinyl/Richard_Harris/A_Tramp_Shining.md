@@ -37,6 +37,20 @@ By Richard Harris
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Prelude / Didn't We** | 2:24 |
+| A2 | **Paper Chase** | 2:15 |
+| A3 | **Name Of My Sorrow** | 3:21 |
+| A4 | **Interlude / Lovers Suck As I** | 3:36 |
+| A5 | **In The Final Hours** | 2:45 |
+| B1 | **Mac Arthur Park** | 7:20 |
+| B2 | **Dancing Girl /Interlude** | 2:06 |
+| B3 | **If You Must Leave My Life** | 3:18 |
+| B4 | **A Tramp Shining** | 2:22 |
+
 ## See also
 
 - [](Richard_Harris.md)

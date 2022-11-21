@@ -37,6 +37,15 @@ By Dean Martin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Let Me Go, Lover!** |  |
+| A2 | **The Naughty Lady Of Shady Lane** |  |
+| B1 | **Mambo Italiano** |  |
+| B2 | **That's All I Want From You** |  |
+
 ## See also
 
 - [Everybody Loves Somebody / A Little Voice](Everybody_Loves_Somebody_-_A_Little_Voice.md)

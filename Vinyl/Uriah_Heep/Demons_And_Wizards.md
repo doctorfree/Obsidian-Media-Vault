@@ -37,6 +37,20 @@ By Uriah Heep
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Wizard** | 2:59 |
+| A2 | **Traveller In Time** | 3:26 |
+| A3 | **Easy Livin'** | 2:36 |
+| A4 | **Poet's Justice** | 4:14 |
+| A5 | **Circle Of Hands** | 6:34 |
+| B1 | **Rainbow Demon** | 4:30 |
+| B2 | **All My Life** | 2:46 |
+| B3a | **Paradise** | 12:41 |
+| B3b | **The Spell** |  |
+
 ## See also
 
 - [Look At Yourself](Look_At_Yourself.md)

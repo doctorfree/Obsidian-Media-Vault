@@ -37,6 +37,13 @@ By Oliver
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Good Morning Starshine** | 3:33 |
+| B | **Can't You See** | 2:42 |
+
 ## See also
 
 - [](Oliver.md)

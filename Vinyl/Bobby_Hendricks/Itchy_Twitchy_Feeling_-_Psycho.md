@@ -37,6 +37,13 @@ By Bobby Hendricks
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Itchy Twitchy Feeling** | 2:30 |
+| B | **Psycho** | 2:30 |
+
 ## See also
 
 - [](Bobby_Hendricks.md)

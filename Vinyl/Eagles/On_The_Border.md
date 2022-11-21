@@ -37,6 +37,21 @@ By Eagles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Already Gone** | 4:13 |
+| A2 | **You Never Cry Like A Lover** | 4:02 |
+| A3 | **Midnight Flyer** | 3:58 |
+| A4 | **My Man** | 3:30 |
+| A5 | **On The Border** | 4:28 |
+| B1 | **James Dean** | 3:36 |
+| B2 | **Ol' '55** | 4:22 |
+| B3 | **Is It True?** | 3:14 |
+| B4 | **Good Day In Hell** | 4:27 |
+| B5 | **Best Of My Love** | 4:35 |
+
 ## See also
 
 - [Desperado](Desperado.md)

@@ -37,6 +37,13 @@ By Five Stairsteps
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Ain't Gonna Rest (Till I Get You)** | 2:34 |
+| B | **You Can't See** | 2:45 |
+
 ## See also
 
 - [](Five_Stairsteps.md)

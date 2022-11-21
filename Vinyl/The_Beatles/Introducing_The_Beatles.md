@@ -37,6 +37,23 @@ By The Beatles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Saw Her Standing There** | 2:56 |
+| A2 | **Misery** | 1:50 |
+| A3 | **Anna** | 2:57 |
+| A4 | **Chains** | 2:27 |
+| A5 | **Boys** | 2:27 |
+| A6 | **Love Me Do** | 2:22 |
+| B1 | **P.S. I Love You** | 2:06 |
+| B2 | **Baby It's You** | 2:38 |
+| B3 | **Do You Want To Know A Secret?** | 2:00 |
+| B4 | **A Taste Of Honey** | 2:05 |
+| B5 | **There's A Place** | 1:53 |
+| B6 | **Twist And Shout** | 2:33 |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

@@ -41,6 +41,22 @@ By Dan Hicks And His Hot Licks
 This copy in sleeve with just photos of a town, no text.
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Canned Music** | 4:02 |
+| A2 | **How Can I Miss You When You Won't Go Away?** | 2:38 |
+| A3 | **I Scare Myself** | 5:20 |
+| A4 | **Shorty Takes A Dive** | 3:10 |
+| A5 | **Evenin' Breeze** | 3:55 |
+| B1 | **Waitin' For The "103"** | 3:43 |
+| B2 | **Shorty Falls In Love** | 3:23 |
+| B3 | **Milk Shakin' Mama** | 4:08 |
+| B4 | **Slow Movin'** | 3:05 |
+| B5 | **It's Bad Grammar, Baby** | 2:20 |
+| B6 | **Jukies' Ball** | 4:38 |
+
 ## See also
 
 - [Striking It Rich!](Striking_It_Rich!.md)

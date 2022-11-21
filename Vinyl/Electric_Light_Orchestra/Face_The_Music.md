@@ -37,6 +37,19 @@ By Electric Light Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fire On High** | 5:29 |
+| A2 | **Waterfall** | 4:11 |
+| A3 | **Evil Woman** | 4:34 |
+| A4 | **Nightrider** | 4:22 |
+| B1 | **Poker** | 3:30 |
+| B2 | **Strange Magic** | 4:29 |
+| B3 | **Down Home Town** | 3:53 |
+| B4 | **One Summer Dream** | 5:45 |
+
 ## See also
 
 - [Eldorado - A Symphony By The Electric Light Orchestra](Eldorado_-_A_Symphony_By_The_Electric_Light_Orchestra.md)

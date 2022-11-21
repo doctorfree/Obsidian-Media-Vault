@@ -37,6 +37,19 @@ By Blue Öyster Cult
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Career Of Evil** | 3:54 |
+| A2 | **Subhuman** | 4:37 |
+| A3 | **Dominance And Submission** | 5:22 |
+| A4 | **ME 262** | 4:45 |
+| B1 | **Cagey Cretins** | 3:15 |
+| B2 | **Harvester Of Eyes** | 4:40 |
+| B3 | **Flaming Telepaths** | 5:18 |
+| B4 | **Astronomy** | 6:23 |
+
 ## See also
 
 - [Agents Of Fortune](Agents_Of_Fortune.md)

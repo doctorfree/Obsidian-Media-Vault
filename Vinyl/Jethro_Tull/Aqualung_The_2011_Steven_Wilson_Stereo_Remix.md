@@ -37,6 +37,24 @@ By Jethro Tull
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Aqualung** |  |
+| A1 | **Aqualung** |  |
+| A2 | **Cross-Eyed Mary** |  |
+| A3 | **Cheap Day Return** |  |
+| A4 | **Mother Goose** |  |
+| A5 | **Wond'ring Aloud** |  |
+| A6 | **Up To Me** |  |
+|  | **My God** |  |
+| B1 | **My God** |  |
+| B2 | **Hymn 43** |  |
+| B3 | **Slipstream** |  |
+| B4 | **Locomotive Breath** |  |
+| B5 | **Wind-Up** |  |
+
 ## See also
 
 - [Minstrel In The Gallery (40th Anniversary LP Édition)](Minstrel_In_The_Gallery_40th_Anniversary_LP_Édition.md)

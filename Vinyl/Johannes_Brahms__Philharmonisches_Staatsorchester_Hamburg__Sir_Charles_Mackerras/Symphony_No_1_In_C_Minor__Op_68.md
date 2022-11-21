@@ -37,6 +37,15 @@ By "Johannes Brahms, Philharmonisches Staatsorchester Hamburg, Sir Charles Macke
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Symphony No. 1 In C Minor, Op. 68-Un Poco Sostenuto-Allegro** | 13:17 |
+| A2 | **Op. 68-Adante Sostenuto** | 8:55 |
+| B1 | **Symphony No. 1 In C Minor, Op. 68-Un Poco Allegretto E Grazioso** | 4:38 |
+| B2 | **Op. 68-Adagio-Più Andante-Allegro Non Troppo, Ma Con Brio** | 16:19 |
+
 ## See also
 
 - [](Johannes_Brahms__Philharmonisches_Staatsorchester_Hamburg__Sir_Charles_Mackerras.md)

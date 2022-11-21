@@ -37,6 +37,20 @@ By David Bowie
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Space Oddity** |  |
+| A2 | **Unwashed And Somewhat Slightly Dazed** |  |
+| A3 | **Letter To Hermione** |  |
+| A4 | **Cygnet Committee** |  |
+| B1 | **Janine** |  |
+| B2 | **An Occasional Dream** |  |
+| B3 | **Wild Eyed Boy From Freecloud** |  |
+| B4 | **God Knows I'm Good** |  |
+| B5 | **Memory Of A Free Festival** |  |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

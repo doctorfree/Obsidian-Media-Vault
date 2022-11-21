@@ -37,6 +37,22 @@ By Les Hell On Heels
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Win Some Lose Some** |  |
+| A2 | **I'll Come Runnin'** |  |
+| A3 | **Dogs, Records & Wine** |  |
+| A4 | **Can't Buy Cool** |  |
+| A5 | **Matter Of Time** |  |
+| A6 | **Made Like No Other** |  |
+| B1 | **Pretty Mess** |  |
+| B2 | **Through With You** |  |
+| B3 | **Send Him** |  |
+| B4 | **Sassy** |  |
+| B5 | **C'mon Turn Me On** |  |
+
 ## See also
 
 - [](Les_Hell_On_Heels.md)

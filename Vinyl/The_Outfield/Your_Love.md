@@ -37,6 +37,13 @@ By The Outfield
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Your Love** | 3:22 |
+| B | **61 Seconds** | 4:18 |
+
 ## See also
 
 - [](The_Outfield.md)

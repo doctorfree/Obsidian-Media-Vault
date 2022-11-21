@@ -37,6 +37,22 @@ By David Bowie
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Space Oddity** | 5:10 |
+| A2 | **John, I'm Only Dancing** | 2:43 |
+| A3 | **Changes** | 3:34 |
+| A4 | **Ziggy Stardust** | 3:13 |
+| A5 | **Suffragette City** | 3:20 |
+| A6 | **The Jean Genie** | 4:04 |
+| B1 | **Diamond Dogs** | 5:58 |
+| B2 | **Rebel Rebel** | 4:25 |
+| B3 | **Young Americans** | 5:07 |
+| B4 | **Fame** | 4:10 |
+| B5 | **Golden Years** | 3:55 |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

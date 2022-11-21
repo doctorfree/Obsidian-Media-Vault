@@ -37,6 +37,31 @@ By Elvis Costello
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Clean Money** | 1:57 |
+| A2 | **Girls Talk** | 1:56 |
+| A3 | **Talking In The Dark** | 1:56 |
+| A4 | **Radio Sweetheart** | 2:48 |
+| A5 | **Black And White World** | 1:51 |
+| A6 | **Big Tears** | 3:10 |
+| A7 | **Just A Memory** | 2:14 |
+| A8 | **Night Rally** | 2:40 |
+| A9 | **Stranger In The House** | 3:01 |
+| A10 | **Clowntime Is Over** | 3:39 |
+| B1 | **Getting Mighty Crowded** | 2:05 |
+| B2 | **Hoover Factory** | 1:43 |
+| B3 | **Tiny Steps** | 2:42 |
+| B4 | **(I Don't Want To Go To) Chelsea** | 3:05 |
+| B5 | **Dr. Luther's Assistant** | 3:30 |
+| B6 | **Sunday's Best** | 3:23 |
+| B7 | **Crawling To The U.S.A.** | 2:52 |
+| B8 | **Wednesday Week** | 2:02 |
+| B9 | **My Funny Valentine** | 1:25 |
+| B10 | **Ghost Train** | 3:05 |
+
 ## See also
 
 - [](Elvis_Costello.md)

@@ -37,6 +37,22 @@ By Talking Heads
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Thank You For Sending Me An Angel** | 2:11 |
+| A2 | **With Our Love** | 3:30 |
+| A3 | **The Good Thing** | 3:03 |
+| A4 | **Warning Sign** | 3:55 |
+| A5 | **The Girls Want To Be With The Girls** | 2:37 |
+| A6 | **Found A Job** | 5:00 |
+| B1 | **Artists Only** | 3:34 |
+| B2 | **I'm Not In Love** | 4:33 |
+| B3 | **Stay Hungry** | 2:39 |
+| B4 | **Take Me To The River** | 5:00 |
+| B5 | **The Big Country** | 5:30 |
+
 ## See also
 
 - [Fear Of Music](Fear_Of_Music.md)

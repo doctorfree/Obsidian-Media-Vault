@@ -37,6 +37,19 @@ By Lynyrd Skynyrd
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Ain't The One** | 3:51 |
+| A2 | **Tuesday's Gone** | 7:32 |
+| A3 | **Gimme Three Steps** | 4:30 |
+| A4 | **Simple Man** | 5:57 |
+| B1 | **Things Goin' On** | 4:57 |
+| B2 | **Mississippi Kid** | 3:57 |
+| B3 | **Poison Whiskey** | 3:11 |
+| B4 | **Free Bird** | 9:08 |
+
 ## See also
 
 - [One More For The Fans](One_More_For_The_Fans.md)

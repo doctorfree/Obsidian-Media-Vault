@@ -37,6 +37,13 @@ By The Escape Club
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Wild, Wild West** | 3:59 |
+| B | **We Can Run** | 3:40 |
+
 ## See also
 
 - [](The_Escape_Club.md)

@@ -37,6 +37,25 @@ By The Devil Makes Three
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A 1 | **The Plank** |  |
+| A 2 | **Graveyard** |  |
+| A 3 | **Beneath The Piano** |  |
+| A 4 | **Ten Feet Tall** |  |
+| A 5 | **Shades** |  |
+| A 6 | **Old Number Seven** |  |
+| A 7 | **Chained To The Couch** |  |
+| B 1 | **To The Hilt** |  |
+| B 2 | **The Bullet** |  |
+| B 3 | **For My Family** |  |
+| B 4 | **Nobody's Dirty Business** |  |
+| B 5 | **Dynamite** |  |
+| B 6 | **Fun Has Just Begun** |  |
+| B 7 | **Oceans Cold** |  |
+
 ## See also
 
 - [](The_Devil_Makes_Three_index.md)

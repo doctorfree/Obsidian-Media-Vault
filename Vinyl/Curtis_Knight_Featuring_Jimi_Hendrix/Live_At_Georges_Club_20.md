@@ -35,6 +35,28 @@ By Curtis Knight Featuring Jimi Hendrix
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Introduction** | 0:41 |
+| A2 | **Killing Floor** | 3:22 |
+| A3 | **Last Night** | 2:24 |
+| A4 | **Get Out Of My Life Woman** | 3:48 |
+| A5 | **Ain't That Peculiar** | 4:24 |
+| B1 | **Mercy, Mercy** | 3:30 |
+| B2 | **I'm A Man** | 5:17 |
+| B3 | **Driving South** | 6:03 |
+| B4 | **Baby What You Want Me To Do** | 3:47 |
+| C1 | **I'll Be Doggone** | 2:57 |
+| C2 | **Sweet Little Angel** | 4:33 |
+| C3 | **Let's Go, Let's Go, Let's Go** | 3:55 |
+| C4 | **Travelin' To California** | 4:30 |
+| D1 | **What I Say** | 4:52 |
+| D2 | **Land Of 1000 Dances** | 4:38 |
+| D3 | **Come On (Let The Good Times Roll)** | 4:10 |
+| D4 | **Band Outro** | 0:57 |
+
 ## See also
 
 - [](Curtis_Knight_Featuring_Jimi_Hendrix.md)

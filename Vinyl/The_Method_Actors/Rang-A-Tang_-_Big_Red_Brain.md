@@ -35,6 +35,13 @@ By The Method Actors
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Rang-A-Tang** |  |
+| B | **Big Red Brain** |  |
+
 ## See also
 
 - [](The_Method_Actors.md)

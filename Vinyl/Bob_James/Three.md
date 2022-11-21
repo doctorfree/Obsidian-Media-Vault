@@ -37,6 +37,16 @@ By Bob James
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **One Mint Julep** | 9:04 |
+| A2 | **Women Of Ireland** | 8:00 |
+| B1 | **Westchester Lady** | 7:23 |
+| B2 | **Storm King** | 6:33 |
+| B3 | **Jamaica Farewell** | 5:21 |
+
 ## See also
 
 - [One](One.md)

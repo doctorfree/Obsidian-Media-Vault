@@ -37,6 +37,20 @@ By Porcupine Tree
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Buying New Soul** | 10:24 |
+| A2 | **Access Denied** | 3:35 |
+| B1 | **Cure For Optimism** | 6:11 |
+| B2 | **Untitled** | 8:53 |
+| C1 | **Disappear** | 3:37 |
+| C2 | **Ambulance Chasing** | 6:32 |
+| C3 | **In Formaldehyde** | 5:19 |
+| D1 | **Even Less** | 13:55 |
+| D2 | **Oceans Have No Memory** | 3:06 |
+
 ## See also
 
 - [Nil Recurring](Nil_Recurring.md)

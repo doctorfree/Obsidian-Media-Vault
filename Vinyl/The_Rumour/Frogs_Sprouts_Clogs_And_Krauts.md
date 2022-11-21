@@ -37,6 +37,21 @@ By The Rumour
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Emotional Traffic** | 2:48 |
+| A2 | **We Believe In You / New Age** | 5:06 |
+| A3 | **Frozen Years** | 3:37 |
+| A4 | **Tired Of Waiting** | 3:25 |
+| A5 | **Euro** | 3:53 |
+| B1 | **One Good Night** | 2:46 |
+| B2 | **Loving You (Is Far Too Easy)** | 3:20 |
+| B3 | **All Fall Down** | 2:29 |
+| B4 | **Leaders** | 3:10 |
+| B5 | **I Can't Help Myself** | 2:42 |
+
 ## See also
 
 - [](The_Rumour.md)

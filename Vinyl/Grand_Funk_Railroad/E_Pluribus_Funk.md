@@ -37,6 +37,18 @@ By Grand Funk Railroad
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Footstompin' Music** | 3:45 |
+| A2 | **People, Let's Stop The War** | 5:13 |
+| A3 | **Upsetter** | 4:09 |
+| A4 | **I Come Tumblin'** | 5:42 |
+| B1 | **Save The Land** | 4:12 |
+| B2 | **No Lies** | 3:55 |
+| B3 | **Loneliness** | 8:38 |
+
 ## See also
 
 - [Caught In The Act](Caught_In_The_Act.md)

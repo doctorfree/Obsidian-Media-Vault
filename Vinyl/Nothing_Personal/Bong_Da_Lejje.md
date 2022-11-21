@@ -37,6 +37,13 @@ By Nothing Personal
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Bon'g Da Lejje** |  |
+| B | **On My Blok** |  |
+
 ## See also
 
 - [](Nothing_Personal.md)

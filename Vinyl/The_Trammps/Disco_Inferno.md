@@ -37,6 +37,13 @@ By The Trammps
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Disco Inferno** | 3:35 |
+| B | **You Touch My Hot Line** | 4:23 |
+
 ## See also
 
 - [](The_Trammps.md)

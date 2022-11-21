@@ -37,6 +37,31 @@ By Eminem
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Curtains Up (Skit)** | 0:29 |
+| A2 | **White America** | 5:24 |
+| A3 | **Business** | 4:11 |
+| A4 | **Cleanin Out My Closet** | 4:57 |
+| A5 | **Square Dance** | 5:23 |
+| B1 | **The Kiss (Skit)** | 1:15 |
+| B2 | **Soldier** | 3:46 |
+| B3 | **Say Goodbye Hollywood** | 4:32 |
+| B4 | **Drips** | 4:45 |
+| B5 | **Without Me** | 4:50 |
+| C1 | **Paul Rosenberg (Skit)** | 0:22 |
+| C2 | **Sing For The Moment** | 5:39 |
+| C3 | **Superman** | 5:50 |
+| C4 | **Hailie's Song** | 5:20 |
+| D1 | **Steve Berman (Skit)** | 0:33 |
+| D2 | **When The Music Stops** | 4:29 |
+| D3 | **Say What You Say** | 5:09 |
+| D4 | **Till I Collapse** | 4:57 |
+| D5 | **My Dad's Gone Crazy** | 4:27 |
+| D6 | **Curtains Close (Skit)** | 1:01 |
+
 ## See also
 
 - [](Eminem.md)

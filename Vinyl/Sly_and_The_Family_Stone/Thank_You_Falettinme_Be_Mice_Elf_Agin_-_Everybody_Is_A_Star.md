@@ -37,6 +37,13 @@ By Sly & The Family Stone
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Thank You (Falettinme Be Mice Elf Agin)** | 4:47 |
+| B | **Everybody Is A Star** | 3:00 |
+
 ## See also
 
 - [](Sly_and_The_Family_Stone.md)

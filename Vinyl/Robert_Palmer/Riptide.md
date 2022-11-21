@@ -37,6 +37,20 @@ By Robert Palmer
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Riptide** | 2:24 |
+| A2 | **Hyperactive** | 5:08 |
+| A3 | **Addicted To Love** | 6:01 |
+| A4 | **Trick Bag** | 3:01 |
+| B1 | **Get It Through Your Heart** | 2:49 |
+| B2 | **I Didn't Mean To Turn You On** | 3:43 |
+| B3 | **Flesh Wound** | 3:43 |
+| B4 | **Discipline Of Love** | 6:06 |
+| B5 | **Riptide (Reprise)** | 2:00 |
+
 ## See also
 
 - [](Robert_Palmer.md)

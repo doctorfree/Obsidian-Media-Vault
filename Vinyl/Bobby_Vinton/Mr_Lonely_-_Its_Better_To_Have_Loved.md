@@ -37,6 +37,13 @@ By Bobby Vinton
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Mr. Lonely** |  |
+| B | **It's Better To Have Loved** |  |
+
 ## See also
 
 - [](Bobby_Vinton.md)

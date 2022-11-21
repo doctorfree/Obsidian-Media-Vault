@@ -37,6 +37,19 @@ By David Bowie
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Young Americans** | 5:10 |
+| A2 | **Win** | 4:44 |
+| A3 | **Fascination** | 5:43 |
+| A4 | **Right** | 4:13 |
+| B1 | **Somebody Up There Likes Me** | 6:30 |
+| B2 | **Across The Universe** | 4:30 |
+| B3 | **Can You Hear Me** | 5:04 |
+| B4 | **Fame** | 4:12 |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

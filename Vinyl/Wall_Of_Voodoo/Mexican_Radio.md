@@ -37,6 +37,13 @@ By Wall Of Voodoo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Mexican Radio (Stereo)** | 3:55 |
+| B | **Mexican Radio (Mono)** | 3:55 |
+
 ## See also
 
 - [Dark Continent](Dark_Continent.md)

@@ -39,6 +39,21 @@ By World Entertainment War
 Autographed by band members with personal notes.
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Marlboro Man, Jr.** | 4:25 |
+| A2 | **Left Hand Fights The Right** | 4:09 |
+| A3 | **Dance Your Monster** | 4:05 |
+| A4 | **Purity Test, Part 1** | 1:40 |
+| A5 | **Televisonary** | 6:08 |
+| B1 | **K-Mart Tribal Ballet** | 4:42 |
+| B2 | **Cooked Intelligence** | 4:12 |
+| B3 | **I Dropped Out Of Kindergarten** | 3:51 |
+| B4 | **Purity Test, Part 2** | 0:44 |
+| B5 | **Triple Witching Hour** | 6:58 |
+
 ## See also
 
 - [](World_Entertainment_War.md)

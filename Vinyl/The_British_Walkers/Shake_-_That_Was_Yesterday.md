@@ -37,6 +37,13 @@ By The British Walkers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Shake** | 2:17 |
+| B | **That Was Yesterday** | 2:24 |
+
 ## See also
 
 - [](The_British_Walkers.md)

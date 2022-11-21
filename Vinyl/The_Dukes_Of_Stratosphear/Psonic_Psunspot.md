@@ -37,6 +37,21 @@ By The Dukes Of Stratosphear
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Vanishing Girl** | 2:30 |
+| A2 | **Have You Seen Jackie?** | 3:45 |
+| A3 | **Little Lighthouse** | 4:36 |
+| A4 | **You're A Good Man Albert Brown (Curse You Red Barrel)** | 3:40 |
+| A5 | **Collideascope** | 3:21 |
+| B1 | **You're My Drug** | 3:16 |
+| B2 | **Shiny Cage** | 3:15 |
+| B3 | **Brainiac's Daughter** | 3:58 |
+| B4 | **The Affiliated** | 2:17 |
+| B5 | **Pale And Precious** | 5:05 |
+
 ## See also
 
 - [The Mole From The Ministry](The_Mole_From_The_Ministry.md)

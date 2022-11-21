@@ -37,6 +37,23 @@ By Joe Bonamassa
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Slow Train** | 6:50 |
+| A2 | **Dust Bowl** | 4:33 |
+| A3 | **Tennessee Plates** | 4:19 |
+| B1 | **The Meaning Of The Blues** | 5:44 |
+| B2 | **Black Lung Heartache** | 4:14 |
+| B3 | **You Better Watch Yourself** | 3:31 |
+| C1 | **The Last Matador Of Bayonne** | 5:24 |
+| C2 | **Heartbreaker** | 5:49 |
+| C3 | **No Love On The Street** | 6:32 |
+| D1 | **The Whale That Swallowed Jonah** | 4:46 |
+| D2 | **Sweet Rowena** | 4:34 |
+| D3 | **Prisoner** | 6:49 |
+
 ## See also
 
 - [](Joe_Bonamassa.md)

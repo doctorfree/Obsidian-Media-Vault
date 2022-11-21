@@ -37,6 +37,13 @@ By "Leonard Bernstein, George Gershwin, The New York Philharmonic Orchestra, Col
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **An American In Paris** |  |
+| B | **Rhapsody In Blue** |  |
+
 ## See also
 
 - [](Leonard_Bernstein__George_Gershwin__The_New_York_Philharmonic_Orchestra__Columbia_Symphony_Orchestra.md)

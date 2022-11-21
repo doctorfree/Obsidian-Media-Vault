@@ -37,6 +37,17 @@ By Paul Horn
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Undercurrents** | 5:39 |
+| A2 | **Dream Machine** | 8:04 |
+| A3 | **Vera Cruz** | 7:42 |
+| B1 | **Witch Doctor** | 6:35 |
+| B2 | **Quite Early One Morning** | 8:13 |
+| B3 | **The Juggler** | 5:53 |
+
 ## See also
 
 - [Inside](Inside.md)

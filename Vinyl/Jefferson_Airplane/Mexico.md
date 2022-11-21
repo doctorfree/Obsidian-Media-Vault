@@ -37,6 +37,13 @@ By Jefferson Airplane
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Mexico** | 2:07 |
+| B | **Have You Seen The Saucers** | 3:37 |
+
 ## See also
 
 - [After Bathing At Baxter's](After_Bathing_At_Baxters.md)

@@ -37,6 +37,13 @@ By Bing Crosby
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Silent Night (Christmas Hymn)** |  |
+| B | **Adeste Fideles (Oh, Come, All Ye Faithful)** |  |
+
 ## See also
 
 - [](Bing_Crosby.md)

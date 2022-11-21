@@ -37,6 +37,13 @@ By Jive Bunny And The Mastermixers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Swing The Mood (Radio Mix)** | 4:02 |
+| B | **Glenn Miller Medley (The J.B. Edit)** | 3:47 |
+
 ## See also
 
 - [](Jive_Bunny_And_The_Mastermixers.md)

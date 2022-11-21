@@ -37,6 +37,13 @@ By Orchestral Manoeuvres In The Dark
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Enola Gay** | 3:36 |
+| B | **Annex** | 4:32 |
+
 ## See also
 
 - [Souvenir](Souvenir.md)

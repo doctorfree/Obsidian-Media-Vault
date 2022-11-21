@@ -37,6 +37,21 @@ By Beck
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Colors** |  |
+| A2 | **Seventh Heaven** |  |
+| A3 | **I'm So Free** |  |
+| A4 | **Dear Life** |  |
+| A5 | **No Distraction** |  |
+| B1 | **Dreams** |  |
+| B2 | **Wow** |  |
+| B3 | **Up All Night** |  |
+| B4 | **Square One** |  |
+| B5 | **Fix Me** |  |
+
 ## See also
 
 - [](Beck.md)

@@ -37,6 +37,20 @@ By Jeff Beck Group
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ice Cream Cakes** | 5:40 |
+| A2 | **Glad All Over** | 2:59 |
+| A3 | **Tonight I'll Be Staying Here With You** | 4:57 |
+| A4 | **Sugar Cane** | 4:06 |
+| A5 | **I Can't Give Back The Love I Feel  For You** | 2:42 |
+| B1 | **Going Down** | 6:50 |
+| B2 | **I Got To Have A Song** | 3:28 |
+| B3 | **Highways** | 4:42 |
+| B4 | **Definitely Maybe** | 5:02 |
+
 ## See also
 
 - [](Jeff_Beck_Group_index.md)

@@ -37,6 +37,20 @@ By David Bowie
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Width Of A Circle** | 8:07 |
+| A2 | **All The Madmen** | 5:38 |
+| A3 | **Black Country Rock** | 3:33 |
+| A4 | **After All** | 3:52 |
+| B1 | **Running Gun Blues** | 3:12 |
+| B2 | **Saviour Machine** | 4:27 |
+| B3 | **She Shook Me Cold** | 4:13 |
+| B4 | **The Man Who Sold The World** | 3:58 |
+| B5 | **The Supermen** | 3:39 |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

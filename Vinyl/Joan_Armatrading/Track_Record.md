@@ -37,6 +37,24 @@ By Joan Armatrading
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Drop The Pilot** | 3:42 |
+| A2 | **(I Love It When You) Call Me Names** | 3:24 |
+| A3 | **Frustration** | 3:35 |
+| A4 | **When I Get It Right** | 2:50 |
+| A5 | **I'm Lucky** | 3:04 |
+| A6 | **Me Myself I** | 3:16 |
+| A7 | **The Weakness In Me** | 3:32 |
+| B1 | **Heaven** | 4:40 |
+| B2 | **Down To Zero** | 3:50 |
+| B3 | **Love And Affection** | 4:27 |
+| B4 | **Show Some Emotion** | 3:30 |
+| B5 | **Willow** | 4:03 |
+| B6 | **Rosie** | 3:10 |
+
 ## See also
 
 - [Joan Armatrading](Joan_Armatrading.md)

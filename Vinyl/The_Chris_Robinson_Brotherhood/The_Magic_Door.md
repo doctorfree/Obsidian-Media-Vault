@@ -37,6 +37,18 @@ By The Chris Robinson Brotherhood
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Let's Go Let's Go Let's Go** |  |
+| A2 | **Someday Past The Sunset** |  |
+| B1 | **Appaloosa** |  |
+| B2 | **Little Lizzie Mae** |  |
+| C1 | **Vibration & Light Suite** |  |
+| D1 | **Sorrows Of A Blue Eyed Liar** |  |
+| D2 | **Wheel Don't Roll** |  |
+
 ## See also
 
 - [Phosphorescent Harvest](Phosphorescent_Harvest.md)

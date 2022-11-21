@@ -37,6 +37,20 @@ By Ry Cooder
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Little Sister** | 3:49 |
+| A2 | **Go Home, Girl** | 5:10 |
+| A3 | **The Very Thing That Makes You Rich (Makes Me Poor)** | 5:32 |
+| A4 | **I Think It's Going To Work Out Fine** | 4:43 |
+| B1 | **Down In Hollywood** | 4:14 |
+| B2 | **Look At Granny Run Run** | 3:09 |
+| B3 | **Trouble You Can't Fool Me** | 4:55 |
+| B4 | **Don't You Mess Me Up A Good Thing** | 4:08 |
+| B5 | **I Can't Win** | 4:16 |
+
 ## See also
 
 - [](Ry_Cooder.md)

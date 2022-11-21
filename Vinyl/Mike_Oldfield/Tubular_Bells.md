@@ -37,6 +37,13 @@ By Mike Oldfield
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Tubular Bells** | 25:00 |
+| B | **Tubular Bells** | 23:50 |
+
 ## See also
 
 - [](Mike_Oldfield.md)

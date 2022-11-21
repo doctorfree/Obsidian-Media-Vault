@@ -37,6 +37,13 @@ By Val Martinez
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **You Make Me Happy** | 2:06 |
+| B | **My Souvenirs** | 2:50 |
+
 ## See also
 
 - [](Val_Martinez.md)

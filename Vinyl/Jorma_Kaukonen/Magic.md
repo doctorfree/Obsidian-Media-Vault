@@ -37,6 +37,19 @@ By Jorma Kaukonen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Walkin' Blues** | 3:54 |
+| A2 | **Winin' Boy Blues** | 5:42 |
+| A3 | **I'll Be Alright Some Day** | 3:27 |
+| A4 | **Embryonic Journey** | 2:22 |
+| B1 | **Candyman** | 3:05 |
+| B2 | **Roads And Roads &** | 5:00 |
+| B3 | **Good Shepherd** | 4:19 |
+| B4 | **Mann's Fate** | 6:06 |
+
 ## See also
 
 - [](Jorma_Kaukonen.md)

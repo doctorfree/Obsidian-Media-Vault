@@ -37,6 +37,13 @@ By Kansas
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Carry On Wayward Son** | 3:26 |
+| B | **Questions Of My Childhood** | 3:38 |
+
 ## See also
 
 - [Leftoverture](Leftoverture.md)

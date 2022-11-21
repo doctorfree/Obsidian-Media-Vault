@@ -37,6 +37,21 @@ By BNQT
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Restart** |  |
+| A2 | **Unlikely Force** |  |
+| A3 | **100 Million Miles** |  |
+| A4 | **Mind of a Man** |  |
+| A5 | **Hey Banana** |  |
+| B1 | **Real Love** |  |
+| B2 | **Failing At Feeling** |  |
+| B3 | **L.A. On My Mind** |  |
+| B4 | **Tara** |  |
+| B5 | **Fighting The World** |  |
+
 ## See also
 
 - [](BNQT.md)

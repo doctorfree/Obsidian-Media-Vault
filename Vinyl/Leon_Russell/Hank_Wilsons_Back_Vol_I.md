@@ -37,6 +37,24 @@ By Leon Russell
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Rollin' My Sweet Baby's Arms, Parts 1 & 2** | 4:25 |
+| A2 | **She Thinks I Still Care** | 4:28 |
+| A3 | **I'm So Lonesome I Could Cry** | 3:10 |
+| A4 | **Sail My Ship Alone** | 2:36 |
+| A5 | **Jambalaya (On The Bayou)** | 2:49 |
+| A6 | **Six Pack To Go** | 2:20 |
+| B1 | **Battle Of New Orleans** | 2:38 |
+| B2 | **Uncle Pen** | 2:15 |
+| B3 | **Am I That Easy To Forget** | 2:35 |
+| B4 | **Truck Drivin' Man** | 2:11 |
+| B5 | **The Window Up Above** | 3:24 |
+| B6 | **Lost Highway** | 2:18 |
+| B7 | **Goodnight Irene** | 4:01 |
+
 ## See also
 
 - [Carney](Carney.md)

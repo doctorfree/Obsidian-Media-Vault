@@ -37,6 +37,13 @@ By K.T. Oslin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Didn't Expect It To Go Down This Way** | 3:14 |
+| B | **Round The Clock Lovin'** | 4:04 |
+
 ## See also
 
 - [](KT_Oslin.md)

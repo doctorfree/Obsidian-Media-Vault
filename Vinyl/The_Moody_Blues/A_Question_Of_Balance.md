@@ -37,6 +37,21 @@ By The Moody Blues
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Question** |  |
+| A2 | **How Is It (We Are Here)** |  |
+| A3 | **And The Tide Rushes In** |  |
+| A4 | **Don't You Feel Small** |  |
+| A5 | **Tortoise And The Hare** |  |
+| B1 | **It's Up To You** |  |
+| B2 | **Minstrel's Song** |  |
+| B3 | **Dawning Is The Day** |  |
+| B4 | **Melancholy Man** |  |
+| B5 | **The Balance** |  |
+
 ## See also
 
 - [In Search Of The Lost Chord](In_Search_Of_The_Lost_Chord.md)

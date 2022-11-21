@@ -37,6 +37,13 @@ By Dead Or Alive
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **You Spin Me Round (Like A Record)** | 3:19 |
+| B | **Misty Circles** | 3:48 |
+
 ## See also
 
 - [](Dead_Or_Alive.md)

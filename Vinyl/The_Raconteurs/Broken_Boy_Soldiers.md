@@ -41,6 +41,21 @@ By The Raconteurs
 My copy arrived from. Amazon with track 1 side 2 damaged with some white substance in the grooves and the album cover ripped at the top.
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Steady, As She Goes** | 3:35 |
+| A2 | **Hands** | 3:55 |
+| A3 | **Broken Boy Soldier** | 2:59 |
+| A4 | **Intimate Secretary** | 3:24 |
+| A5 | **Together** | 3:59 |
+| B1 | **Level** | 2:15 |
+| B2 | **Store Bought Bones** | 2:23 |
+| B3 | **Yellow Sun** | 3:15 |
+| B4 | **Call It A Day** | 3:29 |
+| B5 | **Blue Veins** | 3:51 |
+
 ## See also
 
 - [Consolers Of The Lonely](Consolers_Of_The_Lonely.md)

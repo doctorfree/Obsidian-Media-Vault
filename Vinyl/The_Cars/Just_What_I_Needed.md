@@ -37,6 +37,13 @@ By The Cars
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Just What I Needed** | 3:44 |
+| B | **I'm In Touch With Your World** | 3:31 |
+
 ## See also
 
 - [My Best Friend's Girl](My_Best_Friends_Girl.md)

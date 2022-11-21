@@ -37,6 +37,13 @@ By Bobby Helms
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Jingle Bell Rock** | 2:12 |
+| B | **Captain Santa Claus (And His Reindeer Space Patrol)** | 2:29 |
+
 ## See also
 
 - [](Bobby_Helms.md)

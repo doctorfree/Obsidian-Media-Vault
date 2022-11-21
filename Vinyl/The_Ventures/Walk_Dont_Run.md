@@ -37,6 +37,23 @@ By The Ventures
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Morgen** | 2:12 |
+| A2 | **Raunchy** | 2:21 |
+| A3 | **Home** | 2:24 |
+| A4 | **My Own True Love (Tara's Theme)** | 2:19 |
+| A5 | **The Switch** | 2:03 |
+| A6 | **Walk, Don't Run** | 2:08 |
+| B1 | **Night Train** | 2:55 |
+| B2 | **No Trespassing** | 2:03 |
+| B3 | **Caravan** | 2:14 |
+| B4 | **Sleep Walk** | 2:09 |
+| B5 | **The McCoy** | 2:12 |
+| B6 | **Honky Tonk** | 2:47 |
+
 ## See also
 
 - [](The_Ventures.md)

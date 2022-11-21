@@ -37,6 +37,13 @@ By The Grass Roots
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Temptation Eyes** | 2:35 |
+| B | **Keepin' Me Down** | 4:52 |
+
 ## See also
 
 - [Let's Live For Today](Lets_Live_For_Today.md)

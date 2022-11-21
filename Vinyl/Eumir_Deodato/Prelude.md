@@ -37,6 +37,17 @@ By Eumir Deodato
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Also Sprach Zarathustra (2001)** | 9:00 |
+| A2 | **Spirit Of Summer** | 4:04 |
+| A3 | **Carly & Carole** | 3:38 |
+| B1 | **Baubles, Bangles And Beads** | 5:20 |
+| B2 | **Prelude To Afternoon Of A Faun** | 5:13 |
+| B3 | **September 13** | 5:24 |
+
 ## See also
 
 - [](Eumir_Deodato.md)

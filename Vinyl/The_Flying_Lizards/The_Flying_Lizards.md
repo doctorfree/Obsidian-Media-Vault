@@ -37,6 +37,21 @@ By The Flying Lizards
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Der Song Von Mandelay** | 2:27 |
+| A2 | **Her Story** | 4:37 |
+| A3 | **TV** | 3:51 |
+| A4 | **Russia** | 6:11 |
+| A5 | **Summertime Blues** | 3:09 |
+| B1 | **Money (That's What I Want)** | 5:52 |
+| B2 | **The Flood** | 4:57 |
+| B3 | **Trouble** | 2:46 |
+| B4 | **Events During Flood** | 3:25 |
+| B5 | **The Window** | 4:52 |
+
 ## See also
 
 - [](The_Flying_Lizards_index.md)

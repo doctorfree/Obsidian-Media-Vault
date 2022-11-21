@@ -37,6 +37,14 @@ By The Clash
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Gates Of The West** | 3:24 |
+| A2 | **Groovy Times** | 3:24 |
+| B | **I Fought The Law** | 2:38 |
+
 ## See also
 
 - [](The_Clash.md)

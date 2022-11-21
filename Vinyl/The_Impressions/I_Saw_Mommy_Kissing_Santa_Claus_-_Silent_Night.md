@@ -37,6 +37,13 @@ By The Impressions
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Saw Mommy Kissing Santa Claus** | 4:42 |
+| B | **Silent Night** | 3:52 |
+
 ## See also
 
 - [](The_Impressions.md)

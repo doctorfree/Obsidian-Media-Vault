@@ -37,6 +37,13 @@ By Claudio Villa
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **La Novia (La Sposa)** |  |
+| B | **Romantico Amore** |  |
+
 ## See also
 
 - [](Claudio_Villa.md)

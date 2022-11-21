@@ -37,6 +37,18 @@ By The Grateful Dead
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Katie Mae** | 4:46 |
+| A2 | **Dark Hollow** | 3:30 |
+| A3 | **I've Been All Around This World** | 4:40 |
+| A4 | **Wake Up Little Susie** | 2:40 |
+| A5 | **Black Peter** | 7:20 |
+| B1 | **Smokestack Lightnin** | 18:00 |
+| B2 | **Hard To Handle** | 6:14 |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

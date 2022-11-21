@@ -37,6 +37,13 @@ By Depeche Mode
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **People Are People** | 3:43 |
+| B | **In Your Memory** | 4:00 |
+
 ## See also
 
 - [](Depeche_Mode.md)

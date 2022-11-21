@@ -37,6 +37,22 @@ By Terence Trent D'Arby
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **If You All Get To Heaven** | 5:17 |
+| A2 | **If You Let Me Stay** | 3:13 |
+| A3 | **Wishing Well** | 3:29 |
+| A4 | **I'll Never Turn My Back On You (Father's Words)** | 3:36 |
+| A5 | **Dance Little Sister** | 3:53 |
+| A6 | **Seven More Days** | 4:33 |
+| B1 | **Let's Go Forward** | 5:31 |
+| B2 | **Rain** | 2:58 |
+| B3 | **Sign Your Name** | 4:35 |
+| B4 | **As Yet Untitled** | 5:33 |
+| B5 | **Who's Lovin' You** | 4:33 |
+
 ## See also
 
 - [](Terence_Trent_DArby.md)

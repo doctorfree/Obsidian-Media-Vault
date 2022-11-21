@@ -37,6 +37,13 @@ By La Toya Jackson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Heart Don't Lie (7" Edit)** | 3:19 |
+| B | **Without You** | 3:59 |
+
 ## See also
 
 - [](La_Toya_Jackson.md)

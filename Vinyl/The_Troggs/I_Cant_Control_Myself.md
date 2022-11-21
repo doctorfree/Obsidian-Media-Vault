@@ -37,6 +37,13 @@ By The Troggs
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Can't Control Myself** | 3:01 |
+| B | **Gonna Make You** | 2:47 |
+
 ## See also
 
 - [](The_Troggs.md)

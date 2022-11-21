@@ -37,6 +37,20 @@ By Hello People
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **It's A Monday Kind Of Tuesday** | 3:28 |
+| A2 | **Sunrise Meadow** | 5:15 |
+| A3 | **A Stranger At Her Door** | 3:42 |
+| A4 | **Movin' And Growin'** | 3:37 |
+| B1 | **Paisley Teddy Bear** | 2:45 |
+| B2 | **(As I Went Down To) Jerusalem** | 4:10 |
+| B3 | **Lamplight, Nightlight** | 4:30 |
+| B4 | **Mr. Truth Evading, Masquerading Man** | 2:20 |
+| B5 | **Paris In The Rain** | 4:51 |
+
 ## See also
 
 - [Bricks](Bricks.md)

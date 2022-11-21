@@ -37,6 +37,21 @@ By George Duke
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Beginning** | 1:50 |
+| A2 | **Lemme At It** | 4:16 |
+| A3 | **Hot Fire** | 5:31 |
+| A4 | **Reach For It** | 4:53 |
+| A5 | **Just For You** | 4:27 |
+| B1 | **Ómi (Fresh Water)** | 4:50 |
+| B2 | **Searchin' My Mind** | 3:41 |
+| B3 | **Watch Out Baby!** | 5:23 |
+| B4 | **Diamonds** | 6:45 |
+| B5 | **The End** | 1:06 |
+
 ## See also
 
 - [Feel](Feel.md)

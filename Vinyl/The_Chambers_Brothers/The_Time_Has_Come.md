@@ -37,6 +37,21 @@ By The Chambers Brothers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **All Strung Out Over You** |  |
+| A2 | **People Get Ready** |  |
+| A3 | **I Can't Stand It** |  |
+| A4 | **Romeo And Juliet** |  |
+| A5 | **In The Midnight Hour** |  |
+| A6 | **So Tired** |  |
+| B1 | **Uptown** |  |
+| B2 | **Please Don't Leave Me** |  |
+| B3 | **What The World Needs Now Is Love** |  |
+| B4 | **Time Has Come Today** |  |
+
 ## See also
 
 - [](The_Chambers_Brothers.md)

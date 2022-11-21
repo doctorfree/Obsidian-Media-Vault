@@ -37,6 +37,20 @@ By Elton John
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Tiny Dancer** | 6:15 |
+| A2 | **Levon** | 5:22 |
+| A3 | **Razor Face** | 4:42 |
+| A4 | **Madman Across The Water** | 5:56 |
+| B1 | **Indian Sunset** | 6:44 |
+| B2 | **Holiday Inn** | 4:16 |
+| B3 | **Rotten Peaches** | 4:56 |
+| B4 | **All The Nasties** | 5:07 |
+| B5 | **Goodbye** | 1:45 |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

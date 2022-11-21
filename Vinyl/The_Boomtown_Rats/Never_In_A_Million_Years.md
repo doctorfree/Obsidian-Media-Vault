@@ -37,6 +37,13 @@ By The Boomtown Rats
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Never In A Million Years** | 3:51 |
+| B | **Don't Talk To Me** | 2:54 |
+
 ## See also
 
 - [](The_Boomtown_Rats.md)

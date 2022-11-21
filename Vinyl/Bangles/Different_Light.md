@@ -37,6 +37,23 @@ By Bangles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Manic Monday** | 3:03 |
+| A2 | **In A Different Light** | 2:50 |
+| A3 | **Walking Down Your Street** | 3:02 |
+| A4 | **Walk Like An Egyptian** | 3:21 |
+| A5 | **Standing In The Hallway** | 2:53 |
+| A6 | **Return Post** | 4:19 |
+| B1 | **If She Knew What She Wants** | 3:47 |
+| B2 | **Let It Go** | 2:28 |
+| B3 | **September Gurls** | 2:42 |
+| B4 | **Angels Don't Fall In Love** | 3:21 |
+| B5 | **Following** | 3:18 |
+| B6 | **Not Like You** | 3:05 |
+
 ## See also
 
 - [](Bangles.md)

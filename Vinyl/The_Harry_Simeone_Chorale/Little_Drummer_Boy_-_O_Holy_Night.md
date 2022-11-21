@@ -37,6 +37,13 @@ By The Harry Simeone Chorale
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Little Drummer Boy** |  |
+| B | ** O Holy Night** |  |
+
 ## See also
 
 - [](The_Harry_Simeone_Chorale.md)

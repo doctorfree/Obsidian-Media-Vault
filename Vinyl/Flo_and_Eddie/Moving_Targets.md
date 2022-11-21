@@ -37,6 +37,21 @@ By Flo & Eddie
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mama, Open Up** | 4:10 |
+| A2 | **The Love You Gave  Away** | 3:31 |
+| A3 | **Hot** | 3:25 |
+| A4 | **Best Friends (Theme From The Unsold T. V. Pilot)** | 2:02 |
+| A5 | **Best Possible Me** | 4:03 |
+| B1 | **Keep It Warm** | 4:16 |
+| B2 | **Guns** | 3:57 |
+| B3 | **Elenore** | 2:10 |
+| B4 | **Sway When You Walk** | 2:02 |
+| B5 | **Moving Targets** | 4:40 |
+
 ## See also
 
 - ["Illegal, Immoral And Fattening"](Illegal__Immoral_And_Fattening.md)

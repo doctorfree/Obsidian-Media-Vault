@@ -37,6 +37,15 @@ By The Art Van Damme Quintet
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **My Kinda Love** |  |
+| A2 | **I Hear Music** |  |
+| B1 | **Tenderly** |  |
+| B2 | **It's Easy To Remember** |  |
+
 ## See also
 
 - [](The_Art_Van_Damme_Quintet.md)

@@ -37,6 +37,13 @@ By Roky Erickson And The Aliens
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Mine Mine Mind** | 2:34 |
+| B | **Bloody Hammer** | 5:03 |
+
 ## See also
 
 - [](Roky_Erickson_And_The_Aliens.md)

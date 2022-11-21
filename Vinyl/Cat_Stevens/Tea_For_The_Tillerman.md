@@ -37,6 +37,22 @@ By Cat Stevens
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Where Do The Children Play?** | 3:48 |
+| A2 | **Hard Headed Woman** | 3:42 |
+| A3 | **Wild World** | 3:15 |
+| A4 | **Sad Lisa** | 3:39 |
+| A5 | **Miles From Nowhere** | 3:30 |
+| B1 | **But I Might Die Tonight** | 1:51 |
+| B2 | **Longer Boats** | 3:07 |
+| B3 | **Into White** | 3:23 |
+| B4 | **On The Road To Find Out** | 5:07 |
+| B5 | **Father & Son** | 3:36 |
+| B6 | **Tea For The Tillerman** | 1:00 |
+
 ## See also
 
 - [](Cat_Stevens.md)

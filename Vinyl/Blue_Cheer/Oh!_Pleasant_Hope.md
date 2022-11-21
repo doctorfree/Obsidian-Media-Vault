@@ -37,6 +37,20 @@ By Blue Cheer
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Hiway Man** | 4:20 |
+| A2 | **Believer** | 3:55 |
+| A3 | **Money Troubles** | 4:04 |
+| A4 | **Traveling Man** | 3:08 |
+| B1 | **Oh! Pleasant Hope** | 2:37 |
+| B2 | **I'm The Light** | 5:43 |
+| B3 | **Ecological Blues** | 2:23 |
+| B4 | **Lester The Arrester** | 3:09 |
+| B5 | **Heart Full Of Soul** | 4:38 |
+
 ## See also
 
 - [](Blue_Cheer.md)

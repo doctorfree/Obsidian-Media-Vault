@@ -37,6 +37,18 @@ By Big Brother & The Holding Company
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Combination Of The Two** | 5:47 |
+| A2 | **I Need A Man To Love** | 4:51 |
+| A3 | **Summertime** | 3:56 |
+| A4 | **Piece Of My Heart** | 4:13 |
+| B1 | **Turtle Blues** | 4:20 |
+| B2 | **Oh, Sweet Mary** | 4:13 |
+| B3 | **Ball And Chain** | 9:27 |
+
 ## See also
 
 - [](Big_Brother_and_The_Holding_Company.md)

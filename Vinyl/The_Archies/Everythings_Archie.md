@@ -41,6 +41,23 @@ By The Archies
 This copy's cover has "LM-416" while the label says "LW-416-A" and "LW-416-B"
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Feelin' So Good** |  |
+| A2 | **Melody Hill** |  |
+| A3 | **Rock & Roll Music** |  |
+| A4 | **Kissin** |  |
+| A5 | **Don't Touch My Guitar** |  |
+| A6 | **Circle Of Blue** |  |
+| B1 | **Sugar Sugar** |  |
+| B2 | **You Little Angel** |  |
+| B3 | **Bicycles, Roller Skats And You** |  |
+| B4 | **Hot Dog** |  |
+| B5 | **Inside Out - Upside Down** |  |
+| B6 | **Love Light** |  |
+
 ## See also
 
 - [](The_Archies.md)

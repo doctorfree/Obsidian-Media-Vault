@@ -37,6 +37,21 @@ By The Doors
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Strange Days** | 3:05 |
+| A2 | **You're Lost Little Girl** | 3:01 |
+| A3 | **Love Me Two Times** | 3:23 |
+| A4 | **Unhappy Girl** | 2:00 |
+| A5 | **Horse Latitudes** | 1:30 |
+| A6 | **Moonlight Drive** | 3:00 |
+| B1 | **People Are Strange** | 2:10 |
+| B2 | **My Eyes Have Seen You** | 2:22 |
+| B3 | **I Can't See Your Face In My Mind** | 3:18 |
+| B4 | **When The Music's Over** | 11:00 |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

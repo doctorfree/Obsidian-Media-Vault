@@ -37,6 +37,13 @@ By Frank Sinatra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Love And Marriage** | 2:37 |
+| B | **The Impatient Years** | 3:13 |
+
 ## See also
 
 - [In The Wee Small Hours](In_The_Wee_Small_Hours.md)

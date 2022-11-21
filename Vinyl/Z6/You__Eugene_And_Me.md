@@ -37,6 +37,13 @@ By Z6
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A! | **You, Eugene And Me** |  |
+| B1 | **Electric Music** |  |
+
 ## See also
 
 - [](Z6.md)

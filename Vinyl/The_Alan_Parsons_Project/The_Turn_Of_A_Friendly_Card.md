@@ -37,6 +37,17 @@ By The Alan Parsons Project
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **May Be A Price To Pay** | 4:52 |
+| A2 | **Games People Play** | 4:17 |
+| A3 | **Time** | 5:05 |
+| A4 | **I Don't Wanna Go Home** | 4:54 |
+| B1 | **The Gold Bug** | 4:28 |
+|  | **The Turn Of A Friendly Card** | 16:19 |
+
 ## See also
 
 - [Eye In The Sky](Eye_In_The_Sky.md)

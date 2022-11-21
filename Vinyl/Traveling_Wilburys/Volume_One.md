@@ -37,6 +37,21 @@ By Traveling Wilburys
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Handle With Care** | 3:20 |
+| A2 | **Dirty World** | 3:30 |
+| A3 | **Rattled** | 3:00 |
+| A4 | **Last Night** | 3:48 |
+| A5 | **Not Alone Any More** | 3:24 |
+| B1 | **Congratulations** | 3:30 |
+| B2 | **Heading For The Light** | 3:37 |
+| B3 | **Margarita** | 3:16 |
+| B4 | **Tweeter And The Monkey Man** | 5:30 |
+| B5 | **End Of The Line** | 3:30 |
+
 ## See also
 
 - [The Traveling Wilburys Collection](The_Traveling_Wilburys_Collection.md)

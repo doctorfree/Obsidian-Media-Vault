@@ -37,6 +37,20 @@ By Flo & Eddie
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Illegal, Immoral And Fattening** | 3:11 |
+| A2 | **Rebecca** | 2:41 |
+| A3 | **Kama Sutra Time** | 6:40 |
+| A4 | **The Sanzini Brothers Return (With The Tibetan Memory Trick)** | 2:50 |
+| A5 | **Livin' In The Jungle** | 3:40 |
+| B1 | **Cheap** | 2:40 |
+|  | **Live Medley** | 10:17 |
+| B5 | **Let Me Make Love To You** | 2:20 |
+| B6 | **There's No Business Like Show Business** | 3:40 |
+
 ## See also
 
 - [Moving Targets](Moving_Targets.md)

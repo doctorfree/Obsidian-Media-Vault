@@ -37,6 +37,18 @@ By Funkadelic
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Maggot Brain** | 10:17 |
+| A2 | **Can You Get To That** | 2:49 |
+| A3 | **Hit It And Quit It** | 3:50 |
+| A4 | **You And Your Folks, Me And My Folks** | 3:36 |
+| B1 | **Super Stupid** | 3:59 |
+| B2 | **Back In Our Minds** | 2:38 |
+| B3 | **Wars Of Armageddon** | 9:43 |
+
 ## See also
 
 - [](Funkadelic.md)

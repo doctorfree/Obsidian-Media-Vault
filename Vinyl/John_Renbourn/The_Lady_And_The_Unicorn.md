@@ -37,6 +37,26 @@ By John Renbourn
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1.a | **Trotto** | 0:40 |
+| A1.b | **Saltarrello** | 1:53 |
+| A2.a | **Lamento Di Tristan** | 1:58 |
+| A2.b | **La Rotta** | 0:55 |
+| A3.a | **Veri Floris** | 0:44 |
+| A3.b | **Triple Ballade** | 2:00 |
+| A4.a | **Bransle Gay** | 1:13 |
+| A4.b | **Bransle De Bourgoyne** | 1:34 |
+| A5.a | **Alman** | 1:25 |
+| A5.b | **Melancholy Galliard** | 2:47 |
+| A6 | **Sarabande** | 2:41 |
+| B1 | **The Lady And The Unicorn** | 3:21 |
+| B2.a | **My Johnny Was A Shoemaker** | 4:16 |
+| B2.b | **Western Wynde** | 1:25 |
+| B2.c | **Scarborough Fair** | 7:22 |
+
 ## See also
 
 - [Sir John Alot Of Merrie Englandes Musyk Thyng & Ye Grene Knyghte](Sir_John_Alot_Of_Merrie_Englandes_Musyk_Thyng_and_Ye_Grene_Knyghte.md)

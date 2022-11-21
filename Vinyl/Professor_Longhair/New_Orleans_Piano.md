@@ -37,6 +37,24 @@ By Professor Longhair
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **In The Night** | 2:23 |
+| A2 | **Tipitina** | 2:29 |
+| A3 | **Hey Now Baby** | 2:47 |
+| A4 | **Walk Your Blues Away** | 2:46 |
+| A5 | **Hey Little Girl** | 2:52 |
+| A6 | **Willie Mae** | 2:38 |
+| A7 | **Professor Longhair Blues** | 2:19 |
+| B1 | **Ball The Wall** | 3:09 |
+| B2 | **Who's Been Fooling You** | 2:03 |
+| B3 | **Boogie Woogie** | 2:31 |
+| B4 | **Longhair's Blues-Rhumba** | 3:02 |
+| B5 | **Mardi Gras In New Orleans** | 2:42 |
+| B6 | **She Walks Right In** | 2:42 |
+
 ## See also
 
 - [Crawfish Fiesta](Crawfish_Fiesta.md)

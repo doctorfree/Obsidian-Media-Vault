@@ -37,6 +37,21 @@ By Billy Joel
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Movin' Out (Anthony's Song)** | 3:30 |
+| A2 | **The Stranger** | 5:08 |
+| A3 | **Just The Way You Are** | 4:50 |
+| A4 | **Scenes From An Italian Restaurant** | 7:35 |
+| B1 | **Vienna** | 3:32 |
+| B2 | **Only The Good Die Young** | 3:54 |
+| B3 | **She's Always A Woman** | 3:19 |
+| B4 | **Get It Right The First Time** | 3:54 |
+| B5 | **Everybody Has A Dream** | 4:35 |
+| B6 | **Untitled** | 1:57 |
+
 ## See also
 
 - [](Billy_Joel.md)

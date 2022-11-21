@@ -37,6 +37,19 @@ By Procol Harum
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Conquistador** |  |
+| A2 | **Whaling Stories** |  |
+| B1 | **A Salty Dog** |  |
+| B2 | **All This And More** |  |
+|  | **In Held 'Twas In I** |  |
+| D1 | **Luskus Delph (B-Side)** |  |
+| D2 | **Simple Sister (Rehearsal)** |  |
+| D3 | **Shine On Brightly (Rehearsal)** |  |
+
 ## See also
 
 - [](Procol_Harum.md)

@@ -37,6 +37,33 @@ By Donovan
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Wear Your Love Like Heaven** | 2:26 |
+| A2 | **Mad John's Escape** | 2:16 |
+| A3 | **Skip-A-Long Sam** | 2:23 |
+| A4 | **Sun** | 3:13 |
+| A5 | **There Was A Time** | 1:59 |
+| B1 | **Oh Gosh** | 1:42 |
+| B2 | **Little Boy In Corduroy** | 2:33 |
+| B3 | **Under The Greenwood Tree** | 1:53 |
+| B4 | **The Land Of Doesn't Have To Be** | 2:32 |
+| B5 | **Someone's Singing** | 2:44 |
+| C1 | **Song Of The Naturalist's Wife** | 2:50 |
+| C2 | **The Enchanted Gypsy** | 3:15 |
+| C3 | **Voyage Into The Golden Screen** | 3:10 |
+| C4 | **Isle Of Islay** | 2:20 |
+| C5 | **The Mandolin Man And His Secret** | 3:28 |
+| C6 | **Lay Of The Last Tinker** | 1:45 |
+| D1 | **The Tinker And The Crab** | 2:50 |
+| D2 | **Widow With Shawl (A Portrait)** | 2:57 |
+| D3 | **The Lullaby Of Spring** | 3:22 |
+| D4 | **The Magpie** | 1:26 |
+| D5 | **Starfish-On-The-Toast** | 2:38 |
+| D6 | **Epistle To Derroll** | 5:42 |
+
 ## See also
 
 - [Cosmic Wheels](Cosmic_Wheels.md)

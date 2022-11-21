@@ -37,6 +37,13 @@ By Wings
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Goodnight Tonight** | 7:25 |
+| B | **Daytime Nightime Suffering** | 3:19 |
+
 ## See also
 
 - [London Town](London_Town.md)

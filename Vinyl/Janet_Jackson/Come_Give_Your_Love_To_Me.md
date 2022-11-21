@@ -37,6 +37,13 @@ By Janet Jackson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Come Give Your Love To Me** | 3:57 |
+| B | **Forever Yours** | 4:58 |
+
 ## See also
 
 - [Black Cat](Black_Cat.md)

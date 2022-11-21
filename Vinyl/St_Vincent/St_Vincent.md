@@ -37,6 +37,22 @@ By St. Vincent
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Rattlesnake** | 3:34 |
+| A2 | **Birth In Reverse** | 3:15 |
+| A3 | **Prince Johnny** | 4:36 |
+| A4 | **Huey Newton** | 4:37 |
+| A5 | **Digital Witness** | 3:22 |
+| A6 | **I Prefer Your Love** | 3:36 |
+| B1 | **Regret** | 3:21 |
+| B2 | **Bring Me Your Loves** | 3:15 |
+| B3 | **Psychopath** | 3:32 |
+| B4 | **Every Tear Disappears** | 3:15 |
+| B5 | **Severed Crossed Fingers** | 3:42 |
+
 ## See also
 
 - [Masseduction](Masseduction.md)

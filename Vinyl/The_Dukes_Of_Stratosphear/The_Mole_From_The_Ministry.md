@@ -37,6 +37,13 @@ By The Dukes Of Stratosphear
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Mole From The Ministry** | 4:14 |
+| B | **My Love Explodes** | 3:49 |
+
 ## See also
 
 - [Psonic Psunspot](Psonic_Psunspot.md)

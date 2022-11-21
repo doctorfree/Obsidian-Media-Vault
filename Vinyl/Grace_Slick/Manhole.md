@@ -37,6 +37,17 @@ By Grace Slick
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Jay** |  |
+| A2 | **Theme From The Movie "Manhole"** |  |
+| B1 | **?Come Again? Toucan** |  |
+| B2 | **It's Only Music** |  |
+| B3 | **Better Lying Down** |  |
+| B4 | **Epic (#38)** |  |
+
 ## See also
 
 - [](Grace_Slick.md)

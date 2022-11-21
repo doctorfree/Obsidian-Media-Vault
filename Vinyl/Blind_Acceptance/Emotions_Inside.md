@@ -37,6 +37,16 @@ By Blind Acceptance
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **An Emotion Inside** |  |
+| A2 | **Distant Search** |  |
+| B1 | **False Identity** |  |
+| B2 | **Mental Isolation** |  |
+| B3 | **Shoelaces** |  |
+
 ## See also
 
 - [](Blind_Acceptance.md)

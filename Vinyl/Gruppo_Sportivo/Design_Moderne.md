@@ -37,6 +37,23 @@ By Gruppo Sportivo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Go 'N Get It!** | 2:16 |
+| A2 | **(Gimme A) Break** | 2:31 |
+| A3 | **Happily Unemployed** | 2:32 |
+| A4 | **Memories Are Memories** | 2:27 |
+| A5 | **Mein Geilstes Lied** | 4:05 |
+| A6 | **And So On** | 3:30 |
+| B1 | **Blame It On The Mad** | 2:36 |
+| B2 | **James' Last Car** | 3:14 |
+| B3 | **Newspaper** | 3:00 |
+| B4 | **Fiona** | 3:38 |
+| B5 | **On Her Own** | 3:19 |
+| B6 | **The Goofananahoo** | 2:32 |
+
 ## See also
 
 - [Back To 78](Back_To_78.md)

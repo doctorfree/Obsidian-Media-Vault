@@ -37,6 +37,13 @@ By Johnnie Ray
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Please, Mr. Sun** |  |
+| B | **Here Am I - Broken Hearted** |  |
+
 ## See also
 
 - [](Johnnie_Ray.md)

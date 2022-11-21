@@ -37,6 +37,31 @@ By David Bowie
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Introduction** | 1:47 |
+| A2 | **1984** | 2:55 |
+| A3 | **Rebel Rebel** | 2:31 |
+| A4 | **Moonage Daydream** | 5:17 |
+| A5 | **Sweet Thing / Candidate / Sweet Thing (Reprise)** | 7:41 |
+| B1 | **Changes** | 3:47 |
+| B2 | **Suffragette City** | 3:49 |
+| B3 | **Aladdin Sane** | 5:01 |
+| B4 | **All The Young Dudes** | 4:09 |
+| B5 | **Cracked Actor** | 3:20 |
+| C1 | **Rock 'N' Roll With Me** | 4:54 |
+| C2 | **Knock On Wood** | 3:16 |
+| C3 | **It's Gonna Be Me** | 7:11 |
+| C4 | **Space Oddity** | 5:23 |
+| D1 | **Diamond Dogs** | 6:58 |
+| D2 | **Big Brother** | 4:05 |
+| D3 | **Time** | 5:44 |
+| E1 | **The Jean Genie** | 5:45 |
+| E2 | **Rock 'N' Roll Suicide** | 5:10 |
+| E3 | **John, I'm Only Dancing (Again)** | 8:41 |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

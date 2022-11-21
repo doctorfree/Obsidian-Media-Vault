@@ -37,6 +37,13 @@ By Dean Martin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Everybody Loves Somebody** | 2:40 |
+| B | **A Little Voice** | 2:05 |
+
 ## See also
 
 - ["Let Me Go, Lover"](Let_Me_Go__Lover.md)

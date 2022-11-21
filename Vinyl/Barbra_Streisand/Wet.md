@@ -37,6 +37,20 @@ By Barbra Streisand
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Wet** | 3:56 |
+| A2 | **Come Rain Or Come Shine** | 4:43 |
+| A3 | **Splish Splash** | 4:15 |
+| A4 | **On Rainy Afternoons** | 3:08 |
+| A5 | **After The Rain** | 3:40 |
+| B1 | **No More Tears (Enough Is Enough)** | 8:19 |
+| B2 | **Niagara** | 3:30 |
+| B3 | **I Ain't Gonna Cry Tonight** | 5:00 |
+| B4 | **Kiss Me In The Rain** | 4:16 |
+
 ## See also
 
 - [](Barbra_Streisand.md)

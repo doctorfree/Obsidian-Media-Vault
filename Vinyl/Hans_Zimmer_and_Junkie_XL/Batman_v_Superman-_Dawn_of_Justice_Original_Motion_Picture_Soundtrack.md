@@ -37,6 +37,29 @@ By Hans Zimmer & Junkie XL
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Beautiful Lie** | 3:47 |
+| A2 | **Their War Here** | 4:35 |
+| A3 | **The Red Capes Are Coming** | 3:32 |
+| A4 | **Day Of The Dead** | 4:02 |
+| B1 | **Must There Be A Superman?** | 3:59 |
+| B2 | **New Rules** | 4:03 |
+| B3 | **Do You Bleed?** | 4:36 |
+| B4 | **Problems Up Here** | 4:25 |
+| C1 | **Black and Blue** | 8:31 |
+| C2 | **Tuesday** | 4:01 |
+| C3 | **Is She With You?** | 5:47 |
+| D1 | **This Is My World** | 6:24 |
+| D2 | **Men Are Still Good (The Batman Suite)** | 14:04 |
+| E1 | **Blood of My Blood** | 4:26 |
+| E2 | **Vigilante** | 3:54 |
+| E3 | **May I Help You, Mr. Wayne?** | 3:28 |
+| E4 | **They Were Hunters** | 2:46 |
+| E5 | **Fight Night** | 4:20 |
+
 ## See also
 
 - [](Hans_Zimmer_and_Junkie_XL.md)

@@ -37,6 +37,13 @@ By Herman's Hermits
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Listen People** | 2:31 |
+| B | **Got A Feeling** | 2:08 |
+
 ## See also
 
 - [The Best Of Herman's Hermits](The_Best_Of_Hermans_Hermits.md)

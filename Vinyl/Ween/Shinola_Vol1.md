@@ -37,6 +37,23 @@ By Ween
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Tastes Good On Th' Bun** |  |
+| A2 | **Boys Club** |  |
+| A3 | **I Fell In Love Today** |  |
+| A4 | **Big Fat Fuck** |  |
+| A5 | **Gabrielle** |  |
+| A6 | **Did You See Me?** |  |
+| B7 | **How High Can You Fly** |  |
+| B8 | **Transitions** |  |
+| B9 | **Israel** |  |
+| B10 | **The Rift** |  |
+| B11 | **Monique The Freak** |  |
+| B12 | **Someday** |  |
+
 ## See also
 
 - [](Ween.md)

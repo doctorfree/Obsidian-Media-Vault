@@ -37,6 +37,22 @@ By Joni Mitchell
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Court And Spark** | 2:46 |
+| A2 | **Help Me** | 3:22 |
+| A3 | **Free Man In Paris** | 3:02 |
+| A4 | **People's Parties** | 2:20 |
+| A5 | **The Same Situation** | 3:05 |
+| B1 | **Car On A Hill** | 2:58 |
+| B2 | **Down To You** | 5:36 |
+| B3 | **Just Like This Train** | 4:23 |
+| B4 | **Raised On Robbery** | 3:05 |
+| B5 | **Trouble Child** | 3:57 |
+| B6 | **Twisted** | 2:18 |
+
 ## See also
 
 - [Blue](Blue.md)

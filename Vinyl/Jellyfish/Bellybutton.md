@@ -37,6 +37,21 @@ By Jellyfish
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Man I Used To Be** | 4:34 |
+| A2 | **That Is Why** | 4:16 |
+| A3 | **The King Is Half-Undressed** | 3:47 |
+| A4 | **I Wanna Stay Home** | 4:06 |
+| A5 | **She Still Loves Him** | 4:31 |
+| B1 | **All I Want Is Everything** | 3:44 |
+| B2 | **Now She Knows She's Wrong** | 2:36 |
+| B3 | **Bedspring Kiss** | 5:03 |
+| B4 | **Baby's Coming Back** | 2:57 |
+| B5 | **Calling Sarah** | 4:03 |
+
 ## See also
 
 - [Radio Jellyfish](Radio_Jellyfish.md)

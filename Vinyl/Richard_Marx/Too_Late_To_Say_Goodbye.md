@@ -37,6 +37,13 @@ By Richard Marx
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Too Late To Say Goodbye (Single Version)** | 4:04 |
+| B | **Real World (LP Version)** | 4:13 |
+
 ## See also
 
 - [](Richard_Marx.md)

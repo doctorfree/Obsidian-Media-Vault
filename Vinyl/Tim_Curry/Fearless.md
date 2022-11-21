@@ -37,6 +37,20 @@ By Tim Curry
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Right On The Money** | 3:14 |
+| A2 | **Hide This Face** | 2:54 |
+| A3 | **I Do The Rock** | 4:45 |
+| A4 | **S.O.S.** | 4:16 |
+| A5 | **Cold Blue Steel And Sweet Fire** | 3:34 |
+| B1 | **Paradise Garage** | 6:12 |
+| B2 | **No Love On The Street** | 4:52 |
+| B3 | **Something Short Of Paradise** | 3:20 |
+| B4 | **Charge It** | 5:16 |
+
 ## See also
 
 - [](Tim_Curry.md)

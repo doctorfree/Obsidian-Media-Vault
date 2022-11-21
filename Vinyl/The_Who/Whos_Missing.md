@@ -37,6 +37,23 @@ By The Who
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Shout And Shimmy** | 3:16 |
+| A2 | **Leaving Here** | 2:49 |
+| A3 | **Anytime You Want Me** | 2:35 |
+| A4 | **Lubie (Come Back Home)** | 3:38 |
+| A5 | **Barbara Ann** | 2:00 |
+| A6 | **I'm A Boy (1st Version)** | 2:36 |
+| A7 | **Mary-Anne With The Shaky Hands (Original Version)** | 3:16 |
+| B1 | **Heaven And Hell** | 3:33 |
+| B2 | **Here For More** | 2:25 |
+| B3 | **I Don't Even Know Myself** | 5:00 |
+| B4 | **When I Was A Boy** | 3:29 |
+| B5 | **Bargain (Live)** | 6:22 |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

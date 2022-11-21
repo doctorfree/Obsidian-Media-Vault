@@ -37,6 +37,13 @@ By Glen Campbell
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sunflower** | 2:50 |
+| B | **How High Did We Go** | 3:04 |
+
 ## See also
 
 - [](Glen_Campbell.md)

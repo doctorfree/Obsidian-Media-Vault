@@ -37,6 +37,13 @@ By Jack Ross
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Cinderella** | 3:27 |
+| B | **Margarita** | 2:20 |
+
 ## See also
 
 - [](Jack_Ross.md)

@@ -37,6 +37,17 @@ By Wall Of Voodoo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Longarm** | 3:44 |
+| A2 | **The Passenger** | 4:07 |
+| B1 | **Can't Make Love** | 3:47 |
+| B2 | **Struggle** | 2:14 |
+| B3 | **Ring Of Fire** | 4:59 |
+| B4 | **Granma's House** | 0:55 |
+
 ## See also
 
 - [Dark Continent](Dark_Continent.md)

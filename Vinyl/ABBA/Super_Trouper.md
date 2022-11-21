@@ -37,6 +37,21 @@ By ABBA
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Super Trouper** | 4:13 |
+| A2 | **The Winner Takes It All** | 4:55 |
+| A3 | **On And On And On** | 3:41 |
+| A4 | **Andante, Andante** | 4:38 |
+| A5 | **Me And I** | 4:53 |
+| B1 | **Happy New Year** | 4:37 |
+| B2 | **Our Last Summer** | 4:18 |
+| B3 | **The Piper** | 3:25 |
+| B4 | **Lay All Your Love On Me** | 4:33 |
+| B5 | **The Way Old Friends Do** | 2:53 |
+
 ## See also
 
 - [Fernando / Dancing Queen](Fernando_-_Dancing_Queen.md)

@@ -37,6 +37,22 @@ By Counting Crows
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Round Here** | 5:31 |
+| A2 | **Omaha** | 3:39 |
+| A3 | **Mr. Jones** | 4:32 |
+| B1 | **Perfect Blue Buildings** | 5:00 |
+| B2 | **Anna Begins** | 4:31 |
+| B3 | **Time And Time Again** | 5:14 |
+| C1 | **Rain King** | 4:15 |
+| C2 | **Sullivan Street** | 4:29 |
+| C3 | **Ghost Train** | 4:02 |
+| D1 | **Raining In Baltimore** | 4:41 |
+| D2 | **A Murder Of One** | 5:43 |
+
 ## See also
 
 - [](Counting_Crows.md)

@@ -37,6 +37,21 @@ By Linda Ronstadt
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **It's So Easy** | 2:27 |
+| A2 | **Carmelita** | 3:07 |
+| A3 | **Simple Man, Simple Dreams** | 3:12 |
+| A4 | **Sorrow Lives Here** | 2:57 |
+| A5 | **I Never Will Marry** | 3:12 |
+| B1 | **Blue Bayou** | 3:57 |
+| B2 | **Poor Poor Pitiful Me** | 3:42 |
+| B3 | **Maybe I'm Right** | 3:05 |
+| B4 | **Tumbling Dice** | 3:05 |
+| B5 | **Old Paint** | 3:05 |
+
 ## See also
 
 - [Don't Cry Now](Dont_Cry_Now.md)

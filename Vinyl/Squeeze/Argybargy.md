@@ -37,6 +37,22 @@ By Squeeze
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Pulling Mussels (From The Shell)** | 4:00 |
+| A2 | **Another Nail In My Heart** | 2:58 |
+| A3 | **Separate Beds** | 3:21 |
+| A4 | **Misadventure** | 2:56 |
+| A5 | **I Think I'm Go Go** | 4:19 |
+| B1 | **If I Didn't Love You** | 4:13 |
+| B2 | **Farfisa Beat** | 2:58 |
+| B3 | **Here Comes That Feeling** | 2:12 |
+| B4 | **Vicky Verky** | 3:12 |
+| B5 | **Wrong Side Of The Moon** | 2:25 |
+| B6 | **There At The Top** | 3:46 |
+
 ## See also
 
 - [Sweets From A Stranger](Sweets_From_A_Stranger.md)

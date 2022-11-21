@@ -37,6 +37,21 @@ By Paul Thorn
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Everything's Gonna Be Alright** |  |
+| A2 | **Too Blessed To Be Stressed** |  |
+| A3 | **Everybody Needs Somebody** |  |
+| A4 | **I Backslide On Friday** |  |
+| A5 | **This Is A Real Goodbye** |  |
+| B1 | **Mediocrity Is King** |  |
+| B2 | **Don't Let Nobody Rob You Of Your Joy** |  |
+| B3 | **Old Stray Dogs & Jesus** |  |
+| B4 | **What Kind Of Roof Do You Live Under** |  |
+| B5 | **No Place I'd Rather Be** |  |
+
 ## See also
 
 - [](Paul_Thorn.md)

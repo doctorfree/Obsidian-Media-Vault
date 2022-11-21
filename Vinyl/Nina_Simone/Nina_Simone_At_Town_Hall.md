@@ -37,6 +37,22 @@ By Nina Simone
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Black Is The Color Of My True Love's Hair** | 3:23 |
+| A2 | **Exactly Like You** | 3:06 |
+| A3 | **The Other Woman** | 2:52 |
+| A4 | **Under The Lowest** | 5:18 |
+| A5 | **You Can Have Him** | 5:43 |
+| B1 | **Summertime (Instrumental)** | 2:49 |
+| B2 | **Summertime** | 2:39 |
+| B3 | **Cotton Eyed Joe** | 2:51 |
+| B4 | **Return Home** | 4:55 |
+| B5 | **Wild Is The Wind** | 3:22 |
+| B6 | **Fine And Mellow** | 3:18 |
+
 ## See also
 
 - [My Baby Just Cares For Me](My_Baby_Just_Cares_For_Me.md)

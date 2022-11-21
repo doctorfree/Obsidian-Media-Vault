@@ -37,6 +37,26 @@ By Gruppo Sportivo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Hey Girl** | 2:27 |
+| A2 | **Bernadette** | 3:07 |
+| A3 | **P.S. 78** | 3:03 |
+| A4 | **Tokyo** | 1:13 |
+| A5 | **I Said No!** | 4:16 |
+| A6 | **Real Teeth Are Out** | 3:48 |
+| A7 | **Are You Ready?** | 2:05 |
+| A8 | **The Booby-Trap Boogie** | 3:31 |
+| B1 | **Blah Blah Magazines** | 2:02 |
+| B2 | **One Way Love (From Me To You)** | 3:08 |
+| B3 | **I'm A Rocket** | 2:32 |
+| B4 | **Shave** | 2:48 |
+| B5 | **The Pogo Never Stops** | 3:18 |
+| B6 | **Bottom Of The Class** | 3:03 |
+| B7 | **The Single** | 1:12 |
+
 ## See also
 
 - [Design Moderne](Design_Moderne.md)

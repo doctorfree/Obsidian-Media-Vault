@@ -37,6 +37,13 @@ By Blues Magoos
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **(We Ain't Got) Nothin' Yet** | 2:10 |
+| B | **Gotta Get Away** | 2:35 |
+
 ## See also
 
 - [](Blues_Magoos.md)

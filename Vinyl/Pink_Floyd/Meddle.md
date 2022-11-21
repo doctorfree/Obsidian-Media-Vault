@@ -37,6 +37,17 @@ By Pink Floyd
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **One Of These Days** | 5:50 |
+| A2 | **A Pillow Of Winds** | 5:10 |
+| A3 | **Fearless** | 6:03 |
+| A4 | **San Tropez** | 3:42 |
+| A5 | **Seamus** | 2:09 |
+| B | **Echoes** | 23:31 |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

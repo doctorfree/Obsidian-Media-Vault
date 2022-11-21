@@ -37,6 +37,13 @@ By Todd Rundgren
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Time Heals** | 3:33 |
+| B | **Tiny Demons** | 3:08 |
+
 ## See also
 
 - ["A Wizard, A True Star"](A_Wizard__A_True_Star.md)

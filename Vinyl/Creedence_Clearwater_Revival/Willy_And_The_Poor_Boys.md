@@ -37,6 +37,21 @@ By Creedence Clearwater Revival
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Down On The Corner** | 2:43 |
+| A2 | **It Came Out Of The Sky** | 2:58 |
+| A3 | **Cotton Fields** | 2:53 |
+| A4 | **Poorboy Shuffle** | 2:25 |
+| A5 | **Feelin' Blue** | 5:05 |
+| B1 | **Fortunate Son** | 2:20 |
+| B2 | **Don't Look Now (It Ain't You Or Me)** | 2:08 |
+| B3 | **The Midnight Special** | 4:10 |
+| B4 | **Side O' The Road** | 3:21 |
+| B5 | **Effigy** | 6:28 |
+
 ## See also
 
 - [Cosmo's Factory](Cosmos_Factory.md)

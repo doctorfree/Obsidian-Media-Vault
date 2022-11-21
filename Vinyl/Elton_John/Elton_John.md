@@ -37,6 +37,21 @@ By Elton John
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Your Song** |  |
+| A2 | **I Need You To Turn To** |  |
+| A3 | **Take Me To The Pilot** |  |
+| A4 | **No Shoe Strings On Louise** |  |
+| A5 | **First Episode At Hienton** |  |
+| B1 | **Sixty Years On** |  |
+| B2 | **Border Song** |  |
+| B3 | **The Greatest Discovery** |  |
+| B4 | **The Cage** |  |
+| B5 | **The King Must Die** |  |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

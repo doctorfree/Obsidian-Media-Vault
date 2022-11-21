@@ -37,6 +37,21 @@ By The Dickies
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Where Did His Eye Go?** | 3:40 |
+| A2 | **Fan Mail** | 3:05 |
+| A3 | **Manny, Moe And Jack** | 2:50 |
+| A4 | **Infidel Zombie** | 3:03 |
+| A5 | **I'm A Chollo** | 3:45 |
+| B1 | **Nights In White Satin** | 2:54 |
+| B2 | **(I'm Stuck In A Pagoda With) Tricia Toyota** | 2:53 |
+| B3 | **I've Got A Splitting Hedachi** | 2:28 |
+| B4 | **Attack Of The Mole Men** | 3:40 |
+| B5 | **She Loves Me Not** | 1:12 |
+
 ## See also
 
 - [](The_Dickies.md)

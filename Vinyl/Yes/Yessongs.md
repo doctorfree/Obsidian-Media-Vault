@@ -37,6 +37,26 @@ By Yes
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Opening (Excerpt From "Firebird Suite")** | 3:45 |
+| A2 | **Siberian Khatru** | 8:50 |
+| A3 | **Heart Of The Sunrise** | 11:26 |
+| B1 | **Perpetual Change** | 14:08 |
+|  | **And You & I** | 9:55 |
+| C1 | **Mood For A Day** | 2:52 |
+| C2 | **Excerpts From "The Six Wives Of Henry VIII"** | 6:35 |
+| C3 | **Roundabout** | 8:33 |
+| D1.a | **Your Move** | 7:00 |
+| D1.b | **All Good People** |  |
+| D2.a | **Long Distance Runaround** | 13:45 |
+| D2.b | **The Fish (Schindleria Praimaturus)** |  |
+|  | **Close To The Edge** | 18:41 |
+| F1 | **Yours Is No Disgrace** | 14:21 |
+|  | **Starship Trooper** | 9:25 |
+
 ## See also
 
 - [Close To The Edge](Close_To_The_Edge.md)

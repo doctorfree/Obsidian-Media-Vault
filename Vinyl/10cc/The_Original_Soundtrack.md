@@ -37,6 +37,19 @@ By 10cc
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Une Nuit A Paris** | 8:39 |
+| A2 | **I'm Not In Love** | 6:04 |
+| A3 | **Blackmail** | 4:55 |
+| B1 | **The Second Sitting For The Last Supper** | 4:23 |
+| B2 | **Brand New Day** | 4:03 |
+| B3 | **Flying Junk** | 4:10 |
+| B4 | **Life Is A Minestrone** | 4:30 |
+| B5 | **The Film Of My Love** | 5:03 |
+
 ## See also
 
 - [10cc](10cc.md)

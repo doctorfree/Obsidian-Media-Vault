@@ -37,6 +37,13 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Jumpin' Jack Flash** | 3:40 |
+| B | **Child Of The Moon** | 3:08 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

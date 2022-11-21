@@ -37,6 +37,13 @@ By Four Tops
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Ain't No Woman (Like The One I've Got)** | 2:59 |
+| B | **The Good Lord Knows** | 4:04 |
+
 ## See also
 
 - [](Four_Tops.md)

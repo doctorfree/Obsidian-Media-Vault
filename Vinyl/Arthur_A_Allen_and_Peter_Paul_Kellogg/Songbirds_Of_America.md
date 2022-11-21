@@ -37,6 +37,35 @@ By Arthur A. Allen & Peter Paul Kellogg
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Bluebird** |  |
+| A2 | **Brown Thrasher** |  |
+| A3 | **Chickadee** |  |
+| A4 | **Carolina Wren** |  |
+| A5 | **Red-Eyed Vireo** |  |
+| A6 | **Warbling Vireo** |  |
+| A7 | **Yellow Warbler** |  |
+| A8 | **Robin** |  |
+| A9 | **Goldfinch** |  |
+| A10 | **Catbird** |  |
+| A11 | **Red-Winged Blackbird** |  |
+| A12 | **Rose-Breasted Grosbeak** |  |
+| B1 | **Bobolink** |  |
+| B2 | **Mockingbird** |  |
+| B3 | **Meadowlark** |  |
+| B4 | **Indigo Bunting** |  |
+| B5 | **Baltimore Oriole** |  |
+| B6 | **Wood Thrush** |  |
+| B7 | **House Wren** |  |
+| B8 | **Song Sparrow** |  |
+| B9 | **Fox Sparrow** |  |
+| B10 | **White-Throated Sparrow** |  |
+| B11 | **Pewee** |  |
+| B12 | **Cardinal** |  |
+
 ## See also
 
 - [](Arthur_A_Allen_and_Peter_Paul_Kellogg.md)

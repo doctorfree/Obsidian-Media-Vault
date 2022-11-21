@@ -37,6 +37,13 @@ By The Irish Rovers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Unicorn** | 3:18 |
+| B | **(The Puppet Song) Whiskey On A Sunday** | 2:38 |
+
 ## See also
 
 - [](The_Irish_Rovers.md)

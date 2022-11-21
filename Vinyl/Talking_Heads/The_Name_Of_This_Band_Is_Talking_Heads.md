@@ -37,6 +37,30 @@ By Talking Heads
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **The Name Of This Band Is Talking Heads 1977-1979** |  |
+| A1 | **New Feeling** | 3:10 |
+| A2 | **A Clean Break** | 4:57 |
+| A3 | **Don't Worry About The Government** | 3:08 |
+| A4 | **Pulled Up** | 4:08 |
+| A5 | **Psycho Killer** | 5:34 |
+| B1 | **Artists Only** | 3:48 |
+| B2 | **Stay Hungry** | 4:00 |
+| B3 | **Air** | 4:09 |
+| B4 | **Buildings On Fire** | 3:36 |
+| B5 | **Memories (Can't Wait)** | 3:58 |
+|  | **The Name Of This Band Is Talking Heads 1980-1981** |  |
+| C1 | **I Zimbra** | 3:33 |
+| C2 | **Drugs** | 4:47 |
+| C3 | **Houses In Motion** | 7:00 |
+| C4 | **Life During Wartime** | 5:03 |
+| D1 | **The Great Curve** | 6:58 |
+| D2 | **Crosseyed And Painless** | 7:05 |
+| D3 | **Take Me To The River** | 6:43 |
+
 ## See also
 
 - [Fear Of Music](Fear_Of_Music.md)

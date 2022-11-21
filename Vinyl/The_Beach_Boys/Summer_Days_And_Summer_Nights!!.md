@@ -37,6 +37,23 @@ By The Beach Boys
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Girl From New York City** | 1:53 |
+| A2 | **Amusement Parks U.S.A.** | 2:31 |
+| A3 | **Then I Kissed Her** | 2:15 |
+| A4 | **Salt Lake City** | 2:00 |
+| A5 | **Girl Don't Tell Me** | 2:17 |
+| A6 | **Help Me, Rhonda** | 2:45 |
+| B1 | **California Girls** | 2:37 |
+| B2 | **Let Him Run Wild** | 2:21 |
+| B3 | **You're So Good To Me** | 2:14 |
+| B4 | **Summer Means New Love** | 1:58 |
+| B5 | **I'm Bugged At My Ol' Man** | 2:15 |
+| B6 | **And Your Dream Comes True** | 1:02 |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

@@ -37,6 +37,21 @@ By McKendree Spring
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Too Young To Feel This Old** | 3:21 |
+| A2 | **I'm In Love** | 3:06 |
+| A3 | **(She's A Housewife) No More Rock 'N' Roll** | 3:07 |
+| A4 | **Take It From The Heart** | 2:52 |
+| A5 | **Clown** | 2:56 |
+| B1 | **Run Like The Wind** | 2:49 |
+| B2 | **My Kind Of Life** | 3:16 |
+| B3 | **Oh, What A Feeling** | 2:50 |
+| B4 | **I'm Gonna Lose That Game Again** | 2:47 |
+| B5 | **Divide And Concord** | 6:26 |
+
 ## See also
 
 - [Spring Suite](Spring_Suite.md)

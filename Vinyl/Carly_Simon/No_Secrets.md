@@ -37,6 +37,21 @@ By Carly Simon
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Right Thing To Do** | 2:57 |
+| A2 | **The Carter Family** | 3:29 |
+| A3 | **You're So Vain** | 4:17 |
+| A4 | **His Friends Are More Than Fond Of Robin** | 3:00 |
+| A5 | **We Have No Secrets** | 3:57 |
+| B1 | **Embrace Me, You Child** | 4:06 |
+| B2 | **Waited So Long** | 4:14 |
+| B3 | **It Was So Easy** | 3:06 |
+| B4 | **Night Owl** | 3:47 |
+| B5 | **When You Close Your Eyes** | 3:05 |
+
 ## See also
 
 - [](Carly_Simon.md)

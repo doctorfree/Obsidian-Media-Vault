@@ -37,6 +37,13 @@ By Emitt Rhodes / Chris Price
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **How Can You Mend A Broken Heart** | 3:13 |
+| B | **Please Read Me** | 2:02 |
+
 ## See also
 
 - [](Emitt_Rhodes_-_Chris_Price.md)

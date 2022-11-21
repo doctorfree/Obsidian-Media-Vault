@@ -37,6 +37,23 @@ By "Peter, Paul & Mary"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Early In The Morning** |  |
+| A2 | **500 Miles** |  |
+| A3 | **Sorrow** |  |
+| A4 | **This Train** |  |
+| A5 | **Bamboo** |  |
+| A6 | **It's Raining** |  |
+| B1 | **If I Had My Way** |  |
+| B2 | **Cruel War** |  |
+| B3 | **Lemon Tree** |  |
+| B4 | **If I Had A Hammer** |  |
+| B5 | **Autumn To May** |  |
+| B6 | **Where Have All The Flowers Gone** |  |
+
 ## See also
 
 - [(Moving)](Moving.md)

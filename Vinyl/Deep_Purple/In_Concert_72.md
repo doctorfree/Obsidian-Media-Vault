@@ -37,6 +37,21 @@ By Deep Purple
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Introduction** | 0:16 |
+| A2 | **Highway Star** | 7:41 |
+| A3 | **Strange Kind Of Woman** | 9:32 |
+| B1 | **Maybe I'm A Leo** | 5:35 |
+| B2 | **Smoke On The Water** | 7:32 |
+| C1 | **Never Before** | 5:18 |
+| C2 | **Lazy** | 9:21 |
+| D1 | **Space Truckin'** | 22:11 |
+| E | **Encore: Lucille** | 7:32 |
+| F | **Maybe I'm A Leo (Soundcheck)** | 4:32 |
+
 ## See also
 
 - [Burn](Burn.md)

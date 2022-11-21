@@ -37,6 +37,29 @@ By John Lennon & Yoko Ono / The Plastic Ono Band With Elephants Memory And Invis
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Sometime In New York City** |  |
+| A1 | **Woman Is The Nigger Of The World** |  |
+| A2 | **Sisters O Sisters** |  |
+| A3 | **Attica State** |  |
+| A4 | **Born In A Prison** |  |
+| A5 | **New York City** |  |
+| B1 | **Sunday Bloody Sunday** |  |
+| B2 | **The Luck Of The Irish** |  |
+| B3 | **John Sinclair** |  |
+| B4 | **Angela** |  |
+| B5 | **We're All Water** |  |
+|  | **Live Jam** |  |
+| C1 | **Cold Turkey** | 7:43 |
+| C2 | **Don't Worry Kyoko** | 17:20 |
+| D1 | **Well (Baby, Please Don't Go)** | 4:50 |
+| D2 | **Jamrag** | 1:50 |
+| D3 | **Scumbag** | 13:10 |
+| D4 | **Aü** | 3:25 |
+
 ## See also
 
 - [](John_Lennon_and_Yoko_Ono_-_The_Plastic_Ono_Band_With_Elephants_Memory_And_Invisible_Strings.md)

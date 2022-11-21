@@ -37,6 +37,13 @@ By Brick
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Dusic** | 3:43 |
+| B | **Happy** | 4:20 |
+
 ## See also
 
 - [](Brick.md)

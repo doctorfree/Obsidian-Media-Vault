@@ -37,6 +37,13 @@ By Gruppo Sportivo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Disco Really Made It** | 4:00 |
+| B | **I Don't Know** | 2:55 |
+
 ## See also
 
 - [Back To 78](Back_To_78.md)

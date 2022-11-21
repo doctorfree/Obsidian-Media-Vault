@@ -37,6 +37,13 @@ By Nat King Cole
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Marnie** | 2:40 |
+| B | **More And More Of Your Amor** | 2:27 |
+
 ## See also
 
 - [Make Her Mine](Make_Her_Mine.md)

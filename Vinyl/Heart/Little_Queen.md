@@ -37,6 +37,21 @@ By Heart
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Barracuda** | 4:20 |
+| A2 | **Love Alive** | 4:21 |
+| A3 | **Sylvan Song** | 2:12 |
+| A4 | **Dream Of The Archer** | 4:30 |
+| A5 | **Kick It Out** | 2:44 |
+| B1 | **Little Queen** | 5:10 |
+| B2 | **Treat Me Well** | 3:24 |
+| B3 | **Say Hello** | 3:36 |
+| B4 | **Cry To Me** | 2:51 |
+| B5 | **Go On Cry** | 5:52 |
+
 ## See also
 
 - [Dog & Butterfly](Dog_and_Butterfly.md)

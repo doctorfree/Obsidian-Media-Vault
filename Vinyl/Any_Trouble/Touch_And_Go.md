@@ -37,6 +37,13 @@ By Any Trouble
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Touch And Go** | 3:56 |
+| B | **Man Of The Moment** | 3:52 |
+
 ## See also
 
 - [](Any_Trouble.md)

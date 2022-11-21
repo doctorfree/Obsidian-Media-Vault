@@ -37,6 +37,13 @@ By The Police
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **De Do Do Do, De Da Da Da (Spanish Version)** | 4:00 |
+| B | **De Do Do Do, De Da Da Da (Japanese Version)** | 4:00 |
+
 ## See also
 
 - [](The_Police.md)

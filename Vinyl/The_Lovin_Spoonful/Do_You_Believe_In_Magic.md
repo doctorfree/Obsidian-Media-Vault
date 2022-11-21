@@ -37,6 +37,23 @@ By The Lovin' Spoonful
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Do You Believe In Magic** | 2:04 |
+| A2 | **Blues In The Bottle** | 2:10 |
+| A3 | **Sportin' Life** | 4:02 |
+| A4 | **My Gal** | 2:30 |
+| A5 | **You Baby** | 2:55 |
+| A6 | **Fishin' Blues** | 1:58 |
+| B1 | **Did You Ever Have To Make Up Your Mind** | 2:00 |
+| B2 | **Wild About My Lovin'** | 2:38 |
+| B3 | **Other Side Of This Life** | 2:30 |
+| B4 | **Younger Girl** | 2:23 |
+| B5 | **On The Road Again** | 1:52 |
+| B6 | **Night Owl Blues** | 3:00 |
+
 ## See also
 
 - [Darling Be Home Soon / Darlin' Companion](Darling_Be_Home_Soon_-_Darlin_Companion.md)

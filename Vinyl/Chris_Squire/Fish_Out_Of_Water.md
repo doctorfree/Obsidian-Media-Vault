@@ -37,6 +37,16 @@ By Chris Squire
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Hold Out Your Hand** | 4:14 |
+| A2 | **You By My Side** | 5:03 |
+| A3 | **Silently Falling** | 11:21 |
+| B1 | **Lucky Seven** | 6:57 |
+| B2 | **Safe (Canon Song)** | 14:53 |
+
 ## See also
 
 - [](Chris_Squire.md)

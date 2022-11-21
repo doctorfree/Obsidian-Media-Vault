@@ -37,6 +37,23 @@ By Paul & Linda McCartney
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Too Many People** | 4:09 |
+| A2 | **3 Legs** | 2:48 |
+| A3 | **Ram On** | 2:30 |
+| A4 | **Dear Boy** | 2:14 |
+| A5 | **Uncle Albert / Admiral Halsey** | 4:50 |
+| A6 | **Smile Away** | 4:01 |
+| B1 | **Heart Of The Country** | 2:22 |
+| B2 | **Monkberry Moon Delight** | 5:25 |
+| B3 | **Eat At Home** | 3:22 |
+| B4 | **Long Haired Lady** | 6:05 |
+| B5 | **Ram On** | 0:55 |
+| B6 | **The Back Seat Of My Car** | 4:29 |
+
 ## See also
 
 - [](Paul_and_Linda_McCartney.md)

@@ -37,6 +37,14 @@ By XTC
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| 1 | **The Loving** | 3:55 |
+| 2 | **Cynical Days** | 3:18 |
+| 3 | **The World Is Full Of Angry Young Men** | 3:42 |
+
 ## See also
 
 - [Making Plans For Nigel](Making_Plans_For_Nigel.md)

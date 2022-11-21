@@ -37,6 +37,23 @@ By Donnie & Joe Emerson
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Overture** |  |
+| A2 | **Don't Fight** |  |
+| A3 | **Ride The Tide** |  |
+| A4 | **One True Love** |  |
+| A5 | **Something's Comin' Down** |  |
+| A6 | **Everybody Knows It** |  |
+| B1 | **Big Money** |  |
+| B2 | **Ooh Baby Yeah** |  |
+| B3 | **Stand By Love** |  |
+| B4 | **Girl With The Rainbow Suds** |  |
+| B5 | **Since You Been With Me** |  |
+| B6 | **Don't Disguise The Way You Feel** |  |
+
 ## See also
 
 - [Dreamin' Wild](Dreamin_Wild.md)

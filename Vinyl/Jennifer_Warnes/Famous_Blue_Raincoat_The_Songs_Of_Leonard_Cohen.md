@@ -37,6 +37,20 @@ By Jennifer Warnes
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **First We Take Manhattan** | 3:44 |
+| A2 | **Bird On A Wire** | 4:42 |
+| A3 | **Famous Blue Raincoat** | 5:33 |
+| A4 | **Joan Of Arc** | 7:47 |
+| B1 | **Ain't No Cure For Love** | 3:19 |
+| B2 | **Coming Back To You** | 3:42 |
+| B3 | **Song Of Bernadette** | 3:58 |
+| B4 | **A Singer Must Die** | 4:50 |
+| B5 | **Came So Far For Beauty** | 3:37 |
+
 ## See also
 
 - [](Jennifer_Warnes.md)

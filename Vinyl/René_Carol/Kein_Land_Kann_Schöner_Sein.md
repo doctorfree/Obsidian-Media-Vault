@@ -37,6 +37,15 @@ By René Carol
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Kein Land Kann Schöner Sein** |  |
+| A2 | **Musikant** |  |
+| B1 | **Das Schiff Deiner Sehnsucht** |  |
+| B2 | **Mitten Im Meer** |  |
+
 ## See also
 
 - [](René_Carol.md)

@@ -37,6 +37,21 @@ By Jefferson Starship
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fast Buck Freddie** | 3:28 |
+| A2 | **Miracles** | 6:52 |
+| A3 | **Git Fiddler** | 3:08 |
+| A4 | **Ai Garimasu (There Is Love)** | 4:15 |
+| A5 | **Sweeter Than Honey** | 3:20 |
+| B1 | **Play On Love** | 3:44 |
+| B2 | **Tumblin** | 3:27 |
+| B3 | **I Want To See Another World** | 4:34 |
+| B4 | **Sandalphon** | 4:08 |
+| B5 | **There Will Be Love** | 5:04 |
+
 ## See also
 
 - [Count On Me / Show Yourself](Count_On_Me_-_Show_Yourself.md)

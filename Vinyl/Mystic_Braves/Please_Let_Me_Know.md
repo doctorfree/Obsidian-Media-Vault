@@ -35,6 +35,15 @@ By Mystic Braves
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Please Let Me Know** | 3:30 |
+| B1 | **Dockweiler** | 3:13 |
+|  | **** |  |
+|  | **** |  |
+
 ## See also
 
 - [Desert Island](Desert_Island.md)

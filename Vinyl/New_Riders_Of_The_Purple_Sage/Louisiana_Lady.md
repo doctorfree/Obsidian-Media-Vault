@@ -37,6 +37,13 @@ By New Riders Of The Purple Sage
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Louisiana Lady** | 3:02 |
+| B | **Last Lonely Eagle** | 5:14 |
+
 ## See also
 
 - [](New_Riders_Of_The_Purple_Sage.md)

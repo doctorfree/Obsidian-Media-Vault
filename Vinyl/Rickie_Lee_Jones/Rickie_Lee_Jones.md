@@ -41,6 +41,22 @@ By Rickie Lee Jones
 Numbered limited edition box packaging
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Chuck E.'s In Love** |  |
+| A2 | **On Saturday Afternoons In 1963** |  |
+| A3 | **Night Train** |  |
+| B1 | **Young Blood** |  |
+| B2 | **Easy Money** |  |
+| B3 | **The Last Chance Texaco** |  |
+| C1 | **Danny's All-Star Joint** |  |
+| C2 | **Coolsville** |  |
+| D1 | **Weasel And The White Boys Cool** |  |
+| D2 | **Company** |  |
+| D3 | **After Hours** |  |
+
 ## See also
 
 - [Girl At Her Volcano](Girl_At_Her_Volcano.md)

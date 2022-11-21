@@ -37,6 +37,21 @@ By David Gilmour
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Until We Sleep** | 5:58 |
+| A2 | **Murder** | 4:58 |
+| A3 | **Love On The Air** | 4:18 |
+| A4 | **Blue Light** | 4:35 |
+| A5 | **Out Of The Blue** | 3:36 |
+| B1 | **All Lovers Are Deranged** | 3:14 |
+| B2 | **You Know I'm Right** | 5:04 |
+| B3 | **Cruise** | 4:39 |
+| B4 | **Let's Get Metaphysical** | 4:09 |
+| B5 | **Near The End** | 5:43 |
+
 ## See also
 
 - [](David_Gilmour.md)

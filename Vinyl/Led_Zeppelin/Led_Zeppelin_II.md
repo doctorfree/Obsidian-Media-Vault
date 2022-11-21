@@ -37,6 +37,29 @@ By Led Zeppelin
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Whole Lotta Love** | 5:34 |
+| A2 | **What Is And What Should Never Be** | 4:44 |
+| A3 | **The Lemon Song** | 6:19 |
+| A4 | **Thank You** | 4:47 |
+| B1 | **Heartbreaker** | 4:14 |
+| B2 | **Living Loving Maid (She's Just A Woman)** | 2:39 |
+| B3 | **Ramble On** | 4:23 |
+| B4 | **Moby Dick** | 4:21 |
+| B5 | **Bring It On Home** | 4:20 |
+|  | **The Companion Disc** |  |
+| C1 | **Whole Lotta Love (Rough Mix With Vocal)** | 5:38 |
+| C2 | **What Is And What Should Never Be (Rough Mix With Vocal)** | 4:33 |
+| C3 | **Thank You (Backing Track)** | 4:21 |
+| C4 | **Moby Dick (Backing Track)** | 1:37 |
+| D1 | **Heartbreaker (Rough Mix With Vocal)** | 4:25 |
+| D2 | **Living Loving Maid (She's Just A Woman) (Backing Track)** | 3:08 |
+| D3 | **Ramble On (Rough Mix With Vocal)** | 4:43 |
+| D4 | **La La (Intro / Outro Rough Mix)** | 4:07 |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

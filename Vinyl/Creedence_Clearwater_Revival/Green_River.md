@@ -37,6 +37,20 @@ By Creedence Clearwater Revival
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Green River** | 2:31 |
+| A2 | **Commotion** | 2:37 |
+| A3 | **Tombstone Shadow** | 3:36 |
+| A4 | **Wrote A Song For Everyone** | 4:55 |
+| B1 | **Bad Moon Rising** | 2:17 |
+| B2 | **Lodi** | 3:08 |
+| B3 | **Cross-Tie Walker** | 3:17 |
+| B4 | **Sinister Purpose** | 3:19 |
+| B5 | **The Night Time Is The Right Time** | 3:07 |
+
 ## See also
 
 - [Cosmo's Factory](Cosmos_Factory.md)

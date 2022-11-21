@@ -37,6 +37,13 @@ By The Dave Clark Five
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Because** | 2:23 |
+| B | **Theme Without A Name** | 2:03 |
+
 ## See also
 
 - [](The_Dave_Clark_Five.md)

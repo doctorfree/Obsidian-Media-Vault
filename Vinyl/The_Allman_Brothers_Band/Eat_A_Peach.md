@@ -37,6 +37,21 @@ By The Allman Brothers Band
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ain't Wastin' Time No More** | 3:41 |
+| A2 | **Les Brers In A Minor** | 9:07 |
+| A3 | **Melissa** | 3:56 |
+| B | **Mountain Jam** | 19:17 |
+| C1 | **One Way Out** | 4:59 |
+| C2 | **Trouble No More** | 3:44 |
+| C3 | **Stand Back** | 3:25 |
+| C4 | **Blue Sky** | 5:11 |
+| C5 | **Little Martha** | 2:09 |
+| D | **Mountain Jam Cont'd.** | 15:06 |
+
 ## See also
 
 - [](The_Allman_Brothers_Band.md)

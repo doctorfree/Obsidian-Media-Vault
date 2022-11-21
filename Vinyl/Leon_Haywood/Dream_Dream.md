@@ -37,6 +37,13 @@ By Leon Haywood
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Dream Dream** | 3:12 |
+| B | **Let Me Make It Good To You** | 3:11 |
+
 ## See also
 
 - [](Leon_Haywood.md)

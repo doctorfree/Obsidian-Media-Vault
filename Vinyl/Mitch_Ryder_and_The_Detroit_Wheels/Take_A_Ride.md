@@ -37,6 +37,23 @@ By Mitch Ryder & The Detroit Wheels
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Shake A Tail Feather** | 2:28 |
+| A2 | **Come See About Me** | 3:00 |
+| A3 | **Let Your Lovelight Shine** | 3:36 |
+| A4 | **Just A Little Bit** | 2:40 |
+| A5 | **I Hope** | 3:00 |
+| A6 | **Jenny Take A Ride** | 3:25 |
+| B1 | **Please, Please, Please** | 3:34 |
+| B2 | **I'll Go Crazy** | 2:08 |
+| B3 | **I Got You** | 2:33 |
+| B4 | **Sticks And Stones** | 3:07 |
+| B5 | **Bring It On Home To Me** | 3:33 |
+| B6 | **Baby Jane (Mo-Mo Jane)** | 3:59 |
+
 ## See also
 
 - [Breakout...!!!](Breakout!!!.md)

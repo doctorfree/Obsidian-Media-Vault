@@ -35,6 +35,13 @@ By The Ames Brothers With Hugo Winterhalter Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Naughty Lady Of Shady Lane** |  |
+| B | **Addio** |  |
+
 ## See also
 
 - [](The_Ames_Brothers_With_Hugo_Winterhalter_Orchestra.md)

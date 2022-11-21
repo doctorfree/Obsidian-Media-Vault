@@ -37,6 +37,17 @@ By Herbie Hancock
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Rockit** | 5:22 |
+| A2 | **Future Shock** | 8:02 |
+| A3 | **TFS** | 5:15 |
+| B1 | **Earth Beat** | 5:10 |
+| B2 | **Autodrive** | 6:25 |
+| B3 | **Rough** | 6:57 |
+
 ## See also
 
 - [](Herbie_Hancock.md)

@@ -37,6 +37,25 @@ By Derek & The Dominos
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Looked Away** | 3:04 |
+| A2 | **Bell Bottom Blues** | 5:06 |
+| A3 | **Keep On Growing** | 6:22 |
+| A4 | **Nobody Knows You When You're Down And Out** | 4:57 |
+| B1 | **I Am Yours** | 3:32 |
+| B2 | **Anyday** | 6:37 |
+| B3 | **Key To The Highway** | 9:47 |
+| C1 | **Tell The Truth** | 6:45 |
+| C2 | **Why Does Love Got To Be So Sad?** | 4:50 |
+| C3 | **Have You Ever Loved A Woman** | 6:51 |
+| D1 | **Little Wing** | 5:23 |
+| D2 | **It's Too Late** | 3:45 |
+| D3 | **Layla** | 7:10 |
+| D4 | **Thorn Tree In The Garden** | 2:51 |
+
 ## See also
 
 - [](Derek_and_The_Dominos.md)

@@ -37,6 +37,17 @@ By Bob James
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Take Me To The Mardi Gras** | 5:50 |
+| A2 | **I Feel A Song (In My Heart)** | 5:26 |
+| A3 | **The Golden Apple** | 7:20 |
+| B1 | **Farandole** | 8:24 |
+| B2 | **You're As Right As Rain** | 5:29 |
+| B3 | **Dream Journey** | 5:57 |
+
 ## See also
 
 - [One](One.md)

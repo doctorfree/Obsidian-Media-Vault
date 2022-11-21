@@ -37,6 +37,13 @@ By Brewer And Shipley
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **People Love Each Other** | 2:55 |
+| B | **Witchi-Tai-To** | 6:57 |
+
 ## See also
 
 - [The Best . . . Brewer & Shipley](The_Best____Brewer_and_Shipley.md)

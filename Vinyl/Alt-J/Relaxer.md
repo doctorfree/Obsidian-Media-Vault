@@ -37,6 +37,19 @@ By Alt-J
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **3WW** | 5:00 |
+| A2 | **In Cold Blood** | 3:26 |
+| A3 | **House Of The Rising Sun** | 5:20 |
+| A4 | **Hit Me Like That Snare** | 3:37 |
+| B1 | **Deadcrush** | 3:51 |
+| B2 | **Adeline** | 5:50 |
+| B3 | **Last Year** | 6:06 |
+| B4 | **Pleader** | 5:48 |
+
 ## See also
 
 - [](Alt-J.md)

@@ -37,6 +37,21 @@ By The Roches
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **We** | 2:33 |
+| A2 | **Hammond Song** | 5:41 |
+| A3 | **Mr. Sellack** | 4:00 |
+| A4 | **Damned Old Dog** | 4:03 |
+| A5 | **The Troubles** | 3:24 |
+| B1 | **The Train** | 3:27 |
+| B2 | **The Married Men** | 4:30 |
+| B3 | **Runs In The Family** | 3:27 |
+| B4 | **Quitting Time** | 4:16 |
+| B5 | **Pretty And High** | 4:05 |
+
 ## See also
 
 - [](The_Roches_index.md)

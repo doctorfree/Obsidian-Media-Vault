@@ -37,6 +37,18 @@ By Rickie Lee Jones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Lush Life** | 5:26 |
+| A2 | **Letters From The 9th Ward / Walk Away Rene** | 4:27 |
+| A3 | **Hey, Bub** | 2:17 |
+| A4 | **My Funny Valentine** | 1:29 |
+| B1 | **Under The Boardwalk** | 3:20 |
+| B2 | **Rainbow Sleeves** | 3:40 |
+| B3 | **So Long** | 2:04 |
+
 ## See also
 
 - [Rickie Lee Jones](Rickie_Lee_Jones.md)

@@ -37,6 +37,24 @@ By Weezer
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **American Gigolo** |  |
+| A2 | **Dope Nose** |  |
+| A3 | **Keep Fishin'** |  |
+| A4 | **Take Control** |  |
+| A5 | **Death And Destruction** |  |
+| A6 | **Slob** |  |
+| B7 | **Burndt Jamb** |  |
+| B8 | **Space Rock** |  |
+| B9 | **Slave** |  |
+| B10 | **Fall Together** |  |
+| B11 | **Possibilities** |  |
+| B12 | **Love Explosion** |  |
+| B13 | **December** |  |
+
 ## See also
 
 - [](Weezer.md)

@@ -37,6 +37,13 @@ By Morris Day
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Oak Tree** | 4:32 |
+| B | **The Oak Tree (Dance Instrumental)** | 3:45 |
+
 ## See also
 
 - [](Morris_Day.md)

@@ -41,6 +41,21 @@ By Paul Simon
 Numbered copy 3372 of limited edition
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Kodachrome** | 3:32 |
+| A2 | **Tenderness** | 2:53 |
+| A3 | **Take Me To The Mardi Gras** | 3:32 |
+| A4 | **Something So Right** | 4:34 |
+| A5 | **One Man's Ceiling Is Another Man's Floor** | 3:44 |
+| B1 | **American Tune** | 3:44 |
+| B2 | **Was A Sunny Day** | 3:40 |
+| B3 | **Learn How To Fall** | 2:45 |
+| B4 | **St. Judy's Comet** | 3:19 |
+| B5 | **Loves Me Like A Rock** | 3:32 |
+
 ## See also
 
 - [Paul Simon](Paul_Simon.md)

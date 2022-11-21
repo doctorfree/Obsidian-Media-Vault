@@ -37,6 +37,13 @@ By Led Zeppelin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Whole Lotta Love** | 5:33 |
+| B | **Living Loving Maid (She's Just A Woman)** | 2:40 |
+
 ## See also
 
 - [Houses Of The Holy](Houses_Of_The_Holy.md)

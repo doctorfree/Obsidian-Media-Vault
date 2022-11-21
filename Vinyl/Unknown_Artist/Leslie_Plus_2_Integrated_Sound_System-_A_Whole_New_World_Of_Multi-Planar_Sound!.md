@@ -37,6 +37,13 @@ By Unknown Artist
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Narration And Standing Wave Test** |  |
+| B | **Test Music** |  |
+
 ## See also
 
 - [](Unknown_Artist.md)

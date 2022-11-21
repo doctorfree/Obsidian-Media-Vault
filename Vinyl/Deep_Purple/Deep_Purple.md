@@ -37,6 +37,19 @@ By Deep Purple
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Chasing Shadows** |  |
+| A2 | **Blind** |  |
+| A3 | **Lalena** |  |
+| A4 (a) | **Fault Line** |  |
+| A4 (b) | **The Painter** |  |
+| B1 | **Why Didn't Rosemary?** |  |
+| B2 | **Bird Has Flown** |  |
+| B3 | **April** |  |
+
 ## See also
 
 - [Burn](Burn.md)

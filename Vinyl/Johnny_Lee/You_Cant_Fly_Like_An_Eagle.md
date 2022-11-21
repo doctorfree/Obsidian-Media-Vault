@@ -37,6 +37,13 @@ By Johnny Lee
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **You Can't Fly Like An Eagle** |  |
+| B | **By-Pass Row** |  |
+
 ## See also
 
 - [](Johnny_Lee.md)

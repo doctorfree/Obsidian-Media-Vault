@@ -35,6 +35,14 @@ By "Johann Sebastian Bach, David Oistrach, Igor Oistrach"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Konzert Für Violine, Streicher Und Continuo Nr. 1 A-moll, BWV 1041** |  |
+|  | **Konzert Für Violine, Streicher Und Continuo Nr. 2 E-dur, BWV 1042** |  |
+|  | **Konzert Für 2 Violinen, Streicher Und Continuo D-moll, BWV 1043** |  |
+
 ## See also
 
 - [](Johann_Sebastian_Bach__David_Oistrach__Igor_Oistrach.md)

@@ -37,6 +37,13 @@ By Steam
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Na Na Hey Hey Kiss Him Goodbye** | 3:45 |
+| B | **Don't Stop Lovin' Me** | 3:19 |
+
 ## See also
 
 - [](Steam.md)

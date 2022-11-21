@@ -37,6 +37,13 @@ By The Four Seasons
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Walk Like A Man** | 2:11 |
+| B | **Lucky Ladybug** | 2:41 |
+
 ## See also
 
 - [The Greatest Hits Of Frankie Valli & The Four Seasons](The_Greatest_Hits_Of_Frankie_Valli_and_The_Four_Seasons.md)

@@ -37,6 +37,13 @@ By Tom Jones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **What A Night** | 3:24 |
+| B | **That's Where I Belong** | 3:22 |
+
 ## See also
 
 - [](Tom_Jones.md)

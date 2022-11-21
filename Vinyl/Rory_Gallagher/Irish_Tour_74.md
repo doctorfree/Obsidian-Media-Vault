@@ -37,6 +37,27 @@ By Rory Gallagher
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Messin' With The Kid** |  |
+| A2 | **Cradle Rock** |  |
+| A3 | **I Wonder Who** |  |
+| B1 | **Tattoo'd Lady** |  |
+| B2 | **Walk On Hot Coals** |  |
+| B3 | **Laundromat** |  |
+| C1 | **A Million Miles Away** |  |
+| C2 | **Hands Off** |  |
+| D1 | **Too Much Alcohol** |  |
+| D2 | **As The Crow Flies** |  |
+| D3 | **Pistol Slapper Blues** |  |
+| D4 | **Unmilitary Two-Step** |  |
+| D5 | **Bankers Blues** |  |
+| E1 | **Going To My Hometown** |  |
+| E2 | **Who's That Coming** |  |
+| F | **In Your Town** |  |
+
 ## See also
 
 - [Against The Grain](Against_The_Grain.md)

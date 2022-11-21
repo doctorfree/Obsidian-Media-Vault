@@ -37,6 +37,17 @@ By Jimi Hendrix
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Who Knows** | 9:34 |
+| A2 | **Machine Gun** | 12:38 |
+| B1 | **Changes** | 5:11 |
+| B2 | **Power Of Love** | 6:55 |
+| B3 | **Message Of Love** | 5:24 |
+| B4 | **We Gotta Live Together** | 5:51 |
+
 ## See also
 
 - [](Jimi_Hendrix.md)

@@ -37,6 +37,13 @@ By The Jonzun Crew
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **We Are The Jonzun Crew** | 3:23 |
+| B | **Ground Control** | 5:40 |
+
 ## See also
 
 - [](The_Jonzun_Crew.md)

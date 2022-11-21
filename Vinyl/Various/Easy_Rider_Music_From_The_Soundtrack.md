@@ -37,6 +37,21 @@ By Various
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Pusher** | 5:48 |
+| A2 | **Born To Be Wild** | 3:29 |
+| A3 | **The Weight** | 4:29 |
+| A4 | **Wasn't Born To Follow** | 2:03 |
+| A5 | **If You Want To Be A Bird** | 2:35 |
+| B1 | **Don't Bogart Me** | 3:02 |
+| B2 | **If Six Was Nine** | 5:32 |
+| B3 | **Kyrie Eleison** | 4:02 |
+| B4 | **It's Alright Ma (I'm Only Bleeding)** | 3:03 |
+| B5 | **Ballad Of Easy Rider** | 2:13 |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

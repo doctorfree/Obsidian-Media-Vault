@@ -37,6 +37,13 @@ By Eric Burdon & The Animals
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Monterey** | 4:21 |
+| B | **Ain't That So** | 3:20 |
+
 ## See also
 
 - [Help Me Girl](Help_Me_Girl.md)

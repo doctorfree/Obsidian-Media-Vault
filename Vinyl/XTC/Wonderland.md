@@ -37,6 +37,13 @@ By XTC
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Wonderland** |  |
+| B | **Jump** |  |
+
 ## See also
 
 - [Making Plans For Nigel](Making_Plans_For_Nigel.md)

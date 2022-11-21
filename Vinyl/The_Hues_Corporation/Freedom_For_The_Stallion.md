@@ -37,6 +37,21 @@ By The Hues Corporation
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Bound On A Reason** | 3:15 |
+| A2 | **Off My Cloud** | 4:16 |
+| A3 | **All Goin' Down Together** | 2:51 |
+| A4 | **Rock The Boat** | 3:22 |
+| A5 | **Freedom For The Stallion** | 4:00 |
+| B1 | **The Family** | 3:09 |
+| B2 | **Go To The Poet** | 2:51 |
+| B3 | **Salvation Lady (1-3-5)** | 3:18 |
+| B4 | **Live A Lie** | 2:13 |
+| B5 | **Miracle Maker (Sweet Soul Shaker)** | 3:16 |
+
 ## See also
 
 - [](The_Hues_Corporation.md)

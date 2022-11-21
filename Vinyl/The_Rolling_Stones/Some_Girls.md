@@ -37,6 +37,21 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Miss You** | 4:50 |
+| A2 | **When The Whip Comes Down** | 4:18 |
+| A3 | **Just My Imagination (Running Away With Me)** | 4:25 |
+| A4 | **Some Girls** | 4:40 |
+| A5 | **Lies** | 3:12 |
+| B1 | **Far Away Eyes** | 4:24 |
+| B2 | **Respectable** | 3:05 |
+| B3 | **Before They Make Me Run** | 3:26 |
+| B4 | **Beast Of Burden** | 4:24 |
+| B5 | **Shattered** | 3:43 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

@@ -35,6 +35,13 @@ By Yogi Yorgesson With The John Duffy Trio
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Yingle Bells** | 2:37 |
+| B | **I Yust Go Nuts At Christmas** | 3:12 |
+
 ## See also
 
 - [](Yogi_Yorgesson_With_The_John_Duffy_Trio.md)

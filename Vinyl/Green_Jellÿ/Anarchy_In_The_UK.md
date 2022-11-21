@@ -37,6 +37,13 @@ By Green Jellÿ
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Anarchy In The UK** | 3:27 |
+| B | **Green Jelly Theme Song** | 2:15 |
+
 ## See also
 
 - [](Green_Jellÿ.md)

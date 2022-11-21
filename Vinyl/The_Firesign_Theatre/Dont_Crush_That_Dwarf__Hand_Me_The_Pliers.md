@@ -37,6 +37,13 @@ By The Firesign Theatre
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **This Side** | 22:16 |
+| B | **The Other Side** | 24:12 |
+
 ## See also
 
 - [Forward Into The Past ( An Anthology)](Forward_Into_The_Past__An_Anthology.md)

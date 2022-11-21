@@ -37,6 +37,22 @@ By Fleetwood Mac
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Second Hand News** | 2:42 |
+| A2 | **Dreams** | 4:15 |
+| A3 | **Never Going Back Again** | 2:02 |
+| A4 | **Don't Stop** | 3:10 |
+| A5 | **Go Your Own Way** | 3:40 |
+| A6 | **Songbird** | 3:18 |
+| B1 | **The Chain** | 4:27 |
+| B2 | **You Make Loving Fun** | 3:33 |
+| B3 | **I Don't Want To Know** | 3:13 |
+| B4 | **Oh Daddy** | 3:54 |
+| B5 | **Gold Dust Woman** | 5:13 |
+
 ## See also
 
 - [Don't Stop / Never Going Back Again](Dont_Stop_-_Never_Going_Back_Again.md)

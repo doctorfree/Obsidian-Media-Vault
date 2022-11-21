@@ -37,6 +37,13 @@ By Box Tops
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Soul Deep** | 2:25 |
+| B | **(The) Happy Song** | 1:55 |
+
 ## See also
 
 - [](Box_Tops.md)

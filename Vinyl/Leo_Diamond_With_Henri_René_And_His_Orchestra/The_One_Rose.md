@@ -35,6 +35,13 @@ By Leo Diamond With Henri René And His Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The One Rose** | 2:09 |
+| B | **Land Of The Pharaohs** | 2:39 |
+
 ## See also
 
 - [](Leo_Diamond_With_Henri_René_And_His_Orchestra.md)

@@ -37,6 +37,19 @@ By Gene Clark
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Life's Greatest Fool** | 4:44 |
+| A2 | **Silver Raven** | 4:53 |
+| A3 | **No Other** | 5:08 |
+| A4 | **Strength Of Strings** | 6:30 |
+| B1 | **From A Silver Phial** | 3:40 |
+| B2 | **Some Misunderstanding** | 8:10 |
+| B3 | **The True One** | 4:57 |
+| B4 | **Lady Of The North** | 6:04 |
+
 ## See also
 
 - [Two Sides To Every Story](Two_Sides_To_Every_Story.md)

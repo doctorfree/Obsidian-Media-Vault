@@ -37,6 +37,13 @@ By Frankie Laine
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I'll Take Care Of Your Cares** | 2:46 |
+| B | **Making Memories** | 2:56 |
+
 ## See also
 
 - [](Frankie_Laine.md)

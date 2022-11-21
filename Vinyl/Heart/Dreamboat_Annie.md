@@ -37,6 +37,21 @@ By Heart
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Magic Man** | 5:35 |
+| A2 | **Dreamboat Annie (Fantasy Child)** | 1:55 |
+| A3 | **Crazy On You** | 3:54 |
+| A4 | **Soul Of The Sea** | 6:35 |
+| A5 | **Dreamboat Annie** | 2:02 |
+| B1 | **White Lightning & Wine** | 3:53 |
+| B2 | **Love Me Like Music (I'll Be Your Song)** | 3:20 |
+| B3 | **Sing Child** | 4:55 |
+| B4 | **How Deep It Goes** | 3:49 |
+| B5 | **Dreamboat Annie (Reprise)** | 3:48 |
+
 ## See also
 
 - [Dog & Butterfly](Dog_and_Butterfly.md)

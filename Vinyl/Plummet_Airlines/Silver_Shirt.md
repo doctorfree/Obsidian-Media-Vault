@@ -37,6 +37,13 @@ By Plummet Airlines
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Silver Shirt** | 2:59 |
+| B | **This Is The World** | 2:00 |
+
 ## See also
 
 - [](Plummet_Airlines.md)

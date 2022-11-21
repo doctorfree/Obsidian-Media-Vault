@@ -37,6 +37,23 @@ By Chris Cornell
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Can't Change Me** |  |
+| A2 | **Flutter Girl** |  |
+| A3 | **Preaching The End Of The World** |  |
+| A4 | **Follow My Way** |  |
+| A5 | **When I'm Down** |  |
+| A6 | **Mission** |  |
+| B1 | **Wave Goodbye** |  |
+| B2 | **Moonchild** |  |
+| B3 | **Sweet Euphoria** |  |
+| B4 | **Disappearing One** |  |
+| B5 | **Pillow Of Your Bones** |  |
+| B6 | **Steel Rain** |  |
+
 ## See also
 
 - [](Chris_Cornell.md)

@@ -37,6 +37,16 @@ By King Crimson
 - Weight: 200 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **21st Century Schizoid Man (Including Mirrors)** |  |
+| A2 | **I Talk To The Wind** |  |
+| A3 | **Epitaph (Including (A) March For No Reason (B) Tomorrow And Tomorrow)** |  |
+| B1 | **Moonchild (Including (A) The Dream (B) The Illusion)** |  |
+| B2 | **The Court Of The Crimson King (Including (A) The Return Of The Fire Witch (B) The Dance Of The Puppets)** |  |
+
 ## See also
 
 - [](King_Crimson.md)

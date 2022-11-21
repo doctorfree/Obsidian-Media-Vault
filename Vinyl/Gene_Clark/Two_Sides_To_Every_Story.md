@@ -41,6 +41,21 @@ By Gene Clark
 This is numbered copy 1098 of 5000
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Home Run King** | 2:57 |
+| A2 | **Lonely Saturday** | 4:04 |
+| A3 | **In The Pines** | 4:22 |
+| A4 | **Kansas City Southern** | 4:38 |
+| A5 | **Give My Love To Marie** | 6:05 |
+| B1 | **Sister Moon** | 5:06 |
+| B2 | **Marylou** | 3:31 |
+| B3 | **Hear The Wind** | 3:06 |
+| B4 | **Past Addresses** | 5:22 |
+| B5 | **Silent Crusade** | 4:12 |
+
 ## See also
 
 - [No Other](No_Other.md)

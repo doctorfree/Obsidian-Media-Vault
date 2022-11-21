@@ -37,6 +37,13 @@ By Jefferson Starship
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Count On Me** | 3:14 |
+| B | **Show Yourself** | 4:36 |
+
 ## See also
 
 - [Crazy Feelin'](Crazy_Feelin.md)

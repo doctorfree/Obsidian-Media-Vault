@@ -37,6 +37,13 @@ By The Motors
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Cold Love (Stereo)** | 3:45 |
+| B | **Cold Love (Mono)** | 3:45 |
+
 ## See also
 
 - [](The_Motors.md)

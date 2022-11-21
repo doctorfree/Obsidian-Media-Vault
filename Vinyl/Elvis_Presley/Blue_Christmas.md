@@ -37,6 +37,13 @@ By Elvis Presley
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Blue Christmas** | 2:05 |
+| B | **Santa Claus Is Back In Town** | 2:21 |
+
 ## See also
 
 - [](Elvis_Presley.md)

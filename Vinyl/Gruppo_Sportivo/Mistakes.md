@@ -37,6 +37,24 @@ By Gruppo Sportivo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mission A Paris** | 4:17 |
+| A2 | **Dreamin'** | 4:17 |
+| A3 | **Henri** | 4:21 |
+| A4 | **Hey Girl** | 2:25 |
+| A5 | **I Said No** | 4:14 |
+| A6 | **I Shot My Manager** | 2:50 |
+| B1 | **Blah Blah Magazines** | 2:01 |
+| B2 | **Beep Beep Love** | 2:54 |
+| B3 | **P.S. 78** | 3:00 |
+| B4 | **Superman** | 6:22 |
+| B5 | **One Way Love (From Me To You)** | 3:07 |
+| B6 | **Bottom Of The Class** | 2:04 |
+| B7 | **The Single** | 1:13 |
+
 ## See also
 
 - [Back To 78](Back_To_78.md)

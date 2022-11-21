@@ -37,6 +37,21 @@ By Spoon
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Hot Thoughts** |  |
+| A2 | **WhisperI’lllistentohearit** |  |
+| A3 | **Do I Have To Talk You Into It** |  |
+| A4 | **First Caress** |  |
+| A5 | **Pink Up** |  |
+| B1 | **Can I Sit Next To You** |  |
+| B2 | **I Ain't The One** |  |
+| B3 | **Tear It Down** |  |
+| B4 | **Shotgun** |  |
+| B5 | **Us** |  |
+
 ## See also
 
 - [](Spoon.md)

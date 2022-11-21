@@ -37,6 +37,23 @@ By "Paul Kantner, Grace Slick"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Silver Spoon** | 5:40 |
+| A2 | **Diana - Part 1** | 0:52 |
+| A3 | **Sunfighter** | 3:50 |
+| A4 | **Titanic** | 2:25 |
+| A5 | **Look At The Wood** | 2:08 |
+| A6 | **When I Was A Boy I Watched The Wolves** | 4:59 |
+| B1 | **Million** | 4:02 |
+| B2 | **China** | 3:17 |
+| B3 | **Earth Mother** | 3:16 |
+| B4 | **Diana - Part 2** | 1:01 |
+| B5 | **Universal Copernican Mumbles** | 2:03 |
+| B6 | **Holding Together** | 7:40 |
+
 ## See also
 
 - [](Paul_Kantner__Grace_Slick.md)

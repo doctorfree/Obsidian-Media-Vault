@@ -35,6 +35,13 @@ By The Classics IV Featuring Dennis Yost
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Stormy** | 2:45 |
+| B | **24 Hours Of Loneliness** | 2:05 |
+
 ## See also
 
 - [](The_Classics_IV_Featuring_Dennis_Yost.md)

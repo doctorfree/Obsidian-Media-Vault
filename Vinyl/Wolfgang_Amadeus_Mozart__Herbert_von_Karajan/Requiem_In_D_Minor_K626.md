@@ -37,6 +37,25 @@ By "Wolfgang Amadeus Mozart, Herbert von Karajan"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I. Introitus - Requiem** |  |
+| A2 | **II. Kyrie, III. Sequenz** |  |
+| A3 | **No.1 Dies irae** |  |
+| A4 | **No.2 Tuba mirum** |  |
+| B1 | **No.3 Rex tremendae** |  |
+| B2 | **No.4 Recordare** |  |
+| B3 | **No.5 Confutatis** |  |
+| B4 | **No.6 Lacrimosa** |  |
+| C1 | **IV. Offertoruim - No.1 Domine Jesu** |  |
+| C2 | **No.2 Hostias** |  |
+| D1 | **V. Sanctus** |  |
+| D2 | **VI. Benedictus** |  |
+| D3 | **VII. Angus Dei** |  |
+| D4 | **VII. Communio** |  |
+
 ## See also
 
 - [](Wolfgang_Amadeus_Mozart__Herbert_von_Karajan.md)

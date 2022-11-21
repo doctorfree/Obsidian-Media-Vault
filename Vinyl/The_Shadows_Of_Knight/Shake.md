@@ -37,6 +37,13 @@ By The Shadows Of Knight
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Shake** | 2:28 |
+| B | **From Way Out To Way Under** | 2:45 |
+
 ## See also
 
 - [](The_Shadows_Of_Knight.md)

@@ -37,6 +37,20 @@ By Madonna
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Papa Don't Preach** |  |
+| A2 | **Open Your Heart** |  |
+| A3 | **White Heat** |  |
+| A4 | **Live To Tell** |  |
+| B1 | **Where's The Party** |  |
+| B2 | **True Blue** |  |
+| B3 | **La Isla Bonita** |  |
+| B4 | **Jimmy Jimmy** |  |
+| B5 | **Love Makes The World Go Round** |  |
+
 ## See also
 
 - [Like A Prayer](Like_A_Prayer.md)

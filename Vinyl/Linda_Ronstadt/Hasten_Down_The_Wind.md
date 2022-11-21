@@ -37,6 +37,23 @@ By Linda Ronstadt
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Lose Again** | 3:34 |
+| A2 | **The Tattler** | 3:56 |
+| A3 | **If He's Ever Near** | 3:15 |
+| A4 | **That'll Be The Day** | 2:32 |
+| A5 | **Lo Siento Mi Vida** | 3:54 |
+| A6 | **Hasten Down The Wind** | 2:40 |
+| B1 | **Rivers Of Babylon** | 0:52 |
+| B2 | **Give One Heart** | 4:07 |
+| B3 | **Try Me Again** | 3:59 |
+| B4 | **Crazy** | 3:58 |
+| B5 | **Down So Low** | 4:08 |
+| B6 | **Someone To Lay Down Beside Me** | 4:28 |
+
 ## See also
 
 - [Don't Cry Now](Dont_Cry_Now.md)

@@ -37,6 +37,22 @@ By Mandrill
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ape Is High** | 5:32 |
+| A2 | **Cohelo** | 1:50 |
+| A3 | **Git It All** | 4:30 |
+| A4 | **Children Of The Sun** | 5:00 |
+| A5 | **I Refuse To Smile** | 4:05 |
+| B1 | **Universal Rhythms** | 3:24 |
+| B2 | **Lord Of The Golden Baboon** | 3:33 |
+| B3 | **Central Park** | 4:05 |
+| B4 | **Kofijahm** | 3:25 |
+| B5 | **Here Today Gone Tomorrow** | 4:30 |
+| B6 | **The Sun Must Go Down** | 3:17 |
+
 ## See also
 
 - [](Mandrill.md)

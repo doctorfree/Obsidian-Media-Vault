@@ -37,6 +37,13 @@ By Eddie Fisher
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Need You Now** |  |
+| B | **Heaven Was Never Like This** |  |
+
 ## See also
 
 - [](Eddie_Fisher.md)

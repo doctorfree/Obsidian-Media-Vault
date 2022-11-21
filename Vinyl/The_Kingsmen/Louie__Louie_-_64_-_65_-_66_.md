@@ -37,6 +37,13 @@ By The Kingsmen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Louie, Louie - 64 - 65 - 66 .....** | 2:24 |
+| B | **Haunted Castle** | 2:45 |
+
 ## See also
 
 - [](The_Kingsmen.md)

@@ -37,6 +37,24 @@ By Wings
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Venus And Mars** | 1:16 |
+| A2 | **Rock Show** | 5:32 |
+| A3 | **Love In Song** | 3:05 |
+| A4 | **You Gave Me The Answer** | 2:14 |
+| A5 | **Magneto And Titanium Man** | 3:15 |
+| A6 | **Letting Go** | 4:36 |
+| B1 | **Venus And Mars (Reprise)** | 2:03 |
+| B2 | **Spirits Of Ancient Egypt** | 3:05 |
+| B3 | **Medicine Jar** | 3:37 |
+| B4 | **Call Me Back Again** | 4:59 |
+| B5 | **Listen To What The Man Said** | 3:59 |
+| B6 | **Treat Her Gently / Lonely Old People** | 4:24 |
+| B7 | **Crossroads Theme** | 1:01 |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

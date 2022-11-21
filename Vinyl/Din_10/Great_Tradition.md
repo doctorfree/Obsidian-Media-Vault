@@ -35,6 +35,13 @@ By Din (10)
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Reptiles** | 3:15 |
+| B | **Rejection** | 1:59 |
+
 ## See also
 
 - [](Din_10.md)

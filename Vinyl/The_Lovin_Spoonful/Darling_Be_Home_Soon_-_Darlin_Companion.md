@@ -37,6 +37,13 @@ By The Lovin' Spoonful
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Darling Be Home Soon** | 3:32 |
+| B | **Darlin' Companion** | 2:22 |
+
 ## See also
 
 - [Daydream](Daydream.md)

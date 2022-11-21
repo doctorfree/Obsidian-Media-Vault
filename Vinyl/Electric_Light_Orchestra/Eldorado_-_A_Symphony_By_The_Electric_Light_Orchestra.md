@@ -37,6 +37,21 @@ By Electric Light Orchestra
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Eldorado Overture** | 2:12 |
+| A2 | **Can't Get It Out Of My Head** | 4:26 |
+| A3 | **Boy Blue** | 5:17 |
+| A4 | **Laredo Tornado** | 5:26 |
+| A5 | **Poor Boy (The Greenwood)** | 2:56 |
+| B1 | **Mister Kingdom** | 5:50 |
+| B2 | **Nobody's Child** | 3:40 |
+| B3 | **Illusions In G Major** | 2:36 |
+| B4 | **Eldorado** | 5:20 |
+| B5 | **Eldorado Finale** | 1:20 |
+
 ## See also
 
 - [Face The Music](Face_The_Music.md)

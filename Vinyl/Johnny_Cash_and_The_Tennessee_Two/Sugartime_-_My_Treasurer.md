@@ -37,6 +37,13 @@ By Johnny Cash & The Tennessee Two
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sugartime** | 1:46 |
+| B | **My Treasurer** | 1:13 |
+
 ## See also
 
 - [](Johnny_Cash_and_The_Tennessee_Two.md)

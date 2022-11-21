@@ -37,6 +37,20 @@ By David Bowie
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Changes** | 2:32 |
+|  | **Oh! You Pretty Things/Eight Line Poem** | 6:04 |
+| A4 | **Life On Mars?** | 3:45 |
+| A5 | **Kooks** | 2:45 |
+| A6 | **Quicksand** | 5:03 |
+|  | **Fill Your Heart/Andy Warhol** | 7:02 |
+| B3 | **Song For Bob Dylan** | 4:10 |
+| B4 | **Queen Bitch** | 3:14 |
+| B5 | **The Bewlay Brothers** | 5:21 |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

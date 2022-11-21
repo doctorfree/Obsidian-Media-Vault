@@ -37,6 +37,13 @@ By Johnny Nash
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Hold Me Tight** | 2:50 |
+| B | **Cupid** | 3:29 |
+
 ## See also
 
 - [](Johnny_Nash.md)

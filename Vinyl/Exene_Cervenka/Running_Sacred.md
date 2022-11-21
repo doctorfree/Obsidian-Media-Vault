@@ -37,6 +37,23 @@ By Exene Cervenka
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Slave Labor** |  |
+| A2 | **Clinic** |  |
+| A3 | **Red Dirt** |  |
+| A4 | **Real Estate** |  |
+| A5 | **Curtains** |  |
+| A6 | **A Boy And His Sister** |  |
+| B1 | **Same Denomination** |  |
+| B2 | **Missing Nature** |  |
+| B3 | **It Fell** |  |
+| B4 | **The Ballad Of Roberta** |  |
+| B5 | **Just Another Perfect Day** |  |
+| B6 | **Will Jesus Wash The Bloodstains From Your Hands** |  |
+
 ## See also
 
 - [](Exene_Cervenka.md)

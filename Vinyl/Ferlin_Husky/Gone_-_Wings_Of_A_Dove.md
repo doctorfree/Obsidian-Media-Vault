@@ -37,6 +37,13 @@ By Ferlin Husky
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Gone** | 2:21 |
+| B | **Wings Of A Dove** | 2:18 |
+
 ## See also
 
 - [](Ferlin_Husky.md)

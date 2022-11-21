@@ -37,6 +37,13 @@ By Junior Walker
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Blow The House Down** | 3:57 |
+| B | **Ball Baby** | 4:53 |
+
 ## See also
 
 - [](Junior_Walker.md)

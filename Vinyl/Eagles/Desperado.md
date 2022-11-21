@@ -37,6 +37,22 @@ By Eagles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Doolin-Dalton** | 3:26 |
+| A2 | **Twenty-One** | 2:11 |
+| A3 | **Out Of Control** | 3:04 |
+| A4 | **Tequila Sunrise** | 2:52 |
+| A5 | **Desperado** | 3:33 |
+| B1 | **Certain Kind Of Fool** | 3:02 |
+| B2 | **Doolin-Dalton (Instrumental)** | 0:48 |
+| B3 | **Outlaw Man** | 3:34 |
+| B4 | **Saturday Night** | 3:20 |
+| B5 | **Bitter Creek** | 5:00 |
+| B6 | **Doolin-Dalton / Desperado (Reprise)** | 4:50 |
+
 ## See also
 
 - [Hotel California](Hotel_California.md)

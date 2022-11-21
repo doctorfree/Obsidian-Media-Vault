@@ -37,6 +37,13 @@ By Evaline Braden
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Think You Better Leave** | 2:17 |
+| B | **Half** | 2:22 |
+
 ## See also
 
 - [](Evaline_Braden.md)

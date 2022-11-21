@@ -37,6 +37,21 @@ By "Crosby, Stills & Nash"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Suite: Judy Blue Eyes** | 7:22 |
+| A2 | **Marrakesh Express** | 2:36 |
+| A3 | **Guinnevere** | 4:43 |
+| A4 | **You Don't Have To Cry** | 2:43 |
+| A5 | **Pre-Road Downs** | 2:59 |
+| B1 | **Wooden Ships** | 5:22 |
+| B2 | **Lady Of The Island** | 2:36 |
+| B3 | **Helplessly Hoping** | 2:37 |
+| B4 | **Long Time Gone** | 4:17 |
+| B5 | **49 Bye-Byes** | 5:15 |
+
 ## See also
 
 - [](Crosby__Stills_and_Nash_index.md)

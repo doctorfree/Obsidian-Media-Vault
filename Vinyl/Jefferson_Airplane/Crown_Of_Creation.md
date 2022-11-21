@@ -37,6 +37,22 @@ By Jefferson Airplane
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Lather** | 2:55 |
+| A2 | **In Time** | 4:07 |
+| A3 | **Triad** | 4:54 |
+| A4 | **Star Track** | 3:09 |
+| A5 | **Share A Little Joke** | 3:04 |
+| A6 | **Chushingura** | 1:17 |
+| B1 | **If You Feel** | 3:30 |
+| B2 | **Crown Of Creation** | 2:52 |
+| B3 | **Ice Cream Phoenix** | 2:59 |
+| B4 | **Greasy Heart** | 3:25 |
+| B5 | **The House At Pooneil Corners** | 5:46 |
+
 ## See also
 
 - [After Bathing At Baxter's](After_Bathing_At_Baxters.md)

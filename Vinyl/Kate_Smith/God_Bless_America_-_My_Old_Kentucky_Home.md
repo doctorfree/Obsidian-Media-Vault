@@ -37,6 +37,13 @@ By Kate Smith
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **God Bless America** |  |
+| B | **My Old Kentucky Home** |  |
+
 ## See also
 
 - [](Kate_Smith.md)

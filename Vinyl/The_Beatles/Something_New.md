@@ -37,6 +37,22 @@ By The Beatles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I'll Cry Instead** | 2:04 |
+| A2 | **Things We Said Today** | 2:35 |
+| A3 | **Any Time At All** | 2:10 |
+| A4 | **When I Get Home** | 2:14 |
+| A5 | **Slow Down** | 2:54 |
+| A6 | **Matchbox** | 1:37 |
+| B1 | **Tell Me Why** | 2:06 |
+| B2 | **And I Love Her** | 2:28 |
+| B3 | **I'm Happy Just To Dance With You** | 1:56 |
+| B4 | **If I Fell** | 2:19 |
+| B5 | **Komm, Gib Mir Deine Hand (I Want To Hold Your Hand)** | 2:24 |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

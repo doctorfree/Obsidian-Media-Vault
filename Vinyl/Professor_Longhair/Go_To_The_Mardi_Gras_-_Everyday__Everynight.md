@@ -37,6 +37,13 @@ By Professor Longhair
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Go To The Mardi Gras** | 2:21 |
+| B | **Everyday, Everynight** | 2:12 |
+
 ## See also
 
 - [Crawfish Fiesta](Crawfish_Fiesta.md)

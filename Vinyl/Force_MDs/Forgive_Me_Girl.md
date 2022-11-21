@@ -37,6 +37,13 @@ By Force MD's
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Forgive Me Girl (Vocal)** | 5:35 |
+| B | **Let's Stay Together (vocal)** | 4:35 |
+
 ## See also
 
 - [](Force_MDs.md)

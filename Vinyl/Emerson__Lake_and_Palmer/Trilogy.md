@@ -37,6 +37,20 @@ By "Emerson, Lake & Palmer"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Endless Enigma (Part One)** |  |
+| A2 | **Fugue** |  |
+| A3 | **The Endless Enigma (Part Two)** |  |
+| A4 | **From The Beginning** |  |
+| A5 | **The Sheriff** |  |
+| A6 | **Hoedown** |  |
+| B1 | **Trilogy** |  |
+| B2 | **Living Sin** |  |
+| B3 | **Abaddon's Bolero** |  |
+
 ## See also
 
 - [Brain Salad Surgery](Brain_Salad_Surgery.md)

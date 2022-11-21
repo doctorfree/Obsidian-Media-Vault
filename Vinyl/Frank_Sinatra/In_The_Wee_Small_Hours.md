@@ -37,6 +37,27 @@ By Frank Sinatra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **In The Wee Small Hours Of The Morning** |  |
+| A2 | **Mood Indigo** |  |
+| A3 | **Glad To Be Unhappy** |  |
+| A4 | **I Get Along Without You Very Well** |  |
+| A5 | **Deep In A Dream** |  |
+| A6 | **I See Your Face Before Me** |  |
+| A7 | **Can't We Be Friends** |  |
+| A8 | **When Your Lover Has Gone** |  |
+| B1 | **What Is This Thing Called Love** |  |
+| B2 | **Last Night When We Were Young** |  |
+| B3 | **I'll Be Around** |  |
+| B4 | **Ill Wind** |  |
+| B5 | **It Never Entered My Mind** |  |
+| B6 | **Dancing On The Ceiling** |  |
+| B7 | **I'll Never Be The Same** |  |
+| B8 | **This Love Of Mine** |  |
+
 ## See also
 
 - [Learnin' The Blues / If I Had Three Wishes](Learnin_The_Blues_-_If_I_Had_Three_Wishes.md)

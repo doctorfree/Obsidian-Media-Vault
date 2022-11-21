@@ -37,6 +37,13 @@ By The Beach Boys
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Darlin'** | 2:11 |
+| B | **Here Today** | 2:38 |
+
 ## See also
 
 - ["Dance, Dance, Dance"](Dance__Dance__Dance.md)

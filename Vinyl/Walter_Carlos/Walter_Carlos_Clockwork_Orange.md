@@ -37,6 +37,19 @@ By Walter Carlos
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Timesteps** | 13:50 |
+| A2 | **March From A Clockwork Orange** | 7:00 |
+| B1 | **Title Music From A Clockwork Orange** | 2:21 |
+| B2 | **La Gazza Ladra** | 5:50 |
+| B3 | **Theme From A Clockwork Orange** | 1:44 |
+| B4 | **Ninth Symphony: Second Movement (Scherzo)** | 4:52 |
+| B5 | **William Tell Overture (Abridged)** | 1:17 |
+| B6 | **Country Lane** | 4:43 |
+
 ## See also
 
 - [](Walter_Carlos.md)

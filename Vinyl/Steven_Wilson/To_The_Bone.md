@@ -37,6 +37,22 @@ By Steven Wilson
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **To The Bone** | 6:41 |
+| A2 | **Nowhere Now** | 4:03 |
+| A3 | **Pariah** | 4:44 |
+| B1 | **The Same Asylum As Before** | 5:14 |
+| B2 | **Refuge** | 6:42 |
+| B3 | **Permanating** | 3:34 |
+| C1 | **Blank Tapes** | 2:08 |
+| C2 | **People Who Eat Darkness** | 6:02 |
+| C3 | **Song Of I** | 5:21 |
+| D1 | **Detonation** | 9:19 |
+| D2 | **Song Of Unborn** | 5:55 |
+
 ## See also
 
 - [Grace For Drowning](Grace_For_Drowning.md)

@@ -37,6 +37,20 @@ By Genesis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mama** | 6:46 |
+| A2 | **That's All** | 4:22 |
+| A3 | **Home By The Sea** | 4:46 |
+| A4 | **Second Home By The Sea** | 6:22 |
+| B1 | **Illegal Alien** | 5:12 |
+| B2 | **Taking It All Too Hard** | 3:54 |
+| B3 | **Just A Job To Do** | 4:44 |
+| B4 | **Silver Rainbow** | 4:27 |
+| B5 | **It's Gonna Get Better** | 5:00 |
+
 ## See also
 
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)

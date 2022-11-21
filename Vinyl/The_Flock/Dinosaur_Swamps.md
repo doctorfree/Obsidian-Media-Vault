@@ -37,6 +37,18 @@ By The Flock
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Green Slice** | 2:00 |
+| A2 | **Big Bird** | 5:52 |
+| A3 | **Hornschmeyer's Island** | 7:27 |
+| A4 | **Lighthouse** | 5:20 |
+| B1 | **Crabfoot** | 8:15 |
+| B2 | **Mermaid** | 4:53 |
+| B3 | **Uranian Sircus** | 7:12 |
+
 ## See also
 
 - [](The_Flock.md)

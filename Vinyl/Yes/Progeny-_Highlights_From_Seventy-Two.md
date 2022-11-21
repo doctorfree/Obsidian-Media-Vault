@@ -37,6 +37,20 @@ By Yes
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Opening (Excerpt From Firebird Suite) / Siberian Khatru** |  |
+|  | **I've Seen All Good People** |  |
+| B1 | **Heart Of The Sunrise** |  |
+| B2 | **Clap / Mood For A Day** |  |
+|  | **And You And I** |  |
+|  | **Close To The Edge** |  |
+| E1 | **Excerpts From "The Six Wives Of Henry VIII"** |  |
+| E2 | **Roundabout** |  |
+| F | **Yours Is No Disgrace** |  |
+
 ## See also
 
 - [Close To The Edge](Close_To_The_Edge.md)

@@ -37,6 +37,24 @@ By Norah Jones
 - Weight: 200 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Wish I Could** | 4:18 |
+| A2 | **Sinkin' Soon** | 4:38 |
+| A3 | **The Sun Doesn't Like You** | 2:59 |
+| A4 | **Until The End** | 3:56 |
+| A5 | **Not My Friend** | 2:54 |
+| A6 | **Thinking About You** | 3:20 |
+| B1 | **Broken** | 3:21 |
+| B2 | **My Dear Country** | 3:25 |
+| B3 | **Wake Me Up** | 2:46 |
+| B4 | **Be My Somebody** | 3:36 |
+| B5 | **Little Room** | 2:43 |
+| B6 | **Rosie's Lullaby** | 3:56 |
+| B7 | **Not Too Late** | 3:31 |
+
 ## See also
 
 - [Come Away With Me](Come_Away_With_Me.md)

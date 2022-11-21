@@ -37,6 +37,27 @@ By Soundgarden
 - Weight: 200 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Let Me Drown** |  |
+| A2 | **My Wave** |  |
+| A3 | **Fell On Black Days** |  |
+| A4 | **Mailman** |  |
+| B1 | **Superunknown** |  |
+| B2 | **Head Down** |  |
+| B3 | **Black Hole Sun** |  |
+| C1 | **Spoonman** |  |
+| C2 | **Limo Wreck** |  |
+| C3 | **The Day I Tried To Live** |  |
+| C4 | **Kickstand** |  |
+| D1 | **Fresh Tendrils** |  |
+| D2 | **4th Of July** |  |
+| D3 | **Half** |  |
+| D4 | **Like Suicide** |  |
+| D5 | **She Likes Surprises** |  |
+
 ## See also
 
 - [](Soundgarden.md)

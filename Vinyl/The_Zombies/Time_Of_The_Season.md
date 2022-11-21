@@ -37,6 +37,13 @@ By The Zombies
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Time Of The Season** | 3:32 |
+| B | **Friends Of Mine** | 2:16 |
+
 ## See also
 
 - [](The_Zombies.md)

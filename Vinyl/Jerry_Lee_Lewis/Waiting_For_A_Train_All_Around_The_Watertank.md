@@ -37,6 +37,13 @@ By Jerry Lee Lewis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Waiting For A Train (All Around The Watertank) (Stereo)** | 1:37 |
+| B | **Waiting For A Train (All Around The Watertank) (Mono)** | 1:37 |
+
 ## See also
 
 - [The Session Recorded In London With Great Guest Artists](The_Session_Recorded_In_London_With_Great_Guest_Artists.md)

@@ -37,6 +37,21 @@ By Average White Band
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **You Got It** | 3:38 |
+| A2 | **Got The Love** | 3:52 |
+| A3 | **Pick Up The Pieces** | 3:58 |
+| A4 | **Person To Person** | 3:38 |
+| A5 | **Work To Do** | 4:21 |
+| B1 | **Nothing You Can Do** | 4:06 |
+| B2 | **Just Wanna Love You Tonight** | 3:57 |
+| B3 | **Keepin' It To Myself** | 3:52 |
+| B4 | **I Just Can't Give You Up** | 3:24 |
+| B5 | **There's Always Someone Waiting** | 5:38 |
+
 ## See also
 
 - [](Average_White_Band.md)

@@ -35,6 +35,13 @@ By Go-Go's
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Get Up And Go** | 3:12 |
+| B | **Get Up And Go** | 3:12 |
+
 ## See also
 
 - [Beauty And The Beat](Beauty_And_The_Beat.md)

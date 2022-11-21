@@ -37,6 +37,18 @@ By Godley & Creme
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Wet Rubber Soup** |  |
+| A2 | **Cry** |  |
+| B1 | **Cry (Single Version)** | 3:55 |
+| B2 | **Light Me Up** | 4:30 |
+| B3 | **An Englishman In New York** | 5:52 |
+| B4 | **Save A Mountain For Me** | 3:34 |
+| B5 | **Golden Boy** | 5:46 |
+
 ## See also
 
 - [](Godley_and_Creme.md)

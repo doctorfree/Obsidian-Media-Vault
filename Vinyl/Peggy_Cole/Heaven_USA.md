@@ -37,6 +37,13 @@ By Peggy Cole
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Heaven USA** | 1:50 |
+| B | **I'm Gonna Go Down Lovin'** | 1:42 |
+
 ## See also
 
 - [](Peggy_Cole.md)

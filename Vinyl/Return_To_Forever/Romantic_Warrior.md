@@ -37,6 +37,17 @@ By Return To Forever
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Medieval Overture** | 5:14 |
+| A2 | **Sorceress** | 7:33 |
+| A3 | **The Romantic Warrior** | 10:48 |
+| B1 | **Majestic Dance** | 5:00 |
+| B2 | **The Magician** | 5:27 |
+| B3 | **Duel Of The Jester And The Tyrant (Part I & Part II)** | 11:25 |
+
 ## See also
 
 - [](Return_To_Forever.md)

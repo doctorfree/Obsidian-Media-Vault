@@ -37,6 +37,13 @@ By New Kids On The Block
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Step By Step** | 4:27 |
+| B | **Valentine Girl** | 3:57 |
+
 ## See also
 
 - [](New_Kids_On_The_Block.md)

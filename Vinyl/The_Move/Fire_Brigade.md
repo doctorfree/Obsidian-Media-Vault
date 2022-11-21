@@ -37,6 +37,23 @@ By The Move
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Flowers In The Rain** |  |
+| A2 | **(Here We Go Round) The Lemon Tree** |  |
+| A3 | **Fire Brigade** |  |
+| A4 | **Beautiful Daughter** |  |
+| A5 | **Wild Tiger Woman** |  |
+| A6 | **Blackberry Way** |  |
+| B1 | **Curly** |  |
+| B2 | **Omnibus** |  |
+| B3 | **Walk Upon The Water** |  |
+| B4 | **When Alice Comes Back To The Farm** |  |
+| B5 | **Yellow Rainbow** |  |
+| B6 | **Brontosaurus** |  |
+
 ## See also
 
 - [Looking On](Looking_On.md)

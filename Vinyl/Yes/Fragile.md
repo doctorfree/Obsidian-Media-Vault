@@ -37,6 +37,20 @@ By Yes
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Roundabout** | 8:29 |
+| A2 | **Cans And Brahms (Extracts From Brahms' 4th Symphony In E Minor, Third Movement)** | 1:35 |
+| A3 | **We Have Heaven** | 1:30 |
+| A4 | **South Side Of The Sky** | 8:04 |
+| B1 | **Five Percent For Nothing** | 0:35 |
+| B2 | **Long Distance Runaround** | 3:33 |
+| B3 | **The Fish (Schindleria Praematurus)** | 2:35 |
+| B4 | **Mood For A Day** | 2:57 |
+| B5 | **Heart Of The Sunrise** | 10:34 |
+
 ## See also
 
 - [Close To The Edge](Close_To_The_Edge.md)

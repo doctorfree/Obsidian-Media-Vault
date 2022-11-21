@@ -37,6 +37,23 @@ By Carpenters
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **We've Only Just Begun** | 3:04 |
+| A2 | **Top Of The World** | 2:56 |
+| A3 | **Ticket To Ride** | 4:10 |
+| A4 | **Superstar** | 3:49 |
+| A5 | **Rainy Days And Mondays** | 3:40 |
+| A6 | **Goodbye To Love** | 3:50 |
+| B1 | **Yesterday Once More** | 3:50 |
+| B2 | **It's Going To Take Some Time** | 2:55 |
+| B3 | **Sing** | 3:20 |
+| B4 | **For All We Know** | 2:34 |
+| B5 | **Hurting Each Other** | 2:46 |
+| B6 | **(They Long To Be) Close To You** | 4:34 |
+
 ## See also
 
 - [](Carpenters.md)

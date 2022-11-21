@@ -37,6 +37,13 @@ By Huey Lewis & The News
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Power Of Love** | 3:53 |
+| B | **Bad Is Bad** | 3:46 |
+
 ## See also
 
 - [](Huey_Lewis_and_The_News.md)

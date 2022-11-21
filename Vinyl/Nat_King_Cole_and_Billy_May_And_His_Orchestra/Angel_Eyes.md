@@ -37,6 +37,13 @@ By Nat King Cole and Billy May And His Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Angel Eyes** |  |
+| B | **Return To Paradise** |  |
+
 ## See also
 
 - [](Nat_King_Cole_and_Billy_May_And_His_Orchestra.md)

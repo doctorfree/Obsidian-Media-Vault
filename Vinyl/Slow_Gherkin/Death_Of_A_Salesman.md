@@ -35,6 +35,15 @@ By Slow Gherkin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Zen And Soccer** |  |
+| A2 | **Covert Advertising** |  |
+| B1 | **Salsa III** |  |
+| B2 | **Drunken Sailor** |  |
+
 ## See also
 
 - [](Slow_Gherkin.md)

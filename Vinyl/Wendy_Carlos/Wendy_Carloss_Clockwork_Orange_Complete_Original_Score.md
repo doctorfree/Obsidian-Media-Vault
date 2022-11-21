@@ -37,6 +37,21 @@ By Wendy Carlos
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| 1 | **Timesteps** | 13:50 |
+| 2 | **March From A Clockwork Orange** | 7:00 |
+| 3 | **Title Music From A Clockwork Orange** | 2:21 |
+| 4 | **La Gazza Ladra (The Thieving Magpie)** | 5:50 |
+| 5 | **Theme From A Clockwork Orange (Beethoviana)** | 1:44 |
+| 6 | **Ninth Symphony: Second Movement (Scherzo)** | 4:52 |
+| 7 | **William Tell Overture** | 1:17 |
+| 8 | **Orange Minuet** | 2:35 |
+| 9 | **Biblical Daydreams** | 2:06 |
+| 10 | **Country Lane** | 4:43 |
+
 ## See also
 
 - [Switched-On Brandenburgs (The Complete Concertos)](Switched-On_Brandenburgs_The_Complete_Concertos.md)

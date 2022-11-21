@@ -35,6 +35,14 @@ By Claude Debussy / Maurice Ravel - Berliner Philharmoniker · Herbert von Karaj
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **«La Mer»: Trois Esquisses Symphoniques** |  |
+|  | **«Daphnis Et Chloé», Suite N° 2** |  |
+| B2 | **Prélude À L'Après-Midi D'Un Faune (Vorspiel Zum Nachmittag Eines Fauns)** |  |
+
 ## See also
 
 - [](Claude_Debussy_-_Maurice_Ravel_-_Berliner_Philharmoniker_·_Herbert_von_Karajan.md)

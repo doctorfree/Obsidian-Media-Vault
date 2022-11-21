@@ -37,6 +37,21 @@ By Queen
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Keep Yourself Alive** |  |
+| A2 | **Doing All Right** |  |
+| A3 | **Great King Rat** |  |
+| A4 | **My Fairy King** |  |
+| B1 | **Liar** |  |
+| B2 | **The Night Comes Down** |  |
+| B3 | **Modern Times Rock 'N' Roll** |  |
+| B4 | **Son And Daughter** |  |
+| B5 | **Jesus** |  |
+| B6 | **Seven Seas Of Rhye** |  |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

@@ -37,6 +37,21 @@ By Nat King Cole
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mona Lisa** | 3:26 |
+| A2 | **L-O-V-E** | 2:32 |
+| A3 | **Answer Me, My Love** | 2:52 |
+| A4 | **Sweet Lorraine** | 3:20 |
+| A5 | **Too Young** | 3:22 |
+| B1 | **Those Lazy-Hazy-Crazy Days Of Summer** | 1:21 |
+| B2 | **I Don't Want To Be Hurt Anymore** | 2:26 |
+| B3 | **Route 66** | 2:55 |
+| B4 | **Dear Lonely Hearts** | 3:06 |
+| B5 | **Ramblin' Rose** | 2:45 |
+
 ## See also
 
 - [Make Her Mine](Make_Her_Mine.md)

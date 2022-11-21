@@ -37,6 +37,13 @@ By Manfred Mann's Earth Band
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Blinded By The Light** | 3:48 |
+| B | **Starbird No. 2** | 3:03 |
+
 ## See also
 
 - [](Manfred_Manns_Earth_Band.md)

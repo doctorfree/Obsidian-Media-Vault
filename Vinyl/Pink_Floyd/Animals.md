@@ -37,6 +37,16 @@ By Pink Floyd
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Pigs On The Wing (Part One)** | 1:24 |
+| A2 | **Dogs** | 17:01 |
+| B1 | **Pigs (Three Different Ones)** | 11:20 |
+| B2 | **Sheep** | 10:22 |
+| B3 | **Pigs On The Wing (Part Two)** | 1:24 |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

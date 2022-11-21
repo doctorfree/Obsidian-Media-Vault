@@ -37,6 +37,13 @@ By TLC
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Red Light Special** | 5:02 |
+| B | **Red Light Special (Instrumental)** | 5:02 |
+
 ## See also
 
 - [](TLC.md)

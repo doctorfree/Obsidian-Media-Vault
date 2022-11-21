@@ -37,6 +37,20 @@ By Daryl Hall & John Oates
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Back Together Again** | 3:23 |
+| A2 | **Rich Girl** | 2:23 |
+| A3 | **Crazy Eyes** | 3:07 |
+| A4 | **Do What You Want, Be What You Are** | 4:35 |
+| A5 | **Kerry** | 3:47 |
+| B1 | **London Luck, & Love** | 2:56 |
+| B2 | **Room To Breathe** | 4:09 |
+| B3 | **You'll Never Learn** | 4:12 |
+| B4 | **Falling** | 6:13 |
+
 ## See also
 
 - [](Daryl_Hall_and_John_Oates.md)

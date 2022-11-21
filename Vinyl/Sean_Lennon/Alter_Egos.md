@@ -37,6 +37,31 @@ By Sean Lennon
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| 1 | **Alter Egos Theme** |  |
+| 2 | **My Hero** |  |
+| 3 | **The Killer** |  |
+| 4 | **The Conspiracy** |  |
+| 5 | **Fridge Walks** |  |
+| 6 | **Ms. Unseen** |  |
+| 7 | **Dr. Invisible** |  |
+| 8 | **Emily Vs. Claudel** |  |
+| 9 | **The Capture** |  |
+| 10 | **C-Thru's Theme** |  |
+| 11 | **The Shrink** |  |
+| 12 | **Love Life** |  |
+| 13 | **Jimmy's Theme** |  |
+| 14 | **The Supercore** |  |
+| 15 | **The Fight** |  |
+| 16 | **The Dance Part II** |  |
+| 17 | **The Nephew** |  |
+| 18 | **The Kiss** |  |
+| 19 | **Mind Control** |  |
+| 20 | **Exile** |  |
+
 ## See also
 
 - [](Sean_Lennon.md)

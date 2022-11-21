@@ -37,6 +37,24 @@ By The White Stripes
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Blue Orchid** | 2:40 |
+| A2 | **The Nurse** | 3:54 |
+| A3 | **My Doorbell** | 4:05 |
+| B1 | **Forever For Her (Is Over For Me)** | 3:20 |
+| B2 | **As Ugly As I Seem** | 4:13 |
+| B3 | **The Denial Twist** | 2:37 |
+| B4 | **White Moon** | 4:02 |
+| C1 | **Instinct Blues** | 4:25 |
+| C2 | **Passive Manipulation** | 0:39 |
+| C3 | **Take, Take, Take** | 4:24 |
+| D1 | **Little Ghost** | 2:23 |
+| D2 | **Red Rain** | 3:53 |
+| D3 | **I'm Lonely (But I Ain't That Lonely Yet)** | 4:22 |
+
 ## See also
 
 - [Live Under The Lights Of The Rising Sun](Live_Under_The_Lights_Of_The_Rising_Sun.md)

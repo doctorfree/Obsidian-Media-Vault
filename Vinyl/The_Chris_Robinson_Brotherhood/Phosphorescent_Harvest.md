@@ -37,6 +37,23 @@ By The Chris Robinson Brotherhood
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Shore Power** | 4:41 |
+| A2 | **About A Stranger** | 5:08 |
+| A3 | **Meanwhile In The Gods....** | 6:08 |
+| B1 | **Badlands Here We Come** | 5:25 |
+| B2 | **Clear Blue Sky & The Good Doctor** | 7:47 |
+| C1 | **Beggar's Moon** | 6:56 |
+| C2 | **Wanderer's Lament** | 5:38 |
+| C3 | **Tornado** | 5:04 |
+| D1 | **Jump The Turnstiles** | 6:40 |
+| D2 | **Burn Slow** | 7:14 |
+| E | **Humboldt Windchimes** | 4:37 |
+| F | **Star Crossed Lonely Sailor** | 5:35 |
+
 ## See also
 
 - [The Magic Door](The_Magic_Door.md)

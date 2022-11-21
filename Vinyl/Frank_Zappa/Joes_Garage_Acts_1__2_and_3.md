@@ -37,6 +37,29 @@ By Frank Zappa
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Central Scrutinizer** | 3:27 |
+| A2 | **Joe's Garage** | 6:10 |
+| A3 | **Catholic Girls** | 4:26 |
+| A4 | **Crew Slut** | 5:51 |
+| B1 | **Wet T-Shirt Nite** | 5:26 |
+| B2 | **Toad-O-Line** | 4:18 |
+| B3 | **Why Does It Hurt When I Pee?** | 2:35 |
+| B4 | **Lucille Has Messed My Mind Up** | 7:17 |
+| C1 | **A Token Of My Extreme** | 5:28 |
+| C2 | **Stick It Out** | 4:33 |
+| C3 | **Sy Borg** | 8:50 |
+| D1 | **Dong Work For Yuda** | 5:03 |
+| D2 | **Keep It Greasey** | 8:22 |
+| D3 | **Outside Now** | 5:52 |
+| E1 | **He Used To Cut The Grass** | 8:34 |
+| E2 | **Packard Goose** | 11:38 |
+| F1 | **Watermelon In Easter Hay** | 10:00 |
+| F2 | **A Little Green Rosetta** | 7:25 |
+
 ## See also
 
 - [I Don't Wanna Get Drafted!](I_Dont_Wanna_Get_Drafted!.md)

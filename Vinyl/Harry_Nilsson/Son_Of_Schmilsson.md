@@ -37,6 +37,22 @@ By Harry Nilsson
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Take 54** | 4:22 |
+| A2 | **Remember Christmas** | 4:07 |
+| A3 | **Joy** | 3:42 |
+| A4 | **Turn On Your Radio** | 2:42 |
+| A5 | **You're Breakin' My Heart** | 3:10 |
+| B1 | **Spaceman** | 3:33 |
+| B2 | **The Lottery Song** | 2:24 |
+| B3 | **At My Front Door** | 2:46 |
+| B4 | **Ambush** | 5:35 |
+| B5 | **I'd Rather Be Dead** | 3:20 |
+| B6 | **The Most Beautiful World In The World** | 3:33 |
+
 ## See also
 
 - [Everybody's Talkin'](Everybodys_Talkin.md)

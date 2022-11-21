@@ -37,6 +37,13 @@ By Duran Duran
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Wild Boys** | 4:14 |
+| B | **(I'm Looking For) Cracks In The Pavement** | 4:00 |
+
 ## See also
 
 - [](Duran_Duran.md)

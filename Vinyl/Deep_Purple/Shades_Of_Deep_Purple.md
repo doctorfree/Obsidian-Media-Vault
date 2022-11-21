@@ -37,6 +37,20 @@ By Deep Purple
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **And The Address** |  |
+| A2 | **Hush** |  |
+| A3 | **One More Rainy Day** |  |
+| A4a | **Prelude: Happiness** |  |
+| A4b | **I'm So Glad** |  |
+| B1 | **Mandrake Root** |  |
+| B2 | **Help** |  |
+| B3 | **Love Help Me** |  |
+| B4 | **Hey Joe** |  |
+
 ## See also
 
 - [Burn](Burn.md)

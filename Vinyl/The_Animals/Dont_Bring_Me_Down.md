@@ -37,6 +37,13 @@ By The Animals
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Don't Bring Me Down** | 3:13 |
+| B | **Cheating** | 2:23 |
+
 ## See also
 
 - [The Best Of The Animals](The_Best_Of_The_Animals.md)

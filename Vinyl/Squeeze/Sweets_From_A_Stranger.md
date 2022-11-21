@@ -37,6 +37,23 @@ By Squeeze
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Out Of Touch** | 3:50 |
+| A2 | **I Can't Hold On** | 3:34 |
+| A3 | **Points Of View** | 4:13 |
+| A4 | **Stranger Than The Stranger On The Shore** | 3:18 |
+| A5 | **Onto The Dance Floor** | 3:38 |
+| A6 | **When The Hangover Strikes** | 4:31 |
+| B1 | **Black Coffee In Bed** | 6:12 |
+| B2 | **I've Returned** | 2:36 |
+| B3 | **Tongue Like A Knife** | 4:10 |
+| B4 | **His House Her Home** | 3:25 |
+| B5 | **The Very First Dance** | 3:18 |
+| B6 | **The Elephant Ride** | 3:23 |
+
 ## See also
 
 - [Argybargy](Argybargy.md)

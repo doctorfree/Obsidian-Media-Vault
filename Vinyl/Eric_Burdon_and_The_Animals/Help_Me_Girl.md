@@ -37,6 +37,13 @@ By Eric Burdon & The Animals
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Help Me Girl** | 2:35 |
+| B | **That Ain't Where It's At** | 2:55 |
+
 ## See also
 
 - [Monterey](Monterey.md)

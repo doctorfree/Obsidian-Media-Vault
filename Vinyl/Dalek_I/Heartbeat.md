@@ -37,6 +37,13 @@ By Dalek I
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Heartbeat** | 3:20 |
+| B | **Astronauts (Have Landed On The Moon)** | 3:21 |
+
 ## See also
 
 - [](Dalek_I.md)

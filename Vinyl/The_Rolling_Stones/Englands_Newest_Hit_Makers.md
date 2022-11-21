@@ -37,6 +37,23 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Not Fade Away** | 1:48 |
+| A2 | **Route 66** | 2:20 |
+| A3 | **I Just Want To Make Love To You** | 2:15 |
+| A4 | **Honest I Do** | 2:07 |
+| A5 | **Now I've Got A Witness** | 2:28 |
+| A6 | **Little By Little** | 2:35 |
+| B1 | **I'm A King Bee** | 2:33 |
+| B2 | **Carol** | 2:35 |
+| B3 | **Tell Me** | 3:47 |
+| B4 | **Can I Get A Witness** | 3:00 |
+| B5 | **You Can Make It If You Try** | 2:10 |
+| B6 | **Walking The Dog** | 3:10 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

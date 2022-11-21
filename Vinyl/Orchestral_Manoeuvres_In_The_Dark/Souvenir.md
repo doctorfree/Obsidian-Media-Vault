@@ -37,6 +37,16 @@ By Orchestral Manoeuvres In The Dark
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Sceneside** |  |
+| A | **Souvenir** | 3:37 |
+|  | **Typeside** |  |
+| B1 | **Motion & Heart (Amazon Version)** | 3:07 |
+| B2 | **Sacred Heart** | 3:27 |
+
 ## See also
 
 - [Enola Gay](Enola_Gay.md)

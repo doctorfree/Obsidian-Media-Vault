@@ -37,6 +37,16 @@ By Thomas Dolby
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **She Blinded Me With Science** | 5:09 |
+| A2 | **One Of Our Submarines** | 7:18 |
+| B1 | **Windpower** | 5:51 |
+| B2 | **Airwaves** | 5:20 |
+| B3 | **Flying North** | 5:36 |
+
 ## See also
 
 - [The Flat Earth](The_Flat_Earth.md)

@@ -37,6 +37,19 @@ By Black Sabbath
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sweet Leaf** | 5:06 |
+| A2 | **After Forever (Including The Elegy)** | 5:27 |
+| A3 | **Embryo** | 0:28 |
+| A4 | **Children Of The Grave** | 5:16 |
+| B1 | **Orchid** | 1:31 |
+| B2 | **Lord Of This World** | 5:26 |
+| B3 | **Solitude** | 5:02 |
+| B4 | **Into The Void** | 6:11 |
+
 ## See also
 
 - [Black Sabbath](Black_Sabbath.md)

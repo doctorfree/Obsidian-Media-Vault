@@ -37,6 +37,13 @@ By Cheri
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Murphy's Law (Remix)** | 3:53 |
+| B | **Murphy's Law (Instrumental)** | 3:51 |
+
 ## See also
 
 - [](Cheri.md)

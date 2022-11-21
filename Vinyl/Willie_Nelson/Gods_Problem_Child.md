@@ -37,6 +37,24 @@ By Willie Nelson
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Little House On The Hill** |  |
+| A2 | **Old Timer** |  |
+| A3 | **True Lover** |  |
+| A4 | **Delete And Fast Forward** |  |
+| A5 | **A Woman's Love** |  |
+| A6 | **Your Memory Has A Mind Of Its Own** |  |
+| A7 | **Butterfly** |  |
+| B1 | **Still Not Dead** |  |
+| B2 | **God's Problem Child** |  |
+| B3 | **It Gets Easier** |  |
+| B4 | **Lady Luck** |  |
+| B5 | **I Made A Mistake** |  |
+| B6 | **He Won't Ever Be Gone** |  |
+
 ## See also
 
 - [](Willie_Nelson.md)

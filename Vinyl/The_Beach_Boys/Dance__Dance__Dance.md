@@ -37,6 +37,13 @@ By The Beach Boys
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Dance, Dance, Dance** | 2:00 |
+| B | **The Warmth Of The Sun** | 2:47 |
+
 ## See also
 
 - [Darlin' / Here Today](Darlin_-_Here_Today.md)

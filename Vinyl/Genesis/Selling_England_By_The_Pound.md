@@ -37,6 +37,18 @@ By Genesis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Dancing With The Moonlit Knight** | 8:02 |
+| A2 | **I Know What I Like (In Your Wardrobe)** | 4:03 |
+| A3 | **Firth Of Fifth** | 9:36 |
+| A4 | **More Fool Me** | 3:10 |
+| B1 | **The Battle Of Epping Forest** | 11:43 |
+| B2 | **After The Ordeal** | 4:07 |
+| B3 | **The Cinema Show / Aisle Of Plenty** | 12:40 |
+
 ## See also
 
 - [A Trick Of The Tail](A_Trick_Of_The_Tail.md)

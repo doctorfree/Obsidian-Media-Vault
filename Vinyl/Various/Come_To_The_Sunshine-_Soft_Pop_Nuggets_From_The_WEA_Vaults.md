@@ -37,6 +37,35 @@ By Various
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Come To The Sunshine** |  |
+| A2 | **Candy Apple, Cotton Candy** |  |
+| A3 | **A Whole Lot Of Rainbows** |  |
+| A4 | **Love-In** |  |
+| A5 | **Talking To The Flowers** |  |
+| A6 | **Our Dream** |  |
+| B1 | **Take My Hand** |  |
+| B2 | **Come On In** |  |
+| B3 | **Just What I've Been Looking For** |  |
+| B4 | **Silver And Sunshine (How Wonderful Is Our Love)** |  |
+| B5 | **Happiness** |  |
+| B6 | **If You Know What I Mean** |  |
+| C1 | **Wounded** |  |
+| C2 | **Hung Up On Love** |  |
+| C3 | **For All That I Am** |  |
+| C4 | **Summer Days, Summer Nights** |  |
+| C5 | **Discrepency** |  |
+| C6 | **Scorpio Red** |  |
+| D1 | **Beverly Hills** |  |
+| D2 | **Tell Someone That You Love Them** |  |
+| D3 | **Time To Love** |  |
+| D4 | **Someday Man** |  |
+| D5 | **Trip To Loveland** |  |
+| D6 | **No One Was There (Requiem)** |  |
+
 ## See also
 
 - [Easy Rider (Music From The Soundtrack)](Easy_Rider_Music_From_The_Soundtrack.md)

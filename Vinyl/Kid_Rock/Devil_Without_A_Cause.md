@@ -37,6 +37,25 @@ By Kid Rock
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Bawitdaba** | 4:27 |
+| A2 | **Cowboy** | 4:17 |
+| A3 | **Devil Without A Cause** | 5:32 |
+| A4 | **I Am The Bullgod (Bottrill Mix)** | 4:50 |
+| B5 | **Roving Gangster (Rollin')** | 4:24 |
+| B6 | **Wasting Time** | 4:02 |
+| B7 | **Welcome 2 The Party (Ode 2 The Old School)** | 5:14 |
+| C8 | **I Got One For Ya'** | 3:37 |
+| C9 | **Somebody's Gotta Feel This** | 3:09 |
+| C10 | **Fist Of Rage** | 3:23 |
+| C11 | **Only God Knows Why** | 5:27 |
+| D12 | **F-ck Off** | 6:13 |
+| D13 | **Where U At Rock** | 4:24 |
+| D14 | **Black Chick, White Guy** | 7:08 |
+
 ## See also
 
 - [](Kid_Rock.md)

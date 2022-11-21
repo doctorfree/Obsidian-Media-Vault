@@ -37,6 +37,19 @@ By Poco
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Blue Water** | 3:12 |
+| A2 | **Fools Gold** | 2:24 |
+| A3 | **Here We Go Again** | 3:29 |
+| A4 | **Brass Buttons** | 4:16 |
+| A5 | **A Right Along** | 4:45 |
+| B1 | **Crazy Eyes** | 9:37 |
+| B2 | **Magnolia** | 6:18 |
+| B3 | **Let's Dance Tonight** | 3:49 |
+
 ## See also
 
 - [](Poco.md)

@@ -37,6 +37,20 @@ By The Tubes
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Tubes World Tour** | 4:41 |
+| A2 | **Brighter Day** | 3:44 |
+| A3 | **Pimp** | 4:22 |
+| A4 | **Stand Up And Shout** | 2:37 |
+| A5 | **Don't Touch Me There** | 3:24 |
+| B1 | **Slipped My Disco** | 4:29 |
+| B2 | **Proud To Be An American** | 3:02 |
+| B3 | **Poland Whole / Madam I'm Adam** | 6:33 |
+| B4 | **Young And Rich** | 5:02 |
+
 ## See also
 
 - [](The_Tubes.md)

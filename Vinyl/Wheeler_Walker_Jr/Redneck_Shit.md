@@ -37,6 +37,22 @@ By Wheeler Walker Jr.
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Redneck Shit** |  |
+| A2 | **Beer, Weed, Cooches** |  |
+| A3 | **Family Tree** |  |
+| A4 | **Can't Fuck You Off My Mind** |  |
+| A5 | **Fuck You Bitch** |  |
+| B1 | **Drop 'Em Out** |  |
+| B2 | **Eatin' Pussy/Kickin' Ass** |  |
+| B3 | **Fightin', Fuckin', Fartin'** |  |
+| B4 | **Better Off Beatin' Off** |  |
+| B5 | **Sit On My Face** |  |
+| B6 | **Which One O' You Queers Gonna Suck My Dick?** |  |
+
 ## See also
 
 - [](Wheeler_Walker_Jr.md)

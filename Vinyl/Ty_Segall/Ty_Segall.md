@@ -37,6 +37,20 @@ By Ty Segall
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Break A Guitar** | 3:40 |
+| A2 | **Freedom** | 2:07 |
+| A3 | **Warm Hands (Freedom Returned)** | 10:21 |
+| A4 | **Talkin'** | 3:51 |
+| B1 | **The Only One** | 3:54 |
+| B2 | **Thank You Mr. K** | 2:52 |
+| B3 | **Orange Color Queen** | 3:04 |
+| B4 | **Papers** | 3:00 |
+| B5 | **Take Care (To Comb Your Hair)** | 3:07 |
+
 ## See also
 
 - [](Ty_Segall_index.md)

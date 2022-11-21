@@ -37,6 +37,20 @@ By Eno • Hyde
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Satellites** | 5:33 |
+| A2 | **Daddy's Car** | 4:51 |
+| B1 | **A Man Wakes Up** | 4:19 |
+| B2 | **Witness** | 5:08 |
+| B3 | **Strip It Down** | 4:44 |
+| C1 | **Mother Of A Dog** | 5:38 |
+| C2 | **Who Rings The Bell** | 5:05 |
+| D1 | **When I Built This World** | 5:47 |
+| D2 | **To Us All** | 3:27 |
+
 ## See also
 
 - [](Eno_•_Hyde.md)

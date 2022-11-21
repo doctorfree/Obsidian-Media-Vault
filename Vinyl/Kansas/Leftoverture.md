@@ -37,6 +37,19 @@ By Kansas
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Carry On Wayward Son** |  |
+| A2 | **The Wall** |  |
+| A3 | **What's On My Mind** |  |
+| A4 | **Miracles Out Of Nowhere** |  |
+| B1 | **Opus Insert** |  |
+| B2 | **Questions Of My Childhood** |  |
+| B3 | **Cheyenne Anthem** |  |
+|  | **Magnum Opus** |  |
+
 ## See also
 
 - [Carry On Wayward Son](Carry_On_Wayward_Son.md)

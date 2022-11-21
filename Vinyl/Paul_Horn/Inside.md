@@ -37,6 +37,22 @@ By Paul Horn
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Prologue / Inside** | 3:57 |
+| A2 | **Mantra I / Meditation** | 2:20 |
+| A3 | **Mumtaz Mahal** | 3:23 |
+| A4 | **Unity** | 4:32 |
+| A5 | **Agra** | 1:38 |
+| B1 | **Vibrations** | 1:41 |
+| B2 | **Akasha** | 2:52 |
+| B3 | **Jumna** | 2:42 |
+| B4 | **Shah Jahan** | 5:40 |
+| B5 | **Mantra II / Duality** | 2:24 |
+| B6 | **Ustad Isa / Mantra III** | 2:27 |
+
 ## See also
 
 - [Dream Machine](Dream_Machine.md)

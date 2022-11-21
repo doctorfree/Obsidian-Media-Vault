@@ -37,6 +37,22 @@ By Jeannie C. Riley
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Harper Valley P.T.A.** | 3:12 |
+| A2 | **Widow Jones** | 2:42 |
+| A3 | **No Brass Band** | 2:25 |
+| A4 | **Mr. Harper** | 2:07 |
+| A5 | **Run Jeannie Run** | 3:22 |
+| A6 | **Shed Me No Tears** | 2:20 |
+| B1 | **The Cotton Patch** | 3:40 |
+| B2 | **Sippin' Shirley Thompson** | 2:02 |
+| B3 | **The Little Town Square** | 2:10 |
+| B4 | **The Ballad Of Louise** | 2:51 |
+| B5 | **Satan Place** | 3:20 |
+
 ## See also
 
 - [](Jeannie_C_Riley.md)

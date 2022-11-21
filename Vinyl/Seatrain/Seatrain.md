@@ -37,6 +37,22 @@ By Seatrain
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I'm Willin'** | 3:32 |
+| A2 | **Song Of Job** | 6:04 |
+| A3 | **Broken Morning** | 3:04 |
+| A4 | **Home To You** | 3:22 |
+| A5 | **Out Where The Hills** | 5:48 |
+| B1 | **Waiting For Elijah** | 3:35 |
+| B2 | **13 Questions** | 2:58 |
+| B3 | **Oh My Love** | 2:50 |
+| B4 | **Sally Goodin'** | 2:09 |
+| B5 | **Creepin' Midnight** | 5:20 |
+| B6 | **Orange Blossom Special** | 5:07 |
+
 ## See also
 
 - [](Seatrain_index.md)

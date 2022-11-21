@@ -37,6 +37,13 @@ By Tim Rose
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **King Lonely The Blue** | 2:10 |
+| B | **Hey Joe (You Shot Your Woman Down)** | 2:55 |
+
 ## See also
 
 - [](Tim_Rose.md)

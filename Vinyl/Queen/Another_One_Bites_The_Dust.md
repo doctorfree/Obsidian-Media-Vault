@@ -37,6 +37,13 @@ By Queen
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Another One Bites The Dust** | 3:32 |
+| B | **Don't Try Suicide** | 3:50 |
+
 ## See also
 
 - [A Night At The Opera](A_Night_At_The_Opera.md)

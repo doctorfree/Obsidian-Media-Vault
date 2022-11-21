@@ -37,6 +37,22 @@ By New York Dolls
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Personality Crisis** | 3:41 |
+| A2 | **Looking For A Kiss** | 3:19 |
+| A3 | **Vietnamese Baby** | 3:38 |
+| A4 | **Lonely Planet Boy** | 4:09 |
+| A5 | **Frankenstein  (Orig.)** | 6:00 |
+| B1 | **Trash** | 3:08 |
+| B2 | **Bad Girl** | 3:04 |
+| B3 | **Subway Train** | 4:21 |
+| B4 | **Pills** | 2:48 |
+| B5 | **Private World** | 3:39 |
+| B6 | **Jet Boy** | 4:41 |
+
 ## See also
 
 - [](New_York_Dolls_index.md)

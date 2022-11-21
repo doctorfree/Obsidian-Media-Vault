@@ -37,6 +37,21 @@ By The Holy Sisters Of The Gaga Dada
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Neighbor's Scream** | 3:34 |
+| A2 | **For Pete's Sake / Shades Of Gray** | 3:04 |
+| A3 | **Oh Pretty Woman** | 2:45 |
+| A4 | **Machine Gun** | 3:48 |
+| A5 | **Housework In Exile** | 4:52 |
+| B1 | **Round And Round** | 3:50 |
+| B2 | **Mister Mister** | 2:15 |
+| B3 | **I Won't Breed In Captivity** | 5:16 |
+| B4 | **Beside You** | 5:15 |
+| B5 | **Future** | 3:24 |
+
 ## See also
 
 - [](The_Holy_Sisters_Of_The_Gaga_Dada.md)

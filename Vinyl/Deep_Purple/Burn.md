@@ -37,6 +37,19 @@ By Deep Purple
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Burn** | 6:00 |
+| A2 | **Might Just Take Your Life** | 4:36 |
+| A3 | **Lay Down, Stay Down** | 4:15 |
+| A4 | **Sail Away** | 5:48 |
+| B1 | **You Fool No One** | 4:47 |
+| B2 | **What's Goin' On Here** | 4:55 |
+| B3 | **Mistreated** | 7:25 |
+| B4 | **"A" 200** | 3:51 |
+
 ## See also
 
 - [Deep Purple](Deep_Purple.md)

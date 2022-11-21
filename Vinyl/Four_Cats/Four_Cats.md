@@ -37,6 +37,14 @@ By Four Cats
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **P.R.E.** | 3:36 |
+| B1 | **After A Fashion** | 2:13 |
+| B2 | **Coffee Shop** | 3:03 |
+
 ## See also
 
 - [](Four_Cats_index.md)

@@ -37,6 +37,21 @@ By David Bowie
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Watch That Man** | 4:30 |
+| A2 | **Aladdin Sane (1913-1938-197?)** | 5:15 |
+| A3 | **Drive-In Saturday** | 4:38 |
+| A4 | **Panic In Detroit** | 4:30 |
+| A5 | **Cracked Actor** | 3:01 |
+| B1 | **Time** | 5:10 |
+| B2 | **The Prettiest Star** | 3:28 |
+| B3 | **Let's Spend The Night Together** | 3:10 |
+| B4 | **The Jean Genie** | 4:06 |
+| B5 | **Lady Grinning Soul** | 3:53 |
+
 ## See also
 
 - [ChangesOneBowie](ChangesOneBowie.md)

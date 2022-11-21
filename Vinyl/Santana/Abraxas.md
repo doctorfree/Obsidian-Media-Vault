@@ -37,6 +37,20 @@ By Santana
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Singing Winds, Crying Beasts** | 4:48 |
+| A2 | **Black Magic Woman / Gypsy Queen** | 5:17 |
+| A3 | **Oye Como Va** | 4:17 |
+| A4 | **Incident At Neshabur** | 4:58 |
+| B1 | **Se A Cabo** | 2:49 |
+| B2 | **Mother's Daughter** | 4:25 |
+| B3 | **Samba Pa Ti** | 4:46 |
+| B4 | **Hope You're Feeling Better** | 4:10 |
+| B5 | **El Nicoya** | 1:29 |
+
 ## See also
 
 - ["Woodstock (Saturday, August 16, 1969)"](Woodstock_Saturday__August_16__1969.md)

@@ -37,6 +37,21 @@ By John Lennon
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Imagine** | 2:59 |
+| A2 | **Crippled Inside** | 3:43 |
+| A3 | **Jealous Guy** | 4:10 |
+| A4 | **It's So Hard** | 2:22 |
+| A5 | **I Don't Want To Be A Soldier** | 6:01 |
+| B1 | **Give Me Some Truth** | 3:11 |
+| B2 | **Oh My Love** | 2:40 |
+| B3 | **How Do You Sleep?** | 5:29 |
+| B4 | **How?** | 3:37 |
+| B5 | **Oh Yoko!** | 4:18 |
+
 ## See also
 
 - [Walls And Bridges](Walls_And_Bridges.md)

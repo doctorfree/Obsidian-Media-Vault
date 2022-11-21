@@ -35,6 +35,13 @@ By The Barron Knights
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Topical Song ** | 3:26 |
+| B | **The Big V-Asectomy ** | 2:35 |
+
 ## See also
 
 - [](The_Barron_Knights.md)

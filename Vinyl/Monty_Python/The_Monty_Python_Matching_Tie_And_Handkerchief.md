@@ -37,6 +37,30 @@ By Monty Python
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Side A** |  |
+| A1 | **Bishop On The Landing** |  |
+| A2 | **Elephantoplasty** |  |
+| A3 | **Wide World Of Novel Writing** |  |
+| A4 | **Word Association** |  |
+| A5 | **Bruces** |  |
+| A6 | **Adventures Of Ralph Melish / Hot Dogs And Knickers** |  |
+| A7 | **The Cheese Shop** |  |
+| A8 | **Tiger Talk** |  |
+| A9 | **A Great Actor** |  |
+|  | **Side B (First Groove)** |  |
+| B1 | **The Background To History** |  |
+| B2 | **World War Noises In 4** |  |
+| B3 | **The Fight Of The Century** |  |
+|  | **Side B (Second Groove)** |  |
+| B4 | **The Minister For Overseas Development** |  |
+| B5 | **Oscar Wilde And Friends** |  |
+| B6 | **Taking In The Terrier** |  |
+| B7 | **The Phone In** |  |
+
 ## See also
 
 - [Another Monty Python Record](Another_Monty_Python_Record.md)

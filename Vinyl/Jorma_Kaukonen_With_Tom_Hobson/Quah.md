@@ -39,6 +39,22 @@ By Jorma Kaukonen With Tom Hobson
 Number 860 of 2500
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Genesis** | 4:19 |
+| A2 | **I'll Be Alright** | 3:08 |
+| A3 | **Song For The North Star** | 2:52 |
+| A4 | **I'll Let You Know Before I Leave** | 2:17 |
+| A5 | **Flying Clouds** | 4:07 |
+| A6 | **Another Man Done Gone** | 2:54 |
+| B1 | **I Am The Light Of This World** | 3:46 |
+| B2 | **Police Dog Blues** | 3:45 |
+| B3 | **Blue Prelude** | 4:05 |
+| B4 | **Sweet Hawaiian Sunshine** | 2:42 |
+| B5 | **Hamar Promenade** | 4:34 |
+
 ## See also
 
 - [](Jorma_Kaukonen_With_Tom_Hobson.md)

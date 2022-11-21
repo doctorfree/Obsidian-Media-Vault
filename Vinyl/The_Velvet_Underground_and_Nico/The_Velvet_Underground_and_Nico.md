@@ -37,6 +37,22 @@ By The Velvet Underground & Nico
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sunday Morning** | 2:53 |
+| A2 | **I'm Waiting For The Man** | 4:37 |
+| A3 | **Femme Fatale** | 2:35 |
+| A4 | **Venus In Furs** | 5:07 |
+| A5 | **Run, Run, Run** | 4:18 |
+| A6 | **All Tomorrow's Parties** | 5:55 |
+| B1 | **Heroin** | 7:05 |
+| B2 | **There She Goes Again** | 2:30 |
+| B3 | **I'll Be Your Mirror** | 2:01 |
+| B4 | **Black Angel's Death Song** | 3:10 |
+| B5 | **European Son To Delmore Schwartz** | 7:44 |
+
 ## See also
 
 - [](The_Velvet_Underground_and_Nico_index.md)

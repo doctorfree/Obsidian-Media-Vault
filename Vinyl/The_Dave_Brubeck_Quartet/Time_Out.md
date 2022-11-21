@@ -37,6 +37,18 @@ By The Dave Brubeck Quartet
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Blue Rondo À La Turk** |  |
+| A2 | **Strange Meadow Lark** |  |
+| A3 | **Take Five** |  |
+| B1 | **Three To Get Ready** |  |
+| B2 | **Kathy's Waltz** |  |
+| B3 | **Everybody's Jumpin'** |  |
+| B4 | **Pick Up Sticks** |  |
+
 ## See also
 
 - [](The_Dave_Brubeck_Quartet.md)

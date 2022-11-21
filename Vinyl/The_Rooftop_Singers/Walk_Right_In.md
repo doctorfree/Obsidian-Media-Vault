@@ -37,6 +37,13 @@ By The Rooftop Singers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Walk Right In** | 2:32 |
+| B | **Cool Water** | 2:50 |
+
 ## See also
 
 - [Walk Right In!](Walk_Right_In!.md)

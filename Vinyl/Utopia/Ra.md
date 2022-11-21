@@ -37,6 +37,18 @@ By Utopia
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ouverture: Montainpop And Sunrise / Communion With The Sun** | 7:15 |
+| A2 | **Magic Dragon Theatre** | 3:28 |
+| A3 | **Jealousy** | 4:43 |
+| A4 | **Eternal Love** | 4:51 |
+| A5 | **Sunburst Finish** | 7:38 |
+| B1 | **Hiroshima** | 7:16 |
+| B2 | **Singring And The Glass Guitar (An Electrified Fairytale)** | 18:24 |
+
 ## See also
 
 - [Swing To The Right](Swing_To_The_Right.md)

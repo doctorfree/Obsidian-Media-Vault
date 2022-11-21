@@ -37,6 +37,13 @@ By Frank Ifield
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I Remember You** |  |
+| B | **I Listen To My Heart** |  |
+
 ## See also
 
 - [](Frank_Ifield.md)

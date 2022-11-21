@@ -37,6 +37,22 @@ By Spirit
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fresh-Garbage** | 3:10 |
+| A2 | **Uncle Jack** | 2:46 |
+| A3 | **Mechanical World** | 5:15 |
+| A4 | **Taurus** | 2:35 |
+| A5 | **Girl In Your Eye** | 3:15 |
+| A6 | **Straight Arrow** | 2:46 |
+| B1 | **Topanga Windows** | 3:36 |
+| B2 | **Gramophone Man** | 2:46 |
+| B3 | **Water Woman** | 2:05 |
+| B4 | **The Great Canyon Fire In General** | 2:50 |
+| B5 | **Elijah** | 10:45 |
+
 ## See also
 
 - [Clear](Clear.md)

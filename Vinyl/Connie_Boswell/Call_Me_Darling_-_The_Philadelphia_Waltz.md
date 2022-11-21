@@ -37,6 +37,13 @@ By Connie Boswell
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Call Me Darling** | 2:08 |
+| B | **The Philadelphia Waltz** | 2:44 |
+
 ## See also
 
 - [](Connie_Boswell.md)

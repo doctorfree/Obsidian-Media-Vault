@@ -35,6 +35,36 @@ By The London Symphony Orchestra And The English Chamber Choir
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Overture** |  |
+| A2 | **It's A Boy** |  |
+| A3 | **1921** |  |
+| A4 | **Amazing Journey** |  |
+| A5 | **Sparks** |  |
+| A6 | **Eyesight To The Blind** |  |
+| A7 | **Christmas** |  |
+| B1 | **Cousin Kevin** |  |
+| B2 | **The Acid Queen** |  |
+| B3 | **Underture** |  |
+| B4 | **Do You Think It's All Right** |  |
+| B5 | **Fiddle About** |  |
+| B6 | **Pin Ball Wizard** |  |
+| C1 | **There's A Doctor I've Found** |  |
+| C2 | **Go To The Mirror Boy** |  |
+| C3 | **Tommy Can You Hear Me?** |  |
+| C4 | **Smash The Mirror** |  |
+| C5 | **I'm Free** |  |
+| C6 | **Miracle Cure** |  |
+| C7 | **Sensation** |  |
+| D1 | **Sally Simpson** |  |
+| D2 | **Welcome** |  |
+| D3 | **Tommy's Holiday Camp** |  |
+| D4 | **We're Not Gonna Take It** |  |
+| D5 | **See Me, Feel Me** |  |
+
 ## See also
 
 - [](The_London_Symphony_Orchestra_And_The_English_Chamber_Choir.md)

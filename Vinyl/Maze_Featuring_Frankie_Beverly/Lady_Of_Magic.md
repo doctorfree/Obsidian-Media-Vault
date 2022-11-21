@@ -37,6 +37,13 @@ By Maze Featuring Frankie Beverly
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Lady Of Magic** | 3:33 |
+| B | **Time Is On My Side** | 5:19 |
+
 ## See also
 
 - [](Maze_Featuring_Frankie_Beverly.md)

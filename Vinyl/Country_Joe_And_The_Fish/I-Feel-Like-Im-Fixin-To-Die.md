@@ -41,6 +41,21 @@ By Country Joe And The Fish
 MIssing Fish Game poster
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Fish Cheer & I-Feel-Like-I'm-Fixin'-To-Die** | 3:39 |
+| A2 | **Who Am I** | 4:05 |
+| A3 | **Pat's Song** | 5:22 |
+| A4 | **Rock Coast Blues** | 3:42 |
+| A5 | **Magoo** | 4:56 |
+| B1 | **Janis** | 2:34 |
+| B2 | **Thought Dream** | 6:11 |
+| B3 | **Thursday** | 3:45 |
+| B4 | **Eastern Jam** | 4:23 |
+| B5 | **Colors For Susan** | 5:57 |
+
 ## See also
 
 - [](Country_Joe_And_The_Fish.md)

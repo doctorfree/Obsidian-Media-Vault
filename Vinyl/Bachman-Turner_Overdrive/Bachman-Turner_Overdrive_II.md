@@ -37,6 +37,19 @@ By Bachman-Turner Overdrive
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Blown** | 4:17 |
+| A2 | **Welcome Home** | 5:32 |
+| A3 | **Stonegates** | 3:50 |
+| A4 | **Let It Ride** | 4:21 |
+| B1 | **Give It Time** | 5:44 |
+| B2 | **Tramp** | 4:03 |
+| B3 | **I Don't Have To Hide** | 4:24 |
+| B4 | **Takin' Care Of Business** | 4:51 |
+
 ## See also
 
 - [Not Fragile](Not_Fragile.md)

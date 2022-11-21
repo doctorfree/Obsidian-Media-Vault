@@ -37,6 +37,13 @@ By Mahalia Jackson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Silent Night, Holy Night** |  |
+| B | **Mary's Little Boy Chile** |  |
+
 ## See also
 
 - [](Mahalia_Jackson.md)

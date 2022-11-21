@@ -37,6 +37,13 @@ By The Cowsills
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Rain, The Park & Other Things** | 2:57 |
+| B | **We Can Fly** | 2:13 |
+
 ## See also
 
 - [](The_Cowsills.md)

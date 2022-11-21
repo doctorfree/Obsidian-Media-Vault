@@ -37,6 +37,13 @@ By Jethro Tull
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Thick As A Brick** |  |
+| B | **Thick As A Brick** |  |
+
 ## See also
 
 - [Aqualung (The 2011 Steven Wilson Stereo Remix)](Aqualung_The_2011_Steven_Wilson_Stereo_Remix.md)

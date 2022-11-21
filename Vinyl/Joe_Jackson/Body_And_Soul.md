@@ -37,6 +37,20 @@ By Joe Jackson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Verdict** | 5:31 |
+| A2 | **Cha Cha Loco** | 4:47 |
+| A3 | **Not Here, Not Now** | 5:27 |
+| A4 | **You Can't Get What You Want (Till You Know What You Want)** | 4:50 |
+| A5 | **Go For It** | 4:18 |
+| B1 | **Loisaida** | 5:33 |
+| B2 | **Happy Ending** | 3:39 |
+| B3 | **Be My Number Two** | 4:18 |
+| B4 | **Heart Of Ice** | 6:53 |
+
 ## See also
 
 - [](Joe_Jackson.md)

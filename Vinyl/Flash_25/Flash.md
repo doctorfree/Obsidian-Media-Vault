@@ -37,6 +37,16 @@ By Flash (25)
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Small Beginnings** |  |
+| A2 | **Morning Haze** |  |
+| A3 | **Children Of The Universe** |  |
+| B1 | **Dreams Of Heaven** |  |
+| B2 | **The Time It Takes** |  |
+
 ## See also
 
 - [](Flash_25.md)

@@ -41,6 +41,31 @@ By Woody Guthrie & Arlo Guthrie And The Guthrie Family
 cassette
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Wake Up** |  |
+| A2 | **Cleano** |  |
+| A3 | **Mailman** |  |
+| A4 | **Put Your Finger In The Air** |  |
+| A5 | **Dance Around** |  |
+| A6 | **Don't You Push Me Down** |  |
+| A7 | **Merry Go Round** |  |
+| A8 | **Jig Along Home** |  |
+| A9 | **Howdy Doo** |  |
+| A10 | **All Work Together** |  |
+| B1 | **Bling Blang** |  |
+| B2 | **Needle Sing** |  |
+| B3 | **Pick It Up** |  |
+| B4 | **Riding In My Car** |  |
+| B5 | **Race You Down The Mountain** |  |
+| B6 | **My Dolly** |  |
+| B7 | **Little Seed** |  |
+| B8 | **Little Bird** |  |
+| B9 | **Pretty And Shinyo** |  |
+| B10 | **Sleep Eye** |  |
+
 ## See also
 
 - [](Woody_Guthrie_and_Arlo_Guthrie_And_The_Guthrie_Family.md)

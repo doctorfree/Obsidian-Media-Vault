@@ -37,6 +37,13 @@ By Fleetwood Mac
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Don't Stop** | 3:11 |
+| B | **Never Going Back Again** | 2:14 |
+
 ## See also
 
 - [In Concert](In_Concert.md)

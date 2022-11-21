@@ -37,6 +37,13 @@ By Nick Lowe
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Lovers Jamboree** | 3:37 |
+| B | **Lovers Jamboree** | 3:37 |
+
 ## See also
 
 - [Labour Of Lust](Labour_Of_Lust.md)

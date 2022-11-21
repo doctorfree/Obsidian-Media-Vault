@@ -37,6 +37,22 @@ By Go-Go's
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Our Lips Are Sealed** | 2:45 |
+| A2 | **How Much More** | 3:03 |
+| A3 | **Tonite** | 3:33 |
+| A4 | **Lust To Love** | 4:00 |
+| A5 | **This Town** | 3:15 |
+| B1 | **We Got The Beat** | 2:36 |
+| B2 | **Fading Fast** | 3:32 |
+| B3 | **Automatic** | 2:34 |
+| B4 | **You Can't Walk In Your Sleep (If You Can't Sleep)** | 3:00 |
+| B5 | **Skidmarks On My Heart** | 3:13 |
+| B6 | **Can't Stop The World** | 3:22 |
+
 ## See also
 
 - [Get Up And Go](Get_Up_And_Go.md)

@@ -41,6 +41,21 @@ By Johnny Thunders
 Limited edition numbered copy 0753 of 1500
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Pipeline** |  |
+| A2 | **You Can't Put Your Arm Round A Memory** |  |
+| A3 | **Great Big Kiss** |  |
+| A4 | **Ask Me No Questions** |  |
+| A5 | **Leave Me Alone** |  |
+| B1 | **Daddy Rollin' Stone** |  |
+| B2 | **London Boys** |  |
+| B3 | **Untouchable** |  |
+| B4 | **Subway Train** |  |
+| B5 | **Downtown** |  |
+
 ## See also
 
 - [](Johnny_Thunders.md)

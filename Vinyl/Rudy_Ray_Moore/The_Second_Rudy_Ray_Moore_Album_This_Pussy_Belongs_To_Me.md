@@ -37,6 +37,19 @@ By Rudy Ray Moore
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Signifying Monkey** |  |
+| A2 | **40 Pounds Of Chittlings** |  |
+| A3 | **Quart Of Buttermilk** |  |
+| A4 | **Fall Out** |  |
+| A5 | **The Gorillas Are Coming, And Others** |  |
+| B1 | **Hurrican Annie Meets Dolemite** |  |
+| B2 | **California Poetry** |  |
+| B3 | **Mr Big Dick, And Others** |  |
+
 ## See also
 
 - [](Rudy_Ray_Moore.md)

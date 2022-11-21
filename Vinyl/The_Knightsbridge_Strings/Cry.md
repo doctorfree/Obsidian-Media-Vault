@@ -37,6 +37,13 @@ By The Knightsbridge Strings
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Cry** |  |
+| B | **My Prayer** |  |
+
 ## See also
 
 - [](The_Knightsbridge_Strings.md)

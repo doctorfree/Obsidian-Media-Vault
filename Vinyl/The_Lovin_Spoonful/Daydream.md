@@ -41,6 +41,23 @@ By The Lovin' Spoonful
 Mono
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Daydream** | 2:23 |
+| A2 | **There She Is** | 1:55 |
+| A3 | **It's Not Time Now** | 2:45 |
+| A4 | **Warm Baby** | 2:00 |
+| A5 | **Day Blues** | 3:12 |
+| A6 | **Let The Boy Rock And Roll** | 2:32 |
+| B1 | **Jug Band Music** | 2:49 |
+| B2 | **Didn't Want To Have To Do It** | 2:06 |
+| B3 | **You Didn't Have To Be So Nice** | 2:29 |
+| B4 | **Bald Headed Lena** | 2:22 |
+| B5 | **Butchie's Tune** | 2:34 |
+| B6 | **Big Noise From Speonk** | 2:48 |
+
 ## See also
 
 - [Darling Be Home Soon / Darlin' Companion](Darling_Be_Home_Soon_-_Darlin_Companion.md)

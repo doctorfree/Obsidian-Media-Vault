@@ -37,6 +37,20 @@ By Commodores
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Squeeze The Fruit** | 2:58 |
+| A2 | **Funny Feelings** | 4:50 |
+| A3 | **Heaven Knows** | 4:48 |
+| A4 | **Zoom** | 6:43 |
+| B1 | **Won't You Come Dance With Me** | 3:49 |
+| B2 | **Brick House** | 3:28 |
+| B3 | **Funky Situation** | 3:44 |
+| B4 | **Patch It Up** | 3:59 |
+| B5 | **Easy** | 4:14 |
+
 ## See also
 
 - [](Commodores_index.md)

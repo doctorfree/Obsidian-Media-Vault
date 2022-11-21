@@ -37,6 +37,23 @@ By Green Day
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Somewhere Now** | 4:08 |
+| A2 | **Bang Bang** | 3:25 |
+| A3 | **Revolution Radio** | 3:01 |
+| A4 | **Say Goodbye** | 3:39 |
+| A5 | **Outlaws** | 5:03 |
+| A6 | **Bouncing Off The Wall** | 2:40 |
+| B1 | **Still Breathing** | 3:45 |
+| B2 | **Youngblood** | 2:33 |
+| B3 | **Too Dumb To Die** | 3:24 |
+| B4 | **Troubled Times** | 3:05 |
+| B5 | **Forever Now** | 6:52 |
+| B6 | **Ordinary World** | 3:01 |
+
 ## See also
 
 - [American Idiot](American_Idiot.md)

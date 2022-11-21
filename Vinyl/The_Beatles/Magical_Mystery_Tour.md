@@ -37,6 +37,22 @@ By The Beatles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Magical Mystery Tour** | 2:48 |
+| A2 | **The Fool On The Hill** | 3:00 |
+| A3 | **Flying** | 2:16 |
+| A4 | **Blue Jay Way** | 3:50 |
+| A5 | **Your Mother Should Know** | 2:33 |
+| A6 | **I Am The Walrus** | 4:35 |
+| B1 | **Hello Goodbye** | 3:24 |
+| B2 | **Strawberry Fields Forever** | 4:05 |
+| B3 | **Penny Lane** | 2:57 |
+| B4 | **Baby You're A Rich Man** | 3:07 |
+| B5 | **All You Need Is Love** | 3:57 |
+
 ## See also
 
 - [Beatles '65](Beatles_65.md)

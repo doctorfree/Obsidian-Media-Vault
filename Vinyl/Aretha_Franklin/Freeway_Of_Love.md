@@ -37,6 +37,13 @@ By Aretha Franklin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Freeway Of Love** | 4:09 |
+| B | **Until You Say You Love Me** | 4:55 |
+
 ## See also
 
 - [](Aretha_Franklin.md)

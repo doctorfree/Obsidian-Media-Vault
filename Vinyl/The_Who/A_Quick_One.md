@@ -37,6 +37,21 @@ By The Who
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Run Run Run** |  |
+| A2 | **Boris The Spider** |  |
+| A3 | **I Need You** |  |
+| A4 | **Whiskey Man** |  |
+| A5 | **Heatwave** |  |
+| A6 | **Cobwebs And Strange** |  |
+| B1 | **Don't Look Away** |  |
+| B2 | **See My Way** |  |
+| B3 | **So Sad About Us** |  |
+| B4 | **A Quick One, While He's Away** |  |
+
 ## See also
 
 - [My Generation](My_Generation.md)

@@ -37,6 +37,19 @@ By The Jackson 5
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Get It Together** | 2:47 |
+| A2 | **Don't Say Good Bye Again** | 3:34 |
+| A3 | **Reflections** | 3:05 |
+| A4 | **Hum Along And Dance** | 8:14 |
+| B1 | **Mama I Gotta Brand New Thing (Don't Say No)** | 7:14 |
+| B2 | **It's Too Late To Change The Time** | 4:00 |
+| B3 | **You Need Love Like I Do (Don't You?)** | 4:25 |
+| B4 | **Dancing Machine** | 3:12 |
+
 ## See also
 
 - [Greatest Hits](Greatest_Hits.md)

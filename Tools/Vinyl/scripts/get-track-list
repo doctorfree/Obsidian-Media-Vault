@@ -24,14 +24,21 @@ do
                   sed -e 's/^ *//' -e 's/ *$//'`
       [ "${release_id}" ] || continue
       atracks=`echo "${album}" | sed -e "s%\.md%%"`
-      [ -f "${atracks}.txt" ] || {
+      [ -s "${atracks}.txt" ] || {
         curl --stderr /dev/null \
           -A "${AGE}" "${URL}/${release_id}" \
           -H "Authorization: Discogs token=${token}" | \
           jq -r '.tracklist[] | "\(.position)%\(.title)%\(.duration)"' > "${atracks}.txt"
+        sleep 1
+      }
+      [ -s "${atracks}.txt" ] || {
+        echo "Empty tracks file ${atracks}.txt"
+        rm -f "${atracks}.txt"
+        continue
       }
 
       # Insert track list for this album
+      # echo "Inserting track list for ${album}"
       echo "## Album Tracks" > /tmp/__insert__
       echo "" >> /tmp/__insert__
       echo "| **Position** | **Title** | **Duration** |" >> /tmp/__insert__

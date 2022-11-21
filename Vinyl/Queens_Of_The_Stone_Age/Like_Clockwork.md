@@ -37,6 +37,21 @@ By Queens Of The Stone Age
 - Weight: 150 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Keep Your Eyes Peeled** |  |
+| A2 | **I Sat By The Ocean** |  |
+| A3 | **The Vampyre Of Time And Memory** |  |
+| B1 | **If I Had A Tail** |  |
+| B2 | **My God Is The Sun** |  |
+| B3 | **Kalopsia** |  |
+| C1 | **Fairweather Friends** |  |
+| C2 | **Smooth Sailing** |  |
+| D1 | **I Appear Missing** |  |
+| D2 | **...Like Clockwork** |  |
+
 ## See also
 
 - [](Queens_Of_The_Stone_Age.md)

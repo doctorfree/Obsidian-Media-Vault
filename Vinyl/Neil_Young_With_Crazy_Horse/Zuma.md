@@ -35,6 +35,20 @@ By Neil Young With Crazy Horse
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Don't Cry No Tears** | 2:34 |
+| A2 | **Danger Bird** | 6:54 |
+| A3 | **Pardon My Heart** | 3:49 |
+| A4 | **Lookin' For A Love** | 3:17 |
+| A5 | **Barstool Blues** | 3:02 |
+| B1 | **Stupid Girl** | 3:13 |
+| B2 | **Drive Back** | 3:32 |
+| B3 | **Cortez The Killer** | 7:29 |
+| B4 | **Through My Sails** | 2:41 |
+
 ## See also
 
 - [](Neil_Young_With_Crazy_Horse.md)

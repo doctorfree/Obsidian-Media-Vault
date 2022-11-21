@@ -37,6 +37,13 @@ By The Harry Simeone Chorale / The Voices Of The Junior Chorale
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Little Drummer Boy** | 3:03 |
+| B | **Die Lorelei** | 2:15 |
+
 ## See also
 
 - [](The_Harry_Simeone_Chorale_-_The_Voices_Of_The_Junior_Chorale.md)

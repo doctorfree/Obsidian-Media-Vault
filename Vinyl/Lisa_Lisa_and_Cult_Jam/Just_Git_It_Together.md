@@ -37,6 +37,13 @@ By Lisa Lisa & Cult Jam
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Just Git It Together** | 4:21 |
+| B | **Git It! (Beats Injection Mix)** | 3:40 |
+
 ## See also
 
 - [Kiss Your Tears Away](Kiss_Your_Tears_Away.md)

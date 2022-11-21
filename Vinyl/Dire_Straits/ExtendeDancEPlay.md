@@ -37,6 +37,15 @@ By Dire Straits
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Twisting By The Pool** | 3:30 |
+| A2 | **Badges, Posters, Stickers, T-Shirts** | 4:53 |
+| B1 | **Two Young Lovers** | 3:22 |
+| B2 | **If I Had You** | 4:15 |
+
 ## See also
 
 - [Brothers In Arms](Brothers_In_Arms.md)

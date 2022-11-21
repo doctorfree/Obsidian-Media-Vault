@@ -37,6 +37,22 @@ By Muse
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Take A Bow** |  |
+| A2 | **Starlight** |  |
+| A3 | **Supermassive Black Hole** |  |
+| A4 | **Map Of The Problematique** |  |
+| A5 | **Soldier's Poem** |  |
+| A6 | **Invincible** |  |
+| B1 | **Assassin** |  |
+| B2 | **Exo-Politics** |  |
+| B3 | **City Of Delusion** |  |
+| B4 | **Hoodoo** |  |
+| B5 | **Knights Of Cydonia** |  |
+
 ## See also
 
 - [Absolution](Absolution.md)

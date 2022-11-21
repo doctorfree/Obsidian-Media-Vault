@@ -37,6 +37,17 @@ By "Emerson, Lake & Palmer"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **The Barbarian** | 4:28 |
+| A2 | **Take A Pebble** | 12:30 |
+| A3 | **Knife-Edge** | 5:03 |
+|  | **The Three Fates** | 7:45 |
+| B2 | **Tank** | 6:44 |
+| B3 | **Lucky Man** | 4:35 |
+
 ## See also
 
 - [Brain Salad Surgery](Brain_Salad_Surgery.md)

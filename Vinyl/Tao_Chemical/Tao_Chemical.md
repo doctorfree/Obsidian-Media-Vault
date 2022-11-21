@@ -37,6 +37,17 @@ By Tao Chemical
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ain't It Always** |  |
+| A2 | **Too Polite** |  |
+| A3 | **Mom Said** |  |
+| B1 | **Small Town** |  |
+| B2 | **Scare Me** |  |
+| B3 | **Sick Of Food** |  |
+
 ## See also
 
 - [](Tao_Chemical_index.md)

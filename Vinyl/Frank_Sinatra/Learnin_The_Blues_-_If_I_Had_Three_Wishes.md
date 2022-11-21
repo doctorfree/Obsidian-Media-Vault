@@ -37,6 +37,13 @@ By Frank Sinatra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Learnin' The Blues** | 2:59 |
+| B | **If I Had Three Wishes** | 2:54 |
+
 ## See also
 
 - [In The Wee Small Hours](In_The_Wee_Small_Hours.md)

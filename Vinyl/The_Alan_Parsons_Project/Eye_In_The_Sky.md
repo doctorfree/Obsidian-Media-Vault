@@ -37,6 +37,21 @@ By The Alan Parsons Project
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sirius (Instrumental)** | 1:48 |
+| A2 | **Eye In The Sky** | 4:33 |
+| A3 | **Children Of The Moon** | 4:49 |
+| A4 | **Gemini** | 2:09 |
+| A5 | **Silence And I** | 7:17 |
+| B1 | **You're Gonna Get Your Fingers Burned** | 4:19 |
+| B2 | **Psychobabble** | 4:50 |
+| B3 | **Mammagamma (Instrumental)** | 3:34 |
+| B4 | **Step By Step** | 3:52 |
+| B5 | **Old And Wise** | 4:52 |
+
 ## See also
 
 - [The Turn Of A Friendly Card](The_Turn_Of_A_Friendly_Card.md)

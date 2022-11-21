@@ -37,6 +37,19 @@ By Genesis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Dance On A Volcano** | 5:53 |
+| A2 | **Entangled** | 6:26 |
+| A3 | **Squonk** | 6:27 |
+| A4 | **Mad Man Moon** | 7:35 |
+| B1 | **Robbery, Assault & Battery** | 6:15 |
+| B2 | **Ripples** | 8:03 |
+| B3 | **A Trick Of The Tail** | 4:34 |
+| B4 | **Los Endos** | 5:46 |
+
 ## See also
 
 - [Genesis](Genesis.md)

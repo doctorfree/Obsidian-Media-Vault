@@ -37,6 +37,13 @@ By Eddy Raven
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sooner Or Later** | 3:55 |
+| B | **Little Sheba** | 4:38 |
+
 ## See also
 
 - [](Eddy_Raven.md)

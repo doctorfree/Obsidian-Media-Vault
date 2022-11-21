@@ -37,6 +37,23 @@ By The Turtles
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Come Over** | 2:23 |
+| A2 | **House On The Hill** | 2:55 |
+| A3 | **She Always Leaves Me Laughing** | 2:45 |
+| A4 | **How You Love Me** | 2:58 |
+| A5 | **Torn Between Temptations** | 2:45 |
+| A6 | **Love In The City** | 3:31 |
+| B1 | **Bachelor Mother** | 2:38 |
+| B2 | **John & Julie** | 3:07 |
+| B3 | **Hot Little Hands** | 4:10 |
+| B4 | **Somewhere Friday Night** | 3:27 |
+| B5 | **Dance This Dance** | 4:25 |
+| B6 | **You Don't Have To Walk In The Rain** | 2:27 |
+
 ## See also
 
 - [Happy Together](Happy_Together.md)

@@ -37,6 +37,13 @@ By Yazoo
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Nobody's Diary** | 3:58 |
+| B | **State Farm** | 3:34 |
+
 ## See also
 
 - [](Yazoo.md)

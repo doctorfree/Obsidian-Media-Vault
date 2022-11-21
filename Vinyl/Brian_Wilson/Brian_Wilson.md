@@ -37,6 +37,22 @@ By Brian Wilson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Love And Mercy** | 2:52 |
+| A2 | **Walkin' The Line** | 2:37 |
+| A3 | **Melt Away** | 2:58 |
+| A4 | **Baby Let Your Hair Grow Long** | 3:15 |
+| A5 | **Little Children** | 1:48 |
+| A6 | **One For The Boys** | 1:47 |
+| A7 | **There's So Many** | 2:46 |
+| B1 | **Night Time** | 3:34 |
+| B2 | **Let It Shine** | 3:57 |
+| B3 | **Meet Me In My Dreams Tonight** | 3:05 |
+| B4 | **Rio Grande** | 8:12 |
+
 ## See also
 
 - [](Brian_Wilson_index.md)

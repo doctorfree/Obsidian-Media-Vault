@@ -37,6 +37,30 @@ By Todd Rundgren
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **International Feel** | 2:50 |
+| A2 | **Never Never Land** | 1:34 |
+| A3 | **Tic Tic Tic It Wears Off** | 1:14 |
+| A4 | **You Need Your Head** | 1:02 |
+| A5 | **Rock And Roll Pussy** | 1:08 |
+| A6 | **Dogfight Giggle** | 1:05 |
+| A7 | **You Don't Have To Camp Around** | 1:03 |
+| A8 | **Flamingo** | 2:34 |
+| B1 | **Zen Archer** | 5:35 |
+| B2 | **Just Another Onion Head; Da Da Dali** | 2:23 |
+| B3 | **When The Shit Hits The Fan; Sunset Blvd.** | 4:02 |
+| B4 | **Le Feel Internacionale** | 1:51 |
+| C1 | **Sometimes I Don't Know What To Feel** | 4:16 |
+| C2 | **Does Anybody Love You** | 1:31 |
+|  | **Medley** | 10:34 |
+| D1 | **Hungry For Love** | 2:18 |
+| D2 | **I Don't Want To Tie You Down** | 1:56 |
+| D3 | **Is It My Name?** | 4:01 |
+| D4 | **Just One Victory** | 4:59 |
+
 ## See also
 
 - [Time Heals](Time_Heals.md)

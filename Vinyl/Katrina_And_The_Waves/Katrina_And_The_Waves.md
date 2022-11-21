@@ -37,6 +37,21 @@ By Katrina And The Waves
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Red Wine And Whisky** | 3:41 |
+| A2 | **Do You Want Crying** | 3:33 |
+| A3 | **Que Te Quiero** | 3:20 |
+| A4 | **Machine Gun Smith** | 3:03 |
+| A5 | **Cry For Me** | 4:57 |
+| B1 | **Walking On Sunshine** | 3:56 |
+| B2 | **Going Down To Liverpool** | 4:28 |
+| B3 | **Mexico** | 3:17 |
+| B4 | **The Sun Won't Shine** | 3:33 |
+| B5 | **Game Of Love** | 3:17 |
+
 ## See also
 
 - [](Katrina_And_The_Waves_index.md)

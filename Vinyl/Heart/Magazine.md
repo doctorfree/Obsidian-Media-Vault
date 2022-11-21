@@ -37,6 +37,19 @@ By Heart
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Heartless** | 4:59 |
+| A2 | **Devil Delight** | 4:58 |
+| A3 | **Just The Wine** | 4:15 |
+| A4 | **Without You** | 4:43 |
+| B1 | **Magazine** | 6:19 |
+| B2 | **Here Song** | 1:34 |
+| B3 | **Mother Earth Blues** | 5:42 |
+| B4 | **I've Got The Music In Me** | 6:01 |
+
 ## See also
 
 - [Dog & Butterfly](Dog_and_Butterfly.md)

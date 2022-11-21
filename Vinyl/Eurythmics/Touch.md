@@ -37,6 +37,20 @@ By Eurythmics
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Here Comes The Rain Again** | 4:54 |
+| A2 | **Regrets** | 4:43 |
+| A3 | **Right By Your Side** | 4:05 |
+| A4 | **Cool Blue** | 4:48 |
+| A5 | **Who's That Girl?** | 4:46 |
+| B1 | **The First Cut** | 4:44 |
+| B2 | **Aqua** | 4:36 |
+| B3 | **No Fear, No Hate, No Pain (No Broken Hearts)** | 5:24 |
+| B4 | **Paint A Rumour** | 7:30 |
+
 ## See also
 
 - [](Eurythmics.md)

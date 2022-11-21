@@ -37,6 +37,29 @@ By The Firesign Theatre
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Station Break** | 2:13 |
+| A2 | **Happy Hour News** | 4:23 |
+| A3 | **Ralph Spoilsport Motors** | 4:22 |
+| A4 | **Beat The Reaper** | 2:52 |
+| A5 | **Let's Eat** | 5:25 |
+| A6 | **High School Madness** | 6:43 |
+| B1 | **Toad Away** | 3:19 |
+| B2 | **Not Quite The Solution He Expected** | 8:35 |
+| B3 | **Joe Beets Meets Hemlock Stones** | 2:13 |
+| B4 | **W. C. Fields Forever** | 7:40 |
+| B5 | **Dr. Whiplash** | 3:26 |
+| C1 | **The Further Adventures Of Nick Danger** | 28:02 |
+| D1 | **Back From The Shadows** | 5:56 |
+| D2 | **Mr. President** | 2:46 |
+| D3 | **Papoon For President** | 4:50 |
+| D4 | **Government Training Film** | 3:20 |
+| D5 | **Mark Time!** | 3:52 |
+| D6 | **Forward,  Into The Past** | 6:00 |
+
 ## See also
 
 - ["Don't Crush That Dwarf, Hand Me The Pliers"](Dont_Crush_That_Dwarf__Hand_Me_The_Pliers.md)

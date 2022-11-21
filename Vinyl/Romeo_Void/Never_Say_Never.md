@@ -37,6 +37,15 @@ By Romeo Void
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Never Say Never** | 6:05 |
+| A2 | **In The Dark** | 4:24 |
+| B1 | **Present Tense** | 5:47 |
+| B2 | **Not Safe** | 3:52 |
+
 ## See also
 
 - [](Romeo_Void.md)

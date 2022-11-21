@@ -37,6 +37,13 @@ By John Cougar Mellencamp
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Small Town** | 3:42 |
+| B | **Small Town (Acoustic Version)** | 4:09 |
+
 ## See also
 
 - [](John_Cougar_Mellencamp.md)

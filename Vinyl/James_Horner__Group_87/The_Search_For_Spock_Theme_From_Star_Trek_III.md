@@ -37,6 +37,13 @@ By "James Horner, Group 87"
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Search For Spock (Theme From "Star Trek III")** | 3:40 |
+| B | **Returning To Vulcan** | 4:49 |
+
 ## See also
 
 - [](James_Horner__Group_87.md)

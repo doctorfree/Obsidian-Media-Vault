@@ -37,6 +37,20 @@ By Eagles
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Hotel California** | 6:30 |
+| A2 | **New Kid In Town** | 5:04 |
+| A3 | **Life In The Fast Lane** | 4:46 |
+| A4 | **Wasted Time** | 4:55 |
+| B1 | **Wasted Time (Reprise)** | 1:22 |
+| B2 | **Victim Of Love** | 4:11 |
+| B3 | **Pretty Maids All In A Row** | 4:05 |
+| B4 | **Try And Love Again** | 5:10 |
+| B5 | **The Last Resort** | 7:25 |
+
 ## See also
 
 - [Desperado](Desperado.md)

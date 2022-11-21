@@ -37,6 +37,23 @@ By Leon Russell
 - Weight: 200 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Tight Rope** | 2:59 |
+| A2 | **Out In The Woods** | 3:35 |
+| A3 | **Me And Baby Jane** | 3:53 |
+| A4 | **Manhattan Island Serenade** | 3:26 |
+| A5 | **Cajun Love Song** | 3:08 |
+| A6 | **Roller Derby** | 2:22 |
+| B1 | **Carney** | 0:45 |
+| B2 | **Acid Annapolis** | 2:51 |
+| B3 | **If The Shoe Fits** | 2:23 |
+| B4 | **My Cricket** | 2:56 |
+| B5 | **This Masquerade** | 4:22 |
+| B6 | **Magic Mirror** | 4:54 |
+
 ## See also
 
 - [Hank Wilson's Back Vol. I](Hank_Wilsons_Back_Vol_I.md)

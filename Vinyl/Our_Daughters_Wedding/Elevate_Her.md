@@ -37,6 +37,13 @@ By Our Daughter's Wedding
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Elevate Her ** | 3:29 |
+| B | **Elevate Her** | 3:29 |
+
 ## See also
 
 - [Nightlife / Raincoats & Silverware](Nightlife_-_Raincoats_and_Silverware.md)

@@ -37,6 +37,13 @@ By Lisa Lisa & Cult Jam
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Kiss Your Tears Away** | 4:41 |
+| B | **Dance Forever** | 4:27 |
+
 ## See also
 
 - [Just Git It Together](Just_Git_It_Together.md)

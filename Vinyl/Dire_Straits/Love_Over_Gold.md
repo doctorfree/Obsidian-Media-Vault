@@ -37,6 +37,16 @@ By Dire Straits
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Telegraph Road** | 14:20 |
+| A2 | **Private Investigations** | 7:00 |
+| B1 | **Industrial Disease** | 5:50 |
+| B2 | **Love Over Gold** | 6:15 |
+| B3 | **It Never Rains** | 7:55 |
+
 ## See also
 
 - [Brothers In Arms](Brothers_In_Arms.md)

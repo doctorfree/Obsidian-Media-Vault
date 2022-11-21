@@ -37,6 +37,18 @@ By Deep Purple
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fireball** |  |
+| A2 | **No No No** |  |
+| A3 | **Demon's Eye** |  |
+| A4 | **Anyone's Daughter** |  |
+| B1 | **The Mule** |  |
+| B2 | **Fools** |  |
+| B3 | **No One Came** |  |
+
 ## See also
 
 - [Burn](Burn.md)

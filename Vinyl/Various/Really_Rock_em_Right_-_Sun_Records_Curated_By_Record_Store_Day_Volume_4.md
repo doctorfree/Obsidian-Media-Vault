@@ -37,6 +37,23 @@ By Various
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **How Many More Years** |  |
+| A2 | **Baby No No** |  |
+| A3 | **A Cat Called Domino** |  |
+| A4 | **Milkshake Mademoiselle** |  |
+| A5 | **Matchbox** |  |
+| A6 | **Ridin' The Boogie** |  |
+| B1 | **Get Rhythm** |  |
+| B2 | **Ubangi Stomp** |  |
+| B3 | **Put Your Cat Clothes On** |  |
+| B4 | **Juiced** |  |
+| B5 | **My Baby** |  |
+| B6 | **Jelly Roll King** |  |
+
 ## See also
 
 - [Come To The Sunshine](Come_To_The_Sunshine-_Soft_Pop_Nuggets_From_The_WEA_Vaults.md)

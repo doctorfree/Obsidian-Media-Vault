@@ -37,6 +37,13 @@ By Blondie
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Rapture** | 6:33 |
+| B | **Walk Like Me** | 3:46 |
+
 ## See also
 
 - [](Blondie.md)

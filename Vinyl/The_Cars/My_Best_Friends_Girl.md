@@ -37,6 +37,13 @@ By The Cars
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **My Best Friend's Girl** | 3:40 |
+| B | **Don't Cha Stop** | 3:01 |
+
 ## See also
 
 - [Just What I Needed](Just_What_I_Needed.md)

@@ -37,6 +37,13 @@ By Ohio Express
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Yummy Yummy Yummy** | 2:18 |
+| B | **Zig Zag** | 2:05 |
+
 ## See also
 
 - [](Ohio_Express.md)

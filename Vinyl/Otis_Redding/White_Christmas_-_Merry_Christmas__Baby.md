@@ -37,6 +37,13 @@ By Otis Redding
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **White Christmas** | 3:06 |
+| B | **Merry Christmas, Baby** | 2:29 |
+
 ## See also
 
 - [](Otis_Redding.md)

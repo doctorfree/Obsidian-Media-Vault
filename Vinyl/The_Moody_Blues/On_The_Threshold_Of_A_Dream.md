@@ -37,6 +37,24 @@ By The Moody Blues
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **In The Beginning** | 2:08 |
+| A2 | **Lovely To See You** | 2:35 |
+| A3 | **Dear Diary** | 3:56 |
+| A4 | **Send Me No Wine** | 2:20 |
+| A5 | **To Share Our Love** | 2:54 |
+| A6 | **So Deep Within You** | 3:07 |
+| B1 | **Never Comes The Day** | 4:43 |
+| B2 | **Lazy Day** | 2:43 |
+| B3 | **Are You Sitting Comfortably** | 3:31 |
+| B4 | **The Dream** | 0:55 |
+| B5 | **Have You Heard - Part I** | 1:23 |
+| B6 | **The Voyage** | 4:07 |
+| B7 | **Have You Heard - Part II** | 2:38 |
+
 ## See also
 
 - [A Question Of Balance](A_Question_Of_Balance.md)

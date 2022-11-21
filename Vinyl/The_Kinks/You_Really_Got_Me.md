@@ -37,6 +37,13 @@ By The Kinks
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **You Really Got Me** | 2:20 |
+| B | **It's All Right** | 2:35 |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

@@ -37,6 +37,13 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Paint It, Black** | 3:19 |
+| B | **Stupid Girl** | 2:55 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

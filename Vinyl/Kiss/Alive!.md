@@ -37,6 +37,27 @@ By Kiss
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Deuce** | 3:32 |
+| A2 | **Strutter** | 3:12 |
+| A3 | **Got To Choose** | 3:35 |
+| A4 | **Hotter Than Hell** | 3:11 |
+| A5 | **Firehouse** | 3:42 |
+| B1 | **Nothin' To Lose** | 3:23 |
+| B2 | **C'mon And Love Me** | 2:52 |
+| B3 | **Parasite** | 3:21 |
+| B4 | **She** | 6:42 |
+| C1 | **Watchin' You** | 3:37 |
+| C2 | **100,000 Years** | 11:52 |
+| C3 | **Black Diamond** | 5:21 |
+| D1 | **Rock Bottom** | 3:08 |
+| D2 | **Cold Gin** | 5:21 |
+| D3 | **Rock And Roll All Nite** | 3:37 |
+| D4 | **Let Me Go, Rock 'N Roll** | 5:09 |
+
 ## See also
 
 - [](Kiss.md)

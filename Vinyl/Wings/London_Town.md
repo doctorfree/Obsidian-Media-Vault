@@ -37,6 +37,25 @@ By Wings
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **London Town** | 4:10 |
+| A2 | **Cafe On The Left Bank** | 3:25 |
+| A3 | **I'm Carrying** | 2:44 |
+| A4 | **Backwards Traveller** | 1:07 |
+| A5 | **Cuff Link** | 2:03 |
+| A6 | **Children Children** | 2:20 |
+| A7 | **Girlfriend** | 4:31 |
+| A8 | **I've Had Enough** | 3:02 |
+| B1 | **With A Little Luck** | 5:45 |
+| B2 | **Famous Groupies** | 3:34 |
+| B3 | **Deliver Your Children** | 4:17 |
+| B4 | **Name And Address** | 3:07 |
+| B5 | **Don't Let It Bring You Down** | 4:34 |
+| B6 | **Morse Moose And The Grey Goose** | 6:27 |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

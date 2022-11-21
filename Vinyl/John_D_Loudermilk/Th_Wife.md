@@ -37,6 +37,13 @@ By John D. Loudermilk
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Th' Wife** | 2:40 |
+| B | **Nothing To Gain** | 2:28 |
+
 ## See also
 
 - [](John_D_Loudermilk.md)

@@ -37,6 +37,15 @@ By Porcupine Tree
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Nil Recurring** | 6:15 |
+| A2 | **Normal** | 7:08 |
+| B1 | **Cheating the Polygraph** | 7:10 |
+| B2 | **What Happens Now?** | 8:24 |
+
 ## See also
 
 - [Recordings](Recordings.md)

@@ -37,6 +37,17 @@ By Bob James
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Valley Of The Shadows** | 9:42 |
+| A2 | **In The Garden** | 3:06 |
+| A3 | **Soulero** | 3:22 |
+| B1 | **Night On Bald Mountain** | 5:51 |
+| B2 | **Feel Like Making Love** | 6:40 |
+| B3 | **Nautilus** | 5:08 |
+
 ## See also
 
 - [Three](Three.md)

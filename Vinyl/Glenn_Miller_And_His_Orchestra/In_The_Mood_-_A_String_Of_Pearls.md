@@ -37,6 +37,13 @@ By Glenn Miller And His Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **In The Mood** |  |
+| AA | **A String Of Pearls** |  |
+
 ## See also
 
 - [](Glenn_Miller_And_His_Orchestra.md)

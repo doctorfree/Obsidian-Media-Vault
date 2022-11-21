@@ -37,6 +37,28 @@ By Todd Rundgren
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **How About A Little Fanfare** | 0:57 |
+| A2 | **I Think You Know** | 3:48 |
+| A3 | **The Spark Of Life** | 6:43 |
+| A4 | **An Elpee's Worth Of Toons** | 2:08 |
+| A5 | **A Dream Goes On Forever** | 2:21 |
+| A6 | **Lord Chancellor's Nightmare Song** | 3:30 |
+| B1 | **Drunken Blue Rooster** | 3:00 |
+| B2 | **The Last Ride** | 4:46 |
+| B3 | **Everybody's Going To Heaven / King Kong Reggae** | 6:35 |
+| C1 | **Number 1 Lowest Common Denominator** | 5:10 |
+| C2 | **Useless Begging** | 3:27 |
+| C3 | **Sidewalk Cafe** | 2:25 |
+| C4 | **Izzat Love ?** | 1:56 |
+| C5 | **Heavy Metal Kids** | 4:13 |
+| D1 | **In And Out The Chakras We Go (Formerly:  Shaft Goes To Outer Space)** | 5:48 |
+| D2 | **Don't You Ever Learn** | 6:01 |
+| D3 | **Sons Of 1984** | 4:37 |
+
 ## See also
 
 - ["A Wizard, A True Star"](A_Wizard__A_True_Star.md)

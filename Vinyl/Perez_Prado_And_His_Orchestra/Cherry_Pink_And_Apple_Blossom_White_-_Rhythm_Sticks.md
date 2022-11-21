@@ -37,6 +37,13 @@ By Perez Prado And His Orchestra
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Cherry Pink And Apple Blossom White** |  |
+| B | **Rhythm Sticks** |  |
+
 ## See also
 
 - [](Perez_Prado_And_His_Orchestra.md)

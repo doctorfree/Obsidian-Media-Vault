@@ -37,6 +37,19 @@ By The Firesign Theatre
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Part One - London** |  |
+| A1 | **Chapter 1 - Not Quite The Solution He Expected** | 8:39 |
+| A2 | **Chapter 2 - An Outrageously Disgusting Disguise** | 5:09 |
+| A3 | **Chapter 3 - Where There's Smoke, There's Work** | 5:40 |
+|  | **Part Two - Chicago** |  |
+| B1 | **Chapter 4 - Where Did Jonas Go When The Lights Went Out?** | 7:07 |
+| B2 | **Chapter 5 - Pickles Down The Rat Hole!** | 6:13 |
+| B3 | **Chapter 6 - The Electrician Exposes Himself!** | 9:06 |
+
 ## See also
 
 - ["Don't Crush That Dwarf, Hand Me The Pliers"](Dont_Crush_That_Dwarf__Hand_Me_The_Pliers.md)

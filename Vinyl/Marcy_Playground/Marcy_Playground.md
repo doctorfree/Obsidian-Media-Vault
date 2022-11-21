@@ -37,6 +37,25 @@ By Marcy Playground
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Poppies** | 2:50 |
+| A2 | **Sex And Candy** | 2:53 |
+| A3 | **Ancient Walls Of Flowers** | 3:17 |
+| A4 | **Saint Joe On The School Bus** | 3:20 |
+| A5 | **A Cloak Of Elvenkind** | 3:00 |
+| A6 | **Sherry Fraser** | 2:51 |
+| B1 | **Gone Crazy** | 2:45 |
+| B2 | **Opium** | 3:07 |
+| B3 | **One More Suicide** | 2:40 |
+| B4 | **Dog And His Master** | 2:12 |
+| B5 | **The Shadow Of Seattle** | 2:44 |
+| B6 | **The Vampires Of New York** | 2:56 |
+| C | **Hallelujah** | 3:48 |
+| D | **The Needle And The Damage Done** | 3:48 |
+
 ## See also
 
 - [](Marcy_Playground_index.md)

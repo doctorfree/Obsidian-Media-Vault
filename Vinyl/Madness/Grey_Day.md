@@ -37,6 +37,13 @@ By Madness
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Grey Day** | 3:40 |
+| B | **Memories** | 2:25 |
+
 ## See also
 
 - [](Madness.md)

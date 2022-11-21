@@ -35,6 +35,13 @@ By Little Eva
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Loco-Motion** | 2:12 |
+| B | **Keep Your Hands Off My Baby** | 2:29 |
+
 ## See also
 
 - [](Little_Eva.md)

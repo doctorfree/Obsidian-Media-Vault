@@ -37,6 +37,13 @@ By Merle Haggard
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Back To The Barrooms Again** | 2:33 |
+| B | **I Think I'll Just Stay Here And Drink** | 4:30 |
+
 ## See also
 
 - [](Merle_Haggard.md)

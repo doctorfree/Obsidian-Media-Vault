@@ -37,6 +37,13 @@ By Ricky Nelson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Lonesome Town** | 2:17 |
+| B | **I Got A Feeling** | 2:03 |
+
 ## See also
 
 - [](Ricky_Nelson.md)

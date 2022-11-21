@@ -37,6 +37,21 @@ By Waylon Jennings
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Are You Ready For The Country** | 3:09 |
+| A2 | **Them Old Love Songs** | 3:09 |
+| A3 | **So Good Woman** | 2:01 |
+| A4 | **Jack A Diamonds** | 3:23 |
+| A5 | **Can't You See** | 3:43 |
+| B1 | **MacArthur Park (Revisited)** | 6:32 |
+| B2 | **I'll Go Back To Her** | 3:06 |
+| B3 | **A Couple More Years** | 4:07 |
+| B4 | **Old Friend** | 3:16 |
+| B5 | **Precious Memories** | 3:38 |
+
 ## See also
 
 - [](Waylon_Jennings.md)

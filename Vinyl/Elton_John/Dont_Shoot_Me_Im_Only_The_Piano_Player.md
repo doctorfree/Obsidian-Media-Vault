@@ -37,6 +37,21 @@ By Elton John
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Daniel** | 3:52 |
+| A2 | **Teacher I Need You** | 4:08 |
+| A3 | **Elderberry Wine** | 3:34 |
+| A4 | **Blues For Baby And Me** | 5:38 |
+| A5 | **Midnight Creeper** | 3:53 |
+| B1 | **Have Mercy On The Criminal** | 5:55 |
+| B2 | **I'm Going To Be A Teenage Idol** | 3:55 |
+| B3 | **Texan Love Song** | 3:33 |
+| B4 | **Crocodile Rock** | 3:56 |
+| B5 | **High Flying Bird** | 4:10 |
+
 ## See also
 
 - [Captain Fantastic And The Brown Dirt Cowboy](Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)

@@ -37,6 +37,13 @@ By The Sequins
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Hideaway** | 2:35 |
+| B | **I Ain't Gonna Cry (No More)** | 2:12 |
+
 ## See also
 
 - [](The_Sequins.md)

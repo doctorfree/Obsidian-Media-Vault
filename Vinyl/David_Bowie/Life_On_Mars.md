@@ -37,6 +37,13 @@ By David Bowie
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Life On Mars? (2003 Ken Scott Mix)** | 3:50 |
+| AA | **Life On Mars? (Live)** | 3:29 |
+
 ## See also
 
 - [Aladdin Sane](Aladdin_Sane.md)

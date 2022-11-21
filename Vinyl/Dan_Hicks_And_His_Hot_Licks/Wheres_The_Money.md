@@ -37,6 +37,23 @@ By Dan Hicks And His Hot Licks
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Feel Like Singing** | 2:38 |
+| A2 | **Coast To Coast** | 2:50 |
+| A3 | **News From Up The Street** | 4:00 |
+| A4 | **Where's The Money?** | 2:42 |
+| A5 | **Caught In The Rain** | 3:00 |
+| A6 | **Shorty Falls In Love** | 2:18 |
+| B1 | **By Hook Or By Crook** | 3:02 |
+| B2 | **Reelin' Down** | 3:07 |
+| B3 | **The Buzzard Was Their Friend** | 2:36 |
+| B4 | **Traffic Jam** | 3:12 |
+| B5 | **Is This My Happy Home?** | 3:02 |
+| B6 | **Dig A Little Deeper** | 2:43 |
+
 ## See also
 
 - [Original Recordings](Original_Recordings.md)

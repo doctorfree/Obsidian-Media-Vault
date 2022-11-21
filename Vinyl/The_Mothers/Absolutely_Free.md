@@ -37,6 +37,26 @@ By The Mothers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Absolutely Free** | 19:34 |
+| A1 | **Plastic People** | 3:40 |
+| A2a | **The Duke Of Prunes** | 2:12 |
+| A2b | **Amnesia Vivace** | 1:01 |
+| A2c | **The Duke Regains His Chops** | 1:45 |
+| A3a | **Call Any Vegetable** | 2:19 |
+| A3b | **Invocation & Ritual Dance Of The Young Pumpkin** | 6:57 |
+| A3c | **Soft-Sell Conclusion & Ending Of Side #1** | 1:40 |
+|  | **The M.O.I. American Pageant** | 18:35 |
+| B1 | **America Drinks** | 1:52 |
+| B2 | **Status Back Baby** | 2:52 |
+| B3 | **Uncle Bernie's Farm** | 2:09 |
+| B4 | **Son Of Suzy Creamcheese** | 1:33 |
+| B5 | **Brown Shoes Don't Make It** | 7:26 |
+| B6 | **America Drinks & Goes Home** | 2:43 |
+
 ## See also
 
 - [](The_Mothers.md)

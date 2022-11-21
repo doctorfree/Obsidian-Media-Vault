@@ -37,6 +37,25 @@ By Norah Jones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Don't Know Why** | 3:05 |
+| A2 | **Seven Years** | 2:24 |
+| A3 | **Cold Cold Heart** | 3:38 |
+| A4 | **Feelin' The Same Way** | 2:55 |
+| A5 | **Come Away With Me** | 3:18 |
+| A6 | **Shoot The Moon** | 3:57 |
+| A7 | **Turn Me On** | 2:33 |
+| B1 | **Lonestar** | 3:05 |
+| B2 | **I've Got To See You Again** | 4:13 |
+| B3 | **Painter Song** | 2:41 |
+| B4 | **One Flight Down** | 3:03 |
+| B5 | **Nightingale** | 4:11 |
+| B6 | **The Long Day Is Over** | 2:44 |
+| B7 | **The Nearness Of You** | 3:09 |
+
 ## See also
 
 - [Not Too Late](Not_Too_Late.md)

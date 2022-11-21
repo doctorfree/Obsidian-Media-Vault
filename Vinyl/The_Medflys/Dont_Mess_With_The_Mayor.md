@@ -41,6 +41,13 @@ By The Medflys
 Autographed by Carl Christ with inscription "Ron, You made my day"
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Don't Mess With The Mayor** | 3:20 |
+| B | **State Of Mine** | 4:25 |
+
 ## See also
 
 - [](The_Medflys.md)

@@ -41,6 +41,15 @@ By Brenda Lee
 4 track extended play 45
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fool #1** |  |
+| A2 | **Anybody But Me** |  |
+| B1 | **You Can Depend On Me** |  |
+| B2 | **It's Never Too Late** |  |
+
 ## See also
 
 - [I'm Sorry](Im_Sorry.md)

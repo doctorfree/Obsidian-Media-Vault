@@ -37,6 +37,18 @@ By Dire Straits
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Tunnel Of Love** | 8:09 |
+| A2 | **Romeo And Juliet** | 5:57 |
+| A3 | **Skateaway** | 6:38 |
+| B1 | **Expresso Love** | 5:11 |
+| B2 | **Hand In Hand** | 4:48 |
+| B3 | **Solid Rock** | 3:25 |
+| B4 | **Les Boys** | 4:07 |
+
 ## See also
 
 - [Brothers In Arms](Brothers_In_Arms.md)

@@ -37,6 +37,20 @@ By The Who
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| a1 | **New Song** |  |
+| a2 | **Had Enough** |  |
+| a3 | **905** |  |
+| a4 | **Sister Disco** |  |
+| a5 | **Music Must Change** |  |
+| b1 | **Trick of the Light** |  |
+| b2 | **Guitar And Pen** |  |
+| b3 | **Love Is Coming Down** |  |
+| b4 | **Who Are You** |  |
+
 ## See also
 
 - [A Quick One](A_Quick_One.md)

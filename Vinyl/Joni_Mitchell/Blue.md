@@ -37,6 +37,21 @@ By Joni Mitchell
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **All I Want** | 3:32 |
+| A2 | **My Old Man** | 3:33 |
+| A3 | **Little Green** | 3:25 |
+| A4 | **Carey** | 3:00 |
+| A5 | **Blue** | 3:00 |
+| B1 | **California** | 3:48 |
+| B2 | **This Flight Tonight** | 2:50 |
+| B3 | **River** | 4:00 |
+| B4 | **A Case Of You** | 4:20 |
+| B5 | **The Last Time I Saw Richard** | 4:13 |
+
 ## See also
 
 - [Court And Spark](Court_And_Spark.md)

@@ -37,6 +37,13 @@ By Gene Chandler
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Get Down** | 3:35 |
+| B | **I'm The Traveling Kind** | 4:06 |
+
 ## See also
 
 - [](Gene_Chandler.md)

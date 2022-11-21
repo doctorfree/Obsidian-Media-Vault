@@ -37,6 +37,13 @@ By Aerosmith
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Draw The Line (Intro. :17)** | 3:17 |
+| B | **Bright, Light, Fright (Intro. :20)** | 2:17 |
+
 ## See also
 
 - [The Other Side](The_Other_Side.md)

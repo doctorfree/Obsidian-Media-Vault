@@ -37,6 +37,21 @@ By Pete Townshend
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Rough Boys** | 3:59 |
+| A2 | **I Am An Animal** | 3:46 |
+| A3 | **And I Moved** | 3:22 |
+| A4 | **Let My Love Open The Door** | 2:42 |
+| A5 | **Jools And Jim** | 2:35 |
+| B1 | **Keep On Working** | 3:22 |
+| B2 | **Cat's In The Cupboard** | 3:32 |
+| B3 | **A Little Is Enough** | 3:32 |
+| B4 | **Empty Glass** | 5:20 |
+| B5 | **Gonna Get Ya** | 6:22 |
+
 ## See also
 
 - [](Pete_Townshend.md)

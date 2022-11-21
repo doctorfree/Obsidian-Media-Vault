@@ -37,6 +37,21 @@ By Pink Floyd
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Speak To Me** |  |
+| A2 | **Breathe** |  |
+| A3 | **On The Run** |  |
+| A4 | **Time** |  |
+| A5 | **The Great Gig In The Sky** |  |
+| B1 | **Money** |  |
+| B2 | **Us And Them** |  |
+| B3 | **Any Colour You Like** |  |
+| B4 | **Brain Damage** |  |
+| B5 | **Eclipse** |  |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

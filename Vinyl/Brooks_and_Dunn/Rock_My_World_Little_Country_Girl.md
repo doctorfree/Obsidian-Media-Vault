@@ -37,6 +37,13 @@ By Brooks & Dunn
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Rock My World (Little Country Girl)** | 3:42 |
+| B | **Our Time Is Coming** | 4:37 |
+
 ## See also
 
 - [](Brooks_and_Dunn.md)

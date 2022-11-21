@@ -37,6 +37,21 @@ By Smith
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Let's Get Together** | 3:32 |
+| A2 | **I Don't Believe** | 3:40 |
+| A3 | **Tell Him No** | 3:25 |
+| A4 | **Who Do You Love?** | 2:55 |
+| A5 | **Baby It's You** | 3:25 |
+| B1 | **Last Time** | 4:44 |
+| B2 | **I Just Wanna Make Love To You** | 2:39 |
+| B3 | **Mojaleskey Ridge** | 2:31 |
+| B4 | **Let's Spend The Night Together** | 2:55 |
+| B5 | **I'll Hold Out My Hand** | 3:06 |
+
 ## See also
 
 - [Take A Look Around](Take_A_Look_Around.md)

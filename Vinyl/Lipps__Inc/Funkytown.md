@@ -37,6 +37,13 @@ By "Lipps, Inc."
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Funkytown** | 3:57 |
+| B | **All Night Dancing** | 3:09 |
+
 ## See also
 
 - [](Lipps__Inc.md)

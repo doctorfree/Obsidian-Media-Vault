@@ -35,6 +35,13 @@ By Max Strom
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **American Girl ** |  |
+| B | **Vicious Circle** |  |
+
 ## See also
 
 - [](Max_Strom.md)

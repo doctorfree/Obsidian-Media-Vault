@@ -37,6 +37,13 @@ By U2
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Desire** | 2:59 |
+| B | **Hallelujah Here She Comes** | 4:12 |
+
 ## See also
 
 - [Angel Of Harlem](Angel_Of_Harlem.md)

@@ -37,6 +37,17 @@ By Rare Earth
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Magic Key** | 3:50 |
+| A2 | **Tobacco Road** | 7:10 |
+| A3 | **Feeling Alright** | 5:00 |
+| A4 | **In Bed** | 3:00 |
+| A5 | **Train To Nowhere** | 3:20 |
+| B | **Get Ready** | 21:30 |
+
 ## See also
 
 - [](Rare_Earth.md)

@@ -37,6 +37,21 @@ By Hargus Robbins
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Alley Cat** | 2:23 |
+| A2 | **Canadian Sunset** | 2:41 |
+| A3 | **It Was Almost Like A Song** | 3:08 |
+| A4 | **Roamin' 'Round** | 3:05 |
+| A5 | **Don't It Make My Brown Eyes Blue** | 2:16 |
+| B1 | **Little Bitty Pretty One** | 2:50 |
+| B2 | **A Swingin' Safari** | 3:04 |
+| B3 | **Forever** | 2:45 |
+| B4 | **White Silver Sands** | 2:39 |
+| B5 | **Blue Bayou** | 3:42 |
+
 ## See also
 
 - [](Hargus_Robbins.md)

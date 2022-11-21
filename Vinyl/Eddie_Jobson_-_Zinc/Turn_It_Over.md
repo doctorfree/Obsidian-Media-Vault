@@ -37,6 +37,13 @@ By Eddie Jobson / Zinc
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Turn It Over (Residential Mix)** | 5:08 |
+| B | **Turn It Over** | 3:59 |
+
 ## See also
 
 - [](Eddie_Jobson_-_Zinc.md)

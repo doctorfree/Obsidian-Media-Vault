@@ -37,6 +37,16 @@ By "Emerson, Lake & Palmer"
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Jerusalem** | 2:41 |
+| A2 | **Toccata (An Adaptation Of Ginastera's 1st Piano Concerto, 4th Movement)** | 7:16 |
+| A3 | **Still...You Turn Me On** | 2:50 |
+| A4 | **Benny The Bouncer** | 2:15 |
+|  | **Karn Evil 9** |  |
+
 ## See also
 
 - ["Emerson, Lake & Palmer"](Emerson__Lake_and_Palmer.md)

@@ -37,6 +37,23 @@ By Spirit
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Prelude - Nothin' To Hide** | 3:41 |
+| A2 | **Nature's Way** | 2:30 |
+| A3 | **Animal Zoo** | 3:20 |
+| A4 | **Love Has Found A Way** | 2:42 |
+| A5 | **Why Can't I Be Free** | 1:03 |
+| A6 | **Mr. Skin** | 3:50 |
+| B1 | **Space Child** | 3:26 |
+| B2 | **When I Touch You** | 5:35 |
+| B3 | **Street Worm** | 3:40 |
+| B4 | **Life Has Just Begun** | 3:22 |
+| B5 | **Morning Will Come** | 2:58 |
+| B6 | **Soldier** | 2:43 |
+
 ## See also
 
 - [Clear](Clear.md)

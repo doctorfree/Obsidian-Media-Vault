@@ -37,6 +37,13 @@ By Jude Cole
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Baby, It's Tonight** | 3:40 |
+| B | **Heart Of Blues** | 4:59 |
+
 ## See also
 
 - [](Jude_Cole.md)

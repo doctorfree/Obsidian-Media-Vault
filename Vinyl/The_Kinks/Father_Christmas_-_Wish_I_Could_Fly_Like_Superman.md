@@ -37,6 +37,13 @@ By The Kinks
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Father Christmas** | 3:39 |
+| B | **(Wish I Could Fly Like) Superman** | 3:26 |
+
 ## See also
 
 - [20th Anniversary Box Set](20th_Anniversary_Box_Set.md)

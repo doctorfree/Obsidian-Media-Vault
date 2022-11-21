@@ -37,6 +37,20 @@ By Madonna
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Material Girl** | 4:04 |
+| A2 | **Angel** | 3:57 |
+| A3 | **Like A Virgin** | 3:39 |
+| A4 | **Over And Over** | 4:13 |
+| A5 | **Love Don't Live Here Anymore** | 4:51 |
+| B1 | **Dress You Up** | 4:02 |
+| B2 | **Shoo-Bee-Doo** | 5:18 |
+| B3 | **Pretender** | 4:31 |
+| B4 | **Stay** | 4:09 |
+
 ## See also
 
 - [Like A Prayer](Like_A_Prayer.md)

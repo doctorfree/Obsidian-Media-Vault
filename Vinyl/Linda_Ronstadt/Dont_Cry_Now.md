@@ -37,6 +37,21 @@ By Linda Ronstadt
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **I Can Almost See It** | 3:50 |
+| A2 | **Love Has No Pride** | 4:10 |
+| A3 | **Silver Threads And Golden Needles** | 2:20 |
+| A4 | **Desperado** | 3:30 |
+| A5 | **Don't Cry Now** | 4:28 |
+| B1 | **Sail Away** | 3:05 |
+| B2 | **Colorado** | 3:05 |
+| B3 | **The Fast One** | 3:40 |
+| B4 | **Everybody Loves A Winner** | 3:15 |
+| B5 | **I Believe In You** | 2:50 |
+
 ## See also
 
 - [Hasten Down The Wind](Hasten_Down_The_Wind.md)

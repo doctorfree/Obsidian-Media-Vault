@@ -37,6 +37,24 @@ By Velvet Revolver
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sucker Train Blues** |  |
+| A2 | **Do It For The Kids** |  |
+| A3 | **Big Machine** |  |
+| B1 | **Illegal I Song** |  |
+| B2 | **Spectacle** |  |
+| B3 | **Fall To Pieces** |  |
+| C1 | **Headspace** |  |
+| C2 | **Superhuman** |  |
+| C3 | **Set Me Free** |  |
+| D1 | **You Got No Right** |  |
+| D2 | **Slither** |  |
+| D3 | **Dirty Little Thing** |  |
+| D4 | **Loving The Alien** |  |
+
 ## See also
 
 - [](Velvet_Revolver.md)

@@ -37,6 +37,21 @@ By Blue Öyster Cult
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **This Ain't The Summer Of Love** | 2:20 |
+| A2 | **True Confessions** | 2:55 |
+| A3 | **(Don't Fear) The Reaper** | 5:05 |
+| A4 | **E.T.I. (Extra Terrestrial Intelligence)** | 3:43 |
+| A5 | **The Revenge Of Vera Gemini** | 3:48 |
+| B1 | **Sinful Love** | 3:28 |
+| B2 | **Tattoo Vampire** | 2:40 |
+| B3 | **Morning Final** | 4:14 |
+| B4 | **Tenderloin** | 3:53 |
+| B5 | **Debbie Denise** | 4:12 |
+
 ## See also
 
 - [Secret Treaties](Secret_Treaties.md)

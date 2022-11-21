@@ -37,6 +37,20 @@ By Grace Jones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Walking In The Rain** | 4:18 |
+| A2 | **Pull Up To The Bumper** | 4:41 |
+| A3 | **Use Me** | 5:04 |
+| A4 | **Nightclubbing** | 5:06 |
+| B1 | **Art Groupie** | 2:39 |
+| B2 | **I've Seen That Face Before (Libertango)** | 4:30 |
+| B3 | **Feel Up** | 4:03 |
+| B4 | **Demolition Man** | 4:03 |
+| B5 | **I've Done It Again** | 3:51 |
+
 ## See also
 
 - [](Grace_Jones.md)

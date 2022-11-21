@@ -37,6 +37,23 @@ By The Rolling Stones
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sad Sad Sad** | 3:35 |
+| A2 | **Mixed Emotions** | 4:37 |
+| A3 | **Terrifying** | 4:50 |
+| A4 | **Hold On To Your Hat** | 3:32 |
+| A5 | **Hearts For Sale** | 4:38 |
+| A6 | **Blinded By Love** | 4:37 |
+| B1 | **Rock And A Hard Place** | 5:25 |
+| B2 | **Can't Be Seen** | 4:08 |
+| B3 | **Almost Hear You Sigh** | 4:33 |
+| B4 | **Continental Drift** | 5:13 |
+| B5 | **Break The Spell** | 3:06 |
+| B6 | **Slipping Away** | 4:28 |
+
 ## See also
 
 - [12 x 5](12_x_5.md)

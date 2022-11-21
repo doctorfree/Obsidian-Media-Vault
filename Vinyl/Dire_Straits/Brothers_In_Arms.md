@@ -37,6 +37,20 @@ By Dire Straits
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **So Far Away** | 3:59 |
+| A2 | **Money For Nothing** | 7:04 |
+| A3 | **Walk Of Life** | 4:07 |
+| A4 | **Your Latest Trick** | 4:46 |
+| A5 | **Why Worry** | 5:22 |
+| B1 | **Ride Across The River** | 6:57 |
+| B2 | **The Man's Too Strong** | 4:36 |
+| B3 | **One World** | 3:36 |
+| B4 | **Brothers In Arms** | 6:56 |
+
 ## See also
 
 - [ExtendeDancEPlay](ExtendeDancEPlay.md)

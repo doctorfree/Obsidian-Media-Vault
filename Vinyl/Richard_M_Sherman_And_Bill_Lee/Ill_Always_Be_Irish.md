@@ -37,6 +37,13 @@ By Richard M. Sherman And Bill Lee
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **I'll Always Be Irish** |  |
+| B | **What's Wrong With That** |  |
+
 ## See also
 
 - [](Richard_M_Sherman_And_Bill_Lee.md)

@@ -37,6 +37,13 @@ By Three Dog Night
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Mama Told Me (Not To Come)** | 2:58 |
+| B | **Rock & Roll Widow** | 2:56 |
+
 ## See also
 
 - [](Three_Dog_Night.md)

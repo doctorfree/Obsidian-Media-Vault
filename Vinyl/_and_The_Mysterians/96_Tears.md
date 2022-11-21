@@ -37,6 +37,13 @@ By ? & The Mysterians
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **96 Tears** | 2:53 |
+| B | **Midnight Hour** | 2:21 |
+
 ## See also
 
 - ["Can't Get Enough Of You, Baby"](Cant_Get_Enough_Of_You__Baby.md)

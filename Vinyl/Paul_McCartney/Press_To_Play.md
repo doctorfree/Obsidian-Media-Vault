@@ -37,6 +37,21 @@ By Paul McCartney
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Stranglehold** | 3:36 |
+| A2 | **Good Times Coming/Feel The Sun** | 4:57 |
+| A3 | **Talk More Talk** | 5:18 |
+| A4 | **Footprints** | 4:33 |
+| A5 | **Only Love Remains** | 4:13 |
+| B1 | **Press** | 4:41 |
+| B2 | **Pretty Little Head** | 5:14 |
+| B3 | **Move Over Busker** | 4:07 |
+| B4 | **Angry** | 3:35 |
+| B5 | **However Absurd** | 5:00 |
+
 ## See also
 
 - [McCartney](McCartney.md)

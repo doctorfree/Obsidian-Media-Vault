@@ -37,6 +37,21 @@ By Harry Nilsson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Gotta Get Up** | 2:24 |
+| A2 | **Driving Along** | 2:02 |
+| A3 | **Early In The Morning** | 2:48 |
+| A4 | **The Moonbeam Song** | 3:18 |
+| A5 | **Down** | 3:24 |
+| B1 | **Without You** | 3:17 |
+| B2 | **Coconut** | 3:48 |
+| B3 | **Let The Good Times Roll** | 2:42 |
+| B4 | **Jump Into The Fire** | 6:54 |
+| B5 | **I'll Never Leave You** | 4:11 |
+
 ## See also
 
 - [Everybody's Talkin'](Everybodys_Talkin.md)

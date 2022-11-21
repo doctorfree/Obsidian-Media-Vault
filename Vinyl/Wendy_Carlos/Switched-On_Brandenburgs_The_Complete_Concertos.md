@@ -35,6 +35,17 @@ By Wendy Carlos
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Concerto No. 1 In F Major, BWV 1046** |  |
+|  | **Concerto No. 3 In G Major, BWV 1048** |  |
+|  | **Concerto No. 4 In G Major, BWV 1049** |  |
+|  | **Concerto No. 5 In D Major, BWV 1050** |  |
+|  | **Concerto No. 2 In F Major. BWV 1047** |  |
+|  | **Concerto No. 6 In B Flat Major, BWV 1051 ** |  |
+
 ## See also
 
 - [Wendy Carlos's Clockwork Orange (Complete Original Score)](Wendy_Carloss_Clockwork_Orange_Complete_Original_Score.md)

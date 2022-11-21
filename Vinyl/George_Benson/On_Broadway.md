@@ -37,6 +37,13 @@ By George Benson
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **On Broadway** | 5:14 |
+| B | **We As Love** | 6:43 |
+
 ## See also
 
 - [](George_Benson.md)

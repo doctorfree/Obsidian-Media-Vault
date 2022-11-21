@@ -37,6 +37,23 @@ By Paul Revere & The Raiders
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Steppin' Out** | 2:13 |
+| A2 | **Doggone** | 2:50 |
+| A3 | **Out Of Sight** | 2:35 |
+| A4 | **Baby, Please Don't Go** | 2:30 |
+| A5 | **I Know** | 2:30 |
+| A6 | **Night Train** | 2:30 |
+| B1 | **Just Like Me** | 2:23 |
+| B2 | **Catch The Wind** | 2:00 |
+| B3 | **I Can't Get No Satisfaction** | 3:18 |
+| B4 | **I'm Cryin'** | 3:05 |
+| B5 | **New Orleans** | 2:57 |
+| B6 | **Action** | 1:28 |
+
 ## See also
 
 - [Midnight Ride](Midnight_Ride.md)

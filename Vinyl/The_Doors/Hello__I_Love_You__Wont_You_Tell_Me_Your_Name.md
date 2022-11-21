@@ -37,6 +37,13 @@ By The Doors
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Hello, I Love You, Won't You Tell Me Your Name?** | 2:13 |
+| B | **Love Street** | 2:50 |
+
 ## See also
 
 - ["Alive, She Cried"](Alive__She_Cried.md)

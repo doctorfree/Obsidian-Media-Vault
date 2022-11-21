@@ -37,6 +37,13 @@ By Blue Cheer / Five Man Electrical Band
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Summertime Blues** |  |
+| B | **Signs** |  |
+
 ## See also
 
 - [](Blue_Cheer_-_Five_Man_Electrical_Band.md)

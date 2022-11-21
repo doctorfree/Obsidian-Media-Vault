@@ -39,6 +39,23 @@ By Bob Dylan And The Band
 Contains all three inserts
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **It's All Over Now, Baby Blue** |  |
+| A2 | **The Times They Are A Changing** |  |
+| A3 | **Love Minus Zero - No Limit** |  |
+| A4 | **Don't Think Twice** |  |
+| A5 | **Just Like A Woman** |  |
+| A6 | **It's Alright Ma, I'm Only Bleeding** |  |
+| B1 | **Most Likely You'll Go Your Way (And I'll Go Mine)** |  |
+| B2 | **Rainy Day Woman #12 & 35** |  |
+| B3 | **Ballad Of Hollis Brown** |  |
+| B4 | **Highway 61 Revisited** |  |
+| B5 | **Like A Rolling Stone** |  |
+| B6 | **Blowin' In The Wind** |  |
+
 ## See also
 
 - [](Bob_Dylan_And_The_Band.md)

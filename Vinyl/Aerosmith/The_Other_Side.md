@@ -37,6 +37,13 @@ By Aerosmith
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **The Other Side** | 4:06 |
+| B | **My Girl** | 3:11 |
+
 ## See also
 
 - [Draw The Line](Draw_The_Line.md)

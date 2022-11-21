@@ -37,6 +37,20 @@ By Rod Stewart
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Gasoline Alley** | 4:00 |
+| A2 | **It's All Over Now** | 6:23 |
+| A3 | **Only A Hobo** | 4:20 |
+| A4 | **My Way Of Giving** | 4:10 |
+| B1 | **Country Comforts** | 4:45 |
+| B2 | **Cut Across Shorty** | 6:30 |
+| B3 | **Lady Day** | 4:15 |
+| B4 | **Jo's Lament** | 3:35 |
+| B5 | **You're My Girl ( I Don't Want To Discuss It)** | 4:30 |
+
 ## See also
 
 - [Every Picture Tells A Story](Every_Picture_Tells_A_Story.md)

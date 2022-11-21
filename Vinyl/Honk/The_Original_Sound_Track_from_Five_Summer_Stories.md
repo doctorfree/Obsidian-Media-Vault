@@ -37,6 +37,23 @@ By Honk
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Creation (Instrumental)** | 0:40 |
+| A2 | **Blues Of Your Backdrop** | 2:01 |
+| A3 | **Brad And David's Theme (Instrumental)** | 2:38 |
+| A4 | **High InThe Middle** | 4:51 |
+| A5 | **Hum Drums (Instrumental)** | 1:19 |
+| A6 | **Bear's Country (Instrumental)** | 2:41 |
+| A7 | **Made My Statement (Love Your Baby)** | 2:36 |
+| B1 | **Don't Let Your Good-bye Stand** | 2:51 |
+| B2 | **Lopez (Instrumental)** | 3:36 |
+| B3 | **Blue Of Your Backdrop (Instrumental)** | 2:19 |
+| B4 | **Tunnel Of Love (Instrumental)** | 4:02 |
+| B5 | **Pipeline Sequence (Instrumental)** | 4:29 |
+
 ## See also
 
 - [](Honk.md)

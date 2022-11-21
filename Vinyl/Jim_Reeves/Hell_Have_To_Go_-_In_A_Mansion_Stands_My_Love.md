@@ -37,6 +37,13 @@ By Jim Reeves
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **He'll Have To Go** | 2:16 |
+| B | **In A Mansion Stands My Love** | 2:14 |
+
 ## See also
 
 - [](Jim_Reeves.md)

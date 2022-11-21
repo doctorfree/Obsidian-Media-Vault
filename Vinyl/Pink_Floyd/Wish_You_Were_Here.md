@@ -37,6 +37,16 @@ By Pink Floyd
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Shine On You Crazy Diamond (1 - 5)** |  |
+| A2 | **Welcome To The Machine** |  |
+| B1 | **Have A Cigar** |  |
+| B2 | **Wish You Were Here** |  |
+|  | **Shine On You Crazy Diamond (6 - 9)** |  |
+
 ## See also
 
 - [A Momentary Lapse Of Reason](A_Momentary_Lapse_Of_Reason.md)

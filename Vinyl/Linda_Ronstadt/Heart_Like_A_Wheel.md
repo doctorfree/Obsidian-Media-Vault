@@ -37,6 +37,21 @@ By Linda Ronstadt
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **You're No Good** | 3:40 |
+| A2 | **It Doesn't Matter Anymore** | 3:26 |
+| A3 | **Faithless Love** | 3:13 |
+| A4 | **Dark End Of The Street** | 3:55 |
+| A5 | **Heart Like A Wheel** | 3:08 |
+| B1 | **When Will I Be Loved** | 2:52 |
+| B2 | **Willing** | 3:01 |
+| B3 | **I Can't Help It (If I'm Still In Love With You)** | 2:44 |
+| B4 | **Keep Me From Blowing Away** | 3:10 |
+| B5 | **You Can Close Your Eyes** | 3:10 |
+
 ## See also
 
 - [Don't Cry Now](Dont_Cry_Now.md)

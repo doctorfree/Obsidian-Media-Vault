@@ -37,6 +37,28 @@ By Jefferson Airplane
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+|  | **Streetmasse** |  |
+| A1 | **The Ballad Of You & Me & Pooneil** | 4:30 |
+| A2 | **A Small Package Of Value Will Come To You Shortly** | 1:42 |
+| A3 | **Young Girl Sunday Blues** | 3:29 |
+|  | **The War Is Over** |  |
+| A4 | **Martha** | 3:21 |
+| A5 | **Wild Tyme (H)** | 3:05 |
+|  | **Hymn To An Older Generation** |  |
+| A6 | **The Last Wall Of The Castle** | 2:46 |
+| A7 | **Rejoyce** | 4:00 |
+|  | **How Suite It Is** |  |
+| B1 | **Watch Her Ride** | 3:11 |
+| B2 | **Spare Chaynge** | 9:05 |
+|  | **Shizoforest Love Suite** |  |
+| B3 | **Two Heads** | 3:10 |
+| B4 | **Won't You Try** | 5:01 |
+| B5 | **Saturday Afternoon** |  |
+
 ## See also
 
 - [Crown Of Creation](Crown_Of_Creation.md)

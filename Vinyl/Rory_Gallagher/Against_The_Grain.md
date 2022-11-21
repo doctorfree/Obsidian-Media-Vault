@@ -37,6 +37,21 @@ By Rory Gallagher
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Let Me In** | 4:03 |
+| A2 | **Cross Me Off Your List** | 4:26 |
+| A3 | **Ain't Too Good** | 3:54 |
+| A4 | **Souped-Up Ford** | 6:24 |
+| A5 | **Bought And Sold** | 3:24 |
+| B1 | **I Take What I Want** | 4:22 |
+| B2 | **Lost At Sea** | 4:06 |
+| B3 | **All Around Man** | 6:14 |
+| B4 | **Out On The Western Plain** | 3:53 |
+| B5 | **At The Bottom** | 3:19 |
+
 ## See also
 
 - [Calling Card](Calling_Card.md)

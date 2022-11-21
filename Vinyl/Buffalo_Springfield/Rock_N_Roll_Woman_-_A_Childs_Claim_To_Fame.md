@@ -37,6 +37,13 @@ By Buffalo Springfield
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Rock 'N' Roll Woman** | 2:44 |
+| B | **A Child's Claim To Fame** | 2:10 |
+
 ## See also
 
 - [Last Time Around](Last_Time_Around.md)

@@ -37,6 +37,13 @@ By Latimore
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Discoed To Death** | 3:58 |
+| B | **Just One Step** | 3:58 |
+
 ## See also
 
 - [](Latimore.md)

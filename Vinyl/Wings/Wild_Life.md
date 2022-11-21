@@ -37,6 +37,20 @@ By Wings
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mumbo** | 3:50 |
+| A2 | **Bip Bop** | 4:05 |
+| A3 | **Love Is Strange** | 4:45 |
+| A4 | **Wild Life** | 6:30 |
+| B1 | **Some People Never Know** | 6:35 |
+| B2 | **I Am Your Singer** | 2:10 |
+| B3 | **Untitled** |  |
+| B4 | **Tomorrow** | 3:17 |
+| B5 | **Dear Friend** | 5:42 |
+
 ## See also
 
 - [Goodnight Tonight](Goodnight_Tonight.md)

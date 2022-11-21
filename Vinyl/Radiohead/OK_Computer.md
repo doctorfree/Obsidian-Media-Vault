@@ -37,6 +37,23 @@ By Radiohead
 - Weight: 180 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Airbag** | 4:44 |
+| A2 | **Paranoid Android** | 6:23 |
+| A3 | **Subterranean Homesick Alien** | 4:27 |
+| B1 | **Exit Music (For A Film)** | 4:24 |
+| B2 | **Let Down** | 4:59 |
+| B3 | **Karma Police** | 4:21 |
+| C1 | **Fitter Happier** | 1:57 |
+| C2 | **Electioneering** | 3:50 |
+| C3 | **Climbing Up The Walls** | 4:45 |
+| C4 | **No Surprises** | 3:48 |
+| D1 | **Lucky** | 4:19 |
+| D2 | **The Tourist** | 5:24 |
+
 ## See also
 
 - [](Radiohead.md)

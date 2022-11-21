@@ -37,6 +37,22 @@ By The Stranglers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Midnight Summer Dream** |  |
+| A2 | **It's A Small World** |  |
+| A3 | **Ships That Pass In The Night** |  |
+| A4 | **The European Female (In Celebration Of)** |  |
+| B1 | **Let's Tango In Paris** |  |
+| B2 | **Paradise** |  |
+| B3 | **All Roads Lead To Rome** |  |
+| B4 | **Blue Sister** |  |
+| B5 | **Never Say Goodbye** |  |
+|  | **Free Special 7" Disc** |  |
+| C | **Aural Sculpture** |  |
+
 ## See also
 
 - [](The_Stranglers.md)

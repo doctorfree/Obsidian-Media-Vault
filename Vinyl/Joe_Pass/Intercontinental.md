@@ -37,6 +37,21 @@ By Joe Pass
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Chloe** | 5:24 |
+| A2 | **Meditacao** | 5:25 |
+| A3 | **I Cover The Waterfront** | 4:15 |
+| A4 | **I Love You** | 5:00 |
+| A5 | **Stompin' At The Savoy** | 4:15 |
+| B1 | **Watch What Happens** | 5:25 |
+| B2 | **Joe's Blues** | 6:00 |
+| B3 | **El Gento** | 4:03 |
+| B4 | **Ode To Billy Joe** | 3:30 |
+| B5 | **Li'l Darlin'** | 3:34 |
+
 ## See also
 
 - [](Joe_Pass.md)

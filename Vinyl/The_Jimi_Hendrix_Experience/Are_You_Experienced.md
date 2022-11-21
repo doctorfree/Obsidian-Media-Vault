@@ -37,6 +37,22 @@ By The Jimi Hendrix Experience
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Purple Haze** | 2:46 |
+| A2 | **Manic Depression** | 3:30 |
+| A3 | **Hey Joe** | 3:23 |
+| A4 | **Love Or Confusion** | 3:15 |
+| A5 | **May This Be Love** | 2:55 |
+| A6 | **I Don't Live Today** | 3:55 |
+| B1 | **The Wind Cries Mary** | 3:21 |
+| B2 | **Fire** | 2:34 |
+| B3 | **Third Stone From The Sun** | 6:40 |
+| B4 | **Foxy Lady** | 3:15 |
+| B5 | **Are You Experienced?** | 3:55 |
+
 ## See also
 
 - [](The_Jimi_Hendrix_Experience.md)

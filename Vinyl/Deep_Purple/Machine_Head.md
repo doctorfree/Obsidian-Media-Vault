@@ -37,6 +37,18 @@ By Deep Purple
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Highway Star** | 6:05 |
+| A2 | **Maybe I'm A Leo** | 4:51 |
+| A3 | **Pictures Of Home** | 5:03 |
+| A4 | **Never Before** | 3:56 |
+| B1 | **Smoke On The Water** | 5:40 |
+| B2 | **Lazy** | 7:19 |
+| B3 | **Space Truckin'** | 4:31 |
+
 ## See also
 
 - [Burn](Burn.md)

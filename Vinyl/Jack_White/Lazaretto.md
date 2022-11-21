@@ -37,6 +37,27 @@ By Jack White
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Three Women** | 3:56 |
+| A2 | **Lazaretto** | 3:40 |
+| A3 | **Temporary Ground** | 3:13 |
+| A4 | **Would You Fight For My Love?** | 4:10 |
+| A5 | **High Ball Stepper** | 3:45 |
+| A6 | **Untitled** |  |
+| A7 | **Untitled** | 0:56 |
+| BA1 | **Just One Drink** | 2:40 |
+| BB1 | **Just One Drink** | 2:37 |
+| B2 | **Alone In My Home** | 3:30 |
+| B3 | **That Black Bat Licorice** | 3:52 |
+| B4 | **Entitlement** | 4:06 |
+| B5 | **I Think I Found The Culprit** | 3:51 |
+| B6 | **Want And Able** | 2:34 |
+| B7 | **Untitled** |  |
+| B8 | **Untitled** | 0:44 |
+
 ## See also
 
 - [Acoustic Recordings 1998-2016](Acoustic_Recordings_1998-2016.md)

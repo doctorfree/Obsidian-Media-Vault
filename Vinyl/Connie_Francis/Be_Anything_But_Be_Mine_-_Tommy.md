@@ -37,6 +37,13 @@ By Connie Francis
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Be Anything (But Be Mine)** | 2:10 |
+| B | **Tommy** | 2:25 |
+
 ## See also
 
 - [Your Other Love / Whatever Happened To Rosemarie](Your_Other_Love_-_Whatever_Happened_To_Rosemarie.md)

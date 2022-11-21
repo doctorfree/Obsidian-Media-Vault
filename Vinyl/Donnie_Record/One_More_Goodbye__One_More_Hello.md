@@ -41,6 +41,13 @@ By Donnie Record
 Donnie is my brother
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **One More Goodbye, One More Hello** |  |
+| B | **One More Goodbye, One More Hello** |  |
+
 ## See also
 
 - [](Donnie_Record.md)

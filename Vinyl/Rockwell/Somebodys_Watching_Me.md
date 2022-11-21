@@ -37,6 +37,13 @@ By Rockwell
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Somebody's Watching Me** | 3:57 |
+| B | **Somebody's Watching Me (Instrumental)** | 3:57 |
+
 ## See also
 
 - [](Rockwell.md)

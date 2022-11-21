@@ -37,6 +37,13 @@ By Jimmy Dorsey
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **June Night** | 1:59 |
+| B | **Jay Dee's Boogie** | 2:33 |
+
 ## See also
 
 - [](Jimmy_Dorsey.md)

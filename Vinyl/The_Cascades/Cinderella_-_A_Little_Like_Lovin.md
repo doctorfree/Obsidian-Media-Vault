@@ -37,6 +37,13 @@ By The Cascades
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Cinderella ** | 2:33 |
+| B | **A Little Like Lovin'** | 2:08 |
+
 ## See also
 
 - [](The_Cascades.md)

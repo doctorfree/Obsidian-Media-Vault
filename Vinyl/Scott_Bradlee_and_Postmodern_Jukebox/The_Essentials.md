@@ -37,6 +37,29 @@ By Scott Bradlee & Postmodern Jukebox
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **We Can't Stop** |  |
+| A2 | **Maps** |  |
+| A3 | **Creep** |  |
+| A4 | **All About That Bass** |  |
+| A5 | **No Diggity** |  |
+| B1 | **I Believe In A Thing Called Love** |  |
+| B2 | **My Heart Will Go On** |  |
+| B3 | **Royals** |  |
+| B4 | **Stacy's Mom** |  |
+| B5 | **Rude** |  |
+| C1 | **Sweet Child O'Mine** |  |
+| C2 | **Thrift Shop** |  |
+| C3 | **Burn** |  |
+| C4 | **Seven Nation Army** |  |
+| D1 | **Sorry** |  |
+| D2 | **Halo** |  |
+| D3 | **Hey Ya!** |  |
+| D4 | **Such Great Heights** |  |
+
 ## See also
 
 - [](Scott_Bradlee_and_Postmodern_Jukebox.md)

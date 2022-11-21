@@ -37,6 +37,13 @@ By ABBA
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Fernando** | 4:11 |
+| AA | **Dancing Queen** | 3:50 |
+
 ## See also
 
 - [Gold (Greatest Hits)](Gold_Greatest_Hits.md)

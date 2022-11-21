@@ -37,6 +37,13 @@ By Barbara Acklin
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Love Makes A Woman** | 2:49 |
+| B | **Come And See Me Baby** | 2:42 |
+
 ## See also
 
 - [](Barbara_Acklin.md)

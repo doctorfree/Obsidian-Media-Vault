@@ -37,6 +37,18 @@ By The Grateful Dead
 - Weight: 200 gram
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Estimated Prophet** | 5:35 |
+| A2 | **Dancin' In The Streets** | 3:30 |
+| A3 | **Passenger** | 2:48 |
+| A4 | **Samson & Delilah** | 3:30 |
+| A5 | **Sunrise** | 4:05 |
+|  | **Terrapin Station** |  |
+|  | **Terrapin Part I** | 16:10 |
+
 ## See also
 
 - [Blues For Allah](Blues_For_Allah.md)

@@ -37,6 +37,13 @@ By The Honeydrippers
 - Weight: 
 
 
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A | **Sea Of Love** | 3:02 |
+| B | **Rockin' At Midnight** | 5:57 |
+
 ## See also
 
 - [](The_Honeydrippers.md)
