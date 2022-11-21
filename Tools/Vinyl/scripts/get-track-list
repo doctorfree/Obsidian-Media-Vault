@@ -1,0 +1,59 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+URL="https://api.discogs.com/releases"
+AGE="github.com/doctorfree/MusicPlayerPlus"
+UAG="--user-agent \"MusicPlayerPlus/3.0\""
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+for artist in ${TOP}/*
+do
+  [ "${artist}" == "${TOP}/*" ] && continue
+  [ -d "${artist}" ] || continue
+  for album in "${artist}"/*.md
+  do
+    [ "${album}" == "${artist}/*.md" ] && continue
+    grep "## Album Tracks" "${album}" > /dev/null || {
+      release_id=`grep "Release ID:" "${album}"  | \
+                  awk -F ':' ' { print $2 } ' | \
+                  sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${release_id}" ] || continue
+      atracks=`echo "${album}" | sed -e "s%\.md%%"`
+      [ -f "${atracks}.txt" ] || {
+        curl --stderr /dev/null \
+          -A "${AGE}" "${URL}/${release_id}" \
+          -H "Authorization: Discogs token=${token}" | \
+          jq -r '.tracklist[] | "\(.position)%\(.title)%\(.duration)"' > "${atracks}.txt"
+      }
+
+      # Insert track list for this album
+      echo "## Album Tracks" > /tmp/__insert__
+      echo "" >> /tmp/__insert__
+      echo "| **Position** | **Title** | **Duration** |" >> /tmp/__insert__
+      echo "|--------------|-----------|--------------|" >> /tmp/__insert__
+      cat "${atracks}.txt" | while read track
+      do
+        [ "${track}" ] || continue
+        position=`echo "${track}" | awk -F '%' ' { print $1 } '`
+        title=`echo "${track}" | awk -F '%' ' { print $2 } '`
+        duration=`echo "${track}" | awk -F '%' ' { print $3 } '`
+        echo "| ${position} | **${title}** | ${duration} |" >> /tmp/__insert__
+      done
+      echo "" >> /tmp/__insert__
+      insert=`grep "## See also" "${album}"`
+      if [ "${insert}" ]
+      then
+        sed '/## See also/e cat /tmp/__insert__' ${album} > /tmp/foo$$
+      else
+        cat ${album} /tmp/__insert__ > /tmp/foo$$
+      fi
+      cp /tmp/foo$$ ${album}
+      rm -f /tmp/foo$$ /tmp/__insert__ "${atracks}.txt"
+    }
+  done
+done

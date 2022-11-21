@@ -1,0 +1,58 @@
+#!/bin/bash
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+URL="https://api.discogs.com/releases"
+AGE="github.com/doctorfree/MusicPlayerPlus"
+UAG="--user-agent \"MusicPlayerPlus/3.0\""
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+for artist in ${TOP}/*
+do
+  [ "${artist}" == "${TOP}/*" ] && continue
+  [ -d "${artist}" ] || continue
+  for album in "${artist}"/*.md
+  do
+    [ "${album}" == "${artist}/*.md" ] && continue
+    grep "## Artist Roles" "${album}" > /dev/null || {
+      release_id=`grep "Release ID:" "${album}"  | \
+                  awk -F ':' ' { print $2 } ' | \
+                  sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${release_id}" ] || continue
+      extra=`echo "${album}" | sed -e "s%\.md%%"`
+      [ -f "${extra}.txt" ] || {
+        curl --stderr /dev/null \
+          -A "${AGE}" "${URL}/${release_id}" \
+          -H "Authorization: Discogs token=${token}" | \
+          jq -r '.extraartists[] | "\(.name)%\(.role)"' > "${extra}.txt"
+      }
+
+      # Insert artist roles list for this album
+      echo "## Artist Roles" > /tmp/__insert__
+      echo "" >> /tmp/__insert__
+      echo "| **Name** | **Role** |" >> /tmp/__insert__
+      echo "|----------|----------|" >> /tmp/__insert__
+      cat "${extra}.txt" | while read artistrole
+      do
+        [ "${artistrole}" ] || continue
+        name=`echo "${artistrole}" | awk -F '%' ' { print $1 } '`
+        role=`echo "${artistrole}" | awk -F '%' ' { print $2 } '`
+        echo "| **${name}** | ${role} |" >> /tmp/__insert__
+      done
+      echo "" >> /tmp/__insert__
+      insert=`grep "## See also" "${album}"`
+      if [ "${insert}" ]
+      then
+        sed '/## See also/e cat /tmp/__insert__' ${album} > /tmp/foo$$
+      else
+        cat ${album} /tmp/__insert__ > /tmp/foo$$
+      fi
+      cp /tmp/foo$$ ${album}
+      rm -f /tmp/foo$$ /tmp/__insert__ "${extra}.txt"
+    }
+  done
+done

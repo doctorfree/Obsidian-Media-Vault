@@ -118,6 +118,7 @@ Additional example Dataview Beets and Books queries can be found in the `Datavie
 - [All Read Books](Dataviews/All_Read_Books.md)
 - [All Unread Books](Dataviews/All_Unread_Books.md)
 - [Roon Albums](Dataviews/Roon_Albums.md)
+- [Vinyl Weight](Dataviews/Vinyl_Weight.md)
 
 ## See also
 

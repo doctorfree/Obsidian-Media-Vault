@@ -88,3 +88,7 @@ banner_y: 0.35
 - [Vinyl by Title](Vinyl_by_Title.md)
 - [Table of Vinyl by Artist](Table_of_Vinyl_by_Artist.md)
 - [Table of Vinyl by Title](Table_of_Vinyl_by_Title.md)
+
+### Vinyl albums filtered with Dataview queries
+
+- [Vinyl Weight](Dataviews/Vinyl_Weight.md)
