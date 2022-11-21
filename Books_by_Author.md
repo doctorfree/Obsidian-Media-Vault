@@ -5,7 +5,7 @@ banner_y: 0.5
 banner_icon: 📚
 ---
 
-# Books
+# Books by Author
 
 ## See also
 
