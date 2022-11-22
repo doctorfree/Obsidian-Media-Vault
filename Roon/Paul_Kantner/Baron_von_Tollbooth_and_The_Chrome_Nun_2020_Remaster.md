@@ -37,3 +37,4 @@ By Paul Kantner
 - [Blows Against The Empire](Blows_Against_The_Empire.md)
 - [Sunfighter](Sunfighter.md)
 - [Venusian Love Songs](Venusian_Love_Songs.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

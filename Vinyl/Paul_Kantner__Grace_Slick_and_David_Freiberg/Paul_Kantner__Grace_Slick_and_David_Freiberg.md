@@ -9,3 +9,4 @@
 ## See also
 
 - [Baron Von Tollbooth & The Chrome Nun](Baron_Von_Tollbooth_and_The_Chrome_Nun.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

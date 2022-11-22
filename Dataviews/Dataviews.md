@@ -4,15 +4,26 @@ banner_x: 1.0
 banner_y: 1.0
 ---
 
-# Media Queries
+# Dataviews
 
 The Obsidian Media Vault markdown contains metadata with tags allowing a variety of queries using the [Dataview](https://blacksmithgu.github.io/obsidian-dataview/) plugin for [Obsidian](https://obsidian.md/). A few example Dataview queries are detailed below.
 
 ## Example Dataview Queries
 
-Included here are [several examples](Dataviews/Dataviews.md) of utilizing the Obsidian Dataview plugin to make dynamic queries into a vault. The results of these queries will automatically update when the vault is modified. A few lines of code can produce complex queries with detailed results. It takes a bit of study to learn the Dataview plugin but it is worth it. Hopefully these examples will serve as good starting points in that learning process.
+- [All Beets Albums](Beets_Albums.md)
+- [Beets Albums released in 1977](Beets_Albums_1977.md)
+- [Beets Albums released in the 70s](Beets_Albums_70s.md)
+- [Beets Albums in a Progressive genre](Beets_Progressive.md)
+- [All 50 Year Old Novels](All_50_Year_Old_Novels.md)
+- [All Books](All_Books.md)
+- [All Read Books](All_Read_Books.md)
+- [All Science Fiction](All_Science_Fiction.md)
+- [All Unread Books](All_Unread_Books.md)
+- [Roon Albums](Roon_Albums.md)
+- [Vinyl Gatefold](Vinyl_Gatefold.md)
+- [Vinyl Weight](Vinyl_Weight.md)
 
-### Example Dataview Beets Query
+## Example Dataview Beets Query
 
 The markdown for "Fragile" by Yes has the following YAML prelude:
 
@@ -31,7 +42,7 @@ year: 1977
 ---
 ```
 
-#### Dataview Beets query
+### Dataview Beets query
 
 The above album metadata can be used to perform Dataview queries to search, filter, and retrieve albums as if they are in a database. For example, to produce a table of all albums in this vault by Yes released prior to 1980 add the following to a markdown file in the vault:
 
@@ -81,7 +92,7 @@ WHERE (albumartist = "Yes" OR albumartist = "XTC") AND
 GROUP BY "**" + albumartist + "**"
 ```
 
-### Example Books query
+## Example Books query
 
 The markdown for "Timequake" by Kurt Vonnegut Jr. has the following YAML prelude:
 
@@ -105,7 +116,7 @@ review:
 ---
 ```
 
-#### Dataview Books query
+### Dataview Books query
 
 The above book metadata can be used to perform Dataview queries to search, filter, and retrieve books as if they are in a database. For example, to produce a table of all books in this vault by Kurt Vonnegut Jr. published prior to 1970 add the following to a markdown file in the vault:
 
@@ -157,18 +168,6 @@ GROUP BY "**" + author + "**"
 
 ## See also
 
-- [Dataview: All Beets Albums](Dataviews/Beets_Albums.md)
-- [Dataview: Beets Albums released in 1977](Dataviews/Beets_Albums_1977.md)
-- [Dataview: Beets Albums released in the 70s](Dataviews/Beets_Albums_70s.md)
-- [Dataview: Beets Albums in a Progressive genre](Dataviews/Beets_Progressive.md)
-- [Dataview: All 50 Year Old Novels](Dataviews/All_50_Year_Old_Novels.md)
-- [Dataview: All Books](Dataviews/All_Books.md)
-- [Dataview: All Read Books](Dataviews/All_Read_Books.md)
-- [Dataview: All Science Fiction](Dataviews/All_Science_Fiction.md)
-- [Dataview: All Unread Books](Dataviews/All_Unread_Books.md)
-- [Dataview: Roon Albums](Dataviews/Roon_Albums.md)
-- [Dataview: Vinyl Gatefold](Dataviews/Vinyl_Gatefold.md)
-- [Dataview: Vinyl Weight](Dataviews/Vinyl_Weight.md)
-- [Index of the Media Vault](Media_Index.md)
-- [README](README.md)
-- [Process](Process.md)
+- [Index of the Media Vault](../Media_Index.md)
+- [README](../README.md)
+- [Process](../Process.md)

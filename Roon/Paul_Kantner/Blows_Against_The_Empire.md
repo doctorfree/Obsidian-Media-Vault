@@ -37,3 +37,4 @@ By Paul Kantner
 - [Baron von Tollbooth & The Chrome Nun (2020 Remaster)](Baron_von_Tollbooth_and_The_Chrome_Nun_2020_Remaster.md)
 - [Sunfighter](Sunfighter.md)
 - [Venusian Love Songs](Venusian_Love_Songs.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

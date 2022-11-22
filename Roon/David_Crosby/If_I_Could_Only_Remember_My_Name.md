@@ -36,5 +36,5 @@ By David Crosby
 - [Graham Nash David Crosby](Graham_Nash_David_Crosby.md)
 - [If I Could Only Remember My Name (50th Anniversary Edition; 2021 Remaster)](If_I_Could_Only_Remember_My_Name_50th_Anniversary_Edition;_2021_Remaster.md)
 - [Beets: If I Could Only Remember My Name](../../Beets/David_Crosby/If_I_Could_Only_Remember_My_Name.md)
-- [Vinyl: ](../../Vinyl/David_Crosby/David_Crosby.md)
+- [Vinyl: David Crosby](../../Vinyl/David_Crosby/David_Crosby.md)
 - [Vinyl: If I Could Only Remember My Name](../../Vinyl/David_Crosby/If_I_Could_Only_Remember_My_Name.md)

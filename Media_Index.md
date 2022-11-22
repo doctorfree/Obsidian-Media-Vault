@@ -91,4 +91,6 @@ banner_y: 0.35
 
 ### Vinyl albums filtered with Dataview queries
 
+- [Vinyl Gatefold](Dataviews/Vinyl_Gatefold.md)
 - [Vinyl Weight](Dataviews/Vinyl_Weight.md)
+

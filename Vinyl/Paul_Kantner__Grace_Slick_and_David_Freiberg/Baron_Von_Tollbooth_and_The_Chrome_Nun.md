@@ -81,4 +81,5 @@ By "Paul Kantner, Grace Slick & David Freiberg"
 
 ## See also
 
-- [](Paul_Kantner__Grace_Slick_and_David_Freiberg.md)
+- [Paul Kantner, Grace Slick and David Freiberg](Paul_Kantner__Grace_Slick_and_David_Freiberg.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

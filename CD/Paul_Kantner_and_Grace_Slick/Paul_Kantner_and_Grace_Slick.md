@@ -13,3 +13,4 @@
 - [Sunfighter](Sunfighter.md)
 - [Beets: Baron Von Tollbooth & the Chrome Nun](../../Beets/Paul_Kantner_and_Grace_Slick/Baron_Von_Tollbooth_and_the_Chrome_Nun.md)
 - [Beets: Sunfighter](../../Beets/Paul_Kantner_and_Grace_Slick/Sunfighter.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

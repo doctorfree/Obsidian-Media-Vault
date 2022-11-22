@@ -150,5 +150,6 @@ By **Paul Kantner, Grace Slick**
 
 - [Sunfighter](Sunfighter.md)
 - [CD: Baron Von Tollbooth & The Chrome Nun](../../CD/Paul_Kantner_and_Grace_Slick/Baron_Von_Tollbooth_and_The_Chrome_Nun.md)
-- [CD: ](../../CD/Paul_Kantner_and_Grace_Slick/Paul_Kantner_and_Grace_Slick.md)
+- [CD: Paul Kantner and Grace Slick](../../CD/Paul_Kantner_and_Grace_Slick/Paul_Kantner_and_Grace_Slick.md)
 - [CD: Sunfighter](../../CD/Paul_Kantner_and_Grace_Slick/Sunfighter.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

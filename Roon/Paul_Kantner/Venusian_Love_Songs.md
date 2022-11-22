@@ -46,3 +46,4 @@ By Paul Kantner
 - [Baron von Tollbooth & The Chrome Nun (2020 Remaster)](Baron_von_Tollbooth_and_The_Chrome_Nun_2020_Remaster.md)
 - [Blows Against The Empire](Blows_Against_The_Empire.md)
 - [Sunfighter](Sunfighter.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

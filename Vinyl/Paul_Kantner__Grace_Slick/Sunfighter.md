@@ -95,4 +95,5 @@ By "Paul Kantner, Grace Slick"
 
 ## See also
 
-- [](Paul_Kantner__Grace_Slick.md)
+- [Paul Kantner and Grace Slick](Paul_Kantner__Grace_Slick.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)

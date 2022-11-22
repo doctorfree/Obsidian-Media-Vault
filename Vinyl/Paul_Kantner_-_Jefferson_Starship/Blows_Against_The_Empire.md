@@ -66,4 +66,5 @@ By Paul Kantner / Jefferson Starship
 
 ## See also
 
-- [](Paul_Kantner_-_Jefferson_Starship.md)
+- [Paul Kantner and Grace Slick](Paul_Kantner_-_Jefferson_Starship.md)
+- [Wikipedia: PERRO](https://en.wikipedia.org/wiki/The_Planet_Earth_Rock_and_Roll_Orchestra)
