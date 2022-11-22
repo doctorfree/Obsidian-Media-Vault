@@ -3,9 +3,11 @@ catalog: FRM 8151
 title: The Best Of Wilson Pickett
 artist: Wilson Pickett
 label: Atlantic, Friday Music
+formats: Vinyl, 180 Gram
 format: LP, Comp, Mono, RE, 180
 rating: 
 released: 2011
+year: 1967
 releaseid: 2777469
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Wilson Pickett
 
 - Catalog #: FRM 8151
 - Label: Atlantic, Friday Music
+- Formats: Vinyl, 180 Gram
 - Format: LP, Comp, Mono, RE, 180
 - Rating: 
 - Released: 2011
+- Year: 1967
 - Release ID: 2777469
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: RS 6407
 title: The Lady And The Unicorn
 artist: John Renbourn
 label: Reprise Records
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, RP, Ter
 rating: 
 released: 1975
+year: 1970
 releaseid: 1244172
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By John Renbourn
 
 - Catalog #: RS 6407
 - Label: Reprise Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, RP, Ter
 - Rating: 
 - Released: 1975
+- Year: 1970
 - Release ID: 1244172
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

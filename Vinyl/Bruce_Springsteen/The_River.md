@@ -3,9 +3,11 @@ catalog: PC2 36854
 title: The River
 artist: Bruce Springsteen
 label: Columbia
+formats: Vinyl, Terre Haute Pressing
 format: 2xLP, Album, Ter
 rating: 
 released: 1980
+year: 1980
 releaseid: 892971
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bruce Springsteen
 
 - Catalog #: PC2 36854
 - Label: Columbia
+- Formats: Vinyl, Terre Haute Pressing
 - Format: 2xLP, Album, Ter
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 892971
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

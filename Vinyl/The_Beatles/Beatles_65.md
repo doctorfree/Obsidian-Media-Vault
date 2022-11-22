@@ -3,9 +3,11 @@ catalog: T 2228, T-2228
 title: Beatles '65
 artist: The Beatles
 label: Capitol Records, Capitol Records
+formats: Vinyl, Scranton Pressing
 format: LP, Album, Mono, Scr
 rating: 
 released: 1964
+year: 1964
 releaseid: 7482841
 mediacondition: Good (G)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: T 2228, T-2228
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl, Scranton Pressing
 - Format: LP, Album, Mono, Scr
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 7482841
 - Media condition: Good (G)
 - Sleeve condition: Good (G)

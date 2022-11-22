@@ -3,9 +3,11 @@ catalog: CRE-39517-01
 title: The Traveling Wilburys Collection
 artist: Traveling Wilburys
 label: Concord Music Group, Inc.
+formats: Vinyl
 format: LP, Album, RE, RM + 12" + LP, Album, RE, RM + Box,
 rating: 5
 released: 2016
+year: 2007
 releaseid: 8605054
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Traveling Wilburys
 
 - Catalog #: CRE-39517-01
 - Label: Concord Music Group, Inc.
+- Formats: Vinyl
 - Format: LP, Album, RE, RM + 12" + LP, Album, RE, RM + Box,
 - Rating: 5
 - Released: 2016
+- Year: 2007
 - Release ID: 8605054
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

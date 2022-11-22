@@ -3,9 +3,11 @@ catalog: VRS-9123
 title: Walk Right In!
 artist: The Rooftop Singers
 label: Vanguard
+formats: Vinyl
 format: LP, Album, Mono
 rating: 
 released: 1963
+year: 1963
 releaseid: 1940392
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Rooftop Singers
 
 - Catalog #: VRS-9123
 - Label: Vanguard
+- Formats: Vinyl
 - Format: LP, Album, Mono
 - Rating: 
 - Released: 1963
+- Year: 1963
 - Release ID: 1940392
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

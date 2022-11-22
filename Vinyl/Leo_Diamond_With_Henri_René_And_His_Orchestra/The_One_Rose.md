@@ -3,9 +3,11 @@ catalog: 47-6090
 title: The One Rose
 artist: Leo Diamond With Henri René And His Orchestra
 label: RCA Victor
+formats: Vinyl
 format: 7", Single, Promo
 rating: 
 released: 0
+year: 1955
 releaseid: 5180592
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -25,9 +27,11 @@ By Leo Diamond With Henri René And His Orchestra
 
 - Catalog #: 47-6090
 - Label: RCA Victor
+- Formats: Vinyl
 - Format: 7", Single, Promo
 - Rating: 
 - Released: 0
+- Year: 1955
 - Release ID: 5180592
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

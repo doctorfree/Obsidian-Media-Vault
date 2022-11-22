@@ -3,9 +3,11 @@ catalog: 45-D-4228
 title: Take A Look Around
 artist: Smith
 label: ABC/Dunhill Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1970
+year: 1970
 releaseid: 6755763
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Smith
 
 - Catalog #: 45-D-4228
 - Label: ABC/Dunhill Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 6755763
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

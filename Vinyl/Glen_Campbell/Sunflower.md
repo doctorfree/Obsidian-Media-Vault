@@ -3,9 +3,11 @@ catalog: 4445
 title: Sunflower
 artist: Glen Campbell
 label: Capitol Records
+formats: Vinyl, Jacksonville
 format: 7", Single, Jac
 rating: 
 released: 1977
+year: 1977
 releaseid: 3063022
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Glen Campbell
 
 - Catalog #: 4445
 - Label: Capitol Records
+- Formats: Vinyl, Jacksonville
 - Format: 7", Single, Jac
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 3063022
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

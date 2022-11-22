@@ -3,9 +3,11 @@ catalog: MCA-6358
 title: Glasnost
 artist: Various
 label: MCA Records
+formats: Vinyl
 format: LP, Album, Comp, Promo
 rating: 
 released: 1988
+year: 1987
 releaseid: 4510939
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: MCA-6358
 - Label: MCA Records
+- Formats: Vinyl
 - Format: LP, Album, Comp, Promo
 - Rating: 
 - Released: 1988
+- Year: 1987
 - Release ID: 4510939
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

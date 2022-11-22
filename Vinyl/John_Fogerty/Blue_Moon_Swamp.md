@@ -3,9 +3,11 @@ catalog: 538338901
 title: Blue Moon Swamp
 artist: John Fogerty
 label: BMG
+formats: Vinyl, 180 Gram
 format: LP, Album, 180
 rating: 
 released: 2017
+year: 0
 releaseid: 11157669
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By John Fogerty
 
 - Catalog #: 538338901
 - Label: BMG
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, 180
 - Rating: 
 - Released: 2017
+- Year: 0
 - Release ID: 11157669
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

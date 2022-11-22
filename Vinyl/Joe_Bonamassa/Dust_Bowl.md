@@ -3,9 +3,11 @@ catalog: JRA58236
 title: Dust Bowl
 artist: Joe Bonamassa
 label: J&R Adventures
+formats: Vinyl, Gatefold, 180g
 format: 2xLP, Album, RE, Gat
 rating: 
 released: 2016
+year: 2011
 releaseid: 9299277
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Joe Bonamassa
 
 - Catalog #: JRA58236
 - Label: J&R Adventures
+- Formats: Vinyl, Gatefold, 180g
 - Format: 2xLP, Album, RE, Gat
 - Rating: 
 - Released: 2016
+- Year: 2011
 - Release ID: 9299277
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

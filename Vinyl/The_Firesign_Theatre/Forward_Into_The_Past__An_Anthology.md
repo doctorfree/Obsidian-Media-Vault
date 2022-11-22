@@ -3,9 +3,11 @@ catalog: PG 34391
 title: Forward Into The Past ( An Anthology)
 artist: The Firesign Theatre
 label: Columbia
+formats: Vinyl, Terre Haute Pressing, Gatefold
 format: 2xLP, Comp, Ter
 rating: 
 released: 1976
+year: 1976
 releaseid: 1444913
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Firesign Theatre
 
 - Catalog #: PG 34391
 - Label: Columbia
+- Formats: Vinyl, Terre Haute Pressing, Gatefold
 - Format: 2xLP, Comp, Ter
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 1444913
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

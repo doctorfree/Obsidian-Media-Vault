@@ -3,9 +3,11 @@ catalog: SOO-17016
 title: Love Stinks
 artist: The J. Geils Band
 label: EMI America
+formats: Vinyl, All Disc Records, Inc. Pressing
 format: LP, Album, All
 rating: 
 released: 1980
+year: 1980
 releaseid: 1583590
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The J. Geils Band
 
 - Catalog #: SOO-17016
 - Label: EMI America
+- Formats: Vinyl, All Disc Records, Inc. Pressing
 - Format: LP, Album, All
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 1583590
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

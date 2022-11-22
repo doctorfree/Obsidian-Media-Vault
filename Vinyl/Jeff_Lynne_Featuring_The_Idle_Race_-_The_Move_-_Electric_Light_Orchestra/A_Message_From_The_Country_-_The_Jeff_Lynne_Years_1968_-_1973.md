@@ -3,9 +3,11 @@ catalog: SHSM 2031
 title: A Message From The Country - The Jeff Lynne Years 1968 - 1973
 artist: Jeff Lynne Featuring The Idle Race / The Move / Electric Light Orchestra
 label: Harvest
+formats: Vinyl
 format: LP, Album, Comp
 rating: 
 released: 1989
+year: 1989
 releaseid: 4428598
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -25,9 +27,11 @@ By Jeff Lynne Featuring The Idle Race / The Move / Electric Light Orchestra
 
 - Catalog #: SHSM 2031
 - Label: Harvest
+- Formats: Vinyl
 - Format: LP, Album, Comp
 - Rating: 
 - Released: 1989
+- Year: 1989
 - Release ID: 4428598
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

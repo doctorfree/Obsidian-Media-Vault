@@ -3,9 +3,11 @@ catalog: 205.052
 title: Design Moderne
 artist: Gruppo Sportivo
 label: Ariola
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1982
+year: 1982
 releaseid: 3021991
 mediacondition: Good Plus (G+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Gruppo Sportivo
 
 - Catalog #: 205.052
 - Label: Ariola
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 3021991
 - Media condition: Good Plus (G+)
 - Sleeve condition: Good Plus (G+)

@@ -3,9 +3,11 @@ catalog: 88875170161
 title: Tapestry
 artist: Carole King
 label: Ode Records (2), Epic, Legacy, Sony Music
+formats: Vinyl, 180 g
 format: LP, Album, RE, 180
 rating: 
 released: 2016
+year: 1971
 releaseid: 8211921
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Carole King
 
 - Catalog #: 88875170161
 - Label: Ode Records (2), Epic, Legacy, Sony Music
+- Formats: Vinyl, 180 g
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2016
+- Year: 1971
 - Release ID: 8211921
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

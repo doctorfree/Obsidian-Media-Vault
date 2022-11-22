@@ -3,9 +3,11 @@ catalog: LL 3499
 title: Between The Buttons
 artist: The Rolling Stones
 label: London Records
+formats: Vinyl
 format: LP, Album, Mono
 rating: 
 released: 1967
+year: 1967
 releaseid: 2931906
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: LL 3499
 - Label: London Records
+- Formats: Vinyl
 - Format: LP, Album, Mono
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 2931906
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good (G)

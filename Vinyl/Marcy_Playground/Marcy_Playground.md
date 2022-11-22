@@ -3,9 +3,11 @@ catalog: SDS-1501, B0026075-01, SDS-45-1501
 title: Marcy Playground
 artist: Marcy Playground
 label: Slow Down Sounds, Universal Music Special Markets, Slow Down Sounds
+formats: Vinyl
 format: LP, Album, RE + 7" + Ltd
 rating: 
 released: 2017
+year: 1997
 releaseid: 10174618
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Marcy Playground
 
 - Catalog #: SDS-1501, B0026075-01, SDS-45-1501
 - Label: Slow Down Sounds, Universal Music Special Markets, Slow Down Sounds
+- Formats: Vinyl
 - Format: LP, Album, RE + 7" + Ltd
 - Rating: 
 - Released: 2017
+- Year: 1997
 - Release ID: 10174618
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

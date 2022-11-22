@@ -3,9 +3,11 @@ catalog: 88875049671
 title: The Complete Columbia Albums Collection
 artist: Simon & Garfunkel
 label: Columbia, Legacy
+formats: Box Set
 format: Box, Ltd, Num, RM + LP, Album, RE + LP, Album, RE 
 rating: 
 released: 2015
+year: 2015
 releaseid: 7339118
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Simon & Garfunkel
 
 - Catalog #: 88875049671
 - Label: Columbia, Legacy
+- Formats: Box Set
 - Format: Box, Ltd, Num, RM + LP, Album, RE + LP, Album, RE 
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 7339118
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

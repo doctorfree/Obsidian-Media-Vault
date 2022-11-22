@@ -3,9 +3,11 @@ catalog: JC 34474
 title: Animals
 artist: Pink Floyd
 label: Columbia
+formats: Vinyl, Pitman Pressing, Gatefold
 format: LP, Album, RP, Pit
 rating: 
 released: 0
+year: 1977
 releaseid: 1862830
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Pink Floyd
 
 - Catalog #: JC 34474
 - Label: Columbia
+- Formats: Vinyl, Pitman Pressing, Gatefold
 - Format: LP, Album, RP, Pit
 - Rating: 
 - Released: 0
+- Year: 1977
 - Release ID: 1862830
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

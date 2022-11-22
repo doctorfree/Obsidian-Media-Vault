@@ -3,9 +3,11 @@ catalog: 77050
 title: The Devil Makes Three
 artist: The Devil Makes Three
 label: Mother Earth Music
+formats: Vinyl, 180 g
 format: LP, Album, 180
 rating: 
 released: 2014
+year: 2002
 releaseid: 7120977
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Devil Makes Three
 
 - Catalog #: 77050
 - Label: Mother Earth Music
+- Formats: Vinyl, 180 g
 - Format: LP, Album, 180
 - Rating: 
 - Released: 2014
+- Year: 2002
 - Release ID: 7120977
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

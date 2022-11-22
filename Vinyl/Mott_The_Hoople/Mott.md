@@ -3,9 +3,11 @@ catalog: DPRLP75
 title: Mott
 artist: Mott The Hoople
 label: Drastic Plastic Records
+formats: Vinyl, Gatefold, 200 g
 format: LP, Album, Ltd, Num, Gat
 rating: 
 released: 2016
+year: 1973
 releaseid: 9292831
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Mott The Hoople
 
 - Catalog #: DPRLP75
 - Label: Drastic Plastic Records
+- Formats: Vinyl, Gatefold, 200 g
 - Format: LP, Album, Ltd, Num, Gat
 - Rating: 
 - Released: 2016
+- Year: 1973
 - Release ID: 9292831
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

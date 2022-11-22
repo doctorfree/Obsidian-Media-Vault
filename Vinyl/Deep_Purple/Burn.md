@@ -3,9 +3,11 @@ catalog: FRM 2766
 title: Burn
 artist: Deep Purple
 label: Friday Music, Purple Records
+formats: Vinyl, 180g
 format: LP, Album, RE, 180
 rating: 
 released: 2010
+year: 1974
 releaseid: 3108814
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Deep Purple
 
 - Catalog #: FRM 2766
 - Label: Friday Music, Purple Records
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2010
+- Year: 1974
 - Release ID: 3108814
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

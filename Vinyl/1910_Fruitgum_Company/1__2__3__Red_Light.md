@@ -3,9 +3,11 @@ catalog: BDA 54
 title: "1, 2, 3, Red Light"
 artist: 1910 Fruitgum Company
 label: Buddah Records
+formats: Vinyl, Pitman Pressing
 format: 7", Single, Pit
 rating: 
 released: 1968
+year: 1968
 releaseid: 1321608
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By 1910 Fruitgum Company
 
 - Catalog #: BDA 54
 - Label: Buddah Records
+- Formats: Vinyl, Pitman Pressing
 - Format: 7", Single, Pit
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 1321608
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

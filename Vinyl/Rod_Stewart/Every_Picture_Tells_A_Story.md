@@ -3,9 +3,11 @@ catalog: 5355134, 0600753551349
 title: Every Picture Tells A Story
 artist: Rod Stewart
 label: Mercury, Universal Music Group
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, 180
 rating: 
 released: 2015
+year: 1971
 releaseid: 7044678
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Rod Stewart
 
 - Catalog #: 5355134, 0600753551349
 - Label: Mercury, Universal Music Group
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2015
+- Year: 1971
 - Release ID: 7044678
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: 74-0343
 title: Mexico
 artist: Jefferson Airplane
 label: RCA Victor
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1970
+year: 1970
 releaseid: 7327717
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jefferson Airplane
 
 - Catalog #: 74-0343
 - Label: RCA Victor
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 7327717
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: A1 81240, 7A1-81240
 title: No Jacket Required
 artist: Phil Collins
 label: Atlantic, Atlantic
+formats: Vinyl, SP - Carrollton Pressing
 format: LP, Club, SP 
 rating: 
 released: 1985
+year: 1985
 releaseid: 4246099
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Phil Collins
 
 - Catalog #: A1 81240, 7A1-81240
 - Label: Atlantic, Atlantic
+- Formats: Vinyl, SP - Carrollton Pressing
 - Format: LP, Club, SP 
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 4246099
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: AFL1-4917
 title: Touch
 artist: Eurythmics
 label: RCA, RCA Victor
+formats: Vinyl, Indianapolis Pressing
 format: LP, Album, Ind
 rating: 
 released: 1984
+year: 1983
 releaseid: 1014022
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Eurythmics
 
 - Catalog #: AFL1-4917
 - Label: RCA, RCA Victor
+- Formats: Vinyl, Indianapolis Pressing
 - Format: LP, Album, Ind
 - Rating: 
 - Released: 1984
+- Year: 1983
 - Release ID: 1014022
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

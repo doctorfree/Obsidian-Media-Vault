@@ -3,9 +3,11 @@ catalog: NU 9350
 title: The Greatest Hits Of Frankie Valli & The Four Seasons
 artist: The Four Seasons
 label: K-Tel
+formats: Vinyl, Terre Haute Pressing
 format: 2xLP, Comp, Ter
 rating: 
 released: 1977
+year: 1976
 releaseid: 3929409
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Four Seasons
 
 - Catalog #: NU 9350
 - Label: K-Tel
+- Formats: Vinyl, Terre Haute Pressing
 - Format: 2xLP, Comp, Ter
 - Rating: 
 - Released: 1977
+- Year: 1976
 - Release ID: 3929409
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

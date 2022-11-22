@@ -3,9 +3,11 @@ catalog: FRM-2133
 title: "A Wizard, A True Star"
 artist: Todd Rundgren
 label: Friday Music
+formats: Vinyl, 180g
 format: 2xLP, Album, Ltd, RE, RM, 180
 rating: 5
 released: 2014
+year: 1973
 releaseid: 5836469
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Todd Rundgren
 
 - Catalog #: FRM-2133
 - Label: Friday Music
+- Formats: Vinyl, 180g
 - Format: 2xLP, Album, Ltd, RE, RM, 180
 - Rating: 5
 - Released: 2014
+- Year: 1973
 - Release ID: 5836469
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

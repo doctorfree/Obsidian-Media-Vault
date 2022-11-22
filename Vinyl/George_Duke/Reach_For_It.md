@@ -3,9 +3,11 @@ catalog: JE 34883
 title: Reach For It
 artist: George Duke
 label: Epic
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1977
+year: 1977
 releaseid: 50494
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By George Duke
 
 - Catalog #: JE 34883
 - Label: Epic
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 50494
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: BS 2567, 2567
 title: Killer
 artist: Alice Cooper
 label: Warner Bros. Records, Warner Bros. Records
+formats: Vinyl, Gatefold ,Terre Haute Pressing
 format: LP, Album, Gat
 rating: 
 released: 1971
+year: 1971
 releaseid: 9664749
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Alice Cooper
 
 - Catalog #: BS 2567, 2567
 - Label: Warner Bros. Records, Warner Bros. Records
+- Formats: Vinyl, Gatefold ,Terre Haute Pressing
 - Format: LP, Album, Gat
 - Rating: 
 - Released: 1971
+- Year: 1971
 - Release ID: 9664749
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

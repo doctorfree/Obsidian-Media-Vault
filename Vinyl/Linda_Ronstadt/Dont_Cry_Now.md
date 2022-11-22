@@ -3,9 +3,11 @@ catalog: SD 5064
 title: Don't Cry Now
 artist: Linda Ronstadt
 label: Asylum Records
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, Ter
 rating: 
 released: 1973
+year: 1973
 releaseid: 4378502
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Linda Ronstadt
 
 - Catalog #: SD 5064
 - Label: Asylum Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 4378502
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Near Mint (NM or M-)

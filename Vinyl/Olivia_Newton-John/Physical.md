@@ -3,9 +3,11 @@ catalog: MCA-51182
 title: Physical
 artist: Olivia Newton-John
 label: MCA Records
+formats: Vinyl, Pinckneyville Pressing
 format: 7", Single, Pin
 rating: 
 released: 1981
+year: 1981
 releaseid: 4507882
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Olivia Newton-John
 
 - Catalog #: MCA-51182
 - Label: MCA Records
+- Formats: Vinyl, Pinckneyville Pressing
 - Format: 7", Single, Pin
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 4507882
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

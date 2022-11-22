@@ -3,9 +3,11 @@ catalog: DS 50020
 title: Let's Live For Today
 artist: The Grass Roots
 label: Dunhill
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1967
+year: 1967
 releaseid: 2198501
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Grass Roots
 
 - Catalog #: DS 50020
 - Label: Dunhill
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 2198501
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

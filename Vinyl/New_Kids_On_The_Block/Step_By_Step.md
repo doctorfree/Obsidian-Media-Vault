@@ -3,9 +3,11 @@ catalog: 38-73343
 title: Step By Step
 artist: New Kids On The Block
 label: Columbia
+formats: Vinyl, Carrollton Pressing
 format: 7", Single, Styrene, Car
 rating: 
 released: 1990
+year: 1990
 releaseid: 2775885
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By New Kids On The Block
 
 - Catalog #: 38-73343
 - Label: Columbia
+- Formats: Vinyl, Carrollton Pressing
 - Format: 7", Single, Styrene, Car
 - Rating: 
 - Released: 1990
+- Year: 1990
 - Release ID: 2775885
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

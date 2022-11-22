@@ -3,9 +3,11 @@ catalog: CBS 9055
 title: Mine Mine Mind / Bloody Hammer
 artist: Roky Erickson And The Aliens
 label: CBS
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1980
+year: 1980
 releaseid: 1218033
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Roky Erickson And The Aliens
 
 - Catalog #: CBS 9055
 - Label: CBS
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 1218033
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

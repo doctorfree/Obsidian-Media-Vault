@@ -3,9 +3,11 @@ catalog: 3-10637
 title: Draw The Line
 artist: Aerosmith
 label: Columbia
+formats: Vinyl, Santa Maria Pressing
 format: 7", Single, Styrene, San
 rating: 
 released: 1977
+year: 1977
 releaseid: 3825592
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Aerosmith
 
 - Catalog #: 3-10637
 - Label: Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: 7", Single, Styrene, San
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 3825592
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

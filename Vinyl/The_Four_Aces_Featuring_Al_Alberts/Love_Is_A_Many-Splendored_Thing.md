@@ -3,9 +3,11 @@ catalog: 9-29625
 title: Love Is A Many-Splendored Thing
 artist: The Four Aces Featuring Al Alberts
 label: Decca
+formats: Vinyl, Gloversville Pressing
 format: 7", Single, Glo
 rating: 
 released: 1955
+year: 1955
 releaseid: 7810961
 mediacondition: Near Mint (NM or M-)
 sleevecondition: 
@@ -25,9 +27,11 @@ By The Four Aces Featuring Al Alberts
 
 - Catalog #: 9-29625
 - Label: Decca
+- Formats: Vinyl, Gloversville Pressing
 - Format: 7", Single, Glo
 - Rating: 
 - Released: 1955
+- Year: 1955
 - Release ID: 7810961
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: 

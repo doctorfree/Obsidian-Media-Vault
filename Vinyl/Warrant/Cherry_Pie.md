@@ -3,9 +3,11 @@ catalog: 38-73510
 title: Cherry Pie
 artist: Warrant
 label: Columbia
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1990
+year: 1990
 releaseid: 2635820
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Warrant
 
 - Catalog #: 38-73510
 - Label: Columbia
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1990
+- Year: 1990
 - Release ID: 2635820
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: SD 7308
 title: AWB
 artist: Average White Band
 label: Atlantic
+formats: Vinyl, MO
 format: LP, Album, MO
 rating: 
 released: 1974
+year: 1974
 releaseid: 455128
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Average White Band
 
 - Catalog #: SD 7308
 - Label: Atlantic
+- Formats: Vinyl, MO
 - Format: LP, Album, MO
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 455128
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

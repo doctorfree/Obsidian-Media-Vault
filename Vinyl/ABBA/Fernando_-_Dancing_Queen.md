@@ -3,9 +3,11 @@ catalog: OS-13203
 title: Fernando / Dancing Queen
 artist: ABBA
 label: Atlantic
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1979
+year: 1979
 releaseid: 3721496
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By ABBA
 
 - Catalog #: OS-13203
 - Label: Atlantic
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 3721496
 - Media condition: Very Good (VG)
 - Sleeve condition: 

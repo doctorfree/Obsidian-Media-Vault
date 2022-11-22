@@ -3,9 +3,11 @@ catalog: FRM-9308, 88691928841
 title: Midnight Ride
 artist: Paul Revere & The Raiders
 label: Friday Music, Columbia, Sony Music Commercial Music Group
+formats: Vinyl, Translucent Blue
 format: LP, Album, Ltd, RE, RM, Tra
 rating: 
 released: 2016
+year: 1966
 releaseid: 8927595
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Paul Revere & The Raiders
 
 - Catalog #: FRM-9308, 88691928841
 - Label: Friday Music, Columbia, Sony Music Commercial Music Group
+- Formats: Vinyl, Translucent Blue
 - Format: LP, Album, Ltd, RE, RM, Tra
 - Rating: 
 - Released: 2016
+- Year: 1966
 - Release ID: 8927595
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

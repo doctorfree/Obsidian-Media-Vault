@@ -3,9 +3,11 @@ catalog: 88875195551
 title: "Woodstock (Saturday, August 16, 1969)"
 artist: Santana
 label: Columbia, Legacy
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2017
+year: 2017
 releaseid: 10168661
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Santana
 
 - Catalog #: 88875195551
 - Label: Columbia, Legacy
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10168661
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

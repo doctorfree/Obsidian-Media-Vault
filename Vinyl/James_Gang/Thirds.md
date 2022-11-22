@@ -3,9 +3,11 @@ catalog: ABCX-721
 title: Thirds
 artist: James Gang
 label: ABC Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1971
+year: 1971
 releaseid: 1989262
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By James Gang
 
 - Catalog #: ABCX-721
 - Label: ABC Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1971
+- Year: 1971
 - Release ID: 1989262
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Near Mint (NM or M-)

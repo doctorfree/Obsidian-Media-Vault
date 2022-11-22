@@ -3,9 +3,11 @@ catalog: PC 34262
 title: Moving Targets
 artist: Flo & Eddie
 label: Columbia
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1976
+year: 1976
 releaseid: 823637
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Flo & Eddie
 
 - Catalog #: PC 34262
 - Label: Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 823637
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: CRB-10573
 title: You Can't Fly Like An Eagle
 artist: Johnny Lee
 label: Curb Records
+formats: Vinyl
 format: 7"
 rating: 
 released: 1989
+year: 1989
 releaseid: 3717036
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Johnny Lee
 
 - Catalog #: CRB-10573
 - Label: Curb Records
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1989
+- Year: 1989
 - Release ID: 3717036
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

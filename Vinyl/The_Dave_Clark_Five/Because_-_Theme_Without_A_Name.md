@@ -3,9 +3,11 @@ catalog: 5-9704
 title: Because / Theme Without A Name
 artist: The Dave Clark Five
 label: Epic
+formats: Vinyl, Terre Haute Pressing
 format: 7", Single, Styrene, Ter
 rating: 
 released: 1964
+year: 1964
 releaseid: 3068311
 mediacondition: Good Plus (G+)
 sleevecondition: No Cover
@@ -27,9 +29,11 @@ By The Dave Clark Five
 
 - Catalog #: 5-9704
 - Label: Epic
+- Formats: Vinyl, Terre Haute Pressing
 - Format: 7", Single, Styrene, Ter
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 3068311
 - Media condition: Good Plus (G+)
 - Sleeve condition: No Cover

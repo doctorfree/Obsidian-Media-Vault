@@ -3,9 +3,11 @@ catalog: OC 40964, C 40964
 title: Introducing The Hardline According To Terence Trent D'Arby
 artist: Terence Trent D'Arby
 label: Columbia, Columbia
+formats: Vinyl, Carrolton Pressing
 format: LP, Album, Car
 rating: 
 released: 1987
+year: 1987
 releaseid: 3348540
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Terence Trent D'Arby
 
 - Catalog #: OC 40964, C 40964
 - Label: Columbia, Columbia
+- Formats: Vinyl, Carrolton Pressing
 - Format: LP, Album, Car
 - Rating: 
 - Released: 1987
+- Year: 1987
 - Release ID: 3348540
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

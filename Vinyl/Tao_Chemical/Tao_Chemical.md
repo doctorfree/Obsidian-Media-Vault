@@ -3,9 +3,11 @@ catalog: TAO 001
 title: Tao Chemical
 artist: Tao Chemical
 label: Tao Vinyl
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1982
+year: null
 releaseid: 2311973
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Tao Chemical
 
 - Catalog #: TAO 001
 - Label: Tao Vinyl
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1982
+- Year: null
 - Release ID: 2311973
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

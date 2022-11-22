@@ -3,9 +3,11 @@ catalog: ROC-3390
 title: Live From California 1967-1968
 artist: The Electric Flag
 label: RockBeat Records
+formats: Vinyl
 format: 2xLP, Album
 rating: 
 released: 2017
+year: 2017
 releaseid: 10176903
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -25,9 +27,11 @@ By The Electric Flag
 
 - Catalog #: ROC-3390
 - Label: RockBeat Records
+- Formats: Vinyl
 - Format: 2xLP, Album
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10176903
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

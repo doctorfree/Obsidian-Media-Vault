@@ -3,9 +3,11 @@ catalog: BMGCATLP5
 title: Trilogy
 artist: "Emerson, Lake & Palmer"
 label: BMG, Manticore
+formats: Vinyl, Gatefold
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2016
+year: 1972
 releaseid: 9193754
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By "Emerson, Lake & Palmer"
 
 - Catalog #: BMGCATLP5
 - Label: BMG, Manticore
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2016
+- Year: 1972
 - Release ID: 9193754
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

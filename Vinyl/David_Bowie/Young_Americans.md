@@ -3,9 +3,11 @@ catalog: DB 74764, DB 74765, 0190295990343
 title: Young Americans
 artist: David Bowie
 label: Parlophone, Parlophone, Parlophone
+formats: Vinyl, 180g
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2017
+year: 1975
 releaseid: 9646470
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By David Bowie
 
 - Catalog #: DB 74764, DB 74765, 0190295990343
 - Label: Parlophone, Parlophone, Parlophone
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2017
+- Year: 1975
 - Release ID: 9646470
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

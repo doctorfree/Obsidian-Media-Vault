@@ -3,9 +3,11 @@ catalog: ROUGH 109, Pitch-A-Tent 02
 title: Camper Van Beethoven
 artist: Camper Van Beethoven
 label: Rough Trade, Pitch-A-Tent
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1986
+year: 1986
 releaseid: 1680832
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Camper Van Beethoven
 
 - Catalog #: ROUGH 109, Pitch-A-Tent 02
 - Label: Rough Trade, Pitch-A-Tent
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1986
+- Year: 1986
 - Release ID: 1680832
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

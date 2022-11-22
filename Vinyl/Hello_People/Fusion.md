@@ -3,9 +3,11 @@ catalog: PHS 600-276
 title: Fusion
 artist: Hello People
 label: Philips
+formats: Vinyl, Terre Haute
 format: LP, Album, Ter
 rating: 
 released: 1968
+year: 1968
 releaseid: 3037337
 mediacondition: Good Plus (G+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Hello People
 
 - Catalog #: PHS 600-276
 - Label: Philips
+- Formats: Vinyl, Terre Haute
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 3037337
 - Media condition: Good Plus (G+)
 - Sleeve condition: Good Plus (G+)

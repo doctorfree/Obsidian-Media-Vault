@@ -3,9 +3,11 @@ catalog: KC 32730
 title: The Tale Of The Giant Rat Of Sumatra
 artist: The Firesign Theatre
 label: Columbia
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1974
+year: 1974
 releaseid: 7075176
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Firesign Theatre
 
 - Catalog #: KC 32730
 - Label: Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 7075176
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

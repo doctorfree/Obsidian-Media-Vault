@@ -3,9 +3,11 @@ catalog: 0600753548448, 535 484-4
 title: Wheels Of Fire
 artist: Cream
 label: Polydor, Polydor
+formats: Vinyl, 180 Gram, MPO
 format: 2xLP, Album, RE, 180
 rating: 
 released: 2015
+year: 1968
 releaseid: 7102933
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Cream
 
 - Catalog #: 0600753548448, 535 484-4
 - Label: Polydor, Polydor
+- Formats: Vinyl, 180 Gram, MPO
 - Format: 2xLP, Album, RE, 180
 - Rating: 
 - Released: 2015
+- Year: 1968
 - Release ID: 7102933
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

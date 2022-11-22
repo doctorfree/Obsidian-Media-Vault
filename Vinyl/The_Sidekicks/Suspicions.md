@@ -3,9 +3,11 @@ catalog: 47-8864
 title: Suspicions
 artist: The Sidekicks
 label: RCA Victor
+formats: Vinyl, Rockaway Pressing
 format: 7", Single, Roc
 rating: 
 released: 1966
+year: 1966
 releaseid: 2671740
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Sidekicks
 
 - Catalog #: 47-8864
 - Label: RCA Victor
+- Formats: Vinyl, Rockaway Pressing
 - Format: 7", Single, Roc
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 2671740
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

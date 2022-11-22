@@ -3,9 +3,11 @@ catalog: ST 12228
 title: Spring Session M
 artist: Missing Persons
 label: Capitol Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1982
+year: 1982
 releaseid: 4907670
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Missing Persons
 
 - Catalog #: ST 12228
 - Label: Capitol Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 4907670
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

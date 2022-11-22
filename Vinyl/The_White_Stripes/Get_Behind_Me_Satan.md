@@ -3,9 +3,11 @@ catalog: TMR-300
 title: Get Behind Me Satan
 artist: The White Stripes
 label: Third Man Records
+formats: Vinyl, 180g
 format: 2xLP, Album, RE, 180
 rating: 
 released: 2016
+year: 2005
 releaseid: 9397902
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The White Stripes
 
 - Catalog #: TMR-300
 - Label: Third Man Records
+- Formats: Vinyl, 180g
 - Format: 2xLP, Album, RE, 180
 - Rating: 
 - Released: 2016
+- Year: 2005
 - Release ID: 9397902
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: 6E-129
 title: A Pig In A Poke
 artist: Hargus Robbins
 label: Elektra
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1978
+year: 1978
 releaseid: 3297255
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Hargus Robbins
 
 - Catalog #: 6E-129
 - Label: Elektra
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 3297255
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

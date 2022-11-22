@@ -3,9 +3,11 @@ catalog: L-10002, L-1002
 title: "Leslie Plus 2 Integrated Sound System: A Whole New World Of ""Multi-Planar"" Sound!"
 artist: Unknown Artist
 label: Leslie, Leslie
+formats: Vinyl
 format: 7"
 rating: 
 released: 0
+year: null
 releaseid: 5455966
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Unknown Artist
 
 - Catalog #: L-10002, L-1002
 - Label: Leslie, Leslie
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 0
+- Year: null
 - Release ID: 5455966
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

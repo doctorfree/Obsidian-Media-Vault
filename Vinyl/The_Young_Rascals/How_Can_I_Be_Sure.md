@@ -3,9 +3,11 @@ catalog: 45-2438
 title: How Can I Be Sure
 artist: The Young Rascals
 label: Atlantic
+formats: Vinyl, SP - Specialty Pressing
 format: 7", Single, SP 
 rating: 
 released: 1967
+year: 1967
 releaseid: 1332403
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Young Rascals
 
 - Catalog #: 45-2438
 - Label: Atlantic
+- Formats: Vinyl, SP - Specialty Pressing
 - Format: 7", Single, SP 
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 1332403
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

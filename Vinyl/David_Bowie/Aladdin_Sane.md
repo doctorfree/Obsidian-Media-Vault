@@ -3,9 +3,11 @@ catalog: DB69735, 0825646289431, DBXL1
 title: Aladdin Sane
 artist: David Bowie
 label: Parlophone, Parlophone, Parlophone
+formats: Vinyl, Gatefold, 180g
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2016
+year: 1973
 releaseid: 8164325
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By David Bowie
 
 - Catalog #: DB69735, 0825646289431, DBXL1
 - Label: Parlophone, Parlophone, Parlophone
+- Formats: Vinyl, Gatefold, 180g
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2016
+- Year: 1973
 - Release ID: 8164325
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

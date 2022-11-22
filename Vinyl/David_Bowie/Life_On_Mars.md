@@ -3,9 +3,11 @@ catalog: DBMARS 40
 title: Life On Mars?
 artist: David Bowie
 label: EMI
+formats: Vinyl
 format: 7", Single, Ltd, Pic, RM
 rating: 
 released: 2013
+year: 1973
 releaseid: 4672755
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By David Bowie
 
 - Catalog #: DBMARS 40
 - Label: EMI
+- Formats: Vinyl
 - Format: 7", Single, Ltd, Pic, RM
 - Rating: 
 - Released: 2013
+- Year: 1973
 - Release ID: 4672755
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

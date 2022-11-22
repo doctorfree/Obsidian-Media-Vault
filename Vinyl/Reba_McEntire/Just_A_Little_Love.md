@@ -3,9 +3,11 @@ catalog: MCA-52349
 title: Just A Little Love
 artist: Reba McEntire
 label: MCA Records
+formats: Vinyl, Pinckneyville Pressing
 format: 7", Single, Pin
 rating: 
 released: 1984
+year: 1984
 releaseid: 3353111
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Reba McEntire
 
 - Catalog #: MCA-52349
 - Label: MCA Records
+- Formats: Vinyl, Pinckneyville Pressing
 - Format: 7", Single, Pin
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 3353111
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

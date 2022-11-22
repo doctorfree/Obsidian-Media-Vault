@@ -3,9 +3,11 @@ catalog: 0306
 title: You Really Got Me
 artist: The Kinks
 label: Reprise Records
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1964
+year: 1964
 releaseid: 6804559
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Kinks
 
 - Catalog #: 0306
 - Label: Reprise Records
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 6804559
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

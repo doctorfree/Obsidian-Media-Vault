@@ -3,9 +3,11 @@ catalog: SP-4411, SP 4411
 title: The Ozark Mountain Daredevils
 artist: The Ozark Mountain Daredevils
 label: A&M Records, A&M Records
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, Ter
 rating: 5
 released: 1973
+year: 1973
 releaseid: 990950
 mediacondition: Very Good (VG)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By The Ozark Mountain Daredevils
 
 - Catalog #: SP-4411, SP 4411
 - Label: A&M Records, A&M Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, Ter
 - Rating: 5
 - Released: 1973
+- Year: 1973
 - Release ID: 990950
 - Media condition: Very Good (VG)
 - Sleeve condition: Good (G)

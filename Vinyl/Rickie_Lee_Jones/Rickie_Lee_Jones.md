@@ -3,9 +3,11 @@ catalog: MFSL 2-45010
 title: Rickie Lee Jones
 artist: Rickie Lee Jones
 label: Mobile Fidelity Sound Lab
+formats: Vinyl, 180g
 format: 2xLP, Album, RE, RM, 180 + Box, Ltd, Num
 rating: 5
 released: 2013
+year: 1979
 releaseid: 5274718
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Rickie Lee Jones
 
 - Catalog #: MFSL 2-45010
 - Label: Mobile Fidelity Sound Lab
+- Formats: Vinyl, 180g
 - Format: 2xLP, Album, RE, RM, 180 + Box, Ltd, Num
 - Rating: 5
 - Released: 2013
+- Year: 1979
 - Release ID: 5274718
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

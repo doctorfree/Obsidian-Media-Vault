@@ -3,9 +3,11 @@ catalog: SD 33-224, SD33-224
 title: Vanilla Fudge
 artist: Vanilla Fudge
 label: ATCO Records, ATCO Records
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, Ter
 rating: 
 released: 1967
+year: 1967
 releaseid: 589912
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Vanilla Fudge
 
 - Catalog #: SD 33-224, SD33-224
 - Label: ATCO Records, ATCO Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 589912
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

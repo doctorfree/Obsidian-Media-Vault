@@ -3,9 +3,11 @@ catalog: 560179-1
 title: Relaxer
 artist: Alt-J
 label: Atlantic, Canvasback, Infectious Music
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2017
+year: 2017
 releaseid: 10382177
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Alt-J
 
 - Catalog #: 560179-1
 - Label: Atlantic, Canvasback, Infectious Music
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10382177
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

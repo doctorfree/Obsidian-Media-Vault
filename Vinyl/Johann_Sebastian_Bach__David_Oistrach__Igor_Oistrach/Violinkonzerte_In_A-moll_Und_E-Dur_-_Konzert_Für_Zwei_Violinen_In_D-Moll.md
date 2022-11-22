@@ -3,9 +3,11 @@ catalog: 138 820 SLPM, 00289 479 5117
 title: Violinkonzerte In A-moll Und E-Dur / Konzert Für Zwei Violinen In D-Moll
 artist: "Johann Sebastian Bach, David Oistrach, Igor Oistrach"
 label: Deutsche Grammophon, Deutsche Grammophon
+formats: Vinyl, 180 g
 format: LP, Album, RM, 180
 rating: 
 released: 2015
+year: 1962
 releaseid: 8326476
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -25,9 +27,11 @@ By "Johann Sebastian Bach, David Oistrach, Igor Oistrach"
 
 - Catalog #: 138 820 SLPM, 00289 479 5117
 - Label: Deutsche Grammophon, Deutsche Grammophon
+- Formats: Vinyl, 180 g
 - Format: LP, Album, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1962
 - Release ID: 8326476
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

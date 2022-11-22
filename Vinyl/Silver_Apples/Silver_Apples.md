@@ -3,9 +3,11 @@ catalog: KS-3562
 title: Silver Apples
 artist: Silver Apples
 label: Kapp Records
+formats: Vinyl, Pinckneyville Pressing
 format: LP, Album, Pin
 rating: 5
 released: 1968
+year: 1968
 releaseid: 906717
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Silver Apples
 
 - Catalog #: KS-3562
 - Label: Kapp Records
+- Formats: Vinyl, Pinckneyville Pressing
 - Format: LP, Album, Pin
 - Rating: 5
 - Released: 1968
+- Year: 1968
 - Release ID: 906717
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

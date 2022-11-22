@@ -3,9 +3,11 @@ catalog: MCA-65010
 title: The Unicorn / (The Puppet Song) Whiskey On A Sunday
 artist: The Irish Rovers
 label: MCA Records
+formats: Vinyl, Gloversville Pressing
 format: 7", RE, Glo
 rating: 
 released: 1984
+year: 1973
 releaseid: 2232932
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Irish Rovers
 
 - Catalog #: MCA-65010
 - Label: MCA Records
+- Formats: Vinyl, Gloversville Pressing
 - Format: 7", RE, Glo
 - Rating: 
 - Released: 1984
+- Year: 1973
 - Release ID: 2232932
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: FRM-9720
 title: "Blood, Sweat And Tears"
 artist: "Blood, Sweat And Tears"
 label: Friday Music
+formats: Vinyl, Gatefold
 format: LP, Ltd, RE, RM, Gat
 rating: 
 released: 2015
+year: 1968
 releaseid: 6960242
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By "Blood, Sweat And Tears"
 
 - Catalog #: FRM-9720
 - Label: Friday Music
+- Formats: Vinyl, Gatefold
 - Format: LP, Ltd, RE, RM, Gat
 - Rating: 
 - Released: 2015
+- Year: 1968
 - Release ID: 6960242
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

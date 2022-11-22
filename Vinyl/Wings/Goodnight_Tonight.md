@@ -3,9 +3,11 @@ catalog: 23-10940
 title: Goodnight Tonight
 artist: Wings
 label: Columbia, MPL
+formats: Vinyl
 format: 12", Single
 rating: 
 released: 1979
+year: 1979
 releaseid: 795978
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Wings
 
 - Catalog #: 23-10940
 - Label: Columbia, MPL
+- Formats: Vinyl
 - Format: 12", Single
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 795978
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

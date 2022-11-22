@@ -3,9 +3,11 @@ catalog: 70001
 title: Invitation To The World / Ain't Nothing New Under The Sun
 artist: Jimmy Briscoe And The Beavers
 label: Wanderick
+formats: Vinyl
 format: 7"
 rating: 
 released: 1977
+year: 1977
 releaseid: 2483286
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Jimmy Briscoe And The Beavers
 
 - Catalog #: 70001
 - Label: Wanderick
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 2483286
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

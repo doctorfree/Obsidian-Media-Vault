@@ -3,9 +3,11 @@ catalog: 88985-36264-1
 title: WALLS
 artist: Kings Of Leon
 label: RCA
+formats: Vinyl, Blue Marble, 180 Gram
 format: LP, Album, Blu
 rating: 
 released: 2016
+year: 2016
 releaseid: 9187068
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Kings Of Leon
 
 - Catalog #: 88985-36264-1
 - Label: RCA
+- Formats: Vinyl, Blue Marble, 180 Gram
 - Format: LP, Album, Blu
 - Rating: 
 - Released: 2016
+- Year: 2016
 - Release ID: 9187068
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

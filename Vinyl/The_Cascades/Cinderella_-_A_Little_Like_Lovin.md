@@ -3,9 +3,11 @@ catalog: 47-8206
 title: Cinderella / A Little Like Lovin'
 artist: The Cascades
 label: RCA Victor
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1963
+year: 1963
 releaseid: 5163192
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Cascades
 
 - Catalog #: 47-8206
 - Label: RCA Victor
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1963
+- Year: 1963
 - Release ID: 5163192
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

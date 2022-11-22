@@ -3,9 +3,11 @@ catalog: 0600753570968
 title: Some Time In New York City
 artist: John Lennon & Yoko Ono / The Plastic Ono Band With Elephants Memory And Invisible Strings
 label: Apple Records
+formats: Vinyl, 180 Gram
 format: 2xLP, Album, RE, 180
 rating: 
 released: 2015
+year: 1972
 releaseid: 7481319
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By John Lennon & Yoko Ono / The Plastic Ono Band With Elephants Memory And Invis
 
 - Catalog #: 0600753570968
 - Label: Apple Records
+- Formats: Vinyl, 180 Gram
 - Format: 2xLP, Album, RE, 180
 - Rating: 
 - Released: 2015
+- Year: 1972
 - Release ID: 7481319
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: B0020476-01
 title: Superunknown
 artist: Soundgarden
 label: A&M Records
+formats: Vinyl, 200 Gram
 format: 2xLP, Album, RE, RM, 200
 rating: 
 released: 2014
+year: 1994
 releaseid: 5783331
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Soundgarden
 
 - Catalog #: B0020476-01
 - Label: A&M Records
+- Formats: Vinyl, 200 Gram
 - Format: 2xLP, Album, RE, RM, 200
 - Rating: 
 - Released: 2014
+- Year: 1994
 - Release ID: 5783331
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

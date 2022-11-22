@@ -3,9 +3,11 @@ catalog: XW142
 title: Itchy Twitchy Feeling / Psycho
 artist: Bobby Hendricks
 label: United Artists Records
+formats: Vinyl
 format: 7", Single, RE
 rating: 
 released: 0
+year: null
 releaseid: 7485198
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bobby Hendricks
 
 - Catalog #: XW142
 - Label: United Artists Records
+- Formats: Vinyl
 - Format: 7", Single, RE
 - Rating: 
 - Released: 0
+- Year: null
 - Release ID: 7485198
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

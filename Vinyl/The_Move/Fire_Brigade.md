@@ -3,9 +3,11 @@ catalog: MFP 5276
 title: Fire Brigade
 artist: The Move
 label: Music For Pleasure
+formats: Vinyl
 format: LP, Comp
 rating: 
 released: 1972
+year: 1972
 releaseid: 5519540
 mediacondition: Good (G)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By The Move
 
 - Catalog #: MFP 5276
 - Label: Music For Pleasure
+- Formats: Vinyl
 - Format: LP, Comp
 - Rating: 
 - Released: 1972
+- Year: 1972
 - Release ID: 5519540
 - Media condition: Good (G)
 - Sleeve condition: Fair (F)

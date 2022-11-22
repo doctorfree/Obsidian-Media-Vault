@@ -3,9 +3,11 @@ catalog: 5099963380910
 title: The Beatles
 artist: The Beatles
 label: Apple Records, Parlophone, Capitol Records
+formats: Box Set, 180 Gram
 format: Box, Comp, Mono, Ltd, RE, RM, 180 + LP, Album, Mon
 rating: 5
 released: 2012
+year: 2009
 releaseid: 4030692
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: 5099963380910
 - Label: Apple Records, Parlophone, Capitol Records
+- Formats: Box Set, 180 Gram
 - Format: Box, Comp, Mono, Ltd, RE, RM, 180 + LP, Album, Mon
 - Rating: 5
 - Released: 2012
+- Year: 2009
 - Release ID: 4030692
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

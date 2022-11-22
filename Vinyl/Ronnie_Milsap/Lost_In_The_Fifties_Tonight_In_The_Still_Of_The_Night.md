@@ -3,9 +3,11 @@ catalog: PB-14135
 title: Lost In The Fifties Tonight (In The Still Of The Night)
 artist: Ronnie Milsap
 label: RCA
+formats: Vinyl, Indianapolis
 format: 7", Styrene, Ind
 rating: 
 released: 1985
+year: 1985
 releaseid: 3102213
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Ronnie Milsap
 
 - Catalog #: PB-14135
 - Label: RCA
+- Formats: Vinyl, Indianapolis
 - Format: 7", Styrene, Ind
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 3102213
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

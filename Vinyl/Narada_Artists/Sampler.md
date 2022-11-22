@@ -3,9 +3,11 @@ catalog: S-17254
 title: Sampler
 artist: Narada Artists
 label: Narada
+formats: Vinyl, Rainbo Pressing
 format: 7", Promo, Smplr, Rai
 rating: 
 released: 1986
+year: 1986
 releaseid: 3410567
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Narada Artists
 
 - Catalog #: S-17254
 - Label: Narada
+- Formats: Vinyl, Rainbo Pressing
 - Format: 7", Promo, Smplr, Rai
 - Rating: 
 - Released: 1986
+- Year: 1986
 - Release ID: 3410567
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

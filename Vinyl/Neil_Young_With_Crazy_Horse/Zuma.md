@@ -3,9 +3,11 @@ catalog: 2242-1
 title: Zuma
 artist: Neil Young With Crazy Horse
 label: Reprise Records
+formats: Vinyl
 format: LP, Album, RE, RM
 rating: 
 released: 2015
+year: 1975
 releaseid: 9023229
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -25,9 +27,11 @@ By Neil Young With Crazy Horse
 
 - Catalog #: 2242-1
 - Label: Reprise Records
+- Formats: Vinyl
 - Format: LP, Album, RE, RM
 - Rating: 
 - Released: 2015
+- Year: 1975
 - Release ID: 9023229
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

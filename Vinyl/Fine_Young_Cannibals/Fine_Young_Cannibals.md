@@ -3,9 +3,11 @@ catalog: IRS-5683
 title: Fine Young Cannibals
 artist: Fine Young Cannibals
 label: I.R.S. Records
+formats: Vinyl, Pinckneyville, Pressing
 format: LP, Album, Pin
 rating: 
 released: 1985
+year: 1985
 releaseid: 181669
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Fine Young Cannibals
 
 - Catalog #: IRS-5683
 - Label: I.R.S. Records
+- Formats: Vinyl, Pinckneyville, Pressing
 - Format: LP, Album, Pin
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 181669
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

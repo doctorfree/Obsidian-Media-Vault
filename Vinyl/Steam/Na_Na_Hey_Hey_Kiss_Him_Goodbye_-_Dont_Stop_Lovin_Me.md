@@ -3,9 +3,11 @@ catalog: C-30160
 title: Na Na Hey Hey Kiss Him Goodbye / Don't Stop Lovin' Me
 artist: Steam
 label: Mercury
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 0
+year: 1969
 releaseid: 5015419
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Steam
 
 - Catalog #: C-30160
 - Label: Mercury
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 0
+- Year: 1969
 - Release ID: 5015419
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

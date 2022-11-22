@@ -3,9 +3,11 @@ catalog: T700, T-700
 title: This Lusty Land!
 artist: Tennessee Ernie Ford
 label: Capitol Records, Capitol Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1955
+year: 1955
 releaseid: 4498509
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Tennessee Ernie Ford
 
 - Catalog #: T700, T-700
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1955
+- Year: 1955
 - Release ID: 4498509
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

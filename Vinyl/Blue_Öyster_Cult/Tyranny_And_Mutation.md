@@ -3,9 +3,11 @@ catalog: KC 32017
 title: Tyranny And Mutation
 artist: Blue Öyster Cult
 label: Columbia, Speakers Corner Records
+formats: Vinyl, 180 gr
 format: LP, Album, RE, 180
 rating: 
 released: 2016
+year: 1973
 releaseid: 9169785
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Blue Öyster Cult
 
 - Catalog #: KC 32017
 - Label: Columbia, Speakers Corner Records
+- Formats: Vinyl, 180 gr
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2016
+- Year: 1973
 - Release ID: 9169785
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

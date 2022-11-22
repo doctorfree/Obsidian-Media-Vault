@@ -3,9 +3,11 @@ catalog: UA-XW929-Y
 title: Lucille / Till I Get It Right
 artist: Kenny Rogers
 label: United Artists Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1976
+year: 1976
 releaseid: 1320399
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Kenny Rogers
 
 - Catalog #: UA-XW929-Y
 - Label: United Artists Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 1320399
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

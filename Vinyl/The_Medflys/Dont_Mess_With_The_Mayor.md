@@ -3,9 +3,11 @@ catalog: WCRMF 1
 title: Don't Mess With The Mayor
 artist: The Medflys
 label: Westcoast Recording
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1986
+year: null
 releaseid: 8771578
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Medflys
 
 - Catalog #: WCRMF 1
 - Label: Westcoast Recording
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1986
+- Year: null
 - Release ID: 8771578
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: JXS-7036
 title: Lines
 artist: Charlie
 label: Janus Records
+formats: Vinyl
 format: LP, Album, Promo
 rating: 
 released: 1978
+year: 1978
 releaseid: 9697446
 mediacondition: Very Good (VG)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By Charlie
 
 - Catalog #: JXS-7036
 - Label: Janus Records
+- Formats: Vinyl
 - Format: LP, Album, Promo
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 9697446
 - Media condition: Very Good (VG)
 - Sleeve condition: Good (G)

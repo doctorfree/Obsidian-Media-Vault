@@ -3,9 +3,11 @@ catalog: DSX 50063
 title: Easy Rider (Music From The Soundtrack)
 artist: Various
 label: ABC/Dunhill Records
+formats: Vinyl, Santa Maria Pressing
 format: LP, Comp, San
 rating: 
 released: 1969
+year: 1969
 releaseid: 6169141
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: DSX 50063
 - Label: ABC/Dunhill Records
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Comp, San
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 6169141
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

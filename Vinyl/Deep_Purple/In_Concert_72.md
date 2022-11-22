@@ -3,9 +3,11 @@ catalog: R1-556690, R7-556690
 title: In Concert '72
 artist: Deep Purple
 label: Warner Bros. Records, Warner Bros. Records
+formats: Vinyl, 180g
 format: 2xLP, Album, RE, 180 + 7", Single, RE
 rating: 
 released: 2016
+year: 1986
 releaseid: 9114005
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Deep Purple
 
 - Catalog #: R1-556690, R7-556690
 - Label: Warner Bros. Records, Warner Bros. Records
+- Formats: Vinyl, 180g
 - Format: 2xLP, Album, RE, 180 + 7", Single, RE
 - Rating: 
 - Released: 2016
+- Year: 1986
 - Release ID: 9114005
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

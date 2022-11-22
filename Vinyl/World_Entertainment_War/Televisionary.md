@@ -3,9 +3,11 @@ catalog: none
 title: Televisionary
 artist: World Entertainment War
 label: Infomania Records
+formats: Vinyl
 format: LP
 rating: 
 released: 1989
+year: null
 releaseid: 3844654
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -25,9 +27,11 @@ By World Entertainment War
 
 - Catalog #: none
 - Label: Infomania Records
+- Formats: Vinyl
 - Format: LP
 - Rating: 
 - Released: 1989
+- Year: null
 - Release ID: 3844654
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

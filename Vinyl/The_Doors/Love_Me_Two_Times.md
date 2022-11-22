@@ -3,9 +3,11 @@ catalog: EK-45624
 title: Love Me Two Times
 artist: The Doors
 label: Elektra
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1967
+year: 1967
 releaseid: 4411429
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: EK-45624
 - Label: Elektra
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 4411429
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

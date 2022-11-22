@@ -3,9 +3,11 @@ catalog: SP1200
 title: Pure Comedy
 artist: Father John Misty
 label: Sub Pop
+formats: Vinyl, Aluminum
 format: LP, Alu + LP, Cop + Album, Dlx
 rating: 
 released: 2017
+year: 2017
 releaseid: 10059497
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Father John Misty
 
 - Catalog #: SP1200
 - Label: Sub Pop
+- Formats: Vinyl, Aluminum
 - Format: LP, Alu + LP, Cop + Album, Dlx
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10059497
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

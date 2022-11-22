@@ -3,9 +3,11 @@ catalog: RS 6344
 title: Sir John Alot Of Merrie Englandes Musyk Thyng & Ye Grene Knyghte
 artist: John Renbourn
 label: Reprise Records
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 1975
+year: 1968
 releaseid: 1244190
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By John Renbourn
 
 - Catalog #: RS 6344
 - Label: Reprise Records
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 1975
+- Year: 1968
 - Release ID: 1244190
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

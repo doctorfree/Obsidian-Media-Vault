@@ -3,9 +3,11 @@ catalog: DS-50055
 title: "Bubble Gum, Lemonade &... Something For Mama"
 artist: Cass Elliot
 label: Dunhill, ABC Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1969
+year: 1969
 releaseid: 6546940
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Cass Elliot
 
 - Catalog #: DS-50055
 - Label: Dunhill, ABC Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 6546940
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

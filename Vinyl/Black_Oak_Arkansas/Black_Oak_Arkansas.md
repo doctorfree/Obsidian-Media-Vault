@@ -3,9 +3,11 @@ catalog: MOVLP1408
 title: Black Oak Arkansas
 artist: Black Oak Arkansas
 label: Music On Vinyl
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2015
+year: 1971
 releaseid: 7092381
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Black Oak Arkansas
 
 - Catalog #: MOVLP1408
 - Label: Music On Vinyl
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2015
+- Year: 1971
 - Release ID: 7092381
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

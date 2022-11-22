@@ -3,9 +3,11 @@ catalog: OVLP-113
 title: New Roman Times
 artist: Camper Van Beethoven
 label: Omnivore Recordings
+formats: Vinyl
 format: 2xLP, Album, RE, RM
 rating: 
 released: 2015
+year: 2004
 releaseid: 6735361
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Camper Van Beethoven
 
 - Catalog #: OVLP-113
 - Label: Omnivore Recordings
+- Formats: Vinyl
 - Format: 2xLP, Album, RE, RM
 - Rating: 
 - Released: 2015
+- Year: 2004
 - Release ID: 6735361
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

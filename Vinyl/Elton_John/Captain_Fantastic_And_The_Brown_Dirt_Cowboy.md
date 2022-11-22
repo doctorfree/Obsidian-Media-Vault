@@ -3,9 +3,11 @@ catalog: 5707090
 title: Captain Fantastic And The Brown Dirt Cowboy
 artist: Elton John
 label: Mercury
+formats: Vinyl, Gatefold
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2017
+year: 1975
 releaseid: 10151110
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Elton John
 
 - Catalog #: 5707090
 - Label: Mercury
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2017
+- Year: 1975
 - Release ID: 10151110
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

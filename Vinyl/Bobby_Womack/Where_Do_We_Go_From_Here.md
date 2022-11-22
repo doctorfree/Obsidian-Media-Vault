@@ -3,9 +3,11 @@ catalog: BG2001
 title: Where Do We Go From Here
 artist: Bobby Womack
 label: Beverly Glen Music
+formats: Vinyl
 format: 7", Styrene
 rating: 
 released: 1981
+year: 1981
 releaseid: 2269858
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Bobby Womack
 
 - Catalog #: BG2001
 - Label: Beverly Glen Music
+- Formats: Vinyl
 - Format: 7", Styrene
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 2269858
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

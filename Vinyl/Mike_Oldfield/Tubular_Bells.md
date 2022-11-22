@@ -3,9 +3,11 @@ catalog: VR 13-105
 title: Tubular Bells
 artist: Mike Oldfield
 label: Virgin
+formats: Vinyl, RI
 format: LP, Album, RI
 rating: 
 released: 1973
+year: 1973
 releaseid: 3020834
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Mike Oldfield
 
 - Catalog #: VR 13-105
 - Label: Virgin
+- Formats: Vinyl, RI
 - Format: LP, Album, RI
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 3020834
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

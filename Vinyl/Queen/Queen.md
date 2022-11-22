@@ -3,9 +3,11 @@ catalog: D000436301
 title: Queen
 artist: Queen
 label: Hollywood Records
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, S/Edition, 180
 rating: 
 released: 2009
+year: 1973
 releaseid: 2326309
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Queen
 
 - Catalog #: D000436301
 - Label: Hollywood Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, S/Edition, 180
 - Rating: 
 - Released: 2009
+- Year: 1973
 - Release ID: 2326309
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

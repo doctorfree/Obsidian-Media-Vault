@@ -3,9 +3,11 @@ catalog: 1-11175
 title: September Morn / I'm A Believer
 artist: Neil Diamond
 label: Columbia
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1979
+year: 1980
 releaseid: 1325133
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Neil Diamond
 
 - Catalog #: 1-11175
 - Label: Columbia
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1979
+- Year: 1980
 - Release ID: 1325133
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

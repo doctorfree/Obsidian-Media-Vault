@@ -3,9 +3,11 @@ catalog: 517786-1
 title: Rumours
 artist: Fleetwood Mac
 label: Reprise Records
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2011
+year: 1977
 releaseid: 2832092
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Fleetwood Mac
 
 - Catalog #: 517786-1
 - Label: Reprise Records
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2011
+- Year: 1977
 - Release ID: 2832092
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

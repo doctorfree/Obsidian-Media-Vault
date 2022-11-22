@@ -3,9 +3,11 @@ catalog: UA-LA184-J2
 title: Stars And Stripes Forever
 artist: Nitty Gritty Dirt Band
 label: United Artists Records
+formats: Vinyl, Gatefold
 format: 2xLP, Album, Gat
 rating: 
 released: 1974
+year: 1974
 releaseid: 6807817
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Nitty Gritty Dirt Band
 
 - Catalog #: UA-LA184-J2
 - Label: United Artists Records
+- Formats: Vinyl, Gatefold
 - Format: 2xLP, Album, Gat
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 6807817
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

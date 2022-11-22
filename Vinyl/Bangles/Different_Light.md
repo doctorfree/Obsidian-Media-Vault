@@ -3,9 +3,11 @@ catalog: C 40039, FC 40039
 title: Different Light
 artist: Bangles
 label: Columbia, Columbia
+formats: Vinyl, Carrolton Pressing
 format: LP, Album, Car
 rating: 
 released: 1986
+year: 1985
 releaseid: 8590023
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bangles
 
 - Catalog #: C 40039, FC 40039
 - Label: Columbia, Columbia
+- Formats: Vinyl, Carrolton Pressing
 - Format: LP, Album, Car
 - Rating: 
 - Released: 1986
+- Year: 1985
 - Release ID: 8590023
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

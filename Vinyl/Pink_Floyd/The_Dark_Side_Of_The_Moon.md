@@ -3,9 +3,11 @@ catalog: MFSL 1-017
 title: The Dark Side Of The Moon
 artist: Pink Floyd
 label: Mobile Fidelity Sound Lab, Harvest
+formats: Vinyl
 format: LP, Album, Ltd, RE, RM
 rating: 5
 released: 1979
+year: 1973
 releaseid: 416621
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Pink Floyd
 
 - Catalog #: MFSL 1-017
 - Label: Mobile Fidelity Sound Lab, Harvest
+- Formats: Vinyl
 - Format: LP, Album, Ltd, RE, RM
 - Rating: 5
 - Released: 1979
+- Year: 1973
 - Release ID: 416621
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

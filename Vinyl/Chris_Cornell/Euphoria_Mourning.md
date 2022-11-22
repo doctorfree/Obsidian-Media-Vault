@@ -3,9 +3,11 @@ catalog: B0023457-01
 title: Euphoria Mourning
 artist: Chris Cornell
 label: A&M Records, Universal Music Enterprises
+formats: Vinyl, 180g
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2015
+year: 1999
 releaseid: 7351770
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Chris Cornell
 
 - Catalog #: B0023457-01
 - Label: A&M Records, Universal Music Enterprises
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1999
 - Release ID: 7351770
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

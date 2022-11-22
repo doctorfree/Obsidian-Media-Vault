@@ -3,9 +3,11 @@ catalog: APL1-1816
 title: Are You Ready For The Country
 artist: Waylon Jennings
 label: RCA Victor
+formats: Vinyl, Gatefold
 format: LP, Album, Gat
 rating: 
 released: 1976
+year: 1976
 releaseid: 4795214
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Waylon Jennings
 
 - Catalog #: APL1-1816
 - Label: RCA Victor
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, Gat
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 4795214
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: R1-536180
 title: Led Zeppelin II
 artist: Led Zeppelin
 label: Atlantic
+formats: Vinyl
 format: LP, Album, RE, RM + LP + Dlx, 180
 rating: 
 released: 2014
+year: 1969
 releaseid: 5780606
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Led Zeppelin
 
 - Catalog #: R1-536180
 - Label: Atlantic
+- Formats: Vinyl
 - Format: LP, Album, RE, RM + LP + Dlx, 180
 - Rating: 
 - Released: 2014
+- Year: 1969
 - Release ID: 5780606
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

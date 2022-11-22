@@ -3,9 +3,11 @@ catalog: 0694932901
 title: The Eminem Show
 artist: Eminem
 label: Aftermath Entertainment
+formats: Vinyl
 format: 2xLP, Album, RE
 rating: 
 released: 2014
+year: 2002
 releaseid: 7282012
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Eminem
 
 - Catalog #: 0694932901
 - Label: Aftermath Entertainment
+- Formats: Vinyl
 - Format: 2xLP, Album, RE
 - Rating: 
 - Released: 2014
+- Year: 2002
 - Release ID: 7282012
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

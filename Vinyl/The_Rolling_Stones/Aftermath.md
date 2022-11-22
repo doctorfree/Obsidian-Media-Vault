@@ -3,9 +3,11 @@ catalog: PS 476
 title: Aftermath
 artist: The Rolling Stones
 label: London Records
+formats: Vinyl, Monarch
 format: LP, Album, Mon
 rating: 
 released: 1966
+year: 1966
 releaseid: 765072
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: PS 476
 - Label: London Records
+- Formats: Vinyl, Monarch
 - Format: LP, Album, Mon
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 765072
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Fair (F)

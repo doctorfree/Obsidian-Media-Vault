@@ -3,9 +3,11 @@ catalog: FRM-4058
 title: Crown Of Creation
 artist: Jefferson Airplane
 label: RCA Victor, Sony Music Commercial Music Group, Friday Music
+formats: Vinyl, Clear Orange, HQ-180
 format: LP, Album, RE, RM, Cle
 rating: 5
 released: 2016
+year: 1968
 releaseid: 9691600
 mediacondition: 
 sleevecondition: 
@@ -27,9 +29,11 @@ By Jefferson Airplane
 
 - Catalog #: FRM-4058
 - Label: RCA Victor, Sony Music Commercial Music Group, Friday Music
+- Formats: Vinyl, Clear Orange, HQ-180
 - Format: LP, Album, RE, RM, Cle
 - Rating: 5
 - Released: 2016
+- Year: 1968
 - Release ID: 9691600
 - Media condition: 
 - Sleeve condition: 

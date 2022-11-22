@@ -3,9 +3,11 @@ catalog: SD 3-100
 title: Yessongs
 artist: Yes
 label: Atlantic
+formats: Vinyl, PR, Presswell Pressing
 format: 3xLP, Album, PR,
 rating: 
 released: 1973
+year: 1973
 releaseid: 785287
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Yes
 
 - Catalog #: SD 3-100
 - Label: Atlantic
+- Formats: Vinyl, PR, Presswell Pressing
 - Format: 3xLP, Album, PR,
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 785287
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

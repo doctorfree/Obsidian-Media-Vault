@@ -3,9 +3,11 @@ catalog: 9 25157-1, 1-25157
 title: Like A Virgin
 artist: Madonna
 label: Sire, Sire
+formats: Vinyl, RCA Music Service
 format: LP, Album, Club, RCA
 rating: 
 released: 1984
+year: 1984
 releaseid: 8626357
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Madonna
 
 - Catalog #: 9 25157-1, 1-25157
 - Label: Sire, Sire
+- Formats: Vinyl, RCA Music Service
 - Format: LP, Album, Club, RCA
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 8626357
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

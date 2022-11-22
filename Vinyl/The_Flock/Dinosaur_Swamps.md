@@ -3,9 +3,11 @@ catalog: C 30007
 title: Dinosaur Swamps
 artist: The Flock
 label: Columbia
+formats: Vinyl, Gatefold
 format: LP, Album, Gat
 rating: 
 released: 1970
+year: 1970
 releaseid: 1149540
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Flock
 
 - Catalog #: C 30007
 - Label: Columbia
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, Gat
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 1149540
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

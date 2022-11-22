@@ -3,9 +3,11 @@ catalog: FC 36258
 title: Wet
 artist: Barbra Streisand
 label: Columbia
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, Ter
 rating: 
 released: 1979
+year: 1979
 releaseid: 1696734
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Barbra Streisand
 
 - Catalog #: FC 36258
 - Label: Columbia
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 1696734
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

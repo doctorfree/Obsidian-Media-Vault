@@ -3,9 +3,11 @@ catalog: F3260
 title: Love And Marriage / The Impatient Years
 artist: Frank Sinatra
 label: Capitol Records
+formats: Vinyl, Scranton Pressing
 format: 7", Single, Scr
 rating: 
 released: 1955
+year: 1955
 releaseid: 1486027
 mediacondition: Near Mint (NM or M-)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Frank Sinatra
 
 - Catalog #: F3260
 - Label: Capitol Records
+- Formats: Vinyl, Scranton Pressing
 - Format: 7", Single, Scr
 - Rating: 
 - Released: 1955
+- Year: 1955
 - Release ID: 1486027
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: 

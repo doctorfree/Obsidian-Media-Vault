@@ -3,9 +3,11 @@ catalog: KSCOPE813
 title: Recordings
 artist: Porcupine Tree
 label: Kscope
+formats: Vinyl, Gatefold
 format: 2xLP, Album, RE, Gat
 rating: 
 released: 2011
+year: 2001
 releaseid: 2723945
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Porcupine Tree
 
 - Catalog #: KSCOPE813
 - Label: Kscope
+- Formats: Vinyl, Gatefold
 - Format: 2xLP, Album, RE, Gat
 - Rating: 
 - Released: 2011
+- Year: 2001
 - Release ID: 2723945
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

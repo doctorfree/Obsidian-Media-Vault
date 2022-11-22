@@ -3,9 +3,11 @@ catalog: DEMREC23
 title: Todd
 artist: Todd Rundgren
 label: Bearsville, Demon Records
+formats: Vinyl, Orange, 180 gram
 format: 2xLP, Album, RE, Ora
 rating: 
 released: 2014
+year: 1974
 releaseid: 7066139
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Todd Rundgren
 
 - Catalog #: DEMREC23
 - Label: Bearsville, Demon Records
+- Formats: Vinyl, Orange, 180 gram
 - Format: 2xLP, Album, RE, Ora
 - Rating: 
 - Released: 2014
+- Year: 1974
 - Release ID: 7066139
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

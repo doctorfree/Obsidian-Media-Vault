@@ -3,9 +3,11 @@ catalog: 1-25669, 9 25669-1
 title: Brian Wilson
 artist: Brian Wilson
 label: Sire, Sire, Reprise Records, Reprise Records
+formats: Vinyl, Specialty Press
 format: LP, Album, Spe
 rating: 
 released: 1988
+year: 1988
 releaseid: 1479832
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Brian Wilson
 
 - Catalog #: 1-25669, 9 25669-1
 - Label: Sire, Sire, Reprise Records, Reprise Records
+- Formats: Vinyl, Specialty Press
 - Format: LP, Album, Spe
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 1479832
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

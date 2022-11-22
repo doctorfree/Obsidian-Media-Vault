@@ -3,9 +3,11 @@ catalog: 72435-21241-1-4
 title: Pet Sounds
 artist: The Beach Boys
 label: Capitol Records
+formats: Vinyl, 180 Gram
 format: LP, Album, Ltd, RE, RM, 180
 rating: 
 released: 1999
+year: 1966
 releaseid: 481737
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Beach Boys
 
 - Catalog #: 72435-21241-1-4
 - Label: Capitol Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, Ltd, RE, RM, 180
 - Rating: 
 - Released: 1999
+- Year: 1966
 - Release ID: 481737
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

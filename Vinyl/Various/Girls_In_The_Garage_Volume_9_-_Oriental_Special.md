@@ -3,9 +3,11 @@ catalog: PAPRLP1009
 title: Girls In The Garage Volume 9 - Oriental Special
 artist: Various
 label: Past & Present Records
+formats: Vinyl, Orange
 format: LP, Comp, Ltd, Num, RE, Ora
 rating: 
 released: 2017
+year: 0
 releaseid: 10168773
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: PAPRLP1009
 - Label: Past & Present Records
+- Formats: Vinyl, Orange
 - Format: LP, Comp, Ltd, Num, RE, Ora
 - Rating: 
 - Released: 2017
+- Year: 0
 - Release ID: 10168773
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

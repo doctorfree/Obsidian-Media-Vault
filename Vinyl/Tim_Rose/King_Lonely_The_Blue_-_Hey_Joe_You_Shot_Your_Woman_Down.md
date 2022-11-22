@@ -3,9 +3,11 @@ catalog: 4-43648
 title: King Lonely The Blue / Hey Joe (You Shot Your Woman Down)
 artist: Tim Rose
 label: Columbia
+formats: Vinyl
 format: 7", Styrene
 rating: 
 released: 1966
+year: 1966
 releaseid: 2176149
 mediacondition: Good Plus (G+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Tim Rose
 
 - Catalog #: 4-43648
 - Label: Columbia
+- Formats: Vinyl
 - Format: 7", Styrene
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 2176149
 - Media condition: Good Plus (G+)
 - Sleeve condition: Generic

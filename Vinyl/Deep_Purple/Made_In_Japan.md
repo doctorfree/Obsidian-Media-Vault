@@ -3,9 +3,11 @@ catalog: FRM 2701
 title: Made In Japan
 artist: Deep Purple
 label: Friday Music
+formats: Vinyl, 180 Gram, Gatefold
 format: 2xLP, Album, Ltd, RE, RM, 180
 rating: 
 released: 2010
+year: 1972
 releaseid: 2552828
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Deep Purple
 
 - Catalog #: FRM 2701
 - Label: Friday Music
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: 2xLP, Album, Ltd, RE, RM, 180
 - Rating: 
 - Released: 2010
+- Year: 1972
 - Release ID: 2552828
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

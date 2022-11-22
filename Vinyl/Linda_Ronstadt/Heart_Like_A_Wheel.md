@@ -3,9 +3,11 @@ catalog: CLP-7049, 09463-67852-1-9
 title: Heart Like A Wheel
 artist: Linda Ronstadt
 label: Cisco Music, EMI Music Special Markets, Capitol Records
+formats: Vinyl, 180 Gram
 format: LP, Album, Ltd, Num, RE, RM, 180
 rating: 
 released: 2006
+year: 1974
 releaseid: 3077309
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Linda Ronstadt
 
 - Catalog #: CLP-7049, 09463-67852-1-9
 - Label: Cisco Music, EMI Music Special Markets, Capitol Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, Ltd, Num, RE, RM, 180
 - Rating: 
 - Released: 2006
+- Year: 1974
 - Release ID: 3077309
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: P1004
 title: Rang-A-Tang / Big Red Brain
 artist: The Method Actors
 label: Press
+formats: Vinyl
 format: 7"
 rating: 
 released: 1982
+year: null
 releaseid: 2274400
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -25,9 +27,11 @@ By The Method Actors
 
 - Catalog #: P1004
 - Label: Press
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1982
+- Year: null
 - Release ID: 2274400
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

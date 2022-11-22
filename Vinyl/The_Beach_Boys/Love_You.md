@@ -3,9 +3,11 @@ catalog: B0021130-01
 title: Love You
 artist: The Beach Boys
 label: Capitol Records
+formats: Vinyl, 180 gram
 format: LP, Album, 180
 rating: 
 released: 2014
+year: 1977
 releaseid: 6617498
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By The Beach Boys
 
 - Catalog #: B0021130-01
 - Label: Capitol Records
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, 180
 - Rating: 
 - Released: 2014
+- Year: 1977
 - Release ID: 6617498
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

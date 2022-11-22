@@ -3,9 +3,11 @@ catalog: FRM 1877
 title: In Rock
 artist: Deep Purple
 label: Friday Music
+formats: Vinyl, Gatefold
 format: LP, Album, Ltd, RE, RM, Gat
 rating: 
 released: 2011
+year: 1970
 releaseid: 2946228
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Deep Purple
 
 - Catalog #: FRM 1877
 - Label: Friday Music
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, Ltd, RE, RM, Gat
 - Rating: 
 - Released: 2011
+- Year: 1970
 - Release ID: 2946228
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

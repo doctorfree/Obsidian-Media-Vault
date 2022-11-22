@@ -3,9 +3,11 @@ catalog: 9-29037
 title: Little Things Mean A Lot
 artist: Kitty Kallen
 label: Decca
+formats: Vinyl, Richmond Pressing
 format: 7", Single, Ric
 rating: 
 released: 1954
+year: 1954
 releaseid: 3495088
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Kitty Kallen
 
 - Catalog #: 9-29037
 - Label: Decca
+- Formats: Vinyl, Richmond Pressing
 - Format: 7", Single, Ric
 - Rating: 
 - Released: 1954
+- Year: 1954
 - Release ID: 3495088
 - Media condition: Very Good (VG)
 - Sleeve condition: 

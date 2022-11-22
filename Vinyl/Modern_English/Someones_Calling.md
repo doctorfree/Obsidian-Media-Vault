@@ -3,9 +3,11 @@ catalog: 7-29598
 title: Someone's Calling
 artist: Modern English
 label: Sire
+formats: Vinyl
 format: 7"
 rating: 
 released: 1983
+year: 1983
 releaseid: 6145401
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Modern English
 
 - Catalog #: 7-29598
 - Label: Sire
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1983
+- Year: 1983
 - Release ID: 6145401
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

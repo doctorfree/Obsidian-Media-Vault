@@ -3,9 +3,11 @@ catalog: VJLP 1062, SR 1062
 title: Introducing... The Beatles
 artist: The Beatles
 label: Vee Jay Records (2), Vee Jay Records (2)
+formats: Vinyl
 format: LP, Album, Unofficial
 rating: 
 released: 0
+year: 1963
 releaseid: 2407511
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: VJLP 1062, SR 1062
 - Label: Vee Jay Records (2), Vee Jay Records (2)
+- Formats: Vinyl
 - Format: LP, Album, Unofficial
 - Rating: 
 - Released: 0
+- Year: 1963
 - Release ID: 2407511
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Fair (F)

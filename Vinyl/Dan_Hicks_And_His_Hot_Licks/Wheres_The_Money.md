@@ -3,9 +3,11 @@ catalog: BTS 29
 title: Where's The Money?
 artist: Dan Hicks And His Hot Licks
 label: Blue Thumb Records
+formats: Vinyl, Terre Haute
 format: LP, Album, RE, Ter
 rating: 
 released: 1974
+year: 1971
 releaseid: 8014242
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Dan Hicks And His Hot Licks
 
 - Catalog #: BTS 29
 - Label: Blue Thumb Records
+- Formats: Vinyl, Terre Haute
 - Format: LP, Album, RE, Ter
 - Rating: 
 - Released: 1974
+- Year: 1971
 - Release ID: 8014242
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

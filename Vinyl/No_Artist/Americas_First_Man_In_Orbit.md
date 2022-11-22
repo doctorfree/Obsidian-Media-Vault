@@ -3,9 +3,11 @@ catalog: SP 27
 title: America's First Man In Orbit
 artist: No Artist
 label: Nelson Doubleday, Inc.
+formats: Vinyl, Compatible Stereo
 format: 7", Com
 rating: 
 released: 0
+year: 0
 releaseid: 1095339
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By No Artist
 
 - Catalog #: SP 27
 - Label: Nelson Doubleday, Inc.
+- Formats: Vinyl, Compatible Stereo
 - Format: 7", Com
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 1095339
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

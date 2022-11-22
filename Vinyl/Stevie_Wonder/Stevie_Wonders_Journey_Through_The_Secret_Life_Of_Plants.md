@@ -3,9 +3,11 @@ catalog: T13-371C2
 title: Stevie Wonder's Journey Through The Secret Life Of Plants
 artist: Stevie Wonder
 label: Tamla
+formats: Vinyl, Tri-Fold
 format: 2xLP, Album, Tri
 rating: 
 released: 1979
+year: 1979
 releaseid: 3458476
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Stevie Wonder
 
 - Catalog #: T13-371C2
 - Label: Tamla
+- Formats: Vinyl, Tri-Fold
 - Format: 2xLP, Album, Tri
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 3458476
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

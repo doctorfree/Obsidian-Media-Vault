@@ -3,9 +3,11 @@ catalog: ST-12271
 title: The Golden Age Of Wireless
 artist: Thomas Dolby
 label: Capitol Records
+formats: Vinyl, Jacksonville, All T. Kerr Credits
 format: LP, Album, RE, Jac
 rating: 
 released: 1983
+year: 1982
 releaseid: 124983
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Thomas Dolby
 
 - Catalog #: ST-12271
 - Label: Capitol Records
+- Formats: Vinyl, Jacksonville, All T. Kerr Credits
 - Format: LP, Album, RE, Jac
 - Rating: 
 - Released: 1983
+- Year: 1982
 - Release ID: 124983
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

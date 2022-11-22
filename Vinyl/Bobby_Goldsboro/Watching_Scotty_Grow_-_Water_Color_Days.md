@@ -3,9 +3,11 @@ catalog: SUA 50727
 title: Watching Scotty Grow / Water Color Days
 artist: Bobby Goldsboro
 label: United Artists Records
+formats: Vinyl, Allied Pressing
 format: 7", Single, Styrene, All
 rating: 
 released: 1970
+year: 1970
 releaseid: 4893720
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Bobby Goldsboro
 
 - Catalog #: SUA 50727
 - Label: United Artists Records
+- Formats: Vinyl, Allied Pressing
 - Format: 7", Single, Styrene, All
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 4893720
 - Media condition: Very Good (VG)
 - Sleeve condition: 

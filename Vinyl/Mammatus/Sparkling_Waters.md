@@ -3,9 +3,11 @@ catalog: SPIRITUAL 016
 title: Sparkling Waters
 artist: Mammatus
 label: Spiritual Pajamas
+formats: Vinyl
 format: 2xLP, Album
 rating: 
 released: 2015
+year: 2015
 releaseid: 7717882
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Mammatus
 
 - Catalog #: SPIRITUAL 016
 - Label: Spiritual Pajamas
+- Formats: Vinyl
 - Format: 2xLP, Album
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 7717882
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

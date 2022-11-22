@@ -3,9 +3,11 @@ catalog: 0190295865511
 title: Misplaced Childhood
 artist: Marillion
 label: Parlophone
+formats: Vinyl
 format: LP, Album, RE, RM + 3xLP + Box, Dlx, Ltd
 rating: 
 released: 2017
+year: 1985
 releaseid: 10584862
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Marillion
 
 - Catalog #: 0190295865511
 - Label: Parlophone
+- Formats: Vinyl
 - Format: LP, Album, RE, RM + 3xLP + Box, Dlx, Ltd
 - Rating: 
 - Released: 2017
+- Year: 1985
 - Release ID: 10584862
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

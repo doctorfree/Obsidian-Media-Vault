@@ -3,9 +3,11 @@ catalog: MFSL 1-340
 title: Trust
 artist: Elvis Costello & The Attractions
 label: Mobile Fidelity Sound Lab
+formats: Vinyl
 format: LP, Album, Ltd, Num, RE, RM
 rating: 
 released: 2015
+year: 1981
 releaseid: 7543415
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Elvis Costello & The Attractions
 
 - Catalog #: MFSL 1-340
 - Label: Mobile Fidelity Sound Lab
+- Formats: Vinyl
 - Format: LP, Album, Ltd, Num, RE, RM
 - Rating: 
 - Released: 2015
+- Year: 1981
 - Release ID: 7543415
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

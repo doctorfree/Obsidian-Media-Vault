@@ -3,9 +3,11 @@ catalog: W 2803
 title: Alice Cooper's Greatest Hits
 artist: Alice Cooper
 label: Warner Bros. Records
+formats: Vinyl
 format: LP, Comp
 rating: 
 released: 1974
+year: 1974
 releaseid: 2567456
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Alice Cooper
 
 - Catalog #: W 2803
 - Label: Warner Bros. Records
+- Formats: Vinyl
 - Format: LP, Comp
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 2567456
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

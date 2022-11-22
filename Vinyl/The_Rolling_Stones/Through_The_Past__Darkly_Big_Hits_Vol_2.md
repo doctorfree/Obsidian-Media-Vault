@@ -3,9 +3,11 @@ catalog: NPS-3
 title: "Through The Past, Darkly (Big Hits Vol. 2)"
 artist: The Rolling Stones
 label: London Records
+formats: Vinyl, Octagon Gatefold, Pitman Pressing
 format: LP, Comp, Oct
 rating: 
 released: 1969
+year: 1969
 releaseid: 936330
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: NPS-3
 - Label: London Records
+- Formats: Vinyl, Octagon Gatefold, Pitman Pressing
 - Format: LP, Comp, Oct
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 936330
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

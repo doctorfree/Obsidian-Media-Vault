@@ -3,9 +3,11 @@ catalog: AM-25000, 25000-S
 title: "De Do Do Do, De Da Da Da (In Japanese)"
 artist: The Police
 label: A&M Records, A&M Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1981
+year: 1980
 releaseid: 4371521
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Police
 
 - Catalog #: AM-25000, 25000-S
 - Label: A&M Records, A&M Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1981
+- Year: 1980
 - Release ID: 4371521
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

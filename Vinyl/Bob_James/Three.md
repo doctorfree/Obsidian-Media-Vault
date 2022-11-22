@@ -3,9 +3,11 @@ catalog: CTI 6063
 title: Three
 artist: Bob James
 label: CTI Records
+formats: Vinyl, Pitman Pressing, Gatefold
 format: LP, Album, Pit
 rating: 
 released: 1976
+year: 1976
 releaseid: 1392252
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bob James
 
 - Catalog #: CTI 6063
 - Label: CTI Records
+- Formats: Vinyl, Pitman Pressing, Gatefold
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 1392252
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

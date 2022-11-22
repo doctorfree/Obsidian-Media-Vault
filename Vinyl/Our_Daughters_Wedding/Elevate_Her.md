@@ -3,9 +3,11 @@ catalog: P-B-8128
 title: Elevate Her
 artist: Our Daughter's Wedding
 label: EMI America
+formats: Vinyl
 format: 7", Promo
 rating: 
 released: 1982
+year: 1982
 releaseid: 8888614
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Our Daughter's Wedding
 
 - Catalog #: P-B-8128
 - Label: EMI America
+- Formats: Vinyl
 - Format: 7", Promo
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 8888614
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

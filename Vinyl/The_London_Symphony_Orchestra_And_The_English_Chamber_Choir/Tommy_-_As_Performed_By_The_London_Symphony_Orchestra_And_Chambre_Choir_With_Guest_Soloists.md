@@ -3,9 +3,11 @@ catalog: SP 99001
 title: Tommy / As Performed By The London Symphony Orchestra And Chambre Choir With Guest Soloists
 artist: The London Symphony Orchestra And The English Chamber Choir
 label: Ode Records (2)
+formats: Vinyl, Pitman
 format: 2xLP, Album, Pit + Box
 rating: 
 released: 1972
+year: 1972
 releaseid: 1328540
 mediacondition: Good (G)
 sleevecondition: Fair (F)
@@ -25,9 +27,11 @@ By The London Symphony Orchestra And The English Chamber Choir
 
 - Catalog #: SP 99001
 - Label: Ode Records (2)
+- Formats: Vinyl, Pitman
 - Format: 2xLP, Album, Pit + Box
 - Rating: 
 - Released: 1972
+- Year: 1972
 - Release ID: 1328540
 - Media condition: Good (G)
 - Sleeve condition: Fair (F)

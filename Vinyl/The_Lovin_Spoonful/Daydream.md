@@ -3,9 +3,11 @@ catalog: LP 5508
 title: Daydream
 artist: The Lovin' Spoonful
 label: Sundazed Music
+formats: Vinyl
 format: LP, Album, Mono
 rating: 
 released: 2015
+year: 1966
 releaseid: 7152886
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Lovin' Spoonful
 
 - Catalog #: LP 5508
 - Label: Sundazed Music
+- Formats: Vinyl
 - Format: LP, Album, Mono
 - Rating: 
 - Released: 2015
+- Year: 1966
 - Release ID: 7152886
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

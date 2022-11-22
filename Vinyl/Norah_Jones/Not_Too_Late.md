@@ -3,9 +3,11 @@ catalog: 09463 74516 1 8
 title: Not Too Late
 artist: Norah Jones
 label: Blue Note
+formats: Vinyl, Gatefold
 format: LP, Album, Gat
 rating: 
 released: 2007
+year: 2007
 releaseid: 2132630
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Norah Jones
 
 - Catalog #: 09463 74516 1 8
 - Label: Blue Note
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, Gat
 - Rating: 
 - Released: 2007
+- Year: 2007
 - Release ID: 2132630
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

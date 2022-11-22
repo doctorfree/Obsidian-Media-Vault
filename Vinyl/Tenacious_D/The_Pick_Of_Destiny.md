@@ -6,6 +6,7 @@ label: Epic, Legacy
 format: LP, Album, RE, 180
 rating: 
 released: 2014
+year: 2006
 releaseid: 6340675
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -30,6 +31,7 @@ By Tenacious D
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2014
+- Year: 2006
 - Release ID: 6340675
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

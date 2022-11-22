@@ -3,9 +3,11 @@ catalog: 329
 title: "Go To The Mardi Gras / Everyday, Everynight"
 artist: Professor Longhair
 label: Ron (2)
+formats: Vinyl
 format: 7"
 rating: 
 released: 0
+year: 0
 releaseid: 5763603
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By Professor Longhair
 
 - Catalog #: 329
 - Label: Ron (2)
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 5763603
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Fair (F)

@@ -3,9 +3,11 @@ catalog: ORGM-2088
 title: Really Rock 'em Right - Sun Records Curated By Record Store Day Volume 4
 artist: Various
 label: Sun (9)
+formats: Vinyl
 format: LP, Comp, Ltd
 rating: 
 released: 2017
+year: null
 releaseid: 10174655
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: ORGM-2088
 - Label: Sun (9)
+- Formats: Vinyl
 - Format: LP, Comp, Ltd
 - Rating: 
 - Released: 2017
+- Year: null
 - Release ID: 10174655
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

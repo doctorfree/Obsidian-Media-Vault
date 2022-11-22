@@ -3,9 +3,11 @@ catalog: 8122796433
 title: Untitled
 artist: Led Zeppelin
 label: Atlantic
+formats: Vinyl
 format: LP, Album, RE, RM + LP, Album + Dlx, 180
 rating: 
 released: 2014
+year: 1971
 releaseid: 6224537
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Led Zeppelin
 
 - Catalog #: 8122796433
 - Label: Atlantic
+- Formats: Vinyl
 - Format: LP, Album, RE, RM + LP, Album + Dlx, 180
 - Rating: 
 - Released: 2014
+- Year: 1971
 - Release ID: 6224537
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: AS 0578
 title: I Bet You They Won't Play This Song On The Radio
 artist: Monty Python
 label: Arista
+formats: Vinyl
 format: 7"
 rating: 
 released: 1980
+year: 1980
 releaseid: 5118114
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Monty Python
 
 - Catalog #: AS 0578
 - Label: Arista
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 5118114
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

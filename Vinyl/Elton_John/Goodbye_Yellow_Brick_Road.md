@@ -3,9 +3,11 @@ catalog: 375 349-5
 title: Goodbye Yellow Brick Road
 artist: Elton John
 label: Mercury, UMe, The Rocket Record Company, Universal UMC
+formats: Vinyl, Trifold, 180 Gram
 format: 2xLP, Album, M/Print, RE, RM, Tri
 rating: 
 released: 2014
+year: 1973
 releaseid: 5532455
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Elton John
 
 - Catalog #: 375 349-5
 - Label: Mercury, UMe, The Rocket Record Company, Universal UMC
+- Formats: Vinyl, Trifold, 180 Gram
 - Format: 2xLP, Album, M/Print, RE, RM, Tri
 - Rating: 
 - Released: 2014
+- Year: 1973
 - Release ID: 5532455
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

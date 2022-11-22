@@ -3,9 +3,11 @@ catalog: KSCOPE845
 title: Stupid Dream
 artist: Porcupine Tree
 label: Kscope
+formats: Vinyl
 format: 2xLP, Album, RE, RM
 rating: 
 released: 2013
+year: 1999
 releaseid: 4822923
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Porcupine Tree
 
 - Catalog #: KSCOPE845
 - Label: Kscope
+- Formats: Vinyl
 - Format: 2xLP, Album, RE, RM
 - Rating: 
 - Released: 2013
+- Year: 1999
 - Release ID: 4822923
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

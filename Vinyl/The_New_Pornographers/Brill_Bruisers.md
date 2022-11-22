@@ -3,9 +3,11 @@ catalog: OLE-1047-1
 title: Brill Bruisers
 artist: The New Pornographers
 label: Matador
+formats: Vinyl, Gatefold
 format: LP, Album, Gat
 rating: 
 released: 2014
+year: 2014
 releaseid: 6033812
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The New Pornographers
 
 - Catalog #: OLE-1047-1
 - Label: Matador
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, Gat
 - Rating: 
 - Released: 2014
+- Year: 2014
 - Release ID: 6033812
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

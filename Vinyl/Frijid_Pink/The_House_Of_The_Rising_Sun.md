@@ -3,9 +3,11 @@ catalog: 45-PAR-341
 title: The House Of The Rising Sun
 artist: Frijid Pink
 label: Parrot
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1970
+year: 1970
 releaseid: 1482232
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Frijid Pink
 
 - Catalog #: 45-PAR-341
 - Label: Parrot
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 1482232
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

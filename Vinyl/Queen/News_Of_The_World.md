@@ -3,9 +3,11 @@ catalog: D000436401
 title: News Of The World
 artist: Queen
 label: Hollywood Records
+formats: Vinyl, Gatefold 180
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2009
+year: 1977
 releaseid: 3757942
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Queen
 
 - Catalog #: D000436401
 - Label: Hollywood Records
+- Formats: Vinyl, Gatefold 180
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2009
+- Year: 1977
 - Release ID: 3757942
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

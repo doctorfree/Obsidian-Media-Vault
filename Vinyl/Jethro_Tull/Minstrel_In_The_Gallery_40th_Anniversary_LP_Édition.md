@@ -3,9 +3,11 @@ catalog: 0825646157198
 title: Minstrel In The Gallery (40th Anniversary LP Édition)
 artist: Jethro Tull
 label: Chrysalis
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2015
+year: 1975
 releaseid: 6977658
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Jethro Tull
 
 - Catalog #: 0825646157198
 - Label: Chrysalis
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1975
 - Release ID: 6977658
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

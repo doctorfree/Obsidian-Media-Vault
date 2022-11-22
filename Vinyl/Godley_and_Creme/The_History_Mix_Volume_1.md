@@ -3,9 +3,11 @@ catalog: 422-825 981-1 Y-1, 825 981-1 Y-1, 825 981-1
 title: The History Mix Volume 1
 artist: Godley & Creme
 label: Polydor, Polydor, Polydor
+formats: Vinyl, PRC Richmond Pressing
 format: LP, Album, PRC
 rating: 
 released: 1985
+year: 1985
 releaseid: 2378054
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Godley & Creme
 
 - Catalog #: 422-825 981-1 Y-1, 825 981-1 Y-1, 825 981-1
 - Label: Polydor, Polydor, Polydor
+- Formats: Vinyl, PRC Richmond Pressing
 - Format: LP, Album, PRC
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 2378054
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

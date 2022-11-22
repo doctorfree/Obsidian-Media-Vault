@@ -3,9 +3,11 @@ catalog: 4M200
 title: No Other
 artist: Gene Clark
 label: 4 Men With Beards
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2012
+year: 1974
 releaseid: 3601360
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Gene Clark
 
 - Catalog #: 4M200
 - Label: 4 Men With Beards
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2012
+- Year: 1974
 - Release ID: 3601360
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

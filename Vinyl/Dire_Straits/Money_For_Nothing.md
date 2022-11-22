@@ -3,9 +3,11 @@ catalog: 7-28950, 9 28950-7
 title: Money For Nothing
 artist: Dire Straits
 label: Warner Bros. Records, Warner Bros. Records
+formats: Vinyl, Specialty Pressing
 format: 7", Single, Spe
 rating: 
 released: 1985
+year: 1985
 releaseid: 860323
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Dire Straits
 
 - Catalog #: 7-28950, 9 28950-7
 - Label: Warner Bros. Records, Warner Bros. Records
+- Formats: Vinyl, Specialty Pressing
 - Format: 7", Single, Spe
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 860323
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

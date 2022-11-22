@@ -3,9 +3,11 @@ catalog: LL 3493
 title: Got Live If You Want It!
 artist: The Rolling Stones
 label: London Records
+formats: Vinyl
 format: LP, Album, Mono
 rating: 
 released: 1966
+year: 1966
 releaseid: 4450168
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: LL 3493
 - Label: London Records
+- Formats: Vinyl
 - Format: LP, Album, Mono
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 4450168
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

@@ -3,9 +3,11 @@ catalog: CL 2451
 title: Just Like Us!
 artist: Paul Revere & The Raiders
 label: Columbia
+formats: Vinyl, Pitman Pressing
 format: LP, Album, Mono, Pit
 rating: 
 released: 1966
+year: 1966
 releaseid: 2311990
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Paul Revere & The Raiders
 
 - Catalog #: CL 2451
 - Label: Columbia
+- Formats: Vinyl, Pitman Pressing
 - Format: LP, Album, Mono, Pit
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 2311990
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

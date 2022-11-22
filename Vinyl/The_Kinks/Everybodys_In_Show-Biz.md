@@ -3,9 +3,11 @@ catalog: 88875193561
 title: Everybody's In Show-Biz
 artist: The Kinks
 label: RCA Victor, Legacy, Sony Music
+formats: Vinyl
 format: 2xLP, Album, RE, RM + LP, Bon + Leg
 rating: 
 released: 2016
+year: 1972
 releaseid: 8687107
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Kinks
 
 - Catalog #: 88875193561
 - Label: RCA Victor, Legacy, Sony Music
+- Formats: Vinyl
 - Format: 2xLP, Album, RE, RM + LP, Bon + Leg
 - Rating: 
 - Released: 2016
+- Year: 1972
 - Release ID: 8687107
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

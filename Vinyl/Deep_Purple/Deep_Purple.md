@@ -3,9 +3,11 @@ catalog: SHVL 759, 0825646033959
 title: Deep Purple
 artist: Deep Purple
 label: Harvest, Harvest
+formats: Vinyl, Gatefold, 180 Gram
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2016
+year: 1969
 releaseid: 8694981
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Deep Purple
 
 - Catalog #: SHVL 759, 0825646033959
 - Label: Harvest, Harvest
+- Formats: Vinyl, Gatefold, 180 Gram
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2016
+- Year: 1969
 - Release ID: 8694981
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

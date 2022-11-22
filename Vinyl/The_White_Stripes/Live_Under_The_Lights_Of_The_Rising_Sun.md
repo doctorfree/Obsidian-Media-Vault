@@ -3,9 +3,11 @@ catalog: TMR-285
 title: Live Under The Lights Of The Rising Sun
 artist: The White Stripes
 label: Third Man Records
+formats: Vinyl, 180 Gram
 format: LP, 180 + LP, Red + Ltd
 rating: 
 released: 2014
+year: null
 releaseid: 6150884
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The White Stripes
 
 - Catalog #: TMR-285
 - Label: Third Man Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, 180 + LP, Red + Ltd
 - Rating: 
 - Released: 2014
+- Year: null
 - Release ID: 6150884
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

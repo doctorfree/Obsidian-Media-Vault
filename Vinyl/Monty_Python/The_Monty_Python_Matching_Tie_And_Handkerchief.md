@@ -3,9 +3,11 @@ catalog: AL 4039
 title: The Monty Python Matching Tie And Handkerchief
 artist: Monty Python
 label: Arista
+formats: Vinyl, B-Side Double Grooved
 format: LP, Album, B-S
 rating: 
 released: 1975
+year: 1973
 releaseid: 959003
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Monty Python
 
 - Catalog #: AL 4039
 - Label: Arista
+- Formats: Vinyl, B-Side Double Grooved
 - Format: LP, Album, B-S
 - Rating: 
 - Released: 1975
+- Year: 1973
 - Release ID: 959003
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

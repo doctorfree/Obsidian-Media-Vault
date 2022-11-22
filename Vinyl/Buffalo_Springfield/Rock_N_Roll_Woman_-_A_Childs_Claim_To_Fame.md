@@ -3,9 +3,11 @@ catalog: 45-6519
 title: Rock 'N' Roll Woman / A Child's Claim To Fame
 artist: Buffalo Springfield
 label: ATCO Records
+formats: Vinyl, Plastic Products Pressing
 format: 7", Single, Pla
 rating: 
 released: 1967
+year: 1967
 releaseid: 1527561
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Buffalo Springfield
 
 - Catalog #: 45-6519
 - Label: ATCO Records
+- Formats: Vinyl, Plastic Products Pressing
 - Format: 7", Single, Pla
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 1527561
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

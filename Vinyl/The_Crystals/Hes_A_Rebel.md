@@ -3,9 +3,11 @@ catalog: LP5409
 title: He's A Rebel
 artist: The Crystals
 label: Sundazed Music
+formats: Vinyl, 180g
 format: LP, Album, RE, 180
 rating: 
 released: 2012
+year: 1963
 releaseid: 4107795
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Crystals
 
 - Catalog #: LP5409
 - Label: Sundazed Music
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2012
+- Year: 1963
 - Release ID: 4107795
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: APP 7001
 title: Terrapin Station
 artist: The Grateful Dead
 label: Analogue Productions
+formats: Vinyl, 200 Gram
 format: LP, Album, RE, 200
 rating: 
 released: 2012
+year: 1977
 releaseid: 3414495
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Grateful Dead
 
 - Catalog #: APP 7001
 - Label: Analogue Productions
+- Formats: Vinyl, 200 Gram
 - Format: LP, Album, RE, 200
 - Rating: 
 - Released: 2012
+- Year: 1977
 - Release ID: 3414495
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: 0825646139507
 title: Thick As A Brick
 artist: Jethro Tull
 label: Chrysalis
+formats: Vinyl, 180g
 format: LP, Album, RE, 180
 rating: 
 released: 2015
+year: 1972
 releaseid: 7190621
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Jethro Tull
 
 - Catalog #: 0825646139507
 - Label: Chrysalis
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2015
+- Year: 1972
 - Release ID: 7190621
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

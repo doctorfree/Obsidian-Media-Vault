@@ -3,9 +3,11 @@ catalog: FC 7526
 title: Song And Play Time
 artist: Pete Seeger
 label: Folkways Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1960
+year: 1960
 releaseid: 1945248
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Pete Seeger
 
 - Catalog #: FC 7526
 - Label: Folkways Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1960
+- Year: 1960
 - Release ID: 1945248
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

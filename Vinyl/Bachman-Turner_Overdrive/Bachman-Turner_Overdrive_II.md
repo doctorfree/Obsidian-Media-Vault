@@ -3,9 +3,11 @@ catalog: SRM-1-696
 title: Bachman-Turner Overdrive II
 artist: Bachman-Turner Overdrive
 label: Mercury
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 0
+year: 1973
 releaseid: 9208553
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bachman-Turner Overdrive
 
 - Catalog #: SRM-1-696
 - Label: Mercury
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 0
+- Year: 1973
 - Release ID: 9208553
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

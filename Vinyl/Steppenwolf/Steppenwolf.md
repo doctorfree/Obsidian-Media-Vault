@@ -3,9 +3,11 @@ catalog: APP 50029
 title: Steppenwolf
 artist: Steppenwolf
 label: Analogue Productions
+formats: Vinyl, 200 Gram
 format: LP, Album, RM, 200
 rating: 
 released: 2013
+year: 1968
 releaseid: 4721059
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Steppenwolf
 
 - Catalog #: APP 50029
 - Label: Analogue Productions
+- Formats: Vinyl, 200 Gram
 - Format: LP, Album, RM, 200
 - Rating: 
 - Released: 2013
+- Year: 1968
 - Release ID: 4721059
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: H-356, H 356
 title: Bye Bye Blues!
 artist: Les Paul & Mary Ford
 label: Capitol Records, Capitol Records
+formats: Vinyl, Los Angeles
 format: 10", Album, Los
 rating: 
 released: 1952
+year: 1952
 releaseid: 3149005
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Les Paul & Mary Ford
 
 - Catalog #: H-356, H 356
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl, Los Angeles
 - Format: 10", Album, Los
 - Rating: 
 - Released: 1952
+- Year: 1952
 - Release ID: 3149005
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

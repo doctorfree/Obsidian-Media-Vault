@@ -3,9 +3,11 @@ catalog: 2276
 title: Hey Jude
 artist: The Beatles
 label: Apple Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1968
+year: 1968
 releaseid: 3149333
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: 2276
 - Label: Apple Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 3149333
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

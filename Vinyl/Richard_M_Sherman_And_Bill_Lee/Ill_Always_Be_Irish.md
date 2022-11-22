@@ -3,9 +3,11 @@ catalog: LG-793
 title: I'll Always Be Irish
 artist: Richard M. Sherman And Bill Lee
 label: Disneyland
+formats: Vinyl
 format: 7"
 rating: 
 released: 1967
+year: null
 releaseid: 4968510
 mediacondition: Good Plus (G+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Richard M. Sherman And Bill Lee
 
 - Catalog #: LG-793
 - Label: Disneyland
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1967
+- Year: null
 - Release ID: 4968510
 - Media condition: Good Plus (G+)
 - Sleeve condition: 

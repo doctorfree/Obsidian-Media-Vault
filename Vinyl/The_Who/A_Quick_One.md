@@ -3,9 +3,11 @@ catalog: B0022555-01
 title: A Quick One
 artist: The Who
 label: Geffen Records
+formats: Vinyl
 format: LP, Album, Mono, RE
 rating: 
 released: 2015
+year: 1966
 releaseid: 6811319
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Who
 
 - Catalog #: B0022555-01
 - Label: Geffen Records
+- Formats: Vinyl
 - Format: LP, Album, Mono, RE
 - Rating: 
 - Released: 2015
+- Year: 1966
 - Release ID: 6811319
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

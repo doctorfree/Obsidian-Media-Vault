@@ -3,9 +3,11 @@ catalog: 825646568772
 title: The 2nd Law
 artist: Muse
 label: Warner Bros. Records, Helium 3
+formats: Vinyl
 format: 2xLP, Album
 rating: 
 released: 2012
+year: 2012
 releaseid: 3925325
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Muse
 
 - Catalog #: 825646568772
 - Label: Warner Bros. Records, Helium 3
+- Formats: Vinyl
 - Format: 2xLP, Album
 - Rating: 
 - Released: 2012
+- Year: 2012
 - Release ID: 3925325
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

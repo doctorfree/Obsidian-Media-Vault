@@ -3,9 +3,11 @@ catalog: 5C 38178
 title: Never Say Never
 artist: Romeo Void
 label: Columbia, 415 Records
+formats: Vinyl
 format: 12"
 rating: 
 released: 1981
+year: 1981
 releaseid: 379831
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Romeo Void
 
 - Catalog #: 5C 38178
 - Label: Columbia, 415 Records
+- Formats: Vinyl
 - Format: 12"
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 379831
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

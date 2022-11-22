@@ -3,9 +3,11 @@ catalog: 000-1
 title: Four Cats
 artist: Four Cats
 label: Trend Pig
+formats: Vinyl
 format: 7", EP
 rating: 
 released: 1981
+year: null
 releaseid: 6883981
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Four Cats
 
 - Catalog #: 000-1
 - Label: Trend Pig
+- Formats: Vinyl
 - Format: 7", EP
 - Rating: 
 - Released: 1981
+- Year: null
 - Release ID: 6883981
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: R1-557457
 title: "P.N.E. Garden Aud., Vancouver, Canada, July 29 1966"
 artist: The Grateful Dead
 label: Rhino Records (2)
+formats: Vinyl, 180g
 format: 2xLP, Ltd, 180
 rating: 
 released: 2017
+year: null
 releaseid: 10174824
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Grateful Dead
 
 - Catalog #: R1-557457
 - Label: Rhino Records (2)
+- Formats: Vinyl, 180g
 - Format: 2xLP, Ltd, 180
 - Rating: 
 - Released: 2017
+- Year: null
 - Release ID: 10174824
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

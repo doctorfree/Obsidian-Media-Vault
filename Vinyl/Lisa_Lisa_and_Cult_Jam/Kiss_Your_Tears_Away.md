@@ -3,9 +3,11 @@ catalog: 38-69077
 title: Kiss Your Tears Away
 artist: Lisa Lisa & Cult Jam
 label: Columbia
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1989
+year: 1989
 releaseid: 6969281
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Lisa Lisa & Cult Jam
 
 - Catalog #: 38-69077
 - Label: Columbia
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1989
+- Year: 1989
 - Release ID: 6969281
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

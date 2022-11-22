@@ -3,9 +3,11 @@ catalog: B-5296
 title: Nubian Nut
 artist: George Clinton
 label: Capitol Records
+formats: Vinyl, Winchester Pressing
 format: 7", Single, Win
 rating: 
 released: 1983
+year: 1983
 releaseid: 4146523
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By George Clinton
 
 - Catalog #: B-5296
 - Label: Capitol Records
+- Formats: Vinyl, Winchester Pressing
 - Format: 7", Single, Win
 - Rating: 
 - Released: 1983
+- Year: 1983
 - Release ID: 4146523
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: DIN 24
 title: Souvenir
 artist: Orchestral Manoeuvres In The Dark
 label: Dindisc
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1981
+year: 1981
 releaseid: 55815
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Orchestral Manoeuvres In The Dark
 
 - Catalog #: DIN 24
 - Label: Dindisc
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 55815
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

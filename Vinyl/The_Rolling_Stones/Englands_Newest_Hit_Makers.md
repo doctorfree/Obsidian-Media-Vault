@@ -3,9 +3,11 @@ catalog: PS 375
 title: England's Newest Hit Makers
 artist: The Rolling Stones
 label: London Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1964
+year: 1964
 releaseid: 1906826
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: PS 375
 - Label: London Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 1906826
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

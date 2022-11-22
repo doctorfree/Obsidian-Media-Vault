@@ -3,9 +3,11 @@ catalog: 1-456060, 456060-1
 title: Consolers Of The Lonely
 artist: The Raconteurs
 label: Warner Bros. Records, Third Man Records
+formats: Vinyl, Tri-Fold Sleeve
 format: 2xLP, Album, Tri
 rating: 
 released: 2008
+year: 2008
 releaseid: 1303295
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Raconteurs
 
 - Catalog #: 1-456060, 456060-1
 - Label: Warner Bros. Records, Third Man Records
+- Formats: Vinyl, Tri-Fold Sleeve
 - Format: 2xLP, Album, Tri
 - Rating: 
 - Released: 2008
+- Year: 2008
 - Release ID: 1303295
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

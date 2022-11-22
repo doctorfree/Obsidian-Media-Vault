@@ -3,9 +3,11 @@ catalog: KSCOPE818
 title: Grace For Drowning
 artist: Steven Wilson
 label: Kscope
+formats: Vinyl
 format: 2xLP, Album, Ltd
 rating: 
 released: 2011
+year: 2011
 releaseid: 3130731
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Steven Wilson
 
 - Catalog #: KSCOPE818
 - Label: Kscope
+- Formats: Vinyl
 - Format: 2xLP, Album, Ltd
 - Rating: 
 - Released: 2011
+- Year: 2011
 - Release ID: 3130731
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

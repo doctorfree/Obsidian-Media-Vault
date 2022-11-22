@@ -3,9 +3,11 @@ catalog: CK-2041
 title: Heaven USA
 artist: Peggy Cole
 label: Checkmate (2)
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 0
+year: null
 releaseid: 9729494
 mediacondition: Fair (F)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Peggy Cole
 
 - Catalog #: CK-2041
 - Label: Checkmate (2)
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 0
+- Year: null
 - Release ID: 9729494
 - Media condition: Fair (F)
 - Sleeve condition: 

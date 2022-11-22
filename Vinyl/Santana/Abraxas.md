@@ -3,9 +3,11 @@ catalog: LP 5264, P 735218
 title: Abraxas
 artist: Santana
 label: Sundazed Music, Columbia
+formats: Vinyl, Gatefold
 format: LP, Album, RE, Gat
 rating: 
 released: 2009
+year: 1970
 releaseid: 1869557
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Santana
 
 - Catalog #: LP 5264, P 735218
 - Label: Sundazed Music, Columbia
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, RE, Gat
 - Rating: 
 - Released: 2009
+- Year: 1970
 - Release ID: 1869557
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

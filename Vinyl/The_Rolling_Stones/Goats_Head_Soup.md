@@ -3,9 +3,11 @@ catalog: COC 59101
 title: Goats Head Soup
 artist: The Rolling Stones
 label: Rolling Stones Records
+formats: Vinyl, MO - Monarch Pressing
 format: LP, Album, MO 
 rating: 
 released: 1973
+year: 1973
 releaseid: 4792196
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: COC 59101
 - Label: Rolling Stones Records
+- Formats: Vinyl, MO - Monarch Pressing
 - Format: LP, Album, MO 
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 4792196
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

@@ -3,9 +3,11 @@ catalog: 100 918, 100 918-100
 title: Making Plans For Nigel
 artist: XTC
 label: Virgin, Virgin
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1979
+year: 1979
 releaseid: 585246
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By XTC
 
 - Catalog #: 100 918, 100 918-100
 - Label: Virgin, Virgin
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 585246
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

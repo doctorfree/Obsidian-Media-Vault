@@ -3,9 +3,11 @@ catalog: XIII
 title: Alter Egos
 artist: Sean Lennon
 label: Chimera Music
+formats: Vinyl
 format: LP
 rating: 
 released: 2013
+year: 2013
 releaseid: 4202729
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Sean Lennon
 
 - Catalog #: XIII
 - Label: Chimera Music
+- Formats: Vinyl
 - Format: LP
 - Rating: 
 - Released: 2013
+- Year: 2013
 - Release ID: 4202729
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

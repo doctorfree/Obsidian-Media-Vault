@@ -3,9 +3,11 @@ catalog: TC-2386
 title: Get Down
 artist: Gene Chandler
 label: 20th Century Fox Records, Chi Sound Records
+formats: Vinyl, Terre Haute Pressing
 format: 7", Single, Styrene, Ter
 rating: 
 released: 1978
+year: 1978
 releaseid: 1770144
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Gene Chandler
 
 - Catalog #: TC-2386
 - Label: 20th Century Fox Records, Chi Sound Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: 7", Single, Styrene, Ter
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 1770144
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

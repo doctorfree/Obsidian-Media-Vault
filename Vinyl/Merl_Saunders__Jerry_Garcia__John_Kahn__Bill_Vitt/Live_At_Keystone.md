@@ -3,9 +3,11 @@ catalog: F-79002
 title: Live At Keystone
 artist: "Merl Saunders, Jerry Garcia, John Kahn, Bill Vitt"
 label: Fantasy
+formats: Vinyl, Indianapolis Pressing
 format: 2xLP, Album, Ind
 rating: 
 released: 1973
+year: 1973
 releaseid: 1511121
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By "Merl Saunders, Jerry Garcia, John Kahn, Bill Vitt"
 
 - Catalog #: F-79002
 - Label: Fantasy
+- Formats: Vinyl, Indianapolis Pressing
 - Format: 2xLP, Album, Ind
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 1511121
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

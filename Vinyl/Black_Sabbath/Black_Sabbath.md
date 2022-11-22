@@ -3,9 +3,11 @@ catalog: RR1 1871, 1871
 title: Black Sabbath
 artist: Black Sabbath
 label: Rhino Records (2), Warner Bros. Records
+formats: Vinyl, Red, Gatefold, 180g
 format: LP, Album, Ltd, RE, RM, Red
 rating: 
 released: 2016
+year: 1970
 releaseid: 8867448
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Black Sabbath
 
 - Catalog #: RR1 1871, 1871
 - Label: Rhino Records (2), Warner Bros. Records
+- Formats: Vinyl, Red, Gatefold, 180g
 - Format: LP, Album, Ltd, RE, RM, Red
 - Rating: 
 - Released: 2016
+- Year: 1970
 - Release ID: 8867448
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

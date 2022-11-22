@@ -3,9 +3,11 @@ catalog: FRM-34164, 88875081641
 title: Agents Of Fortune
 artist: Blue Öyster Cult
 label: Friday Music, Columbia
+formats: Vinyl, Blue Translucent, Gatefold
 format: LP, Album, Ltd, RE, Blu
 rating: 
 released: 2016
+year: 1976
 releaseid: 8288086
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Blue Öyster Cult
 
 - Catalog #: FRM-34164, 88875081641
 - Label: Friday Music, Columbia
+- Formats: Vinyl, Blue Translucent, Gatefold
 - Format: LP, Album, Ltd, RE, Blu
 - Rating: 
 - Released: 2016
+- Year: 1976
 - Release ID: 8288086
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

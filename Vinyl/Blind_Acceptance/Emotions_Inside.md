@@ -3,9 +3,11 @@ catalog: none
 title: Emotions Inside
 artist: Blind Acceptance
 label: Not On Label (Blind Acceptance Self-released)
+formats: Vinyl
 format: 7"
 rating: 
 released: 1985
+year: null
 releaseid: 1885288
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Blind Acceptance
 
 - Catalog #: none
 - Label: Not On Label (Blind Acceptance Self-released)
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1985
+- Year: null
 - Release ID: 1885288
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

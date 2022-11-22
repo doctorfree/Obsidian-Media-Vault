@@ -3,9 +3,11 @@ catalog: Number 30, XXX, Release No 30
 title: GOASTT Stories
 artist: The Ghost Of A Saber Tooth Tiger
 label: Chimera Music, Chimera Music, Chimera Music
+formats: Vinyl
 format: 10", EP
 rating: 
 released: 2015
+year: null
 releaseid: 7057332
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Ghost Of A Saber Tooth Tiger
 
 - Catalog #: Number 30, XXX, Release No 30
 - Label: Chimera Music, Chimera Music, Chimera Music
+- Formats: Vinyl
 - Format: 10", EP
 - Rating: 
 - Released: 2015
+- Year: null
 - Release ID: 7057332
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

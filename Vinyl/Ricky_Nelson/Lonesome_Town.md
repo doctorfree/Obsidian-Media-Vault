@@ -3,9 +3,11 @@ catalog: X5545
 title: Lonesome Town
 artist: Ricky Nelson
 label: Imperial
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1958
+year: 1958
 releaseid: 8747283
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Ricky Nelson
 
 - Catalog #: X5545
 - Label: Imperial
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1958
+- Year: 1958
 - Release ID: 8747283
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

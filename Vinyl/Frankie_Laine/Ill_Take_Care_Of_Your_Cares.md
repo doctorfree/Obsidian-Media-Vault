@@ -3,9 +3,11 @@ catalog: D-2405
 title: I'll Take Care Of Your Cares
 artist: Frankie Laine
 label: MCA Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 0
+year: 0
 releaseid: 3732040
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Frankie Laine
 
 - Catalog #: D-2405
 - Label: MCA Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 3732040
 - Media condition: Very Good (VG)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: B0022560-01
 title: Who Are You
 artist: The Who
 label: Geffen Records, Polydor
+formats: Vinyl, 180 gram
 format: LP, Album, RE, 180
 rating: 
 released: 2015
+year: 1978
 releaseid: 6985953
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Who
 
 - Catalog #: B0022560-01
 - Label: Geffen Records, Polydor
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2015
+- Year: 1978
 - Release ID: 6985953
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

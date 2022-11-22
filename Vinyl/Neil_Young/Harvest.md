@@ -3,9 +3,11 @@ catalog: 9362-49786-5
 title: Harvest
 artist: Neil Young
 label: Reprise Records
+formats: Vinyl, 180 Gram, Gatefold
 format: LP, Album, RE, 180
 rating: 5
 released: 2009
+year: 1972
 releaseid: 3174466
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Neil Young
 
 - Catalog #: 9362-49786-5
 - Label: Reprise Records
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: LP, Album, RE, 180
 - Rating: 5
 - Released: 2009
+- Year: 1972
 - Release ID: 3174466
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

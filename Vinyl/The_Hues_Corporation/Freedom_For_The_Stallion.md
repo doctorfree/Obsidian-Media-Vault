@@ -3,9 +3,11 @@ catalog: APL1-0323
 title: Freedom For The Stallion
 artist: The Hues Corporation
 label: RCA Victor
+formats: Vinyl, Indianapolis Press
 format: LP, Album, Ind
 rating: 
 released: 1973
+year: 1973
 releaseid: 715385
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Hues Corporation
 
 - Catalog #: APL1-0323
 - Label: RCA Victor
+- Formats: Vinyl, Indianapolis Press
 - Format: LP, Album, Ind
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 715385
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

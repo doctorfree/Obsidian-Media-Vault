@@ -3,9 +3,11 @@ catalog: TMOQ 73034
 title: Bridgett's Album
 artist: Bob Dylan And The Band
 label: Trade Mark Of Quality
+formats: Vinyl
 format: LP, Unofficial
 rating: 
 released: 1974
+year: 1974
 releaseid: 4854809
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -25,9 +27,11 @@ By Bob Dylan And The Band
 
 - Catalog #: TMOQ 73034
 - Label: Trade Mark Of Quality
+- Formats: Vinyl
 - Format: LP, Unofficial
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 4854809
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

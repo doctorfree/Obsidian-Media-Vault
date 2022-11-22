@@ -3,9 +3,11 @@ catalog: SW-11777
 title: London Town
 artist: Wings
 label: Capitol Records, MPL
+formats: Vinyl, Winchester Pressing
 format: LP, Album, Win
 rating: 
 released: 1978
+year: 1978
 releaseid: 1837504
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Wings
 
 - Catalog #: SW-11777
 - Label: Capitol Records, MPL
+- Formats: Vinyl, Winchester Pressing
 - Format: LP, Album, Win
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 1837504
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

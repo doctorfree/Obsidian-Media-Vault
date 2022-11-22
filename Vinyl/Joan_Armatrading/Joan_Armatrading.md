@@ -3,9 +3,11 @@ catalog: SP-4588
 title: Joan Armatrading
 artist: Joan Armatrading
 label: A&M Records
+formats: Vinyl, Monarch Pressing
 format: LP, Album, Mon
 rating: 
 released: 1976
+year: 1976
 releaseid: 8248373
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Joan Armatrading
 
 - Catalog #: SP-4588
 - Label: A&M Records
+- Formats: Vinyl, Monarch Pressing
 - Format: LP, Album, Mon
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 8248373
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: 5621
 title: Always Together
 artist: The Dells
 label: Cadet
+formats: Vinyl
 format: 7"
 rating: 
 released: 1968
+year: 1968
 releaseid: 2123540
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Dells
 
 - Catalog #: 5621
 - Label: Cadet
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 2123540
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

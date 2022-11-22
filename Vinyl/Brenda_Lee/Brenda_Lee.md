@@ -3,9 +3,11 @@ catalog: ED 2712
 title: Brenda Lee
 artist: Brenda Lee
 label: Decca
+formats: Vinyl
 format: 7", EP
 rating: 
 released: 1961
+year: 1961
 releaseid: 9729611
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Brenda Lee
 
 - Catalog #: ED 2712
 - Label: Decca
+- Formats: Vinyl
 - Format: 7", EP
 - Rating: 
 - Released: 1961
+- Year: 1961
 - Release ID: 9729611
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

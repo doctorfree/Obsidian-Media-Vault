@@ -3,9 +3,11 @@ catalog: MOSH079FDR
 title: Sleep's Holy Mountain
 artist: Sleep
 label: Earache
+formats: Vinyl, Purple Transparent
 format: LP, Album, Ltd, RE, RM, RP, Pur
 rating: 
 released: 2017
+year: 1992
 releaseid: 9700901
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Sleep
 
 - Catalog #: MOSH079FDR
 - Label: Earache
+- Formats: Vinyl, Purple Transparent
 - Format: LP, Album, Ltd, RE, RM, RP, Pur
 - Rating: 
 - Released: 2017
+- Year: 1992
 - Release ID: 9700901
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: VPC 85254
 title: Requiem In D Minor K626
 artist: "Wolfgang Amadeus Mozart, Herbert von Karajan"
 label: Vinyl Passion Classical
+formats: Vinyl
 format: 2xLP
 rating: 
 released: 2015
+year: 1961
 releaseid: 7896588
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By "Wolfgang Amadeus Mozart, Herbert von Karajan"
 
 - Catalog #: VPC 85254
 - Label: Vinyl Passion Classical
+- Formats: Vinyl
 - Format: 2xLP
 - Rating: 
 - Released: 2015
+- Year: 1961
 - Release ID: 7896588
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

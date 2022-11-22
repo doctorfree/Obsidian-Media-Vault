@@ -3,9 +3,11 @@ catalog: BS 2554
 title: Performance: Original Motion Picture Sound Track
 artist: Various
 label: Warner Bros. Records
+formats: Vinyl
 format: LP
 rating: 
 released: 1970
+year: 1970
 releaseid: 1863304
 mediacondition: Very Good (VG)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: BS 2554
 - Label: Warner Bros. Records
+- Formats: Vinyl
 - Format: LP
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 1863304
 - Media condition: Very Good (VG)
 - Sleeve condition: Good Plus (G+)

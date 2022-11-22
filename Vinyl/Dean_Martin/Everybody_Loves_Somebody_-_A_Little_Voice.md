@@ -3,9 +3,11 @@ catalog: 0281
 title: Everybody Loves Somebody / A Little Voice
 artist: Dean Martin
 label: Reprise Records
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1964
+year: 1964
 releaseid: 1577560
 mediacondition: Good Plus (G+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Dean Martin
 
 - Catalog #: 0281
 - Label: Reprise Records
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 1577560
 - Media condition: Good Plus (G+)
 - Sleeve condition: 

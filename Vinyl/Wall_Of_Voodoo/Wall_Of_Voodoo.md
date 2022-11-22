@@ -3,9 +3,11 @@ catalog: SP 70401
 title: Wall Of Voodoo
 artist: Wall Of Voodoo
 label: Index
+formats: Vinyl
 format: 12", EP
 rating: 
 released: 1980
+year: 1980
 releaseid: 1080848
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Wall Of Voodoo
 
 - Catalog #: SP 70401
 - Label: Index
+- Formats: Vinyl
 - Format: 12", EP
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 1080848
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

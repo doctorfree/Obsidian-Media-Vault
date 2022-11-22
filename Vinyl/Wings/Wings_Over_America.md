@@ -3,9 +3,11 @@ catalog: HRM-34316-01
 title: Wings Over America
 artist: Wings
 label: MPL, Hear Music, Concord Music Group
+formats: Vinyl, 180 Gram, Gatefold
 format: 3xLP, Album, RE, RM, 180
 rating: 
 released: 2013
+year: 1976
 releaseid: 4611368
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Wings
 
 - Catalog #: HRM-34316-01
 - Label: MPL, Hear Music, Concord Music Group
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: 3xLP, Album, RE, RM, 180
 - Rating: 
 - Released: 2013
+- Year: 1976
 - Release ID: 4611368
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

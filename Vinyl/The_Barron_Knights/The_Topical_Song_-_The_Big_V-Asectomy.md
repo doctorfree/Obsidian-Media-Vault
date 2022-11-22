@@ -3,9 +3,11 @@ catalog: 9-50755
 title: The Topical Song / The Big V-Asectomy
 artist: The Barron Knights
 label: Epic
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1979
+year: 1979
 releaseid: 4252981
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -25,9 +27,11 @@ By The Barron Knights
 
 - Catalog #: 9-50755
 - Label: Epic
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 4252981
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

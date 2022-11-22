@@ -3,9 +3,11 @@ catalog: FRM-3
 title: A Question Of Balance
 artist: The Moody Blues
 label: Friday Music
+formats: Vinyl, 180 gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2014
+year: 1970
 releaseid: 5907158
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Moody Blues
 
 - Catalog #: FRM-3
 - Label: Friday Music
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2014
+- Year: 1970
 - Release ID: 5907158
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

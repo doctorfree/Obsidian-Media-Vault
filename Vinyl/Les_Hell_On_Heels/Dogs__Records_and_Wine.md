@@ -3,9 +3,11 @@ catalog: ID1233137
 title: "Dogs, Records & Wine"
 artist: Les Hell On Heels
 label: Dionysus Records
+formats: Vinyl
 format: LP
 rating: 5
 released: 2007
+year: 2007
 releaseid: 2870550
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Les Hell On Heels
 
 - Catalog #: ID1233137
 - Label: Dionysus Records
+- Formats: Vinyl
 - Format: LP
 - Rating: 5
 - Released: 2007
+- Year: 2007
 - Release ID: 2870550
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

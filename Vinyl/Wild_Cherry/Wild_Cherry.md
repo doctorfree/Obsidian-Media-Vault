@@ -3,9 +3,11 @@ catalog: PE 34195
 title: Wild Cherry
 artist: Wild Cherry
 label: Epic, Sweet City (4)
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, Ter
 rating: 
 released: 1976
+year: 1976
 releaseid: 346778
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Wild Cherry
 
 - Catalog #: PE 34195
 - Label: Epic, Sweet City (4)
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 346778
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

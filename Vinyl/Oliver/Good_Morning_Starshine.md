@@ -3,9 +3,11 @@ catalog: 45-5659
 title: Good Morning Starshine 
 artist: Oliver
 label: Jubilee
+formats: Vinyl, Monarch Pressing
 format: 7", Single, Styrene, Mon
 rating: 
 released: 1969
+year: 1969
 releaseid: 7608051
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Oliver
 
 - Catalog #: 45-5659
 - Label: Jubilee
+- Formats: Vinyl, Monarch Pressing
 - Format: 7", Single, Styrene, Mon
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 7608051
 - Media condition: Very Good (VG)
 - Sleeve condition: 

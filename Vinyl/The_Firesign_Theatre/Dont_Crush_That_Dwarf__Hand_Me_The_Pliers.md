@@ -3,9 +3,11 @@ catalog: PC 30102
 title: "Don't Crush That Dwarf, Hand Me The Pliers"
 artist: The Firesign Theatre
 label: Columbia
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 0
+year: 1970
 releaseid: 4952021
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Firesign Theatre
 
 - Catalog #: PC 30102
 - Label: Columbia
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 0
+- Year: 1970
 - Release ID: 4952021
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

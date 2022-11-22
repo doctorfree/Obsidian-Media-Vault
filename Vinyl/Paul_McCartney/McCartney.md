@@ -3,9 +3,11 @@ catalog: HRM-32812-01, 0888072328129
 title: McCartney
 artist: Paul McCartney
 label: MPL (2), Hear Music, Concord Music Group, Universal Music Group International
+formats: Vinyl, 180 Gram
 format: 2xLP, Album, RE, RM, 180
 rating: 
 released: 2011
+year: 1970
 releaseid: 2942758
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Paul McCartney
 
 - Catalog #: HRM-32812-01, 0888072328129
 - Label: MPL (2), Hear Music, Concord Music Group, Universal Music Group International
+- Formats: Vinyl, 180 Gram
 - Format: 2xLP, Album, RE, RM, 180
 - Rating: 
 - Released: 2011
+- Year: 1970
 - Release ID: 2942758
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

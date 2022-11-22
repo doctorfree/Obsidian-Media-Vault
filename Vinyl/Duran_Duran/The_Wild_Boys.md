@@ -3,9 +3,11 @@ catalog: B-5417, DURAN 3
 title: The Wild Boys
 artist: Duran Duran
 label: Capitol Records, Capitol Records
+formats: Vinyl, Winchester Pressing
 format: 7", Single, Win
 rating: 
 released: 1984
+year: 1984
 releaseid: 1264409
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Duran Duran
 
 - Catalog #: B-5417, DURAN 3
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl, Winchester Pressing
 - Format: 7", Single, Win
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 1264409
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

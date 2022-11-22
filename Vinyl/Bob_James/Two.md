@@ -3,9 +3,11 @@ catalog: CTI 6057 S1
 title: Two
 artist: Bob James
 label: CTI Records
+formats: Vinyl, Terre Haute Pressing, Gatefold
 format: LP, Album, Ter
 rating: 
 released: 1975
+year: 1975
 releaseid: 609588
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bob James
 
 - Catalog #: CTI 6057 S1
 - Label: CTI Records
+- Formats: Vinyl, Terre Haute Pressing, Gatefold
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 609588
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

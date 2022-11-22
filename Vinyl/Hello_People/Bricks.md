@@ -3,9 +3,11 @@ catalog: ABCD-882
 title: Bricks
 artist: Hello People
 label: ABC Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1975
+year: 1975
 releaseid: 1703855
 mediacondition: Good Plus (G+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Hello People
 
 - Catalog #: ABCD-882
 - Label: ABC Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 1703855
 - Media condition: Good Plus (G+)
 - Sleeve condition: Very Good (VG)

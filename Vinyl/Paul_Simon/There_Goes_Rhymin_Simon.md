@@ -3,9 +3,11 @@ catalog: KC 32280, 88883761061
 title: There Goes Rhymin' Simon
 artist: Paul Simon
 label: Columbia, Columbia
+formats: Vinyl, Gatefold
 format: LP, Ltd, Num, Gat
 rating: 
 released: 2013
+year: 1973
 releaseid: 5153783
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Paul Simon
 
 - Catalog #: KC 32280, 88883761061
 - Label: Columbia, Columbia
+- Formats: Vinyl, Gatefold
 - Format: LP, Ltd, Num, Gat
 - Rating: 
 - Released: 2013
+- Year: 1973
 - Release ID: 5153783
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

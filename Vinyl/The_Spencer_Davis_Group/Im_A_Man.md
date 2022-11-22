@@ -3,9 +3,11 @@ catalog: UA 50144
 title: I'm A Man
 artist: The Spencer Davis Group
 label: United Artists Records
+formats: Vinyl, Pitman
 format: 7", Pit
 rating: 
 released: 1967
+year: 1967
 releaseid: 1802025
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Spencer Davis Group
 
 - Catalog #: UA 50144
 - Label: United Artists Records
+- Formats: Vinyl, Pitman
 - Format: 7", Pit
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 1802025
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

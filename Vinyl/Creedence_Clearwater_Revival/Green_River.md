@@ -3,9 +3,11 @@ catalog: F-8393, 8393
 title: Green River
 artist: Creedence Clearwater Revival
 label: Fantasy, Fantasy
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 0
+year: 1969
 releaseid: 5980014
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Creedence Clearwater Revival
 
 - Catalog #: F-8393, 8393
 - Label: Fantasy, Fantasy
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 0
+- Year: 1969
 - Release ID: 5980014
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

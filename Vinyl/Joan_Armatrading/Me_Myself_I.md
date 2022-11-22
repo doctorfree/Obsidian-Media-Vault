@@ -3,9 +3,11 @@ catalog: SP-4809, SP 4809
 title: Me Myself I
 artist: Joan Armatrading
 label: A&M Records, A&M Records
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1980
+year: 1980
 releaseid: 1331298
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Joan Armatrading
 
 - Catalog #: SP-4809, SP 4809
 - Label: A&M Records, A&M Records
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 1331298
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: SRK 6066
 title: Mistakes
 artist: Gruppo Sportivo
 label: Sire
+formats: Vinyl
 format: LP, Comp
 rating: 
 released: 1979
+year: 1979
 releaseid: 861956
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Gruppo Sportivo
 
 - Catalog #: SRK 6066
 - Label: Sire
+- Formats: Vinyl
 - Format: LP, Comp
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 861956
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

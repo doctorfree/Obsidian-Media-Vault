@@ -3,9 +3,11 @@ catalog: KSBS 2016
 title: Weeds
 artist: Brewer And Shipley
 label: Kama Sutra
+formats: Vinyl, Gatefold
 format: LP, Album, Gat
 rating: 
 released: 1969
+year: 1969
 releaseid: 4345857
 mediacondition: Good (G)
 sleevecondition: Poor (P)
@@ -27,9 +29,11 @@ By Brewer And Shipley
 
 - Catalog #: KSBS 2016
 - Label: Kama Sutra
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, Gat
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 4345857
 - Media condition: Good (G)
 - Sleeve condition: Poor (P)

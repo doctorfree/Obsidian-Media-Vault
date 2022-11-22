@@ -3,9 +3,11 @@ catalog: EAP 1-9123
 title: "Let Me Go, Lover"
 artist: Dean Martin
 label: Capitol Records
+formats: Vinyl
 format: 7", EP
 rating: 
 released: 1955
+year: 1955
 releaseid: 2516110
 mediacondition: Near Mint (NM or M-)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Dean Martin
 
 - Catalog #: EAP 1-9123
 - Label: Capitol Records
+- Formats: Vinyl
 - Format: 7", EP
 - Rating: 
 - Released: 1955
+- Year: 1955
 - Release ID: 2516110
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: 

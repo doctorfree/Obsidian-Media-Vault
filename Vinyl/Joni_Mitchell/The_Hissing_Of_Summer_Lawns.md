@@ -3,9 +3,11 @@ catalog: 8122798615
 title: The Hissing Of Summer Lawns
 artist: Joni Mitchell
 label: Rhino Records (2), Asylum Records
+formats: Vinyl, 180 Gram, Gatefold
 format: LP, Album, RE, 180
 rating: 
 released: 2013
+year: 1975
 releaseid: 4422421
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Joni Mitchell
 
 - Catalog #: 8122798615
 - Label: Rhino Records (2), Asylum Records
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2013
+- Year: 1975
 - Release ID: 4422421
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: BN 26464
 title: Original Recordings
 artist: Dan Hicks And His Hot Licks
 label: Epic
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1969
+year: 1969
 releaseid: 4339301
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Dan Hicks And His Hot Licks
 
 - Catalog #: BN 26464
 - Label: Epic
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 4339301
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

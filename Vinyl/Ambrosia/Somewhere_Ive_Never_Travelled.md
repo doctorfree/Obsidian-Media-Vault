@@ -3,9 +3,11 @@ catalog: T-510
 title: Somewhere I've Never Travelled
 artist: Ambrosia
 label: 20th Century Records
+formats: Vinyl, Terre Haute Pressing, Pyramid Cover
 format: LP, Album, Ter
 rating: 
 released: 1976
+year: 1976
 releaseid: 1581591
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Ambrosia
 
 - Catalog #: T-510
 - Label: 20th Century Records
+- Formats: Vinyl, Terre Haute Pressing, Pyramid Cover
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 1581591
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

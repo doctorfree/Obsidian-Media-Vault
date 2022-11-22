@@ -3,9 +3,11 @@ catalog: real.006
 title: I Can't Hide
 artist: The Spinning Wighats
 label: The Bob Magazine
+formats: Flexi-disc
 format: Flexi, 7", S/Sided, Promo
 rating: 
 released: 1986
+year: null
 releaseid: 3440762
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By The Spinning Wighats
 
 - Catalog #: real.006
 - Label: The Bob Magazine
+- Formats: Flexi-disc
 - Format: Flexi, 7", S/Sided, Promo
 - Rating: 
 - Released: 1986
+- Year: null
 - Release ID: 3440762
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

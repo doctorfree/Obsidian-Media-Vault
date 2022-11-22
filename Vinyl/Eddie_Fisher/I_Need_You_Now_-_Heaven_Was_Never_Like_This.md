@@ -3,9 +3,11 @@ catalog: 47-5830
 title: I Need You Now / Heaven Was Never Like This
 artist: Eddie Fisher
 label: RCA Victor
+formats: Vinyl, Indianapolis Pressing
 format: 7", Single, Ind
 rating: 
 released: 1954
+year: 1954
 releaseid: 3065717
 mediacondition: Near Mint (NM or M-)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Eddie Fisher
 
 - Catalog #: 47-5830
 - Label: RCA Victor
+- Formats: Vinyl, Indianapolis Pressing
 - Format: 7", Single, Ind
 - Rating: 
 - Released: 1954
+- Year: 1954
 - Release ID: 3065717
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: 

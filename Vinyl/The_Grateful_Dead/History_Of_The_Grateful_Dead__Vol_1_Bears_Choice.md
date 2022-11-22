@@ -3,9 +3,11 @@ catalog: BS 2721
 title: "History Of The Grateful Dead, Vol. 1 (Bear's Choice)"
 artist: The Grateful Dead
 label: Warner Bros. Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1973
+year: 1973
 releaseid: 1893762
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Grateful Dead
 
 - Catalog #: BS 2721
 - Label: Warner Bros. Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 1893762
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

@@ -1,0 +1,109 @@
+#!/bin/bash
+#
+# get-format-one
+#
+# Insert format metadata in all Vinyl albums
+#
+# The JSON returned from the Discogs API request looks like:
+#
+# "formats": [
+#   {
+#     "name": "Vinyl",
+#     "qty": "1",
+#     "text": "180 gram, Gatefold",
+#     "descriptions": [
+#       "LP",
+#       "Album",
+#       "Reissue"
+#     ]
+#   }
+# ],
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+URL="https://api.discogs.com/releases"
+AGE="github.com/doctorfree/MusicPlayerPlus"
+UAG="--user-agent \"MusicPlayerPlus/3.0\""
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+for artist in ${TOP}/*
+do
+  [ "${artist}" == "${TOP}/*" ] && continue
+  [ -d "${artist}" ] || continue
+  for album in "${artist}"/*.md
+  do
+    [ "${album}" == "${artist}/*.md" ] && continue
+    grep "^formats:" "${album}" > /dev/null || {
+      release_id=`grep "Release ID:" "${album}"  | \
+                  awk -F ':' ' { print $2 } ' | \
+                  sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${release_id}" ] || continue
+      formats=`echo "${album}" | sed -e "s%\.md%%"`
+      [ -s "${formats}.txt" ] || {
+        curl --stderr /dev/null \
+          -A "${AGE}" "${URL}/${release_id}" \
+          -H "Authorization: Discogs token=${token}" | \
+          jq -r '.formats[] | "\(.name)%\(.text)"' > "${formats}.txt"
+        sleep 1
+      }
+      [ -s "${formats}.txt" ] || {
+        echo "Empty formats file ${formats}.txt"
+        rm -f "${formats}.txt"
+        continue
+      }
+
+      # Insert format data for this album
+      # echo "Inserting format data for ${album}"
+      cat "${formats}.txt" | while read formats
+      do
+        [ "${formats}" ] || continue
+        format=`echo "${formats}" | awk -F '%' ' { print $1 } '`
+        [ "${format}" == "null" ] && format=
+        text=`echo "${formats}" | awk -F '%' ' { print $2 } '`
+        [ "${text}" == "null" ] && text=
+        if [ "${format}" ]
+        then
+          if [ "${text}" ]
+          then
+            echo "formats: ${format}, ${text}" > /tmp/__meta__
+            echo "- Formats: ${format}, ${text}" > /tmp/__data__
+          else
+            echo "formats: ${format}" > /tmp/__meta__
+            echo "- Formats: ${format}" > /tmp/__data__
+          fi
+        else
+          if [ "${text}" ]
+          then
+            echo "formats: ${text}" > /tmp/__meta__
+            echo "- Formats: ${text}" > /tmp/__data__
+          else
+            continue
+          fi
+        fi
+        break
+      done
+      [ -s /tmp/__meta__ ] && {
+        sed '/format:/e cat /tmp/__meta__' "${album}" > /tmp/foo$$
+      }
+      [ -s /tmp/__data__ ] && {
+        if [ -f /tmp/foo$$ ]
+        then
+          sed '/- Format:/e cat /tmp/__data__' /tmp/foo$$ > /tmp/bar$$
+        else
+          sed '/- Format:/e cat /tmp/__data__' "${album}" > /tmp/bar$$
+        fi
+      }
+      if [ -f /tmp/bar$$ ]
+      then
+        cp /tmp/bar$$ ${album}
+      else
+        [ -f /tmp/foo$$ ] && cp /tmp/foo$$ ${album}
+      fi
+      rm -f /tmp/bar$$ /tmp/foo$$ /tmp/__meta__ /tmp/__data__ ${formats}.txt
+    }
+  done
+done

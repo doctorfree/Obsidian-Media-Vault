@@ -3,9 +3,11 @@ catalog: SMAS-11207
 title: We're An American Band
 artist: Grand Funk Railroad
 label: Capitol Records
+formats: Vinyl, Winchester Pressing, Gatefold
 format: LP, Album, Win
 rating: 
 released: 1973
+year: 1973
 releaseid: 478853
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Grand Funk Railroad
 
 - Catalog #: SMAS-11207
 - Label: Capitol Records
+- Formats: Vinyl, Winchester Pressing, Gatefold
 - Format: LP, Album, Win
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 478853
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

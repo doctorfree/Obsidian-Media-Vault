@@ -3,9 +3,11 @@ catalog: EKS 74014, RHI-74881-2, R1 519558
 title: Strange Days
 artist: The Doors
 label: Elektra, Rhino Records (2), Rhino Records (2)
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, 180
 rating: 
 released: 2009
+year: 1967
 releaseid: 2030783
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: EKS 74014, RHI-74881-2, R1 519558
 - Label: Elektra, Rhino Records (2), Rhino Records (2)
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2009
+- Year: 1967
 - Release ID: 2030783
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

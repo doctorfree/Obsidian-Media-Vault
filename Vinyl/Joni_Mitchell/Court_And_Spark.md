@@ -3,9 +3,11 @@ catalog: R1 1001
 title: Court And Spark
 artist: Joni Mitchell
 label: Rhino Vinyl, Asylum Records
+formats: Vinyl, 180g Gatefold, embossed
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2009
+year: 1974
 releaseid: 2571043
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Joni Mitchell
 
 - Catalog #: R1 1001
 - Label: Rhino Vinyl, Asylum Records
+- Formats: Vinyl, 180g Gatefold, embossed
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2009
+- Year: 1974
 - Release ID: 2571043
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

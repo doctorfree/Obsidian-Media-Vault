@@ -3,9 +3,11 @@ catalog: 45-16333
 title: Cinderella / Margarita
 artist: Jack Ross
 label: Dot Records
+formats: Vinyl, Monarch Pressing
 format: 7", Single, Mon
 rating: 
 released: 1962
+year: 1962
 releaseid: 1529031
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Jack Ross
 
 - Catalog #: 45-16333
 - Label: Dot Records
+- Formats: Vinyl, Monarch Pressing
 - Format: 7", Single, Mon
 - Rating: 
 - Released: 1962
+- Year: 1962
 - Release ID: 1529031
 - Media condition: Very Good (VG)
 - Sleeve condition: 

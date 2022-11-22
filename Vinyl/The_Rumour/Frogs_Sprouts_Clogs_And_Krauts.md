@@ -3,9 +3,11 @@ catalog: AB 4235
 title: Frogs Sprouts Clogs And Krauts
 artist: The Rumour
 label: Arista
+formats: Vinyl, Pitman Pressing
 format: LP, Album, Pit
 rating: 
 released: 1979
+year: 1978
 releaseid: 1401077
 mediacondition: Very Good (VG)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By The Rumour
 
 - Catalog #: AB 4235
 - Label: Arista
+- Formats: Vinyl, Pitman Pressing
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1979
+- Year: 1978
 - Release ID: 1401077
 - Media condition: Very Good (VG)
 - Sleeve condition: Good Plus (G+)

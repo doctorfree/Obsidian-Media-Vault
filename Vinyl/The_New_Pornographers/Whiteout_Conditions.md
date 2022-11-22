@@ -3,9 +3,11 @@ catalog: CRE00417
 title: Whiteout Conditions
 artist: The New Pornographers
 label: Concord Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2017
+year: 2017
 releaseid: 10090527
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The New Pornographers
 
 - Catalog #: CRE00417
 - Label: Concord Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10090527
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

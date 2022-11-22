@@ -3,9 +3,11 @@ catalog: BFL1-0148
 title: Baron Von Tollbooth & The Chrome Nun
 artist: "Paul Kantner, Grace Slick & David Freiberg"
 label: Grunt (3)
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1973
+year: 1973
 releaseid: 2588911
 mediacondition: Good Plus (G+)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By "Paul Kantner, Grace Slick & David Freiberg"
 
 - Catalog #: BFL1-0148
 - Label: Grunt (3)
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 2588911
 - Media condition: Good Plus (G+)
 - Sleeve condition: Fair (F)

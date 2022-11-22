@@ -3,9 +3,11 @@ catalog: 602547376923
 title: The Girl In The Other Room
 artist: Diana Krall
 label: Verve Records
+formats: Vinyl
 format: 2xLP, Album, RE
 rating: 
 released: 2016
+year: 2004
 releaseid: 8777789
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Diana Krall
 
 - Catalog #: 602547376923
 - Label: Verve Records
+- Formats: Vinyl
 - Format: 2xLP, Album, RE
 - Rating: 
 - Released: 2016
+- Year: 2004
 - Release ID: 8777789
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

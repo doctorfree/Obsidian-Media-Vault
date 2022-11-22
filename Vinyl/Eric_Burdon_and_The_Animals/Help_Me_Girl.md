@@ -3,9 +3,11 @@ catalog: K13636
 title: Help Me Girl
 artist: Eric Burdon & The Animals
 label: MGM Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1966
+year: 1966
 releaseid: 3386868
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Eric Burdon & The Animals
 
 - Catalog #: K13636
 - Label: MGM Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 3386868
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

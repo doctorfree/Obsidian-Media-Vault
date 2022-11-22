@@ -3,9 +3,11 @@ catalog: R1 76111
 title: Electric Warrior
 artist: T. Rex
 label: Reprise Records
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2014
+year: 1971
 releaseid: 7372447
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By T. Rex
 
 - Catalog #: R1 76111
 - Label: Reprise Records
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2014
+- Year: 1971
 - Release ID: 7372447
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

@@ -3,9 +3,11 @@ catalog: WB 56 769
 title: Pearl Harbor And The Explosions
 artist: Pearl Harbor And The Explosions
 label: Warner Bros. Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1980
+year: 1980
 releaseid: 890551
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Pearl Harbor And The Explosions
 
 - Catalog #: WB 56 769
 - Label: Warner Bros. Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 890551
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

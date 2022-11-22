@@ -3,9 +3,11 @@ catalog: V-949
 title: Murphy's Law
 artist: Cheri
 label: Venture Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1982
+year: 1982
 releaseid: 2602914
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Cheri
 
 - Catalog #: V-949
 - Label: Venture Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 2602914
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

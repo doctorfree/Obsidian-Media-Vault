@@ -3,9 +3,11 @@ catalog: R1-45901
 title: Jagged Little Pill
 artist: Alanis Morissette
 label: Reprise Records, Maverick
+formats: Vinyl, 180g
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2012
+year: 1995
 releaseid: 4336030
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Alanis Morissette
 
 - Catalog #: R1-45901
 - Label: Reprise Records, Maverick
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2012
+- Year: 1995
 - Release ID: 4336030
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

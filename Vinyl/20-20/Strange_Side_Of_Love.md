@@ -3,9 +3,11 @@ catalog: 24-02399
 title: Strange Side Of Love
 artist: 20/20
 label: Portrait
+formats: Vinyl
 format: 7"
 rating: 
 released: 1981
+year: 1981
 releaseid: 4996057
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -25,9 +27,11 @@ By 20/20
 
 - Catalog #: 24-02399
 - Label: Portrait
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 4996057
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

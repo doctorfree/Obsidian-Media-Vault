@@ -3,9 +3,11 @@ catalog: 0825646289448, DB69733, DB 69733, DBXL1
 title: Hunky Dory
 artist: David Bowie
 label: Parlophone, Parlophone, Parlophone, Parlophone
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2016
+year: 1971
 releaseid: 8162088
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By David Bowie
 
 - Catalog #: 0825646289448, DB69733, DB 69733, DBXL1
 - Label: Parlophone, Parlophone, Parlophone, Parlophone
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2016
+- Year: 1971
 - Release ID: 8162088
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

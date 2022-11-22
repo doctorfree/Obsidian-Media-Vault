@@ -3,9 +3,11 @@ catalog: SRLP125522
 title: Shinola Vol.1
 artist: Ween
 label: Schnitzel Records
+formats: Vinyl
 format: LP, Album, Comp, RP
 rating: 
 released: 2009
+year: 2005
 releaseid: 8410855
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Ween
 
 - Catalog #: SRLP125522
 - Label: Schnitzel Records
+- Formats: Vinyl
 - Format: LP, Album, Comp, RP
 - Rating: 
 - Released: 2009
+- Year: 2005
 - Release ID: 8410855
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

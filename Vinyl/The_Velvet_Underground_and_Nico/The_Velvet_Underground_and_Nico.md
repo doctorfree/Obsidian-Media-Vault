@@ -3,9 +3,11 @@ catalog: V6-5008, V6/5008, V/V6-5008
 title: The Velvet Underground & Nico
 artist: The Velvet Underground & Nico
 label: Verve Records, Verve Records, Verve Records
+formats: Vinyl, 180 Gram
 format: LP, Album, Ltd, RE, 180
 rating: 
 released: 2000
+year: 1967
 releaseid: 1219423
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By The Velvet Underground & Nico
 
 - Catalog #: V6-5008, V6/5008, V/V6-5008
 - Label: Verve Records, Verve Records, Verve Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, Ltd, RE, 180
 - Rating: 
 - Released: 2000
+- Year: 1967
 - Release ID: 1219423
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

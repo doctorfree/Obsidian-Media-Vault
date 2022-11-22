@@ -3,9 +3,11 @@ catalog: FLOATLP6095
 title: Manhole
 artist: Grace Slick
 label: Retroworld
+formats: Vinyl, 180 Gram
 format: LP, RE, 180
 rating: 
 released: 2012
+year: 1973
 releaseid: 6349419
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Grace Slick
 
 - Catalog #: FLOATLP6095
 - Label: Retroworld
+- Formats: Vinyl, 180 Gram
 - Format: LP, RE, 180
 - Rating: 
 - Released: 2012
+- Year: 1973
 - Release ID: 6349419
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

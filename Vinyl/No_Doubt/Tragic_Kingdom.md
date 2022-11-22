@@ -3,9 +3,11 @@ catalog: B0022088-01
 title: Tragic Kingdom
 artist: No Doubt
 label: Interscope Records, Trauma Records (2)
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2014
+year: 1995
 releaseid: 6595759
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By No Doubt
 
 - Catalog #: B0022088-01
 - Label: Interscope Records, Trauma Records (2)
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2014
+- Year: 1995
 - Release ID: 6595759
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

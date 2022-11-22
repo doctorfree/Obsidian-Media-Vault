@@ -3,9 +3,11 @@ catalog: AL-8575
 title: Built To Last
 artist: The Grateful Dead
 label: Arista
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1989
+year: 1989
 releaseid: 6638806
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Grateful Dead
 
 - Catalog #: AL-8575
 - Label: Arista
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1989
+- Year: 1989
 - Release ID: 6638806
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: MRS-5010
 title: Dream Machine
 artist: Paul Horn
 label: Mushroom Records (5)
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1978
+year: 1978
 releaseid: 514352
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Paul Horn
 
 - Catalog #: MRS-5010
 - Label: Mushroom Records (5)
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 514352
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

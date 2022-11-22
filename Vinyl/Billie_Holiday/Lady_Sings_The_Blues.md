@@ -3,9 +3,11 @@ catalog: NOT2LP184
 title: Lady Sings The Blues
 artist: Billie Holiday
 label: Not Now Music
+formats: Vinyl
 format: LP, Album, RE + LP, Comp + Comp
 rating: 
 released: 2013
+year: null
 releaseid: 5260357
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Billie Holiday
 
 - Catalog #: NOT2LP184
 - Label: Not Now Music
+- Formats: Vinyl
 - Format: LP, Album, RE + LP, Comp + Comp
 - Rating: 
 - Released: 2013
+- Year: null
 - Release ID: 5260357
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

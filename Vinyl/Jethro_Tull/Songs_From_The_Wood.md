@@ -3,9 +3,11 @@ catalog: CHR 1132
 title: Songs From The Wood
 artist: Jethro Tull
 label: Chrysalis
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1977
+year: 1977
 releaseid: 6711538
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jethro Tull
 
 - Catalog #: CHR 1132
 - Label: Chrysalis
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 6711538
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

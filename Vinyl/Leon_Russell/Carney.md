@@ -3,9 +3,11 @@ catalog: APP 110
 title: Carney
 artist: Leon Russell
 label: Analogue Productions
+formats: Vinyl
 format: LP, Album, RM
 rating: 
 released: 2017
+year: 1972
 releaseid: 9774111
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Leon Russell
 
 - Catalog #: APP 110
 - Label: Analogue Productions
+- Formats: Vinyl
 - Format: LP, Album, RM
 - Rating: 
 - Released: 2017
+- Year: 1972
 - Release ID: 9774111
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

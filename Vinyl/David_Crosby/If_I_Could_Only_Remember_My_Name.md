@@ -3,9 +3,11 @@ catalog: SD 7203
 title: If I Could Only Remember My Name
 artist: David Crosby
 label: Atlantic
+formats: Vinyl, SP, Gatefold
 format: LP, Album, RP, SP,
 rating: 
 released: 1975
+year: 1971
 releaseid: 3040270
 mediacondition: Good Plus (G+)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By David Crosby
 
 - Catalog #: SD 7203
 - Label: Atlantic
+- Formats: Vinyl, SP, Gatefold
 - Format: LP, Album, RP, SP,
 - Rating: 
 - Released: 1975
+- Year: 1971
 - Release ID: 3040270
 - Media condition: Good Plus (G+)
 - Sleeve condition: Fair (F)

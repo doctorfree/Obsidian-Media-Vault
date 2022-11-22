@@ -3,9 +3,11 @@ catalog: AL 4080
 title: Creative Orchestra Music 1976
 artist: Anthony Braxton
 label: Arista
+formats: Vinyl
 format: LP, Album, Promo, TP
 rating: 
 released: 1976
+year: 1976
 releaseid: 9054908
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Anthony Braxton
 
 - Catalog #: AL 4080
 - Label: Arista
+- Formats: Vinyl
 - Format: LP, Album, Promo, TP
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 9054908
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

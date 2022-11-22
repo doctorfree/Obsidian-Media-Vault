@@ -3,9 +3,11 @@ catalog: OC 40867, C 40867
 title: Faith
 artist: George Michael
 label: Columbia, Columbia
+formats: Vinyl, Carrollton Pressing, Only Symbols on Front Jacket, with VLADO
 format: LP, Album, Car
 rating: 
 released: 1987
+year: 1987
 releaseid: 4504601
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By George Michael
 
 - Catalog #: OC 40867, C 40867
 - Label: Columbia, Columbia
+- Formats: Vinyl, Carrollton Pressing, Only Symbols on Front Jacket, with VLADO
 - Format: LP, Album, Car
 - Rating: 
 - Released: 1987
+- Year: 1987
 - Release ID: 4504601
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

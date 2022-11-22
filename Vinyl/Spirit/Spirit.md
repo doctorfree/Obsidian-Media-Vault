@@ -3,9 +3,11 @@ catalog: LP 5194
 title: Spirit
 artist: Spirit
 label: Sundazed Music
+formats: Vinyl
 format: LP, Album, Mono, RE
 rating: 
 released: 2005
+year: 1968
 releaseid: 2958004
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Spirit
 
 - Catalog #: LP 5194
 - Label: Sundazed Music
+- Formats: Vinyl
 - Format: LP, Album, Mono, RE
 - Rating: 
 - Released: 2005
+- Year: 1968
 - Release ID: 2958004
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

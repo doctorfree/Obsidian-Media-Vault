@@ -3,9 +3,11 @@ catalog: GD-LA494-G
 title: Blues For Allah
 artist: The Grateful Dead
 label: Grateful Dead Records
+formats: Vinyl, Jacksonville Pressing
 format: LP, Album, Jac
 rating: 
 released: 1975
+year: 1975
 releaseid: 1662275
 mediacondition: Good (G)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By The Grateful Dead
 
 - Catalog #: GD-LA494-G
 - Label: Grateful Dead Records
+- Formats: Vinyl, Jacksonville Pressing
 - Format: LP, Album, Jac
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 1662275
 - Media condition: Good (G)
 - Sleeve condition: Fair (F)

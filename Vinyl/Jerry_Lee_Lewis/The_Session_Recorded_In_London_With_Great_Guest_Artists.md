@@ -3,9 +3,11 @@ catalog: SRM 2-803, SRM-2-803
 title: The Session Recorded In London With Great Guest Artists
 artist: Jerry Lee Lewis
 label: Mercury, Mercury
+formats: Vinyl, Pitman Pressing
 format: 2xLP, Album, Pit
 rating: 
 released: 1973
+year: 1973
 releaseid: 6992755
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Jerry Lee Lewis
 
 - Catalog #: SRM 2-803, SRM-2-803
 - Label: Mercury, Mercury
+- Formats: Vinyl, Pitman Pressing
 - Format: 2xLP, Album, Pit
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 6992755
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

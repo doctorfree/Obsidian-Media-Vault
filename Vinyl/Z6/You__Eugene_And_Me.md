@@ -3,9 +3,11 @@ catalog: VDK-4
 title: "You, Eugene And Me"
 artist: Z6
 label: The Vodka Label
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1982
+year: 1982
 releaseid: 8385769
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Z6
 
 - Catalog #: VDK-4
 - Label: The Vodka Label
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 8385769
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

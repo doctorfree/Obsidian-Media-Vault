@@ -3,9 +3,11 @@ catalog: 7-19869
 title: "Baby, It's Tonight"
 artist: Jude Cole
 label: Reprise Records
+formats: Vinyl
 format: 7"
 rating: 
 released: 1990
+year: 1990
 releaseid: 3095039
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Jude Cole
 
 - Catalog #: 7-19869
 - Label: Reprise Records
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1990
+- Year: 1990
 - Release ID: 3095039
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

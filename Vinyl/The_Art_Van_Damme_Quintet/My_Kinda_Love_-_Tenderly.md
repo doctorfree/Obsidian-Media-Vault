@@ -3,9 +3,11 @@ catalog: B-1956
 title: My Kinda Love / Tenderly
 artist: The Art Van Damme Quintet
 label: Columbia
+formats: Vinyl
 format: 7"
 rating: 
 released: 0
+year: null
 releaseid: 9735652
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Art Van Damme Quintet
 
 - Catalog #: B-1956
 - Label: Columbia
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 0
+- Year: null
 - Release ID: 9735652
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

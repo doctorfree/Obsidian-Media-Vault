@@ -3,9 +3,11 @@ catalog: AL 9508
 title: Go To Heaven
 artist: The Grateful Dead
 label: Arista
+formats: Vinyl, Pitman Pressing
 format: LP, Album, Pit
 rating: 
 released: 1980
+year: 1980
 releaseid: 1611604
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Grateful Dead
 
 - Catalog #: AL 9508
 - Label: Arista
+- Formats: Vinyl, Pitman Pressing
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 1611604
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

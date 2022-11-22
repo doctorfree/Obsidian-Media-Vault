@@ -3,9 +3,11 @@ catalog: 4324-1
 title: The Best Of The Animals
 artist: The Animals
 label: ABKCO
+formats: Vinyl, Clear, 180 Gram
 format: LP, Comp, RE, RM, Cle
 rating: 
 released: 2014
+year: 1966
 releaseid: 5980178
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Animals
 
 - Catalog #: 4324-1
 - Label: ABKCO
+- Formats: Vinyl, Clear, 180 Gram
 - Format: LP, Comp, RE, RM, Cle
 - Rating: 
 - Released: 2014
+- Year: 1966
 - Release ID: 5980178
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

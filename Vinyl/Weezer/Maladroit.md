@@ -3,9 +3,11 @@ catalog: 069493241-1
 title: Maladroit
 artist: Weezer
 label: Geffen Records
+formats: Vinyl
 format: LP, Album
 rating: 5
 released: 2002
+year: 2002
 releaseid: 1126228
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Weezer
 
 - Catalog #: 069493241-1
 - Label: Geffen Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 5
 - Released: 2002
+- Year: 2002
 - Release ID: 1126228
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

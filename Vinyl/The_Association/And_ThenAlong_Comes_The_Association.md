@@ -3,9 +3,11 @@ catalog: VLM-5002
 title: And Then...Along Comes The Association
 artist: The Association
 label: Valiant Records
+formats: Vinyl
 format: LP, Album, Mono
 rating: 
 released: 1966
+year: 1966
 releaseid: 2347294
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Association
 
 - Catalog #: VLM-5002
 - Label: Valiant Records
+- Formats: Vinyl
 - Format: LP, Album, Mono
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 2347294
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

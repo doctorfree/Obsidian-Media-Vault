@@ -3,9 +3,11 @@ catalog: VA 13137
 title: The Flying Lizards
 artist: The Flying Lizards
 label: Virgin
+formats: Vinyl, MO - Monarch Pressing
 format: LP, Album, MO 
 rating: 
 released: 1979
+year: 1980
 releaseid: 6177512
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Flying Lizards
 
 - Catalog #: VA 13137
 - Label: Virgin
+- Formats: Vinyl, MO - Monarch Pressing
 - Format: LP, Album, MO 
 - Rating: 
 - Released: 1979
+- Year: 1980
 - Release ID: 6177512
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

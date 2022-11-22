@@ -3,9 +3,11 @@ catalog: SR 61264, SR-61264
 title: Gasoline Alley
 artist: Rod Stewart
 label: Mercury, Mercury
+formats: Vinyl, Philips Pressing, Embossed Cover, Gatefold
 format: LP, Album, Phi
 rating: 
 released: 1970
+year: 1970
 releaseid: 1401820
 mediacondition: Very Good (VG)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Rod Stewart
 
 - Catalog #: SR 61264, SR-61264
 - Label: Mercury, Mercury
+- Formats: Vinyl, Philips Pressing, Embossed Cover, Gatefold
 - Format: LP, Album, Phi
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 1401820
 - Media condition: Very Good (VG)
 - Sleeve condition: Good Plus (G+)

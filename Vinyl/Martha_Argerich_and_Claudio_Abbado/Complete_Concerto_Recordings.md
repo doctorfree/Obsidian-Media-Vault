@@ -3,9 +3,11 @@ catalog: 0289 479 4548 2
 title: Complete Concerto Recordings
 artist: Martha Argerich & Claudio Abbado
 label: Deutsche Grammophon
+formats: Vinyl
 format: 6xLP, Comp, Ltd, RM + Box
 rating: 
 released: 2015
+year: 2014
 releaseid: 7935882
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Martha Argerich & Claudio Abbado
 
 - Catalog #: 0289 479 4548 2
 - Label: Deutsche Grammophon
+- Formats: Vinyl
 - Format: 6xLP, Comp, Ltd, RM + Box
 - Rating: 
 - Released: 2015
+- Year: 2014
 - Release ID: 7935882
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

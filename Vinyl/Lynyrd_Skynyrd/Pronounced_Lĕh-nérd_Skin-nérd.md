@@ -3,9 +3,11 @@ catalog: 5355016
 title: (Pronounced 'Lĕh-'nérd 'Skin-'nérd)
 artist: Lynyrd Skynyrd
 label: MCA Records
+formats: Vinyl, 180 Gram, Gatefold
 format: LP, Album, RE, 180
 rating: 
 released: 2015
+year: 1973
 releaseid: 6795525
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Lynyrd Skynyrd
 
 - Catalog #: 5355016
 - Label: MCA Records
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2015
+- Year: 1973
 - Release ID: 6795525
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

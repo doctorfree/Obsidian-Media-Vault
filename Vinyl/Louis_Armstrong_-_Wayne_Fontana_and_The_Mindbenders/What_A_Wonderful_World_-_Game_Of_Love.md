@@ -3,9 +3,11 @@ catalog: AM-3010
 title: What A Wonderful World / Game Of Love
 artist: Louis Armstrong / Wayne Fontana & The Mindbenders
 label: A&M Records
+formats: Vinyl, Carrollton Pressing
 format: 7", Mono, Styrene, Car
 rating: 
 released: 1988
+year: 1988
 releaseid: 1696882
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Louis Armstrong / Wayne Fontana & The Mindbenders
 
 - Catalog #: AM-3010
 - Label: A&M Records
+- Formats: Vinyl, Carrollton Pressing
 - Format: 7", Mono, Styrene, Car
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 1696882
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

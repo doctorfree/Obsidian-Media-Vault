@@ -3,9 +3,11 @@ catalog: RS 8010
 title: To Love Somebody / How Can You Mend A Broken Heart
 artist: Bee Gees
 label: RSO
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1980
+year: 1980
 releaseid: 1861891
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Bee Gees
 
 - Catalog #: RS 8010
 - Label: RSO
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 1861891
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

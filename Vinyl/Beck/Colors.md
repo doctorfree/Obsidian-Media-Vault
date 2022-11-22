@@ -3,9 +3,11 @@ catalog: B002678501
 title: Colors
 artist: Beck
 label: Fonograf Records, Capitol Records
+formats: Vinyl, Red
 format: LP, Album, Red
 rating: 
 released: 2017
+year: 2017
 releaseid: 11000937
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Beck
 
 - Catalog #: B002678501
 - Label: Fonograf Records, Capitol Records
+- Formats: Vinyl, Red
 - Format: LP, Album, Red
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 11000937
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

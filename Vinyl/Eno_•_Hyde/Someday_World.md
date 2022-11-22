@@ -3,9 +3,11 @@ catalog: WARPLP249
 title: Someday World
 artist: Eno • Hyde
 label: Warp Records, Opal Records
+formats: Vinyl
 format: 2xLP, Album
 rating: 
 released: 2014
+year: 2014
 releaseid: 5701699
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Eno • Hyde
 
 - Catalog #: WARPLP249
 - Label: Warp Records, Opal Records
+- Formats: Vinyl
 - Format: 2xLP, Album
 - Rating: 
 - Released: 2014
+- Year: 2014
 - Release ID: 5701699
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

@@ -3,9 +3,11 @@ catalog: none
 title: Mystic Braves
 artist: Mystic Braves
 label: Not On Label
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2013
+year: 2013
 releaseid: 5653506
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Mystic Braves
 
 - Catalog #: none
 - Label: Not On Label
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2013
+- Year: 2013
 - Release ID: 5653506
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

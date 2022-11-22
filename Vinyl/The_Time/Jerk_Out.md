@@ -3,9 +3,11 @@ catalog: 7-19750
 title: Jerk Out
 artist: The Time
 label: Paisley Park
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1990
+year: 1990
 releaseid: 570937
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Time
 
 - Catalog #: 7-19750
 - Label: Paisley Park
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1990
+- Year: 1990
 - Release ID: 570937
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

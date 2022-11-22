@@ -3,9 +3,11 @@ catalog: BSK 3358
 title: Bop Till You Drop
 artist: Ry Cooder
 label: Warner Bros. Records
+formats: Vinyl, Los Angeles Pressing
 format: LP, Album, Los
 rating: 
 released: 1979
+year: 1979
 releaseid: 1436845
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Ry Cooder
 
 - Catalog #: BSK 3358
 - Label: Warner Bros. Records
+- Formats: Vinyl, Los Angeles Pressing
 - Format: LP, Album, Los
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 1436845
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

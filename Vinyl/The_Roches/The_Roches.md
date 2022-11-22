@@ -3,9 +3,11 @@ catalog: BSK 3298
 title: The Roches
 artist: The Roches
 label: Warner Bros. Records
+formats: Vinyl, Winchester Pressing
 format: LP, Album, RE, Win
 rating: 
 released: 0
+year: 1979
 releaseid: 1688708
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Roches
 
 - Catalog #: BSK 3298
 - Label: Warner Bros. Records
+- Formats: Vinyl, Winchester Pressing
 - Format: LP, Album, RE, Win
 - Rating: 
 - Released: 0
+- Year: 1979
 - Release ID: 1688708
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: SN-16036
 title: The Best Of Nat King Cole
 artist: Nat King Cole
 label: Capitol Records
+formats: Vinyl
 format: LP, Comp, RE
 rating: 
 released: 1980
+year: 1968
 releaseid: 5540861
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Nat King Cole
 
 - Catalog #: SN-16036
 - Label: Capitol Records
+- Formats: Vinyl
 - Format: LP, Comp, RE
 - Rating: 
 - Released: 1980
+- Year: 1968
 - Release ID: 5540861
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: MOVLP564
 title: Son Of Schmilsson
 artist: Harry Nilsson
 label: Music On Vinyl
+formats: Vinyl, Gatefold, 180g
 format: LP, Album, RE, Gat
 rating: 
 released: 2012
+year: 1972
 releaseid: 3886169
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Harry Nilsson
 
 - Catalog #: MOVLP564
 - Label: Music On Vinyl
+- Formats: Vinyl, Gatefold, 180g
 - Format: LP, Album, RE, Gat
 - Rating: 
 - Released: 2012
+- Year: 1972
 - Release ID: 3886169
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

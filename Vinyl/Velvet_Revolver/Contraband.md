@@ -3,9 +3,11 @@ catalog: MOVLP1086
 title: Contraband
 artist: Velvet Revolver
 label: Music On Vinyl
+formats: Vinyl, 180 Gram, Gatefold
 format: 2xLP, Album, 180
 rating: 
 released: 2014
+year: 2004
 releaseid: 5684204
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Velvet Revolver
 
 - Catalog #: MOVLP1086
 - Label: Music On Vinyl
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: 2xLP, Album, 180
 - Rating: 
 - Released: 2014
+- Year: 2004
 - Release ID: 5684204
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

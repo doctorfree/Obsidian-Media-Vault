@@ -3,9 +3,11 @@ catalog: W 581, 06020537761579
 title: In The Wee Small Hours
 artist: Frank Sinatra
 label: Capitol Records, UMe
+formats: Vinyl, 180g
 format: LP, Album, Mono, RE, RM, 180
 rating: 
 released: 2014
+year: 1955
 releaseid: 6228536
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Frank Sinatra
 
 - Catalog #: W 581, 06020537761579
 - Label: Capitol Records, UMe
+- Formats: Vinyl, 180g
 - Format: LP, Album, Mono, RE, RM, 180
 - Rating: 
 - Released: 2014
+- Year: 1955
 - Release ID: 6228536
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

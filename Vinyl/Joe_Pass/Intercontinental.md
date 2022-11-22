@@ -3,9 +3,11 @@ catalog: 0209856MSW, 15279
 title: Intercontinental
 artist: Joe Pass
 label: MPS Records, MPS Records
+formats: Vinyl, 180g, Gatefold
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2014
+year: 1971
 releaseid: 6513362
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Joe Pass
 
 - Catalog #: 0209856MSW, 15279
 - Label: MPS Records, MPS Records
+- Formats: Vinyl, 180g, Gatefold
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2014
+- Year: 1971
 - Release ID: 6513362
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

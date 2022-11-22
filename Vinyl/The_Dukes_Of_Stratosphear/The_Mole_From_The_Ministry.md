@@ -3,9 +3,11 @@ catalog: VS 763
 title: The Mole From The Ministry
 artist: The Dukes Of Stratosphear
 label: Virgin
+formats: Vinyl
 format: 7", Single
 rating: 5
 released: 1985
+year: null
 releaseid: 1354981
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Dukes Of Stratosphear
 
 - Catalog #: VS 763
 - Label: Virgin
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 5
 - Released: 1985
+- Year: null
 - Release ID: 1354981
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: M7-884R1
 title: Commodores
 artist: Commodores
 label: Motown
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1977
+year: 1977
 releaseid: 4157801
 mediacondition: Good Plus (G+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Commodores
 
 - Catalog #: M7-884R1
 - Label: Motown
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 4157801
 - Media condition: Good Plus (G+)
 - Sleeve condition: Good Plus (G+)

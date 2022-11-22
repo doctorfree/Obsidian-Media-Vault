@@ -3,9 +3,11 @@ catalog: FRM-9395, none
 title: The Spirit Of '67
 artist: Paul Revere & The Raiders
 label: Friday Music, Columbia, Sony Music
+formats: Vinyl, Translucent Red
 format: LP, Album, Ltd, RE, RM, Tra
 rating: 
 released: 2015
+year: 1966
 releaseid: 7546935
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Paul Revere & The Raiders
 
 - Catalog #: FRM-9395, none
 - Label: Friday Music, Columbia, Sony Music
+- Formats: Vinyl, Translucent Red
 - Format: LP, Album, Ltd, RE, RM, Tra
 - Rating: 
 - Released: 2015
+- Year: 1966
 - Release ID: 7546935
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

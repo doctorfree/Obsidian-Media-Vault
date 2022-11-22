@@ -3,9 +3,11 @@ catalog: KE 31331
 title: Jeff Beck Group
 artist: Jeff Beck Group
 label: Epic
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, Ter
 rating: 
 released: 1972
+year: 1972
 releaseid: 1362776
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jeff Beck Group
 
 - Catalog #: KE 31331
 - Label: Epic
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1972
+- Year: 1972
 - Release ID: 1362776
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

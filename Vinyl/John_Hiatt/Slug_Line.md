@@ -3,9 +3,11 @@ catalog: MCA-3088
 title: Slug Line
 artist: John Hiatt
 label: MCA Records
+formats: Vinyl, Gloversville Pressing
 format: LP, Album, Glo
 rating: 
 released: 1979
+year: 1979
 releaseid: 7732037
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By John Hiatt
 
 - Catalog #: MCA-3088
 - Label: MCA Records
+- Formats: Vinyl, Gloversville Pressing
 - Format: LP, Album, Glo
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 7732037
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

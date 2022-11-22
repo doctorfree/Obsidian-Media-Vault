@@ -3,9 +3,11 @@ catalog: LL 3420
 title: "The Rolling Stones, Now!"
 artist: The Rolling Stones
 label: London Records
+formats: Vinyl
 format: LP, Album, Mono
 rating: 
 released: 1965
+year: 1965
 releaseid: 6648205
 mediacondition: Good Plus (G+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: LL 3420
 - Label: London Records
+- Formats: Vinyl
 - Format: LP, Album, Mono
 - Rating: 
 - Released: 1965
+- Year: 1965
 - Release ID: 6648205
 - Media condition: Good Plus (G+)
 - Sleeve condition: Good Plus (G+)

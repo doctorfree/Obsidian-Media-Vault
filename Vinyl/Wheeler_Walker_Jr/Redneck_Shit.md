@@ -3,9 +3,11 @@ catalog: PHR013
 title: Redneck Shit
 artist: Wheeler Walker Jr.
 label: Pepper Hill Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2016
+year: 2016
 releaseid: 8164234
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Wheeler Walker Jr.
 
 - Catalog #: PHR013
 - Label: Pepper Hill Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2016
+- Year: 2016
 - Release ID: 8164234
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: OLE-1040-1
 title: ...Like Clockwork
 artist: Queens Of The Stone Age
 label: Matador
+formats: Vinyl
 format: 2x12", Album
 rating: 5
 released: 2013
+year: 2013
 releaseid: 4608497
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Queens Of The Stone Age
 
 - Catalog #: OLE-1040-1
 - Label: Matador
+- Formats: Vinyl
 - Format: 2x12", Album
 - Rating: 5
 - Released: 2013
+- Year: 2013
 - Release ID: 4608497
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

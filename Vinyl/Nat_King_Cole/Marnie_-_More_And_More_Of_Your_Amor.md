@@ -3,9 +3,11 @@ catalog: 5219
 title: Marnie / More And More Of Your Amor
 artist: Nat King Cole
 label: Capitol Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1964
+year: 1964
 releaseid: 8670010
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Nat King Cole
 
 - Catalog #: 5219
 - Label: Capitol Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 8670010
 - Media condition: Very Good (VG)
 - Sleeve condition: 

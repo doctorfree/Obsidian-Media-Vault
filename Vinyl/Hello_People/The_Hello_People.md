@@ -3,9 +3,11 @@ catalog: PHS 600-265
 title: The Hello People
 artist: Hello People
 label: Philips
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1968
+year: 1968
 releaseid: 2529835
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Hello People
 
 - Catalog #: PHS 600-265
 - Label: Philips
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 2529835
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: 3013
 title: George Thorogood And The Destroyers
 artist: George Thorogood & The Destroyers
 label: Rounder Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1977
+year: 1977
 releaseid: 919875
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By George Thorogood & The Destroyers
 
 - Catalog #: 3013
 - Label: Rounder Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 919875
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

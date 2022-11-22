@@ -3,9 +3,11 @@ catalog: 0600753570951, 5357095
 title: Imagine
 artist: John Lennon
 label: Apple Records, Apple Records
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2015
+year: 1971
 releaseid: 7381085
 mediacondition: Mint (M)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By John Lennon
 
 - Catalog #: 0600753570951, 5357095
 - Label: Apple Records, Apple Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1971
 - Release ID: 7381085
 - Media condition: Mint (M)
 - Sleeve condition: Near Mint (NM or M-)

@@ -3,9 +3,11 @@ catalog: D 1052 T, D1052T
 title: A Town Called Big Nothing
 artist: The MacManus Gang
 label: Demon Records, Demon Records
+formats: Vinyl
 format: 12", Single
 rating: 
 released: 1987
+year: 1987
 releaseid: 1050133
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The MacManus Gang
 
 - Catalog #: D 1052 T, D1052T
 - Label: Demon Records, Demon Records
+- Formats: Vinyl
 - Format: 12", Single
 - Rating: 
 - Released: 1987
+- Year: 1987
 - Release ID: 1050133
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

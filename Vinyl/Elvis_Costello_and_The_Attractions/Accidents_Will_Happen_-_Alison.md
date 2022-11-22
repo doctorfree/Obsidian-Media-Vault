@@ -3,9 +3,11 @@ catalog: AE7 1171
 title: Accidents Will Happen / Alison
 artist: Elvis Costello & The Attractions
 label: Columbia
+formats: Vinyl, Santa Maria Pressing
 format: 7", Promo, San
 rating: 
 released: 1979
+year: 1979
 releaseid: 2656343
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Elvis Costello & The Attractions
 
 - Catalog #: AE7 1171
 - Label: Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: 7", Promo, San
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 2656343
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

@@ -3,9 +3,11 @@ catalog: SRM 1-1018
 title: Bluejeans & Moonbeams
 artist: Captain Beefheart And The Magic Band
 label: Mercury
+formats: Vinyl, 180 gram
 format: LP, Album, RE, 180
 rating: 
 released: 2000
+year: 1974
 releaseid: 1430388
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -25,9 +27,11 @@ By Captain Beefheart And The Magic Band
 
 - Catalog #: SRM 1-1018
 - Label: Mercury
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2000
+- Year: 1974
 - Release ID: 1430388
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

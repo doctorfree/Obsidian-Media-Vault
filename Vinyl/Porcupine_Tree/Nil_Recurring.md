@@ -3,9 +3,11 @@ catalog: KSCOPE936, Kscope936
 title: Nil Recurring
 artist: Porcupine Tree
 label: Kscope, Kscope
+formats: Vinyl, Clear, 180g
 format: 12", MiniAlbum, RM, Cle
 rating: 
 released: 2016
+year: 2007
 releaseid: 9021300
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Porcupine Tree
 
 - Catalog #: KSCOPE936, Kscope936
 - Label: Kscope, Kscope
+- Formats: Vinyl, Clear, 180g
 - Format: 12", MiniAlbum, RM, Cle
 - Rating: 
 - Released: 2016
+- Year: 2007
 - Release ID: 9021300
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

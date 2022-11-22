@@ -3,9 +3,11 @@ catalog: E-47031
 title: Another One Bites The Dust
 artist: Queen
 label: Elektra
+formats: Vinyl, AR
 format: 7", Single, Styrene, AR
 rating: 
 released: 1980
+year: 1980
 releaseid: 3240510
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Queen
 
 - Catalog #: E-47031
 - Label: Elektra
+- Formats: Vinyl, AR
 - Format: 7", Single, Styrene, AR
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 3240510
 - Media condition: Very Good (VG)
 - Sleeve condition: 

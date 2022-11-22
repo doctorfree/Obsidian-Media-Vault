@@ -3,9 +3,11 @@ catalog: B0023421-01
 title: Wolfmother
 artist: Wolfmother
 label: Modular Recordings, Interscope Records
+formats: Vinyl
 format: 2xLP, Album, Dlx, RE, RM
 rating: 
 released: 2015
+year: 2005
 releaseid: 7554358
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Wolfmother
 
 - Catalog #: B0023421-01
 - Label: Modular Recordings, Interscope Records
+- Formats: Vinyl
 - Format: 2xLP, Album, Dlx, RE, RM
 - Rating: 
 - Released: 2015
+- Year: 2005
 - Release ID: 7554358
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

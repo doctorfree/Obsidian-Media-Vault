@@ -3,9 +3,11 @@ catalog: VR020
 title: Jumping At Shadows
 artist: Fleetwood Mac
 label: Varrick Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1985
+year: 1984
 releaseid: 2278515
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Fleetwood Mac
 
 - Catalog #: VR020
 - Label: Varrick Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1985
+- Year: 1984
 - Release ID: 2278515
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Near Mint (NM or M-)

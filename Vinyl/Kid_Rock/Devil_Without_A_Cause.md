@@ -3,9 +3,11 @@ catalog: 83119-1
 title: Devil Without A Cause
 artist: Kid Rock
 label: Atlantic, Lava, Top Dog Records
+formats: Vinyl
 format: 2xLP, Album, Ltd
 rating: 
 released: 1999
+year: 1998
 releaseid: 2124393
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Kid Rock
 
 - Catalog #: 83119-1
 - Label: Atlantic, Lava, Top Dog Records
+- Formats: Vinyl
 - Format: 2xLP, Album, Ltd
 - Rating: 
 - Released: 1999
+- Year: 1998
 - Release ID: 2124393
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

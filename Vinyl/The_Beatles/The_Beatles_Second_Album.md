@@ -3,9 +3,11 @@ catalog: T 2080, T-2080
 title: The Beatles' Second Album
 artist: The Beatles
 label: Capitol Records, Capitol Records
+formats: Vinyl, Los Angeles
 format: LP, Album, Mono, Los
 rating: 
 released: 1964
+year: 1964
 releaseid: 801261
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: T 2080, T-2080
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl, Los Angeles
 - Format: LP, Album, Mono, Los
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 801261
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

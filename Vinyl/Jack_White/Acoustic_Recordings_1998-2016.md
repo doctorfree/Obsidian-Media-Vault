@@ -3,9 +3,11 @@ catalog: TMR-387
 title: Acoustic Recordings 1998-2016
 artist: Jack White
 label: Third Man Records
+formats: Vinyl, 180 gram
 format: 2xLP, Album, RM, 180
 rating: 
 released: 2016
+year: 2016
 releaseid: 9017932
 mediacondition: Mint (M)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Jack White
 
 - Catalog #: TMR-387
 - Label: Third Man Records
+- Formats: Vinyl, 180 gram
 - Format: 2xLP, Album, RM, 180
 - Rating: 
 - Released: 2016
+- Year: 2016
 - Release ID: 9017932
 - Media condition: Mint (M)
 - Sleeve condition: Near Mint (NM or M-)

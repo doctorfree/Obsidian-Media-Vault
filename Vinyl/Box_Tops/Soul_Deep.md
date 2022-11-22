@@ -3,9 +3,11 @@ catalog: MALA 12,040
 title: Soul Deep
 artist: Box Tops
 label: Mala
+formats: Vinyl, Bestway Pressing
 format: 7", Single, Bes
 rating: 
 released: 1969
+year: 1969
 releaseid: 1563608
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Box Tops
 
 - Catalog #: MALA 12,040
 - Label: Mala
+- Formats: Vinyl, Bestway Pressing
 - Format: 7", Single, Bes
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 1563608
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

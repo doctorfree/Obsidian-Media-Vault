@@ -3,9 +3,11 @@ catalog: GHS 24169
 title: Psonic Psunspot
 artist: The Dukes Of Stratosphear
 label: Geffen Records
+formats: Vinyl, Allied Pressing
 format: LP, Album, All
 rating: 
 released: 1987
+year: 1987
 releaseid: 391154
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Dukes Of Stratosphear
 
 - Catalog #: GHS 24169
 - Label: Geffen Records
+- Formats: Vinyl, Allied Pressing
 - Format: LP, Album, All
 - Rating: 
 - Released: 1987
+- Year: 1987
 - Release ID: 391154
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

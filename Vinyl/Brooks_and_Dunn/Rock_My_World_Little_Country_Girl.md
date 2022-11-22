@@ -3,9 +3,11 @@ catalog: 07822-12636-7
 title: Rock My World (Little Country Girl)
 artist: Brooks & Dunn
 label: Arista
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1993
+year: 1993
 releaseid: 3886900
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Brooks & Dunn
 
 - Catalog #: 07822-12636-7
 - Label: Arista
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1993
+- Year: 1993
 - Release ID: 3886900
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

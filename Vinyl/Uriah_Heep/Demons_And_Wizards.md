@@ -3,9 +3,11 @@ catalog: MELT-006, B0015894-01
 title: Demons And Wizards
 artist: Uriah Heep
 label: Wax Cathedral, Wax Cathedral
+formats: Vinyl, Green Swirl
 format: LP, Album, RE, RM, Gre
 rating: 
 released: 2013
+year: 1972
 releaseid: 4923117
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Uriah Heep
 
 - Catalog #: MELT-006, B0015894-01
 - Label: Wax Cathedral, Wax Cathedral
+- Formats: Vinyl, Green Swirl
 - Format: LP, Album, RE, RM, Gre
 - Rating: 
 - Released: 2013
+- Year: 1972
 - Release ID: 4923117
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

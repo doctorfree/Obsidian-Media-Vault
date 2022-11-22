@@ -3,9 +3,11 @@ catalog: PD-1-6315
 title: Sound Affects
 artist: The Jam
 label: Polydor
+formats: Vinyl, 18 - Presswell Pressing
 format: LP, Album, 18 
 rating: 
 released: 1981
+year: 1980
 releaseid: 2575481
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Jam
 
 - Catalog #: PD-1-6315
 - Label: Polydor
+- Formats: Vinyl, 18 - Presswell Pressing
 - Format: LP, Album, 18 
 - Rating: 
 - Released: 1981
+- Year: 1980
 - Release ID: 2575481
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

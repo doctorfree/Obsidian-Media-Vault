@@ -3,9 +3,11 @@ catalog: BDA 114
 title: Special Delivery / No Good Annie
 artist: 1910 Fruitgum Company
 label: Buddah Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1969
+year: 1969
 releaseid: 2129063
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By 1910 Fruitgum Company
 
 - Catalog #: BDA 114
 - Label: Buddah Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 2129063
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

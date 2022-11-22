@@ -3,9 +3,11 @@ catalog: JE 36102
 title: Stateless
 artist: Lene Lovich
 label: Stiff-Epic
+formats: Vinyl, Pitman Pressing
 format: LP, Album, Pit
 rating: 
 released: 1979
+year: 1978
 releaseid: 1797693
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Lene Lovich
 
 - Catalog #: JE 36102
 - Label: Stiff-Epic
+- Formats: Vinyl, Pitman Pressing
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1979
+- Year: 1978
 - Release ID: 1797693
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: 74842
 title: Blue
 artist: Joni Mitchell
 label: Reprise Records
+formats: Vinyl, 180g, Gatefold
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2007
+year: 1971
 releaseid: 2571066
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Joni Mitchell
 
 - Catalog #: 74842
 - Label: Reprise Records
+- Formats: Vinyl, 180g, Gatefold
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2007
+- Year: 1971
 - Release ID: 2571066
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

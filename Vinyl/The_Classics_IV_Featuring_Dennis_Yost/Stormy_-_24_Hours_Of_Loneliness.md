@@ -3,9 +3,11 @@ catalog: 66328
 title: Stormy / 24 Hours Of Loneliness
 artist: The Classics IV Featuring Dennis Yost
 label: Imperial
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1968
+year: 1968
 releaseid: 5615352
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -25,9 +27,11 @@ By The Classics IV Featuring Dennis Yost
 
 - Catalog #: 66328
 - Label: Imperial
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 5615352
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

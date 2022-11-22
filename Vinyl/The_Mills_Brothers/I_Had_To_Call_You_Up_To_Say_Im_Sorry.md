@@ -3,9 +3,11 @@ catalog: 9-29019
 title: I Had To Call You Up To Say I'm Sorry
 artist: The Mills Brothers
 label: Decca
+formats: Vinyl
 format: 7"
 rating: 
 released: 1954
+year: 1954
 releaseid: 5680549
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Mills Brothers
 
 - Catalog #: 9-29019
 - Label: Decca
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1954
+- Year: 1954
 - Release ID: 5680549
 - Media condition: Very Good (VG)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: TM 520
 title: Shake
 artist: The Shadows Of Knight
 label: Team
+formats: Vinyl, ARP Pressing
 format: 7", ARP
 rating: 
 released: 1968
+year: 1969
 releaseid: 7362584
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Shadows Of Knight
 
 - Catalog #: TM 520
 - Label: Team
+- Formats: Vinyl, ARP Pressing
 - Format: 7", ARP
 - Rating: 
 - Released: 1968
+- Year: 1969
 - Release ID: 7362584
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

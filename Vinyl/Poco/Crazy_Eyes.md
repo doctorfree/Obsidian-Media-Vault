@@ -3,9 +3,11 @@ catalog: MOVLP1234
 title: Crazy Eyes
 artist: Poco
 label: Music On Vinyl
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2015
+year: 1973
 releaseid: 6576071
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Poco
 
 - Catalog #: MOVLP1234
 - Label: Music On Vinyl
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2015
+- Year: 1973
 - Release ID: 6576071
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

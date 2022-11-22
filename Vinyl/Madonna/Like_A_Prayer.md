@@ -3,9 +3,11 @@ catalog: R1-25844, R1 25844
 title: Like A Prayer
 artist: Madonna
 label: Sire, Sire
+formats: Vinyl, 180g
 format: LP, Album, RE, 180
 rating: 
 released: 2016
+year: 1989
 releaseid: 8772567
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Madonna
 
 - Catalog #: R1-25844, R1 25844
 - Label: Sire, Sire
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2016
+- Year: 1989
 - Release ID: 8772567
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

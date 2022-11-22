@@ -3,9 +3,11 @@ catalog: PYE 12124
 title: Too Young To Feel This Old
 artist: McKendree Spring
 label: Pye Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1976
+year: 1976
 releaseid: 1945337
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By McKendree Spring
 
 - Catalog #: PYE 12124
 - Label: Pye Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 1945337
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

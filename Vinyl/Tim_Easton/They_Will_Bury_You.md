@@ -3,9 +3,11 @@ catalog: JA-070
 title: They Will Bury You
 artist: Tim Easton
 label: Jackass Records (5)
+formats: Vinyl
 format: 7"
 rating: 
 released: 2000
+year: 2000
 releaseid: 5754011
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Tim Easton
 
 - Catalog #: JA-070
 - Label: Jackass Records (5)
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 2000
+- Year: 2000
 - Release ID: 5754011
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

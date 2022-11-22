@@ -3,9 +3,11 @@ catalog: MOVLP1796
 title: New Orleans Piano
 artist: Professor Longhair
 label: Atlantic, Music On Vinyl
+formats: Vinyl, Gatefold, 180 gram
 format: LP, Album, Mono, RE, Gat
 rating: 
 released: 2017
+year: 1972
 releaseid: 9883803
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Professor Longhair
 
 - Catalog #: MOVLP1796
 - Label: Atlantic, Music On Vinyl
+- Formats: Vinyl, Gatefold, 180 gram
 - Format: LP, Album, Mono, RE, Gat
 - Rating: 
 - Released: 2017
+- Year: 1972
 - Release ID: 9883803
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

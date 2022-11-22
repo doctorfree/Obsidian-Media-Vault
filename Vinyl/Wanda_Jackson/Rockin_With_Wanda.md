@@ -3,9 +3,11 @@ catalog: T1384, T-1384, 509999 12056 12
 title: Rockin' With Wanda
 artist: Wanda Jackson
 label: Capitol Records, Capitol Records, Capitol Records
+formats: Vinyl
 format: LP, Comp, RE
 rating: 
 released: 2013
+year: 1960
 releaseid: 4593222
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Wanda Jackson
 
 - Catalog #: T1384, T-1384, 509999 12056 12
 - Label: Capitol Records, Capitol Records, Capitol Records
+- Formats: Vinyl
 - Format: LP, Comp, RE
 - Rating: 
 - Released: 2013
+- Year: 1960
 - Release ID: 4593222
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

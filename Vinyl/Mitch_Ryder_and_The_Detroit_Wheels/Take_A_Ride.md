@@ -3,9 +3,11 @@ catalog: LP 5086
 title: Take A Ride...
 artist: Mitch Ryder & The Detroit Wheels
 label: Sundazed Music
+formats: Vinyl
 format: LP, Album, Mono, RE
 rating: 
 released: 2003
+year: 1966
 releaseid: 4195557
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Mitch Ryder & The Detroit Wheels
 
 - Catalog #: LP 5086
 - Label: Sundazed Music
+- Formats: Vinyl
 - Format: LP, Album, Mono, RE
 - Rating: 
 - Released: 2003
+- Year: 1966
 - Release ID: 4195557
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

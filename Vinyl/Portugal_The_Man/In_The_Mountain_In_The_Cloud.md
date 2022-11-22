@@ -3,9 +3,11 @@ catalog: EVR 211
 title: In The Mountain In The Cloud
 artist: Portugal. The Man
 label: Atlantic, Equal Vision Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2011
+year: 2011
 releaseid: 5425037
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Portugal. The Man
 
 - Catalog #: EVR 211
 - Label: Atlantic, Equal Vision Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2011
+- Year: 2011
 - Release ID: 5425037
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

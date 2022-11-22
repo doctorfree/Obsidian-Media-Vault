@@ -3,9 +3,11 @@ catalog: SP-5000, SP5000
 title: Body And Soul
 artist: Joe Jackson
 label: A&M Records, A&M Records
+formats: Vinyl, EMW
 format: LP, Album, EMW
 rating: 
 released: 1984
+year: 1984
 releaseid: 7864399
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Joe Jackson
 
 - Catalog #: SP-5000, SP5000
 - Label: A&M Records, A&M Records
+- Formats: Vinyl, EMW
 - Format: LP, Album, EMW
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 7864399
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

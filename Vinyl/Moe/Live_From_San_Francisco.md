@@ -3,9 +3,11 @@ catalog: BRK-277
 title: Live From San Francisco
 artist: Moe.
 label: Brookvale Records
+formats: Vinyl, Red translucent with black splatter
 format: 2xLP, Ltd, Num, Red
 rating: 
 released: 2017
+year: null
 releaseid: 10175991
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Moe.
 
 - Catalog #: BRK-277
 - Label: Brookvale Records
+- Formats: Vinyl, Red translucent with black splatter
 - Format: 2xLP, Ltd, Num, Red
 - Rating: 
 - Released: 2017
+- Year: null
 - Release ID: 10175991
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

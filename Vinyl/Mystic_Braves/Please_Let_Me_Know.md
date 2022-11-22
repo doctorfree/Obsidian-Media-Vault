@@ -3,9 +3,11 @@ catalog: none
 title: Please Let Me Know
 artist: Mystic Braves
 label: Lolipop Records
+formats: Vinyl
 format: 7"
 rating: 
 released: 2013
+year: null
 releaseid: 6250822
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -25,9 +27,11 @@ By Mystic Braves
 
 - Catalog #: none
 - Label: Lolipop Records
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 2013
+- Year: null
 - Release ID: 6250822
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

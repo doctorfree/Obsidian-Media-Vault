@@ -3,9 +3,11 @@ catalog: SP-4866
 title: Fiyo On The Bayou
 artist: The Neville Brothers
 label: A&M Records
+formats: Vinyl, Y - Terre Haute Pressing
 format: LP, Album, Y -
 rating: 
 released: 1981
+year: 1981
 releaseid: 1637538
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Neville Brothers
 
 - Catalog #: SP-4866
 - Label: A&M Records
+- Formats: Vinyl, Y - Terre Haute Pressing
 - Format: LP, Album, Y -
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 1637538
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

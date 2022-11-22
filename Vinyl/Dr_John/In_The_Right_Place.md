@@ -3,9 +3,11 @@ catalog: SD 7018
 title: In The Right Place
 artist: Dr. John
 label: ATCO Records
+formats: Vinyl, PR - Presswell Pressing, Tri-Fold Sleeve
 format: LP, Album, PR 
 rating: 
 released: 1973
+year: 1973
 releaseid: 554882
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Dr. John
 
 - Catalog #: SD 7018
 - Label: ATCO Records
+- Formats: Vinyl, PR - Presswell Pressing, Tri-Fold Sleeve
 - Format: LP, Album, PR 
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 554882
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

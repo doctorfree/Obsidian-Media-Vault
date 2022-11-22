@@ -3,9 +3,11 @@ catalog: POR2014
 title: Too Blessed To Be Stressed
 artist: Paul Thorn
 label: Perpetual Obscurity Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2014
+year: 2014
 releaseid: 6234657
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Paul Thorn
 
 - Catalog #: POR2014
 - Label: Perpetual Obscurity Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2014
+- Year: 2014
 - Release ID: 6234657
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Mint (M)

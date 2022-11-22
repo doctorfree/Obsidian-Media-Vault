@@ -3,9 +3,11 @@ catalog: R1-25442
 title: True Blue
 artist: Madonna
 label: Sire
+formats: Vinyl, 180g
 format: LP, Album, RE, 180
 rating: 
 released: 2016
+year: 1986
 releaseid: 8772579
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Madonna
 
 - Catalog #: R1-25442
 - Label: Sire
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2016
+- Year: 1986
 - Release ID: 8772579
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

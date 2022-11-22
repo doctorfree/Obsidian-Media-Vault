@@ -3,9 +3,11 @@ catalog: 47-7643
 title: He'll Have To Go / In A Mansion Stands My Love
 artist: Jim Reeves
 label: RCA Victor
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1959
+year: 1959
 releaseid: 4699038
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Jim Reeves
 
 - Catalog #: 47-7643
 - Label: RCA Victor
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1959
+- Year: 1959
 - Release ID: 4699038
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

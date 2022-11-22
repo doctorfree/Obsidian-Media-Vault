@@ -3,9 +3,11 @@ catalog: ODW-521
 title: Nightlife / Raincoats & Silverware
 artist: Our Daughter's Wedding
 label: Design Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1980
+year: null
 releaseid: 735629
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Our Daughter's Wedding
 
 - Catalog #: ODW-521
 - Label: Design Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1980
+- Year: null
 - Release ID: 735629
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: BMGCATLP1
 title: "Emerson, Lake & Palmer"
 artist: "Emerson, Lake & Palmer"
 label: BMG, Manticore
+formats: Vinyl
 format: LP, Album, RE, RM
 rating: 
 released: 2016
+year: 1970
 releaseid: 8833728
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By "Emerson, Lake & Palmer"
 
 - Catalog #: BMGCATLP1
 - Label: BMG, Manticore
+- Formats: Vinyl
 - Format: LP, Album, RE, RM
 - Rating: 
 - Released: 2016
+- Year: 1970
 - Release ID: 8833728
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

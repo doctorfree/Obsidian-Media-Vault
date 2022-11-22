@@ -3,9 +3,11 @@ catalog: SPV 266901
 title: Clear
 artist: Spirit
 label: Steamhammer
+formats: Vinyl, Clear, 180 Gram
 format: LP, Album, RE, Cle
 rating: 
 released: 2013
+year: 1969
 releaseid: 6320488
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Spirit
 
 - Catalog #: SPV 266901
 - Label: Steamhammer
+- Formats: Vinyl, Clear, 180 Gram
 - Format: LP, Album, RE, Cle
 - Rating: 
 - Released: 2013
+- Year: 1969
 - Release ID: 6320488
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

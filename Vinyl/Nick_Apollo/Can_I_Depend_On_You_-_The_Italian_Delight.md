@@ -3,9 +3,11 @@ catalog: NA-706-45
 title: Can I Depend On You / The Italian Delight
 artist: Nick Apollo
 label: Fan Records (2)
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 0
+year: null
 releaseid: 1470482
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Nick Apollo
 
 - Catalog #: NA-706-45
 - Label: Fan Records (2)
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 0
+- Year: null
 - Release ID: 1470482
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

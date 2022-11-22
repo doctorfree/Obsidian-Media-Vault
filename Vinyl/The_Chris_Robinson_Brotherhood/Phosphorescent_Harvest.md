@@ -3,9 +3,11 @@ catalog: SA12LP
 title: Phosphorescent Harvest
 artist: The Chris Robinson Brotherhood
 label: Silver Arrow
+formats: Vinyl, Orange
 format: LP, Ora + LP, Mar + 7" + Album
 rating: 
 released: 2014
+year: 2014
 releaseid: 5647581
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By The Chris Robinson Brotherhood
 
 - Catalog #: SA12LP
 - Label: Silver Arrow
+- Formats: Vinyl, Orange
 - Format: LP, Ora + LP, Mar + 7" + Album
 - Rating: 
 - Released: 2014
+- Year: 2014
 - Release ID: 5647581
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

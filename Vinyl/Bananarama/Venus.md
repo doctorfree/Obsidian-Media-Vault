@@ -3,9 +3,11 @@ catalog: 886 056-7
 title: Venus
 artist: Bananarama
 label: London Records
+formats: Vinyl, Indianapolis Pressing
 format: 7", Ind
 rating: 
 released: 1986
+year: 1986
 releaseid: 1052713
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Bananarama
 
 - Catalog #: 886 056-7
 - Label: London Records
+- Formats: Vinyl, Indianapolis Pressing
 - Format: 7", Ind
 - Rating: 
 - Released: 1986
+- Year: 1986
 - Release ID: 1052713
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Near Mint (NM or M-)

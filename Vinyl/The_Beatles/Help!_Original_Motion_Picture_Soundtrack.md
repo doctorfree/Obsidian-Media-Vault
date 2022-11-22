@@ -3,9 +3,11 @@ catalog: MAS-2386, MAS 2386
 title: Help! (Original Motion Picture Soundtrack)
 artist: The Beatles
 label: Capitol Records, Capitol Records
+formats: Vinyl, Los Angeles Pressing, Gatefold
 format: LP, Album, Mono, Los
 rating: 
 released: 1965
+year: 1965
 releaseid: 3673507
 mediacondition: Very Good (VG)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: MAS-2386, MAS 2386
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl, Los Angeles Pressing, Gatefold
 - Format: LP, Album, Mono, Los
 - Rating: 
 - Released: 1965
+- Year: 1965
 - Release ID: 3673507
 - Media condition: Very Good (VG)
 - Sleeve condition: Good (G)

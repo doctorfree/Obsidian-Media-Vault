@@ -3,9 +3,11 @@ catalog: SXL 6291
 title: "Symphony No. 9 ""New World"" ● Overture ""Othello"""
 artist: Antonín Dvořák - István Kertész - The London Symphony Orchestra
 label: Decca
+formats: Vinyl
 format: LP
 rating: 
 released: 2016
+year: 1967
 releaseid: 10033594
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Antonín Dvořák - István Kertész - The London Symphony Orchestra
 
 - Catalog #: SXL 6291
 - Label: Decca
+- Formats: Vinyl
 - Format: LP
 - Rating: 
 - Released: 2016
+- Year: 1967
 - Release ID: 10033594
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

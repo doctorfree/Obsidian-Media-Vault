@@ -3,9 +3,11 @@ catalog: SP 70022
 title: Dark Continent
 artist: Wall Of Voodoo
 label: I.R.S. Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1981
+year: 1981
 releaseid: 900624
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Wall Of Voodoo
 
 - Catalog #: SP 70022
 - Label: I.R.S. Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 900624
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

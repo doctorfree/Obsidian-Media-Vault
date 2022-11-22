@@ -3,9 +3,11 @@ catalog: 8122796460
 title: Led Zeppelin
 artist: Led Zeppelin
 label: Atlantic
+formats: Vinyl
 format: LP, Album, RE, RM + 2xLP, Album + Dlx, Tri
 rating: 
 released: 2014
+year: 1969
 releaseid: 5743279
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Led Zeppelin
 
 - Catalog #: 8122796460
 - Label: Atlantic
+- Formats: Vinyl
 - Format: LP, Album, RE, RM + 2xLP, Album + Dlx, Tri
 - Rating: 
 - Released: 2014
+- Year: 1969
 - Release ID: 5743279
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

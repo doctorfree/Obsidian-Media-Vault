@@ -3,9 +3,11 @@ catalog: 45-2424
 title: A Girl Like You / It's Love
 artist: The Young Rascals
 label: Atlantic
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1967
+year: 1967
 releaseid: 810302
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Young Rascals
 
 - Catalog #: 45-2424
 - Label: Atlantic
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 810302
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

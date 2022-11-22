@@ -3,9 +3,11 @@ catalog: KK 1001
 title: The Best Of The 5th Dimension
 artist: The Fifth Dimension
 label: Kory Records
+formats: Vinyl
 format: LP, Comp
 rating: 
 released: 1976
+year: 1976
 releaseid: 4470286
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By The Fifth Dimension
 
 - Catalog #: KK 1001
 - Label: Kory Records
+- Formats: Vinyl
 - Format: LP, Comp
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 4470286
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Near Mint (NM or M-)

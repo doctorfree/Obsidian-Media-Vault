@@ -3,9 +3,11 @@ catalog: 5-10555
 title: Thank You (Falettinme Be Mice Elf Agin) / Everybody Is A Star
 artist: Sly & The Family Stone
 label: Epic
+formats: Vinyl, Pitman Pressing
 format: 7", Single, Styrene, Pit
 rating: 
 released: 1969
+year: 1969
 releaseid: 4916421
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Sly & The Family Stone
 
 - Catalog #: 5-10555
 - Label: Epic
+- Formats: Vinyl, Pitman Pressing
 - Format: 7", Single, Styrene, Pit
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 4916421
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

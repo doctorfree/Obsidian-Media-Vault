@@ -3,9 +3,11 @@ catalog: CPLVNY080
 title: Live In Paris '65
 artist: The Beatles
 label: Coda Publishing
+formats: Vinyl, Blue
 format: LP, Ltd, RM, Unofficial, Blu
 rating: 
 released: 2016
+year: 1989
 releaseid: 8131788
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: CPLVNY080
 - Label: Coda Publishing
+- Formats: Vinyl, Blue
 - Format: LP, Ltd, RM, Unofficial, Blu
 - Rating: 
 - Released: 2016
+- Year: 1989
 - Release ID: 8131788
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

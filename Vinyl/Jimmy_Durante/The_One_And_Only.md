@@ -3,9 +3,11 @@ catalog: DL 5116
 title: The One And Only
 artist: Jimmy Durante
 label: Decca
+formats: Vinyl
 format: 10", Comp
 rating: 
 released: 1949
+year: 1946
 releaseid: 3782723
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jimmy Durante
 
 - Catalog #: DL 5116
 - Label: Decca
+- Formats: Vinyl
 - Format: 10", Comp
 - Rating: 
 - Released: 1949
+- Year: 1946
 - Release ID: 3782723
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: DSD-50184
 title: The Handsome Devils
 artist: Hello People
 label: ABC Dunhill
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1974
+year: 1974
 releaseid: 821820
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Hello People
 
 - Catalog #: DSD-50184
 - Label: ABC Dunhill
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 821820
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

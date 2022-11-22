@@ -3,9 +3,11 @@ catalog: EKS-75005
 title: The Soft Parade
 artist: The Doors
 label: Elektra
+formats: Vinyl, AR; Gatefold
 format: LP, Album, RE, AR;
 rating: 
 released: 1979
+year: 1969
 releaseid: 3569158
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: EKS-75005
 - Label: Elektra
+- Formats: Vinyl, AR; Gatefold
 - Format: LP, Album, RE, AR;
 - Rating: 
 - Released: 1979
+- Year: 1969
 - Release ID: 3569158
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

@@ -3,9 +3,11 @@ catalog: C 30737
 title: I Think We're All Bozos On This Bus
 artist: The Firesign Theatre
 label: Columbia
+formats: Vinyl, Pitman Pressing
 format: LP, Album, Pit
 rating: 
 released: 1971
+year: 1971
 releaseid: 604696
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Firesign Theatre
 
 - Catalog #: C 30737
 - Label: Columbia
+- Formats: Vinyl, Pitman Pressing
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1971
+- Year: 1971
 - Release ID: 604696
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

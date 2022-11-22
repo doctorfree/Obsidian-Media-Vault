@@ -3,9 +3,11 @@ catalog: LVR00224
 title: Masseduction
 artist: St. Vincent
 label: Loma Vista
+formats: Vinyl, Pink
 format: LP, Album, Pin
 rating: 
 released: 2017
+year: 2017
 releaseid: 10989027
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By St. Vincent
 
 - Catalog #: LVR00224
 - Label: Loma Vista
+- Formats: Vinyl, Pink
 - Format: LP, Album, Pin
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10989027
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: 88843097271
 title: Muswell Hillbillies
 artist: The Kinks
 label: RCA Victor, Legacy
+formats: Vinyl
 format: LP, Album, RE + LP, Comp + Ltd, RE, RM, 180
 rating: 
 released: 2014
+year: 1971
 releaseid: 6356036
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Kinks
 
 - Catalog #: 88843097271
 - Label: RCA Victor, Legacy
+- Formats: Vinyl
 - Format: LP, Album, RE + LP, Comp + Ltd, RE, RM, 180
 - Rating: 
 - Released: 2014
+- Year: 1971
 - Release ID: 6356036
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: KLP-8056, KLP 8056
 title: The Best Of The Lovin' Spoonful
 artist: The Lovin' Spoonful
 label: Kama Sutra, Kama Sutra
+formats: Vinyl, Gatefold
 format: LP, Comp, Mono, Gat
 rating: 
 released: 1967
+year: 1967
 releaseid: 1205127
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Lovin' Spoonful
 
 - Catalog #: KLP-8056, KLP 8056
 - Label: Kama Sutra, Kama Sutra
+- Formats: Vinyl, Gatefold
 - Format: LP, Comp, Mono, Gat
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 1205127
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

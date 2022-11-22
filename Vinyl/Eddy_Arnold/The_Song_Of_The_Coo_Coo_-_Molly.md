@@ -3,9 +3,11 @@ catalog: 47-8296
 title: The Song Of The Coo Coo / Molly
 artist: Eddy Arnold
 label: RCA
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 0
+year: 0
 releaseid: 8293831
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Eddy Arnold
 
 - Catalog #: 47-8296
 - Label: RCA
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 8293831
 - Media condition: Very Good (VG)
 - Sleeve condition: 

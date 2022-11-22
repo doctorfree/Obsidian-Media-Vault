@@ -3,9 +3,11 @@ catalog: R1 3590
 title: The Name Of This Band Is Talking Heads
 artist: Talking Heads
 label: Sire
+formats: Vinyl, 180 Gram
 format: 2xLP, Album, RE, 180
 rating: 
 released: 2013
+year: 1982
 releaseid: 5140961
 mediacondition: Mint (M)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Talking Heads
 
 - Catalog #: R1 3590
 - Label: Sire
+- Formats: Vinyl, 180 Gram
 - Format: 2xLP, Album, RE, 180
 - Rating: 
 - Released: 2013
+- Year: 1982
 - Release ID: 5140961
 - Media condition: Mint (M)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: MRS-5005
 title: Dreamboat Annie
 artist: Heart
 label: Mushroom Records (5)
+formats: Vinyl, Santa Maria Pressing / Gatefold
 format: LP, Album, San
 rating: 
 released: 1976
+year: 1975
 releaseid: 1527343
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Heart
 
 - Catalog #: MRS-5005
 - Label: Mushroom Records (5)
+- Formats: Vinyl, Santa Maria Pressing / Gatefold
 - Format: LP, Album, San
 - Rating: 
 - Released: 1976
+- Year: 1975
 - Release ID: 1527343
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

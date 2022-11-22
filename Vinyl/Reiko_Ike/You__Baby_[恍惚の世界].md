@@ -3,9 +3,11 @@ catalog: BAMCLP7005, BAMCD7005
 title: "You, Baby [恍惚の世界]"
 artist: Reiko Ike
 label: Bamboo (2), Bamboo (2)
+formats: Vinyl, Yellow
 format: LP, Album, Ltd, Num, RE, Unofficial, Yel + CD, Alb
 rating: 
 released: 2017
+year: 1971
 releaseid: 10174394
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Reiko Ike
 
 - Catalog #: BAMCLP7005, BAMCD7005
 - Label: Bamboo (2), Bamboo (2)
+- Formats: Vinyl, Yellow
 - Format: LP, Album, Ltd, Num, RE, Unofficial, Yel + CD, Alb
 - Rating: 
 - Released: 2017
+- Year: 1971
 - Release ID: 10174394
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: PAD 109
 title: Bomb Iran
 artist: Vince Vance & The Valiants
 label: PaID
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1980
+year: 1980
 releaseid: 3408709
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Vince Vance & The Valiants
 
 - Catalog #: PAD 109
 - Label: PaID
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 3408709
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

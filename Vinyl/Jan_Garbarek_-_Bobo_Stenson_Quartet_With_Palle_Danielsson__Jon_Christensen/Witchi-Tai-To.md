@@ -3,9 +3,11 @@ catalog: ECM 1041 ST
 title: Witchi-Tai-To
 artist: "Jan Garbarek - Bobo Stenson Quartet With Palle Danielsson, Jon Christensen"
 label: ECM Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1974
+year: 1974
 releaseid: 374628
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By "Jan Garbarek - Bobo Stenson Quartet With Palle Danielsson, Jon Christensen"
 
 - Catalog #: ECM 1041 ST
 - Label: ECM Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 374628
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

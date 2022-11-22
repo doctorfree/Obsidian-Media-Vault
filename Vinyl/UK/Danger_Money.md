@@ -3,9 +3,11 @@ catalog: PD-1-6194
 title: Danger Money
 artist: UK
 label: Polydor
+formats: Vinyl, Keel Mfg. Pressing
 format: LP, Album, Kee
 rating: 
 released: 1979
+year: 1979
 releaseid: 972761
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By UK
 
 - Catalog #: PD-1-6194
 - Label: Polydor
+- Formats: Vinyl, Keel Mfg. Pressing
 - Format: LP, Album, Kee
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 972761
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

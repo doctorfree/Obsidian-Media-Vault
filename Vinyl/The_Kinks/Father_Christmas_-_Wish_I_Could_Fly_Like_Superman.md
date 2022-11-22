@@ -3,9 +3,11 @@ catalog: FLB 106
 title: Father Christmas / (Wish I Could Fly Like) Superman
 artist: The Kinks
 label: Flashback Records (4)
+formats: Vinyl
 format: 7", Single, RE
 rating: 
 released: 1980
+year: 0
 releaseid: 3767942
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By The Kinks
 
 - Catalog #: FLB 106
 - Label: Flashback Records (4)
+- Formats: Vinyl
 - Format: 7", Single, RE
 - Rating: 
 - Released: 1980
+- Year: 0
 - Release ID: 3767942
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

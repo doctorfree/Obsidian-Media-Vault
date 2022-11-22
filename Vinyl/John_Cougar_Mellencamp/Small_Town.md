@@ -3,9 +3,11 @@ catalog: 884 202-7
 title: Small Town
 artist: John Cougar Mellencamp
 label: Riva (2)
+formats: Vinyl, PRC Pressing
 format: 7", Single, Styrene, PRC
 rating: 
 released: 1985
+year: 1985
 releaseid: 1478556
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By John Cougar Mellencamp
 
 - Catalog #: 884 202-7
 - Label: Riva (2)
+- Formats: Vinyl, PRC Pressing
 - Format: 7", Single, Styrene, PRC
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 1478556
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

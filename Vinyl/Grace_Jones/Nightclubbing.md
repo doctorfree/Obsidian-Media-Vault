@@ -3,9 +3,11 @@ catalog: ILPS 9624
 title: Nightclubbing
 artist: Grace Jones
 label: Island Records
+formats: Vinyl, Los Angeles Pressing
 format: LP, Album, Los
 rating: 
 released: 1981
+year: 1981
 releaseid: 706094
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Grace Jones
 
 - Catalog #: ILPS 9624
 - Label: Island Records
+- Formats: Vinyl, Los Angeles Pressing
 - Format: LP, Album, Los
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 706094
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: ST-17168
 title: Freaky Styley
 artist: Red Hot Chili Peppers
 label: EMI America, Enigma Records (3)
+formats: Vinyl, Jacksonville Pressing
 format: LP, Album, Jac
 rating: 
 released: 1985
+year: 1985
 releaseid: 687169
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Red Hot Chili Peppers
 
 - Catalog #: ST-17168
 - Label: EMI America, Enigma Records (3)
+- Formats: Vinyl, Jacksonville Pressing
 - Format: LP, Album, Jac
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 687169
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: CAS-1049
 title: Another Monty Python Record
 artist: Monty Python
 label: Buddah Records, Charisma
+formats: Vinyl
 format: LP
 rating: 
 released: 1972
+year: 1971
 releaseid: 1568281
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Monty Python
 
 - Catalog #: CAS-1049
 - Label: Buddah Records, Charisma
+- Formats: Vinyl
 - Format: LP
 - Rating: 
 - Released: 1972
+- Year: 1971
 - Release ID: 1568281
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

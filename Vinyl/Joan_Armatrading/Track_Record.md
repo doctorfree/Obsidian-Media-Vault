@@ -3,9 +3,11 @@ catalog: SP-4987
 title: Track Record
 artist: Joan Armatrading
 label: A&M Records
+formats: Vinyl, R - RCA Indianapolis Pressing
 format: LP, Comp, R -
 rating: 
 released: 1983
+year: 1983
 releaseid: 2171815
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Joan Armatrading
 
 - Catalog #: SP-4987
 - Label: A&M Records
+- Formats: Vinyl, R - RCA Indianapolis Pressing
 - Format: LP, Comp, R -
 - Rating: 
 - Released: 1983
+- Year: 1983
 - Release ID: 2171815
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

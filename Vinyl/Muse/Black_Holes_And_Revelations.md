@@ -3,9 +3,11 @@ catalog: 44284-1
 title: Black Holes And Revelations
 artist: Muse
 label: Warner Bros. Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2009
+year: 2006
 releaseid: 1890217
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Muse
 
 - Catalog #: 44284-1
 - Label: Warner Bros. Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2009
+- Year: 2006
 - Release ID: 1890217
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

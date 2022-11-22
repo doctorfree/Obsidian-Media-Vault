@@ -3,9 +3,11 @@ catalog: PFR12S6, 88985387117
 title: Interstellar Overdrive
 artist: Pink Floyd
 label: Pink Floyd Records, Pink Floyd Records
+formats: Vinyl
 format: 12", S/Sided, Single, Mono, Ltd
 rating: 
 released: 2017
+year: 2017
 releaseid: 10165060
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Pink Floyd
 
 - Catalog #: PFR12S6, 88985387117
 - Label: Pink Floyd Records, Pink Floyd Records
+- Formats: Vinyl
 - Format: 12", S/Sided, Single, Mono, Ltd
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10165060
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

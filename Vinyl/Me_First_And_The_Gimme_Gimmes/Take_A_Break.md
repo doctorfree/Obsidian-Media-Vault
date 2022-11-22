@@ -3,9 +3,11 @@ catalog: FAT650-1
 title: Take A Break
 artist: Me First And The Gimme Gimmes
 label: Fat Wreck Chords
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2003
+year: 2003
 releaseid: 814858
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Me First And The Gimme Gimmes
 
 - Catalog #: FAT650-1
 - Label: Fat Wreck Chords
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2003
+- Year: 2003
 - Release ID: 814858
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

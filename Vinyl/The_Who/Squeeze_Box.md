@@ -3,9 +3,11 @@ catalog: MCA-40475
 title: Squeeze Box 
 artist: The Who
 label: MCA Records
+formats: Vinyl, Pinckneyville Pressing
 format: 7", Single, Pin
 rating: 
 released: 1975
+year: 1975
 releaseid: 6404000
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Who
 
 - Catalog #: MCA-40475
 - Label: MCA Records
+- Formats: Vinyl, Pinckneyville Pressing
 - Format: 7", Single, Pin
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 6404000
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

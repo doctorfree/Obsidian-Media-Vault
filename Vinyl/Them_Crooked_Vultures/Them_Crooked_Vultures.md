@@ -3,9 +3,11 @@ catalog: B0013785-01
 title: Them Crooked Vultures
 artist: Them Crooked Vultures
 label: DGC, Interscope Records
+formats: Vinyl, 180 Gram
 format: 2xLP, Album, 180
 rating: 
 released: 2009
+year: 2009
 releaseid: 2016236
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Them Crooked Vultures
 
 - Catalog #: B0013785-01
 - Label: DGC, Interscope Records
+- Formats: Vinyl, 180 Gram
 - Format: 2xLP, Album, 180
 - Rating: 
 - Released: 2009
+- Year: 2009
 - Release ID: 2016236
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

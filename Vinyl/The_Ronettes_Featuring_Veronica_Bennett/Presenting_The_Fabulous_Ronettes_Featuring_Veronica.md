@@ -3,9 +3,11 @@ catalog: MOVLP674
 title: Presenting The Fabulous Ronettes Featuring Veronica
 artist: The Ronettes Featuring Veronica Bennett
 label: Philles Records, Music On Vinyl
+formats: Vinyl, 180 gram
 format: LP, Album, Mono, RE, 180
 rating: 
 released: 2013
+year: 1964
 releaseid: 4195144
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -25,9 +27,11 @@ By The Ronettes Featuring Veronica Bennett
 
 - Catalog #: MOVLP674
 - Label: Philles Records, Music On Vinyl
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, Mono, RE, 180
 - Rating: 
 - Released: 2013
+- Year: 1964
 - Release ID: 4195144
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

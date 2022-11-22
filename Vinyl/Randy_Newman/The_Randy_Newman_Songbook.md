@@ -3,9 +3,11 @@ catalog: 550735-1
 title: The Randy Newman Songbook
 artist: Randy Newman
 label: Nonesuch
+formats: Vinyl
 format: 4xLP + Box, Comp, Ltd
 rating: 
 released: 2016
+year: 2016
 releaseid: 9110801
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Randy Newman
 
 - Catalog #: 550735-1
 - Label: Nonesuch
+- Formats: Vinyl
 - Format: 4xLP + Box, Comp, Ltd
 - Rating: 
 - Released: 2016
+- Year: 2016
 - Release ID: 9110801
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

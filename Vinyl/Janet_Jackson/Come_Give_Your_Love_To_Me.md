@@ -3,9 +3,11 @@ catalog: 2522-S
 title: Come Give Your Love To Me
 artist: Janet Jackson
 label: A&M Records
+formats: Vinyl, Monarch Pressing
 format: 7", Mon
 rating: 
 released: 1982
+year: 1982
 releaseid: 1234523
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Janet Jackson
 
 - Catalog #: 2522-S
 - Label: A&M Records
+- Formats: Vinyl, Monarch Pressing
 - Format: 7", Mon
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 1234523
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

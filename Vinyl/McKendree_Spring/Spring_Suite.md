@@ -3,9 +3,11 @@ catalog: MCA-370
 title: Spring Suite
 artist: McKendree Spring
 label: MCA Records
+formats: Vinyl, Gloversville Pressing
 format: LP, Album, Glo
 rating: 
 released: 1973
+year: 1973
 releaseid: 2765002
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By McKendree Spring
 
 - Catalog #: MCA-370
 - Label: MCA Records
+- Formats: Vinyl, Gloversville Pressing
 - Format: LP, Album, Glo
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 2765002
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

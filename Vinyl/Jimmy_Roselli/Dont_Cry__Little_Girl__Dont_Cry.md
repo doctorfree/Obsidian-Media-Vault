@@ -3,9 +3,11 @@ catalog: S 148
 title: "Don't Cry, Little Girl, Don't Cry"
 artist: Jimmy Roselli
 label: Recording Industries Corp.
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1965
+year: 1965
 releaseid: 8917418
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Jimmy Roselli
 
 - Catalog #: S 148
 - Label: Recording Industries Corp.
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1965
+- Year: 1965
 - Release ID: 8917418
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

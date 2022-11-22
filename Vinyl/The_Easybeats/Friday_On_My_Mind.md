@@ -3,9 +3,11 @@ catalog: UA 50106
 title: Friday On My Mind
 artist: The Easybeats
 label: United Artists Records
+formats: Vinyl, Terre Haute Pressing
 format: 7", Single, Styrene, Ter
 rating: 
 released: 1966
+year: 1966
 releaseid: 1332347
 mediacondition: Good (G)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Easybeats
 
 - Catalog #: UA 50106
 - Label: United Artists Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: 7", Single, Styrene, Ter
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 1332347
 - Media condition: Good (G)
 - Sleeve condition: 

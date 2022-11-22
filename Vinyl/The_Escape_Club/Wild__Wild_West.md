@@ -3,9 +3,11 @@ catalog: 7-89048
 title: "Wild, Wild West"
 artist: The Escape Club
 label: Atlantic
+formats: Vinyl, Specialty Pressing
 format: 7", Single, Spe
 rating: 
 released: 1988
+year: 1988
 releaseid: 1579526
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Escape Club
 
 - Catalog #: 7-89048
 - Label: Atlantic
+- Formats: Vinyl, Specialty Pressing
 - Format: 7", Single, Spe
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 1579526
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

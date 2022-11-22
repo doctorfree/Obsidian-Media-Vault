@@ -3,9 +3,11 @@ catalog: R1 553403
 title: In Concert
 artist: Fleetwood Mac
 label: Warner Bros. Records
+formats: Vinyl, 180g
 format: 3xLP, Album, 180
 rating: 
 released: 2016
+year: 2016
 releaseid: 8205362
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Fleetwood Mac
 
 - Catalog #: R1 553403
 - Label: Warner Bros. Records
+- Formats: Vinyl, 180g
 - Format: 3xLP, Album, 180
 - Rating: 
 - Released: 2016
+- Year: 2016
 - Release ID: 8205362
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

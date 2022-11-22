@@ -3,9 +3,11 @@ catalog: 88985415741
 title: God's Problem Child
 artist: Willie Nelson
 label: Legacy, Sony Music
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2017
+year: 2017
 releaseid: 10197147
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Willie Nelson
 
 - Catalog #: 88985415741
 - Label: Legacy, Sony Music
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10197147
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

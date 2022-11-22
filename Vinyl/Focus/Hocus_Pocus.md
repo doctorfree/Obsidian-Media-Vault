@@ -3,9 +3,11 @@ catalog: SAA-704
 title: Hocus Pocus
 artist: Focus
 label: Sire
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1973
+year: 1973
 releaseid: 1716655
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Focus
 
 - Catalog #: SAA-704
 - Label: Sire
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 1716655
 - Media condition: Very Good (VG)
 - Sleeve condition: 

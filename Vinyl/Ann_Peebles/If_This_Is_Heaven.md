@@ -3,9 +3,11 @@ catalog: H-77502
 title: If This Is Heaven
 artist: Ann Peebles
 label: Hi Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1977
+year: 1977
 releaseid: 5924258
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Ann Peebles
 
 - Catalog #: H-77502
 - Label: Hi Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 5924258
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

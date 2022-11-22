@@ -3,9 +3,11 @@ catalog: none
 title: Slash
 artist: Slash
 label: Dik Hayd Records
+formats: Vinyl, Gatefold
 format: 2xLP, Album, Gat
 rating: 
 released: 2010
+year: 2010
 releaseid: 2287084
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Slash
 
 - Catalog #: none
 - Label: Dik Hayd Records
+- Formats: Vinyl, Gatefold
 - Format: 2xLP, Album, Gat
 - Rating: 
 - Released: 2010
+- Year: 2010
 - Release ID: 2287084
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: BLP-4023
 title: Let's Get Acquainted
 artist: The Holy Sisters Of The Gaga Dada
 label: BOMP!
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1986
+year: null
 releaseid: 1933886
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Holy Sisters Of The Gaga Dada
 
 - Catalog #: BLP-4023
 - Label: BOMP!
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1986
+- Year: null
 - Release ID: 1933886
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

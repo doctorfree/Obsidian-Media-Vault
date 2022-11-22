@@ -3,9 +3,11 @@ catalog: UVL-66029
 title: Sooner Or Later
 artist: Eddy Raven
 label: Universal Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1989
+year: 1989
 releaseid: 9724772
 mediacondition: 
 sleevecondition: 
@@ -27,9 +29,11 @@ By Eddy Raven
 
 - Catalog #: UVL-66029
 - Label: Universal Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1989
+- Year: 1989
 - Release ID: 9724772
 - Media condition: 
 - Sleeve condition: 

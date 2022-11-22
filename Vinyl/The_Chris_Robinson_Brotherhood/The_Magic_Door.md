@@ -3,9 +3,11 @@ catalog: SAR 08
 title: The Magic Door
 artist: The Chris Robinson Brotherhood
 label: Silver Arrow
+formats: Vinyl, White
 format: 12", Whi + 12", Bla + Album
 rating: 
 released: 2012
+year: 2012
 releaseid: 3872914
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By The Chris Robinson Brotherhood
 
 - Catalog #: SAR 08
 - Label: Silver Arrow
+- Formats: Vinyl, White
 - Format: 12", Whi + 12", Bla + Album
 - Rating: 
 - Released: 2012
+- Year: 2012
 - Release ID: 3872914
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

@@ -3,9 +3,11 @@ catalog: 60390-1, 9 60390-1
 title: Dream Into Action
 artist: Howard Jones
 label: Elektra, Elektra
+formats: Vinyl, Specialty Pressing
 format: LP, Album, Spe
 rating: 
 released: 1985
+year: 1985
 releaseid: 5498431
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Howard Jones
 
 - Catalog #: 60390-1, 9 60390-1
 - Label: Elektra, Elektra
+- Formats: Vinyl, Specialty Pressing
 - Format: LP, Album, Spe
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 5498431
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

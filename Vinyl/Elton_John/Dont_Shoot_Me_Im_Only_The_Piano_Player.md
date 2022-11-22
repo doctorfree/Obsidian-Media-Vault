@@ -3,9 +3,11 @@ catalog: MCA -2100
 title: Don't Shoot Me I'm Only The Piano Player
 artist: Elton John
 label: MCA Records
+formats: Vinyl, Gloversville Pressing, Gatefold
 format: LP, Album, Glo
 rating: 
 released: 1973
+year: 1973
 releaseid: 3299237
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Elton John
 
 - Catalog #: MCA -2100
 - Label: MCA Records
+- Formats: Vinyl, Gloversville Pressing, Gatefold
 - Format: LP, Album, Glo
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 3299237
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

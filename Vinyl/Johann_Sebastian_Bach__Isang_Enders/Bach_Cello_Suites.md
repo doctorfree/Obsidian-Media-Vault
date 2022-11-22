@@ -3,9 +3,11 @@ catalog: 0300609BC
 title: Bach Cello Suites
 artist: "Johann Sebastian Bach, Isang Enders"
 label: Berlin Classics
+formats: Vinyl
 format: 3xLP, Album
 rating: 
 released: 2015
+year: 2015
 releaseid: 7494194
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By "Johann Sebastian Bach, Isang Enders"
 
 - Catalog #: 0300609BC
 - Label: Berlin Classics
+- Formats: Vinyl
 - Format: 3xLP, Album
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 7494194
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

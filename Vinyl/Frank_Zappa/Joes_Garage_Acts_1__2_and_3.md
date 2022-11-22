@@ -3,9 +3,11 @@ catalog: ZR3861-1
 title: "Joe's Garage Acts 1, 2 & 3"
 artist: Frank Zappa
 label: Zappa Records
+formats: Vinyl, 180g
 format: 3xLP, Album, RE, RM, 180
 rating: 
 released: 2016
+year: 1987
 releaseid: 9484648
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Frank Zappa
 
 - Catalog #: ZR3861-1
 - Label: Zappa Records
+- Formats: Vinyl, 180g
 - Format: 3xLP, Album, RE, RM, 180
 - Rating: 
 - Released: 2016
+- Year: 1987
 - Release ID: 9484648
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

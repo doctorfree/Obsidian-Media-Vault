@@ -1,0 +1,60 @@
+#!/bin/bash
+#
+# get-year
+#
+# Insert the original release year in all Vinyl albums
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+URL="https://api.discogs.com/releases"
+MRL="https://api.discogs.com/masters"
+AGE="github.com/doctorfree/MusicPlayerPlus"
+UAG="--user-agent \"MusicPlayerPlus/3.0\""
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+for artist in ${TOP}/*
+do
+  [ "${artist}" == "${TOP}/*" ] && continue
+  [ -d "${artist}" ] || continue
+  for album in "${artist}"/*.md
+  do
+    [ "${album}" == "${artist}/*.md" ] && continue
+    grep "^year:" "${album}" > /dev/null || {
+      release_id=`grep "releaseid:" "${album}"  | \
+                  awk -F ':' ' { print $2 } ' | \
+                  sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${release_id}" ] || continue
+      master_id=$(curl --stderr /dev/null \
+        -A "${AGE}" "${URL}/${release_id}" \
+        -H "Authorization: Discogs token=${token}" | \
+        jq -r '.master_id')
+      sleep 1
+      [ -z ${master_id} ] && {
+        echo "Missing master_id for ${album}"
+        continue
+      }
+      year=$(curl --stderr /dev/null \
+        -A "${AGE}" "${MRL}/${master_id}" \
+        -H "Authorization: Discogs token=${token}" | \
+        jq '.year')
+      sleep 1
+      [ -z ${year} ] && {
+        echo "Missing year for ${album}"
+        continue
+      }
+
+      # Insert year for this album
+      # echo "Inserting year for ${album}"
+      echo "year: ${year}" > /tmp/__meta__
+      echo "- Year: ${year}" > /tmp/__data__
+      sed '/releaseid:/e cat /tmp/__meta__' ${album} > /tmp/foo$$
+      sed '/- Release ID:/e cat /tmp/__data__' /tmp/foo$$ > /tmp/bar$$
+      cp /tmp/bar$$ ${album}
+      rm -f /tmp/bar$$ /tmp/foo$$ /tmp/__meta__ /tmp/__data__
+    }
+  done
+done

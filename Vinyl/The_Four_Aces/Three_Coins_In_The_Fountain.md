@@ -3,9 +3,11 @@ catalog: 9-29123
 title: Three Coins In The Fountain
 artist: The Four Aces
 label: Decca
+formats: Vinyl
 format: 7"
 rating: 
 released: 1954
+year: 1954
 releaseid: 5235793
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Four Aces
 
 - Catalog #: 9-29123
 - Label: Decca
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1954
+- Year: 1954
 - Release ID: 5235793
 - Media condition: Very Good (VG)
 - Sleeve condition: 

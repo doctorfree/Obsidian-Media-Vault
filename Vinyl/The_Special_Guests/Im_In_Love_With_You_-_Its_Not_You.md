@@ -3,9 +3,11 @@ catalog: SPE500
 title: I'm In Love With You / It's Not You
 artist: The Special Guests
 label: Special Guests Enterprises
+formats: Vinyl
 format: 7", Promo
 rating: 
 released: 1986
+year: null
 releaseid: 8784286
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By The Special Guests
 
 - Catalog #: SPE500
 - Label: Special Guests Enterprises
+- Formats: Vinyl
 - Format: 7", Promo
 - Rating: 
 - Released: 1986
+- Year: null
 - Release ID: 8784286
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Near Mint (NM or M-)

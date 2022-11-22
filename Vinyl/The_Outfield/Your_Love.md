@@ -3,9 +3,11 @@ catalog: 38-05796
 title: Your Love
 artist: The Outfield
 label: Columbia
+formats: Vinyl, Carrollton Pressing
 format: 7", Styrene, Car
 rating: 
 released: 1985
+year: 1986
 releaseid: 2288166
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Outfield
 
 - Catalog #: 38-05796
 - Label: Columbia
+- Formats: Vinyl, Carrollton Pressing
 - Format: 7", Styrene, Car
 - Rating: 
 - Released: 1985
+- Year: 1986
 - Release ID: 2288166
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

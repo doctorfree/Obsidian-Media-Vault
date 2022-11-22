@@ -3,9 +3,11 @@ catalog: SD 2-702
 title: Odessa
 artist: Bee Gees
 label: ATCO Records
+formats: Vinyl, Pitman Pressing
 format: 2xLP, Album, Pit
 rating: 
 released: 1969
+year: 1969
 releaseid: 1930742
 mediacondition: Good Plus (G+)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By Bee Gees
 
 - Catalog #: SD 2-702
 - Label: ATCO Records
+- Formats: Vinyl, Pitman Pressing
 - Format: 2xLP, Album, Pit
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 1930742
 - Media condition: Good Plus (G+)
 - Sleeve condition: Fair (F)

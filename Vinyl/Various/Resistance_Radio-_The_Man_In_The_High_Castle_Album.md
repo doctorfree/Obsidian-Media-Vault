@@ -3,9 +3,11 @@ catalog: 88985 41708 1
 title: Resistance Radio: The Man In The High Castle Album
 artist: Various
 label: Columbia, 30th Century Records
+formats: Vinyl
 format: 2xLP, Comp
 rating: 
 released: 2017
+year: 2017
 releaseid: 10104107
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: 88985 41708 1
 - Label: Columbia, 30th Century Records
+- Formats: Vinyl
 - Format: 2xLP, Comp
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10104107
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

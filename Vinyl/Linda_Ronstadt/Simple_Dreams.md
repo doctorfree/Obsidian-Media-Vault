@@ -3,9 +3,11 @@ catalog: MFSL 1-321
 title: Simple Dreams
 artist: Linda Ronstadt
 label: Mobile Fidelity Sound Lab
+formats: Vinyl, 180 Gram, Gatefold
 format: LP, Ltd, Num, RE, RM, 180
 rating: 
 released: 2010
+year: 1977
 releaseid: 3793108
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Linda Ronstadt
 
 - Catalog #: MFSL 1-321
 - Label: Mobile Fidelity Sound Lab
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: LP, Ltd, Num, RE, RM, 180
 - Rating: 
 - Released: 2010
+- Year: 1977
 - Release ID: 3793108
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

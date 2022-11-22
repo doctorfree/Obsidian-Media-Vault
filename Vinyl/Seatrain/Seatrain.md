@@ -3,9 +3,11 @@ catalog: SMAS-659
 title: Seatrain
 artist: Seatrain
 label: Capitol Records
+formats: Vinyl, Green Labels, Winchester Pressing
 format: LP, Album, Gre
 rating: 
 released: 1971
+year: 1971
 releaseid: 2882523
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Seatrain
 
 - Catalog #: SMAS-659
 - Label: Capitol Records
+- Formats: Vinyl, Green Labels, Winchester Pressing
 - Format: LP, Album, Gre
 - Rating: 
 - Released: 1971
+- Year: 1971
 - Release ID: 2882523
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

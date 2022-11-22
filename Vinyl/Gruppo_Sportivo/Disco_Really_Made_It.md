@@ -3,9 +3,11 @@ catalog: 100 335, 100 335-100
 title: Disco Really Made It
 artist: Gruppo Sportivo
 label: Ariola, Ariola
+formats: Vinyl
 format: 7", Single, Ltd
 rating: 
 released: 1979
+year: 1979
 releaseid: 1452926
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Gruppo Sportivo
 
 - Catalog #: 100 335, 100 335-100
 - Label: Ariola, Ariola
+- Formats: Vinyl
 - Format: 7", Single, Ltd
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 1452926
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

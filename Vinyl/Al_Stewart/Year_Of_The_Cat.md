@@ -3,9 +3,11 @@ catalog: J-266
 title: Year Of The Cat
 artist: Al Stewart
 label: Janus Records
+formats: Vinyl, Terre Haute Pressing
 format: 7", Single, Styrene, Ter
 rating: 
 released: 1976
+year: 1976
 releaseid: 1804793
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Al Stewart
 
 - Catalog #: J-266
 - Label: Janus Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: 7", Single, Styrene, Ter
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 1804793
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

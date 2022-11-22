@@ -3,9 +3,11 @@ catalog: R1 545488
 title: Progeny: Highlights From Seventy-Two
 artist: Yes
 label: Rhino Records (2), Atlantic
+formats: Vinyl
 format: 3xLP, Album
 rating: 
 released: 2015
+year: 2015
 releaseid: 7116500
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Yes
 
 - Catalog #: R1 545488
 - Label: Rhino Records (2), Atlantic
+- Formats: Vinyl
 - Format: 3xLP, Album
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 7116500
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

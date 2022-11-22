@@ -3,9 +3,11 @@ catalog: B-8166
 title: Touch And Go
 artist: Any Trouble
 label: EMI America
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1983
+year: 1983
 releaseid: 4564207
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Any Trouble
 
 - Catalog #: B-8166
 - Label: EMI America
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1983
+- Year: 1983
 - Release ID: 4564207
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

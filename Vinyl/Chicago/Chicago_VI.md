@@ -3,9 +3,11 @@ catalog: FRM 32400
 title: Chicago VI
 artist: Chicago
 label: Friday Music
+formats: Vinyl, 180 Gram, Gatefold
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2011
+year: 1973
 releaseid: 3663971
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Chicago
 
 - Catalog #: FRM 32400
 - Label: Friday Music
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2011
+- Year: 1973
 - Release ID: 3663971
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

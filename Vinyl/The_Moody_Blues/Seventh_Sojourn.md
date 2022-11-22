@@ -3,9 +3,11 @@ catalog: FRM-7
 title: Seventh Sojourn
 artist: The Moody Blues
 label: Friday Music
+formats: Vinyl, 180 gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2015
+year: 1972
 releaseid: 9697155
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Moody Blues
 
 - Catalog #: FRM-7
 - Label: Friday Music
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1972
 - Release ID: 9697155
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

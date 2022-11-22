@@ -3,9 +3,11 @@ catalog: MRS-5008
 title: Magazine
 artist: Heart
 label: Mushroom Records (5)
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, RE, San
 rating: 
 released: 1978
+year: 1977
 releaseid: 412737
 mediacondition: Good Plus (G+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Heart
 
 - Catalog #: MRS-5008
 - Label: Mushroom Records (5)
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, RE, San
 - Rating: 
 - Released: 1978
+- Year: 1977
 - Release ID: 412737
 - Media condition: Good Plus (G+)
 - Sleeve condition: Good Plus (G+)

@@ -3,9 +3,11 @@ catalog: GR-7720, GR 7720
 title: The Original Sound Track from Five Summer Stories
 artist: Honk
 label: Granite Records, Granite Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1972
+year: 1972
 releaseid: 7705961
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Honk
 
 - Catalog #: GR-7720, GR 7720
 - Label: Granite Records, Granite Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1972
+- Year: 1972
 - Release ID: 7705961
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

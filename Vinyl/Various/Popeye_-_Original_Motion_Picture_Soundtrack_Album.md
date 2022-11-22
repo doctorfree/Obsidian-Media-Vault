@@ -3,9 +3,11 @@ catalog: SW-36880, SW 36880
 title: Popeye - Original Motion Picture Soundtrack Album
 artist: Various
 label: The Boardwalk Entertainment Co, The Boardwalk Entertainment Co
+formats: Vinyl, Pitman Pressing
 format: LP, Album, Pit
 rating: 
 released: 1980
+year: 1980
 releaseid: 2137850
 mediacondition: Good Plus (G+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: SW-36880, SW 36880
 - Label: The Boardwalk Entertainment Co, The Boardwalk Entertainment Co
+- Formats: Vinyl, Pitman Pressing
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 2137850
 - Media condition: Good Plus (G+)
 - Sleeve condition: Good Plus (G+)

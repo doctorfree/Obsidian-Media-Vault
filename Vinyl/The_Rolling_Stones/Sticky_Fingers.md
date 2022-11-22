@@ -3,9 +3,11 @@ catalog: COC 59100
 title: Sticky Fingers
 artist: The Rolling Stones
 label: Rolling Stones Records
+formats: Vinyl, MO - Monarch Press, Zipper cover
 format: LP, Album, RP, MO 
 rating: 
 released: 1972
+year: 1971
 releaseid: 3635308
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: COC 59100
 - Label: Rolling Stones Records
+- Formats: Vinyl, MO - Monarch Press, Zipper cover
 - Format: LP, Album, RP, MO 
 - Rating: 
 - Released: 1972
+- Year: 1971
 - Release ID: 3635308
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

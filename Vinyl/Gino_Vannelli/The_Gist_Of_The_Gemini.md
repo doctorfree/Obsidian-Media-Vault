@@ -3,9 +3,11 @@ catalog: SP4596
 title: The Gist Of The Gemini
 artist: Gino Vannelli
 label: A&M Records
+formats: Vinyl, Pitman Pressing, Gatefold
 format: LP, Album, Pit
 rating: 
 released: 0
+year: 0
 releaseid: 1665028
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Gino Vannelli
 
 - Catalog #: SP4596
 - Label: A&M Records
+- Formats: Vinyl, Pitman Pressing, Gatefold
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 1665028
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

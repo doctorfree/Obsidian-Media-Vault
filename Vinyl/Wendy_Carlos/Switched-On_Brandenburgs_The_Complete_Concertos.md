@@ -3,9 +3,11 @@ catalog: M2X 35895
 title: Switched-On Brandenburgs (The Complete Concertos)
 artist: Wendy Carlos
 label: CBS Masterworks
+formats: Vinyl, Pitman Pressing, Gatefold
 format: 2xLP, Comp, Pit
 rating: 
 released: 1980
+year: 1980
 releaseid: 1873893
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -25,9 +27,11 @@ By Wendy Carlos
 
 - Catalog #: M2X 35895
 - Label: CBS Masterworks
+- Formats: Vinyl, Pitman Pressing, Gatefold
 - Format: 2xLP, Comp, Pit
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 1873893
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

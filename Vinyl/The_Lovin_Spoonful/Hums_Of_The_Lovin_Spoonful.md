@@ -3,9 +3,11 @@ catalog: LP 5509
 title: Hums Of The Lovin' Spoonful
 artist: The Lovin' Spoonful
 label: Kama Sutra, Sony Music, Sundazed Music
+formats: Vinyl
 format: LP, Album, Mono
 rating: 
 released: 2015
+year: 1966
 releaseid: 9070500
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Lovin' Spoonful
 
 - Catalog #: LP 5509
 - Label: Kama Sutra, Sony Music, Sundazed Music
+- Formats: Vinyl
 - Format: LP, Album, Mono
 - Rating: 
 - Released: 2015
+- Year: 1966
 - Release ID: 9070500
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

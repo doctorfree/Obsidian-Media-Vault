@@ -3,9 +3,11 @@ catalog: LP 5277, P 741407
 title: Twelve Dreams Of Dr. Sardonicus
 artist: Spirit
 label: Sundazed Music, Epic
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2009
+year: 1970
 releaseid: 3613571
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Spirit
 
 - Catalog #: LP 5277, P 741407
 - Label: Sundazed Music, Epic
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2009
+- Year: 1970
 - Release ID: 3613571
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: ABCX-816
 title: Trespass
 artist: Genesis
 label: ABC Records
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 1974
+year: 1970
 releaseid: 7048006
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Genesis
 
 - Catalog #: ABCX-816
 - Label: ABC Records
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 1974
+- Year: 1970
 - Release ID: 7048006
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

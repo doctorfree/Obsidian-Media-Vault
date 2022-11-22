@@ -3,9 +3,11 @@ catalog: 9 23728-1, 1-23728
 title: Love Over Gold
 artist: Dire Straits
 label: Warner Bros. Records, Warner Bros. Records
+formats: Vinyl, Winchester Press
 format: LP, Album, Win
 rating: 
 released: 1982
+year: 1982
 releaseid: 4540529
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Dire Straits
 
 - Catalog #: 9 23728-1, 1-23728
 - Label: Warner Bros. Records, Warner Bros. Records
+- Formats: Vinyl, Winchester Press
 - Format: LP, Album, Win
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 4540529
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: ST-5073
 title: I Don't Wanna Go
 artist: The Moments
 label: Stang Records
+formats: Vinyl
 format: 7"
 rating: 
 released: 1977
+year: 1977
 releaseid: 4610871
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Moments
 
 - Catalog #: ST-5073
 - Label: Stang Records
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 4610871
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

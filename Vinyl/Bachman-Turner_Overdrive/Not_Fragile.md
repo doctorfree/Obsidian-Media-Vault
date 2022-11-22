@@ -3,9 +3,11 @@ catalog: SRM 1-1004
 title: Not Fragile
 artist: Bachman-Turner Overdrive
 label: Mercury
+formats: Vinyl, Santa Maria Pressing, Gatefold
 format: LP, Album, San
 rating: 
 released: 1974
+year: 1974
 releaseid: 3430931
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bachman-Turner Overdrive
 
 - Catalog #: SRM 1-1004
 - Label: Mercury
+- Formats: Vinyl, Santa Maria Pressing, Gatefold
 - Format: LP, Album, San
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 3430931
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

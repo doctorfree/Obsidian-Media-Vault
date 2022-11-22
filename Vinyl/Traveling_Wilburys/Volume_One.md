@@ -3,9 +3,11 @@ catalog: 9 25796-1, 1-25796
 title: Volume One
 artist: Traveling Wilburys
 label: Wilbury Records, Wilbury Records
+formats: Vinyl, Specialty Records Press
 format: LP, Album, Spe
 rating: 
 released: 1988
+year: 1988
 releaseid: 1574267
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Traveling Wilburys
 
 - Catalog #: 9 25796-1, 1-25796
 - Label: Wilbury Records, Wilbury Records
+- Formats: Vinyl, Specialty Records Press
 - Format: LP, Album, Spe
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 1574267
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

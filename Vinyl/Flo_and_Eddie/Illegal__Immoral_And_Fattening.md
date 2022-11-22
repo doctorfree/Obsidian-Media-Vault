@@ -3,9 +3,11 @@ catalog: PC 33554
 title: "Illegal, Immoral And Fattening"
 artist: Flo & Eddie
 label: Columbia
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1975
+year: 1975
 releaseid: 1219175
 mediacondition: Good Plus (G+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Flo & Eddie
 
 - Catalog #: PC 33554
 - Label: Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 1219175
 - Media condition: Good Plus (G+)
 - Sleeve condition: Very Good (VG)

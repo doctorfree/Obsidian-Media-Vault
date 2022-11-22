@@ -3,9 +3,11 @@ catalog: B0025531-01
 title: August And Everything After
 artist: Counting Crows
 label: DGC
+formats: Vinyl
 format: 2xLP, Album, RE
 rating: 
 released: 2017
+year: 1993
 releaseid: 9982250
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Counting Crows
 
 - Catalog #: B0025531-01
 - Label: DGC
+- Formats: Vinyl
 - Format: 2xLP, Album, RE
 - Rating: 
 - Released: 2017
+- Year: 1993
 - Release ID: 9982250
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

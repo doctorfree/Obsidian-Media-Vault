@@ -3,9 +3,11 @@ catalog: DIN 22
 title: Enola Gay
 artist: Orchestral Manoeuvres In The Dark
 label: Dindisc
+formats: Vinyl, Grey lettering
 format: 7", Single, Gre
 rating: 
 released: 1980
+year: 1980
 releaseid: 99647
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Orchestral Manoeuvres In The Dark
 
 - Catalog #: DIN 22
 - Label: Dindisc
+- Formats: Vinyl, Grey lettering
 - Format: 7", Single, Gre
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 99647
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Near Mint (NM or M-)

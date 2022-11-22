@@ -3,9 +3,11 @@ catalog: 88875-141701-4
 title: Tell Me I'm Pretty
 artist: Cage The Elephant
 label: RCA, DSP (4)
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2015
+year: 2015
 releaseid: 7856486
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Cage The Elephant
 
 - Catalog #: 88875-141701-4
 - Label: RCA, DSP (4)
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 7856486
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

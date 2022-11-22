@@ -3,9 +3,11 @@ catalog: PLP 1, PLP #1
 title: Harper Valley P.T.A.
 artist: Jeannie C. Riley
 label: Plantation Records, Plantation Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1968
+year: 1968
 releaseid: 1524091
 mediacondition: Very Good (VG)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By Jeannie C. Riley
 
 - Catalog #: PLP 1, PLP #1
 - Label: Plantation Records, Plantation Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 1524091
 - Media condition: Very Good (VG)
 - Sleeve condition: Good (G)

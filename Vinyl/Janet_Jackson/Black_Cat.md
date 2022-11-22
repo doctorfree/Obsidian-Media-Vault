@@ -3,9 +3,11 @@ catalog: 75021 1477 7
 title: Black Cat
 artist: Janet Jackson
 label: A&M Records
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1990
+year: 1990
 releaseid: 2871224
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Janet Jackson
 
 - Catalog #: 75021 1477 7
 - Label: A&M Records
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1990
+- Year: 1990
 - Release ID: 2871224
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

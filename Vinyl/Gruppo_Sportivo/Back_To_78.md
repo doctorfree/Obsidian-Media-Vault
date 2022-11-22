@@ -3,9 +3,11 @@ catalog: 26.472 OT, 26 472 XOT
 title: Back To 78
 artist: Gruppo Sportivo
 label: Ariola, Ariola
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1978
+year: 1978
 releaseid: 5124089
 mediacondition: Very Good (VG)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Gruppo Sportivo
 
 - Catalog #: 26.472 OT, 26 472 XOT
 - Label: Ariola, Ariola
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 5124089
 - Media condition: Very Good (VG)
 - Sleeve condition: Good Plus (G+)

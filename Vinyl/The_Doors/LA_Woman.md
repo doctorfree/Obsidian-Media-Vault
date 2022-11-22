@@ -3,9 +3,11 @@ catalog: EKS 75011, RHI-74881-6, R1 519556
 title: L.A. Woman
 artist: The Doors
 label: Elektra, Rhino Records (2), Rhino Vinyl
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, 180
 rating: 
 released: 2009
+year: 1976
 releaseid: 2030776
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: EKS 75011, RHI-74881-6, R1 519556
 - Label: Elektra, Rhino Records (2), Rhino Vinyl
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2009
+- Year: 1976
 - Release ID: 2030776
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

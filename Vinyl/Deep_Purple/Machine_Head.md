@@ -3,9 +3,11 @@ catalog: BS 2607
 title: Machine Head
 artist: Deep Purple
 label: Warner Bros. Records
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 1974
+year: 1972
 releaseid: 2956949
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Deep Purple
 
 - Catalog #: BS 2607
 - Label: Warner Bros. Records
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 1974
+- Year: 1972
 - Release ID: 2956949
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

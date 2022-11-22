@@ -3,9 +3,11 @@ catalog: MCA-5641
 title: Who's Missing
 artist: The Who
 label: MCA Records
+formats: Vinyl, Pinckneyville Pressing
 format: LP, Comp, Pin
 rating: 
 released: 1985
+year: 1985
 releaseid: 6580287
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Who
 
 - Catalog #: MCA-5641
 - Label: MCA Records
+- Formats: Vinyl, Pinckneyville Pressing
 - Format: LP, Comp, Pin
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 6580287
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

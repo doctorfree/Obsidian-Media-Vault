@@ -3,9 +3,11 @@ catalog: PAPRLP1010
 title: Girls In The Garage Volume 10 - Groovy Gallic Gals!
 artist: Various
 label: Past & Present Records
+formats: Vinyl, 180 Gram, Amber
 format: LP, Comp, Ltd, Num, RE, 180
 rating: 
 released: 2017
+year: 0
 releaseid: 10172582
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: PAPRLP1010
 - Label: Past & Present Records
+- Formats: Vinyl, 180 Gram, Amber
 - Format: LP, Comp, Ltd, Num, RE, 180
 - Rating: 
 - Released: 2017
+- Year: 0
 - Release ID: 10172582
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

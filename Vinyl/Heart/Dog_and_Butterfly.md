@@ -3,9 +3,11 @@ catalog: FRM-35555, 88875112971
 title: Dog & Butterfly
 artist: Heart
 label: Friday Music, Epic
+formats: Vinyl, Gold Translucent
 format: LP, Album, Ltd, RE, Gol
 rating: 
 released: 2016
+year: 1978
 releaseid: 9316835
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Heart
 
 - Catalog #: FRM-35555, 88875112971
 - Label: Friday Music, Epic
+- Formats: Vinyl, Gold Translucent
 - Format: LP, Album, Ltd, RE, Gol
 - Rating: 
 - Released: 2016
+- Year: 1978
 - Release ID: 9316835
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

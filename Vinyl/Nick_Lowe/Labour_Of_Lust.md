@@ -3,9 +3,11 @@ catalog: JC 36087, 36087
 title: Labour Of Lust
 artist: Nick Lowe
 label: Columbia, Columbia
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1979
+year: 1979
 releaseid: 654861
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Nick Lowe
 
 - Catalog #: JC 36087, 36087
 - Label: Columbia, Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 654861
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

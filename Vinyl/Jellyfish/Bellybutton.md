@@ -3,9 +3,11 @@ catalog: 1-91400, 91400-1
 title: Bellybutton
 artist: Jellyfish
 label: Charisma, Charisma
+formats: Vinyl, Tri-Fold Cover
 format: LP, Album, Promo, Tri
 rating: 5
 released: 1990
+year: 1990
 releaseid: 6626500
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jellyfish
 
 - Catalog #: 1-91400, 91400-1
 - Label: Charisma, Charisma
+- Formats: Vinyl, Tri-Fold Cover
 - Format: LP, Album, Promo, Tri
 - Rating: 5
 - Released: 1990
+- Year: 1990
 - Release ID: 6626500
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

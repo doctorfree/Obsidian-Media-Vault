@@ -3,9 +3,11 @@ catalog: PD 5025, 2391 030
 title: Mandrill Is
 artist: Mandrill
 label: Polydor, Polydor
+formats: Vinyl, Monarch Pressing
 format: LP, Album, Mon
 rating: 
 released: 1972
+year: 1972
 releaseid: 554699
 mediacondition: Good Plus (G+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Mandrill
 
 - Catalog #: PD 5025, 2391 030
 - Label: Polydor, Polydor
+- Formats: Vinyl, Monarch Pressing
 - Format: LP, Album, Mon
 - Rating: 
 - Released: 1972
+- Year: 1972
 - Release ID: 554699
 - Media condition: Good Plus (G+)
 - Sleeve condition: Very Good (VG)

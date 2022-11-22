@@ -3,9 +3,11 @@ catalog: GLAX-1756
 title: Discoed To Death / Just One Step
 artist: Latimore
 label: Glades
+formats: Vinyl
 format: 7"
 rating: 
 released: 1979
+year: 1979
 releaseid: 2825980
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Latimore
 
 - Catalog #: GLAX-1756
 - Label: Glades
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 2825980
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

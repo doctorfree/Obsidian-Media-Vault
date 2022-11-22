@@ -3,9 +3,11 @@ catalog: JR 34799
 title: Little Queen
 artist: Heart
 label: Portrait
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1977
+year: 1977
 releaseid: 412741
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Heart
 
 - Catalog #: JR 34799
 - Label: Portrait
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 412741
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

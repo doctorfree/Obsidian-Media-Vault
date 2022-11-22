@@ -3,9 +3,11 @@ catalog: B0019906-01
 title: St. Vincent
 artist: St. Vincent
 label: Loma Vista, Republic Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2014
+year: 2014
 releaseid: 5433829
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By St. Vincent
 
 - Catalog #: B0019906-01
 - Label: Loma Vista, Republic Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2014
+- Year: 2014
 - Release ID: 5433829
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

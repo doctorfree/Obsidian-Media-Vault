@@ -3,9 +3,11 @@ catalog: 1001
 title: "One More Goodbye, One More Hello"
 artist: Donnie Record
 label: Briar Rose Records
+formats: Vinyl
 format: 7", Promo
 rating: 
 released: 1978
+year: null
 releaseid: 4880058
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Donnie Record
 
 - Catalog #: 1001
 - Label: Briar Rose Records
+- Formats: Vinyl
 - Format: 7", Promo
 - Rating: 
 - Released: 1978
+- Year: null
 - Release ID: 4880058
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

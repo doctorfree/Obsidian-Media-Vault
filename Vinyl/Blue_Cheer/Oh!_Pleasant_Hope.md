@@ -3,9 +3,11 @@ catalog: PHS 600-350
 title: Oh! Pleasant Hope
 artist: Blue Cheer
 label: Philips
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1971
+year: 1971
 releaseid: 1489054
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Blue Cheer
 
 - Catalog #: PHS 600-350
 - Label: Philips
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1971
+- Year: 1971
 - Release ID: 1489054
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: RS-6261, RS 6261
 title: Are You Experienced
 artist: The Jimi Hendrix Experience
 label: Reprise Records, Reprise Records
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 1979
+year: 1967
 releaseid: 1846128
 mediacondition: Good Plus (G+)
 sleevecondition: Fair (F)
@@ -27,9 +29,11 @@ By The Jimi Hendrix Experience
 
 - Catalog #: RS-6261, RS 6261
 - Label: Reprise Records, Reprise Records
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 1979
+- Year: 1967
 - Release ID: 1846128
 - Media condition: Good Plus (G+)
 - Sleeve condition: Fair (F)

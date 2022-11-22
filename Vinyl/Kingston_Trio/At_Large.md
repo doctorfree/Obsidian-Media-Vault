@@ -3,9 +3,11 @@ catalog: T1199, T-1199
 title: At Large
 artist: Kingston Trio
 label: Capitol Records, Capitol Records
+formats: Vinyl
 format: LP, Album, Mono, RP
 rating: 
 released: 1959
+year: 1959
 releaseid: 1876772
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Kingston Trio
 
 - Catalog #: T1199, T-1199
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl
 - Format: LP, Album, Mono, RP
 - Rating: 
 - Released: 1959
+- Year: 1959
 - Release ID: 1876772
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

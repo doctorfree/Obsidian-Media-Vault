@@ -3,9 +3,11 @@ catalog: LL 3429
 title: Out Of Our Heads
 artist: The Rolling Stones
 label: London Records
+formats: Vinyl
 format: LP, Album, Mono, RP
 rating: 
 released: 1966
+year: 1965
 releaseid: 4502220
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: LL 3429
 - Label: London Records
+- Formats: Vinyl
 - Format: LP, Album, Mono, RP
 - Rating: 
 - Released: 1966
+- Year: 1965
 - Release ID: 4502220
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good (G)

@@ -3,9 +3,11 @@ catalog: 45-6444
 title: I Can't Control Myself
 artist: The Troggs
 label: ATCO Records
+formats: Vinyl
 format: 7"
 rating: 
 released: 1966
+year: 1966
 releaseid: 9055466
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Troggs
 
 - Catalog #: 45-6444
 - Label: ATCO Records
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1966
+- Year: 1966
 - Release ID: 9055466
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

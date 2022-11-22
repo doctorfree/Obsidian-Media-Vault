@@ -3,9 +3,11 @@ catalog: 1865
 title: Photograph
 artist: Ringo Starr
 label: Capitol Records
+formats: Vinyl
 format: 7", Single, RE
 rating: 
 released: 1988
+year: 1973
 releaseid: 3120354
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Ringo Starr
 
 - Catalog #: 1865
 - Label: Capitol Records
+- Formats: Vinyl
 - Format: 7", Single, RE
 - Rating: 
 - Released: 1988
+- Year: 1973
 - Release ID: 3120354
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

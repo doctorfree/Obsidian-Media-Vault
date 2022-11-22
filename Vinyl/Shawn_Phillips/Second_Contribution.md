@@ -3,9 +3,11 @@ catalog: SP-4282
 title: Second Contribution
 artist: Shawn Phillips
 label: A&M Records
+formats: Vinyl, Pitman Press
 format: LP, Album, Pit
 rating: 
 released: 1970
+year: 1970
 releaseid: 1462084
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Shawn Phillips
 
 - Catalog #: SP-4282
 - Label: A&M Records
+- Formats: Vinyl, Pitman Press
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 1462084
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: NBLP 7020-798
 title: Alive!
 artist: Kiss
 label: Casablanca
+formats: Vinyl, PRC First Pressing. Gatefold Sleeve
 format: 2xLP, Album, PRC
 rating: 
 released: 1975
+year: 1975
 releaseid: 4530023
 mediacondition: Very Good (VG)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Kiss
 
 - Catalog #: NBLP 7020-798
 - Label: Casablanca
+- Formats: Vinyl, PRC First Pressing. Gatefold Sleeve
 - Format: 2xLP, Album, PRC
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 4530023
 - Media condition: Very Good (VG)
 - Sleeve condition: Good Plus (G+)

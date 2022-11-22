@@ -3,9 +3,11 @@ catalog: C157
 title: God Bless America / My Old Kentucky Home
 artist: Kate Smith
 label: Cricket
+formats: Vinyl
 format: 7"
 rating: 
 released: 1953
+year: 1953
 releaseid: 5623294
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Kate Smith
 
 - Catalog #: C157
 - Label: Cricket
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1953
+- Year: 1953
 - Release ID: 5623294
 - Media condition: Very Good (VG)
 - Sleeve condition: 

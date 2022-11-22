@@ -3,9 +3,11 @@ catalog: D000261801
 title: Queen II
 artist: Queen
 label: Hollywood Records
+formats: Vinyl, Gatefold, 180 Gram
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2008
+year: 1974
 releaseid: 3110951
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Queen
 
 - Catalog #: D000261801
 - Label: Hollywood Records
+- Formats: Vinyl, Gatefold, 180 Gram
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2008
+- Year: 1974
 - Release ID: 3110951
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

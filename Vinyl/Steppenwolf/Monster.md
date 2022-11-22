@@ -3,9 +3,11 @@ catalog: 45-D-4221
 title: Monster
 artist: Steppenwolf
 label: ABC/Dunhill Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1970
+year: 1970
 releaseid: 6023523
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Steppenwolf
 
 - Catalog #: 45-D-4221
 - Label: ABC/Dunhill Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 6023523
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

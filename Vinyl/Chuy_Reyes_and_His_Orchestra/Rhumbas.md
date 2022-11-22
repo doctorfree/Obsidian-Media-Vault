@@ -3,9 +3,11 @@ catalog: CDF 259
 title: Rhumbas
 artist: Chuy Reyes & His Orchestra
 label: Capitol Records
+formats: Vinyl
 format: 4x7", Album + Box
 rating: 
 released: 0
+year: 0
 releaseid: 5321400
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Chuy Reyes & His Orchestra
 
 - Catalog #: CDF 259
 - Label: Capitol Records
+- Formats: Vinyl
 - Format: 4x7", Album + Box
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 5321400
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

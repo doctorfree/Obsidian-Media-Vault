@@ -3,9 +3,11 @@ catalog: 88697413021
 title: Ten
 artist: Pearl Jam
 label: Epic, Legacy
+formats: Vinyl
 format: LP, Album + LP, Album + RE, RM, 180
 rating: 
 released: 2009
+year: 1991
 releaseid: 1704831
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Pearl Jam
 
 - Catalog #: 88697413021
 - Label: Epic, Legacy
+- Formats: Vinyl
 - Format: LP, Album + LP, Album + RE, RM, 180
 - Rating: 
 - Released: 2009
+- Year: 1991
 - Release ID: 1704831
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

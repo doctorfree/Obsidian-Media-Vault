@@ -3,9 +3,11 @@ catalog: C-467
 title: "Can't Get Enough Of You, Baby"
 artist: ? & The Mysterians
 label: Cameo
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1967
+year: 1967
 releaseid: 2028267
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By ? & The Mysterians
 
 - Catalog #: C-467
 - Label: Cameo
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 2028267
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

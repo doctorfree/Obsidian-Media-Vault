@@ -3,9 +3,11 @@ catalog: MOVLP542
 title: Get Ready
 artist: Rare Earth
 label: Rare Earth, Tamla Motown, Music On Vinyl
+formats: Vinyl, 180gr
 format: LP, Album, RE, 180
 rating: 
 released: 2012
+year: 1969
 releaseid: 3720032
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Rare Earth
 
 - Catalog #: MOVLP542
 - Label: Rare Earth, Tamla Motown, Music On Vinyl
+- Formats: Vinyl, 180gr
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2012
+- Year: 1969
 - Release ID: 3720032
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

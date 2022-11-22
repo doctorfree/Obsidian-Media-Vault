@@ -3,9 +3,11 @@ catalog: 2068
 title: Darlin' / Here Today
 artist: The Beach Boys
 label: Capitol Records
+formats: Vinyl, Scranton
 format: 7", Scr
 rating: 
 released: 1967
+year: 1967
 releaseid: 1594391
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Beach Boys
 
 - Catalog #: 2068
 - Label: Capitol Records
+- Formats: Vinyl, Scranton
 - Format: 7", Scr
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 1594391
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

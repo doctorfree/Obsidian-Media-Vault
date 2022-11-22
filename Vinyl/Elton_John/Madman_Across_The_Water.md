@@ -3,9 +3,11 @@ catalog: 5707086
 title: Madman Across The Water
 artist: Elton John
 label: DJM Records (2), Mercury
+formats: Vinyl, Gatefold, 180 Gram
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2017
+year: 1971
 releaseid: 10212451
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Elton John
 
 - Catalog #: 5707086
 - Label: DJM Records (2), Mercury
+- Formats: Vinyl, Gatefold, 180 Gram
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2017
+- Year: 1971
 - Release ID: 10212451
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

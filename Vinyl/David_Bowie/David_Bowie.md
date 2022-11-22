@@ -3,9 +3,11 @@ catalog: 0825646287390, DB69731, DB 69731
 title: David Bowie
 artist: David Bowie
 label: Parlophone, Parlophone, Parlophone
+formats: Vinyl, Gatefold
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2016
+year: 1969
 releaseid: 8161980
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By David Bowie
 
 - Catalog #: 0825646287390, DB69731, DB 69731
 - Label: Parlophone, Parlophone, Parlophone
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2016
+- Year: 1969
 - Release ID: 8161980
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

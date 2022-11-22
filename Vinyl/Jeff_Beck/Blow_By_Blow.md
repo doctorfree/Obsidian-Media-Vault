@@ -3,9 +3,11 @@ catalog: PE 33409
 title: Blow By Blow
 artist: Jeff Beck
 label: Epic
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1975
+year: 1975
 releaseid: 683232
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jeff Beck
 
 - Catalog #: PE 33409
 - Label: Epic
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 683232
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

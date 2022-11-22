@@ -3,9 +3,11 @@ catalog: VS746
 title: Wake Up
 artist: XTC
 label: Virgin
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1985
+year: 1985
 releaseid: 1960213
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By XTC
 
 - Catalog #: VS746
 - Label: Virgin
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 1960213
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

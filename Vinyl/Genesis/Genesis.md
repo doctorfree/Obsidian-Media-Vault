@@ -3,9 +3,11 @@ catalog: 80116-1, 7 80116-1
 title: Genesis
 artist: Genesis
 label: Atlantic, Atlantic
+formats: Vinyl, SP / Specialty Pressing
 format: LP, Album, SP 
 rating: 
 released: 1983
+year: 1983
 releaseid: 1028168
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Genesis
 
 - Catalog #: 80116-1, 7 80116-1
 - Label: Atlantic, Atlantic
+- Formats: Vinyl, SP / Specialty Pressing
 - Format: LP, Album, SP 
 - Rating: 
 - Released: 1983
+- Year: 1983
 - Release ID: 1028168
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

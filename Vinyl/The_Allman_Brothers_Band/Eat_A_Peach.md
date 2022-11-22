@@ -3,9 +3,11 @@ catalog: B0024691-01
 title: Eat A Peach
 artist: The Allman Brothers Band
 label: Mercury
+formats: Vinyl, Gatefold, 180g, DMM
 format: 2xLP, Album, RE, RM, Gat
 rating: 
 released: 2016
+year: 1972
 releaseid: 8804744
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Allman Brothers Band
 
 - Catalog #: B0024691-01
 - Label: Mercury
+- Formats: Vinyl, Gatefold, 180g, DMM
 - Format: 2xLP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2016
+- Year: 1972
 - Release ID: 8804744
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

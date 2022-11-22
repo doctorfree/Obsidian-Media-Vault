@@ -3,9 +3,11 @@ catalog: 006025 17456976
 title: Pink Moon
 artist: Nick Drake
 label: Island Records, Universal Music Group International
+formats: Vinyl, 180 Gram, Gatefold
 format: LP, Album, RE, 180
 rating: 
 released: 2013
+year: 1972
 releaseid: 4330457
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Nick Drake
 
 - Catalog #: 006025 17456976
 - Label: Island Records, Universal Music Group International
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2013
+- Year: 1972
 - Release ID: 4330457
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

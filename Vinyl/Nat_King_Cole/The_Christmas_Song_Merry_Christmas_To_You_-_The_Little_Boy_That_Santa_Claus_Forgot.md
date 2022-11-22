@@ -3,9 +3,11 @@ catalog: 3561
 title: The Christmas Song (Merry Christmas To You) / The Little Boy That Santa Claus Forgot
 artist: Nat King Cole
 label: Capitol Records
+formats: Vinyl, Orange Label
 format: 7", Single, Mono, RE, Ora
 rating: 
 released: 1973
+year: 1956
 releaseid: 6634627
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Nat King Cole
 
 - Catalog #: 3561
 - Label: Capitol Records
+- Formats: Vinyl, Orange Label
 - Format: 7", Single, Mono, RE, Ora
 - Rating: 
 - Released: 1973
+- Year: 1956
 - Release ID: 6634627
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

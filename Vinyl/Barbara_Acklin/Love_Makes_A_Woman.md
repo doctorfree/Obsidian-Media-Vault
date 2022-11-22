@@ -3,9 +3,11 @@ catalog: 55379
 title: Love Makes A Woman
 artist: Barbara Acklin
 label: Brunswick
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1968
+year: 1968
 releaseid: 7971678
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Barbara Acklin
 
 - Catalog #: 55379
 - Label: Brunswick
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 7971678
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

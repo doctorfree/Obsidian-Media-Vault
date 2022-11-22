@@ -3,9 +3,11 @@ catalog: 3-10477
 title: Dream Dream
 artist: Leon Haywood
 label: Columbia
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1977
+year: 1977
 releaseid: 9692089
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Leon Haywood
 
 - Catalog #: 3-10477
 - Label: Columbia
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 9692089
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

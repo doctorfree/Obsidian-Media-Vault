@@ -3,9 +3,11 @@ catalog: 5707094
 title: Elton John
 artist: Elton John
 label: Mercury, DJM Records (2)
+formats: Vinyl, Gatefold
 format: LP, Album, RE, RM, Gat
 rating: 
 released: 2017
+year: 1970
 releaseid: 10231422
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Elton John
 
 - Catalog #: 5707094
 - Label: Mercury, DJM Records (2)
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, RE, RM, Gat
 - Rating: 
 - Released: 2017
+- Year: 1970
 - Release ID: 10231422
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

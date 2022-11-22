@@ -3,9 +3,11 @@ catalog: R1 73788
 title: The Yes Album
 artist: Yes
 label: Rhino Records (2), Atlantic
+formats: Vinyl, 180 gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2003
+year: 1971
 releaseid: 2516193
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Yes
 
 - Catalog #: R1 73788
 - Label: Rhino Records (2), Atlantic
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2003
+- Year: 1971
 - Release ID: 2516193
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

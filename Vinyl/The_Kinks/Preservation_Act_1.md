@@ -3,9 +3,11 @@ catalog: VEL-LP-79830
 title: Preservation Act 1
 artist: The Kinks
 label: Velvel
+formats: Vinyl, 180 Gram
 format: LP, Album, Ltd, RE, 180
 rating: 
 released: 2008
+year: 1973
 releaseid: 6010295
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Kinks
 
 - Catalog #: VEL-LP-79830
 - Label: Velvel
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, Ltd, RE, 180
 - Rating: 
 - Released: 2008
+- Year: 1973
 - Release ID: 6010295
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

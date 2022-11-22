@@ -3,9 +3,11 @@ catalog: 1702 MF
 title: Somebody's Watching Me
 artist: Rockwell
 label: Motown
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1983
+year: 1983
 releaseid: 1831469
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Rockwell
 
 - Catalog #: 1702 MF
 - Label: Motown
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1983
+- Year: 1983
 - Release ID: 1831469
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

@@ -3,9 +3,11 @@ catalog: 8431, F-8431
 title: A Charlie Brown Christmas
 artist: Vince Guaraldi Trio
 label: Fantasy, Fantasy
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 1988
+year: 1965
 releaseid: 394949
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Vince Guaraldi Trio
 
 - Catalog #: 8431, F-8431
 - Label: Fantasy, Fantasy
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 1988
+- Year: 1965
 - Release ID: 394949
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

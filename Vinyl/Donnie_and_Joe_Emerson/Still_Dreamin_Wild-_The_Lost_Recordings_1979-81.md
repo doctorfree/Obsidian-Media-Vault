@@ -3,9 +3,11 @@ catalog: LITA 115
 title: Still Dreamin' Wild: The Lost Recordings 1979-81
 artist: Donnie & Joe Emerson
 label: Light In The Attic
+formats: Vinyl
 format: LP, Ltd
 rating: 
 released: 2014
+year: 2014
 releaseid: 6399111
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Donnie & Joe Emerson
 
 - Catalog #: LITA 115
 - Label: Light In The Attic
+- Formats: Vinyl
 - Format: LP, Ltd
 - Rating: 
 - Released: 2014
+- Year: 2014
 - Release ID: 6399111
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

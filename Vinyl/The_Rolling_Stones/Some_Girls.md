@@ -3,9 +3,11 @@ catalog: COC 39108
 title: Some Girls
 artist: The Rolling Stones
 label: Rolling Stones Records
+formats: Vinyl, 2nd Version (Faces Removed), MO
 format: LP, Album, 2nd
 rating: 
 released: 1978
+year: 1978
 releaseid: 5403804
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: COC 39108
 - Label: Rolling Stones Records
+- Formats: Vinyl, 2nd Version (Faces Removed), MO
 - Format: LP, Album, 2nd
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 5403804
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

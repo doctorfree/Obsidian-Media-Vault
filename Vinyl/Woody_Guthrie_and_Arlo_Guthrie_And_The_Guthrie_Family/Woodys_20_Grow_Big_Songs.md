@@ -3,9 +3,11 @@ catalog: RSR 0004
 title: Woody's 20 Grow Big Songs
 artist: Woody Guthrie & Arlo Guthrie And The Guthrie Family
 label: Rising Son Records, Inc.
+formats: Cassette
 format: Cass
 rating: 
 released: 1992
+year: 1992
 releaseid: 9757427
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By Woody Guthrie & Arlo Guthrie And The Guthrie Family
 
 - Catalog #: RSR 0004
 - Label: Rising Son Records, Inc.
+- Formats: Cassette
 - Format: Cass
 - Rating: 
 - Released: 1992
+- Year: 1992
 - Release ID: 9757427
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

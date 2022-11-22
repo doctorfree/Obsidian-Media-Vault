@@ -3,9 +3,11 @@ catalog: SP 1115
 title: "I Love You, Honeybear"
 artist: Father John Misty
 label: Sub Pop
+formats: Vinyl
 format: 2x12", Album
 rating: 
 released: 2015
+year: 2015
 releaseid: 6636294
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Father John Misty
 
 - Catalog #: SP 1115
 - Label: Sub Pop
+- Formats: Vinyl
 - Format: 2x12", Album
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 6636294
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

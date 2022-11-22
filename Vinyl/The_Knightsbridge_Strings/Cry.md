@@ -3,9 +3,11 @@ catalog: RA-2006
 title: Cry
 artist: The Knightsbridge Strings
 label: Top Rank International
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1959
+year: 1959
 releaseid: 4092801
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Knightsbridge Strings
 
 - Catalog #: RA-2006
 - Label: Top Rank International
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1959
+- Year: 1959
 - Release ID: 4092801
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

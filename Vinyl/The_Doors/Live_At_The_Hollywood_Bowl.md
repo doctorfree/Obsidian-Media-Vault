@@ -3,9 +3,11 @@ catalog: 9 60741-1, 60741-1
 title: Live At The Hollywood Bowl
 artist: The Doors
 label: Elektra, Elektra
+formats: Vinyl, SP
 format: LP, EP, Promo, SP 
 rating: 
 released: 1988
+year: 1987
 releaseid: 2139821
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: 9 60741-1, 60741-1
 - Label: Elektra, Elektra
+- Formats: Vinyl, SP
 - Format: LP, EP, Promo, SP 
 - Rating: 
 - Released: 1988
+- Year: 1987
 - Release ID: 2139821
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: ZS8 2272
 title: Take Me To The Next Phase
 artist: The Isley Brothers
 label: T-Neck
+formats: Vinyl
 format: 7"
 rating: 
 released: 1978
+year: 1978
 releaseid: 648040
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Isley Brothers
 
 - Catalog #: ZS8 2272
 - Label: T-Neck
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 648040
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

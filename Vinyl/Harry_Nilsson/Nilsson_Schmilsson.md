@@ -3,9 +3,11 @@ catalog: 88955403611
 title: Nilsson Schmilsson
 artist: Harry Nilsson
 label: Legacy
+formats: Vinyl, Yellow & White Split
 format: LP, Album, Ltd, RE, Yel
 rating: 
 released: 2017
+year: 1971
 releaseid: 10174758
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Harry Nilsson
 
 - Catalog #: 88955403611
 - Label: Legacy
+- Formats: Vinyl, Yellow & White Split
 - Format: LP, Album, Ltd, RE, Yel
 - Rating: 
 - Released: 2017
+- Year: 1971
 - Release ID: 10174758
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

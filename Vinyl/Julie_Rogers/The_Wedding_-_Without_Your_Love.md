@@ -3,9 +3,11 @@ catalog: 72332
 title: The Wedding / Without Your Love
 artist: Julie Rogers
 label: Mercury
+formats: Vinyl, Richmond Pressing
 format: 7", Ric
 rating: 
 released: 1964
+year: 1964
 releaseid: 2638590
 mediacondition: Good Plus (G+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Julie Rogers
 
 - Catalog #: 72332
 - Label: Mercury
+- Formats: Vinyl, Richmond Pressing
 - Format: 7", Ric
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 2638590
 - Media condition: Good Plus (G+)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: COC 79101
 title: It's Only Rock 'N Roll
 artist: The Rolling Stones
 label: Rolling Stones Records
+formats: Vinyl, CP
 format: LP, Album, CP
 rating: 
 released: 1974
+year: 1974
 releaseid: 5642260
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Rolling Stones
 
 - Catalog #: COC 79101
 - Label: Rolling Stones Records
+- Formats: Vinyl, CP
 - Format: LP, Album, CP
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 5642260
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

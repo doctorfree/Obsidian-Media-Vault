@@ -3,9 +3,11 @@ catalog: 7-99140
 title: Swing The Mood
 artist: Jive Bunny And The Mastermixers
 label: ATCO Records, Music Factory
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1989
+year: 1989
 releaseid: 2635847
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Jive Bunny And The Mastermixers
 
 - Catalog #: 7-99140
 - Label: ATCO Records, Music Factory
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1989
+- Year: 1989
 - Release ID: 2635847
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

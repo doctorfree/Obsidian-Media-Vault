@@ -3,9 +3,11 @@ catalog: SD 38-101
 title: A Trick Of The Tail
 artist: Genesis
 label: ATCO Records
+formats: Vinyl, PR - Presswell Pressing
 format: LP, Album, RE, PR 
 rating: 
 released: 1977
+year: 1976
 releaseid: 691567
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Genesis
 
 - Catalog #: SD 38-101
 - Label: ATCO Records
+- Formats: Vinyl, PR - Presswell Pressing
 - Format: LP, Album, RE, PR 
 - Rating: 
 - Released: 1977
+- Year: 1976
 - Release ID: 691567
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

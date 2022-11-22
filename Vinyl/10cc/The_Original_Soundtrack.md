@@ -3,9 +3,11 @@ catalog: SRM-1-1029
 title: The Original Soundtrack
 artist: 10cc
 label: Mercury
+formats: Vinyl, Pitman Press, Gatefold
 format: LP, Album, Pit
 rating: 
 released: 1975
+year: 1975
 releaseid: 3258532
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By 10cc
 
 - Catalog #: SRM-1-1029
 - Label: Mercury
+- Formats: Vinyl, Pitman Press, Gatefold
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 3258532
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

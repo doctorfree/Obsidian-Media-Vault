@@ -3,9 +3,11 @@ catalog: SD 19179
 title: The Best Of Spinners
 artist: Spinners
 label: Atlantic
+formats: Vinyl, PR
 format: LP, Comp, PR
 rating: 
 released: 1978
+year: 1978
 releaseid: 5904126
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Spinners
 
 - Catalog #: SD 19179
 - Label: Atlantic
+- Formats: Vinyl, PR
 - Format: LP, Comp, PR
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 5904126
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: FRM 31044
 title: Sittin' In
 artist: Loggins And Messina
 label: Friday Music, Columbia
+formats: Vinyl, 180 Gram, Gatefold
 format: LP, RM, 180
 rating: 
 released: 2011
+year: 1971
 releaseid: 3787975
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Loggins And Messina
 
 - Catalog #: FRM 31044
 - Label: Friday Music, Columbia
+- Formats: Vinyl, 180 Gram, Gatefold
 - Format: LP, RM, 180
 - Rating: 
 - Released: 2011
+- Year: 1971
 - Release ID: 3787975
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: VS4-42876, VS4 42876
 title: The Power Of Love
 artist: Huey Lewis & The News
 label: Chrysalis, Chrysalis
+formats: Vinyl
 format: 7", Single, Styrene
 rating: 
 released: 1985
+year: 1985
 releaseid: 8445706
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Huey Lewis & The News
 
 - Catalog #: VS4-42876, VS4 42876
 - Label: Chrysalis, Chrysalis
+- Formats: Vinyl
 - Format: 7", Single, Styrene
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 8445706
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

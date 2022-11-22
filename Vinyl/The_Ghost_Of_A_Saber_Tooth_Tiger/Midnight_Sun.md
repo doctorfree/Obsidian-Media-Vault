@@ -3,9 +3,11 @@ catalog: No. XVIII
 title: Midnight Sun
 artist: The Ghost Of A Saber Tooth Tiger
 label: Chimera Music
+formats: Vinyl, Green/White Splattered
 format: LP, Album, Gre
 rating: 
 released: 2014
+year: 2014
 releaseid: 5603478
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By The Ghost Of A Saber Tooth Tiger
 
 - Catalog #: No. XVIII
 - Label: Chimera Music
+- Formats: Vinyl, Green/White Splattered
 - Format: LP, Album, Gre
 - Rating: 
 - Released: 2014
+- Year: 2014
 - Release ID: 5603478
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

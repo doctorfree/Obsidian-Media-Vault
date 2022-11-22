@@ -3,9 +3,11 @@ catalog: 8-50468
 title: What A Night
 artist: Tom Jones
 label: Epic, MAM
+formats: Vinyl, Santa Maria Pressing
 format: 7", San
 rating: 
 released: 1977
+year: 1977
 releaseid: 2638599
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Tom Jones
 
 - Catalog #: 8-50468
 - Label: Epic, MAM
+- Formats: Vinyl, Santa Maria Pressing
 - Format: 7", San
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 2638599
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

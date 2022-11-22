@@ -3,9 +3,11 @@ catalog: ST-12309
 title: The Flat Earth
 artist: Thomas Dolby
 label: Capitol Records
+formats: Vinyl, Jacksonville Pressing
 format: LP, Album, Jac
 rating: 
 released: 1984
+year: 1984
 releaseid: 426362
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Thomas Dolby
 
 - Catalog #: ST-12309
 - Label: Capitol Records
+- Formats: Vinyl, Jacksonville Pressing
 - Format: LP, Album, Jac
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 426362
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

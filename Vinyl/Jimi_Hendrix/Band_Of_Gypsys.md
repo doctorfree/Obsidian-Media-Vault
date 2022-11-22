@@ -3,9 +3,11 @@ catalog: STAO-472
 title: Band Of Gypsys
 artist: Jimi Hendrix
 label: Capitol Records
+formats: Vinyl, Gatefold
 format: LP, Album, RE, Gat
 rating: 
 released: 1971
+year: 1970
 releaseid: 2307213
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jimi Hendrix
 
 - Catalog #: STAO-472
 - Label: Capitol Records
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, RE, Gat
 - Rating: 
 - Released: 1971
+- Year: 1970
 - Release ID: 2307213
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

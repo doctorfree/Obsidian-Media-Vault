@@ -3,9 +3,11 @@ catalog: SP 70021
 title: Beauty And The Beat
 artist: Go-Go's
 label: I.R.S. Records
+formats: Vinyl, Electrosound Pressing
 format: LP, Album, Ele
 rating: 
 released: 1981
+year: 1981
 releaseid: 395609
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Go-Go's
 
 - Catalog #: SP 70021
 - Label: I.R.S. Records
+- Formats: Vinyl, Electrosound Pressing
 - Format: LP, Album, Ele
 - Rating: 
 - Released: 1981
+- Year: 1981
 - Release ID: 395609
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

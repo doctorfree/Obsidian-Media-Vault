@@ -3,9 +3,11 @@ catalog: AS 617
 title: Gates Of The West
 artist: The Clash
 label: Epic
+formats: Vinyl
 format: 12", Promo
 rating: 
 released: 1979
+year: null
 releaseid: 2105476
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Clash
 
 - Catalog #: AS 617
 - Label: Epic
+- Formats: Vinyl
 - Format: 12", Promo
 - Rating: 
 - Released: 1979
+- Year: null
 - Release ID: 2105476
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

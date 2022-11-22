@@ -3,9 +3,11 @@ catalog: VRS-35017
 title: Walk Right In
 artist: The Rooftop Singers
 label: Vanguard
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1962
+year: 1962
 releaseid: 1326398
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By The Rooftop Singers
 
 - Catalog #: VRS-35017
 - Label: Vanguard
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1962
+- Year: 1962
 - Release ID: 1326398
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

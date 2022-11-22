@@ -3,9 +3,11 @@ catalog: B0022612-01
 title: Who's Next
 artist: The Who
 label: Geffen Records, Track Record
+formats: Vinyl, 180 gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2015
+year: 1971
 releaseid: 6813756
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Who
 
 - Catalog #: B0022612-01
 - Label: Geffen Records, Track Record
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1971
 - Release ID: 6813756
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

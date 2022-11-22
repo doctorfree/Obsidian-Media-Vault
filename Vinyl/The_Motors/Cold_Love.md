@@ -3,9 +3,11 @@ catalog: ZS8 9517
 title: Cold Love
 artist: The Motors
 label: Virgin
+formats: Vinyl
 format: 7", Single, Promo
 rating: 
 released: 1977
+year: null
 releaseid: 1588733
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By The Motors
 
 - Catalog #: ZS8 9517
 - Label: Virgin
+- Formats: Vinyl
 - Format: 7", Single, Promo
 - Rating: 
 - Released: 1977
+- Year: null
 - Release ID: 1588733
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

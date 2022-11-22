@@ -3,9 +3,11 @@ catalog: C-466
 title: Shake / That Was Yesterday
 artist: The British Walkers
 label: Cameo
+formats: Vinyl
 format: 7"
 rating: 
 released: 1967
+year: 1967
 releaseid: 3344569
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The British Walkers
 
 - Catalog #: C-466
 - Label: Cameo
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1967
+- Year: 1967
 - Release ID: 3344569
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

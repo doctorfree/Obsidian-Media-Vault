@@ -3,9 +3,11 @@ catalog: MOVLP436
 title: Romantic Warrior
 artist: Return To Forever
 label: Music On Vinyl
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, 180
 rating: 
 released: 2011
+year: 1976
 releaseid: 4572321
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Return To Forever
 
 - Catalog #: MOVLP436
 - Label: Music On Vinyl
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2011
+- Year: 1976
 - Release ID: 4572321
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

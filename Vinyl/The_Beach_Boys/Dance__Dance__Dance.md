@@ -3,9 +3,11 @@ catalog: 5306
 title: "Dance, Dance, Dance"
 artist: The Beach Boys
 label: Capitol Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1964
+year: 1964
 releaseid: 6289272
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Beach Boys
 
 - Catalog #: 5306
 - Label: Capitol Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 6289272
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

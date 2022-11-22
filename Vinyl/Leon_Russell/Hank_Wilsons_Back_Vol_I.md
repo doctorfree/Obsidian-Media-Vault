@@ -3,9 +3,11 @@ catalog: SW-8923
 title: Hank Wilson's Back Vol. I
 artist: Leon Russell
 label: Shelter Records
+formats: Vinyl, Los Angeles Pressing
 format: LP, Album, Los
 rating: 
 released: 1973
+year: 1973
 releaseid: 1494744
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Leon Russell
 
 - Catalog #: SW-8923
 - Label: Shelter Records
+- Formats: Vinyl, Los Angeles Pressing
 - Format: LP, Album, Los
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 1494744
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

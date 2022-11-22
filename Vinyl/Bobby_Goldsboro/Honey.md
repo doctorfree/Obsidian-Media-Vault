@@ -3,9 +3,11 @@ catalog: UAS 6642
 title: Honey
 artist: Bobby Goldsboro
 label: United Artists Records
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1968
+year: 1968
 releaseid: 1532125
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bobby Goldsboro
 
 - Catalog #: UAS 6642
 - Label: United Artists Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 1532125
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

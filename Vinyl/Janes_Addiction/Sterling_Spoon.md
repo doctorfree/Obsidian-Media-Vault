@@ -3,9 +3,11 @@ catalog: R1 556516
 title: Sterling Spoon 
 artist: Jane's Addiction
 label: Rhino Records (2)
+formats: Vinyl
 format: LP, Album, RE + 2xLP, Album, RE + LP, Album, RE + 
 rating: 
 released: 2016
+year: null
 releaseid: 9233585
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Jane's Addiction
 
 - Catalog #: R1 556516
 - Label: Rhino Records (2)
+- Formats: Vinyl
 - Format: LP, Album, RE + 2xLP, Album, RE + LP, Album, RE + 
 - Rating: 
 - Released: 2016
+- Year: null
 - Release ID: 9233585
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

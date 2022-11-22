@@ -3,9 +3,11 @@ catalog: OS 13053
 title: Where Is The Love / You've Got A Friend
 artist: Roberta Flack & Donny Hathaway
 label: Atlantic
+formats: Vinyl, Specialty Records Pressing
 format: 7", Single, RE, Spe
 rating: 
 released: 0
+year: 0
 releaseid: 2963776
 mediacondition: 
 sleevecondition: 
@@ -27,9 +29,11 @@ By Roberta Flack & Donny Hathaway
 
 - Catalog #: OS 13053
 - Label: Atlantic
+- Formats: Vinyl, Specialty Records Pressing
 - Format: 7", Single, RE, Spe
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 2963776
 - Media condition: 
 - Sleeve condition: 

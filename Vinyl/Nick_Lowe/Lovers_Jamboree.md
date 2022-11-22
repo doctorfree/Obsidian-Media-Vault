@@ -3,9 +3,11 @@ catalog: CAS 02923
 title: Lovers Jamboree
 artist: Nick Lowe
 label: Columbia
+formats: Vinyl
 format: 12", Promo
 rating: 
 released: 1988
+year: 1988
 releaseid: 7600163
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Nick Lowe
 
 - Catalog #: CAS 02923
 - Label: Columbia
+- Formats: Vinyl
 - Format: 12", Promo
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 7600163
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

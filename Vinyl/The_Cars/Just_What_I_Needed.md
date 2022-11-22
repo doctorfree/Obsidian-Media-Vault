@@ -3,9 +3,11 @@ catalog: E-45491
 title: Just What I Needed
 artist: The Cars
 label: Elektra
+formats: Vinyl, Red
 format: 7", Single, Red
 rating: 
 released: 1978
+year: 1978
 releaseid: 611116
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Cars
 
 - Catalog #: E-45491
 - Label: Elektra
+- Formats: Vinyl, Red
 - Format: 7", Single, Red
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 611116
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

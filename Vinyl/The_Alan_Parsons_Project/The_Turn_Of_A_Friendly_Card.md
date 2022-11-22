@@ -3,9 +3,11 @@ catalog: AL 9518
 title: The Turn Of A Friendly Card
 artist: The Alan Parsons Project
 label: Speakers Corner Records, Arista
+formats: Vinyl
 format: LP, Album, RM
 rating: 
 released: 2005
+year: 1980
 releaseid: 2989200
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Alan Parsons Project
 
 - Catalog #: AL 9518
 - Label: Speakers Corner Records, Arista
+- Formats: Vinyl
 - Format: LP, Album, RM
 - Rating: 
 - Released: 2005
+- Year: 1980
 - Release ID: 2989200
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

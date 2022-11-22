@@ -3,9 +3,11 @@ catalog: PC 33096
 title: Dave Mason
 artist: Dave Mason
 label: Columbia
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1974
+year: 1974
 releaseid: 1734107
 mediacondition: Very Good (VG)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By Dave Mason
 
 - Catalog #: PC 33096
 - Label: Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 1734107
 - Media condition: Very Good (VG)
 - Sleeve condition: Good (G)

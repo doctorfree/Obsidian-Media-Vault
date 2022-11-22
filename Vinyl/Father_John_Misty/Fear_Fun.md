@@ -3,9 +3,11 @@ catalog: SP 970
 title: Fear Fun
 artist: Father John Misty
 label: Sub Pop
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2012
+year: 2012
 releaseid: 3582159
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Father John Misty
 
 - Catalog #: SP 970
 - Label: Sub Pop
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2012
+- Year: 2012
 - Release ID: 3582159
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

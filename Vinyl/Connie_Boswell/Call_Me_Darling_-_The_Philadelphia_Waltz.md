@@ -3,9 +3,11 @@ catalog: 9-29051
 title: Call Me Darling / The Philadelphia Waltz
 artist: Connie Boswell
 label: Decca
+formats: Vinyl
 format: 7", Promo
 rating: 
 released: 1954
+year: 1954
 releaseid: 4962178
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Connie Boswell
 
 - Catalog #: 9-29051
 - Label: Decca
+- Formats: Vinyl
 - Format: 7", Promo
 - Rating: 
 - Released: 1954
+- Year: 1954
 - Release ID: 4962178
 - Media condition: Very Good (VG)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: SD 5068
 title: Desperado
 artist: Eagles
 label: Asylum Records
+formats: Vinyl, PR
 format: LP, Album, RP, PR
 rating: 
 released: 1976
+year: 1973
 releaseid: 4774584
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By Eagles
 
 - Catalog #: SD 5068
 - Label: Asylum Records
+- Formats: Vinyl, PR
 - Format: LP, Album, RP, PR
 - Rating: 
 - Released: 1976
+- Year: 1973
 - Release ID: 4774584
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good (G)

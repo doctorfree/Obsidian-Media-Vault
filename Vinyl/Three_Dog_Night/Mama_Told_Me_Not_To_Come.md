@@ -3,9 +3,11 @@ catalog: D-4239
 title: Mama Told Me (Not To Come)
 artist: Three Dog Night
 label: ABC/Dunhill Records
+formats: Vinyl, Monarch Pressing
 format: 7", Single, Styrene, Mon
 rating: 
 released: 1970
+year: 1970
 releaseid: 2424477
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Three Dog Night
 
 - Catalog #: D-4239
 - Label: ABC/Dunhill Records
+- Formats: Vinyl, Monarch Pressing
 - Format: 7", Single, Styrene, Mon
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 2424477
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

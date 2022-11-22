@@ -3,9 +3,11 @@ catalog: RNEP 610
 title: Goddess In Progress
 artist: Julie Brown
 label: Rhino Records (2)
+formats: Vinyl
 format: LP, MiniAlbum
 rating: 
 released: 1984
+year: 1984
 releaseid: 521051
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good (G)
@@ -27,9 +29,11 @@ By Julie Brown
 
 - Catalog #: RNEP 610
 - Label: Rhino Records (2)
+- Formats: Vinyl
 - Format: LP, MiniAlbum
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 521051
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good (G)

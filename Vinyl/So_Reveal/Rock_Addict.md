@@ -3,9 +3,11 @@ catalog: NV 001
 title: Rock Addict
 artist: So Reveal
 label: New Vinyl Productions
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1984
+year: null
 releaseid: 9770281
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By So Reveal
 
 - Catalog #: NV 001
 - Label: New Vinyl Productions
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1984
+- Year: null
 - Release ID: 9770281
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

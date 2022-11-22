@@ -3,9 +3,11 @@ catalog: 45-16151
 title: Wonderland By Night / Ol' Man Mose
 artist: Louis Prima
 label: Dot Records
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1960
+year: 1960
 releaseid: 1323909
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Generic
@@ -27,9 +29,11 @@ By Louis Prima
 
 - Catalog #: 45-16151
 - Label: Dot Records
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1960
+- Year: 1960
 - Release ID: 1323909
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Generic

@@ -3,9 +3,11 @@ catalog: R1-6076
 title: Fear Of Music
 artist: Talking Heads
 label: Rhino Records (2), Sire
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2013
+year: 1979
 releaseid: 4783613
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Talking Heads
 
 - Catalog #: R1-6076
 - Label: Rhino Records (2), Sire
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2013
+- Year: 1979
 - Release ID: 4783613
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

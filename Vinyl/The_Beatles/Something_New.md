@@ -3,9 +3,11 @@ catalog: T 2108, T-2108
 title: Something New
 artist: The Beatles
 label: Capitol Records, Capitol Records
+formats: Vinyl, Los Angeles Pressing
 format: LP, Album, Mono, Los
 rating: 
 released: 1964
+year: 1964
 releaseid: 851584
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Beatles
 
 - Catalog #: T 2108, T-2108
 - Label: Capitol Records, Capitol Records
+- Formats: Vinyl, Los Angeles Pressing
 - Format: LP, Album, Mono, Los
 - Rating: 
 - Released: 1964
+- Year: 1964
 - Release ID: 851584
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

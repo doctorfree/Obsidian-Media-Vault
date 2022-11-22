@@ -3,9 +3,11 @@ catalog: 8397
 title: Willy And The Poor Boys
 artist: Creedence Clearwater Revival
 label: Analogue Productions, Fantasy
+formats: Vinyl, 200 Gram
 format: LP, Album, RE, RM, 200
 rating: 
 released: 2014
+year: 1969
 releaseid: 6173946
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Creedence Clearwater Revival
 
 - Catalog #: 8397
 - Label: Analogue Productions, Fantasy
+- Formats: Vinyl, 200 Gram
 - Format: LP, Album, RE, RM, 200
 - Rating: 
 - Released: 2014
+- Year: 1969
 - Release ID: 6173946
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: DS-50056
 title: A Group Called Smith
 artist: Smith
 label: Dunhill, ABC Records
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 1971
+year: 1969
 releaseid: 1224369
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Smith
 
 - Catalog #: DS-50056
 - Label: Dunhill, ABC Records
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 1971
+- Year: 1969
 - Release ID: 1224369
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

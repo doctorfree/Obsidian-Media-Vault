@@ -3,9 +3,11 @@ catalog: 1092-1-JD
 title: Parents Just Don't Understand
 artist: DJ Jazzy Jeff & The Fresh Prince
 label: Jive
+formats: Vinyl
 format: 12"
 rating: 
 released: 1988
+year: 1988
 releaseid: 723932
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By DJ Jazzy Jeff & The Fresh Prince
 
 - Catalog #: 1092-1-JD
 - Label: Jive
+- Formats: Vinyl
 - Format: 12"
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 723932
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

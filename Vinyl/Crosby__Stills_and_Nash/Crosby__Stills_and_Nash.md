@@ -3,9 +3,11 @@ catalog: R1 8229
 title: "Crosby, Stills & Nash"
 artist: "Crosby, Stills & Nash"
 label: Atlantic, Rhino Vinyl
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2009
+year: 1969
 releaseid: 2571108
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By "Crosby, Stills & Nash"
 
 - Catalog #: R1 8229
 - Label: Atlantic, Rhino Vinyl
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2009
+- Year: 1969
 - Release ID: 2571108
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

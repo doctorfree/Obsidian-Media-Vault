@@ -3,9 +3,11 @@ catalog: JC 36839
 title: Taking Liberties
 artist: Elvis Costello
 label: Columbia
+formats: Vinyl, Santa Maria Pressing
 format: LP, Comp, San
 rating: 
 released: 1980
+year: 1980
 releaseid: 400441
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Elvis Costello
 
 - Catalog #: JC 36839
 - Label: Columbia
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Comp, San
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 400441
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

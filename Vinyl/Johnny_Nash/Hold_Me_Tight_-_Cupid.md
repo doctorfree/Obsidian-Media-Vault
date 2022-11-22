@@ -3,9 +3,11 @@ catalog: J-207
 title: Hold Me Tight / Cupid
 artist: Johnny Nash
 label: JAD
+formats: Vinyl, 1st Generation
 format: 7", Single, RP, 1st
 rating: 
 released: 1968
+year: 1968
 releaseid: 1809246
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Johnny Nash
 
 - Catalog #: J-207
 - Label: JAD
+- Formats: Vinyl, 1st Generation
 - Format: 7", Single, RP, 1st
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 1809246
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

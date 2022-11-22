@@ -3,9 +3,11 @@ catalog: 7-29221, 9 29221-7
 title: People Are People
 artist: Depeche Mode
 label: Sire, Sire, Mute, Mute
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1984
+year: 1984
 releaseid: 50262
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Depeche Mode
 
 - Catalog #: 7-29221, 9 29221-7
 - Label: Sire, Sire, Mute, Mute
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 50262
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: KLPS 8050
 title: Do You Believe In Magic
 artist: The Lovin' Spoonful
 label: Speakers Corner Records
+formats: Vinyl, 180 gram
 format: LP, Album, RE, 180
 rating: 
 released: 2011
+year: 1965
 releaseid: 2807324
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Lovin' Spoonful
 
 - Catalog #: KLPS 8050
 - Label: Speakers Corner Records
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2011
+- Year: 1965
 - Release ID: 2807324
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: EK-45635
 title: "Hello, I Love You, Won't You Tell Me Your Name?"
 artist: The Doors
 label: Elektra
+formats: Vinyl, Terre Haute
 format: 7", Styrene, Ter
 rating: 
 released: 1968
+year: 1968
 releaseid: 2919530
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: EK-45635
 - Label: Elektra
+- Formats: Vinyl, Terre Haute
 - Format: 7", Styrene, Ter
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 2919530
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: 521130-1
 title: The Resistance
 artist: Muse
 label: Warner Bros. Records, Helium 3
+formats: Vinyl
 format: 2xLP, Album
 rating: 
 released: 2009
+year: 2009
 releaseid: 3856166
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Muse
 
 - Catalog #: 521130-1
 - Label: Warner Bros. Records, Helium 3
+- Formats: Vinyl
 - Format: 2xLP, Album
 - Rating: 
 - Released: 2009
+- Year: 2009
 - Release ID: 3856166
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

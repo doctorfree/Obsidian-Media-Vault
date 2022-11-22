@@ -3,9 +3,11 @@ catalog: GRT-127
 title: Telephone Man
 artist: Meri Wilson
 label: GRT
+formats: Vinyl, Terre Haute Pressing
 format: 7", Single, Styrene, Ter
 rating: 
 released: 1977
+year: 1977
 releaseid: 1945827
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Meri Wilson
 
 - Catalog #: GRT-127
 - Label: GRT
+- Formats: Vinyl, Terre Haute Pressing
 - Format: 7", Single, Styrene, Ter
 - Rating: 
 - Released: 1977
+- Year: 1977
 - Release ID: 1945827
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

@@ -3,9 +3,11 @@ catalog: 9 60269-1, 60269-1
 title: "Alive, She Cried"
 artist: The Doors
 label: Elektra, Elektra
+formats: Vinyl, Specialty Press, Producer Credit
 format: LP, Album, Spe
 rating: 
 released: 1983
+year: 1983
 releaseid: 5310626
 mediacondition: Very Good (VG)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: 9 60269-1, 60269-1
 - Label: Elektra, Elektra
+- Formats: Vinyl, Specialty Press, Producer Credit
 - Format: LP, Album, Spe
 - Rating: 
 - Released: 1983
+- Year: 1983
 - Release ID: 5310626
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good Plus (VG+)

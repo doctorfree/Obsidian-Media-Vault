@@ -3,9 +3,11 @@ catalog: NJE 37033
 title: Kings Of The Wild Frontier
 artist: Adam And The Ants
 label: Epic
+formats: Vinyl, Santa Maria Pressing
 format: LP, Album, San
 rating: 
 released: 1980
+year: 1980
 releaseid: 9671791
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Adam And The Ants
 
 - Catalog #: NJE 37033
 - Label: Epic
+- Formats: Vinyl, Santa Maria Pressing
 - Format: LP, Album, San
 - Rating: 
 - Released: 1980
+- Year: 1980
 - Release ID: 9671791
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

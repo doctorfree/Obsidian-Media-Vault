@@ -3,9 +3,11 @@ catalog: OVLP-67, B0019024-01
 title: Radio Jellyfish
 artist: Jellyfish
 label: Omnivore Recordings, Universal Music Special Markets
+formats: Vinyl, Clear
 format: LP, Album, Cle
 rating: 
 released: 2013
+year: 2013
 releaseid: 5163094
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jellyfish
 
 - Catalog #: OVLP-67, B0019024-01
 - Label: Omnivore Recordings, Universal Music Special Markets
+- Formats: Vinyl, Clear
 - Format: LP, Album, Cle
 - Rating: 
 - Released: 2013
+- Year: 2013
 - Release ID: 5163094
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

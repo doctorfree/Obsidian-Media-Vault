@@ -3,9 +3,11 @@ catalog: DL 5319
 title: Souvenirs Of Hawaii
 artist: George Kainapau With Danny Stewart's Hawaiians And Sam Koki And His Islanders
 label: Decca
+formats: Vinyl
 format: 10", Album
 rating: 
 released: 1951
+year: 1951
 releaseid: 7342818
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -25,9 +27,11 @@ By George Kainapau With Danny Stewart's Hawaiians And Sam Koki And His Islanders
 
 - Catalog #: DL 5319
 - Label: Decca
+- Formats: Vinyl
 - Format: 10", Album
 - Rating: 
 - Released: 1951
+- Year: 1951
 - Release ID: 7342818
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

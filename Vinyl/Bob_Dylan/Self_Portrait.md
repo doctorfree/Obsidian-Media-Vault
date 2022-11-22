@@ -3,9 +3,11 @@ catalog: C2X 30050
 title: Self Portrait
 artist: Bob Dylan
 label: Columbia
+formats: Vinyl, Textured Gatefold
 format: 2xLP, Album, Tex
 rating: 
 released: 1970
+year: 1970
 releaseid: 3796450
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bob Dylan
 
 - Catalog #: C2X 30050
 - Label: Columbia
+- Formats: Vinyl, Textured Gatefold
 - Format: 2xLP, Album, Tex
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 3796450
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

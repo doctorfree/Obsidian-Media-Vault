@@ -3,9 +3,11 @@ catalog: FB-11374
 title: Crazy Feelin'
 artist: Jefferson Starship
 label: Grunt (3)
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1978
+year: 1978
 releaseid: 2072754
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Jefferson Starship
 
 - Catalog #: FB-11374
 - Label: Grunt (3)
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 2072754
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

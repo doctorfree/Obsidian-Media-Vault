@@ -3,9 +3,11 @@ catalog: SP-3654
 title: It'll Shine When It Shines
 artist: The Ozark Mountain Daredevils
 label: A&M Records
+formats: Vinyl, Terre Haute Pressing
 format: LP, Album, Ter
 rating: 
 released: 1974
+year: 1974
 releaseid: 2297434
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Ozark Mountain Daredevils
 
 - Catalog #: SP-3654
 - Label: A&M Records
+- Formats: Vinyl, Terre Haute Pressing
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 2297434
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

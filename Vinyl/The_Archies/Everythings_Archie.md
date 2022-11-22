@@ -3,9 +3,11 @@ catalog: LM-2312
 title: Everything's Archie
 artist: The Archies
 label: Liming Record
+formats: Vinyl
 format: LP, Album, Unofficial
 rating: 
 released: 1969
+year: 1969
 releaseid: 8641758
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Archies
 
 - Catalog #: LM-2312
 - Label: Liming Record
+- Formats: Vinyl
 - Format: LP, Album, Unofficial
 - Rating: 
 - Released: 1969
+- Year: 1969
 - Release ID: 8641758
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

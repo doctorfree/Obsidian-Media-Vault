@@ -3,9 +3,11 @@ catalog: 7-99254
 title: Angel Of Harlem
 artist: U2
 label: Island Records
+formats: Vinyl, Allied Pressing
 format: 7", Single, All
 rating: 
 released: 1988
+year: 1988
 releaseid: 750203
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By U2
 
 - Catalog #: 7-99254
 - Label: Island Records
+- Formats: Vinyl, Allied Pressing
 - Format: 7", Single, All
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 750203
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

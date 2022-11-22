@@ -3,9 +3,11 @@ catalog: EGLP 101, PD-1-6201
 title: Exposure
 artist: Robert Fripp
 label: EG, Polydor
+formats: Vinyl, PRC Pressing
 format: LP, Album, PRC
 rating: 
 released: 1979
+year: 1979
 releaseid: 3434754
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Robert Fripp
 
 - Catalog #: EGLP 101, PD-1-6201
 - Label: EG, Polydor
+- Formats: Vinyl, PRC Pressing
 - Format: LP, Album, PRC
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 3434754
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

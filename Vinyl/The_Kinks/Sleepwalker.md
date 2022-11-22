@@ -3,9 +3,11 @@ catalog: VEL-LP-79832
 title: Sleepwalker
 artist: The Kinks
 label: Velvel, Konk, Koch Records
+formats: Vinyl, 180 Gram
 format: LP, Album, Ltd, RE, 180
 rating: 
 released: 2008
+year: 1977
 releaseid: 3787841
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Kinks
 
 - Catalog #: VEL-LP-79832
 - Label: Velvel, Konk, Koch Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, Ltd, RE, 180
 - Rating: 
 - Released: 2008
+- Year: 1977
 - Release ID: 3787841
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: FAT554-1
 title: Have A Ball
 artist: Me First And The Gimme Gimmes
 label: Fat Wreck Chords
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1997
+year: 1997
 releaseid: 814879
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Me First And The Gimme Gimmes
 
 - Catalog #: FAT554-1
 - Label: Fat Wreck Chords
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1997
+- Year: 1997
 - Release ID: 814879
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

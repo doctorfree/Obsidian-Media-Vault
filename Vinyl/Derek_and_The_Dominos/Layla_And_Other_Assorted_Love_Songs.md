@@ -3,9 +3,11 @@ catalog: 0600753103739
 title: Layla And Other Assorted Love Songs
 artist: Derek & The Dominos
 label: Polydor
+formats: Vinyl, 180 Gram
 format: 2xLP, Album, RE, RM, 180
 rating: 
 released: 2008
+year: 1970
 releaseid: 1641230
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Derek & The Dominos
 
 - Catalog #: 0600753103739
 - Label: Polydor
+- Formats: Vinyl, 180 Gram
 - Format: 2xLP, Album, RE, RM, 180
 - Rating: 
 - Released: 2008
+- Year: 1970
 - Release ID: 1641230
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

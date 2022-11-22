@@ -3,9 +3,11 @@ catalog: 44391-1
 title: Stadium Arcadium
 artist: Red Hot Chili Peppers
 label: Warner Bros. Records
+formats: Box Set, Super Value Edition
 format: Box, Sup + 4xLP, Album, 150
 rating: 5
 released: 2006
+year: 2006
 releaseid: 853028
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Red Hot Chili Peppers
 
 - Catalog #: 44391-1
 - Label: Warner Bros. Records
+- Formats: Box Set, Super Value Edition
 - Format: Box, Sup + 4xLP, Album, 150
 - Rating: 5
 - Released: 2006
+- Year: 2006
 - Release ID: 853028
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: MFO 48023
 title: Happy Together
 artist: The Turtles
 label: Manifesto (2)
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 2013
+year: 1967
 releaseid: 5769957
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Turtles
 
 - Catalog #: MFO 48023
 - Label: Manifesto (2)
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 2013
+- Year: 1967
 - Release ID: 5769957
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: 509996 98172 12
 title: Mother's Milk
 artist: Red Hot Chili Peppers
 label: EMI USA
+formats: Vinyl, 180g
 format: LP, Album, Ltd, RE, 180
 rating: 
 released: 2009
+year: 1989
 releaseid: 1828402
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Red Hot Chili Peppers
 
 - Catalog #: 509996 98172 12
 - Label: EMI USA
+- Formats: Vinyl, 180g
 - Format: LP, Album, Ltd, RE, 180
 - Rating: 
 - Released: 2009
+- Year: 1989
 - Release ID: 1828402
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

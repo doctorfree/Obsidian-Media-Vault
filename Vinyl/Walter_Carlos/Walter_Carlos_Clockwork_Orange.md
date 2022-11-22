@@ -3,9 +3,11 @@ catalog: KC 31480
 title: Walter Carlos' Clockwork Orange
 artist: Walter Carlos
 label: Columbia
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 1972
+year: 1972
 releaseid: 116515
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Walter Carlos
 
 - Catalog #: KC 31480
 - Label: Columbia
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 1972
+- Year: 1972
 - Release ID: 116515
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

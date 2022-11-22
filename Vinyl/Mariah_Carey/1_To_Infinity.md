@@ -3,9 +3,11 @@ catalog: 88875102891
 title: #1 To Infinity
 artist: Mariah Carey
 label: Columbia, Epic, Legacy
+formats: Vinyl, 180 Gram
 format: 2xLP, Comp, 180
 rating: 
 released: 2015
+year: 2015
 releaseid: 7401772
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Mariah Carey
 
 - Catalog #: 88875102891
 - Label: Columbia, Epic, Legacy
+- Formats: Vinyl, 180 Gram
 - Format: 2xLP, Comp, 180
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 7401772
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: D-4263
 title: Temptation Eyes
 artist: The Grass Roots
 label: ABC/Dunhill Records
+formats: Vinyl, Monarch Pressing
 format: 7", Single, Mono, Styrene, Mon
 rating: 
 released: 1970
+year: 1970
 releaseid: 7800199
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Grass Roots
 
 - Catalog #: D-4263
 - Label: ABC/Dunhill Records
+- Formats: Vinyl, Monarch Pressing
 - Format: 7", Single, Mono, Styrene, Mon
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 7800199
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

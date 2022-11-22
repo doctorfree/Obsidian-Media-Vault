@@ -3,9 +3,11 @@ catalog: FC 6060
 title: Selling England By The Pound
 artist: Genesis
 label: Charisma
+formats: Vinyl, Monarch Pressing
 format: LP, Album, Mon
 rating: 
 released: 1973
+year: 1973
 releaseid: 4789008
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Genesis
 
 - Catalog #: FC 6060
 - Label: Charisma
+- Formats: Vinyl, Monarch Pressing
 - Format: LP, Album, Mon
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 4789008
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

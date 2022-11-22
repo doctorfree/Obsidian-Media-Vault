@@ -3,9 +3,11 @@ catalog: ODE-00005-1
 title: Tommy - As Performed By The London Symphony Orchestra & Chambre Choir With Guest Soloists
 artist: The London Symphony Orchestra
 label: Ode Records (2)
+formats: Vinyl
 format: 2xLP, Album, RE
 rating: 
 released: 2015
+year: 1972
 releaseid: 7871843
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The London Symphony Orchestra
 
 - Catalog #: ODE-00005-1
 - Label: Ode Records (2)
+- Formats: Vinyl
 - Format: 2xLP, Album, RE
 - Rating: 
 - Released: 2015
+- Year: 1972
 - Release ID: 7871843
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

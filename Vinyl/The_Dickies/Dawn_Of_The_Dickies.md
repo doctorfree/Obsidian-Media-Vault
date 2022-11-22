@@ -3,9 +3,11 @@ catalog: AMLE 68510
 title: Dawn Of The Dickies
 artist: The Dickies
 label: A&M Records
+formats: Vinyl, Blue
 format: LP, Album, Blu
 rating: 
 released: 1979
+year: 1979
 releaseid: 1734394
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Dickies
 
 - Catalog #: AMLE 68510
 - Label: A&M Records
+- Formats: Vinyl, Blue
 - Format: LP, Album, Blu
 - Rating: 
 - Released: 1979
+- Year: 1979
 - Release ID: 1734394
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

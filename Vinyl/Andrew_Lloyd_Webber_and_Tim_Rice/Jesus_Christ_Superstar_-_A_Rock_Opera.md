@@ -3,9 +3,11 @@ catalog: DXSA 7206
 title: Jesus Christ Superstar - A Rock Opera
 artist: Andrew Lloyd Webber & Tim Rice
 label: Decca
+formats: Vinyl
 format: 2xLP, Album + Box
 rating: 
 released: 1970
+year: 1970
 releaseid: 3883400
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Andrew Lloyd Webber & Tim Rice
 
 - Catalog #: DXSA 7206
 - Label: Decca
+- Formats: Vinyl
 - Format: 2xLP, Album + Box
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 3883400
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

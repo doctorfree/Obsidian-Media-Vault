@@ -3,9 +3,11 @@ catalog: EKS-74007, RHI1-74881-1, R1 519559
 title: The Doors
 artist: The Doors
 label: Elektra, Rhino Records (2), Rhino Vinyl
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, 180
 rating: 
 released: 2009
+year: 1967
 releaseid: 2441353
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Doors
 
 - Catalog #: EKS-74007, RHI1-74881-1, R1 519559
 - Label: Elektra, Rhino Records (2), Rhino Vinyl
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2009
+- Year: 1967
 - Release ID: 2441353
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

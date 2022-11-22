@@ -3,9 +3,11 @@ catalog: M 741L, M6-741S1
 title: Greatest Hits
 artist: The Jackson 5
 label: Motown, Motown
+formats: Vinyl
 format: LP, Comp
 rating: 
 released: 1971
+year: 1971
 releaseid: 3577899
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Jackson 5
 
 - Catalog #: M 741L, M6-741S1
 - Label: Motown, Motown
+- Formats: Vinyl
 - Format: LP, Comp
 - Rating: 
 - Released: 1971
+- Year: 1971
 - Release ID: 3577899
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

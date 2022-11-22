@@ -3,9 +3,11 @@ catalog: LNPD21
 title: One More For The Fans
 artist: Lynyrd Skynyrd
 label: Loud & Proud Records
+formats: Vinyl
 format: 3xLP
 rating: 
 released: 2015
+year: 2015
 releaseid: 7416413
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Lynyrd Skynyrd
 
 - Catalog #: LNPD21
 - Label: Loud & Proud Records
+- Formats: Vinyl
 - Format: 3xLP
 - Rating: 
 - Released: 2015
+- Year: 2015
 - Release ID: 7416413
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: 479 6335
 title: Symphony Nr. 5
 artist: Pyotr Ilyich Tchaikovsky : Berliner Philharmoniker • Herbert Von Karajan
 label: Deutsche Grammophon
+formats: Vinyl, 180Gr
 format: LP, Album, RE, 180
 rating: 
 released: 0
+year: 1976
 releaseid: 9885723
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Pyotr Ilyich Tchaikovsky : Berliner Philharmoniker • Herbert Von Karajan
 
 - Catalog #: 479 6335
 - Label: Deutsche Grammophon
+- Formats: Vinyl, 180Gr
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 0
+- Year: 1976
 - Release ID: 9885723
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

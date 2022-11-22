@@ -3,9 +3,11 @@ catalog: 5D 064-99388
 title: Feel
 artist: George Duke
 label: MPS Records, Delta (2)
+formats: Vinyl
 format: LP, Album, RE
 rating: 
 released: 1977
+year: 1974
 releaseid: 1924523
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By George Duke
 
 - Catalog #: 5D 064-99388
 - Label: MPS Records, Delta (2)
+- Formats: Vinyl
 - Format: LP, Album, RE
 - Rating: 
 - Released: 1977
+- Year: 1974
 - Release ID: 1924523
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

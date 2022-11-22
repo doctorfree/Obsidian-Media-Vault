@@ -3,9 +3,11 @@ catalog: KSBS2613-2
 title: The Best . . . Brewer & Shipley
 artist: Brewer And Shipley
 label: Kama Sutra
+formats: Vinyl
 format: 2xLP, Comp
 rating: 
 released: 1976
+year: 1976
 releaseid: 2412001
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Brewer And Shipley
 
 - Catalog #: KSBS2613-2
 - Label: Kama Sutra
+- Formats: Vinyl
 - Format: 2xLP, Comp
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 2412001
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

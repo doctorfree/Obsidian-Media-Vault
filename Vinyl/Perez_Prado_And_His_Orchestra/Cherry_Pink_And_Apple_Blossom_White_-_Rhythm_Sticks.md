@@ -3,9 +3,11 @@ catalog: 47-5965
 title: Cherry Pink And Apple Blossom White / Rhythm Sticks
 artist: Perez Prado And His Orchestra
 label: RCA Victor
+formats: Vinyl, Indianapolis Pressing
 format: 7", Single, Ind
 rating: 
 released: 1954
+year: 1954
 releaseid: 2144064
 mediacondition: Near Mint (NM or M-)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Perez Prado And His Orchestra
 
 - Catalog #: 47-5965
 - Label: RCA Victor
+- Formats: Vinyl, Indianapolis Pressing
 - Format: 7", Single, Ind
 - Rating: 
 - Released: 1954
+- Year: 1954
 - Release ID: 2144064
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: 

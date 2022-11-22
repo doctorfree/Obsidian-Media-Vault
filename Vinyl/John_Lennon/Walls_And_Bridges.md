@@ -3,9 +3,11 @@ catalog: 0600753571002, 5357100, 600753571002
 title: Walls And Bridges
 artist: John Lennon
 label: Apple Records, Apple Records, Apple Records
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2015
+year: 1974
 releaseid: 7406273
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By John Lennon
 
 - Catalog #: 0600753571002, 5357100, 600753571002
 - Label: Apple Records, Apple Records, Apple Records
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1974
 - Release ID: 7406273
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

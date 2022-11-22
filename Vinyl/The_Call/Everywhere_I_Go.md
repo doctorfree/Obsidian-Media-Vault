@@ -3,9 +3,11 @@ catalog: 7-69546
 title: Everywhere I Go
 artist: The Call
 label: Elektra
+formats: Vinyl
 format: 7"
 rating: 
 released: 1986
+year: 1986
 releaseid: 4554943
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By The Call
 
 - Catalog #: 7-69546
 - Label: Elektra
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1986
+- Year: 1986
 - Release ID: 4554943
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

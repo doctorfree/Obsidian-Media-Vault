@@ -3,9 +3,11 @@ catalog: RS 6365, 6365
 title: Spirit In The Sky
 artist: Norman Greenbaum
 label: Reprise Records, Reprise Records
+formats: Vinyl
 format: LP, Album
 rating: 5
 released: 1969
+year: 1969
 releaseid: 8760196
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Norman Greenbaum
 
 - Catalog #: RS 6365, 6365
 - Label: Reprise Records, Reprise Records
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 5
 - Released: 1969
+- Year: 1969
 - Release ID: 8760196
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: 38-68938
 title: Just Git It Together
 artist: Lisa Lisa & Cult Jam
 label: Columbia
+formats: Vinyl
 format: 7"
 rating: 
 released: 1989
+year: 1989
 releaseid: 2087101
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By Lisa Lisa & Cult Jam
 
 - Catalog #: 38-68938
 - Label: Columbia
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1989
+- Year: 1989
 - Release ID: 2087101
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

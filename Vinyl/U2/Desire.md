@@ -3,9 +3,11 @@ catalog: 7-99250
 title: Desire
 artist: U2
 label: Island Records
+formats: Vinyl, Gatefold
 format: 7", Single, Gat
 rating: 
 released: 1988
+year: 1988
 releaseid: 750205
 mediacondition: Near Mint (NM or M-)
 sleevecondition: Near Mint (NM or M-)
@@ -27,9 +29,11 @@ By U2
 
 - Catalog #: 7-99250
 - Label: Island Records
+- Formats: Vinyl, Gatefold
 - Format: 7", Single, Gat
 - Rating: 
 - Released: 1988
+- Year: 1988
 - Release ID: 750205
 - Media condition: Near Mint (NM or M-)
 - Sleeve condition: Near Mint (NM or M-)

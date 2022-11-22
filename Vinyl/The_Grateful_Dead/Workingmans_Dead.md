@@ -3,9 +3,11 @@ catalog: WS 1869, 1869
 title: Workingman's Dead
 artist: The Grateful Dead
 label: Warner Bros. Records, Warner Bros. Records
+formats: Vinyl, Pitman Pressing
 format: LP, Album, Pit
 rating: 
 released: 1970
+year: 1970
 releaseid: 774120
 mediacondition: Very Good (VG)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Grateful Dead
 
 - Catalog #: WS 1869, 1869
 - Label: Warner Bros. Records, Warner Bros. Records
+- Formats: Vinyl, Pitman Pressing
 - Format: LP, Album, Pit
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 774120
 - Media condition: Very Good (VG)
 - Sleeve condition: Very Good (VG)

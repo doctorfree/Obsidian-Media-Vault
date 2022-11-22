@@ -3,9 +3,11 @@ catalog: KE 32156
 title: Cosmic Wheels
 artist: Donovan
 label: Epic
+formats: Vinyl, Terre Haute Press
 format: LP, Album, Ter
 rating: 
 released: 1973
+year: 1973
 releaseid: 6539224
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Donovan
 
 - Catalog #: KE 32156
 - Label: Epic
+- Formats: Vinyl, Terre Haute Press
 - Format: LP, Album, Ter
 - Rating: 
 - Released: 1973
+- Year: 1973
 - Release ID: 6539224
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

@@ -3,9 +3,11 @@ catalog: R1-535339
 title: Physical Graffiti
 artist: Led Zeppelin
 label: Swan Song
+formats: Vinyl, 180g
 format: 2xLP, Album, RE, RM, 180
 rating: 
 released: 2015
+year: 1975
 releaseid: 6696223
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Led Zeppelin
 
 - Catalog #: R1-535339
 - Label: Swan Song
+- Formats: Vinyl, 180g
 - Format: 2xLP, Album, RE, RM, 180
 - Rating: 
 - Released: 2015
+- Year: 1975
 - Release ID: 6696223
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

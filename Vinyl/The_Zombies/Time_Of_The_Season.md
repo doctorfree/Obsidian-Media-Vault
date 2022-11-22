@@ -3,9 +3,11 @@ catalog: 2-1628
 title: Time Of The Season
 artist: The Zombies
 label: Date
+formats: Vinyl, Pitman Pressing
 format: 7", Single, Styrene, Pit
 rating: 
 released: 1968
+year: 1968
 releaseid: 589824
 mediacondition: Very Good (VG)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Zombies
 
 - Catalog #: 2-1628
 - Label: Date
+- Formats: Vinyl, Pitman Pressing
 - Format: 7", Single, Styrene, Pit
 - Rating: 
 - Released: 1968
+- Year: 1968
 - Release ID: 589824
 - Media condition: Very Good (VG)
 - Sleeve condition: 

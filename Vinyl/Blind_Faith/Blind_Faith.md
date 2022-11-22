@@ -3,9 +3,11 @@ catalog: 06025 17753167
 title: Blind Faith
 artist: Blind Faith
 label: RSO
+formats: Vinyl, 180 Gram
 format: LP, Album, RE, 180
 rating: 
 released: 2013
+year: 1969
 releaseid: 6404188
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Blind Faith
 
 - Catalog #: 06025 17753167
 - Label: RSO
+- Formats: Vinyl, 180 Gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2013
+- Year: 1969
 - Release ID: 6404188
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: R1 82667
 title: Fragile
 artist: Yes
 label: Atlantic
+formats: Vinyl, 180 gram, Gatefold
 format: LP, Album, RE, 180
 rating: 
 released: 2016
+year: 1971
 releaseid: 8515237
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Yes
 
 - Catalog #: R1 82667
 - Label: Atlantic
+- Formats: Vinyl, 180 gram, Gatefold
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2016
+- Year: 1971
 - Release ID: 8515237
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

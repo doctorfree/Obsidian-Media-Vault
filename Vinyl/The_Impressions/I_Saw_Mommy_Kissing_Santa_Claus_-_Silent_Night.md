@@ -3,9 +3,11 @@ catalog: 45-44211
 title: I Saw Mommy Kissing Santa Claus / Silent Night
 artist: The Impressions
 label: Cotillion
+formats: Vinyl
 format: 7"
 rating: 
 released: 1976
+year: 1976
 releaseid: 3286193
 mediacondition: Very Good Plus (VG+)
 sleevecondition: 
@@ -27,9 +29,11 @@ By The Impressions
 
 - Catalog #: 45-44211
 - Label: Cotillion
+- Formats: Vinyl
 - Format: 7"
 - Rating: 
 - Released: 1976
+- Year: 1976
 - Release ID: 3286193
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: 

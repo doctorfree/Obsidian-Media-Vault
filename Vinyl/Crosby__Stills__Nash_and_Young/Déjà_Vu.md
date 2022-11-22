@@ -3,9 +3,11 @@ catalog: SD 7200
 title: Déjà Vu
 artist: "Crosby, Stills, Nash & Young"
 label: Atlantic
+formats: Vinyl, PR - Presswell Pressing, Faux-Leather Gatefold
 format: LP, Album, PR 
 rating: 
 released: 1970
+year: 1970
 releaseid: 1132195
 mediacondition: Good (G)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By "Crosby, Stills, Nash & Young"
 
 - Catalog #: SD 7200
 - Label: Atlantic
+- Formats: Vinyl, PR - Presswell Pressing, Faux-Leather Gatefold
 - Format: LP, Album, PR 
 - Rating: 
 - Released: 1970
+- Year: 1970
 - Release ID: 1132195
 - Media condition: Good (G)
 - Sleeve condition: Good Plus (G+)

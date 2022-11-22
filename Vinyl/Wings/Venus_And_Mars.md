@@ -3,9 +3,11 @@ catalog: SMAS-11419
 title: Venus And Mars
 artist: Wings
 label: Capitol Records, MPL
+formats: Vinyl, Jacksonville Pressing, Gatefold
 format: LP, Album, Jac
 rating: 
 released: 1975
+year: 1975
 releaseid: 778265
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Wings
 
 - Catalog #: SMAS-11419
 - Label: Capitol Records, MPL
+- Formats: Vinyl, Jacksonville Pressing, Gatefold
 - Format: LP, Album, Jac
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 778265
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: B0022559-01
 title: The Who Sell Out
 artist: The Who
 label: Geffen Records, Track Record
+formats: Vinyl, 180 gram
 format: LP, Album, RE, 180
 rating: 
 released: 2015
+year: 1967
 releaseid: 6811330
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By The Who
 
 - Catalog #: B0022559-01
 - Label: Geffen Records, Track Record
+- Formats: Vinyl, 180 gram
 - Format: LP, Album, RE, 180
 - Rating: 
 - Released: 2015
+- Year: 1967
 - Release ID: 6811330
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

@@ -3,9 +3,11 @@ catalog: 7 90232-1-H, 90232-1-H
 title: Welcome To The Pleasuredome
 artist: Frankie Goes To Hollywood
 label: Island Records, Island Records, ZTT, ZTT
+formats: Vinyl, AR, Gatefold
 format: 2xLP, Album, AR,
 rating: 
 released: 1984
+year: 1984
 releaseid: 37042
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Good Plus (G+)
@@ -27,9 +29,11 @@ By Frankie Goes To Hollywood
 
 - Catalog #: 7 90232-1-H, 90232-1-H
 - Label: Island Records, Island Records, ZTT, ZTT
+- Formats: Vinyl, AR, Gatefold
 - Format: 2xLP, Album, AR,
 - Rating: 
 - Released: 1984
+- Year: 1984
 - Release ID: 37042
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Good Plus (G+)

@@ -3,9 +3,11 @@ catalog: SP-3212
 title: Party Party (Original Motion Picture Soundtrack)
 artist: Various
 label: A&M Records
+formats: Vinyl
 format: LP, Comp
 rating: 
 released: 1982
+year: 1982
 releaseid: 2714496
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Various
 
 - Catalog #: SP-3212
 - Label: A&M Records
+- Formats: Vinyl
 - Format: LP, Comp
 - Rating: 
 - Released: 1982
+- Year: 1982
 - Release ID: 2714496
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

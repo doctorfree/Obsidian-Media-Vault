@@ -3,9 +3,11 @@ catalog: E-45537
 title: My Best Friend's Girl
 artist: The Cars
 label: Elektra
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1978
+year: 1978
 releaseid: 3055175
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By The Cars
 
 - Catalog #: E-45537
 - Label: Elektra
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1978
+- Year: 1978
 - Release ID: 3055175
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

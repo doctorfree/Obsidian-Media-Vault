@@ -3,9 +3,11 @@ catalog: 80302-01794-17
 title: Volume 1
 artist: BNQT
 label: Dualtone
+formats: Vinyl
 format: LP, Album
 rating: 
 released: 2017
+year: 2017
 releaseid: 10191695
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By BNQT
 
 - Catalog #: 80302-01794-17
 - Label: Dualtone
+- Formats: Vinyl
 - Format: LP, Album
 - Rating: 
 - Released: 2017
+- Year: 2017
 - Release ID: 10191695
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

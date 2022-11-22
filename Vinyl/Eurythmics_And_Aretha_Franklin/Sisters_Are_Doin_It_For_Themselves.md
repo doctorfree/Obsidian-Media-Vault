@@ -3,9 +3,11 @@ catalog: PB-14214
 title: Sisters Are Doin' It For Themselves
 artist: Eurythmics And Aretha Franklin
 label: RCA
+formats: Vinyl
 format: 7", Single
 rating: 
 released: 1985
+year: 1985
 releaseid: 573862
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Eurythmics And Aretha Franklin
 
 - Catalog #: PB-14214
 - Label: RCA
+- Formats: Vinyl
 - Format: 7", Single
 - Rating: 
 - Released: 1985
+- Year: 1985
 - Release ID: 573862
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

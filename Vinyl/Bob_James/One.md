@@ -3,9 +3,11 @@ catalog: CTI 6043
 title: One
 artist: Bob James
 label: CTI Records
+formats: Vinyl, Gatefold
 format: LP, Album, Gat
 rating: 
 released: 1974
+year: 1974
 releaseid: 317028
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By Bob James
 
 - Catalog #: CTI 6043
 - Label: CTI Records
+- Formats: Vinyl, Gatefold
 - Format: LP, Album, Gat
 - Rating: 
 - Released: 1974
+- Year: 1974
 - Release ID: 317028
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)

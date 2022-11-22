@@ -3,9 +3,11 @@ catalog: AFZLP 257, B0024494-01
 title: Leon Russell
 artist: Leon Russell
 label: Audio Fidelity (3), Universal Music Special Markets, Capitol Records
+formats: Vinyl, Blue
 format: LP, Album, Ltd, Num, RM, Blu
 rating: 
 released: 2017
+year: 1970
 releaseid: 10139037
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Leon Russell
 
 - Catalog #: AFZLP 257, B0024494-01
 - Label: Audio Fidelity (3), Universal Music Special Markets, Capitol Records
+- Formats: Vinyl, Blue
 - Format: LP, Album, Ltd, Num, RM, Blu
 - Rating: 
 - Released: 2017
+- Year: 1970
 - Release ID: 10139037
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

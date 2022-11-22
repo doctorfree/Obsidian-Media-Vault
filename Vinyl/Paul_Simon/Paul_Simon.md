@@ -3,9 +3,11 @@ catalog: 88883761051
 title: Paul Simon
 artist: Paul Simon
 label: Columbia
+formats: Vinyl, 180g
 format: LP, Album, RE, RM, 180
 rating: 
 released: 2013
+year: 1972
 releaseid: 7624215
 mediacondition: Mint (M)
 sleevecondition: Mint (M)
@@ -27,9 +29,11 @@ By Paul Simon
 
 - Catalog #: 88883761051
 - Label: Columbia
+- Formats: Vinyl, 180g
 - Format: LP, Album, RE, RM, 180
 - Rating: 
 - Released: 2013
+- Year: 1972
 - Release ID: 7624215
 - Media condition: Mint (M)
 - Sleeve condition: Mint (M)

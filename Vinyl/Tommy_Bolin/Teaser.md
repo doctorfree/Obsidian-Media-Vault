@@ -3,9 +3,11 @@ catalog: NE 436
 title: Teaser
 artist: Tommy Bolin
 label: Nemperor Records
+formats: Vinyl, Monarch Pressing
 format: LP, Album, Mon
 rating: 
 released: 1975
+year: 1975
 releaseid: 1057030
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good (VG)
@@ -27,9 +29,11 @@ By Tommy Bolin
 
 - Catalog #: NE 436
 - Label: Nemperor Records
+- Formats: Vinyl, Monarch Pressing
 - Format: LP, Album, Mon
 - Rating: 
 - Released: 1975
+- Year: 1975
 - Release ID: 1057030
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good (VG)

@@ -3,9 +3,11 @@ catalog: CH 1091
 title: Bird Songs In Your Garden
 artist: No Artist
 label: Houghton Mifflin Company
+formats: Vinyl, Seventh Impression
 format: 10", Album, RP, Sev
 rating: 
 released: 0
+year: 0
 releaseid: 5456412
 mediacondition: Very Good Plus (VG+)
 sleevecondition: Very Good Plus (VG+)
@@ -27,9 +29,11 @@ By No Artist
 
 - Catalog #: CH 1091
 - Label: Houghton Mifflin Company
+- Formats: Vinyl, Seventh Impression
 - Format: 10", Album, RP, Sev
 - Rating: 
 - Released: 0
+- Year: 0
 - Release ID: 5456412
 - Media condition: Very Good Plus (VG+)
 - Sleeve condition: Very Good Plus (VG+)
