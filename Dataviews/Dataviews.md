@@ -22,6 +22,7 @@ The Obsidian Media Vault markdown contains metadata with tags allowing a variety
 - [Roon Albums](Roon_Albums.md)
 - [Vinyl Gatefold](Vinyl_Gatefold.md)
 - [Vinyl Weight](Vinyl_Weight.md)
+- [Cross Media Types](Cross_Media_Types.md)
 
 ## Example Dataview Beets Query
 

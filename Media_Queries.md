@@ -169,6 +169,7 @@ GROUP BY "**" + author + "**"
 - [Dataview: Roon Albums](Dataviews/Roon_Albums.md)
 - [Dataview: Vinyl Gatefold](Dataviews/Vinyl_Gatefold.md)
 - [Dataview: Vinyl Weight](Dataviews/Vinyl_Weight.md)
+- [Dataview: Cross Media Types](Dataviews/Cross_Media_Types.md)
 - [Index of the Media Vault](Media_Index.md)
 - [README](README.md)
 - [Process](Process.md)
