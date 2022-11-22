@@ -4,7 +4,7 @@ title: Quah
 artist: Jorma Kaukonen With Tom Hobson
 label: Brookvale Records, Grunt (3)
 formats: Vinyl, Yellow
-format: LP, Album, Num, RE, Yel
+format: LP, Album, Num, RE, Yel, Numbered, Reissue
 rating: 
 released: 2014
 year: 1974
@@ -28,7 +28,7 @@ By Jorma Kaukonen With Tom Hobson
 - Catalog #: BRK-240
 - Label: Brookvale Records, Grunt (3)
 - Formats: Vinyl, Yellow
-- Format: LP, Album, Num, RE, Yel
+- Format: LP, Album, Num, RE, Yel, Numbered, Reissue
 - Rating: 
 - Released: 2014
 - Year: 1974

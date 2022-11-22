@@ -4,7 +4,7 @@ title: Famous Blue Raincoat (The Songs Of Leonard Cohen)
 artist: Jennifer Warnes
 label: Impex Records
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2015
 year: 1986
@@ -30,7 +30,7 @@ By Jennifer Warnes
 - Catalog #: IMP6021
 - Label: Impex Records
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1986

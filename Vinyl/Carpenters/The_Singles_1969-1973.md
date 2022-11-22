@@ -4,7 +4,7 @@ title: The Singles 1969-1973
 artist: Carpenters
 label: A&M Records
 formats: Vinyl
-format: LP, Album, Comp, RE
+format: LP, Album, Comp, RE, Compilation, Reissue
 rating: 
 released: 1983
 year: 1973
@@ -30,7 +30,7 @@ By Carpenters
 - Catalog #: AMNP 135
 - Label: A&M Records
 - Formats: Vinyl
-- Format: LP, Album, Comp, RE
+- Format: LP, Album, Comp, RE, Compilation, Reissue
 - Rating: 
 - Released: 1983
 - Year: 1973

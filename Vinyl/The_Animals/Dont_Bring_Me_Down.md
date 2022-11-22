@@ -4,7 +4,7 @@ title: Don't Bring Me Down
 artist: The Animals
 label: MGM Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By The Animals
 - Catalog #: K13514
 - Label: MGM Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

@@ -4,7 +4,7 @@ title: The Eminem Show
 artist: Eminem
 label: Aftermath Entertainment
 formats: Vinyl
-format: 2xLP, Album, RE
+format: 2xLP, Album, RE, Reissue, Stereo
 rating: 
 released: 2014
 year: 2002
@@ -30,7 +30,7 @@ By Eminem
 - Catalog #: 0694932901
 - Label: Aftermath Entertainment
 - Formats: Vinyl
-- Format: 2xLP, Album, RE
+- Format: 2xLP, Album, RE, Reissue, Stereo
 - Rating: 
 - Released: 2014
 - Year: 2002

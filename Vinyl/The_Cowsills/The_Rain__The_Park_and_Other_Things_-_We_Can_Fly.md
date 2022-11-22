@@ -4,7 +4,7 @@ title: "The Rain, The Park & Other Things / We Can Fly"
 artist: The Cowsills
 label: MGM Records
 formats: Vinyl
-format: 7", RE
+format: 7", RE, 45 RPM, Reissue
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By The Cowsills
 - Catalog #: KGC193
 - Label: MGM Records
 - Formats: Vinyl
-- Format: 7", RE
+- Format: 7", RE, 45 RPM, Reissue
 - Rating: 
 - Released: 0
 - Year: 0

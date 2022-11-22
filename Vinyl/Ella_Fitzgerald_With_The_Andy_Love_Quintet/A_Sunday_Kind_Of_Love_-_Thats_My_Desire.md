@@ -4,7 +4,7 @@ title: A Sunday Kind Of Love / That's My Desire
 artist: Ella Fitzgerald With The Andy Love Quintet
 label: Decca
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1954
 year: 0
@@ -28,7 +28,7 @@ By Ella Fitzgerald With The Andy Love Quintet
 - Catalog #: 9-28993
 - Label: Decca
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1954
 - Year: 0

@@ -4,7 +4,7 @@ title: Summertime Blues / Signs
 artist: Blue Cheer / Five Man Electrical Band
 label: Collectables
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1986
 year: 1986
@@ -30,7 +30,7 @@ By Blue Cheer / Five Man Electrical Band
 - Catalog #: COL 4239
 - Label: Collectables
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1986
 - Year: 1986

@@ -4,7 +4,7 @@ title: The Little Drummer Boy / Die Lorelei
 artist: The Harry Simeone Chorale / The Voices Of The Junior Chorale
 label: 20th Fox
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1958
 year: 1958
@@ -30,7 +30,7 @@ By The Harry Simeone Chorale / The Voices Of The Junior Chorale
 - Catalog #: 45-121
 - Label: 20th Fox
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1958
 - Year: 1958

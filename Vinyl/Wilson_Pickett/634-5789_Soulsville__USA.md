@@ -4,7 +4,7 @@ title: "634-5789 (Soulsville, U.S.A.)"
 artist: Wilson Pickett
 label: Atlantic
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By Wilson Pickett
 - Catalog #: 45-2320
 - Label: Atlantic
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

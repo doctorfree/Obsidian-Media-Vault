@@ -4,7 +4,7 @@ title: Count On Me / Show Yourself
 artist: Jefferson Starship
 label: Grunt (3)
 formats: Vinyl, Indianapolis Pressing
-format: 7", Single, Ind
+format: 7", Single, Ind, 45 RPM, Stereo
 rating: 
 released: 1978
 year: 1978
@@ -30,7 +30,7 @@ By Jefferson Starship
 - Catalog #: FB-11196
 - Label: Grunt (3)
 - Formats: Vinyl, Indianapolis Pressing
-- Format: 7", Single, Ind
+- Format: 7", Single, Ind, 45 RPM, Stereo
 - Rating: 
 - Released: 1978
 - Year: 1978

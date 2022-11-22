@@ -4,7 +4,7 @@ title: Desert Island
 artist: Mystic Braves
 label: Lolipop Records
 formats: Vinyl
-format: LP, Album, Ltd
+format: LP, Album, Ltd, Limited Edition
 rating: 
 released: 2014
 year: 2014
@@ -30,7 +30,7 @@ By Mystic Braves
 - Catalog #: LPOP090
 - Label: Lolipop Records
 - Formats: Vinyl
-- Format: LP, Album, Ltd
+- Format: LP, Album, Ltd, Limited Edition
 - Rating: 
 - Released: 2014
 - Year: 2014

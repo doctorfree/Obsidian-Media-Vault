@@ -4,7 +4,7 @@ title: A Tramp Shining
 artist: Richard Harris
 label: ABC Dunhill, Dunhill, ABC Records
 formats: Vinyl, Ivy Duo-Pak
-format: LP, Album, RE, Ivy
+format: LP, Album, RE, Ivy, Reissue
 rating: 
 released: 1974
 year: 1968
@@ -30,7 +30,7 @@ By Richard Harris
 - Catalog #: DS-50032
 - Label: ABC Dunhill, Dunhill, ABC Records
 - Formats: Vinyl, Ivy Duo-Pak
-- Format: LP, Album, RE, Ivy
+- Format: LP, Album, RE, Ivy, Reissue
 - Rating: 
 - Released: 1974
 - Year: 1968

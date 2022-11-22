@@ -4,7 +4,7 @@ title: Your Other Love / Whatever Happened To Rosemarie
 artist: Connie Francis
 label: MGM Records, MGM Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1963
 year: 1963
@@ -30,7 +30,7 @@ By Connie Francis
 - Catalog #: K-13176, K13176
 - Label: MGM Records, MGM Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1963
 - Year: 1963

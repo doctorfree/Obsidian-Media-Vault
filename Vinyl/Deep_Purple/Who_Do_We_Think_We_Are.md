@@ -4,7 +4,7 @@ title: Who Do We Think We Are
 artist: Deep Purple
 label: Friday Music
 formats: Vinyl, Gatefold, 180 Gram
-format: LP, Album, RE, RM, Gat
+format: LP, Album, RE, RM, Gat, Reissue, Remastered
 rating: 
 released: 2009
 year: 1973
@@ -30,7 +30,7 @@ By Deep Purple
 - Catalog #: FRM 9018
 - Label: Friday Music
 - Formats: Vinyl, Gatefold, 180 Gram
-- Format: LP, Album, RE, RM, Gat
+- Format: LP, Album, RE, RM, Gat, Reissue, Remastered
 - Rating: 
 - Released: 2009
 - Year: 1973

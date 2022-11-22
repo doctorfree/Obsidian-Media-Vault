@@ -4,7 +4,7 @@ title: The Poor People Of Paris (La Goualante Du Pauvre Jean)
 artist: "Les Baxter, His Chorus And Orchestra"
 label: Capitol Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1956
 year: 1956
@@ -30,7 +30,7 @@ By "Les Baxter, His Chorus And Orchestra"
 - Catalog #: F3336
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1956
 - Year: 1956

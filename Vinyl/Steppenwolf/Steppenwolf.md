@@ -4,7 +4,7 @@ title: Steppenwolf
 artist: Steppenwolf
 label: Analogue Productions
 formats: Vinyl, 200 Gram
-format: LP, Album, RM, 200
+format: LP, Album, RM, 200, Remastered
 rating: 
 released: 2013
 year: 1968
@@ -30,7 +30,7 @@ By Steppenwolf
 - Catalog #: APP 50029
 - Label: Analogue Productions
 - Formats: Vinyl, 200 Gram
-- Format: LP, Album, RM, 200
+- Format: LP, Album, RM, 200, Remastered
 - Rating: 
 - Released: 2013
 - Year: 1968

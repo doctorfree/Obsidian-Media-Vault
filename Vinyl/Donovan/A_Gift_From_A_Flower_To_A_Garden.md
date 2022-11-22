@@ -4,7 +4,7 @@ title: A Gift From A Flower To A Garden
 artist: Donovan
 label: Epic
 formats: Vinyl, Terre Haute Press
-format: 2xLP, Album, Ter + Box
+format: 2xLP, Album, Ter + Box, Stereo, Stereo
 rating: 5
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By Donovan
 - Catalog #: B2N 171
 - Label: Epic
 - Formats: Vinyl, Terre Haute Press
-- Format: 2xLP, Album, Ter + Box
+- Format: 2xLP, Album, Ter + Box, Stereo, Stereo
 - Rating: 5
 - Released: 1967
 - Year: 1967

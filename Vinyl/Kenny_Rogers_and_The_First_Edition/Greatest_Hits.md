@@ -4,7 +4,7 @@ title: Greatest Hits
 artist: Kenny Rogers & The First Edition
 label: Reprise Records
 formats: Vinyl, Pitman Pressing
-format: LP, Comp, Pit
+format: LP, Comp, Pit, Compilation
 rating: 
 released: 1971
 year: 1971
@@ -30,7 +30,7 @@ By Kenny Rogers & The First Edition
 - Catalog #: RS 6437
 - Label: Reprise Records
 - Formats: Vinyl, Pitman Pressing
-- Format: LP, Comp, Pit
+- Format: LP, Comp, Pit, Compilation
 - Rating: 
 - Released: 1971
 - Year: 1971

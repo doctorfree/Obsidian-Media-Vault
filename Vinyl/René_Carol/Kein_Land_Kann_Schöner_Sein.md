@@ -4,7 +4,7 @@ title: Kein Land Kann Schöner Sein
 artist: René Carol
 label: Polydor
 formats: Vinyl
-format: 7", EP
+format: 7", EP, 45 RPM
 rating: 
 released: 1961
 year: 1961
@@ -30,7 +30,7 @@ By René Carol
 - Catalog #: 21 310 EPH
 - Label: Polydor
 - Formats: Vinyl
-- Format: 7", EP
+- Format: 7", EP, 45 RPM
 - Rating: 
 - Released: 1961
 - Year: 1961

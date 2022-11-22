@@ -4,7 +4,7 @@ title: Small Town
 artist: John Cougar Mellencamp
 label: Riva (2)
 formats: Vinyl, PRC Pressing
-format: 7", Single, Styrene, PRC
+format: 7", Single, Styrene, PRC, 45 RPM
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By John Cougar Mellencamp
 - Catalog #: 884 202-7
 - Label: Riva (2)
 - Formats: Vinyl, PRC Pressing
-- Format: 7", Single, Styrene, PRC
+- Format: 7", Single, Styrene, PRC, 45 RPM
 - Rating: 
 - Released: 1985
 - Year: 1985

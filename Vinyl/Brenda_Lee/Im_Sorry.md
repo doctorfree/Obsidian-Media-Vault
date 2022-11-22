@@ -4,7 +4,7 @@ title: I'm Sorry
 artist: Brenda Lee
 label: Decca
 formats: Vinyl
-format: 7", EP
+format: 7", EP, 45 RPM
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By Brenda Lee
 - Catalog #: ED 2683
 - Label: Decca
 - Formats: Vinyl
-- Format: 7", EP
+- Format: 7", EP, 45 RPM
 - Rating: 
 - Released: 0
 - Year: 0

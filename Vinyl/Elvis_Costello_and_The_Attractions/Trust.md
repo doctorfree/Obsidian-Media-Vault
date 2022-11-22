@@ -4,7 +4,7 @@ title: Trust
 artist: Elvis Costello & The Attractions
 label: Mobile Fidelity Sound Lab
 formats: Vinyl
-format: LP, Album, Ltd, Num, RE, RM
+format: LP, Album, Ltd, Num, RE, RM, Limited Edition, Numbered, Reissue, Remastered, Stereo
 rating: 
 released: 2015
 year: 1981
@@ -30,7 +30,7 @@ By Elvis Costello & The Attractions
 - Catalog #: MFSL 1-340
 - Label: Mobile Fidelity Sound Lab
 - Formats: Vinyl
-- Format: LP, Album, Ltd, Num, RE, RM
+- Format: LP, Album, Ltd, Num, RE, RM, Limited Edition, Numbered, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1981

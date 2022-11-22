@@ -4,7 +4,7 @@ title: I Need Your Help Barry Manilow
 artist: Ray Stevens
 label: Warner Bros. Records
 formats: Vinyl, Los Angeles pressing
-format: 7", Los
+format: 7", Los, 45 RPM, Stereo
 rating: 
 released: 1979
 year: 1979
@@ -30,7 +30,7 @@ By Ray Stevens
 - Catalog #: WBS 8785
 - Label: Warner Bros. Records
 - Formats: Vinyl, Los Angeles pressing
-- Format: 7", Los
+- Format: 7", Los, 45 RPM, Stereo
 - Rating: 
 - Released: 1979
 - Year: 1979

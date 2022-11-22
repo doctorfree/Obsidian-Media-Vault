@@ -4,7 +4,7 @@ title: Soul Deep
 artist: Box Tops
 label: Mala
 formats: Vinyl, Bestway Pressing
-format: 7", Single, Bes
+format: 7", Single, Bes, 45 RPM
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By Box Tops
 - Catalog #: MALA 12,040
 - Label: Mala
 - Formats: Vinyl, Bestway Pressing
-- Format: 7", Single, Bes
+- Format: 7", Single, Bes, 45 RPM
 - Rating: 
 - Released: 1969
 - Year: 1969

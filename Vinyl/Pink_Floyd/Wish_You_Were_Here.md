@@ -4,7 +4,7 @@ title: Wish You Were Here
 artist: Pink Floyd
 label: Pink Floyd Records, Pink Floyd Records
 formats: Vinyl, 180g
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2016
 year: 1975
@@ -30,7 +30,7 @@ By Pink Floyd
 - Catalog #: PFRLP9, 5099902988016
 - Label: Pink Floyd Records, Pink Floyd Records
 - Formats: Vinyl, 180g
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2016
 - Year: 1975

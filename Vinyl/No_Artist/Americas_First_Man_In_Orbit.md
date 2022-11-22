@@ -4,7 +4,7 @@ title: America's First Man In Orbit
 artist: No Artist
 label: Nelson Doubleday, Inc.
 formats: Vinyl, Compatible Stereo
-format: 7", Com
+format: 7", Com, 33 ⅓ RPM
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By No Artist
 - Catalog #: SP 27
 - Label: Nelson Doubleday, Inc.
 - Formats: Vinyl, Compatible Stereo
-- Format: 7", Com
+- Format: 7", Com, 33 ⅓ RPM
 - Rating: 
 - Released: 0
 - Year: 0

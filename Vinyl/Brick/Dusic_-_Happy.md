@@ -4,7 +4,7 @@ title: Dusic / Happy
 artist: Brick
 label: Bang Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By Brick
 - Catalog #: B-734
 - Label: Bang Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1977
 - Year: 1977

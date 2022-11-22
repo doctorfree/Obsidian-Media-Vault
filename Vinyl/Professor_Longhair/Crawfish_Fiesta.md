@@ -4,7 +4,7 @@ title: Crawfish Fiesta
 artist: Professor Longhair
 label: Alligator Records
 formats: Vinyl, 180 gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2012
 year: 1980
@@ -30,7 +30,7 @@ By Professor Longhair
 - Catalog #: AL 4718
 - Label: Alligator Records
 - Formats: Vinyl, 180 gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2012
 - Year: 1980

@@ -4,7 +4,7 @@ title: Ain't No Woman (Like The One I've Got) / The Good Lord Knows
 artist: Four Tops
 label: ABC/Dunhill Records
 formats: Vinyl, Terre Haute Pressing
-format: 7", Single, Styrene, Ter
+format: 7", Single, Styrene, Ter, 45 RPM
 rating: 
 released: 1973
 year: 1973
@@ -30,7 +30,7 @@ By Four Tops
 - Catalog #: D-4339
 - Label: ABC/Dunhill Records
 - Formats: Vinyl, Terre Haute Pressing
-- Format: 7", Single, Styrene, Ter
+- Format: 7", Single, Styrene, Ter, 45 RPM
 - Rating: 
 - Released: 1973
 - Year: 1973

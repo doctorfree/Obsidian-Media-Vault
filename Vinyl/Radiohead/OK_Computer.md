@@ -4,7 +4,7 @@ title: OK Computer
 artist: Radiohead
 label: XL Recordings
 formats: Vinyl
-format: 2xLP, Album, RE
+format: 2xLP, Album, RE, Reissue
 rating: 
 released: 2016
 year: 1997
@@ -30,7 +30,7 @@ By Radiohead
 - Catalog #: XLLP781
 - Label: XL Recordings
 - Formats: Vinyl
-- Format: 2xLP, Album, RE
+- Format: 2xLP, Album, RE, Reissue
 - Rating: 
 - Released: 2016
 - Year: 1997

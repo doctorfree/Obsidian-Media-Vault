@@ -4,7 +4,7 @@ title: Maggot Brain
 artist: Funkadelic
 label: Westbound Records
 formats: Vinyl, Peach, Gatefold
-format: LP, Album, RE, Pea
+format: LP, Album, RE, Pea, Reissue, Stereo
 rating: 
 released: 2014
 year: 1971
@@ -30,7 +30,7 @@ By Funkadelic
 - Catalog #: HIQLP 020
 - Label: Westbound Records
 - Formats: Vinyl, Peach, Gatefold
-- Format: LP, Album, RE, Pea
+- Format: LP, Album, RE, Pea, Reissue, Stereo
 - Rating: 
 - Released: 2014
 - Year: 1971

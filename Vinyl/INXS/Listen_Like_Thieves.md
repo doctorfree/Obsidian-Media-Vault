@@ -4,7 +4,7 @@ title: Listen Like Thieves
 artist: INXS
 label: Mobile Fidelity Sound Lab
 formats: Vinyl
-format: LP, Album, Ltd, Num, RE, RM
+format: LP, Album, Ltd, Num, RE, RM, Limited Edition, Numbered, Reissue, Remastered, Stereo
 rating: 
 released: 2013
 year: 1985
@@ -30,7 +30,7 @@ By INXS
 - Catalog #: MOFI 1-041
 - Label: Mobile Fidelity Sound Lab
 - Formats: Vinyl
-- Format: LP, Album, Ltd, Num, RE, RM
+- Format: LP, Album, Ltd, Num, RE, RM, Limited Edition, Numbered, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2013
 - Year: 1985

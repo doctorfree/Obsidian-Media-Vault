@@ -4,7 +4,7 @@ title: Make Her Mine
 artist: Nat King Cole
 label: Capitol Records
 formats: Vinyl, Scranton Pressing
-format: 7", Single, Scr
+format: 7", Single, Scr, 45 RPM
 rating: 
 released: 1954
 year: 1954
@@ -30,7 +30,7 @@ By Nat King Cole
 - Catalog #: F2803
 - Label: Capitol Records
 - Formats: Vinyl, Scranton Pressing
-- Format: 7", Single, Scr
+- Format: 7", Single, Scr, 45 RPM
 - Rating: 
 - Released: 1954
 - Year: 1954

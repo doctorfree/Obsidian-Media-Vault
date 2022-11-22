@@ -4,7 +4,7 @@ title: The Essentials
 artist: Scott Bradlee & Postmodern Jukebox
 label: Concord Music Group, Inc.
 formats: Vinyl
-format: 2xLP, Comp
+format: 2xLP, Comp, Compilation, Stereo
 rating: 
 released: 2016
 year: 2016
@@ -30,7 +30,7 @@ By Scott Bradlee & Postmodern Jukebox
 - Catalog #: CRE00234
 - Label: Concord Music Group, Inc.
 - Formats: Vinyl
-- Format: 2xLP, Comp
+- Format: 2xLP, Comp, Compilation, Stereo
 - Rating: 
 - Released: 2016
 - Year: 2016

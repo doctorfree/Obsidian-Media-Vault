@@ -4,7 +4,7 @@ title: A Night At The Opera
 artist: Queen
 label: Elektra
 formats: Vinyl, CSM, Gatefold
-format: LP, Album, CSM
+format: LP, Album, CSM, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Queen
 - Catalog #: 7E-1053
 - Label: Elektra
 - Formats: Vinyl, CSM, Gatefold
-- Format: LP, Album, CSM
+- Format: LP, Album, CSM, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

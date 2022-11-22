@@ -4,7 +4,7 @@ title: Forbidden Planet
 artist: Louis And Bebe Barron
 label: Small Planet Records
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 1978
 year: 1976
@@ -30,7 +30,7 @@ By Louis And Bebe Barron
 - Catalog #: PR-001
 - Label: Small Planet Records
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 1978
 - Year: 1976

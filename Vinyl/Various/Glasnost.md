@@ -4,7 +4,7 @@ title: Glasnost
 artist: Various
 label: MCA Records
 formats: Vinyl
-format: LP, Album, Comp, Promo
+format: LP, Album, Comp, Promo, Compilation
 rating: 
 released: 1988
 year: 1987
@@ -30,7 +30,7 @@ By Various
 - Catalog #: MCA-6358
 - Label: MCA Records
 - Formats: Vinyl
-- Format: LP, Album, Comp, Promo
+- Format: LP, Album, Comp, Promo, Compilation
 - Rating: 
 - Released: 1988
 - Year: 1987

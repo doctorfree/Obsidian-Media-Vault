@@ -4,7 +4,7 @@ title: Secret Treaties
 artist: Blue Öyster Cult
 label: Speakers Corner Records, Columbia
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2014
 year: 1974
@@ -30,7 +30,7 @@ By Blue Öyster Cult
 - Catalog #: KC 32858
 - Label: Speakers Corner Records, Columbia
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1974

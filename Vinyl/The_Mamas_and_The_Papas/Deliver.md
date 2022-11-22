@@ -4,7 +4,7 @@ title: Deliver
 artist: The Mamas & The Papas
 label: Sundazed Music
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue, Stereo
 rating: 
 released: 2013
 year: 1967
@@ -30,7 +30,7 @@ By The Mamas & The Papas
 - Catalog #: LP-5446
 - Label: Sundazed Music
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue, Stereo
 - Rating: 
 - Released: 2013
 - Year: 1967

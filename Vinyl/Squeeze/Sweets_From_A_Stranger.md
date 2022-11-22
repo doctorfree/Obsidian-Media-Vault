@@ -4,7 +4,7 @@ title: Sweets From A Stranger
 artist: Squeeze
 label: A&M Records
 formats: Vinyl, R - RCA, Indianapolis Press
-format: LP, Album, R -
+format: LP, Album, R -, Stereo
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By Squeeze
 - Catalog #: SP-4899
 - Label: A&M Records
 - Formats: Vinyl, R - RCA, Indianapolis Press
-- Format: LP, Album, R -
+- Format: LP, Album, R -, Stereo
 - Rating: 
 - Released: 1982
 - Year: 1982

@@ -4,7 +4,7 @@ title: Streichquintett C-Dur
 artist: "Franz Schubert, Emerson String Quartet, Mstislav Rostropovich"
 label: Deutsche Grammophon
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2015
 year: 1992
@@ -30,7 +30,7 @@ By "Franz Schubert, Emerson String Quartet, Mstislav Rostropovich"
 - Catalog #: 00289 479 4384
 - Label: Deutsche Grammophon
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2015
 - Year: 1992

@@ -4,7 +4,7 @@ title: "Please, Mr. Sun / Here I Am - Broken Hearted"
 artist: Johnnie Ray
 label: Columbia
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1952
 year: 1952
@@ -30,7 +30,7 @@ By Johnnie Ray
 - Catalog #: 4-39636
 - Label: Columbia
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1952
 - Year: 1952

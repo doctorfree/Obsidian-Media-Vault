@@ -4,7 +4,7 @@ title: Original Recordings
 artist: Dan Hicks And His Hot Licks
 label: Epic
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Stereo
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By Dan Hicks And His Hot Licks
 - Catalog #: BN 26464
 - Label: Epic
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Stereo
 - Rating: 
 - Released: 1969
 - Year: 1969

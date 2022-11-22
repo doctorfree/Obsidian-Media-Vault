@@ -4,7 +4,7 @@ title: The Girl Is Mine
 artist: Michael Jackson / Paul McCartney
 label: Epic
 formats: Vinyl, Terre Haute Pressing, Picture Sleeve
-format: 7", Single, Styrene, Ter
+format: 7", Single, Styrene, Ter, 45 RPM
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By Michael Jackson / Paul McCartney
 - Catalog #: 34-03288
 - Label: Epic
 - Formats: Vinyl, Terre Haute Pressing, Picture Sleeve
-- Format: 7", Single, Styrene, Ter
+- Format: 7", Single, Styrene, Ter, 45 RPM
 - Rating: 
 - Released: 1982
 - Year: 1982

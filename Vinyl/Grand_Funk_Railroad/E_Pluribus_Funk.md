@@ -4,7 +4,7 @@ title: E Pluribus Funk
 artist: Grand Funk Railroad
 label: Capitol Records, Capitol Records
 formats: Vinyl, Winchester Pressing
-format: LP, Album, Win
+format: LP, Album, Win, Stereo
 rating: 
 released: 1971
 year: 1971
@@ -30,7 +30,7 @@ By Grand Funk Railroad
 - Catalog #: SW-853, SW 853
 - Label: Capitol Records, Capitol Records
 - Formats: Vinyl, Winchester Pressing
-- Format: LP, Album, Win
+- Format: LP, Album, Win, Stereo
 - Rating: 
 - Released: 1971
 - Year: 1971

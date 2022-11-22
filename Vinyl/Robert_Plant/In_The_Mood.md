@@ -4,7 +4,7 @@ title: In The Mood
 artist: Robert Plant
 label: Es Paranza Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Robert Plant
 - Catalog #: 7-99820
 - Label: Es Paranza Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

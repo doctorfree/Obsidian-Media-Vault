@@ -4,7 +4,7 @@ title: Come To The Sunshine: Soft Pop Nuggets From The WEA Vaults
 artist: Various
 label: Rhino Records (2), Rhino Records (2), Rhino Handmade, Rhino Handmade
 formats: Vinyl, Orange/Yellow Swirl
-format: 2xLP, Comp, Ltd, Ora
+format: 2xLP, Comp, Ltd, Ora, Compilation, Limited Edition
 rating: 
 released: 2017
 year: 2004
@@ -30,7 +30,7 @@ By Various
 - Catalog #: 081227941055, R1 7818
 - Label: Rhino Records (2), Rhino Records (2), Rhino Handmade, Rhino Handmade
 - Formats: Vinyl, Orange/Yellow Swirl
-- Format: 2xLP, Comp, Ltd, Ora
+- Format: 2xLP, Comp, Ltd, Ora, Compilation, Limited Edition
 - Rating: 
 - Released: 2017
 - Year: 2004

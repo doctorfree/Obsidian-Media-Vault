@@ -4,7 +4,7 @@ title: Louisiana Lady
 artist: New Riders Of The Purple Sage
 label: Columbia
 formats: Vinyl
-format: 7", Single, Promo
+format: 7", Single, Promo, 45 RPM
 rating: 
 released: 1971
 year: 1971
@@ -30,7 +30,7 @@ By New Riders Of The Purple Sage
 - Catalog #: 4-45469
 - Label: Columbia
 - Formats: Vinyl
-- Format: 7", Single, Promo
+- Format: 7", Single, Promo, 45 RPM
 - Rating: 
 - Released: 1971
 - Year: 1971

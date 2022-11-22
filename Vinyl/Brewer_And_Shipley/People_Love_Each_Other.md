@@ -4,7 +4,7 @@ title: People Love Each Other
 artist: Brewer And Shipley
 label: Kama Sutra
 formats: Vinyl
-format: 7", Single, Promo
+format: 7", Single, Promo, 45 RPM
 rating: 
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By Brewer And Shipley
 - Catalog #: KA 512
 - Label: Kama Sutra
 - Formats: Vinyl
-- Format: 7", Single, Promo
+- Format: 7", Single, Promo, 45 RPM
 - Rating: 
 - Released: 1970
 - Year: 1970

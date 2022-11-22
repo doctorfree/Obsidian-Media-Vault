@@ -4,7 +4,7 @@ title: Heart Don't Lie
 artist: La Toya Jackson
 label: Private I Records
 formats: Vinyl, Pitman Pressing
-format: 7", Single, Styrene, Pit
+format: 7", Single, Styrene, Pit, Stereo
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By La Toya Jackson
 - Catalog #: ZS4 04439
 - Label: Private I Records
 - Formats: Vinyl, Pitman Pressing
-- Format: 7", Single, Styrene, Pit
+- Format: 7", Single, Styrene, Pit, Stereo
 - Rating: 
 - Released: 1984
 - Year: 1984

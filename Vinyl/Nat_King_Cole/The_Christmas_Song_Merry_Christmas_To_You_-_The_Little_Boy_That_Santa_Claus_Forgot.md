@@ -4,7 +4,7 @@ title: The Christmas Song (Merry Christmas To You) / The Little Boy That Santa C
 artist: Nat King Cole
 label: Capitol Records
 formats: Vinyl, Orange Label
-format: 7", Single, Mono, RE, Ora
+format: 7", Single, Mono, RE, Ora, 45 RPM, Reissue
 rating: 
 released: 1973
 year: 1956
@@ -30,7 +30,7 @@ By Nat King Cole
 - Catalog #: 3561
 - Label: Capitol Records
 - Formats: Vinyl, Orange Label
-- Format: 7", Single, Mono, RE, Ora
+- Format: 7", Single, Mono, RE, Ora, 45 RPM, Reissue
 - Rating: 
 - Released: 1973
 - Year: 1956

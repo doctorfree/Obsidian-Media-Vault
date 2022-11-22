@@ -4,7 +4,7 @@ title: This Must Be The Place
 artist: Tennessee Ernie Ford and Betty Hutton
 label: Capitol Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1954
 year: 1954
@@ -28,7 +28,7 @@ By Tennessee Ernie Ford and Betty Hutton
 - Catalog #: F2809
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1954
 - Year: 1954

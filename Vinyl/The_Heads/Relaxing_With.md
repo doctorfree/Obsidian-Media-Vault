@@ -4,7 +4,7 @@ title: Relaxing With...
 artist: The Heads
 label: Rooster Rock
 formats: Vinyl, Blue Transparent
-format: LP, Ltd, Num, RP, Blu
+format: LP, Ltd, Num, RP, Blu, Limited Edition, Numbered, Repress
 rating: 
 released: 2017
 year: 1996
@@ -30,7 +30,7 @@ By The Heads
 - Catalog #: ROOSTER15LP
 - Label: Rooster Rock
 - Formats: Vinyl, Blue Transparent
-- Format: LP, Ltd, Num, RP, Blu
+- Format: LP, Ltd, Num, RP, Blu, Limited Edition, Numbered, Repress
 - Rating: 
 - Released: 2017
 - Year: 1996

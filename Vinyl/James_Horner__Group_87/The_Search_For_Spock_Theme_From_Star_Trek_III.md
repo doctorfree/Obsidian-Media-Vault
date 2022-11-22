@@ -4,7 +4,7 @@ title: "The Search For Spock (Theme From ""Star Trek III"")"
 artist: "James Horner, Group 87"
 label: Capitol Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By "James Horner, Group 87"
 - Catalog #: B-5365
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1984
 - Year: 1984

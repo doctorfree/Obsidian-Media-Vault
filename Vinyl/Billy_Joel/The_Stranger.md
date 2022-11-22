@@ -4,7 +4,7 @@ title: The Stranger
 artist: Billy Joel
 label: Columbia, Family Productions, Columbia, Family Productions
 formats: Vinyl, Santa Maria Pressing
-format: LP, Album, San
+format: LP, Album, San, Stereo
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By Billy Joel
 - Catalog #: JC 34987, 34987
 - Label: Columbia, Family Productions, Columbia, Family Productions
 - Formats: Vinyl, Santa Maria Pressing
-- Format: LP, Album, San
+- Format: LP, Album, San, Stereo
 - Rating: 
 - Released: 1977
 - Year: 1977

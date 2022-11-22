@@ -4,7 +4,7 @@ title: The Loco-Motion / Keep Your Hands Off My Baby
 artist: Little Eva
 label: Eric Records
 formats: Vinyl
-format: 7", RE
+format: 7", RE, 45 RPM, Reissue
 rating: 
 released: 1975
 year: 1975
@@ -28,7 +28,7 @@ By Little Eva
 - Catalog #: 151
 - Label: Eric Records
 - Formats: Vinyl
-- Format: 7", RE
+- Format: 7", RE, 45 RPM, Reissue
 - Rating: 
 - Released: 1975
 - Year: 1975

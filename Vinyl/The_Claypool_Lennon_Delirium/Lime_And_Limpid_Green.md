@@ -4,7 +4,7 @@ title: Lime And Limpid Green
 artist: The Claypool Lennon Delirium
 label: ATO Records, Prawn Song
 formats: Vinyl, Green vinyl
-format: 10", EP, Ltd, M/Print, Gre
+format: 10", EP, Ltd, M/Print, Gre, Limited Edition, Misprint
 rating: 
 released: 2017
 year: 2017
@@ -30,7 +30,7 @@ By The Claypool Lennon Delirium
 - Catalog #: ATO0380
 - Label: ATO Records, Prawn Song
 - Formats: Vinyl, Green vinyl
-- Format: 10", EP, Ltd, M/Print, Gre
+- Format: 10", EP, Ltd, M/Print, Gre, Limited Edition, Misprint
 - Rating: 
 - Released: 2017
 - Year: 2017

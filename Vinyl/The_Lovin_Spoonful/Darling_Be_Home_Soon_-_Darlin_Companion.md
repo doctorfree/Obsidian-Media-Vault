@@ -4,7 +4,7 @@ title: Darling Be Home Soon / Darlin' Companion
 artist: The Lovin' Spoonful
 label: Kama Sutra, Kama Sutra
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By The Lovin' Spoonful
 - Catalog #: KA-220, KA 220
 - Label: Kama Sutra, Kama Sutra
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1967
 - Year: 1967

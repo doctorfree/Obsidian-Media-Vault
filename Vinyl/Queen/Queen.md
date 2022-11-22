@@ -4,7 +4,7 @@ title: Queen
 artist: Queen
 label: Hollywood Records
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, S/Edition, 180
+format: LP, Album, RE, S/Edition, 180, Reissue, Special Edition
 rating: 
 released: 2009
 year: 1973
@@ -30,7 +30,7 @@ By Queen
 - Catalog #: D000436301
 - Label: Hollywood Records
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, S/Edition, 180
+- Format: LP, Album, RE, S/Edition, 180, Reissue, Special Edition
 - Rating: 
 - Released: 2009
 - Year: 1973

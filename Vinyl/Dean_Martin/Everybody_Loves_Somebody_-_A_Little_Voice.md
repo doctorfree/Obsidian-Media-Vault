@@ -4,7 +4,7 @@ title: Everybody Loves Somebody / A Little Voice
 artist: Dean Martin
 label: Reprise Records
 formats: Vinyl
-format: 7", Single, Styrene
+format: 7", Single, Styrene, 45 RPM
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By Dean Martin
 - Catalog #: 0281
 - Label: Reprise Records
 - Formats: Vinyl
-- Format: 7", Single, Styrene
+- Format: 7", Single, Styrene, 45 RPM
 - Rating: 
 - Released: 1964
 - Year: 1964

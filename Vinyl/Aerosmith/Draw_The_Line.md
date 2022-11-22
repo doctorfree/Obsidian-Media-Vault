@@ -4,7 +4,7 @@ title: Draw The Line
 artist: Aerosmith
 label: Columbia
 formats: Vinyl, Santa Maria Pressing
-format: 7", Single, Styrene, San
+format: 7", Single, Styrene, San, 45 RPM
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By Aerosmith
 - Catalog #: 3-10637
 - Label: Columbia
 - Formats: Vinyl, Santa Maria Pressing
-- Format: 7", Single, Styrene, San
+- Format: 7", Single, Styrene, San, 45 RPM
 - Rating: 
 - Released: 1977
 - Year: 1977

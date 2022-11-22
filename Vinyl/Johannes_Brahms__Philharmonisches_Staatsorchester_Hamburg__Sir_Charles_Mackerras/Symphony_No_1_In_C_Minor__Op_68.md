@@ -4,7 +4,7 @@ title: "Symphony No. 1 In C Minor, Op. 68"
 artist: "Johannes Brahms, Philharmonisches Staatsorchester Hamburg, Sir Charles Mackerras"
 label: Checkmate (3)
 formats: Vinyl
-format: LP
+format: LP, Stereo
 rating: 
 released: 1967
 year: null
@@ -30,7 +30,7 @@ By "Johannes Brahms, Philharmonisches Staatsorchester Hamburg, Sir Charles Macke
 - Catalog #: C 76001
 - Label: Checkmate (3)
 - Formats: Vinyl
-- Format: LP
+- Format: LP, Stereo
 - Rating: 
 - Released: 1967
 - Year: null

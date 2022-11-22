@@ -4,7 +4,7 @@ title: Photograph
 artist: Ringo Starr
 label: Capitol Records
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, Reissue
 rating: 
 released: 1988
 year: 1973
@@ -30,7 +30,7 @@ By Ringo Starr
 - Catalog #: 1865
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, Reissue
 - Rating: 
 - Released: 1988
 - Year: 1973

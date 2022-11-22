@@ -4,7 +4,7 @@ title: Brain Salad Surgery
 artist: "Emerson, Lake & Palmer"
 label: BMG, Manticore
 formats: Vinyl
-format: LP, Album, RE, RM
+format: LP, Album, RE, RM, Reissue, Remastered
 rating: 
 released: 2016
 year: 1973
@@ -30,7 +30,7 @@ By "Emerson, Lake & Palmer"
 - Catalog #: BMGCATLP6
 - Label: BMG, Manticore
 - Formats: Vinyl
-- Format: LP, Album, RE, RM
+- Format: LP, Album, RE, RM, Reissue, Remastered
 - Rating: 
 - Released: 2016
 - Year: 1973

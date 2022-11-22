@@ -4,7 +4,7 @@ title: Misplaced Childhood
 artist: Marillion
 label: Parlophone
 formats: Vinyl
-format: LP, Album, RE, RM + 3xLP + Box, Dlx, Ltd
+format: LP, Album, RE, RM + 3xLP + Box, Dlx, Ltd, Reissue, Remastered, Deluxe Edition, Limited Edition
 rating: 
 released: 2017
 year: 1985
@@ -30,7 +30,7 @@ By Marillion
 - Catalog #: 0190295865511
 - Label: Parlophone
 - Formats: Vinyl
-- Format: LP, Album, RE, RM + 3xLP + Box, Dlx, Ltd
+- Format: LP, Album, RE, RM + 3xLP + Box, Dlx, Ltd, Reissue, Remastered, Deluxe Edition, Limited Edition
 - Rating: 
 - Released: 2017
 - Year: 1985

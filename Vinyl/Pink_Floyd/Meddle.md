@@ -4,7 +4,7 @@ title: Meddle
 artist: Pink Floyd
 label: Pink Floyd Records, Pink Floyd Records
 formats: Vinyl, Gatefold, 180 Gram
-format: LP, Album, RE, RM, Gat
+format: LP, Album, RE, RM, Gat, Reissue, Remastered
 rating: 
 released: 2016
 year: 1971
@@ -30,7 +30,7 @@ By Pink Floyd
 - Catalog #: PFRLP6, 88875184231
 - Label: Pink Floyd Records, Pink Floyd Records
 - Formats: Vinyl, Gatefold, 180 Gram
-- Format: LP, Album, RE, RM, Gat
+- Format: LP, Album, RE, RM, Gat, Reissue, Remastered
 - Rating: 
 - Released: 2016
 - Year: 1971

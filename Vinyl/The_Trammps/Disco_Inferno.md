@@ -4,7 +4,7 @@ title: Disco Inferno
 artist: The Trammps
 label: Atlantic
 formats: Vinyl, Specialty Pressing
-format: 7", Spe
+format: 7", Spe, 45 RPM
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By The Trammps
 - Catalog #: 45-3389
 - Label: Atlantic
 - Formats: Vinyl, Specialty Pressing
-- Format: 7", Spe
+- Format: 7", Spe, 45 RPM
 - Rating: 
 - Released: 1977
 - Year: 1977

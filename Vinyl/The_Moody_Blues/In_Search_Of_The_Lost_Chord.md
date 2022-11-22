@@ -4,7 +4,7 @@ title: In Search Of The Lost Chord
 artist: The Moody Blues
 label: Deram, Friday Music
 formats: Vinyl, Gatefold 180 gram
-format: LP, Album, RE, Gat
+format: LP, Album, RE, Gat, Reissue, Stereo
 rating: 
 released: 2014
 year: 1968
@@ -30,7 +30,7 @@ By The Moody Blues
 - Catalog #: FRM-18017
 - Label: Deram, Friday Music
 - Formats: Vinyl, Gatefold 180 gram
-- Format: LP, Album, RE, Gat
+- Format: LP, Album, RE, Gat, Reissue, Stereo
 - Rating: 
 - Released: 2014
 - Year: 1968

@@ -4,7 +4,7 @@ title: Batman v Superman: Dawn of Justice (Original Motion Picture Soundtrack)
 artist: Hans Zimmer & Junkie XL
 label: WaterTower Music
 formats: All Media
-format: Album, Dlx + 2xLP + LP, S/Sided, Etch
+format: Album, Dlx + 2xLP + LP, S/Sided, Etch, Deluxe Edition, Single Sided, Etched
 rating: 
 released: 2016
 year: 2016
@@ -30,7 +30,7 @@ By Hans Zimmer & Junkie XL
 - Catalog #: WTM39748
 - Label: WaterTower Music
 - Formats: All Media
-- Format: Album, Dlx + 2xLP + LP, S/Sided, Etch
+- Format: Album, Dlx + 2xLP + LP, S/Sided, Etch, Deluxe Edition, Single Sided, Etched
 - Rating: 
 - Released: 2016
 - Year: 2016

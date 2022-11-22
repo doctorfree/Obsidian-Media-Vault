@@ -4,7 +4,7 @@ title: Led Zeppelin
 artist: Led Zeppelin
 label: Atlantic
 formats: Vinyl
-format: LP, Album, RE, RM + 2xLP, Album + Dlx, Tri
+format: LP, Album, RE, RM + 2xLP, Album + Dlx, Tri, Reissue, Remastered, Stereo, Deluxe Edition
 rating: 
 released: 2014
 year: 1969
@@ -30,7 +30,7 @@ By Led Zeppelin
 - Catalog #: 8122796460
 - Label: Atlantic
 - Formats: Vinyl
-- Format: LP, Album, RE, RM + 2xLP, Album + Dlx, Tri
+- Format: LP, Album, RE, RM + 2xLP, Album + Dlx, Tri, Reissue, Remastered, Stereo, Deluxe Edition
 - Rating: 
 - Released: 2014
 - Year: 1969

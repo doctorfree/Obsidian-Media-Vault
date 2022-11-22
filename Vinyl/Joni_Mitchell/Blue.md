@@ -4,7 +4,7 @@ title: Blue
 artist: Joni Mitchell
 label: Reprise Records
 formats: Vinyl, 180g, Gatefold
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2007
 year: 1971
@@ -30,7 +30,7 @@ By Joni Mitchell
 - Catalog #: 74842
 - Label: Reprise Records
 - Formats: Vinyl, 180g, Gatefold
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2007
 - Year: 1971

@@ -4,7 +4,7 @@ title: Time Of The Season
 artist: The Zombies
 label: Date
 formats: Vinyl, Pitman Pressing
-format: 7", Single, Styrene, Pit
+format: 7", Single, Styrene, Pit, 45 RPM
 rating: 
 released: 1968
 year: 1968
@@ -30,7 +30,7 @@ By The Zombies
 - Catalog #: 2-1628
 - Label: Date
 - Formats: Vinyl, Pitman Pressing
-- Format: 7", Single, Styrene, Pit
+- Format: 7", Single, Styrene, Pit, 45 RPM
 - Rating: 
 - Released: 1968
 - Year: 1968

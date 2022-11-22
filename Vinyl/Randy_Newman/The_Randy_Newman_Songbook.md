@@ -4,7 +4,7 @@ title: The Randy Newman Songbook
 artist: Randy Newman
 label: Nonesuch
 formats: Vinyl
-format: 4xLP + Box, Comp, Ltd
+format: 4xLP + Box, Comp, Ltd, Compilation, Limited Edition
 rating: 
 released: 2016
 year: 2016
@@ -30,7 +30,7 @@ By Randy Newman
 - Catalog #: 550735-1
 - Label: Nonesuch
 - Formats: Vinyl
-- Format: 4xLP + Box, Comp, Ltd
+- Format: 4xLP + Box, Comp, Ltd, Compilation, Limited Edition
 - Rating: 
 - Released: 2016
 - Year: 2016

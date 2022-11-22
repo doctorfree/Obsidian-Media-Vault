@@ -4,7 +4,7 @@ title: Dry Your Eyes / The Wash
 artist: Brenda & The Tabulations
 label: Dionn Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By Brenda & The Tabulations
 - Catalog #: 500
 - Label: Dionn Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

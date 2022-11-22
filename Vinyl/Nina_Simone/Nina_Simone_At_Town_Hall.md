@@ -4,7 +4,7 @@ title: Nina Simone At Town Hall
 artist: Nina Simone
 label: 4 Men With Beards
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2005
 year: 1959
@@ -30,7 +30,7 @@ By Nina Simone
 - Catalog #: 4M129
 - Label: 4 Men With Beards
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2005
 - Year: 1959

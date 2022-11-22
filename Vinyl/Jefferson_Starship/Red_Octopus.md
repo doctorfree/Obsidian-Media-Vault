@@ -4,7 +4,7 @@ title: Red Octopus
 artist: Jefferson Starship
 label: Grunt (3)
 formats: Vinyl, Indianapolis Pressing
-format: LP, Album, Ind
+format: LP, Album, Ind, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Jefferson Starship
 - Catalog #: BFL1-0999
 - Label: Grunt (3)
 - Formats: Vinyl, Indianapolis Pressing
-- Format: LP, Album, Ind
+- Format: LP, Album, Ind, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

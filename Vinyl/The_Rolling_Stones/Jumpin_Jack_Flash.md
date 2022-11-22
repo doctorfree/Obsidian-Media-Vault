@@ -4,7 +4,7 @@ title: Jumpin' Jack Flash
 artist: The Rolling Stones
 label: London Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1968
 year: 1968
@@ -30,7 +30,7 @@ By The Rolling Stones
 - Catalog #: 45-LON-908
 - Label: London Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1968
 - Year: 1968

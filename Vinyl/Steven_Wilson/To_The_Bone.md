@@ -4,7 +4,7 @@ title: To The Bone
 artist: Steven Wilson
 label: Caroline International
 formats: Vinyl
-format: 2xLP, Album
+format: 2xLP, Album, 45 RPM
 rating: 
 released: 2017
 year: 2017
@@ -30,7 +30,7 @@ By Steven Wilson
 - Catalog #: CAROL016LP
 - Label: Caroline International
 - Formats: Vinyl
-- Format: 2xLP, Album
+- Format: 2xLP, Album, 45 RPM
 - Rating: 
 - Released: 2017
 - Year: 2017

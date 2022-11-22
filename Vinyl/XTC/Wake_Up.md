@@ -4,7 +4,7 @@ title: Wake Up
 artist: XTC
 label: Virgin
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By XTC
 - Catalog #: VS746
 - Label: Virgin
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1985
 - Year: 1985

@@ -4,7 +4,7 @@ title: More Songs About Buildings And Food
 artist: Talking Heads
 label: Sire, Rhino Records (2)
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2013
 year: 1978
@@ -30,7 +30,7 @@ By Talking Heads
 - Catalog #: R1 6058
 - Label: Sire, Rhino Records (2)
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2013
 - Year: 1978

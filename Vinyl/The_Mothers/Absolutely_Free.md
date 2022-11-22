@@ -4,7 +4,7 @@ title: Absolutely Free
 artist: The Mothers
 label: Verve Records, Verve Records, Verve Records
 formats: Vinyl, Keel Mfg. Corp.
-format: LP, Album, RE, Kee
+format: LP, Album, RE, Kee, Reissue, Stereo
 rating: 
 released: 1972
 year: 1967
@@ -30,7 +30,7 @@ By The Mothers
 - Catalog #: V/V6-5013X, V/V6-5013, V6-5013
 - Label: Verve Records, Verve Records, Verve Records
 - Formats: Vinyl, Keel Mfg. Corp.
-- Format: LP, Album, RE, Kee
+- Format: LP, Album, RE, Kee, Reissue, Stereo
 - Rating: 
 - Released: 1972
 - Year: 1967

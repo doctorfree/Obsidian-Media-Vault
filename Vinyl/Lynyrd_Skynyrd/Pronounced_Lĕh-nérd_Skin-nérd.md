@@ -4,7 +4,7 @@ title: (Pronounced 'Lĕh-'nérd 'Skin-'nérd)
 artist: Lynyrd Skynyrd
 label: MCA Records
 formats: Vinyl, 180 Gram, Gatefold
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2015
 year: 1973
@@ -30,7 +30,7 @@ By Lynyrd Skynyrd
 - Catalog #: 5355016
 - Label: MCA Records
 - Formats: Vinyl, 180 Gram, Gatefold
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2015
 - Year: 1973

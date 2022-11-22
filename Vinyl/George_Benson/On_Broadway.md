@@ -4,7 +4,7 @@ title: On Broadway
 artist: George Benson
 label: Warner Bros. Records
 formats: Vinyl, Shelley Pressing
-format: 7", Single, Styrene, She
+format: 7", Single, Styrene, She, 45 RPM, Stereo
 rating: 
 released: 1978
 year: 1978
@@ -30,7 +30,7 @@ By George Benson
 - Catalog #: WBS 8542
 - Label: Warner Bros. Records
 - Formats: Vinyl, Shelley Pressing
-- Format: 7", Single, Styrene, She
+- Format: 7", Single, Styrene, She, 45 RPM, Stereo
 - Rating: 
 - Released: 1978
 - Year: 1978

@@ -4,7 +4,7 @@ title: "Don't Cry, Little Girl, Don't Cry"
 artist: Jimmy Roselli
 label: Recording Industries Corp.
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1965
 year: 1965
@@ -30,7 +30,7 @@ By Jimmy Roselli
 - Catalog #: S 148
 - Label: Recording Industries Corp.
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1965
 - Year: 1965

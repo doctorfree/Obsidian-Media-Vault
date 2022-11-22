@@ -4,7 +4,7 @@ title: The Mono Collection
 artist: The Kinks
 label: BMG, ABKCO
 formats: Box Set
-format: Box, Comp, Ltd + LP, Album + LP, Album + LP, Album
+format: Box, Comp, Ltd + LP, Album + LP, Album + LP, Album, Compilation, Limited Edition, Compilation, Reissue, Remastered, Mono
 rating: 5
 released: 2016
 year: 2016
@@ -30,7 +30,7 @@ By The Kinks
 - Catalog #: KINKSBOX003
 - Label: BMG, ABKCO
 - Formats: Box Set
-- Format: Box, Comp, Ltd + LP, Album + LP, Album + LP, Album
+- Format: Box, Comp, Ltd + LP, Album + LP, Album + LP, Album, Compilation, Limited Edition, Compilation, Reissue, Remastered, Mono
 - Rating: 5
 - Released: 2016
 - Year: 2016

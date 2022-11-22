@@ -4,7 +4,7 @@ title: Teach Your Children / Carry On
 artist: "Crosby, Stills, Nash & Young"
 label: Atlantic
 formats: Vinyl, PL - Plastic Products Pressing
-format: 7", Single, PL
+format: 7", Single, PL, 45 RPM
 rating: 
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By "Crosby, Stills, Nash & Young"
 - Catalog #: 45-2735
 - Label: Atlantic
 - Formats: Vinyl, PL - Plastic Products Pressing
-- Format: 7", Single, PL
+- Format: 7", Single, PL, 45 RPM
 - Rating: 
 - Released: 1970
 - Year: 1970

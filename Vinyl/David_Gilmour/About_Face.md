@@ -4,7 +4,7 @@ title: About Face
 artist: David Gilmour
 label: Columbia, Columbia
 formats: Vinyl, Carrollton Press
-format: LP, Album, Car
+format: LP, Album, Car, Stereo
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By David Gilmour
 - Catalog #: FC 39296, PC 39296
 - Label: Columbia, Columbia
 - Formats: Vinyl, Carrollton Press
-- Format: LP, Album, Car
+- Format: LP, Album, Car, Stereo
 - Rating: 
 - Released: 1984
 - Year: 1984

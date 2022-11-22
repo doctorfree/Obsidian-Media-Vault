@@ -4,7 +4,7 @@ title: Sleepwalker
 artist: The Kinks
 label: Velvel, Konk, Koch Records
 formats: Vinyl, 180 Gram
-format: LP, Album, Ltd, RE, 180
+format: LP, Album, Ltd, RE, 180, Reissue, Limited Edition
 rating: 
 released: 2008
 year: 1977
@@ -30,7 +30,7 @@ By The Kinks
 - Catalog #: VEL-LP-79832
 - Label: Velvel, Konk, Koch Records
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, Ltd, RE, 180
+- Format: LP, Album, Ltd, RE, 180, Reissue, Limited Edition
 - Rating: 
 - Released: 2008
 - Year: 1977

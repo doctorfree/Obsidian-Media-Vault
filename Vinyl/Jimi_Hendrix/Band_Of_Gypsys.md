@@ -4,7 +4,7 @@ title: Band Of Gypsys
 artist: Jimi Hendrix
 label: Capitol Records
 formats: Vinyl, Gatefold
-format: LP, Album, RE, Gat
+format: LP, Album, RE, Gat, Reissue
 rating: 
 released: 1971
 year: 1970
@@ -30,7 +30,7 @@ By Jimi Hendrix
 - Catalog #: STAO-472
 - Label: Capitol Records
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, RE, Gat
+- Format: LP, Album, RE, Gat, Reissue
 - Rating: 
 - Released: 1971
 - Year: 1970

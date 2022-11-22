@@ -4,7 +4,7 @@ title: In Rock
 artist: Deep Purple
 label: Friday Music
 formats: Vinyl, Gatefold
-format: LP, Album, Ltd, RE, RM, Gat
+format: LP, Album, Ltd, RE, RM, Gat, Limited Edition, Reissue, Remastered
 rating: 
 released: 2011
 year: 1970
@@ -30,7 +30,7 @@ By Deep Purple
 - Catalog #: FRM 1877
 - Label: Friday Music
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, Ltd, RE, RM, Gat
+- Format: LP, Album, Ltd, RE, RM, Gat, Limited Edition, Reissue, Remastered
 - Rating: 
 - Released: 2011
 - Year: 1970

@@ -4,7 +4,7 @@ title: Lady Of Magic
 artist: Maze Featuring Frankie Beverly
 label: Capitol Records
 formats: Vinyl, Winchester Pressing
-format: 7", Single, Win
+format: 7", Single, Win, 45 RPM, Stereo
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By Maze Featuring Frankie Beverly
 - Catalog #: 4456
 - Label: Capitol Records
 - Formats: Vinyl, Winchester Pressing
-- Format: 7", Single, Win
+- Format: 7", Single, Win, 45 RPM, Stereo
 - Rating: 
 - Released: 1977
 - Year: 1977

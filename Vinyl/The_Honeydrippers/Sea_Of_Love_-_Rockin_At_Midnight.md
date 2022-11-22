@@ -4,7 +4,7 @@ title: Sea Of Love / Rockin' At Midnight
 artist: The Honeydrippers
 label: Es Paranza Records
 formats: Vinyl, SP pressing
-format: 7", Single, SP 
+format: 7", Single, SP , 45 RPM
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By The Honeydrippers
 - Catalog #: 7-99701
 - Label: Es Paranza Records
 - Formats: Vinyl, SP pressing
-- Format: 7", Single, SP 
+- Format: 7", Single, SP , 45 RPM
 - Rating: 
 - Released: 1984
 - Year: 1984

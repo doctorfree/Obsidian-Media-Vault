@@ -4,7 +4,7 @@ title: Carney
 artist: Leon Russell
 label: Analogue Productions
 formats: Vinyl
-format: LP, Album, RM
+format: LP, Album, RM, Remastered
 rating: 
 released: 2017
 year: 1972
@@ -30,7 +30,7 @@ By Leon Russell
 - Catalog #: APP 110
 - Label: Analogue Productions
 - Formats: Vinyl
-- Format: LP, Album, RM
+- Format: LP, Album, RM, Remastered
 - Rating: 
 - Released: 2017
 - Year: 1972

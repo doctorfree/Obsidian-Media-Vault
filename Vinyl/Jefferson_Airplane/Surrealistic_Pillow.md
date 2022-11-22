@@ -4,7 +4,7 @@ title: Surrealistic Pillow
 artist: Jefferson Airplane
 label: Friday Music, RCA Victor, Sony Music Commercial Music Group
 formats: Vinyl, White, 180 Gram
-format: LP, Album, Ltd, RE, Whi
+format: LP, Album, Ltd, RE, Whi, Limited Edition, Reissue
 rating: 
 released: 2015
 year: 1967
@@ -30,7 +30,7 @@ By Jefferson Airplane
 - Catalog #: FRM-3766, 88875020311
 - Label: Friday Music, RCA Victor, Sony Music Commercial Music Group
 - Formats: Vinyl, White, 180 Gram
-- Format: LP, Album, Ltd, RE, Whi
+- Format: LP, Album, Ltd, RE, Whi, Limited Edition, Reissue
 - Rating: 
 - Released: 2015
 - Year: 1967

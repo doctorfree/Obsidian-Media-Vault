@@ -4,7 +4,7 @@ title: David Bowie
 artist: David Bowie
 label: Parlophone, Parlophone, Parlophone
 formats: Vinyl, Gatefold
-format: LP, Album, RE, RM, Gat
+format: LP, Album, RE, RM, Gat, Reissue, Remastered, Stereo
 rating: 
 released: 2016
 year: 1969
@@ -30,7 +30,7 @@ By David Bowie
 - Catalog #: 0825646287390, DB69731, DB 69731
 - Label: Parlophone, Parlophone, Parlophone
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, RE, RM, Gat
+- Format: LP, Album, RE, RM, Gat, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2016
 - Year: 1969

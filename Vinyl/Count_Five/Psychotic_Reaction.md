@@ -4,7 +4,7 @@ title: Psychotic Reaction
 artist: Count Five
 label: Concord Bicycle Music
 formats: Vinyl, 180g
-format: LP, Album, Mono, Ltd, RE, 180
+format: LP, Album, Mono, Ltd, RE, 180, Limited Edition, Reissue
 rating: 
 released: 2017
 year: 1966
@@ -30,7 +30,7 @@ By Count Five
 - Catalog #: BMC00014
 - Label: Concord Bicycle Music
 - Formats: Vinyl, 180g
-- Format: LP, Album, Mono, Ltd, RE, 180
+- Format: LP, Album, Mono, Ltd, RE, 180, Limited Edition, Reissue
 - Rating: 
 - Released: 2017
 - Year: 1966

@@ -4,7 +4,7 @@ title: Brian Wilson
 artist: Brian Wilson
 label: Sire, Sire, Reprise Records, Reprise Records
 formats: Vinyl, Specialty Press
-format: LP, Album, Spe
+format: LP, Album, Spe, Stereo
 rating: 
 released: 1988
 year: 1988
@@ -30,7 +30,7 @@ By Brian Wilson
 - Catalog #: 1-25669, 9 25669-1
 - Label: Sire, Sire, Reprise Records, Reprise Records
 - Formats: Vinyl, Specialty Press
-- Format: LP, Album, Spe
+- Format: LP, Album, Spe, Stereo
 - Rating: 
 - Released: 1988
 - Year: 1988

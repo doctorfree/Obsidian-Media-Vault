@@ -4,7 +4,7 @@ title: Behind The Front
 artist: Black Eyed Peas
 label: Interscope Records, Will.i.am Music Group
 formats: Vinyl, 180 Gram
-format: 2xLP, Album, RE, 180
+format: 2xLP, Album, RE, 180, Reissue
 rating: 
 released: 2016
 year: 1998
@@ -30,7 +30,7 @@ By Black Eyed Peas
 - Catalog #: INT2-90152
 - Label: Interscope Records, Will.i.am Music Group
 - Formats: Vinyl, 180 Gram
-- Format: 2xLP, Album, RE, 180
+- Format: 2xLP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2016
 - Year: 1998

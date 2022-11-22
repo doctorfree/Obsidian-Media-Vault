@@ -4,7 +4,7 @@ title: "Wild, Wild West"
 artist: The Escape Club
 label: Atlantic
 formats: Vinyl, Specialty Pressing
-format: 7", Single, Spe
+format: 7", Single, Spe, 45 RPM
 rating: 
 released: 1988
 year: 1988
@@ -30,7 +30,7 @@ By The Escape Club
 - Catalog #: 7-89048
 - Label: Atlantic
 - Formats: Vinyl, Specialty Pressing
-- Format: 7", Single, Spe
+- Format: 7", Single, Spe, 45 RPM
 - Rating: 
 - Released: 1988
 - Year: 1988

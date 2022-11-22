@@ -4,7 +4,7 @@ title: Never In A Million Years
 artist: The Boomtown Rats
 label: Mercury
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1981
 year: 1981
@@ -30,7 +30,7 @@ By The Boomtown Rats
 - Catalog #: MER 87
 - Label: Mercury
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1981
 - Year: 1981

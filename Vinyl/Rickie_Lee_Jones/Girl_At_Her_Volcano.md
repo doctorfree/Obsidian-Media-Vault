@@ -4,7 +4,7 @@ title: Girl At Her Volcano
 artist: Rickie Lee Jones
 label: Warner Bros. Records, Warner Bros. Records
 formats: Vinyl
-format: 10", EP
+format: 10", EP, 33 ⅓ RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Rickie Lee Jones
 - Catalog #: 1-23805, 9 23805-1 B
 - Label: Warner Bros. Records, Warner Bros. Records
 - Formats: Vinyl
-- Format: 10", EP
+- Format: 10", EP, 33 ⅓ RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

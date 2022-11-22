@@ -4,7 +4,7 @@ title: Listen People / Got A Feeling
 artist: Herman's Hermits
 label: MGM Records
 formats: Vinyl, MGM Pressing
-format: 7", Single, MGM
+format: 7", Single, MGM, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By Herman's Hermits
 - Catalog #: K13462
 - Label: MGM Records
 - Formats: Vinyl, MGM Pressing
-- Format: 7", Single, MGM
+- Format: 7", Single, MGM, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

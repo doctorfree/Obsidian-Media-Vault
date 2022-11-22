@@ -4,7 +4,7 @@ title: I-Feel-Like-I'm-Fixin'-To-Die
 artist: Country Joe And The Fish
 label: Vanguard, Vanguard
 formats: Vinyl, Pitman Pressing, Blurb Cover
-format: LP, Album, Pit
+format: LP, Album, Pit, Stereo
 rating: 
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By Country Joe And The Fish
 - Catalog #: VSD • 79266, VSD-79266
 - Label: Vanguard, Vanguard
 - Formats: Vinyl, Pitman Pressing, Blurb Cover
-- Format: LP, Album, Pit
+- Format: LP, Album, Pit, Stereo
 - Rating: 
 - Released: 1967
 - Year: 1967

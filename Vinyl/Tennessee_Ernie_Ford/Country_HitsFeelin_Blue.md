@@ -4,7 +4,7 @@ title: Country Hits...Feelin' Blue
 artist: Tennessee Ernie Ford
 label: Capitol Records
 formats: Vinyl
-format: LP
+format: LP, Stereo
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By Tennessee Ernie Ford
 - Catalog #: ST 2097
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: LP
+- Format: LP, Stereo
 - Rating: 
 - Released: 1964
 - Year: 1964

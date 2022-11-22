@@ -4,7 +4,7 @@ title: Time Heals
 artist: Todd Rundgren
 label: Bearsville
 formats: Vinyl
-format: 7"
+format: 7", 33 ⅓ RPM
 rating: 
 released: 1981
 year: 1981
@@ -30,7 +30,7 @@ By Todd Rundgren
 - Catalog #: BHS 3522-ep
 - Label: Bearsville
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 33 ⅓ RPM
 - Rating: 
 - Released: 1981
 - Year: 1981

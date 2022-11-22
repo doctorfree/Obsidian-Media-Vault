@@ -4,7 +4,7 @@ title: Southern Roots
 artist: Ronnie Milsap
 label: RCA
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1990
 year: null
@@ -30,7 +30,7 @@ By Ronnie Milsap
 - Catalog #: 9120-7-R
 - Label: RCA
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1990
 - Year: null

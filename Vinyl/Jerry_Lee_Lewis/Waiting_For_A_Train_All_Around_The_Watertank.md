@@ -4,7 +4,7 @@ title: Waiting For A Train (All Around The Watertank)
 artist: Jerry Lee Lewis
 label: Sun (9)
 formats: Vinyl, Yellow
-format: 7", Single, Promo, Yel
+format: 7", Single, Promo, Yel, 45 RPM
 rating: 
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By Jerry Lee Lewis
 - Catalog #: SI-1119
 - Label: Sun (9)
 - Formats: Vinyl, Yellow
-- Format: 7", Single, Promo, Yel
+- Format: 7", Single, Promo, Yel, 45 RPM
 - Rating: 
 - Released: 1970
 - Year: 1970

@@ -4,7 +4,7 @@ title: Cosmo's Factory
 artist: Creedence Clearwater Revival
 label: Fantasy, Fantasy, Fantasy
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2008
 year: 1970
@@ -30,7 +30,7 @@ By Creedence Clearwater Revival
 - Catalog #: 8402, 0025218840217, F-8402
 - Label: Fantasy, Fantasy, Fantasy
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2008
 - Year: 1970

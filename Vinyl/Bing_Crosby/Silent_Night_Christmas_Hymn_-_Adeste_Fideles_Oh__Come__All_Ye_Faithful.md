@@ -4,7 +4,7 @@ title: "Silent Night (Christmas Hymn) / Adeste Fideles (Oh, Come, All Ye Faithfu
 artist: Bing Crosby
 label: MCA Records
 formats: Vinyl, Pinckneyville
-format: 7", RE, Pin
+format: 7", RE, Pin, 45 RPM, Reissue
 rating: 
 released: 1980
 year: 1950
@@ -30,7 +30,7 @@ By Bing Crosby
 - Catalog #: MCA-65021
 - Label: MCA Records
 - Formats: Vinyl, Pinckneyville
-- Format: 7", RE, Pin
+- Format: 7", RE, Pin, 45 RPM, Reissue
 - Rating: 
 - Released: 1980
 - Year: 1950

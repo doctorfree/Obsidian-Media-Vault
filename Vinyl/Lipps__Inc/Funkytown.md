@@ -4,7 +4,7 @@ title: Funkytown
 artist: "Lipps, Inc."
 label: Casablanca
 formats: Vinyl, 56
-format: 7", Single, Styrene, 56
+format: 7", Single, Styrene, 56, 45 RPM, Stereo
 rating: 
 released: 1979
 year: 1979
@@ -30,7 +30,7 @@ By "Lipps, Inc."
 - Catalog #: NB 2233
 - Label: Casablanca
 - Formats: Vinyl, 56
-- Format: 7", Single, Styrene, 56
+- Format: 7", Single, Styrene, 56, 45 RPM, Stereo
 - Rating: 
 - Released: 1979
 - Year: 1979

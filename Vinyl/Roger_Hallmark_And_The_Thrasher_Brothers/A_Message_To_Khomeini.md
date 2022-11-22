@@ -4,7 +4,7 @@ title: A Message To Khomeini
 artist: Roger Hallmark And The Thrasher Brothers
 label: Vulcan (4)
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1979
 year: 1979
@@ -28,7 +28,7 @@ By Roger Hallmark And The Thrasher Brothers
 - Catalog #: V-10004
 - Label: Vulcan (4)
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1979
 - Year: 1979

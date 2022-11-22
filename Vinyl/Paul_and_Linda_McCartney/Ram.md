@@ -4,7 +4,7 @@ title: Ram
 artist: Paul & Linda McCartney
 label: Apple Records
 formats: Vinyl, Winchester Press
-format: LP, Album, Win
+format: LP, Album, Win, Stereo
 rating: 
 released: 1971
 year: 1971
@@ -30,7 +30,7 @@ By Paul & Linda McCartney
 - Catalog #: SMAS-3375
 - Label: Apple Records
 - Formats: Vinyl, Winchester Press
-- Format: LP, Album, Win
+- Format: LP, Album, Win, Stereo
 - Rating: 
 - Released: 1971
 - Year: 1971

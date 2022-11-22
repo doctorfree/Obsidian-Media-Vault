@@ -4,7 +4,7 @@ title: Ten
 artist: Pearl Jam
 label: Epic, Legacy
 formats: Vinyl
-format: LP, Album + LP, Album + RE, RM, 180
+format: LP, Album + LP, Album + RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2009
 year: 1991
@@ -30,7 +30,7 @@ By Pearl Jam
 - Catalog #: 88697413021
 - Label: Epic, Legacy
 - Formats: Vinyl
-- Format: LP, Album + LP, Album + RE, RM, 180
+- Format: LP, Album + LP, Album + RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2009
 - Year: 1991

@@ -4,7 +4,7 @@ title: Killer
 artist: Alice Cooper
 label: Warner Bros. Records, Warner Bros. Records
 formats: Vinyl, Gatefold ,Terre Haute Pressing
-format: LP, Album, Gat
+format: LP, Album, Gat, Stereo
 rating: 
 released: 1971
 year: 1971
@@ -30,7 +30,7 @@ By Alice Cooper
 - Catalog #: BS 2567, 2567
 - Label: Warner Bros. Records, Warner Bros. Records
 - Formats: Vinyl, Gatefold ,Terre Haute Pressing
-- Format: LP, Album, Gat
+- Format: LP, Album, Gat, Stereo
 - Rating: 
 - Released: 1971
 - Year: 1971

@@ -4,7 +4,7 @@ title: Caught In The Act
 artist: Grand Funk Railroad
 label: Capitol Records
 formats: Vinyl, Santa Maria Pressing
-format: 2xLP, Album, Club, San
+format: 2xLP, Album, Club, San, Club Edition
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Grand Funk Railroad
 - Catalog #: SABB-511445
 - Label: Capitol Records
 - Formats: Vinyl, Santa Maria Pressing
-- Format: 2xLP, Album, Club, San
+- Format: 2xLP, Album, Club, San, Club Edition
 - Rating: 
 - Released: 1975
 - Year: 1975

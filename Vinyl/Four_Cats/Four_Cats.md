@@ -4,7 +4,7 @@ title: Four Cats
 artist: Four Cats
 label: Trend Pig
 formats: Vinyl
-format: 7", EP
+format: 7", EP, 45 RPM
 rating: 
 released: 1981
 year: null
@@ -30,7 +30,7 @@ By Four Cats
 - Catalog #: 000-1
 - Label: Trend Pig
 - Formats: Vinyl
-- Format: 7", EP
+- Format: 7", EP, 45 RPM
 - Rating: 
 - Released: 1981
 - Year: null

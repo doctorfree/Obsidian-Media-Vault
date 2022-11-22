@@ -4,7 +4,7 @@ title: (Moving)
 artist: "Peter, Paul & Mary"
 label: Warner Bros. Records, Warner Bros. Records
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Stereo
 rating: 
 released: 1963
 year: 1963
@@ -30,7 +30,7 @@ By "Peter, Paul & Mary"
 - Catalog #: WS 1473, WS1473
 - Label: Warner Bros. Records, Warner Bros. Records
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Stereo
 - Rating: 
 - Released: 1963
 - Year: 1963

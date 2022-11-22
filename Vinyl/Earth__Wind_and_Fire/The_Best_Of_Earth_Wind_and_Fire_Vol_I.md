@@ -4,7 +4,7 @@ title: The Best Of Earth Wind & Fire Vol. I
 artist: "Earth, Wind & Fire"
 label: ARC (3), Columbia, ARC (3), Columbia
 formats: Vinyl, Santa Maria Pressing
-format: LP, Comp, San
+format: LP, Comp, San, Compilation, Stereo
 rating: 
 released: 1978
 year: 1978
@@ -30,7 +30,7 @@ By "Earth, Wind & Fire"
 - Catalog #: FC 35647, 35647
 - Label: ARC (3), Columbia, ARC (3), Columbia
 - Formats: Vinyl, Santa Maria Pressing
-- Format: LP, Comp, San
+- Format: LP, Comp, San, Compilation, Stereo
 - Rating: 
 - Released: 1978
 - Year: 1978

@@ -4,7 +4,7 @@ title: Ra
 artist: Utopia
 label: Bearsville, Rhino Records
 formats: Vinyl, DMM
-format: LP, Album, RE, RM, DMM
+format: LP, Album, RE, RM, DMM, Reissue, Remastered
 rating: 
 released: 1987
 year: 1977
@@ -30,7 +30,7 @@ By Utopia
 - Catalog #: RNLP 70869
 - Label: Bearsville, Rhino Records
 - Formats: Vinyl, DMM
-- Format: LP, Album, RE, RM, DMM
+- Format: LP, Album, RE, RM, DMM, Reissue, Remastered
 - Rating: 
 - Released: 1987
 - Year: 1977

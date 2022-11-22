@@ -4,7 +4,7 @@ title: Sugartime / My Treasurer
 artist: Johnny Cash & The Tennessee Two
 label: Sun (9)
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, Reissue
 rating: 
 released: 0
 year: 1961
@@ -30,7 +30,7 @@ By Johnny Cash & The Tennessee Two
 - Catalog #: 363
 - Label: Sun (9)
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, Reissue
 - Rating: 
 - Released: 0
 - Year: 1961

@@ -4,7 +4,7 @@ title: The Roches
 artist: The Roches
 label: Warner Bros. Records
 formats: Vinyl, Winchester Pressing
-format: LP, Album, RE, Win
+format: LP, Album, RE, Win, Reissue
 rating: 
 released: 0
 year: 1979
@@ -30,7 +30,7 @@ By The Roches
 - Catalog #: BSK 3298
 - Label: Warner Bros. Records
 - Formats: Vinyl, Winchester Pressing
-- Format: LP, Album, RE, Win
+- Format: LP, Album, RE, Win, Reissue
 - Rating: 
 - Released: 0
 - Year: 1979

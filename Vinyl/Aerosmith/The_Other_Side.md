@@ -4,7 +4,7 @@ title: The Other Side
 artist: Aerosmith
 label: Geffen Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1990
 year: 1990
@@ -30,7 +30,7 @@ By Aerosmith
 - Catalog #: 7-19927
 - Label: Geffen Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1990
 - Year: 1990

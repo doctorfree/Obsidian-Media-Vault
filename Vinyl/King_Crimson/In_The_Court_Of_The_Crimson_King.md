@@ -4,7 +4,7 @@ title: In The Court Of The Crimson King
 artist: King Crimson
 label: Discipline Global Mobile, Panegyric, Inner Knot
 formats: Vinyl, 200-gram, Gatefold
-format: LP, Album, RE, 200
+format: LP, Album, RE, 200, Reissue, Stereo
 rating: 
 released: 2010
 year: 1969
@@ -30,7 +30,7 @@ By King Crimson
 - Catalog #: KCLP1
 - Label: Discipline Global Mobile, Panegyric, Inner Knot
 - Formats: Vinyl, 200-gram, Gatefold
-- Format: LP, Album, RE, 200
+- Format: LP, Album, RE, 200, Reissue, Stereo
 - Rating: 
 - Released: 2010
 - Year: 1969

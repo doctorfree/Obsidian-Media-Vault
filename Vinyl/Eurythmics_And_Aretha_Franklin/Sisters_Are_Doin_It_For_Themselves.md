@@ -4,7 +4,7 @@ title: Sisters Are Doin' It For Themselves
 artist: Eurythmics And Aretha Franklin
 label: RCA
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Eurythmics And Aretha Franklin
 - Catalog #: PB-14214
 - Label: RCA
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1985
 - Year: 1985

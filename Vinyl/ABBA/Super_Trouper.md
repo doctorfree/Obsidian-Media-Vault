@@ -4,7 +4,7 @@ title: Super Trouper
 artist: ABBA
 label: Atlantic
 formats: Vinyl, SP - Specialty Press
-format: LP, Album, SP 
+format: LP, Album, SP , Stereo
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By ABBA
 - Catalog #: SD 16023
 - Label: Atlantic
 - Formats: Vinyl, SP - Specialty Press
-- Format: LP, Album, SP 
+- Format: LP, Album, SP , Stereo
 - Rating: 
 - Released: 1980
 - Year: 1980

@@ -4,7 +4,7 @@ title: Pet Sounds
 artist: The Beach Boys
 label: Capitol Records
 formats: Vinyl, 180 Gram
-format: LP, Album, Ltd, RE, RM, 180
+format: LP, Album, Ltd, RE, RM, 180, Limited Edition, Reissue, Remastered, Stereo
 rating: 
 released: 1999
 year: 1966
@@ -30,7 +30,7 @@ By The Beach Boys
 - Catalog #: 72435-21241-1-4
 - Label: Capitol Records
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, Ltd, RE, RM, 180
+- Format: LP, Album, Ltd, RE, RM, 180, Limited Edition, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 1999
 - Year: 1966

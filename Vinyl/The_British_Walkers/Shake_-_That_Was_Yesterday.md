@@ -4,7 +4,7 @@ title: Shake / That Was Yesterday
 artist: The British Walkers
 label: Cameo
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By The British Walkers
 - Catalog #: C-466
 - Label: Cameo
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1967
 - Year: 1967

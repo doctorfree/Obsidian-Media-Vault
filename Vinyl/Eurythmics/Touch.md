@@ -4,7 +4,7 @@ title: Touch
 artist: Eurythmics
 label: RCA, RCA Victor
 formats: Vinyl, Indianapolis Pressing
-format: LP, Album, Ind
+format: LP, Album, Ind, Stereo
 rating: 
 released: 1984
 year: 1983
@@ -30,7 +30,7 @@ By Eurythmics
 - Catalog #: AFL1-4917
 - Label: RCA, RCA Victor
 - Formats: Vinyl, Indianapolis Pressing
-- Format: LP, Album, Ind
+- Format: LP, Album, Ind, Stereo
 - Rating: 
 - Released: 1984
 - Year: 1983

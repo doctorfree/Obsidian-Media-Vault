@@ -4,7 +4,7 @@ title: Turtle Soup
 artist: The Turtles
 label: White Whale, White Whale
 formats: Vinyl, Monarch Press, Gatefold
-format: LP, Album, Mon
+format: LP, Album, Mon, Stereo
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By The Turtles
 - Catalog #: WW 7124, WWS-7124
 - Label: White Whale, White Whale
 - Formats: Vinyl, Monarch Press, Gatefold
-- Format: LP, Album, Mon
+- Format: LP, Album, Mon, Stereo
 - Rating: 
 - Released: 1969
 - Year: 1969

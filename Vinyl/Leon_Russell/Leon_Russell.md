@@ -4,7 +4,7 @@ title: Leon Russell
 artist: Leon Russell
 label: Audio Fidelity (3), Universal Music Special Markets, Capitol Records
 formats: Vinyl, Blue
-format: LP, Album, Ltd, Num, RM, Blu
+format: LP, Album, Ltd, Num, RM, Blu, Limited Edition, Numbered, Remastered
 rating: 
 released: 2017
 year: 1970
@@ -30,7 +30,7 @@ By Leon Russell
 - Catalog #: AFZLP 257, B0024494-01
 - Label: Audio Fidelity (3), Universal Music Special Markets, Capitol Records
 - Formats: Vinyl, Blue
-- Format: LP, Album, Ltd, Num, RM, Blu
+- Format: LP, Album, Ltd, Num, RM, Blu, Limited Edition, Numbered, Remastered
 - Rating: 
 - Released: 2017
 - Year: 1970

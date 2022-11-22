@@ -4,7 +4,7 @@ title: Gene Pitney's Big Sixteen
 artist: Gene Pitney
 label: Musicor Records
 formats: Vinyl, Pitman Pressing
-format: LP, Comp, Mono, Pit
+format: LP, Comp, Mono, Pit, Compilation
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By Gene Pitney
 - Catalog #: MM 2008
 - Label: Musicor Records
 - Formats: Vinyl, Pitman Pressing
-- Format: LP, Comp, Mono, Pit
+- Format: LP, Comp, Mono, Pit, Compilation
 - Rating: 
 - Released: 1964
 - Year: 1964

@@ -4,7 +4,7 @@ title: Yingle Bells / I Yust Go Nuts At Christmas
 artist: Yogi Yorgesson With The John Duffy Trio
 label: Capitol Records
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, 45 RPM, Reissue
 rating: 
 released: 0
 year: 1949
@@ -28,7 +28,7 @@ By Yogi Yorgesson With The John Duffy Trio
 - Catalog #: 3904
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, 45 RPM, Reissue
 - Rating: 
 - Released: 0
 - Year: 1949

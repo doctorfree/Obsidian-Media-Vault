@@ -4,7 +4,7 @@ title: On The Threshold Of A Dream
 artist: The Moody Blues
 label: Music On Vinyl, Deram
 formats: Vinyl, Gatefold
-format: LP, Album, RE, Gat
+format: LP, Album, RE, Gat, Reissue
 rating: 5
 released: 2014
 year: 1969
@@ -30,7 +30,7 @@ By The Moody Blues
 - Catalog #: MOVLP1101
 - Label: Music On Vinyl, Deram
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, RE, Gat
+- Format: LP, Album, RE, Gat, Reissue
 - Rating: 5
 - Released: 2014
 - Year: 1969

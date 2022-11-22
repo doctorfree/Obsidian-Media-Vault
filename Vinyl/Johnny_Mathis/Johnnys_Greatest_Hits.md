@@ -4,7 +4,7 @@ title: Johnny's Greatest Hits
 artist: Johnny Mathis
 label: Columbia
 formats: Vinyl, Terre Haute Pressing
-format: LP, Comp, Mono, Ter
+format: LP, Comp, Mono, Ter, Compilation
 rating: 
 released: 1958
 year: 1958
@@ -30,7 +30,7 @@ By Johnny Mathis
 - Catalog #: CL 1133
 - Label: Columbia
 - Formats: Vinyl, Terre Haute Pressing
-- Format: LP, Comp, Mono, Ter
+- Format: LP, Comp, Mono, Ter, Compilation
 - Rating: 
 - Released: 1958
 - Year: 1958

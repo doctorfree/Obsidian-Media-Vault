@@ -4,7 +4,7 @@ title: Untitled
 artist: Led Zeppelin
 label: Atlantic
 formats: Vinyl
-format: LP, Album, RE, RM + LP, Album + Dlx, 180
+format: LP, Album, RE, RM + LP, Album + Dlx, 180, Reissue, Remastered, Deluxe Edition
 rating: 
 released: 2014
 year: 1971
@@ -30,7 +30,7 @@ By Led Zeppelin
 - Catalog #: 8122796433
 - Label: Atlantic
 - Formats: Vinyl
-- Format: LP, Album, RE, RM + LP, Album + Dlx, 180
+- Format: LP, Album, RE, RM + LP, Album + Dlx, 180, Reissue, Remastered, Deluxe Edition
 - Rating: 
 - Released: 2014
 - Year: 1971

@@ -4,7 +4,7 @@ title: Prelude
 artist: Eumir Deodato
 label: CTI Records, CTI Records
 formats: Vinyl, Monarch Pressing
-format: LP, Album, Mon
+format: LP, Album, Mon, Stereo
 rating: 
 released: 1973
 year: 1973
@@ -30,7 +30,7 @@ By Eumir Deodato
 - Catalog #: CTI 6021, CTI 6021 S1
 - Label: CTI Records, CTI Records
 - Formats: Vinyl, Monarch Pressing
-- Format: LP, Album, Mon
+- Format: LP, Album, Mon, Stereo
 - Rating: 
 - Released: 1973
 - Year: 1973

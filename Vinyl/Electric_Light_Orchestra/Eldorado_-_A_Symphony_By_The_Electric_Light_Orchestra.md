@@ -4,7 +4,7 @@ title: Eldorado - A Symphony By The Electric Light Orchestra
 artist: Electric Light Orchestra
 label: Sony Music, Epic, Legacy
 formats: Vinyl, Clear / 180 gram
-format: LP, Album, Ltd, Num, RE, Cle
+format: LP, Album, Ltd, Num, RE, Cle, Limited Edition, Numbered, Reissue
 rating: 
 released: 2015
 year: 1974
@@ -30,7 +30,7 @@ By Electric Light Orchestra
 - Catalog #: 88875152431
 - Label: Sony Music, Epic, Legacy
 - Formats: Vinyl, Clear / 180 gram
-- Format: LP, Album, Ltd, Num, RE, Cle
+- Format: LP, Album, Ltd, Num, RE, Cle, Limited Edition, Numbered, Reissue
 - Rating: 
 - Released: 2015
 - Year: 1974

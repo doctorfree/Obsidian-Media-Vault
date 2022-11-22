@@ -4,7 +4,7 @@ title: Learnin' The Blues / If I Had Three Wishes
 artist: Frank Sinatra
 label: Capitol Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1955
 year: 1955
@@ -30,7 +30,7 @@ By Frank Sinatra
 - Catalog #: F3102
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1955
 - Year: 1955

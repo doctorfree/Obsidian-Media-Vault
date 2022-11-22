@@ -4,7 +4,7 @@ title: Terrapin Station
 artist: The Grateful Dead
 label: Analogue Productions
 formats: Vinyl, 200 Gram
-format: LP, Album, RE, 200
+format: LP, Album, RE, 200, Reissue
 rating: 
 released: 2012
 year: 1977
@@ -30,7 +30,7 @@ By The Grateful Dead
 - Catalog #: APP 7001
 - Label: Analogue Productions
 - Formats: Vinyl, 200 Gram
-- Format: LP, Album, RE, 200
+- Format: LP, Album, RE, 200, Reissue
 - Rating: 
 - Released: 2012
 - Year: 1977

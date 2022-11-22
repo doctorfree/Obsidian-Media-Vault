@@ -4,7 +4,7 @@ title: Violin Concerto
 artist: "Henryk Szeryng, Johannes Brahms, The London Symphony Orchestra, Antal Dorati"
 label: Decca, Mercury Living Presence, Mercury
 formats: Vinyl, 180g
-format: LP, RE, RM, 180
+format: LP, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2016
 year: 1962
@@ -30,7 +30,7 @@ By "Henryk Szeryng, Johannes Brahms, The London Symphony Orchestra, Antal Dorati
 - Catalog #: 483 0496, SR90308
 - Label: Decca, Mercury Living Presence, Mercury
 - Formats: Vinyl, 180g
-- Format: LP, RE, RM, 180
+- Format: LP, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2016
 - Year: 1962

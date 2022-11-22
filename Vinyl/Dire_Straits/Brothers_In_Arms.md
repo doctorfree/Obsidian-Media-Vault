@@ -4,7 +4,7 @@ title: Brothers In Arms
 artist: Dire Straits
 label: Warner Bros. Records, Warner Bros. Records
 formats: Vinyl, Specialty Pressing
-format: LP, Album, Spe
+format: LP, Album, Spe, Stereo
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Dire Straits
 - Catalog #: 1-25264, 9 25264-1
 - Label: Warner Bros. Records, Warner Bros. Records
 - Formats: Vinyl, Specialty Pressing
-- Format: LP, Album, Spe
+- Format: LP, Album, Spe, Stereo
 - Rating: 
 - Released: 1985
 - Year: 1985

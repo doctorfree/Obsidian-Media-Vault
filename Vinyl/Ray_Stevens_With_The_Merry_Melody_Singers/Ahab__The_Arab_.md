@@ -4,7 +4,7 @@ title: "Ahab, The Arab "
 artist: Ray Stevens With The Merry Melody Singers
 label: Mercury
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, 45 RPM, Reissue
 rating: 
 released: 1965
 year: 1965
@@ -28,7 +28,7 @@ By Ray Stevens With The Merry Melody Singers
 - Catalog #: C-30129
 - Label: Mercury
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, 45 RPM, Reissue
 - Rating: 
 - Released: 1965
 - Year: 1965

@@ -4,7 +4,7 @@ title: Carry On Wayward Son
 artist: Kansas
 label: Kirshner
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1976
 year: 1976
@@ -30,7 +30,7 @@ By Kansas
 - Catalog #: ZS8 4267
 - Label: Kirshner
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1976
 - Year: 1976

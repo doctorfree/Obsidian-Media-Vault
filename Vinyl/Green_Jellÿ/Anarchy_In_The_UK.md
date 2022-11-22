@@ -4,7 +4,7 @@ title: Anarchy In The UK
 artist: Green Jellÿ
 label: Zoo Entertainment
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1993
 year: 1993
@@ -30,7 +30,7 @@ By Green Jellÿ
 - Catalog #: 72445 14113-7
 - Label: Zoo Entertainment
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1993
 - Year: 1993

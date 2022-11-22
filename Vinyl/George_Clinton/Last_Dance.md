@@ -4,7 +4,7 @@ title: Last Dance
 artist: George Clinton
 label: Capitol Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By George Clinton
 - Catalog #: B-5332
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

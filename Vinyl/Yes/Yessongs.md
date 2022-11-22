@@ -4,7 +4,7 @@ title: Yessongs
 artist: Yes
 label: Atlantic
 formats: Vinyl, PR, Presswell Pressing
-format: 3xLP, Album, PR,
+format: 3xLP, Album, PR, Stereo
 rating: 
 released: 1973
 year: 1973
@@ -30,7 +30,7 @@ By Yes
 - Catalog #: SD 3-100
 - Label: Atlantic
 - Formats: Vinyl, PR, Presswell Pressing
-- Format: 3xLP, Album, PR,
+- Format: 3xLP, Album, PR, Stereo
 - Rating: 
 - Released: 1973
 - Year: 1973

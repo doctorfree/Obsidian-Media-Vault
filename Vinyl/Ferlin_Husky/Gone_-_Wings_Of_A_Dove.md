@@ -4,7 +4,7 @@ title: Gone / Wings Of A Dove
 artist: Ferlin Husky
 label: Capitol Records
 formats: Vinyl
-format: 7", RE
+format: 7", RE, 45 RPM, Reissue
 rating: 
 released: 1960
 year: 1964
@@ -30,7 +30,7 @@ By Ferlin Husky
 - Catalog #: 6024
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", RE
+- Format: 7", RE, 45 RPM, Reissue
 - Rating: 
 - Released: 1960
 - Year: 1964

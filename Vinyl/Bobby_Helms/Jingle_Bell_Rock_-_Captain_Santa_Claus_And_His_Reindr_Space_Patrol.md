@@ -4,7 +4,7 @@ title: Jingle Bell Rock / Captain Santa Claus (And His Reindr Space Patrol)
 artist: Bobby Helms
 label: Decca
 formats: Vinyl, Pinckneyville Pressing
-format: 7", Single, RE, Pin
+format: 7", Single, RE, Pin, 45 RPM, Reissue
 rating: 
 released: 1960
 year: 1957
@@ -30,7 +30,7 @@ By Bobby Helms
 - Catalog #: 30513
 - Label: Decca
 - Formats: Vinyl, Pinckneyville Pressing
-- Format: 7", Single, RE, Pin
+- Format: 7", Single, RE, Pin, 45 RPM, Reissue
 - Rating: 
 - Released: 1960
 - Year: 1957

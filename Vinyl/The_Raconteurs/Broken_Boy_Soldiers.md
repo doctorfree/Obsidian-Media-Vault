@@ -4,7 +4,7 @@ title: Broken Boy Soldiers
 artist: The Raconteurs
 label: Third Man Records
 formats: Vinyl, 180g, United Record Pressing
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2010
 year: 2006
@@ -30,7 +30,7 @@ By The Raconteurs
 - Catalog #: TMR 014
 - Label: Third Man Records
 - Formats: Vinyl, 180g, United Record Pressing
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2010
 - Year: 2006

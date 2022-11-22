@@ -4,7 +4,7 @@ title: "1, 2, 3, Red Light"
 artist: 1910 Fruitgum Company
 label: Buddah Records
 formats: Vinyl, Pitman Pressing
-format: 7", Single, Pit
+format: 7", Single, Pit, 45 RPM
 rating: 
 released: 1968
 year: 1968
@@ -30,7 +30,7 @@ By 1910 Fruitgum Company
 - Catalog #: BDA 54
 - Label: Buddah Records
 - Formats: Vinyl, Pitman Pressing
-- Format: 7", Single, Pit
+- Format: 7", Single, Pit, 45 RPM
 - Rating: 
 - Released: 1968
 - Year: 1968

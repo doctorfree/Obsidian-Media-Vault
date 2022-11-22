@@ -4,7 +4,7 @@ title: Magical Mystery Tour
 artist: The Beatles
 label: Capitol Records, Capitol Records, Capitol Records
 formats: Vinyl, Green Label, Winchester Pressing, Mono Text
-format: LP, Album, RE, Gre
+format: LP, Album, RE, Gre, Reissue, Stereo
 rating: 
 released: 1969
 year: 1967
@@ -30,7 +30,7 @@ By The Beatles
 - Catalog #: SMAL 2835, SMAL-2835, 2835
 - Label: Capitol Records, Capitol Records, Capitol Records
 - Formats: Vinyl, Green Label, Winchester Pressing, Mono Text
-- Format: LP, Album, RE, Gre
+- Format: LP, Album, RE, Gre, Reissue, Stereo
 - Rating: 
 - Released: 1969
 - Year: 1967

@@ -4,7 +4,7 @@ title: Sunshower Flower Power
 artist: The Lemon Drops
 label: Cicadelic Records
 formats: Vinyl
-format: LP, Comp
+format: LP, Comp, Compilation
 rating: 
 released: 2010
 year: 2010
@@ -30,7 +30,7 @@ By The Lemon Drops
 - Catalog #: CIC984LP
 - Label: Cicadelic Records
 - Formats: Vinyl
-- Format: LP, Comp
+- Format: LP, Comp, Compilation
 - Rating: 
 - Released: 2010
 - Year: 2010

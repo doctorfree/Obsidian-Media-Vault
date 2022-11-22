@@ -4,7 +4,7 @@ title: New York Dolls
 artist: New York Dolls
 label: Mercury
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 0
 year: 1973
@@ -30,7 +30,7 @@ By New York Dolls
 - Catalog #: 6336 280
 - Label: Mercury
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 0
 - Year: 1973

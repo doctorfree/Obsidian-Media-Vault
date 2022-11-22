@@ -4,7 +4,7 @@ title: "Leslie Plus 2 Integrated Sound System: A Whole New World Of ""Multi-Plan
 artist: Unknown Artist
 label: Leslie, Leslie
 formats: Vinyl
-format: 7"
+format: 7", 33 ⅓ RPM
 rating: 
 released: 0
 year: null
@@ -30,7 +30,7 @@ By Unknown Artist
 - Catalog #: L-10002, L-1002
 - Label: Leslie, Leslie
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 33 ⅓ RPM
 - Rating: 
 - Released: 0
 - Year: null

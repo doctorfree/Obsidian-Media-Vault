@@ -4,7 +4,7 @@ title: Death Of A Salesman
 artist: Slow Gherkin
 label: Join, Or Die Records, Join, Or Die Records
 formats: Vinyl
-format: 7", EP
+format: 7", EP, 33 ⅓ RPM
 rating: 
 released: 1994
 year: 1997
@@ -28,7 +28,7 @@ By Slow Gherkin
 - Catalog #: Join, or Die 3, JOIN, or DIE #3
 - Label: Join, Or Die Records, Join, Or Die Records
 - Formats: Vinyl
-- Format: 7", EP
+- Format: 7", EP, 33 ⅓ RPM
 - Rating: 
 - Released: 1994
 - Year: 1997

@@ -4,7 +4,7 @@ title: No Jacket Required
 artist: Phil Collins
 label: Atlantic, Atlantic
 formats: Vinyl, SP - Carrollton Pressing
-format: LP, Club, SP 
+format: LP, Club, SP , Club Edition, Stereo
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Phil Collins
 - Catalog #: A1 81240, 7A1-81240
 - Label: Atlantic, Atlantic
 - Formats: Vinyl, SP - Carrollton Pressing
-- Format: LP, Club, SP 
+- Format: LP, Club, SP , Club Edition, Stereo
 - Rating: 
 - Released: 1985
 - Year: 1985

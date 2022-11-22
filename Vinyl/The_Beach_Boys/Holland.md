@@ -4,7 +4,7 @@ title: Holland
 artist: The Beach Boys
 label: Reprise Records, Brother Records (3)
 formats: Vinyl
-format: LP, Album + 7", EP
+format: LP, Album + 7", EP, 33 ⅓ RPM
 rating: 
 released: 1973
 year: 1973
@@ -30,7 +30,7 @@ By The Beach Boys
 - Catalog #: MS 2118
 - Label: Reprise Records, Brother Records (3)
 - Formats: Vinyl
-- Format: LP, Album + 7", EP
+- Format: LP, Album + 7", EP, 33 ⅓ RPM
 - Rating: 
 - Released: 1973
 - Year: 1973

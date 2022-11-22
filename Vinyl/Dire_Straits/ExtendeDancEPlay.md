@@ -4,7 +4,7 @@ title: ExtendeDancEPlay
 artist: Dire Straits
 label: Warner Bros. Records, Warner Bros. Records
 formats: Vinyl, Allied Pressing
-format: 12", EP, All
+format: 12", EP, All, 33 ⅓ RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Dire Straits
 - Catalog #: 0-29800, 0 29800-0 A
 - Label: Warner Bros. Records, Warner Bros. Records
 - Formats: Vinyl, Allied Pressing
-- Format: 12", EP, All
+- Format: 12", EP, All, 33 ⅓ RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

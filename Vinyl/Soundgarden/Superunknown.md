@@ -4,7 +4,7 @@ title: Superunknown
 artist: Soundgarden
 label: A&M Records
 formats: Vinyl, 200 Gram
-format: 2xLP, Album, RE, RM, 200
+format: 2xLP, Album, RE, RM, 200, Reissue, Remastered
 rating: 
 released: 2014
 year: 1994
@@ -30,7 +30,7 @@ By Soundgarden
 - Catalog #: B0020476-01
 - Label: A&M Records
 - Formats: Vinyl, 200 Gram
-- Format: 2xLP, Album, RE, RM, 200
+- Format: 2xLP, Album, RE, RM, 200, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1994

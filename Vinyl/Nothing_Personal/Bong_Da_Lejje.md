@@ -4,7 +4,7 @@ title: Bon'g Da Lejje
 artist: Nothing Personal
 label: Riclou Anθhσia Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1981
 year: null
@@ -30,7 +30,7 @@ By Nothing Personal
 - Catalog #: 010414
 - Label: Riclou Anθhσia Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1981
 - Year: null

@@ -4,7 +4,7 @@ title: "La Mer · Prélude À L'Après-Midi D'Un Faune / Daphnis Et Chloé, Suit
 artist: Claude Debussy / Maurice Ravel - Berliner Philharmoniker · Herbert von Karajan
 label: Deutsche Grammophon
 formats: Vinyl, 180g vinyl pressing
-format: LP, RE, 180
+format: LP, RE, 180, Reissue, Stereo
 rating: 
 released: 2016
 year: 1965
@@ -28,7 +28,7 @@ By Claude Debussy / Maurice Ravel - Berliner Philharmoniker · Herbert von Karaj
 - Catalog #: 479 588-7
 - Label: Deutsche Grammophon
 - Formats: Vinyl, 180g vinyl pressing
-- Format: LP, RE, 180
+- Format: LP, RE, 180, Reissue, Stereo
 - Rating: 
 - Released: 2016
 - Year: 1965

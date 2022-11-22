@@ -4,7 +4,7 @@ title: Call Me Darling / The Philadelphia Waltz
 artist: Connie Boswell
 label: Decca
 formats: Vinyl
-format: 7", Promo
+format: 7", Promo, 45 RPM
 rating: 
 released: 1954
 year: 1954
@@ -30,7 +30,7 @@ By Connie Boswell
 - Catalog #: 9-29051
 - Label: Decca
 - Formats: Vinyl
-- Format: 7", Promo
+- Format: 7", Promo, 45 RPM
 - Rating: 
 - Released: 1954
 - Year: 1954

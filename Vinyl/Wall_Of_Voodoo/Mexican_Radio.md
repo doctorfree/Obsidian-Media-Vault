@@ -4,7 +4,7 @@ title: Mexican Radio
 artist: Wall Of Voodoo
 label: I.R.S. Records
 formats: Vinyl
-format: 7", Single, Promo
+format: 7", Single, Promo, 45 RPM
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By Wall Of Voodoo
 - Catalog #: SP-70963
 - Label: I.R.S. Records
 - Formats: Vinyl
-- Format: 7", Single, Promo
+- Format: 7", Single, Promo, 45 RPM
 - Rating: 
 - Released: 1982
 - Year: 1982

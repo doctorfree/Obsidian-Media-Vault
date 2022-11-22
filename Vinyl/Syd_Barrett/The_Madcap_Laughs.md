@@ -4,7 +4,7 @@ title: The Madcap Laughs
 artist: Syd Barrett
 label: Harvest, Harvest
 formats: Vinyl, Gatefold Sleeve
-format: LP, Album, Gat
+format: LP, Album, Gat, Stereo
 rating: 5
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By Syd Barrett
 - Catalog #: SHVL 765, 1E 062 ○ 04261
 - Label: Harvest, Harvest
 - Formats: Vinyl, Gatefold Sleeve
-- Format: LP, Album, Gat
+- Format: LP, Album, Gat, Stereo
 - Rating: 5
 - Released: 1970
 - Year: 1970

@@ -4,7 +4,7 @@ title: La Novia (La Sposa) / Romantico Amore
 artist: Claudio Villa
 label: Cetra, Cetra
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1961
 year: 1961
@@ -30,7 +30,7 @@ By Claudio Villa
 - Catalog #: SP 1060, SP. 1060
 - Label: Cetra, Cetra
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1961
 - Year: 1961

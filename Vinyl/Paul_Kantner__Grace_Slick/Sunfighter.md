@@ -4,7 +4,7 @@ title: Sunfighter
 artist: "Paul Kantner, Grace Slick"
 label: Grunt (3)
 formats: Vinyl, Indianapolis Pressing, Gatefold
-format: LP, Album, Ind
+format: LP, Album, Ind, Stereo
 rating: 5
 released: 1971
 year: 1971
@@ -30,7 +30,7 @@ By "Paul Kantner, Grace Slick"
 - Catalog #: FTR-1002
 - Label: Grunt (3)
 - Formats: Vinyl, Indianapolis Pressing, Gatefold
-- Format: LP, Album, Ind
+- Format: LP, Album, Ind, Stereo
 - Rating: 5
 - Released: 1971
 - Year: 1971

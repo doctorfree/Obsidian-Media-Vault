@@ -4,7 +4,7 @@ title: Come And Get Your Redbone / The Best Of Redbone
 artist: Redbone
 label: Epic
 formats: Vinyl
-format: 2xLP, Comp
+format: 2xLP, Comp, Compilation
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Redbone
 - Catalog #: KEG 33456
 - Label: Epic
 - Formats: Vinyl
-- Format: 2xLP, Comp
+- Format: 2xLP, Comp, Compilation
 - Rating: 
 - Released: 1975
 - Year: 1975

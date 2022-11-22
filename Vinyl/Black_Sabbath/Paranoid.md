@@ -4,7 +4,7 @@ title: Paranoid
 artist: Black Sabbath
 label: Rhino Records (2), Warner Bros. Records
 formats: Vinyl, Blue, Gatefold, 180g
-format: LP, Album, Ltd, RE, RM, Blu
+format: LP, Album, Ltd, RE, RM, Blu, Limited Edition, Reissue, Remastered
 rating: 
 released: 2016
 year: 1970
@@ -30,7 +30,7 @@ By Black Sabbath
 - Catalog #: RR1 3104, 3104
 - Label: Rhino Records (2), Warner Bros. Records
 - Formats: Vinyl, Blue, Gatefold, 180g
-- Format: LP, Album, Ltd, RE, RM, Blu
+- Format: LP, Album, Ltd, RE, RM, Blu, Limited Edition, Reissue, Remastered
 - Rating: 
 - Released: 2016
 - Year: 1970

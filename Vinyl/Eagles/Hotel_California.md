@@ -4,7 +4,7 @@ title: Hotel California
 artist: Eagles
 label: Asylum Records, Rhino Records (2)
 formats: Vinyl, Gatefold, 180 Gram
-format: LP, Album, RE, Gat
+format: LP, Album, RE, Gat, Reissue, Stereo
 rating: 
 released: 2014
 year: 1976
@@ -30,7 +30,7 @@ By Eagles
 - Catalog #: RRM1-1084, 8122796161
 - Label: Asylum Records, Rhino Records (2)
 - Formats: Vinyl, Gatefold, 180 Gram
-- Format: LP, Album, RE, Gat
+- Format: LP, Album, RE, Gat, Reissue, Stereo
 - Rating: 
 - Released: 2014
 - Year: 1976

@@ -4,7 +4,7 @@ title: Brenda Lee
 artist: Brenda Lee
 label: Decca
 formats: Vinyl
-format: 7", EP
+format: 7", EP, 45 RPM
 rating: 
 released: 1961
 year: 1961
@@ -30,7 +30,7 @@ By Brenda Lee
 - Catalog #: ED 2712
 - Label: Decca
 - Formats: Vinyl
-- Format: 7", EP
+- Format: 7", EP, 45 RPM
 - Rating: 
 - Released: 1961
 - Year: 1961

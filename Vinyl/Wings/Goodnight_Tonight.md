@@ -4,7 +4,7 @@ title: Goodnight Tonight
 artist: Wings
 label: Columbia, MPL
 formats: Vinyl
-format: 12", Single
+format: 12", Single, 33 ⅓ RPM
 rating: 
 released: 1979
 year: 1979
@@ -30,7 +30,7 @@ By Wings
 - Catalog #: 23-10940
 - Label: Columbia, MPL
 - Formats: Vinyl
-- Format: 12", Single
+- Format: 12", Single, 33 ⅓ RPM
 - Rating: 
 - Released: 1979
 - Year: 1979

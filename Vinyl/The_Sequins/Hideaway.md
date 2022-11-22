@@ -4,7 +4,7 @@ title: Hideaway
 artist: The Sequins
 label: Terrace Records Co.
 formats: Vinyl
-format: 7", Single, Promo
+format: 7", Single, Promo, 45 RPM
 rating: 
 released: 0
 year: 1963
@@ -30,7 +30,7 @@ By The Sequins
 - Catalog #: 45-7515-V
 - Label: Terrace Records Co.
 - Formats: Vinyl
-- Format: 7", Single, Promo
+- Format: 7", Single, Promo, 45 RPM
 - Rating: 
 - Released: 0
 - Year: 1963

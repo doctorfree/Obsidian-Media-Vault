@@ -4,7 +4,7 @@ title: Heaven USA
 artist: Peggy Cole
 label: Checkmate (2)
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 0
 year: null
@@ -30,7 +30,7 @@ By Peggy Cole
 - Catalog #: CK-2041
 - Label: Checkmate (2)
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 0
 - Year: null

@@ -4,7 +4,7 @@ title: Golden Butter / The Best Of The Paul Butterfield Blues Band
 artist: The Paul Butterfield Blues Band
 label: Friday Music, Elektra
 formats: Vinyl, 180 Gram, Gatefold
-format: 2xLP, Comp, RE, RM, 180
+format: 2xLP, Comp, RE, RM, 180, Compilation, Reissue, Remastered
 rating: 
 released: 2013
 year: 1972
@@ -30,7 +30,7 @@ By The Paul Butterfield Blues Band
 - Catalog #: FRM-72005
 - Label: Friday Music, Elektra
 - Formats: Vinyl, 180 Gram, Gatefold
-- Format: 2xLP, Comp, RE, RM, 180
+- Format: 2xLP, Comp, RE, RM, 180, Compilation, Reissue, Remastered
 - Rating: 
 - Released: 2013
 - Year: 1972

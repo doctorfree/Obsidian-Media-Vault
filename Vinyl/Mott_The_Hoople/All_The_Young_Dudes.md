@@ -4,7 +4,7 @@ title: All The Young Dudes
 artist: Mott The Hoople
 label: Drastic Plastic Records, Sony Music Commercial Music Group, Columbia
 formats: Vinyl, 200-gram
-format: LP, Album, Ltd, Num, RE, RM, 200
+format: LP, Album, Ltd, Num, RE, RM, 200, Limited Edition, Numbered, Reissue, Remastered
 rating: 
 released: 2014
 year: 1972
@@ -30,7 +30,7 @@ By Mott The Hoople
 - Catalog #: DPRLP43, 88883774741, KC 31750
 - Label: Drastic Plastic Records, Sony Music Commercial Music Group, Columbia
 - Formats: Vinyl, 200-gram
-- Format: LP, Album, Ltd, Num, RE, RM, 200
+- Format: LP, Album, Ltd, Num, RE, RM, 200, Limited Edition, Numbered, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1972

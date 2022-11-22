@@ -4,7 +4,7 @@ title: The Raven That Refused To Sing (And Other Stories)
 artist: Steven Wilson
 label: Kscope
 formats: Vinyl, 180 gram
-format: 2xLP, Album, 180
+format: 2xLP, Album, 180, Stereo
 rating: 
 released: 2013
 year: 2013
@@ -30,7 +30,7 @@ By Steven Wilson
 - Catalog #: KSCOPE835
 - Label: Kscope
 - Formats: Vinyl, 180 gram
-- Format: 2xLP, Album, 180
+- Format: 2xLP, Album, 180, Stereo
 - Rating: 
 - Released: 2013
 - Year: 2013

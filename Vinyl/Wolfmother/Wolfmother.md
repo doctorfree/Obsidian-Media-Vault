@@ -4,7 +4,7 @@ title: Wolfmother
 artist: Wolfmother
 label: Modular Recordings, Interscope Records
 formats: Vinyl
-format: 2xLP, Album, Dlx, RE, RM
+format: 2xLP, Album, Dlx, RE, RM, Deluxe Edition, Reissue, Remastered
 rating: 
 released: 2015
 year: 2005
@@ -30,7 +30,7 @@ By Wolfmother
 - Catalog #: B0023421-01
 - Label: Modular Recordings, Interscope Records
 - Formats: Vinyl
-- Format: 2xLP, Album, Dlx, RE, RM
+- Format: 2xLP, Album, Dlx, RE, RM, Deluxe Edition, Reissue, Remastered
 - Rating: 
 - Released: 2015
 - Year: 2005

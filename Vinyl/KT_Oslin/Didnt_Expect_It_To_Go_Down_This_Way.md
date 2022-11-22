@@ -4,7 +4,7 @@ title: Didn't Expect It To Go Down This Way
 artist: K.T. Oslin
 label: RCA
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1989
 year: 1989
@@ -30,7 +30,7 @@ By K.T. Oslin
 - Catalog #: 9029-7-R
 - Label: RCA
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1989
 - Year: 1989

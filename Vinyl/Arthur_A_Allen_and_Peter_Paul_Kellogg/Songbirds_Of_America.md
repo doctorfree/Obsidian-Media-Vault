@@ -4,7 +4,7 @@ title: Songbirds Of America
 artist: Arthur A. Allen & Peter Paul Kellogg
 label: Cornell University Records
 formats: Vinyl, Book-Album
-format: 10", RE, Boo
+format: 10", RE, Boo, LP, Reissue
 rating: 
 released: 1963
 year: 1954
@@ -30,7 +30,7 @@ By Arthur A. Allen & Peter Paul Kellogg
 - Catalog #: CU-11-NS-965-33
 - Label: Cornell University Records
 - Formats: Vinyl, Book-Album
-- Format: 10", RE, Boo
+- Format: 10", RE, Boo, LP, Reissue
 - Rating: 
 - Released: 1963
 - Year: 1954

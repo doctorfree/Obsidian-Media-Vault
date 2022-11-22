@@ -4,7 +4,7 @@ title: On The Border
 artist: Eagles
 label: Asylum Records
 formats: Vinyl, Santa Maria Pressing
-format: LP, Album, San
+format: LP, Album, San, Stereo
 rating: 
 released: 1974
 year: 1974
@@ -30,7 +30,7 @@ By Eagles
 - Catalog #: 7E-1004
 - Label: Asylum Records
 - Formats: Vinyl, Santa Maria Pressing
-- Format: LP, Album, San
+- Format: LP, Album, San, Stereo
 - Rating: 
 - Released: 1974
 - Year: 1974

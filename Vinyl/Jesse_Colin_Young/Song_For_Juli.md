@@ -4,7 +4,7 @@ title: Song For Juli
 artist: Jesse Colin Young
 label: Pigfoot Music
 formats: Vinyl
-format: LP, Album, RM
+format: LP, Album, RM, Remastered
 rating: 
 released: 2016
 year: 1973
@@ -30,7 +30,7 @@ By Jesse Colin Young
 - Catalog #: RT10116
 - Label: Pigfoot Music
 - Formats: Vinyl
-- Format: LP, Album, RM
+- Format: LP, Album, RM, Remastered
 - Rating: 
 - Released: 2016
 - Year: 1973

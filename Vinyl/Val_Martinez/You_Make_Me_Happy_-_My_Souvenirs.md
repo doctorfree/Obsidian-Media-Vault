@@ -4,7 +4,7 @@ title: You Make Me Happy / My Souvenirs
 artist: Val Martinez
 label: RCA Victor
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1963
 year: null
@@ -30,7 +30,7 @@ By Val Martinez
 - Catalog #: 47-8218
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1963
 - Year: null

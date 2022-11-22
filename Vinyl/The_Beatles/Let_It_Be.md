@@ -4,7 +4,7 @@ title: Let It Be
 artist: The Beatles
 label: Apple Records
 formats: Vinyl, Los Angeles Pressing, Gatefold
-format: LP, Album, Los
+format: LP, Album, Los, Stereo
 rating: 
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By The Beatles
 - Catalog #: AR 34001
 - Label: Apple Records
 - Formats: Vinyl, Los Angeles Pressing, Gatefold
-- Format: LP, Album, Los
+- Format: LP, Album, Los, Stereo
 - Rating: 
 - Released: 1970
 - Year: 1970

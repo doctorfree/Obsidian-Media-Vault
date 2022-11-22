@@ -4,7 +4,7 @@ title: Th' Wife
 artist: John D. Loudermilk
 label: RCA Victor
 formats: Vinyl
-format: 7", Single, Promo
+format: 7", Single, Promo, 45 RPM
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By John D. Loudermilk
 - Catalog #: 47-8389
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 7", Single, Promo
+- Format: 7", Single, Promo, 45 RPM
 - Rating: 
 - Released: 1964
 - Year: 1964

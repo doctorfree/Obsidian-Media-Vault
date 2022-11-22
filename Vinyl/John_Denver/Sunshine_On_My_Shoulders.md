@@ -4,7 +4,7 @@ title: Sunshine On My Shoulders
 artist: John Denver
 label: RCA Victor
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM, Stereo
 rating: 
 released: 1974
 year: 1974
@@ -30,7 +30,7 @@ By John Denver
 - Catalog #: APB0-0213
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM, Stereo
 - Rating: 
 - Released: 1974
 - Year: 1974

@@ -4,7 +4,7 @@ title: Time Out
 artist: The Dave Brubeck Quartet
 label: Columbia, Columbia, Music On Vinyl
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2010
 year: 1959
@@ -30,7 +30,7 @@ By The Dave Brubeck Quartet
 - Catalog #: 88697269441, 88697 26944 1, MOVLP038
 - Label: Columbia, Columbia, Music On Vinyl
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2010
 - Year: 1959

@@ -4,7 +4,7 @@ title: Buzzkill(er) / It's Just Too Bad
 artist: The Dead Weather
 label: Third Man Records
 formats: Vinyl, Yellow Translucent
-format: 7", Single, Ltd, Yel
+format: 7", Single, Ltd, Yel, 45 RPM, Limited Edition
 rating: 
 released: 2014
 year: null
@@ -28,7 +28,7 @@ By The Dead Weather
 - Catalog #: TMR-286
 - Label: Third Man Records
 - Formats: Vinyl, Yellow Translucent
-- Format: 7", Single, Ltd, Yel
+- Format: 7", Single, Ltd, Yel, 45 RPM, Limited Edition
 - Rating: 
 - Released: 2014
 - Year: null

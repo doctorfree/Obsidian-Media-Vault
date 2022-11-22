@@ -4,7 +4,7 @@ title: Back To The Barrooms Again / I Think I'll Just Stay Here And Drink
 artist: Merle Haggard
 label: MCA Records
 formats: Vinyl, Gloversville Pressing
-format: 7", Single, Glo
+format: 7", Single, Glo, 45 RPM
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Merle Haggard
 - Catalog #: MCA-51014
 - Label: MCA Records
 - Formats: Vinyl, Gloversville Pressing
-- Format: 7", Single, Glo
+- Format: 7", Single, Glo, 45 RPM
 - Rating: 
 - Released: 1980
 - Year: 1980

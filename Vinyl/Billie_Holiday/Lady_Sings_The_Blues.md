@@ -4,7 +4,7 @@ title: Lady Sings The Blues
 artist: Billie Holiday
 label: Not Now Music
 formats: Vinyl
-format: LP, Album, RE + LP, Comp + Comp
+format: LP, Album, RE + LP, Comp + Comp, Reissue, Compilation, Compilation
 rating: 
 released: 2013
 year: null
@@ -30,7 +30,7 @@ By Billie Holiday
 - Catalog #: NOT2LP184
 - Label: Not Now Music
 - Formats: Vinyl
-- Format: LP, Album, RE + LP, Comp + Comp
+- Format: LP, Album, RE + LP, Comp + Comp, Reissue, Compilation, Compilation
 - Rating: 
 - Released: 2013
 - Year: null

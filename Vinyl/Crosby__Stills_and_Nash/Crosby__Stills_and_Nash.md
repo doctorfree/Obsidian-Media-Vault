@@ -4,7 +4,7 @@ title: "Crosby, Stills & Nash"
 artist: "Crosby, Stills & Nash"
 label: Atlantic, Rhino Vinyl
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2009
 year: 1969
@@ -30,7 +30,7 @@ By "Crosby, Stills & Nash"
 - Catalog #: R1 8229
 - Label: Atlantic, Rhino Vinyl
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2009
 - Year: 1969

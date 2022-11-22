@@ -4,7 +4,7 @@ title: Wild Life
 artist: Wings
 label: Apple Records, Apple Records
 formats: Vinyl, Los Angeles Pressing
-format: LP, Album, Los
+format: LP, Album, Los, Stereo
 rating: 
 released: 1971
 year: 1971
@@ -30,7 +30,7 @@ By Wings
 - Catalog #: SW 3386, SW-3386
 - Label: Apple Records, Apple Records
 - Formats: Vinyl, Los Angeles Pressing
-- Format: LP, Album, Los
+- Format: LP, Album, Los, Stereo
 - Rating: 
 - Released: 1971
 - Year: 1971

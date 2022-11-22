@@ -4,7 +4,7 @@ title: Two Sides To Every Story
 artist: Gene Clark
 label: High Moon Records, Universal Music Special Markets
 formats: Vinyl, 180g
-format: LP, Album, Ltd, Num, RM, 180
+format: LP, Album, Ltd, Num, RM, 180, Limited Edition, Numbered, Remastered
 rating: 
 released: 2013
 year: 1977
@@ -30,7 +30,7 @@ By Gene Clark
 - Catalog #: HMRLP-02, B0015921-01
 - Label: High Moon Records, Universal Music Special Markets
 - Formats: Vinyl, 180g
-- Format: LP, Album, Ltd, Num, RM, 180
+- Format: LP, Album, Ltd, Num, RM, 180, Limited Edition, Numbered, Remastered
 - Rating: 
 - Released: 2013
 - Year: 1977

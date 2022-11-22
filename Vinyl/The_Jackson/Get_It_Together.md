@@ -4,7 +4,7 @@ title: Get It Together
 artist: The Jackson 5
 label: Motown, Motown
 formats: Vinyl, Hollywood Pressing - Die-cut sleeve
-format: LP, Album, Hol
+format: LP, Album, Hol, Stereo
 rating: 
 released: 1973
 year: 1973
@@ -30,7 +30,7 @@ By The Jackson 5
 - Catalog #: M 783V1, M-783V1
 - Label: Motown, Motown
 - Formats: Vinyl, Hollywood Pressing - Die-cut sleeve
-- Format: LP, Album, Hol
+- Format: LP, Album, Hol, Stereo
 - Rating: 
 - Released: 1973
 - Year: 1973

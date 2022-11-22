@@ -4,7 +4,7 @@ title: Feline
 artist: The Stranglers
 label: Epic
 formats: Vinyl
-format: LP, Album, Ltd + 7", S/Sided, S/Edition
+format: LP, Album, Ltd + 7", S/Sided, S/Edition, Limited Edition, 45 RPM, Single Sided, Special Edition
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By The Stranglers
 - Catalog #: EPC 25237
 - Label: Epic
 - Formats: Vinyl
-- Format: LP, Album, Ltd + 7", S/Sided, S/Edition
+- Format: LP, Album, Ltd + 7", S/Sided, S/Edition, Limited Edition, 45 RPM, Single Sided, Special Edition
 - Rating: 
 - Released: 1982
 - Year: 1982

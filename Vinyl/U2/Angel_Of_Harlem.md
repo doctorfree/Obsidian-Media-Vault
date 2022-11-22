@@ -4,7 +4,7 @@ title: Angel Of Harlem
 artist: U2
 label: Island Records
 formats: Vinyl, Allied Pressing
-format: 7", Single, All
+format: 7", Single, All, 45 RPM
 rating: 
 released: 1988
 year: 1988
@@ -30,7 +30,7 @@ By U2
 - Catalog #: 7-99254
 - Label: Island Records
 - Formats: Vinyl, Allied Pressing
-- Format: 7", Single, All
+- Format: 7", Single, All, 45 RPM
 - Rating: 
 - Released: 1988
 - Year: 1988

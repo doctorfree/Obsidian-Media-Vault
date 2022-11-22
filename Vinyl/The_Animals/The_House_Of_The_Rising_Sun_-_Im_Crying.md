@@ -4,7 +4,7 @@ title: The House Of The Rising Sun / I'm Crying
 artist: The Animals
 label: MGM Records
 formats: Vinyl, Gold Labels
-format: 7", RE, Gol
+format: 7", RE, Gol, 45 RPM, Reissue
 rating: 
 released: 0
 year: 1968
@@ -30,7 +30,7 @@ By The Animals
 - Catalog #: KGC 179
 - Label: MGM Records
 - Formats: Vinyl, Gold Labels
-- Format: 7", RE, Gol
+- Format: 7", RE, Gol, 45 RPM, Reissue
 - Rating: 
 - Released: 0
 - Year: 1968

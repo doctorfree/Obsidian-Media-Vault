@@ -4,7 +4,7 @@ title: American Idiot
 artist: Green Day
 label: Reprise Records
 formats: Vinyl, Red & Black Swirl
-format: LP, Red + LP, Whi + Album, Ltd, RE, S/Edition
+format: LP, Red + LP, Whi + Album, Ltd, RE, S/Edition, Limited Edition, Reissue, Special Edition
 rating: 
 released: 2015
 year: 2004
@@ -30,7 +30,7 @@ By Green Day
 - Catalog #: 517552-1
 - Label: Reprise Records
 - Formats: Vinyl, Red & Black Swirl
-- Format: LP, Red + LP, Whi + Album, Ltd, RE, S/Edition
+- Format: LP, Red + LP, Whi + Album, Ltd, RE, S/Edition, Limited Edition, Reissue, Special Edition
 - Rating: 
 - Released: 2015
 - Year: 2004

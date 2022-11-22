@@ -4,7 +4,7 @@ title: Strange Thing
 artist: Buzzcocks
 label: United Artists Records
 formats: Vinyl, 4 Prong Centre
-format: 7", 4 P
+format: 7", 4 P, 45 RPM
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Buzzcocks
 - Catalog #: BP 371
 - Label: United Artists Records
 - Formats: Vinyl, 4 Prong Centre
-- Format: 7", 4 P
+- Format: 7", 4 P, 45 RPM
 - Rating: 
 - Released: 1980
 - Year: 1980

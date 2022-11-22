@@ -4,7 +4,7 @@ title: Wings Of A Dove
 artist: Stonewall Jackson
 label: Columbia
 formats: Vinyl
-format: 7", Promo
+format: 7", Promo, 45 RPM
 rating: 
 released: 1971
 year: 1970
@@ -30,7 +30,7 @@ By Stonewall Jackson
 - Catalog #: 4-45291
 - Label: Columbia
 - Formats: Vinyl
-- Format: 7", Promo
+- Format: 7", Promo, 45 RPM
 - Rating: 
 - Released: 1971
 - Year: 1970

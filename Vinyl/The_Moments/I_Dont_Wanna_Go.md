@@ -4,7 +4,7 @@ title: I Don't Wanna Go
 artist: The Moments
 label: Stang Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By The Moments
 - Catalog #: ST-5073
 - Label: Stang Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1977
 - Year: 1977

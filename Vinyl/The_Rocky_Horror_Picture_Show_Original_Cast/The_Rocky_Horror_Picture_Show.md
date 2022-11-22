@@ -4,7 +4,7 @@ title: The Rocky Horror Picture Show
 artist: """The Rocky Horror Picture Show"" Original Cast"
 label: Ode Records (2)
 formats: Vinyl, PRC Richmond Press
-format: LP, Album, PRC
+format: LP, Album, PRC, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By """The Rocky Horror Picture Show"" Original Cast"
 - Catalog #: OSV-21653
 - Label: Ode Records (2)
 - Formats: Vinyl, PRC Richmond Press
-- Format: LP, Album, PRC
+- Format: LP, Album, PRC, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

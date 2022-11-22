@@ -4,7 +4,7 @@ title: Inside
 artist: Paul Horn
 label: Epic
 formats: Vinyl, Pitman Pressing
-format: LP, Album, Pit
+format: LP, Album, Pit, Stereo
 rating: 
 released: 1968
 year: 1968
@@ -30,7 +30,7 @@ By Paul Horn
 - Catalog #: BXN 26466
 - Label: Epic
 - Formats: Vinyl, Pitman Pressing
-- Format: LP, Album, Pit
+- Format: LP, Album, Pit, Stereo
 - Rating: 
 - Released: 1968
 - Year: 1968

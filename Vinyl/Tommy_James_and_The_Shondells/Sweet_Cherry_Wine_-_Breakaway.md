@@ -4,7 +4,7 @@ title: Sweet Cherry Wine / Breakaway
 artist: Tommy James & The Shondells
 label: Roulette
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By Tommy James & The Shondells
 - Catalog #: R-7039
 - Label: Roulette
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1969
 - Year: 1969

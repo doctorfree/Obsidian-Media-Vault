@@ -4,7 +4,7 @@ title: Magic
 artist: Jorma Kaukonen
 label: Relix Records
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Stereo
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Jorma Kaukonen
 - Catalog #: RRLP 2007
 - Label: Relix Records
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Stereo
 - Rating: 
 - Released: 1985
 - Year: 1985

@@ -4,7 +4,7 @@ title: Everybody's Talkin'
 artist: Harry Nilsson
 label: RCA Victor
 formats: Vinyl, Rockaway Pressing
-format: 7", Single, Roc
+format: 7", Single, Roc, 45 RPM, Stereo
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By Harry Nilsson
 - Catalog #: 74-0161
 - Label: RCA Victor
 - Formats: Vinyl, Rockaway Pressing
-- Format: 7", Single, Roc
+- Format: 7", Single, Roc, 45 RPM, Stereo
 - Rating: 
 - Released: 1969
 - Year: 1969

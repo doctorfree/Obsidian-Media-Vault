@@ -4,7 +4,7 @@ title: Rapture
 artist: Blondie
 label: Chrysalis
 formats: Vinyl, Pitman Pressing
-format: 7", Single, Styrene, Pit
+format: 7", Single, Styrene, Pit, 45 RPM
 rating: 
 released: 1981
 year: 1981
@@ -30,7 +30,7 @@ By Blondie
 - Catalog #: CHS 2485
 - Label: Chrysalis
 - Formats: Vinyl, Pitman Pressing
-- Format: 7", Single, Styrene, Pit
+- Format: 7", Single, Styrene, Pit, 45 RPM
 - Rating: 
 - Released: 1981
 - Year: 1981

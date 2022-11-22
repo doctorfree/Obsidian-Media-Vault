@@ -4,7 +4,7 @@ title: Mystic Braves
 artist: Mystic Braves
 label: Not On Label
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2013
 year: 2013
@@ -30,7 +30,7 @@ By Mystic Braves
 - Catalog #: none
 - Label: Not On Label
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2013
 - Year: 2013

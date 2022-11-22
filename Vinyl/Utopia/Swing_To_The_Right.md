@@ -4,7 +4,7 @@ title: Swing To The Right
 artist: Utopia
 label: Bearsville
 formats: Vinyl, Jacksonville Pressing
-format: LP, Album, Jac
+format: LP, Album, Jac, Stereo
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By Utopia
 - Catalog #: BRK 3666
 - Label: Bearsville
 - Formats: Vinyl, Jacksonville Pressing
-- Format: LP, Album, Jac
+- Format: LP, Album, Jac, Stereo
 - Rating: 
 - Released: 1982
 - Year: 1982

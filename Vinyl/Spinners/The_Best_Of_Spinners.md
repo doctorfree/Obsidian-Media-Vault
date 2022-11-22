@@ -4,7 +4,7 @@ title: The Best Of Spinners
 artist: Spinners
 label: Atlantic
 formats: Vinyl, PR
-format: LP, Comp, PR
+format: LP, Comp, PR, Compilation
 rating: 
 released: 1978
 year: 1978
@@ -30,7 +30,7 @@ By Spinners
 - Catalog #: SD 19179
 - Label: Atlantic
 - Formats: Vinyl, PR
-- Format: LP, Comp, PR
+- Format: LP, Comp, PR, Compilation
 - Rating: 
 - Released: 1978
 - Year: 1978

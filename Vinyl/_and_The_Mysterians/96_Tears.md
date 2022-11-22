@@ -4,7 +4,7 @@ title: 96 Tears
 artist: ? & The Mysterians
 label: Cameo
 formats: Vinyl
-format: 7", Single, Styrene
+format: 7", Single, Styrene, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By ? & The Mysterians
 - Catalog #: C-428
 - Label: Cameo
 - Formats: Vinyl
-- Format: 7", Single, Styrene
+- Format: 7", Single, Styrene, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

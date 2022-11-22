@@ -4,7 +4,7 @@ title: Summer Days (And Summer Nights!!)
 artist: The Beach Boys
 label: Capitol Records
 formats: Vinyl
-format: LP, Album, Mono, RE
+format: LP, Album, Mono, RE, Reissue
 rating: 
 released: 2010
 year: 1965
@@ -30,7 +30,7 @@ By The Beach Boys
 - Catalog #: DT 2354
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: LP, Album, Mono, RE
+- Format: LP, Album, Mono, RE, Reissue
 - Rating: 
 - Released: 2010
 - Year: 1965

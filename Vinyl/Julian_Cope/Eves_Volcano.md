@@ -4,7 +4,7 @@ title: Eve's Volcano
 artist: Julian Cope
 label: Island Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1987
 year: 1987
@@ -30,7 +30,7 @@ By Julian Cope
 - Catalog #: 7-99448
 - Label: Island Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1987
 - Year: 1987

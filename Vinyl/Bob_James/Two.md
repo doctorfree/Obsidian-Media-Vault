@@ -4,7 +4,7 @@ title: Two
 artist: Bob James
 label: CTI Records
 formats: Vinyl, Terre Haute Pressing, Gatefold
-format: LP, Album, Ter
+format: LP, Album, Ter, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Bob James
 - Catalog #: CTI 6057 S1
 - Label: CTI Records
 - Formats: Vinyl, Terre Haute Pressing, Gatefold
-- Format: LP, Album, Ter
+- Format: LP, Album, Ter, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

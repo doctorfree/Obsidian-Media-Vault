@@ -4,7 +4,7 @@ title: How Can You Mend A Broken Heart / Please Read Me
 artist: Emitt Rhodes / Chris Price
 label: 80 Proof Records & Tapes
 formats: Vinyl, Red
-format: 7", Single, Ltd, Red
+format: 7", Single, Ltd, Red, 45 RPM, Limited Edition
 rating: 
 released: 2015
 year: null
@@ -30,7 +30,7 @@ By Emitt Rhodes / Chris Price
 - Catalog #: 80P-001-7
 - Label: 80 Proof Records & Tapes
 - Formats: Vinyl, Red
-- Format: 7", Single, Ltd, Red
+- Format: 7", Single, Ltd, Red, 45 RPM, Limited Edition
 - Rating: 
 - Released: 2015
 - Year: null

@@ -4,7 +4,7 @@ title: Blinded By The Light
 artist: Manfred Mann's Earth Band
 label: Warner Bros. Records, Bronze
 formats: Vinyl, Jacksonville pressing
-format: 7", Single, Jac
+format: 7", Single, Jac, 45 RPM
 rating: 5
 released: 1976
 year: 1976
@@ -30,7 +30,7 @@ By Manfred Mann's Earth Band
 - Catalog #: WBS 8252
 - Label: Warner Bros. Records, Bronze
 - Formats: Vinyl, Jacksonville pressing
-- Format: 7", Single, Jac
+- Format: 7", Single, Jac, 45 RPM
 - Rating: 5
 - Released: 1976
 - Year: 1976

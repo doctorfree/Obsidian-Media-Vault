@@ -4,7 +4,7 @@ title: Gold (Greatest Hits)
 artist: ABBA
 label: Polar, Polydor, Polar, Polydor
 formats: Vinyl, 180 Gram, 40th Anniversary
-format: 2xLP, Comp, RE, RM, 180
+format: 2xLP, Comp, RE, RM, 180, Compilation, Reissue, Remastered
 rating: 
 released: 2014
 year: 1992
@@ -30,7 +30,7 @@ By ABBA
 - Catalog #: 0600753511060, 535 110-6
 - Label: Polar, Polydor, Polar, Polydor
 - Formats: Vinyl, 180 Gram, 40th Anniversary
-- Format: 2xLP, Comp, RE, RM, 180
+- Format: 2xLP, Comp, RE, RM, 180, Compilation, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1992

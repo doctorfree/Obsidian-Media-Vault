@@ -4,7 +4,7 @@ title: "Peter, Paul And Mary"
 artist: "Peter, Paul & Mary"
 label: Warner Bros. Records
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Stereo
 rating: 
 released: 1962
 year: 1962
@@ -30,7 +30,7 @@ By "Peter, Paul & Mary"
 - Catalog #: WS 1449
 - Label: Warner Bros. Records
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Stereo
 - Rating: 
 - Released: 1962
 - Year: 1962

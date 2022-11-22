@@ -4,7 +4,7 @@ title: "Albinoni: Adagio, Pachelbel: Canon"
 artist: "Tomaso Albinoni, Johann Pachelbel, Berliner Philharmoniker, Herbert von Karajan"
 label: Deutsche Grammophon
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2016
 year: 1984
@@ -30,7 +30,7 @@ By "Tomaso Albinoni, Johann Pachelbel, Berliner Philharmoniker, Herbert von Kara
 - Catalog #: 479 6336
 - Label: Deutsche Grammophon
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2016
 - Year: 1984

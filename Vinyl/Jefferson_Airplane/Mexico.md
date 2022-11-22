@@ -4,7 +4,7 @@ title: Mexico
 artist: Jefferson Airplane
 label: RCA Victor
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM, Stereo
 rating: 
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By Jefferson Airplane
 - Catalog #: 74-0343
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM, Stereo
 - Rating: 
 - Released: 1970
 - Year: 1970

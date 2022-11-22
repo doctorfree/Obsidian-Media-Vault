@@ -4,7 +4,7 @@ title: Too Late To Say Goodbye
 artist: Richard Marx
 label: EMI USA
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1990
 year: 1989
@@ -30,7 +30,7 @@ By Richard Marx
 - Catalog #: B-50234
 - Label: EMI USA
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1990
 - Year: 1989

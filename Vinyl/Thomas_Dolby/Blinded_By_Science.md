@@ -4,7 +4,7 @@ title: Blinded By Science
 artist: Thomas Dolby
 label: Harvest, Venice In Peril Records
 formats: Vinyl, Jacksonville Press
-format: LP, MiniAlbum, Jac
+format: LP, MiniAlbum, Jac, Mini-Album
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Thomas Dolby
 - Catalog #: MLP-15007
 - Label: Harvest, Venice In Peril Records
 - Formats: Vinyl, Jacksonville Press
-- Format: LP, MiniAlbum, Jac
+- Format: LP, MiniAlbum, Jac, Mini-Album
 - Rating: 
 - Released: 1983
 - Year: 1983

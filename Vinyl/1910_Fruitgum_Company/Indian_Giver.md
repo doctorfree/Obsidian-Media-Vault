@@ -4,7 +4,7 @@ title: Indian Giver
 artist: 1910 Fruitgum Company
 label: Buddah Records
 formats: Vinyl, ARP Pressing
-format: 7", ARP
+format: 7", ARP, 45 RPM
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By 1910 Fruitgum Company
 - Catalog #: BDA 91
 - Label: Buddah Records
 - Formats: Vinyl, ARP Pressing
-- Format: 7", ARP
+- Format: 7", ARP, 45 RPM
 - Rating: 
 - Released: 1969
 - Year: 1969

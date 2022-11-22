@@ -4,7 +4,7 @@ title: Get Up And Go
 artist: Go-Go's
 label: I.R.S. Records, I.R.S. Records
 formats: Vinyl
-format: 7", Single, Mono, Promo
+format: 7", Single, Mono, Promo, 45 RPM, Stereo
 rating: 
 released: 1982
 year: 1982
@@ -28,7 +28,7 @@ By Go-Go's
 - Catalog #: IR-9910, IR9910
 - Label: I.R.S. Records, I.R.S. Records
 - Formats: Vinyl
-- Format: 7", Single, Mono, Promo
+- Format: 7", Single, Mono, Promo, 45 RPM, Stereo
 - Rating: 
 - Released: 1982
 - Year: 1982

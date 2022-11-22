@@ -4,7 +4,7 @@ title: Forgive Me Girl
 artist: Force MD's
 label: Tommy Boy
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM, Stereo
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By Force MD's
 - Catalog #: TB 851-7
 - Label: Tommy Boy
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM, Stereo
 - Rating: 
 - Released: 1984
 - Year: 1984

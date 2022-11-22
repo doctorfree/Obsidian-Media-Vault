@@ -4,7 +4,7 @@ title: Dreamin' Wild
 artist: Donnie & Joe Emerson
 label: Light In The Attic
 formats: Vinyl
-format: LP, Album, RE, RM
+format: LP, Album, RE, RM, Reissue, Remastered
 rating: 
 released: 2012
 year: 1979
@@ -30,7 +30,7 @@ By Donnie & Joe Emerson
 - Catalog #: LITA 082
 - Label: Light In The Attic
 - Formats: Vinyl
-- Format: LP, Album, RE, RM
+- Format: LP, Album, RE, RM, Reissue, Remastered
 - Rating: 
 - Released: 2012
 - Year: 1979

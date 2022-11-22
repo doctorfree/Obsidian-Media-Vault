@@ -4,7 +4,7 @@ title: In The Mood / A String Of Pearls
 artist: Glenn Miller And His Orchestra
 label: RCA, BMG
 formats: Vinyl, Indianapolis Pressing
-format: 7", RE, Ind
+format: 7", RE, Ind, 45 RPM, Reissue
 rating: 
 released: 1989
 year: 1951
@@ -30,7 +30,7 @@ By Glenn Miller And His Orchestra
 - Catalog #: 447-0043
 - Label: RCA, BMG
 - Formats: Vinyl, Indianapolis Pressing
-- Format: 7", RE, Ind
+- Format: 7", RE, Ind, 45 RPM, Reissue
 - Rating: 
 - Released: 1989
 - Year: 1951

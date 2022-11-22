@@ -4,7 +4,7 @@ title: Turn It Over
 artist: Eddie Jobson / Zinc
 label: Capitol Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Eddie Jobson / Zinc
 - Catalog #: B-5273
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

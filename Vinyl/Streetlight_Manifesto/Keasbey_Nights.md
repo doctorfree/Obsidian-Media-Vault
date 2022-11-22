@@ -4,7 +4,7 @@ title: Keasbey Nights
 artist: Streetlight Manifesto
 label: Victory Records
 formats: Vinyl, Tan Marble
-format: LP, Album, Ltd, RE, Tan
+format: LP, Album, Ltd, RE, Tan, Limited Edition, Reissue
 rating: 
 released: 2013
 year: 2006
@@ -30,7 +30,7 @@ By Streetlight Manifesto
 - Catalog #: VR240
 - Label: Victory Records
 - Formats: Vinyl, Tan Marble
-- Format: LP, Album, Ltd, RE, Tan
+- Format: LP, Album, Ltd, RE, Tan, Limited Edition, Reissue
 - Rating: 
 - Released: 2013
 - Year: 2006

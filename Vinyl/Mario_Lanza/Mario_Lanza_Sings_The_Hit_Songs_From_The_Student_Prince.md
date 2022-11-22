@@ -4,7 +4,7 @@ title: Mario Lanza Sings The Hit Songs From The Student Prince
 artist: Mario Lanza
 label: RCA Victor Red Seal, RCA Victor Red Seal
 formats: Vinyl, Gatefold
-format: 2x7", Album, EP, Gat
+format: 2x7", Album, EP, Gat, 45 RPM
 rating: 
 released: 1954
 year: 1954
@@ -30,7 +30,7 @@ By Mario Lanza
 - Catalog #: ERB 1837, ERB-1837
 - Label: RCA Victor Red Seal, RCA Victor Red Seal
 - Formats: Vinyl, Gatefold
-- Format: 2x7", Album, EP, Gat
+- Format: 2x7", Album, EP, Gat, 45 RPM
 - Rating: 
 - Released: 1954
 - Year: 1954

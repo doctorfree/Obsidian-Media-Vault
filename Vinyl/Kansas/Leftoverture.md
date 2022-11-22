@@ -4,7 +4,7 @@ title: Leftoverture
 artist: Kansas
 label: Friday Music, Kirshner
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2010
 year: 1976
@@ -30,7 +30,7 @@ By Kansas
 - Catalog #: FRM 34224
 - Label: Friday Music, Kirshner
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2010
 - Year: 1976

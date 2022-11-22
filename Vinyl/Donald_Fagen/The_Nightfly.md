@@ -4,7 +4,7 @@ title: The Nightfly
 artist: Donald Fagen
 label: Warner Bros. Records, Warner Bros. Records
 formats: Vinyl, SRC Pressing
-format: LP, Album, SRC
+format: LP, Album, SRC, Stereo
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By Donald Fagen
 - Catalog #: 9 23696-1, 1-23696
 - Label: Warner Bros. Records, Warner Bros. Records
 - Formats: Vinyl, SRC Pressing
-- Format: LP, Album, SRC
+- Format: LP, Album, SRC, Stereo
 - Rating: 
 - Released: 1982
 - Year: 1982

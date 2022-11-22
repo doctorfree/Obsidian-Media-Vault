@@ -4,7 +4,7 @@ title: "White Christmas / Merry Christmas, Baby"
 artist: Otis Redding
 label: Atco Records
 formats: Vinyl, SP - Specialty Pressing
-format: 7", Mono, RE, SP 
+format: 7", Mono, RE, SP , 45 RPM, Reissue
 rating: 
 released: 0
 year: 1968
@@ -30,7 +30,7 @@ By Otis Redding
 - Catalog #: 45-7069
 - Label: Atco Records
 - Formats: Vinyl, SP - Specialty Pressing
-- Format: 7", Mono, RE, SP 
+- Format: 7", Mono, RE, SP , 45 RPM, Reissue
 - Rating: 
 - Released: 0
 - Year: 1968

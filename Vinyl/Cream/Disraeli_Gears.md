@@ -4,7 +4,7 @@ title: Disraeli Gears
 artist: Cream
 label: Polydor, Universal
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue, Stereo
 rating: 
 released: 2015
 year: 1967
@@ -30,7 +30,7 @@ By Cream
 - Catalog #: 535 484-3, 0600753548431
 - Label: Polydor, Universal
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1967

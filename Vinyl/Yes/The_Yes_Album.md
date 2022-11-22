@@ -4,7 +4,7 @@ title: The Yes Album
 artist: Yes
 label: Rhino Records (2), Atlantic
 formats: Vinyl, 180 gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2003
 year: 1971
@@ -30,7 +30,7 @@ By Yes
 - Catalog #: R1 73788
 - Label: Rhino Records (2), Atlantic
 - Formats: Vinyl, 180 gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2003
 - Year: 1971

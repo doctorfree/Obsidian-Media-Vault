@@ -4,7 +4,7 @@ title: Don't Stop / Never Going Back Again
 artist: Fleetwood Mac
 label: Warner Bros. Records
 formats: Vinyl, Winchester Pressing
-format: 7", Single, Win
+format: 7", Single, Win, 45 RPM, Stereo
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By Fleetwood Mac
 - Catalog #: WBS 8413
 - Label: Warner Bros. Records
 - Formats: Vinyl, Winchester Pressing
-- Format: 7", Single, Win
+- Format: 7", Single, Win, 45 RPM, Stereo
 - Rating: 
 - Released: 1977
 - Year: 1977

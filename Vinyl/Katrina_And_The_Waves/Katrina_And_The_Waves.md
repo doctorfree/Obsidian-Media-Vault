@@ -4,7 +4,7 @@ title: Katrina And The Waves
 artist: Katrina And The Waves
 label: Capitol Records
 formats: Vinyl, Jacksonville Press
-format: LP, Album, Jac
+format: LP, Album, Jac, Stereo
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Katrina And The Waves
 - Catalog #: ST-12400
 - Label: Capitol Records
 - Formats: Vinyl, Jacksonville Press
-- Format: LP, Album, Jac
+- Format: LP, Album, Jac, Stereo
 - Rating: 
 - Released: 1985
 - Year: 1985

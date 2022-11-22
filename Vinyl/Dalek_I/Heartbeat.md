@@ -4,7 +4,7 @@ title: Heartbeat
 artist: Dalek I
 label: Back Door
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1981
 year: 1981
@@ -30,7 +30,7 @@ By Dalek I
 - Catalog #: DOOR 10
 - Label: Back Door
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1981
 - Year: 1981

@@ -4,7 +4,7 @@ title: Paul Simon
 artist: Paul Simon
 label: Columbia
 formats: Vinyl, 180g
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2013
 year: 1972
@@ -30,7 +30,7 @@ By Paul Simon
 - Catalog #: 88883761051
 - Label: Columbia
 - Formats: Vinyl, 180g
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2013
 - Year: 1972

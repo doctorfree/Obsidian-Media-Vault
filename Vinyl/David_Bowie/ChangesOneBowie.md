@@ -4,7 +4,7 @@ title: ChangesOneBowie
 artist: David Bowie
 label: Parlophone, Parlophone
 formats: Vinyl, Clear, 180g
-format: LP, Comp, RE, Cle
+format: LP, Comp, RE, Cle, Compilation, Reissue
 rating: 
 released: 2016
 year: 1976
@@ -30,7 +30,7 @@ By David Bowie
 - Catalog #: COBLP 2016, 0190295994082
 - Label: Parlophone, Parlophone
 - Formats: Vinyl, Clear, 180g
-- Format: LP, Comp, RE, Cle
+- Format: LP, Comp, RE, Cle, Compilation, Reissue
 - Rating: 
 - Released: 2016
 - Year: 1976

@@ -4,7 +4,7 @@ title: Great Tradition
 artist: Din (10)
 label: Rocshire Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, Stereo
 rating: 
 released: 1983
 year: 1983
@@ -28,7 +28,7 @@ By Din (10)
 - Catalog #: XR95043
 - Label: Rocshire Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, Stereo
 - Rating: 
 - Released: 1983
 - Year: 1983

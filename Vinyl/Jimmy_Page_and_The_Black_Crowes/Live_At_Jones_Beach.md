@@ -4,7 +4,7 @@ title: Live At Jones Beach
 artist: Jimmy Page & The Black Crowes
 label: The Orchard
 formats: Vinyl, Black & White Marble
-format: 10", EP, Ltd, Num, Bla
+format: 10", EP, Ltd, Num, Bla, 33 ⅓ RPM, Limited Edition, Numbered, Stereo
 rating: 
 released: 2017
 year: null
@@ -30,7 +30,7 @@ By Jimmy Page & The Black Crowes
 - Catalog #: TV-2144-1
 - Label: The Orchard
 - Formats: Vinyl, Black & White Marble
-- Format: 10", EP, Ltd, Num, Bla
+- Format: 10", EP, Ltd, Num, Bla, 33 ⅓ RPM, Limited Edition, Numbered, Stereo
 - Rating: 
 - Released: 2017
 - Year: null

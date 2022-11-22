@@ -4,7 +4,7 @@ title: The Hello People
 artist: Hello People
 label: Philips
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Stereo
 rating: 
 released: 1968
 year: 1968
@@ -30,7 +30,7 @@ By Hello People
 - Catalog #: PHS 600-265
 - Label: Philips
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Stereo
 - Rating: 
 - Released: 1968
 - Year: 1968

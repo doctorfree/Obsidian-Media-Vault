@@ -4,7 +4,7 @@ title: Rock & Roll Music To The World
 artist: Ten Years After
 label: Chrysalis, Music On Vinyl
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2015
 year: 1972
@@ -30,7 +30,7 @@ By Ten Years After
 - Catalog #: MOVLP1533
 - Label: Chrysalis, Music On Vinyl
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2015
 - Year: 1972

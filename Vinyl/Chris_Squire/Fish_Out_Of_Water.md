@@ -4,7 +4,7 @@ title: Fish Out Of Water
 artist: Chris Squire
 label: Atlantic
 formats: Vinyl, Gatefold, Presswell
-format: LP, Album, Gat
+format: LP, Album, Gat, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Chris Squire
 - Catalog #: SD 18159
 - Label: Atlantic
 - Formats: Vinyl, Gatefold, Presswell
-- Format: LP, Album, Gat
+- Format: LP, Album, Gat, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

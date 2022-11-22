@@ -4,7 +4,7 @@ title: The One Rose
 artist: Leo Diamond With Henri René And His Orchestra
 label: RCA Victor
 formats: Vinyl
-format: 7", Single, Promo
+format: 7", Single, Promo, 45 RPM
 rating: 
 released: 0
 year: 1955
@@ -28,7 +28,7 @@ By Leo Diamond With Henri René And His Orchestra
 - Catalog #: 47-6090
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 7", Single, Promo
+- Format: 7", Single, Promo, 45 RPM
 - Rating: 
 - Released: 0
 - Year: 1955

@@ -4,7 +4,7 @@ title: We Are The Champions
 artist: Queen
 label: Elektra
 formats: Vinyl, SP - Specialty Pressing
-format: 7", Single, SP 
+format: 7", Single, SP , 45 RPM, Stereo
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By Queen
 - Catalog #: E-45441
 - Label: Elektra
 - Formats: Vinyl, SP - Specialty Pressing
-- Format: 7", Single, SP 
+- Format: 7", Single, SP , 45 RPM, Stereo
 - Rating: 
 - Released: 1977
 - Year: 1977

@@ -4,7 +4,7 @@ title: You Really Got Me
 artist: The Kinks
 label: Reprise Records
 formats: Vinyl
-format: 7", Single, Styrene
+format: 7", Single, Styrene, 45 RPM
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By The Kinks
 - Catalog #: 0306
 - Label: Reprise Records
 - Formats: Vinyl
-- Format: 7", Single, Styrene
+- Format: 7", Single, Styrene, 45 RPM
 - Rating: 
 - Released: 1964
 - Year: 1964

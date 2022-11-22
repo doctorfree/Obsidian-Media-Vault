@@ -19,7 +19,7 @@
 #   }
 # ],
 
-TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl-Test"
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
 URL="https://api.discogs.com/releases"
 AGE="github.com/doctorfree/MusicPlayerPlus"
 UAG="--user-agent \"MusicPlayerPlus/3.0\""
@@ -37,22 +37,22 @@ do
   for album in "${artist}"/*.md
   do
     [ "${album}" == "${artist}/*.md" ] && continue
-    grep "^formats:" "${album}" > /dev/null || {
-      release_id=`grep "Release ID:" "${album}"  | \
+    grep "^format:" "${album}" > /dev/null && {
+      release_id=`grep "releaseid:" "${album}"  | \
                   awk -F ':' ' { print $2 } ' | \
                   sed -e 's/^ *//' -e 's/ *$//'`
       [ "${release_id}" ] || continue
-      formats=`echo "${album}" | sed -e "s%\.md%%"`
-      [ -s "${formats}.txt" ] || {
+      foutput=`echo "${album}" | sed -e "s%\.md%%"`
+      [ -s "${foutput}.txt" ] || {
         curl --stderr /dev/null \
           -A "${AGE}" "${URL}/${release_id}" \
           -H "Authorization: Discogs token=${token}" | \
-          jq -r '.formats[]' | jq -r '.descriptions[]' > "${formats}.txt"
+          jq -r '.formats[]' | jq -r '.descriptions[]' > "${foutput}.txt"
         sleep 1
       }
-      [ -s "${formats}.txt" ] || {
-        echo "Empty formats file ${formats}.txt"
-        rm -f "${formats}.txt"
+      [ -s "${foutput}.txt" ] || {
+        echo "Empty formats file ${foutput}.txt"
+        rm -f "${foutput}.txt"
         continue
       }
 
@@ -62,12 +62,13 @@ do
       newformat="${currformat}"
       formatlist=`grep -- "- Format:" "${album}"`
       newformatlist="${formatlist}"
-      cat "${formats}.txt" | while read format
+      while read format
       do
         [ "${format}" == "null" ] && format=
         [ "${format}" ] || continue
         echo "${currformat}" | grep "${format}" > /dev/null || {
           existing=`echo "${newformat}" | awk -F ':' ' { print $2 } '`
+          echo "${existing}" | grep ",$" > /dev/null && existing=
           if [ "${existing}" ]
           then
             newformat="${newformat}, ${format}"
@@ -77,27 +78,25 @@ do
             newformatlist="${newformatlist} ${format}"
           fi
         }
-      done
-      echo "${newformat}" > /tmp/__meta__
-      echo "${newformatlist}" > /tmp/__data__
-      [ -s /tmp/__meta__ ] && {
-        sed '/format:/c cat /tmp/__meta__' "${album}" > /tmp/foo$$
+      done < <(/bin/cat "${foutput}.txt")
+      [ -z "${newformat}" ] || {
+        sed "/format:/c ${newformat}" "${album}" > /tmp/foo$$
       }
-      [ -s /tmp/__data__ ] && {
+      [ -z "${newformatlist}" ] || {
         if [ -f /tmp/foo$$ ]
         then
-          sed '/- Format:/c cat /tmp/__data__' /tmp/foo$$ > /tmp/bar$$
+          sed "/- Format:/c ${newformatlist}" /tmp/foo$$ > /tmp/bar$$
         else
-          sed '/- Format:/c cat /tmp/__data__' "${album}" > /tmp/bar$$
+          sed "/- Format:/c ${newformatlist}" "${album}" > /tmp/bar$$
         fi
       }
       if [ -f /tmp/bar$$ ]
       then
         cp /tmp/bar$$ ${album}
       else
-        [ -f /tmp/foo$$ ] && cp /tmp/foo$$ ${album}
+        [ -f /tmp/foo$$ ] && cp /tmp/foo$$ "${album}"
       fi
-      rm -f /tmp/bar$$ /tmp/foo$$ /tmp/__meta__ /tmp/__data__ ${formats}.txt
+      rm -f /tmp/bar$$ /tmp/foo$$ ${foutput}.txt
     }
   done
 done

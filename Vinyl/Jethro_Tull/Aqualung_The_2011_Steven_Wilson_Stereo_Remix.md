@@ -4,7 +4,7 @@ title: Aqualung (The 2011 Steven Wilson Stereo Remix)
 artist: Jethro Tull
 label: Chrysalis, Chrysalis
 formats: Vinyl, 180g, Gatefold
-format: LP, Album, RE, RP, 180
+format: LP, Album, RE, RP, 180, Reissue, Repress, Stereo
 rating: 
 released: 2015
 year: 1971
@@ -30,7 +30,7 @@ By Jethro Tull
 - Catalog #: 0825646146604, AQUA 1
 - Label: Chrysalis, Chrysalis
 - Formats: Vinyl, 180g, Gatefold
-- Format: LP, Album, RE, RP, 180
+- Format: LP, Album, RE, RP, 180, Reissue, Repress, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1971

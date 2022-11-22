@@ -4,7 +4,7 @@ title: Face The Music
 artist: Electric Light Orchestra
 label: United Artists Records, Jet Records
 formats: Vinyl, RCA Hollywood Press
-format: LP, Album, RCA
+format: LP, Album, RCA, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Electric Light Orchestra
 - Catalog #: UA-LA546-G
 - Label: United Artists Records, Jet Records
 - Formats: Vinyl, RCA Hollywood Press
-- Format: LP, Album, RCA
+- Format: LP, Album, RCA, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

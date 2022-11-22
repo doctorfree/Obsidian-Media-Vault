@@ -4,7 +4,7 @@ title: After Bathing At Baxter's
 artist: Jefferson Airplane
 label: RCA Victor, Sony Music Commercial Music Group, Friday Music
 formats: Vinyl, Transparent, HQ-180
-format: LP, Album, RE, RM, Tra
+format: LP, Album, RE, RM, Tra, Reissue, Remastered, Stereo
 rating: 
 released: 2015
 year: 1967
@@ -30,7 +30,7 @@ By Jefferson Airplane
 - Catalog #: FRM-4545
 - Label: RCA Victor, Sony Music Commercial Music Group, Friday Music
 - Formats: Vinyl, Transparent, HQ-180
-- Format: LP, Album, RE, RM, Tra
+- Format: LP, Album, RE, RM, Tra, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1967

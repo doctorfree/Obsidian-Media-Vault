@@ -4,7 +4,7 @@ title: Rock Addict
 artist: So Reveal
 label: New Vinyl Productions
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1984
 year: null
@@ -30,7 +30,7 @@ By So Reveal
 - Catalog #: NV 001
 - Label: New Vinyl Productions
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1984
 - Year: null

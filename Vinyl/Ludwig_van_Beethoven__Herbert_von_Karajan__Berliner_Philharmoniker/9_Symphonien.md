@@ -4,7 +4,7 @@ title: 9 Symphonien
 artist: "Ludwig van Beethoven, Herbert von Karajan, Berliner Philharmoniker"
 label: Deutsche Grammophon
 formats: Vinyl
-format: 8xLP, Ltd, Num + Box, Ltd, Num
+format: 8xLP, Ltd, Num + Box, Ltd, Num, Limited Edition, Numbered, Stereo, Limited Edition, Numbered
 rating: 
 released: 2016
 year: 1963
@@ -30,7 +30,7 @@ By "Ludwig van Beethoven, Herbert von Karajan, Berliner Philharmoniker"
 - Catalog #: SKL 101/8
 - Label: Deutsche Grammophon
 - Formats: Vinyl
-- Format: 8xLP, Ltd, Num + Box, Ltd, Num
+- Format: 8xLP, Ltd, Num + Box, Ltd, Num, Limited Edition, Numbered, Stereo, Limited Edition, Numbered
 - Rating: 
 - Released: 2016
 - Year: 1963

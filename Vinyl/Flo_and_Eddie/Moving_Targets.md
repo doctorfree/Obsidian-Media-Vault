@@ -4,7 +4,7 @@ title: Moving Targets
 artist: Flo & Eddie
 label: Columbia
 formats: Vinyl, Santa Maria Pressing
-format: LP, Album, San
+format: LP, Album, San, Stereo
 rating: 
 released: 1976
 year: 1976
@@ -30,7 +30,7 @@ By Flo & Eddie
 - Catalog #: PC 34262
 - Label: Columbia
 - Formats: Vinyl, Santa Maria Pressing
-- Format: LP, Album, San
+- Format: LP, Album, San, Stereo
 - Rating: 
 - Released: 1976
 - Year: 1976

@@ -4,7 +4,7 @@ title: I Remember You / I Listen To My Heart
 artist: Frank Ifield
 label: Vee Jay Records
 formats: Vinyl, ARP pressing
-format: 7", Single, ARP
+format: 7", Single, ARP, 45 RPM
 rating: 
 released: 1962
 year: 1962
@@ -30,7 +30,7 @@ By Frank Ifield
 - Catalog #: VJ 457
 - Label: Vee Jay Records
 - Formats: Vinyl, ARP pressing
-- Format: 7", Single, ARP
+- Format: 7", Single, ARP, 45 RPM
 - Rating: 
 - Released: 1962
 - Year: 1962

@@ -4,7 +4,7 @@ title: Maverick
 artist: The Sons Of The Pioneers
 label: RCA Victor
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 0
 year: 1959
@@ -30,7 +30,7 @@ By The Sons Of The Pioneers
 - Catalog #: WBY-104
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 0
 - Year: 1959

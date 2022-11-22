@@ -4,7 +4,7 @@ title: "Dance, Dance, Dance"
 artist: The Beach Boys
 label: Capitol Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By The Beach Boys
 - Catalog #: 5306
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1964
 - Year: 1964

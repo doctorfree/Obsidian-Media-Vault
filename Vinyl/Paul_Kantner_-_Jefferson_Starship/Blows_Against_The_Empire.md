@@ -4,7 +4,7 @@ title: Blows Against The Empire
 artist: Paul Kantner / Jefferson Starship
 label: RCA Victor, Music On Vinyl, RCA, Legacy
 formats: Vinyl, 180 gram
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2009
 year: 1970
@@ -30,7 +30,7 @@ By Paul Kantner / Jefferson Starship
 - Catalog #: MOVLP011
 - Label: RCA Victor, Music On Vinyl, RCA, Legacy
 - Formats: Vinyl, 180 gram
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2009
 - Year: 1970

@@ -4,7 +4,7 @@ title: "Report To Congress April 19, 1951"
 artist: General Douglas MacArthur
 label: RCA Victor
 formats: Vinyl
-format: 3x7", Album + Box
+format: 3x7", Album + Box, 45 RPM
 rating: 
 released: 1951
 year: 1951
@@ -30,7 +30,7 @@ By General Douglas MacArthur
 - Catalog #: WP 317
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 3x7", Album + Box
+- Format: 3x7", Album + Box, 45 RPM
 - Rating: 
 - Released: 1951
 - Year: 1951

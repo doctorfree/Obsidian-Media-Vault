@@ -4,7 +4,7 @@ title: Riptide
 artist: Robert Palmer
 label: Island Records, Island Records
 formats: Vinyl, Specialty Pressing
-format: LP, Album, Spe
+format: LP, Album, Spe, Stereo
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Robert Palmer
 - Catalog #: 90471-1, 7 90471-1
 - Label: Island Records, Island Records
 - Formats: Vinyl, Specialty Pressing
-- Format: LP, Album, Spe
+- Format: LP, Album, Spe, Stereo
 - Rating: 
 - Released: 1985
 - Year: 1985

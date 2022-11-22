@@ -4,7 +4,7 @@ title: "Paint It, Black"
 artist: The Rolling Stones
 label: London Records
 formats: Vinyl, Pitman Pressing
-format: 7", Single, Pit
+format: 7", Single, Pit, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By The Rolling Stones
 - Catalog #: 45 LON 901
 - Label: London Records
 - Formats: Vinyl, Pitman Pressing
-- Format: 7", Single, Pit
+- Format: 7", Single, Pit, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

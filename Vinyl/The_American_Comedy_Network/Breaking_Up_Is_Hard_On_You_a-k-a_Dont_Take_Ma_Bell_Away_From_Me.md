@@ -4,7 +4,7 @@ title: Breaking Up Is Hard On You (a/k/a Don't Take Ma Bell Away From Me)
 artist: The American Comedy Network
 label: Critique
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1984
 year: 1984
@@ -28,7 +28,7 @@ By The American Comedy Network
 - Catalog #: CRI 704
 - Label: Critique
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1984
 - Year: 1984

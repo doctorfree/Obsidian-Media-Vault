@@ -4,7 +4,7 @@ title: My Generation
 artist: The Who
 label: Geffen Records, UMe
 formats: Vinyl, 180 gm
-format: LP, Album, Mono, RE, 180
+format: LP, Album, Mono, RE, 180, Reissue
 rating: 
 released: 2015
 year: 1965
@@ -30,7 +30,7 @@ By The Who
 - Catalog #: B0022558-01
 - Label: Geffen Records, UMe
 - Formats: Vinyl, 180 gm
-- Format: LP, Album, Mono, RE, 180
+- Format: LP, Album, Mono, RE, 180, Reissue
 - Rating: 
 - Released: 2015
 - Year: 1965

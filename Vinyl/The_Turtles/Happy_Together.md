@@ -4,7 +4,7 @@ title: Happy Together
 artist: The Turtles
 label: Manifesto (2)
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2013
 year: 1967
@@ -30,7 +30,7 @@ By The Turtles
 - Catalog #: MFO 48023
 - Label: Manifesto (2)
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2013
 - Year: 1967

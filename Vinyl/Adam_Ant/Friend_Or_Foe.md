@@ -4,7 +4,7 @@ title: Friend Or Foe
 artist: Adam Ant
 label: Epic
 formats: Vinyl, Terre Haute Pressing
-format: LP, Album, Ter
+format: LP, Album, Ter, Stereo
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By Adam Ant
 - Catalog #: ARE 38370
 - Label: Epic
 - Formats: Vinyl, Terre Haute Pressing
-- Format: LP, Album, Ter
+- Format: LP, Album, Ter, Stereo
 - Rating: 
 - Released: 1982
 - Year: 1982

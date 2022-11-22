@@ -4,7 +4,7 @@ title: Come Away With Me
 artist: Norah Jones
 label: Blue Note
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2004
 year: 2002
@@ -30,7 +30,7 @@ By Norah Jones
 - Catalog #: 7243 5 32088 1 3
 - Label: Blue Note
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2004
 - Year: 2002

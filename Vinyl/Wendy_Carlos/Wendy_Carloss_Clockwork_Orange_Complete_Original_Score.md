@@ -4,7 +4,7 @@ title: Wendy Carlos's Clockwork Orange (Complete Original Score)
 artist: Wendy Carlos
 label: East Side Digital
 formats: CD
-format: CD, Album, Enh, RM
+format: CD, Album, Enh, RM, Enhanced, Remastered
 rating: 
 released: 2000
 year: 1972
@@ -30,7 +30,7 @@ By Wendy Carlos
 - Catalog #: ESD 81362
 - Label: East Side Digital
 - Formats: CD
-- Format: CD, Album, Enh, RM
+- Format: CD, Album, Enh, RM, Enhanced, Remastered
 - Rating: 
 - Released: 2000
 - Year: 1972

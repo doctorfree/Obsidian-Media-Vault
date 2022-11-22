@@ -4,7 +4,7 @@ title: Thanks I'll Eat It Here
 artist: Lowell George
 label: Warner Bros. Records
 formats: Vinyl, Los Angeles Press
-format: LP, Album, Los
+format: LP, Album, Los, Stereo
 rating: 
 released: 1979
 year: 1979
@@ -30,7 +30,7 @@ By Lowell George
 - Catalog #: BSK 3194
 - Label: Warner Bros. Records
 - Formats: Vinyl, Los Angeles Press
-- Format: LP, Album, Los
+- Format: LP, Album, Los, Stereo
 - Rating: 
 - Released: 1979
 - Year: 1979

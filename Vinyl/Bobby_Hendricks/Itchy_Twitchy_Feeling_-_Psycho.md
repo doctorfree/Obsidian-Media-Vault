@@ -4,7 +4,7 @@ title: Itchy Twitchy Feeling / Psycho
 artist: Bobby Hendricks
 label: United Artists Records
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, 45 RPM, Reissue
 rating: 
 released: 0
 year: null
@@ -30,7 +30,7 @@ By Bobby Hendricks
 - Catalog #: XW142
 - Label: United Artists Records
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, 45 RPM, Reissue
 - Rating: 
 - Released: 0
 - Year: null

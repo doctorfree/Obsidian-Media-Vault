@@ -4,7 +4,7 @@ title: Love Is So Good When You're Stealing It
 artist: Z.Z. Hill
 label: Columbia
 formats: Vinyl
-format: 7", Single, Styrene
+format: 7", Single, Styrene, 45 RPM, Stereo
 rating: 
 released: 1977
 year: 1977
@@ -30,7 +30,7 @@ By Z.Z. Hill
 - Catalog #: 3-10552
 - Label: Columbia
 - Formats: Vinyl
-- Format: 7", Single, Styrene
+- Format: 7", Single, Styrene, 45 RPM, Stereo
 - Rating: 
 - Released: 1977
 - Year: 1977

@@ -4,7 +4,7 @@ title: The Time Has Come
 artist: The Chambers Brothers
 label: Columbia
 formats: Vinyl, Santa Maria Pressing
-format: LP, Album, San
+format: LP, Album, San, Stereo
 rating: 
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By The Chambers Brothers
 - Catalog #: CS 9522
 - Label: Columbia
 - Formats: Vinyl, Santa Maria Pressing
-- Format: LP, Album, San
+- Format: LP, Album, San, Stereo
 - Rating: 
 - Released: 1967
 - Year: 1967

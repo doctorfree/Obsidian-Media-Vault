@@ -4,7 +4,7 @@ title: Track Record
 artist: Joan Armatrading
 label: A&M Records
 formats: Vinyl, R - RCA Indianapolis Pressing
-format: LP, Comp, R -
+format: LP, Comp, R -, Compilation
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Joan Armatrading
 - Catalog #: SP-4987
 - Label: A&M Records
 - Formats: Vinyl, R - RCA Indianapolis Pressing
-- Format: LP, Comp, R -
+- Format: LP, Comp, R -, Compilation
 - Rating: 
 - Released: 1983
 - Year: 1983

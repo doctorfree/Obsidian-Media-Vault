@@ -4,7 +4,7 @@ title: Flash
 artist: Flash (25)
 label: Friday Music
 formats: Vinyl, 180 Gram, Gatefold
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2011
 year: 1972
@@ -30,7 +30,7 @@ By Flash (25)
 - Catalog #: FRM 11040
 - Label: Friday Music
 - Formats: Vinyl, 180 Gram, Gatefold
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2011
 - Year: 1972

@@ -4,7 +4,7 @@ title: Make A Move On Me
 artist: Olivia Newton-John
 label: MCA Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1982
 year: 1982
@@ -30,7 +30,7 @@ By Olivia Newton-John
 - Catalog #: MCA-52000
 - Label: MCA Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1982
 - Year: 1982

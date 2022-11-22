@@ -4,7 +4,7 @@ title: Where's The Money?
 artist: Dan Hicks And His Hot Licks
 label: Blue Thumb Records
 formats: Vinyl, Terre Haute
-format: LP, Album, RE, Ter
+format: LP, Album, RE, Ter, Reissue
 rating: 
 released: 1974
 year: 1971
@@ -30,7 +30,7 @@ By Dan Hicks And His Hot Licks
 - Catalog #: BTS 29
 - Label: Blue Thumb Records
 - Formats: Vinyl, Terre Haute
-- Format: LP, Album, RE, Ter
+- Format: LP, Album, RE, Ter, Reissue
 - Rating: 
 - Released: 1974
 - Year: 1971

@@ -4,7 +4,7 @@ title: Making Movies
 artist: Dire Straits
 label: Warner Bros. Records
 formats: Vinyl, Europadisk
-format: LP, Album, Eur
+format: LP, Album, Eur, Stereo
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Dire Straits
 - Catalog #: BSK 3480
 - Label: Warner Bros. Records
 - Formats: Vinyl, Europadisk
-- Format: LP, Album, Eur
+- Format: LP, Album, Eur, Stereo
 - Rating: 
 - Released: 1980
 - Year: 1980

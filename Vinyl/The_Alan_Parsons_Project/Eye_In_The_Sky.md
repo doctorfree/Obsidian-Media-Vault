@@ -4,7 +4,7 @@ title: Eye In The Sky
 artist: The Alan Parsons Project
 label: Music On Vinyl, Arista
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2012
 year: 1982
@@ -30,7 +30,7 @@ By The Alan Parsons Project
 - Catalog #: MOVLP188
 - Label: Music On Vinyl, Arista
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2012
 - Year: 1982

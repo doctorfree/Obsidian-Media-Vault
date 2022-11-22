@@ -4,7 +4,7 @@ title: Walk Don't Run
 artist: The Ventures
 label: Sundazed Music
 formats: Vinyl, Green Translucent
-format: LP, Album, Ltd, RE, RM, Gre
+format: LP, Album, Ltd, RE, RM, Gre, Reissue, Remastered, Limited Edition
 rating: 
 released: 2013
 year: 1960
@@ -30,7 +30,7 @@ By The Ventures
 - Catalog #: LP 5396
 - Label: Sundazed Music
 - Formats: Vinyl, Green Translucent
-- Format: LP, Album, Ltd, RE, RM, Gre
+- Format: LP, Album, Ltd, RE, RM, Gre, Reissue, Remastered, Limited Edition
 - Rating: 
 - Released: 2013
 - Year: 1960

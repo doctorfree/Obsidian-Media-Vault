@@ -4,7 +4,7 @@ title: Wee Tam
 artist: The Incredible String Band
 label: Elektra
 formats: Vinyl, Allentown Pressing
-format: LP, Album, All
+format: LP, Album, All, Stereo
 rating: 
 released: 1969
 year: 1968
@@ -30,7 +30,7 @@ By The Incredible String Band
 - Catalog #: EKS-74036
 - Label: Elektra
 - Formats: Vinyl, Allentown Pressing
-- Format: LP, Album, All
+- Format: LP, Album, All, Stereo
 - Rating: 
 - Released: 1969
 - Year: 1968

@@ -4,7 +4,7 @@ title: Sleep's Holy Mountain
 artist: Sleep
 label: Earache
 formats: Vinyl, Purple Transparent
-format: LP, Album, Ltd, RE, RM, RP, Pur
+format: LP, Album, Ltd, RE, RM, RP, Pur, Limited Edition, Reissue, Remastered, Repress, Stereo
 rating: 
 released: 2017
 year: 1992
@@ -30,7 +30,7 @@ By Sleep
 - Catalog #: MOSH079FDR
 - Label: Earache
 - Formats: Vinyl, Purple Transparent
-- Format: LP, Album, Ltd, RE, RM, RP, Pur
+- Format: LP, Album, Ltd, RE, RM, RP, Pur, Limited Edition, Reissue, Remastered, Repress, Stereo
 - Rating: 
 - Released: 2017
 - Year: 1992

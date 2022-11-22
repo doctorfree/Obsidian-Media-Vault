@@ -4,7 +4,7 @@ title: Venus
 artist: Bananarama
 label: London Records
 formats: Vinyl, Indianapolis Pressing
-format: 7", Ind
+format: 7", Ind, 45 RPM
 rating: 
 released: 1986
 year: 1986
@@ -30,7 +30,7 @@ By Bananarama
 - Catalog #: 886 056-7
 - Label: London Records
 - Formats: Vinyl, Indianapolis Pressing
-- Format: 7", Ind
+- Format: 7", Ind, 45 RPM
 - Rating: 
 - Released: 1986
 - Year: 1986

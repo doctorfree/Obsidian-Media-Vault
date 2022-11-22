@@ -4,7 +4,7 @@ title: The Traveling Wilburys Collection
 artist: Traveling Wilburys
 label: Concord Music Group, Inc.
 formats: Vinyl
-format: LP, Album, RE, RM + 12" + LP, Album, RE, RM + Box,
+format: LP, Album, RE, RM + 12" + LP, Album, RE, RM + Box, Reissue, Remastered, Reissue, Remastered, Compilation, Deluxe Edition, Limited Edition
 rating: 5
 released: 2016
 year: 2007
@@ -30,7 +30,7 @@ By Traveling Wilburys
 - Catalog #: CRE-39517-01
 - Label: Concord Music Group, Inc.
 - Formats: Vinyl
-- Format: LP, Album, RE, RM + 12" + LP, Album, RE, RM + Box,
+- Format: LP, Album, RE, RM + 12" + LP, Album, RE, RM + Box, Reissue, Remastered, Reissue, Remastered, Compilation, Deluxe Edition, Limited Edition
 - Rating: 5
 - Released: 2016
 - Year: 2007

@@ -4,7 +4,7 @@ title: Tom Tom Club
 artist: Tom Tom Club
 label: Real Gone Music
 formats: Vinyl, Blue & Yellow Starburst
-format: LP, Album, Ltd, RE, Blu
+format: LP, Album, Ltd, RE, Blu, Limited Edition, Reissue
 rating: 
 released: 2017
 year: 1981
@@ -30,7 +30,7 @@ By Tom Tom Club
 - Catalog #: RGM-0457
 - Label: Real Gone Music
 - Formats: Vinyl, Blue & Yellow Starburst
-- Format: LP, Album, Ltd, RE, Blu
+- Format: LP, Album, Ltd, RE, Blu, Limited Edition, Reissue
 - Rating: 
 - Released: 2017
 - Year: 1981

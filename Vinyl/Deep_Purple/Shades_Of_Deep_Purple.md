@@ -4,7 +4,7 @@ title: Shades Of Deep Purple
 artist: Deep Purple
 label: Parlophone, Parlophone
 formats: Vinyl, 180 g
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2015
 year: 1968
@@ -30,7 +30,7 @@ By Deep Purple
 - Catalog #: PCSR 7055, 0825646138357
 - Label: Parlophone, Parlophone
 - Formats: Vinyl, 180 g
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1968

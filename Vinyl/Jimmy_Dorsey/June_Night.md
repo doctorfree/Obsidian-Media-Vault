@@ -4,7 +4,7 @@ title: June Night
 artist: Jimmy Dorsey
 label: Goldies 45
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, 45 RPM, Reissue
 rating: 
 released: 1973
 year: null
@@ -30,7 +30,7 @@ By Jimmy Dorsey
 - Catalog #: D-2539
 - Label: Goldies 45
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, 45 RPM, Reissue
 - Rating: 
 - Released: 1973
 - Year: null

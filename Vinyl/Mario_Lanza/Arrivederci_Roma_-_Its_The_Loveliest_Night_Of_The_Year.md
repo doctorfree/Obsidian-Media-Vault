@@ -4,7 +4,7 @@ title: Arrivederci Roma / It's The Loveliest Night Of The Year
 artist: Mario Lanza
 label: RCA Italiana
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1957
 year: null
@@ -30,7 +30,7 @@ By Mario Lanza
 - Catalog #: 45N 0633
 - Label: RCA Italiana
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1957
 - Year: null

@@ -4,7 +4,7 @@ title: Hasten Down The Wind
 artist: Linda Ronstadt
 label: Mobile Fidelity Sound Lab
 formats: Vinyl, 180 Gram, Gatefold
-format: LP, Ltd, Num, RM, 180
+format: LP, Ltd, Num, RM, 180, Limited Edition, Numbered, Remastered, Stereo
 rating: 
 released: 2009
 year: 1976
@@ -30,7 +30,7 @@ By Linda Ronstadt
 - Catalog #: MFSL 1-319
 - Label: Mobile Fidelity Sound Lab
 - Formats: Vinyl, 180 Gram, Gatefold
-- Format: LP, Ltd, Num, RM, 180
+- Format: LP, Ltd, Num, RM, 180, Limited Edition, Numbered, Remastered, Stereo
 - Rating: 
 - Released: 2009
 - Year: 1976

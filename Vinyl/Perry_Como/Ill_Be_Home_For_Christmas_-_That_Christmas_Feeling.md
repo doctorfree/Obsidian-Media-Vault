@@ -4,7 +4,7 @@ title: I'll Be Home For Christmas / That Christmas Feeling
 artist: Perry Como
 label: RCA
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, Reissue
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By Perry Como
 - Catalog #: 447-0811
 - Label: RCA
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, Reissue
 - Rating: 
 - Released: 0
 - Year: 0

@@ -4,7 +4,7 @@ title: Déjà Vu
 artist: "Crosby, Stills, Nash & Young"
 label: Atlantic
 formats: Vinyl, PR - Presswell Pressing, Faux-Leather Gatefold
-format: LP, Album, PR 
+format: LP, Album, PR , Stereo
 rating: 
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By "Crosby, Stills, Nash & Young"
 - Catalog #: SD 7200
 - Label: Atlantic
 - Formats: Vinyl, PR - Presswell Pressing, Faux-Leather Gatefold
-- Format: LP, Album, PR 
+- Format: LP, Album, PR , Stereo
 - Rating: 
 - Released: 1970
 - Year: 1970

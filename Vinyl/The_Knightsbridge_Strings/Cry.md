@@ -4,7 +4,7 @@ title: Cry
 artist: The Knightsbridge Strings
 label: Top Rank International
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1959
 year: 1959
@@ -30,7 +30,7 @@ By The Knightsbridge Strings
 - Catalog #: RA-2006
 - Label: Top Rank International
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1959
 - Year: 1959

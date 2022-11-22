@@ -4,7 +4,7 @@ title: Little Drummer Boy / O Holy Night
 artist: The Harry Simeone Chorale
 label: Mistletoe Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 0
 year: 1963
@@ -30,7 +30,7 @@ By The Harry Simeone Chorale
 - Catalog #: MLS-800
 - Label: Mistletoe Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 0
 - Year: 1963

@@ -4,7 +4,7 @@ title: Master Of Reality
 artist: Black Sabbath
 label: Rhino Records (2), Warner Bros. Records
 formats: Vinyl, Green, 180g, Gatefold
-format: LP, Album, Ltd, RE, RM, Gre
+format: LP, Album, Ltd, RE, RM, Gre, Limited Edition, Reissue, Remastered
 rating: 
 released: 2016
 year: 1971
@@ -30,7 +30,7 @@ By Black Sabbath
 - Catalog #: RR1 2562, 2562
 - Label: Rhino Records (2), Warner Bros. Records
 - Formats: Vinyl, Green, 180g, Gatefold
-- Format: LP, Album, Ltd, RE, RM, Gre
+- Format: LP, Album, Ltd, RE, RM, Gre, Limited Edition, Reissue, Remastered
 - Rating: 
 - Released: 2016
 - Year: 1971

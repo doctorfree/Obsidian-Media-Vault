@@ -4,7 +4,7 @@ title: Tommy
 artist: The Who
 label: Geffen Records, UMe, Track Record
 formats: Vinyl, Gatefold
-format: 2xLP, Album, RE, RM, Gat
+format: 2xLP, Album, RE, RM, Gat, Reissue, Remastered, Stereo
 rating: 
 released: 2014
 year: 1969
@@ -30,7 +30,7 @@ By The Who
 - Catalog #: B0019527-01, 3715749
 - Label: Geffen Records, UMe, Track Record
 - Formats: Vinyl, Gatefold
-- Format: 2xLP, Album, RE, RM, Gat
+- Format: 2xLP, Album, RE, RM, Gat, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2014
 - Year: 1969

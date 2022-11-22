@@ -4,7 +4,7 @@ title: Mandrill Is
 artist: Mandrill
 label: Polydor, Polydor
 formats: Vinyl, Monarch Pressing
-format: LP, Album, Mon
+format: LP, Album, Mon, Stereo
 rating: 
 released: 1972
 year: 1972
@@ -30,7 +30,7 @@ By Mandrill
 - Catalog #: PD 5025, 2391 030
 - Label: Polydor, Polydor
 - Formats: Vinyl, Monarch Pressing
-- Format: LP, Album, Mon
+- Format: LP, Album, Mon, Stereo
 - Rating: 
 - Released: 1972
 - Year: 1972

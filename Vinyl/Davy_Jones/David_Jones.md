@@ -4,7 +4,7 @@ title: David Jones
 artist: Davy Jones
 label: Colpix Records, Colpix Records, Colpix Records
 formats: Vinyl, Monarch Pressing
-format: LP, Album, Mon
+format: LP, Album, Mon, Stereo
 rating: 
 released: 1965
 year: 1965
@@ -30,7 +30,7 @@ By Davy Jones
 - Catalog #: SCP-493, CP 493, 493
 - Label: Colpix Records, Colpix Records, Colpix Records
 - Formats: Vinyl, Monarch Pressing
-- Format: LP, Album, Mon
+- Format: LP, Album, Mon, Stereo
 - Rating: 
 - Released: 1965
 - Year: 1965

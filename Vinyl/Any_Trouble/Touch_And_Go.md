@@ -4,7 +4,7 @@ title: Touch And Go
 artist: Any Trouble
 label: EMI America
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Any Trouble
 - Catalog #: B-8166
 - Label: EMI America
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

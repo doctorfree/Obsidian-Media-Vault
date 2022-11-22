@@ -4,7 +4,7 @@ title: Physical Graffiti
 artist: Led Zeppelin
 label: Swan Song
 formats: Vinyl, 180g
-format: 2xLP, Album, RE, RM, 180
+format: 2xLP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2015
 year: 1975
@@ -30,7 +30,7 @@ By Led Zeppelin
 - Catalog #: R1-535339
 - Label: Swan Song
 - Formats: Vinyl, 180g
-- Format: 2xLP, Album, RE, RM, 180
+- Format: 2xLP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1975

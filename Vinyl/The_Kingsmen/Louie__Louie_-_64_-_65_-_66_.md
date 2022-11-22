@@ -4,7 +4,7 @@ title: "Louie, Louie - 64 - 65 - 66 ....."
 artist: The Kingsmen
 label: Wand
 formats: Vinyl, Terre Haute Pressing
-format: 7", Single, RE, Styrene, Ter
+format: 7", Single, RE, Styrene, Ter, 45 RPM, Reissue
 rating: 
 released: 1966
 year: 1963
@@ -30,7 +30,7 @@ By The Kingsmen
 - Catalog #: 143
 - Label: Wand
 - Formats: Vinyl, Terre Haute Pressing
-- Format: 7", Single, RE, Styrene, Ter
+- Format: 7", Single, RE, Styrene, Ter, 45 RPM, Reissue
 - Rating: 
 - Released: 1966
 - Year: 1963

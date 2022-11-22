@@ -4,7 +4,7 @@ title: Light The Sky On Fire
 artist: Jefferson Starship
 label: Grunt (3)
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM, Stereo
 rating: 
 released: 1979
 year: 1978
@@ -30,7 +30,7 @@ By Jefferson Starship
 - Catalog #: FB-11426
 - Label: Grunt (3)
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM, Stereo
 - Rating: 
 - Released: 1979
 - Year: 1978

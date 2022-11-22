@@ -4,7 +4,7 @@ title: Live At George's Club 20
 artist: Curtis Knight Featuring Jimi Hendrix
 label: Dagger Records, Sony Music
 formats: Vinyl
-format: 2xLP, Comp
+format: 2xLP, Comp, Compilation
 rating: 
 released: 2017
 year: 2017
@@ -28,7 +28,7 @@ By Curtis Knight Featuring Jimi Hendrix
 - Catalog #: 88985410171 
 - Label: Dagger Records, Sony Music
 - Formats: Vinyl
-- Format: 2xLP, Comp
+- Format: 2xLP, Comp, Compilation
 - Rating: 
 - Released: 2017
 - Year: 2017

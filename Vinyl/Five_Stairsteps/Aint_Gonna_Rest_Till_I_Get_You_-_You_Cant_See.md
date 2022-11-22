@@ -4,7 +4,7 @@ title: Ain't Gonna Rest (Till I Get You) / You Can't See
 artist: Five Stairsteps
 label: Windy C
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By Five Stairsteps
 - Catalog #: WC-605
 - Label: Windy C
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1967
 - Year: 1967

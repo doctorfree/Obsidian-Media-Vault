@@ -4,7 +4,7 @@ title: Future Shock
 artist: Herbie Hancock
 label: Columbia
 formats: Vinyl, Pitman Pressing
-format: LP, Album, Pit
+format: LP, Album, Pit, Stereo
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Herbie Hancock
 - Catalog #: FC 38814
 - Label: Columbia
 - Formats: Vinyl, Pitman Pressing
-- Format: LP, Album, Pit
+- Format: LP, Album, Pit, Stereo
 - Rating: 
 - Released: 1983
 - Year: 1983

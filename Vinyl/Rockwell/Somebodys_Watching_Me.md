@@ -4,7 +4,7 @@ title: Somebody's Watching Me
 artist: Rockwell
 label: Motown
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Rockwell
 - Catalog #: 1702 MF
 - Label: Motown
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

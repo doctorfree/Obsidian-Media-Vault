@@ -4,7 +4,7 @@ title: The Man Who Sold The World
 artist: David Bowie
 label: Parlophone, Parlophone
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2016
 year: 1970
@@ -30,7 +30,7 @@ By David Bowie
 - Catalog #: DB69732, 0825646287383
 - Label: Parlophone, Parlophone
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2016
 - Year: 1970

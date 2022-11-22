@@ -4,7 +4,7 @@ title: I Bet You They Won't Play This Song On The Radio
 artist: Monty Python
 label: Arista
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Monty Python
 - Catalog #: AS 0578
 - Label: Arista
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1980
 - Year: 1980

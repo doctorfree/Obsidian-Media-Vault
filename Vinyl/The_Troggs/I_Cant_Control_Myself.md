@@ -4,7 +4,7 @@ title: I Can't Control Myself
 artist: The Troggs
 label: ATCO Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By The Troggs
 - Catalog #: 45-6444
 - Label: ATCO Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

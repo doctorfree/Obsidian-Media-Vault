@@ -4,7 +4,7 @@ title: Manhole
 artist: Grace Slick
 label: Retroworld
 formats: Vinyl, 180 Gram
-format: LP, RE, 180
+format: LP, RE, 180, Reissue
 rating: 
 released: 2012
 year: 1973
@@ -30,7 +30,7 @@ By Grace Slick
 - Catalog #: FLOATLP6095
 - Label: Retroworld
 - Formats: Vinyl, 180 Gram
-- Format: LP, RE, 180
+- Format: LP, RE, 180, Reissue
 - Rating: 
 - Released: 2012
 - Year: 1973

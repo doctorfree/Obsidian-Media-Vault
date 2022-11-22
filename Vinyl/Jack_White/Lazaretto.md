@@ -4,7 +4,7 @@ title: Lazaretto
 artist: Jack White
 label: Third Man Records
 formats: Vinyl, Ultra LP
-format: LP, Album, Etch, Ult
+format: LP, Album, Etch, Ult, Etched
 rating: 
 released: 2014
 year: 2014
@@ -30,7 +30,7 @@ By Jack White
 - Catalog #: TMR-271
 - Label: Third Man Records
 - Formats: Vinyl, Ultra LP
-- Format: LP, Album, Etch, Ult
+- Format: LP, Album, Etch, Ult, Etched
 - Rating: 
 - Released: 2014
 - Year: 2014

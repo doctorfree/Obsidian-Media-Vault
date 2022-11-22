@@ -3,7 +3,7 @@ catalog: 88875007161
 title: The Pick Of Destiny
 artist: Tenacious D
 label: Epic, Legacy
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2014
 year: 2006
@@ -28,7 +28,7 @@ By Tenacious D
 
 - Catalog #: 88875007161
 - Label: Epic, Legacy
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2014
 - Year: 2006

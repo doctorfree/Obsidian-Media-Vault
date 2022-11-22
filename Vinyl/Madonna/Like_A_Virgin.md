@@ -4,7 +4,7 @@ title: Like A Virgin
 artist: Madonna
 label: Sire, Sire
 formats: Vinyl, RCA Music Service
-format: LP, Album, Club, RCA
+format: LP, Album, Club, RCA, Club Edition
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By Madonna
 - Catalog #: 9 25157-1, 1-25157
 - Label: Sire, Sire
 - Formats: Vinyl, RCA Music Service
-- Format: LP, Album, Club, RCA
+- Format: LP, Album, Club, RCA, Club Edition
 - Rating: 
 - Released: 1984
 - Year: 1984

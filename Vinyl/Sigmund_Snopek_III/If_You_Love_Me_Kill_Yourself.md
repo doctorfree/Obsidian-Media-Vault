@@ -4,7 +4,7 @@ title: If You Love Me Kill Yourself
 artist: Sigmund Snopek III
 label: Mountain Railroad Records
 formats: Vinyl
-format: 7", Promo
+format: 7", Promo, 45 RPM
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Sigmund Snopek III
 - Catalog #: MR-107
 - Label: Mountain Railroad Records
 - Formats: Vinyl
-- Format: 7", Promo
+- Format: 7", Promo, 45 RPM
 - Rating: 
 - Released: 1980
 - Year: 1980

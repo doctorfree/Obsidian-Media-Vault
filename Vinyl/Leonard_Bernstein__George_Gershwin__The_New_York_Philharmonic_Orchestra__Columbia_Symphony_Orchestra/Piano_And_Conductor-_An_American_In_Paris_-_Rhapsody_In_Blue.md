@@ -4,7 +4,7 @@ title: Piano And Conductor: An American In Paris / Rhapsody In Blue
 artist: "Leonard Bernstein, George Gershwin, The New York Philharmonic Orchestra, Columbia Symphony Orchestra"
 label: Vinyl Passion Classical
 formats: Vinyl
-format: 12", RE
+format: 12", RE, Reissue
 rating: 
 released: 2014
 year: 1959
@@ -30,7 +30,7 @@ By "Leonard Bernstein, George Gershwin, The New York Philharmonic Orchestra, Col
 - Catalog #: VPC 85002
 - Label: Vinyl Passion Classical
 - Formats: Vinyl
-- Format: 12", RE
+- Format: 12", RE, Reissue
 - Rating: 
 - Released: 2014
 - Year: 1959

@@ -4,7 +4,7 @@ title: "Blood, Sweat And Tears"
 artist: "Blood, Sweat And Tears"
 label: Friday Music
 formats: Vinyl, Gatefold
-format: LP, Ltd, RE, RM, Gat
+format: LP, Ltd, RE, RM, Gat, Limited Edition, Reissue, Remastered, Stereo
 rating: 
 released: 2015
 year: 1968
@@ -30,7 +30,7 @@ By "Blood, Sweat And Tears"
 - Catalog #: FRM-9720
 - Label: Friday Music
 - Formats: Vinyl, Gatefold
-- Format: LP, Ltd, RE, RM, Gat
+- Format: LP, Ltd, RE, RM, Gat, Limited Edition, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1968

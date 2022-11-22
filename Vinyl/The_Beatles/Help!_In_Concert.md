@@ -4,7 +4,7 @@ title: Help! In Concert
 artist: The Beatles
 label: Coda Publishing
 formats: Vinyl, Sky Blue Marbled
-format: LP, Mono, Ltd, Unofficial, Sky
+format: LP, Mono, Ltd, Unofficial, Sky, Limited Edition, Unofficial Release
 rating: 
 released: 2016
 year: 2016
@@ -30,7 +30,7 @@ By The Beatles
 - Catalog #: CPLVNY193
 - Label: Coda Publishing
 - Formats: Vinyl, Sky Blue Marbled
-- Format: LP, Mono, Ltd, Unofficial, Sky
+- Format: LP, Mono, Ltd, Unofficial, Sky, Limited Edition, Unofficial Release
 - Rating: 
 - Released: 2016
 - Year: 2016

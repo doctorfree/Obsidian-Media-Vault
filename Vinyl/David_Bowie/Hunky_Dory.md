@@ -4,7 +4,7 @@ title: Hunky Dory
 artist: David Bowie
 label: Parlophone, Parlophone, Parlophone, Parlophone
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2016
 year: 1971
@@ -30,7 +30,7 @@ By David Bowie
 - Catalog #: 0825646289448, DB69733, DB 69733, DBXL1
 - Label: Parlophone, Parlophone, Parlophone, Parlophone
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2016
 - Year: 1971

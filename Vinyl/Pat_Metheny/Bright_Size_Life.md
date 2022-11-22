@@ -4,7 +4,7 @@ title: Bright Size Life
 artist: Pat Metheny
 label: ECM Records
 formats: Vinyl, Wakefield Pressing
-format: LP, Album, RE, Wak
+format: LP, Album, RE, Wak, Reissue
 rating: 
 released: 0
 year: 1976
@@ -30,7 +30,7 @@ By Pat Metheny
 - Catalog #: ECM-1-1073
 - Label: ECM Records
 - Formats: Vinyl, Wakefield Pressing
-- Format: LP, Album, RE, Wak
+- Format: LP, Album, RE, Wak, Reissue
 - Rating: 
 - Released: 0
 - Year: 1976

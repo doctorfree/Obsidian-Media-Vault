@@ -4,7 +4,7 @@ title: The Original Soundtrack
 artist: 10cc
 label: Mercury
 formats: Vinyl, Pitman Press, Gatefold
-format: LP, Album, Pit
+format: LP, Album, Pit, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By 10cc
 - Catalog #: SRM-1-1029
 - Label: Mercury
 - Formats: Vinyl, Pitman Press, Gatefold
-- Format: LP, Album, Pit
+- Format: LP, Album, Pit, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

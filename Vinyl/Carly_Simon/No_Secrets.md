@@ -4,7 +4,7 @@ title: No Secrets
 artist: Carly Simon
 label: Friday Music
 formats: Vinyl, 180g
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2009
 year: 1972
@@ -30,7 +30,7 @@ By Carly Simon
 - Catalog #: FRM 9007
 - Label: Friday Music
 - Formats: Vinyl, 180g
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2009
 - Year: 1972

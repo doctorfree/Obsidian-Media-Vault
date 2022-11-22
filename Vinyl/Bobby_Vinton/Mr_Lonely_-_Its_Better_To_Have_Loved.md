@@ -4,7 +4,7 @@ title: Mr. Lonely / It's Better To Have Loved
 artist: Bobby Vinton
 label: Epic
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By Bobby Vinton
 - Catalog #: 5-9730
 - Label: Epic
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1964
 - Year: 1964

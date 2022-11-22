@@ -4,7 +4,7 @@ title: Innerspeaker
 artist: Tame Impala
 label: Modular Recordings
 formats: Vinyl
-format: 2xLP, Album, RE
+format: 2xLP, Album, RE, Reissue
 rating: 
 released: 2011
 year: 2010
@@ -30,7 +30,7 @@ By Tame Impala
 - Catalog #: MODVL128
 - Label: Modular Recordings
 - Formats: Vinyl
-- Format: 2xLP, Album, RE
+- Format: 2xLP, Album, RE, Reissue
 - Rating: 
 - Released: 2011
 - Year: 2010

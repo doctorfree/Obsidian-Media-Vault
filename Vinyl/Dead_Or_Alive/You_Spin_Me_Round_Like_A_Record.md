@@ -4,7 +4,7 @@ title: You Spin Me Round (Like A Record)
 artist: Dead Or Alive
 label: Epic
 formats: Vinyl, Pitman Pressing
-format: 7", Single, Styrene, Pit
+format: 7", Single, Styrene, Pit, 45 RPM, Stereo
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By Dead Or Alive
 - Catalog #: 34-04894
 - Label: Epic
 - Formats: Vinyl, Pitman Pressing
-- Format: 7", Single, Styrene, Pit
+- Format: 7", Single, Styrene, Pit, 45 RPM, Stereo
 - Rating: 
 - Released: 1984
 - Year: 1984

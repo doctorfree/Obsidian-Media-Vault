@@ -4,7 +4,7 @@ title: Simple Dreams
 artist: Linda Ronstadt
 label: Mobile Fidelity Sound Lab
 formats: Vinyl, 180 Gram, Gatefold
-format: LP, Ltd, Num, RE, RM, 180
+format: LP, Ltd, Num, RE, RM, 180, Limited Edition, Numbered, Reissue, Remastered
 rating: 
 released: 2010
 year: 1977
@@ -30,7 +30,7 @@ By Linda Ronstadt
 - Catalog #: MFSL 1-321
 - Label: Mobile Fidelity Sound Lab
 - Formats: Vinyl, 180 Gram, Gatefold
-- Format: LP, Ltd, Num, RE, RM, 180
+- Format: LP, Ltd, Num, RE, RM, 180, Limited Edition, Numbered, Reissue, Remastered
 - Rating: 
 - Released: 2010
 - Year: 1977

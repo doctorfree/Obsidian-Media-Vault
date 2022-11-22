@@ -4,7 +4,7 @@ title: Rhumbas
 artist: Chuy Reyes & His Orchestra
 label: Capitol Records
 formats: Vinyl
-format: 4x7", Album + Box
+format: 4x7", Album + Box, 45 RPM
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By Chuy Reyes & His Orchestra
 - Catalog #: CDF 259
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 4x7", Album + Box
+- Format: 4x7", Album + Box, 45 RPM
 - Rating: 
 - Released: 0
 - Year: 0

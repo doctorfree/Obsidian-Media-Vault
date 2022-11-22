@@ -4,7 +4,7 @@ title: The Best Of Herman's Hermits
 artist: Herman's Hermits
 label: MGM Records, MGM Records
 formats: Vinyl, Gatefold
-format: LP, Comp, Mono, Gat
+format: LP, Comp, Mono, Gat, Compilation
 rating: 
 released: 1965
 year: 1965
@@ -30,7 +30,7 @@ By Herman's Hermits
 - Catalog #: E4315, E-4315
 - Label: MGM Records, MGM Records
 - Formats: Vinyl, Gatefold
-- Format: LP, Comp, Mono, Gat
+- Format: LP, Comp, Mono, Gat, Compilation
 - Rating: 
 - Released: 1965
 - Year: 1965

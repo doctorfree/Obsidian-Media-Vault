@@ -4,7 +4,7 @@ title: Whole Lotta Love
 artist: Led Zeppelin
 label: Atlantic
 formats: Vinyl, PL - Plastic Products Pressing
-format: 7", Single, PL 
+format: 7", Single, PL , 45 RPM
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By Led Zeppelin
 - Catalog #: 45-2690
 - Label: Atlantic
 - Formats: Vinyl, PL - Plastic Products Pressing
-- Format: 7", Single, PL 
+- Format: 7", Single, PL , 45 RPM
 - Rating: 
 - Released: 1969
 - Year: 1969

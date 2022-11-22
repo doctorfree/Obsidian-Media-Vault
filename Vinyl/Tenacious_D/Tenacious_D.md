@@ -4,7 +4,7 @@ title: Tenacious D
 artist: Tenacious D
 label: Epic, Legacy, Epic, Legacy, Epic, Legacy
 formats: Vinyl, 180 gram, 12th Anniversary Edition, Gatefold
-format: 2xLP, Album, RE, 180
+format: 2xLP, Album, RE, 180, Reissue
 rating: 
 released: 2013
 year: 2001
@@ -30,7 +30,7 @@ By Tenacious D
 - Catalog #: 88765460791, 88765460791S2, 88765460791S3
 - Label: Epic, Legacy, Epic, Legacy, Epic, Legacy
 - Formats: Vinyl, 180 gram, 12th Anniversary Edition, Gatefold
-- Format: 2xLP, Album, RE, 180
+- Format: 2xLP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2013
 - Year: 2001

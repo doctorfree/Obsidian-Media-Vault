@@ -4,7 +4,7 @@ title: American Girl / Vicious Circle
 artist: Max Strom
 label: Magazine Records (3)
 formats: Vinyl, Private Pressing
-format: 12", Single, Pri
+format: 12", Single, Pri, 45 RPM
 rating: 
 released: 1983
 year: null
@@ -28,7 +28,7 @@ By Max Strom
 - Catalog #: MR001
 - Label: Magazine Records (3)
 - Formats: Vinyl, Private Pressing
-- Format: 12", Single, Pri
+- Format: 12", Single, Pri, 45 RPM
 - Rating: 
 - Released: 1983
 - Year: null

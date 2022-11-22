@@ -4,7 +4,7 @@ title: Elton John
 artist: Elton John
 label: Mercury, DJM Records (2)
 formats: Vinyl, Gatefold
-format: LP, Album, RE, RM, Gat
+format: LP, Album, RE, RM, Gat, Reissue, Remastered
 rating: 
 released: 2017
 year: 1970
@@ -30,7 +30,7 @@ By Elton John
 - Catalog #: 5707094
 - Label: Mercury, DJM Records (2)
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, RE, RM, Gat
+- Format: LP, Album, RE, RM, Gat, Reissue, Remastered
 - Rating: 
 - Released: 2017
 - Year: 1970

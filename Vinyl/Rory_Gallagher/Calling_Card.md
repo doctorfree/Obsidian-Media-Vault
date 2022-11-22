@@ -4,7 +4,7 @@ title: Calling Card
 artist: Rory Gallagher
 label: Music On Vinyl, Capo (2), Sony Music, Legacy
 formats: Vinyl, 180 Gram
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2012
 year: 1976
@@ -30,7 +30,7 @@ By Rory Gallagher
 - Catalog #: MOVLP623
 - Label: Music On Vinyl, Capo (2), Sony Music, Legacy
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2012
 - Year: 1976

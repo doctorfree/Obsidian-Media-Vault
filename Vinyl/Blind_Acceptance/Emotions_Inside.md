@@ -4,7 +4,7 @@ title: Emotions Inside
 artist: Blind Acceptance
 label: Not On Label (Blind Acceptance Self-released)
 formats: Vinyl
-format: 7"
+format: 7", 33 ⅓ RPM
 rating: 
 released: 1985
 year: null
@@ -30,7 +30,7 @@ By Blind Acceptance
 - Catalog #: none
 - Label: Not On Label (Blind Acceptance Self-released)
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 33 ⅓ RPM
 - Rating: 
 - Released: 1985
 - Year: null

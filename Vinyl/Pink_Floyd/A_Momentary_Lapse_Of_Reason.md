@@ -4,7 +4,7 @@ title: A Momentary Lapse Of Reason
 artist: Pink Floyd
 label: Pink Floyd Records, Pink Floyd Records
 formats: Vinyl, Gatefold, 180g
-format: LP, Album, RE, RM, Gat
+format: LP, Album, RE, RM, Gat, Reissue, Remastered
 rating: 
 released: 2017
 year: 1987
@@ -30,7 +30,7 @@ By Pink Floyd
 - Catalog #: PFRLP13, 88875184301
 - Label: Pink Floyd Records, Pink Floyd Records
 - Formats: Vinyl, Gatefold, 180g
-- Format: LP, Album, RE, RM, Gat
+- Format: LP, Album, RE, RM, Gat, Reissue, Remastered
 - Rating: 
 - Released: 2017
 - Year: 1987

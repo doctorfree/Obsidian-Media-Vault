@@ -4,7 +4,7 @@ title: Freeway Of Love
 artist: Aretha Franklin
 label: Arista
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Aretha Franklin
 - Catalog #: AS1-9354
 - Label: Arista
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1985
 - Year: 1985

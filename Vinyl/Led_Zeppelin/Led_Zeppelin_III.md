@@ -4,7 +4,7 @@ title: Led Zeppelin III
 artist: Led Zeppelin
 label: Atlantic, Atlantic
 formats: Vinyl, Gatefold, 180 Gram, Tri-Fold Sleeve
-format: 2xLP, Album, Dlx, RE, RM, Gat
+format: 2xLP, Album, Dlx, RE, RM, Gat, Deluxe Edition, Reissue, Remastered
 rating: 
 released: 2014
 year: 1970
@@ -30,7 +30,7 @@ By Led Zeppelin
 - Catalog #: R1-536182, 8122796436
 - Label: Atlantic, Atlantic
 - Formats: Vinyl, Gatefold, 180 Gram, Tri-Fold Sleeve
-- Format: 2xLP, Album, Dlx, RE, RM, Gat
+- Format: 2xLP, Album, Dlx, RE, RM, Gat, Deluxe Edition, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1970

@@ -4,7 +4,7 @@ title: Big River
 artist: Johnny Cash
 label: Sun (9)
 formats: Vinyl, Yellow Vinyl
-format: 7", Single, Promo, Yel
+format: 7", Single, Promo, Yel, 45 RPM
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By Johnny Cash
 - Catalog #: SI-1121
 - Label: Sun (9)
 - Formats: Vinyl, Yellow Vinyl
-- Format: 7", Single, Promo, Yel
+- Format: 7", Single, Promo, Yel, 45 RPM
 - Rating: 
 - Released: 1969
 - Year: 1969

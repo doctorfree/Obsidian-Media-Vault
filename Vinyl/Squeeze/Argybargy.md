@@ -4,7 +4,7 @@ title: Argybargy
 artist: Squeeze
 label: A&M Records
 formats: Vinyl, Santa Maria Pressing
-format: LP, Album, San
+format: LP, Album, San, Stereo
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Squeeze
 - Catalog #: SP-4802
 - Label: A&M Records
 - Formats: Vinyl, Santa Maria Pressing
-- Format: LP, Album, San
+- Format: LP, Album, San, Stereo
 - Rating: 
 - Released: 1980
 - Year: 1980

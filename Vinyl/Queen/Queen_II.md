@@ -4,7 +4,7 @@ title: Queen II
 artist: Queen
 label: Hollywood Records
 formats: Vinyl, Gatefold, 180 Gram
-format: LP, Album, RE, RM, Gat
+format: LP, Album, RE, RM, Gat, Reissue, Remastered
 rating: 
 released: 2008
 year: 1974
@@ -30,7 +30,7 @@ By Queen
 - Catalog #: D000261801
 - Label: Hollywood Records
 - Formats: Vinyl, Gatefold, 180 Gram
-- Format: LP, Album, RE, RM, Gat
+- Format: LP, Album, RE, RM, Gat, Reissue, Remastered
 - Rating: 
 - Released: 2008
 - Year: 1974

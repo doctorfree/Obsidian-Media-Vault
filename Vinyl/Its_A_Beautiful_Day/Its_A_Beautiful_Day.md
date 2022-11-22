@@ -4,7 +4,7 @@ title: It's A Beautiful Day
 artist: It's A Beautiful Day
 label: Columbia
 formats: Vinyl, Santa Maria Press, Gatefold
-format: LP, Album, San
+format: LP, Album, San, Stereo
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By It's A Beautiful Day
 - Catalog #: CS 9768
 - Label: Columbia
 - Formats: Vinyl, Santa Maria Press, Gatefold
-- Format: LP, Album, San
+- Format: LP, Album, San, Stereo
 - Rating: 
 - Released: 1969
 - Year: 1969

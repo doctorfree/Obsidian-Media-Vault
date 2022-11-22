@@ -4,7 +4,7 @@ title: (We Ain't Got) Nothin' Yet
 artist: Blues Magoos
 label: Mercury
 formats: Vinyl, Mercury Pressing
-format: 7", Single, Styrene, Mer
+format: 7", Single, Styrene, Mer, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By Blues Magoos
 - Catalog #: 72622
 - Label: Mercury
 - Formats: Vinyl, Mercury Pressing
-- Format: 7", Single, Styrene, Mer
+- Format: 7", Single, Styrene, Mer, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

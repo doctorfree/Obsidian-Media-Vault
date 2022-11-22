@@ -4,7 +4,7 @@ title: Close To The Edge
 artist: Yes
 label: Atlantic
 formats: Vinyl, Gatefold, 180 Gram
-format: LP, Album, Ltd, RE, Gat
+format: LP, Album, Ltd, RE, Gat, Limited Edition, Reissue
 rating: 
 released: 2012
 year: 1972
@@ -30,7 +30,7 @@ By Yes
 - Catalog #: 8122797157
 - Label: Atlantic
 - Formats: Vinyl, Gatefold, 180 Gram
-- Format: LP, Album, Ltd, RE, Gat
+- Format: LP, Album, Ltd, RE, Gat, Limited Edition, Reissue
 - Rating: 
 - Released: 2012
 - Year: 1972

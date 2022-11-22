@@ -4,7 +4,7 @@ title: Striking It Rich!
 artist: Dan Hicks And His Hot Licks
 label: MCA Records
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Reissue
 rating: 
 released: 1980
 year: 1972
@@ -30,7 +30,7 @@ By Dan Hicks And His Hot Licks
 - Catalog #: MCA-670
 - Label: MCA Records
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Reissue
 - Rating: 
 - Released: 1980
 - Year: 1972

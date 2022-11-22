@@ -4,7 +4,7 @@ title: Sunshine Superman
 artist: Donovan
 label: Sundazed Music, Epic
 formats: Vinyl, 180 Gram
-format: LP, Album, Mono, RE, 180
+format: LP, Album, Mono, RE, 180, Reissue
 rating: 
 released: 2005
 year: 1966
@@ -30,7 +30,7 @@ By Donovan
 - Catalog #: LP 5028
 - Label: Sundazed Music, Epic
 - Formats: Vinyl, 180 Gram
-- Format: LP, Album, Mono, RE, 180
+- Format: LP, Album, Mono, RE, 180, Reissue
 - Rating: 
 - Released: 2005
 - Year: 1966

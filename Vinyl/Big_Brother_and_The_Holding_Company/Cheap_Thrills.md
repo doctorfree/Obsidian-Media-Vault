@@ -4,7 +4,7 @@ title: Cheap Thrills
 artist: Big Brother & The Holding Company
 label: Legacy, Columbia
 formats: Vinyl, Gatefold
-format: LP, Album, Mono, Ltd, Num, RE, Gat
+format: LP, Album, Mono, Ltd, Num, RE, Gat, Limited Edition, Numbered, Reissue
 rating: 
 released: 2012
 year: 1968
@@ -30,7 +30,7 @@ By Big Brother & The Holding Company
 - Catalog #: 88691947991, KCL 2900
 - Label: Legacy, Columbia
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, Mono, Ltd, Num, RE, Gat
+- Format: LP, Album, Mono, Ltd, Num, RE, Gat, Limited Edition, Numbered, Reissue
 - Rating: 
 - Released: 2012
 - Year: 1968

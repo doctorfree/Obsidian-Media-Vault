@@ -4,7 +4,7 @@ title: Wonderland
 artist: XTC
 label: Virgin
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By XTC
 - Catalog #: VS606
 - Label: Virgin
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

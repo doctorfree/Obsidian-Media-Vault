@@ -4,7 +4,7 @@ title: ...Like Clockwork
 artist: Queens Of The Stone Age
 label: Matador
 formats: Vinyl
-format: 2x12", Album
+format: 2x12", Album, 45 RPM
 rating: 5
 released: 2013
 year: 2013
@@ -30,7 +30,7 @@ By Queens Of The Stone Age
 - Catalog #: OLE-1040-1
 - Label: Matador
 - Formats: Vinyl
-- Format: 2x12", Album
+- Format: 2x12", Album, 45 RPM
 - Rating: 5
 - Released: 2013
 - Year: 2013

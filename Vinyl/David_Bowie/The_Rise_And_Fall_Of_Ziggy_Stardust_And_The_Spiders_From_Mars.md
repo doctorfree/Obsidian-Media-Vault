@@ -4,7 +4,7 @@ title: The Rise And Fall Of Ziggy Stardust And The Spiders From Mars
 artist: David Bowie
 label: RCA Victor
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 1977
 year: 1972
@@ -30,7 +30,7 @@ By David Bowie
 - Catalog #: AFL1-4702
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 1977
 - Year: 1972

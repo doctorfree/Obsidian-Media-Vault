@@ -4,7 +4,7 @@ title: Irish Tour '74..
 artist: Rory Gallagher
 label: Music On Vinyl, Sony Music, Capo (2), Legacy
 formats: Vinyl, 180 Gram
-format: 3xLP, Album, RE, RM, 180
+format: 3xLP, Album, RE, RM, 180, Reissue, Remastered
 rating: 
 released: 2014
 year: 1974
@@ -30,7 +30,7 @@ By Rory Gallagher
 - Catalog #: MOVLP1262
 - Label: Music On Vinyl, Sony Music, Capo (2), Legacy
 - Formats: Vinyl, 180 Gram
-- Format: 3xLP, Album, RE, RM, 180
+- Format: 3xLP, Album, RE, RM, 180, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1974

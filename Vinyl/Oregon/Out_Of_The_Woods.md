@@ -4,7 +4,7 @@ title: Out Of The Woods
 artist: Oregon
 label: Elektra
 formats: Vinyl, PRC-W Compton Pressing, Gatefold
-format: LP, Album, RE, PRC
+format: LP, Album, RE, PRC, Reissue, Stereo
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By Oregon
 - Catalog #: 6E-154
 - Label: Elektra
 - Formats: Vinyl, PRC-W Compton Pressing, Gatefold
-- Format: LP, Album, RE, PRC
+- Format: LP, Album, RE, PRC, Reissue, Stereo
 - Rating: 
 - Released: 0
 - Year: 0

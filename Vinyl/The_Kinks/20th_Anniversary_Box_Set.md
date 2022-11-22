@@ -4,7 +4,7 @@ title: 20th Anniversary Box Set
 artist: The Kinks
 label: PRT
 formats: Vinyl
-format: 3xLP, RE + Box, Comp
+format: 3xLP, RE + Box, Comp, Reissue, Compilation
 rating: 
 released: 1984
 year: 1984
@@ -30,7 +30,7 @@ By The Kinks
 - Catalog #: KINKX 7254
 - Label: PRT
 - Formats: Vinyl
-- Format: 3xLP, RE + Box, Comp
+- Format: 3xLP, RE + Box, Comp, Reissue, Compilation
 - Rating: 
 - Released: 1984
 - Year: 1984

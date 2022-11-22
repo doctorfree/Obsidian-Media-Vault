@@ -4,7 +4,7 @@ title: John Barleycorn Must Die
 artist: Traffic
 label: Island Records, Island Records
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue, Stereo
 rating: 
 released: 1982
 year: 1970
@@ -30,7 +30,7 @@ By Traffic
 - Catalog #: 90058-1, 7 90058-1
 - Label: Island Records, Island Records
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue, Stereo
 - Rating: 
 - Released: 1982
 - Year: 1970

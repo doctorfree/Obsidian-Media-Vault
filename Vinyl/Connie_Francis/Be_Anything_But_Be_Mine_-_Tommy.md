@@ -4,7 +4,7 @@ title: Be Anything (But Be Mine) / Tommy
 artist: Connie Francis
 label: MGM Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1964
 year: 1964
@@ -30,7 +30,7 @@ By Connie Francis
 - Catalog #: K 13237
 - Label: MGM Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1964
 - Year: 1964

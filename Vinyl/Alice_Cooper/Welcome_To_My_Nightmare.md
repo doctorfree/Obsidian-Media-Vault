@@ -4,7 +4,7 @@ title: Welcome To My Nightmare
 artist: Alice Cooper (2)
 label: Atlantic
 formats: Vinyl, Monarch Pressing
-format: LP, Album, Mon
+format: LP, Album, Mon, Stereo
 rating: 
 released: 1975
 year: 1975
@@ -30,7 +30,7 @@ By Alice Cooper
 - Catalog #: SD 18130
 - Label: Atlantic
 - Formats: Vinyl, Monarch Pressing
-- Format: LP, Album, Mon
+- Format: LP, Album, Mon, Stereo
 - Rating: 
 - Released: 1975
 - Year: 1975

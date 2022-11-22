@@ -4,7 +4,7 @@ title: Songs In The Key Of Life
 artist: Stevie Wonder
 label: Tamla
 formats: Vinyl, Waddell Press
-format: 2xLP, Wad + 7", EP + Album
+format: 2xLP, Wad + 7", EP + Album, 33 ⅓ RPM, Stereo
 rating: 
 released: 1976
 year: 1976
@@ -30,7 +30,7 @@ By Stevie Wonder
 - Catalog #: T13-340C2
 - Label: Tamla
 - Formats: Vinyl, Waddell Press
-- Format: 2xLP, Wad + 7", EP + Album
+- Format: 2xLP, Wad + 7", EP + Album, 33 ⅓ RPM, Stereo
 - Rating: 
 - Released: 1976
 - Year: 1976

@@ -4,7 +4,7 @@ title: Marcy Playground
 artist: Marcy Playground
 label: Slow Down Sounds, Universal Music Special Markets, Slow Down Sounds
 formats: Vinyl
-format: LP, Album, RE + 7" + Ltd
+format: LP, Album, RE + 7" + Ltd, Reissue, 45 RPM, Limited Edition
 rating: 
 released: 2017
 year: 1997
@@ -30,7 +30,7 @@ By Marcy Playground
 - Catalog #: SDS-1501, B0026075-01, SDS-45-1501
 - Label: Slow Down Sounds, Universal Music Special Markets, Slow Down Sounds
 - Formats: Vinyl
-- Format: LP, Album, RE + 7" + Ltd
+- Format: LP, Album, RE + 7" + Ltd, Reissue, 45 RPM, Limited Edition
 - Rating: 
 - Released: 2017
 - Year: 1997

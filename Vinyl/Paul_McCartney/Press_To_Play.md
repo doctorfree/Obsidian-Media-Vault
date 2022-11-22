@@ -4,7 +4,7 @@ title: Press To Play
 artist: Paul McCartney
 label: Capitol Records, MPL (2)
 formats: Vinyl, Gatefold
-format: LP, Album, Gat
+format: LP, Album, Gat, Stereo
 rating: 
 released: 1986
 year: 1986
@@ -30,7 +30,7 @@ By Paul McCartney
 - Catalog #: PJAS-12475
 - Label: Capitol Records, MPL (2)
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, Gat
+- Format: LP, Album, Gat, Stereo
 - Rating: 
 - Released: 1986
 - Year: 1986

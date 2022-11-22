@@ -4,7 +4,7 @@ title: Monterey
 artist: Eric Burdon & The Animals
 label: MGM Records, MGM Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By Eric Burdon & The Animals
 - Catalog #: K13868, K-13868
 - Label: MGM Records, MGM Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1967
 - Year: 1967

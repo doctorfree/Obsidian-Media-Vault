@@ -4,7 +4,7 @@ title: So Alone
 artist: Johnny Thunders
 label: Drastic Plastic Records
 formats: Vinyl, 200 gram
-format: LP, Album, Ltd, Num, RE, RM, 200
+format: LP, Album, Ltd, Num, RE, RM, 200, Limited Edition, Numbered, Reissue, Remastered
 rating: 
 released: 2014
 year: 1978
@@ -30,7 +30,7 @@ By Johnny Thunders
 - Catalog #: DPRLP38
 - Label: Drastic Plastic Records
 - Formats: Vinyl, 200 gram
-- Format: LP, Album, Ltd, Num, RE, RM, 200
+- Format: LP, Album, Ltd, Num, RE, RM, 200, Limited Edition, Numbered, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1978

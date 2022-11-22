@@ -4,7 +4,7 @@ title: I Don't Wanna Get Drafted!
 artist: Frank Zappa
 label: Zappa Records, Zappa Records
 formats: Vinyl, Pitman Pressing
-format: 7", Single, Styrene, Pit
+format: 7", Single, Styrene, Pit, 45 RPM, Stereo
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Frank Zappa
 - Catalog #: ZR 1001, WS7-73000
 - Label: Zappa Records, Zappa Records
 - Formats: Vinyl, Pitman Pressing
-- Format: 7", Single, Styrene, Pit
+- Format: 7", Single, Styrene, Pit, 45 RPM, Stereo
 - Rating: 
 - Released: 1980
 - Year: 1980

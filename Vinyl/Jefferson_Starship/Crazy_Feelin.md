@@ -4,7 +4,7 @@ title: Crazy Feelin'
 artist: Jefferson Starship
 label: Grunt (3)
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM, Stereo
 rating: 
 released: 1978
 year: 1978
@@ -30,7 +30,7 @@ By Jefferson Starship
 - Catalog #: FB-11374
 - Label: Grunt (3)
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM, Stereo
 - Rating: 
 - Released: 1978
 - Year: 1978

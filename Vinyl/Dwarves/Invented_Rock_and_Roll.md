@@ -4,7 +4,7 @@ title: Invented Rock & Roll
 artist: Dwarves
 label: Burger Records
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2016
 year: 2014
@@ -30,7 +30,7 @@ By Dwarves
 - Catalog #: BRGR-741
 - Label: Burger Records
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2016
 - Year: 2014

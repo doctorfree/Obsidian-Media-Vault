@@ -4,7 +4,7 @@ title: Something's Gotta Give / Rhythm 'N' Blues
 artist: McGuire Sisters
 label: Coral
 formats: Vinyl, Gloversville Pressing
-format: 7", Single, Glo
+format: 7", Single, Glo, 45 RPM
 rating: 
 released: 1955
 year: 1955
@@ -30,7 +30,7 @@ By McGuire Sisters
 - Catalog #: 9-61423
 - Label: Coral
 - Formats: Vinyl, Gloversville Pressing
-- Format: 7", Single, Glo
+- Format: 7", Single, Glo, 45 RPM
 - Rating: 
 - Released: 1955
 - Year: 1955

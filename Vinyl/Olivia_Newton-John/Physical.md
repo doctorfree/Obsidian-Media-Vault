@@ -4,7 +4,7 @@ title: Physical
 artist: Olivia Newton-John
 label: MCA Records
 formats: Vinyl, Pinckneyville Pressing
-format: 7", Single, Pin
+format: 7", Single, Pin, 45 RPM
 rating: 
 released: 1981
 year: 1981
@@ -30,7 +30,7 @@ By Olivia Newton-John
 - Catalog #: MCA-51182
 - Label: MCA Records
 - Formats: Vinyl, Pinckneyville Pressing
-- Format: 7", Single, Pin
+- Format: 7", Single, Pin, 45 RPM
 - Rating: 
 - Released: 1981
 - Year: 1981

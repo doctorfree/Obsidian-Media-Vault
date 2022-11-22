@@ -4,7 +4,7 @@ title: My Baby Just Cares For Me
 artist: Nina Simone
 label: Not Now Music
 formats: Vinyl
-format: 2xLP, Comp
+format: 2xLP, Comp, Compilation
 rating: 
 released: 2012
 year: 2012
@@ -30,7 +30,7 @@ By Nina Simone
 - Catalog #: NOT2LP156
 - Label: Not Now Music
 - Formats: Vinyl
-- Format: 2xLP, Comp
+- Format: 2xLP, Comp, Compilation
 - Rating: 
 - Released: 2012
 - Year: 2012

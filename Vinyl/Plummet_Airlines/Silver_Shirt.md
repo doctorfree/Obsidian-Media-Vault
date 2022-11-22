@@ -4,7 +4,7 @@ title: Silver Shirt
 artist: Plummet Airlines
 label: Stiff Records
 formats: Vinyl, Push Out Center
-format: 7", Single, Pus
+format: 7", Single, Pus, 45 RPM
 rating: 
 released: 1976
 year: 1976
@@ -30,7 +30,7 @@ By Plummet Airlines
 - Catalog #: BUY 8
 - Label: Stiff Records
 - Formats: Vinyl, Push Out Center
-- Format: 7", Single, Pus
+- Format: 7", Single, Pus, 45 RPM
 - Rating: 
 - Released: 1976
 - Year: 1976

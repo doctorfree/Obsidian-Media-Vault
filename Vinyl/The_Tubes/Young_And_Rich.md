@@ -4,7 +4,7 @@ title: Young And Rich
 artist: The Tubes
 label: A&M Records
 formats: Vinyl, Terre Haute Pressing
-format: LP, Album, Ter
+format: LP, Album, Ter, Stereo
 rating: 
 released: 1976
 year: 1976
@@ -30,7 +30,7 @@ By The Tubes
 - Catalog #: SP-4580
 - Label: A&M Records
 - Formats: Vinyl, Terre Haute Pressing
-- Format: LP, Album, Ter
+- Format: LP, Album, Ter, Stereo
 - Rating: 
 - Released: 1976
 - Year: 1976

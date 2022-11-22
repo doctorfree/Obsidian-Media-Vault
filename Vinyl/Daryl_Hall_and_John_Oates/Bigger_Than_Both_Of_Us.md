@@ -4,7 +4,7 @@ title: Bigger Than Both Of Us
 artist: Daryl Hall & John Oates
 label: RCA Victor
 formats: Vinyl, Indianapolis Press
-format: LP, Album, Ind
+format: LP, Album, Ind, Stereo
 rating: 
 released: 1976
 year: 1976
@@ -30,7 +30,7 @@ By Daryl Hall & John Oates
 - Catalog #: APL1-1467
 - Label: RCA Victor
 - Formats: Vinyl, Indianapolis Press
-- Format: LP, Album, Ind
+- Format: LP, Album, Ind, Stereo
 - Rating: 
 - Released: 1976
 - Year: 1976

@@ -4,7 +4,7 @@ title: Fireball
 artist: Deep Purple
 label: Rhino Records (2)
 formats: Vinyl, 180g, Textured Gatefold
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2016
 year: 1971
@@ -30,7 +30,7 @@ By Deep Purple
 - Catalog #: R1 35052
 - Label: Rhino Records (2)
 - Formats: Vinyl, 180g, Textured Gatefold
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2016
 - Year: 1971

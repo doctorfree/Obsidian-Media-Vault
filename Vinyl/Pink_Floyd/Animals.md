@@ -4,7 +4,7 @@ title: Animals
 artist: Pink Floyd
 label: Columbia
 formats: Vinyl, Pitman Pressing, Gatefold
-format: LP, Album, RP, Pit
+format: LP, Album, RP, Pit, Repress
 rating: 
 released: 0
 year: 1977
@@ -30,7 +30,7 @@ By Pink Floyd
 - Catalog #: JC 34474
 - Label: Columbia
 - Formats: Vinyl, Pitman Pressing, Gatefold
-- Format: LP, Album, RP, Pit
+- Format: LP, Album, RP, Pit, Repress
 - Rating: 
 - Released: 0
 - Year: 1977

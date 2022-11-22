@@ -4,7 +4,7 @@ title: Cracked Actor (Live Los Angeles '74)
 artist: David Bowie
 label: Parlophone, Parlophone
 formats: Vinyl
-format: 2xLP + LP, S/Sided, Etch + Album, Ltd
+format: 2xLP + LP, S/Sided, Etch + Album, Ltd, Single Sided, Etched, Limited Edition
 rating: 
 released: 2017
 year: 2017
@@ -30,7 +30,7 @@ By David Bowie
 - Catalog #: 0190295869373, DBRSD 7476
 - Label: Parlophone, Parlophone
 - Formats: Vinyl
-- Format: 2xLP + LP, S/Sided, Etch + Album, Ltd
+- Format: 2xLP + LP, S/Sided, Etch + Album, Ltd, Single Sided, Etched, Limited Edition
 - Rating: 
 - Released: 2017
 - Year: 2017

@@ -4,7 +4,7 @@ title: In The Right Place
 artist: Dr. John
 label: ATCO Records
 formats: Vinyl, PR - Presswell Pressing, Tri-Fold Sleeve
-format: LP, Album, PR 
+format: LP, Album, PR , Stereo
 rating: 
 released: 1973
 year: 1973
@@ -30,7 +30,7 @@ By Dr. John
 - Catalog #: SD 7018
 - Label: ATCO Records
 - Formats: Vinyl, PR - Presswell Pressing, Tri-Fold Sleeve
-- Format: LP, Album, PR 
+- Format: LP, Album, PR , Stereo
 - Rating: 
 - Released: 1973
 - Year: 1973

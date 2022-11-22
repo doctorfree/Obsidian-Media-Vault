@@ -4,7 +4,7 @@ title: Let's Live For Today
 artist: The Grass Roots
 label: Dunhill
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Stereo
 rating: 
 released: 1967
 year: 1967
@@ -30,7 +30,7 @@ By The Grass Roots
 - Catalog #: DS 50020
 - Label: Dunhill
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Stereo
 - Rating: 
 - Released: 1967
 - Year: 1967

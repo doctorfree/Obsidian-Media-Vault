@@ -4,7 +4,7 @@ title: The Beatles
 artist: The Beatles
 label: Apple Records, Parlophone, Capitol Records
 formats: Box Set, 180 Gram
-format: Box, Comp, Mono, Ltd, RE, RM, 180 + LP, Album, Mon
+format: Box, Comp, Mono, Ltd, RE, RM, 180 + LP, Album, Mon, Compilation, Limited Edition, Reissue, Remastered, Stereo, Stereo, Stereo, Compilation, Stereo
 rating: 5
 released: 2012
 year: 2009
@@ -30,7 +30,7 @@ By The Beatles
 - Catalog #: 5099963380910
 - Label: Apple Records, Parlophone, Capitol Records
 - Formats: Box Set, 180 Gram
-- Format: Box, Comp, Mono, Ltd, RE, RM, 180 + LP, Album, Mon
+- Format: Box, Comp, Mono, Ltd, RE, RM, 180 + LP, Album, Mon, Compilation, Limited Edition, Reissue, Remastered, Stereo, Stereo, Stereo, Compilation, Stereo
 - Rating: 5
 - Released: 2012
 - Year: 2009

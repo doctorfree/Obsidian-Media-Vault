@@ -4,7 +4,7 @@ title: Spirit
 artist: Spirit
 label: Sundazed Music
 formats: Vinyl
-format: LP, Album, Mono, RE
+format: LP, Album, Mono, RE, Reissue
 rating: 
 released: 2005
 year: 1968
@@ -30,7 +30,7 @@ By Spirit
 - Catalog #: LP 5194
 - Label: Sundazed Music
 - Formats: Vinyl
-- Format: LP, Album, Mono, RE
+- Format: LP, Album, Mono, RE, Reissue
 - Rating: 
 - Released: 2005
 - Year: 1968

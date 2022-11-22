@@ -4,7 +4,7 @@ title: Speaking In Tongues
 artist: Talking Heads
 label: Rhino Vinyl, Sire
 formats: Vinyl, 180g
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2013
 year: 1983
@@ -30,7 +30,7 @@ By Talking Heads
 - Catalog #: R1-23883
 - Label: Rhino Vinyl, Sire
 - Formats: Vinyl, 180g
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2013
 - Year: 1983

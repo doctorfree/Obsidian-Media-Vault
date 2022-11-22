@@ -4,7 +4,7 @@ title: Recordings
 artist: Porcupine Tree
 label: Kscope
 formats: Vinyl, Gatefold
-format: 2xLP, Album, RE, Gat
+format: 2xLP, Album, RE, Gat, Reissue
 rating: 
 released: 2011
 year: 2001
@@ -30,7 +30,7 @@ By Porcupine Tree
 - Catalog #: KSCOPE813
 - Label: Kscope
 - Formats: Vinyl, Gatefold
-- Format: 2xLP, Album, RE, Gat
+- Format: 2xLP, Album, RE, Gat, Reissue
 - Rating: 
 - Released: 2011
 - Year: 2001

@@ -4,7 +4,7 @@ title: Fragile
 artist: Yes
 label: Atlantic
 formats: Vinyl, 180 gram, Gatefold
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue
 rating: 
 released: 2016
 year: 1971
@@ -30,7 +30,7 @@ By Yes
 - Catalog #: R1 82667
 - Label: Atlantic
 - Formats: Vinyl, 180 gram, Gatefold
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2016
 - Year: 1971

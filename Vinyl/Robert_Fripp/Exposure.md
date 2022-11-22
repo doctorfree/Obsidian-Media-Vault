@@ -4,7 +4,7 @@ title: Exposure
 artist: Robert Fripp
 label: EG, Polydor
 formats: Vinyl, PRC Pressing
-format: LP, Album, PRC
+format: LP, Album, PRC, Stereo
 rating: 
 released: 1979
 year: 1979
@@ -30,7 +30,7 @@ By Robert Fripp
 - Catalog #: EGLP 101, PD-1-6201
 - Label: EG, Polydor
 - Formats: Vinyl, PRC Pressing
-- Format: LP, Album, PRC
+- Format: LP, Album, PRC, Stereo
 - Rating: 
 - Released: 1979
 - Year: 1979

@@ -4,7 +4,7 @@ title: Leader Of The Pack / I Can Never Go Home Anymore
 artist: The Shangri-Las
 label: Mercury
 formats: Vinyl
-format: 7", Single, RP
+format: 7", Single, RP, 45 RPM, Repress
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By The Shangri-Las
 - Catalog #: C-30140
 - Label: Mercury
 - Formats: Vinyl
-- Format: 7", Single, RP
+- Format: 7", Single, RP, 45 RPM, Repress
 - Rating: 
 - Released: 0
 - Year: 0

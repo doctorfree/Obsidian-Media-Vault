@@ -4,7 +4,7 @@ title: Blow The House Down
 artist: Junior Walker
 label: Motown
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1983
 year: 1983
@@ -30,7 +30,7 @@ By Junior Walker
 - Catalog #: 1689 MF
 - Label: Motown
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1983
 - Year: 1983

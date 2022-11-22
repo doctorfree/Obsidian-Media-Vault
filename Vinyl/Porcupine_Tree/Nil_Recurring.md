@@ -4,7 +4,7 @@ title: Nil Recurring
 artist: Porcupine Tree
 label: Kscope, Kscope
 formats: Vinyl, Clear, 180g
-format: 12", MiniAlbum, RM, Cle
+format: 12", MiniAlbum, RM, Cle, Mini-Album, Remastered
 rating: 
 released: 2016
 year: 2007
@@ -30,7 +30,7 @@ By Porcupine Tree
 - Catalog #: KSCOPE936, Kscope936
 - Label: Kscope, Kscope
 - Formats: Vinyl, Clear, 180g
-- Format: 12", MiniAlbum, RM, Cle
+- Format: 12", MiniAlbum, RM, Cle, Mini-Album, Remastered
 - Rating: 
 - Released: 2016
 - Year: 2007

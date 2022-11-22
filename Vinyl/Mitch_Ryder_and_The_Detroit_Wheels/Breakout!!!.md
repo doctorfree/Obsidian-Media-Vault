@@ -4,7 +4,7 @@ title: Breakout...!!!
 artist: Mitch Ryder & The Detroit Wheels
 label: Sundazed Music
 formats: Vinyl
-format: LP, Album, Mono, RE
+format: LP, Album, Mono, RE, Reissue
 rating: 
 released: 2002
 year: 1966
@@ -30,7 +30,7 @@ By Mitch Ryder & The Detroit Wheels
 - Catalog #: LP 5083
 - Label: Sundazed Music
 - Formats: Vinyl
-- Format: LP, Album, Mono, RE
+- Format: LP, Album, Mono, RE, Reissue
 - Rating: 
 - Released: 2002
 - Year: 1966

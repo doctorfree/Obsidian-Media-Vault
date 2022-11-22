@@ -4,7 +4,7 @@ title: Look At Yourself
 artist: Uriah Heep
 label: Sanctuary Records, BMG, Bronze
 formats: Vinyl, 180 gram
-format: LP, Album, RE, 180
+format: LP, Album, RE, 180, Reissue, Stereo
 rating: 
 released: 2015
 year: 1971
@@ -30,7 +30,7 @@ By Uriah Heep
 - Catalog #: BMGRM086LP
 - Label: Sanctuary Records, BMG, Bronze
 - Formats: Vinyl, 180 gram
-- Format: LP, Album, RE, 180
+- Format: LP, Album, RE, 180, Reissue, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1971

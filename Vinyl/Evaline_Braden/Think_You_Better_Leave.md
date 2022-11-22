@@ -4,7 +4,7 @@ title: Think You Better Leave
 artist: Evaline Braden
 label: Sound Stage 7
 formats: Vinyl
-format: 7", Single, Promo
+format: 7", Single, Promo, 45 RPM
 rating: 
 released: 1963
 year: 1963
@@ -30,7 +30,7 @@ By Evaline Braden
 - Catalog #: 45-2505
 - Label: Sound Stage 7
 - Formats: Vinyl
-- Format: 7", Single, Promo
+- Format: 7", Single, Promo, 45 RPM
 - Rating: 
 - Released: 1963
 - Year: 1963

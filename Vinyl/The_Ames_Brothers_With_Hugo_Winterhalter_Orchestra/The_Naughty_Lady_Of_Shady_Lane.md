@@ -4,7 +4,7 @@ title: The Naughty Lady Of Shady Lane
 artist: The Ames Brothers With Hugo Winterhalter Orchestra
 label: RCA Victor
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1954
 year: 1954
@@ -28,7 +28,7 @@ By The Ames Brothers With Hugo Winterhalter Orchestra
 - Catalog #: 47-5897
 - Label: RCA Victor
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1954
 - Year: 1954

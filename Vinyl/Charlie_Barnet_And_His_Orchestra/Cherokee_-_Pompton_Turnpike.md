@@ -4,7 +4,7 @@ title: Cherokee / Pompton Turnpike
 artist: Charlie Barnet And His Orchestra
 label: RCA
 formats: Vinyl
-format: 7", RE
+format: 7", RE, 45 RPM, Reissue
 rating: 
 released: 0
 year: 0
@@ -30,7 +30,7 @@ By Charlie Barnet And His Orchestra
 - Catalog #: 447-0872
 - Label: RCA
 - Formats: Vinyl
-- Format: 7", RE
+- Format: 7", RE, 45 RPM, Reissue
 - Rating: 
 - Released: 0
 - Year: 0

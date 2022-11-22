@@ -4,7 +4,7 @@ title: Houses Of The Holy
 artist: Led Zeppelin
 label: Atlantic
 formats: Vinyl, 180g, Gatefold
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2014
 year: 1973
@@ -30,7 +30,7 @@ By Led Zeppelin
 - Catalog #: R1-535344
 - Label: Atlantic
 - Formats: Vinyl, 180g, Gatefold
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2014
 - Year: 1973

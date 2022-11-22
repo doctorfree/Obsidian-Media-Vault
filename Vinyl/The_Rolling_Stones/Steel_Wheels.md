@@ -4,7 +4,7 @@ title: Steel Wheels
 artist: The Rolling Stones
 label: Rolling Stones Records, Rolling Stones Records
 formats: Vinyl, Carrollton Press
-format: LP, Album, Car
+format: LP, Album, Car, Stereo
 rating: 
 released: 1989
 year: 1989
@@ -30,7 +30,7 @@ By The Rolling Stones
 - Catalog #: OC 45333, 45333
 - Label: Rolling Stones Records, Rolling Stones Records
 - Formats: Vinyl, Carrollton Press
-- Format: LP, Album, Car
+- Format: LP, Album, Car, Stereo
 - Rating: 
 - Released: 1989
 - Year: 1989

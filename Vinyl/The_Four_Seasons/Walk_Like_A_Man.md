@@ -4,7 +4,7 @@ title: Walk Like A Man
 artist: The Four Seasons
 label: Vee Jay Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1963
 year: 1963
@@ -30,7 +30,7 @@ By The Four Seasons
 - Catalog #: VJ #485
 - Label: Vee Jay Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1963
 - Year: 1963

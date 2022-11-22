@@ -4,7 +4,7 @@ title: Sittin' In
 artist: Loggins And Messina
 label: Friday Music, Columbia
 formats: Vinyl, 180 Gram, Gatefold
-format: LP, RM, 180
+format: LP, RM, 180, Remastered
 rating: 
 released: 2011
 year: 1971
@@ -30,7 +30,7 @@ By Loggins And Messina
 - Catalog #: FRM 31044
 - Label: Friday Music, Columbia
 - Formats: Vinyl, 180 Gram, Gatefold
-- Format: LP, RM, 180
+- Format: LP, RM, 180, Remastered
 - Rating: 
 - Released: 2011
 - Year: 1971

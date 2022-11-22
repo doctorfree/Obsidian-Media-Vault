@@ -4,7 +4,7 @@ title: What's Going On
 artist: Marvin Gaye
 label: Motown
 formats: Vinyl
-format: LP + CD, Album + CD, Comp + Dlx, 40t
+format: LP + CD, Album + CD, Comp + Dlx, 40t, Compilation, Deluxe Edition
 rating: 5
 released: 2011
 year: 1971
@@ -30,7 +30,7 @@ By Marvin Gaye
 - Catalog #: B0015552-02
 - Label: Motown
 - Formats: Vinyl
-- Format: LP + CD, Album + CD, Comp + Dlx, 40t
+- Format: LP + CD, Album + CD, Comp + Dlx, 40t, Compilation, Deluxe Edition
 - Rating: 5
 - Released: 2011
 - Year: 1971

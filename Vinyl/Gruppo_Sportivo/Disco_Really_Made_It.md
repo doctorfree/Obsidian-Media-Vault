@@ -4,7 +4,7 @@ title: Disco Really Made It
 artist: Gruppo Sportivo
 label: Ariola, Ariola
 formats: Vinyl
-format: 7", Single, Ltd
+format: 7", Single, Ltd, 45 RPM, Limited Edition
 rating: 
 released: 1979
 year: 1979
@@ -30,7 +30,7 @@ By Gruppo Sportivo
 - Catalog #: 100 335, 100 335-100
 - Label: Ariola, Ariola
 - Formats: Vinyl
-- Format: 7", Single, Ltd
+- Format: 7", Single, Ltd, 45 RPM, Limited Edition
 - Rating: 
 - Released: 1979
 - Year: 1979

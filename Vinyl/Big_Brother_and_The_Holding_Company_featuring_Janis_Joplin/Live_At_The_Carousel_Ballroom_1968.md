@@ -4,7 +4,7 @@ title: Live At The Carousel Ballroom 1968
 artist: Big Brother & The Holding Company featuring Janis Joplin
 label: Music On Vinyl, Legacy, Columbia
 formats: Vinyl, 180 Gram
-format: 2xLP, Album, RM, 180
+format: 2xLP, Album, RM, 180, Remastered
 rating: 
 released: 2012
 year: 2012
@@ -30,7 +30,7 @@ By Big Brother & The Holding Company featuring Janis Joplin
 - Catalog #: MOVLP527, none
 - Label: Music On Vinyl, Legacy, Columbia
 - Formats: Vinyl, 180 Gram
-- Format: 2xLP, Album, RM, 180
+- Format: 2xLP, Album, RM, 180, Remastered
 - Rating: 
 - Released: 2012
 - Year: 2012

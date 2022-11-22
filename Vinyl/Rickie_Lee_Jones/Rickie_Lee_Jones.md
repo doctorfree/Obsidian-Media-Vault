@@ -4,7 +4,7 @@ title: Rickie Lee Jones
 artist: Rickie Lee Jones
 label: Mobile Fidelity Sound Lab
 formats: Vinyl, 180g
-format: 2xLP, Album, RE, RM, 180 + Box, Ltd, Num
+format: 2xLP, Album, RE, RM, 180 + Box, Ltd, Num, 45 RPM, Reissue, Remastered, Stereo, Limited Edition, Numbered
 rating: 5
 released: 2013
 year: 1979
@@ -30,7 +30,7 @@ By Rickie Lee Jones
 - Catalog #: MFSL 2-45010
 - Label: Mobile Fidelity Sound Lab
 - Formats: Vinyl, 180g
-- Format: 2xLP, Album, RE, RM, 180 + Box, Ltd, Num
+- Format: 2xLP, Album, RE, RM, 180 + Box, Ltd, Num, 45 RPM, Reissue, Remastered, Stereo, Limited Edition, Numbered
 - Rating: 5
 - Released: 2013
 - Year: 1979

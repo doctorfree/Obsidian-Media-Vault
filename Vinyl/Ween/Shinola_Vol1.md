@@ -4,7 +4,7 @@ title: Shinola Vol.1
 artist: Ween
 label: Schnitzel Records
 formats: Vinyl
-format: LP, Album, Comp, RP
+format: LP, Album, Comp, RP, Compilation, Repress
 rating: 
 released: 2009
 year: 2005
@@ -30,7 +30,7 @@ By Ween
 - Catalog #: SRLP125522
 - Label: Schnitzel Records
 - Formats: Vinyl
-- Format: LP, Album, Comp, RP
+- Format: LP, Album, Comp, RP, Compilation, Repress
 - Rating: 
 - Released: 2009
 - Year: 2005

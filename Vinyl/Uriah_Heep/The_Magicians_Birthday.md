@@ -4,7 +4,7 @@ title: The Magician's Birthday
 artist: Uriah Heep
 label: Wax Cathedral, Universal Music Special Markets, Mercury
 formats: Vinyl, Blue Marbled
-format: LP, Album, Ltd, RE, Blu
+format: LP, Album, Ltd, RE, Blu, Limited Edition, Reissue
 rating: 
 released: 2013
 year: 1972
@@ -30,7 +30,7 @@ By Uriah Heep
 - Catalog #: MELT-007
 - Label: Wax Cathedral, Universal Music Special Markets, Mercury
 - Formats: Vinyl, Blue Marbled
-- Format: LP, Album, Ltd, RE, Blu
+- Format: LP, Album, Ltd, RE, Blu, Limited Edition, Reissue
 - Rating: 
 - Released: 2013
 - Year: 1972

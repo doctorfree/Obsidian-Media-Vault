@@ -4,7 +4,7 @@ title: The Best Of The Animals
 artist: The Animals
 label: ABKCO
 formats: Vinyl, Clear, 180 Gram
-format: LP, Comp, RE, RM, Cle
+format: LP, Comp, RE, RM, Cle, Compilation, Reissue, Remastered
 rating: 
 released: 2014
 year: 1966
@@ -30,7 +30,7 @@ By The Animals
 - Catalog #: 4324-1
 - Label: ABKCO
 - Formats: Vinyl, Clear, 180 Gram
-- Format: LP, Comp, RE, RM, Cle
+- Format: LP, Comp, RE, RM, Cle, Compilation, Reissue, Remastered
 - Rating: 
 - Released: 2014
 - Year: 1966

@@ -4,7 +4,7 @@ title: To Susan On The West Coast Waiting / Atlantis
 artist: Donovan
 label: Epic
 formats: Vinyl, Terre Haute
-format: 7", Single, Mono, Styrene, Ter
+format: 7", Single, Mono, Styrene, Ter, 45 RPM
 rating: 
 released: 1969
 year: 1969
@@ -30,7 +30,7 @@ By Donovan
 - Catalog #: 5-10434
 - Label: Epic
 - Formats: Vinyl, Terre Haute
-- Format: 7", Single, Mono, Styrene, Ter
+- Format: 7", Single, Mono, Styrene, Ter, 45 RPM
 - Rating: 
 - Released: 1969
 - Year: 1969

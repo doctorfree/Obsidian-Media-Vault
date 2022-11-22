@@ -4,7 +4,7 @@ title: Desire
 artist: U2
 label: Island Records
 formats: Vinyl, Gatefold
-format: 7", Single, Gat
+format: 7", Single, Gat, 45 RPM
 rating: 
 released: 1988
 year: 1988
@@ -30,7 +30,7 @@ By U2
 - Catalog #: 7-99250
 - Label: Island Records
 - Formats: Vinyl, Gatefold
-- Format: 7", Single, Gat
+- Format: 7", Single, Gat, 45 RPM
 - Rating: 
 - Released: 1988
 - Year: 1988

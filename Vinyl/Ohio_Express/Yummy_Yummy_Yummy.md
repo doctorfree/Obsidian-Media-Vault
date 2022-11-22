@@ -4,7 +4,7 @@ title: Yummy Yummy Yummy
 artist: Ohio Express
 label: Buddah Records
 formats: Vinyl
-format: 7", Single, Styrene
+format: 7", Single, Styrene, 45 RPM
 rating: 
 released: 1968
 year: 1968
@@ -30,7 +30,7 @@ By Ohio Express
 - Catalog #: BDA-38
 - Label: Buddah Records
 - Formats: Vinyl
-- Format: 7", Single, Styrene
+- Format: 7", Single, Styrene, 45 RPM
 - Rating: 
 - Released: 1968
 - Year: 1968

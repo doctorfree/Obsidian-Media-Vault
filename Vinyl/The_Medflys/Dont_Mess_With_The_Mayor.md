@@ -4,7 +4,7 @@ title: Don't Mess With The Mayor
 artist: The Medflys
 label: Westcoast Recording
 formats: Vinyl
-format: 7", Single
+format: 7", Single, Stereo
 rating: 
 released: 1986
 year: null
@@ -30,7 +30,7 @@ By The Medflys
 - Catalog #: WCRMF 1
 - Label: Westcoast Recording
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, Stereo
 - Rating: 
 - Released: 1986
 - Year: null

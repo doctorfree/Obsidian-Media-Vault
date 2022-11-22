@@ -4,7 +4,7 @@ title: Made In Japan
 artist: Deep Purple
 label: Friday Music
 formats: Vinyl, 180 Gram, Gatefold
-format: 2xLP, Album, Ltd, RE, RM, 180
+format: 2xLP, Album, Ltd, RE, RM, 180, Limited Edition, Reissue, Remastered
 rating: 
 released: 2010
 year: 1972
@@ -30,7 +30,7 @@ By Deep Purple
 - Catalog #: FRM 2701
 - Label: Friday Music
 - Formats: Vinyl, 180 Gram, Gatefold
-- Format: 2xLP, Album, Ltd, RE, RM, 180
+- Format: 2xLP, Album, Ltd, RE, RM, 180, Limited Edition, Reissue, Remastered
 - Rating: 
 - Released: 2010
 - Year: 1972

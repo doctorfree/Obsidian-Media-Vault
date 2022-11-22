@@ -4,7 +4,7 @@ title: Angel Eyes
 artist: Nat King Cole and Billy May And His Orchestra
 label: Capitol Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 0
 year: 1953
@@ -30,7 +30,7 @@ By Nat King Cole and Billy May And His Orchestra
 - Catalog #: F2498
 - Label: Capitol Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 0
 - Year: 1953

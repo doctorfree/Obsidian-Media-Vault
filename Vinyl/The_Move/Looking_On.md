@@ -4,7 +4,7 @@ title: Looking On
 artist: The Move
 label: Capitol Records
 formats: Vinyl, Jacksonville Pressing
-format: LP, Album, RE, Jac
+format: LP, Album, RE, Jac, Reissue
 rating: 
 released: 1971
 year: 1970
@@ -30,7 +30,7 @@ By The Move
 - Catalog #: ST-658
 - Label: Capitol Records
 - Formats: Vinyl, Jacksonville Pressing
-- Format: LP, Album, RE, Jac
+- Format: LP, Album, RE, Jac, Reissue
 - Rating: 
 - Released: 1971
 - Year: 1970

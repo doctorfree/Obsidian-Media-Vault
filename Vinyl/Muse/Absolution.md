@@ -4,7 +4,7 @@ title: Absolution
 artist: Muse
 label: Warner Bros. Records
 formats: Vinyl, Gatefold
-format: 2xLP, Album, RE, Gat
+format: 2xLP, Album, RE, Gat, Reissue
 rating: 
 released: 2009
 year: 2003
@@ -30,7 +30,7 @@ By Muse
 - Catalog #: 48733-1
 - Label: Warner Bros. Records
 - Formats: Vinyl, Gatefold
-- Format: 2xLP, Album, RE, Gat
+- Format: 2xLP, Album, RE, Gat, Reissue
 - Rating: 
 - Released: 2009
 - Year: 2003

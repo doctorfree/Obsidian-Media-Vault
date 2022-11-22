@@ -4,7 +4,7 @@ title: The Second Rudy Ray Moore Album (This Pussy Belongs To Me)
 artist: Rudy Ray Moore
 label: Comedians Inc.
 formats: Vinyl
-format: LP, Album, Ltd
+format: LP, Album, Ltd, Limited Edition
 rating: 
 released: 1970
 year: 1970
@@ -30,7 +30,7 @@ By Rudy Ray Moore
 - Catalog #: COM S 1105
 - Label: Comedians Inc.
 - Formats: Vinyl
-- Format: LP, Album, Ltd
+- Format: LP, Album, Ltd, Limited Edition
 - Rating: 
 - Released: 1970
 - Year: 1970

@@ -4,7 +4,7 @@ title: Good Vibrations
 artist: The Beach Boys
 label: Capitol Records
 formats: Vinyl, Orange/Yellow Swirl
-format: 12", Single, Ltd, RE, RP, Ora
+format: 12", Single, Ltd, RE, RP, Ora, Limited Edition, Reissue, Repress
 rating: 
 released: 2016
 year: 1966
@@ -30,7 +30,7 @@ By The Beach Boys
 - Catalog #: B0025241-01
 - Label: Capitol Records
 - Formats: Vinyl, Orange/Yellow Swirl
-- Format: 12", Single, Ltd, RE, RP, Ora
+- Format: 12", Single, Ltd, RE, RP, Ora, Limited Edition, Reissue, Repress
 - Rating: 
 - Released: 2016
 - Year: 1966

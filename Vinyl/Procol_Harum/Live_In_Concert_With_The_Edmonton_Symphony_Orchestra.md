@@ -4,7 +4,7 @@ title: Live In Concert With The Edmonton Symphony Orchestra
 artist: Procol Harum
 label: Let Them Eat Vinyl
 formats: Vinyl, Gatefold, White Vinyl
-format: 2xLP, Album, RE, RM, Gat
+format: 2xLP, Album, RE, RM, Gat, Reissue, Remastered
 rating: 
 released: 2015
 year: 1972
@@ -30,7 +30,7 @@ By Procol Harum
 - Catalog #: LETV204LP
 - Label: Let Them Eat Vinyl
 - Formats: Vinyl, Gatefold, White Vinyl
-- Format: 2xLP, Album, RE, RM, Gat
+- Format: 2xLP, Album, RE, RM, Gat, Reissue, Remastered
 - Rating: 
 - Released: 2015
 - Year: 1972

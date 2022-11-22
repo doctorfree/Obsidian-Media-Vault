@@ -4,7 +4,7 @@ title: Blue Christmas
 artist: Elvis Presley
 label: RCA
 formats: Vinyl
-format: 7", Single, RE
+format: 7", Single, RE, Reissue, 45 RPM
 rating: 
 released: 1977
 year: 1965
@@ -30,7 +30,7 @@ By Elvis Presley
 - Catalog #: 447-0647
 - Label: RCA
 - Formats: Vinyl
-- Format: 7", Single, RE
+- Format: 7", Single, RE, Reissue, 45 RPM
 - Rating: 
 - Released: 1977
 - Year: 1965

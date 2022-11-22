@@ -4,7 +4,7 @@ title: Strolling At Midnight
 artist: The Gold Dart All Stars
 label: Gold Dart Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 0
 year: null
@@ -30,7 +30,7 @@ By The Gold Dart All Stars
 - Catalog #: 1000
 - Label: Gold Dart Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 0
 - Year: null

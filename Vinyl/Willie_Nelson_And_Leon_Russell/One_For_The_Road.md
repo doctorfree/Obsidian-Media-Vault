@@ -4,7 +4,7 @@ title: One For The Road
 artist: Willie Nelson And Leon Russell
 label: Columbia, Columbia
 formats: Vinyl, Santa Maria Pressing, Gatefold
-format: 2xLP, Album, San
+format: 2xLP, Album, San, Stereo
 rating: 
 released: 1979
 year: 1979
@@ -30,7 +30,7 @@ By Willie Nelson And Leon Russell
 - Catalog #: KC2 36064, 36064
 - Label: Columbia, Columbia
 - Formats: Vinyl, Santa Maria Pressing, Gatefold
-- Format: 2xLP, Album, San
+- Format: 2xLP, Album, San, Stereo
 - Rating: 
 - Released: 1979
 - Year: 1979

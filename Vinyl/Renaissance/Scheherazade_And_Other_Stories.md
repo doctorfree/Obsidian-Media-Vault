@@ -4,7 +4,7 @@ title: Scheherazade And Other Stories
 artist: Renaissance
 label: Repertoire Records, Repertoire Records
 formats: Vinyl, 180g
-format: LP, Album, RE, RM, 180
+format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 rating: 
 released: 2015
 year: 1975
@@ -30,7 +30,7 @@ By Renaissance
 - Catalog #: V 132, REP 2237
 - Label: Repertoire Records, Repertoire Records
 - Formats: Vinyl, 180g
-- Format: LP, Album, RE, RM, 180
+- Format: LP, Album, RE, RM, 180, Reissue, Remastered, Stereo
 - Rating: 
 - Released: 2015
 - Year: 1975

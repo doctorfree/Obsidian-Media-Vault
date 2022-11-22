@@ -4,7 +4,7 @@ title: Suspicions
 artist: The Sidekicks
 label: RCA Victor
 formats: Vinyl, Rockaway Pressing
-format: 7", Single, Roc
+format: 7", Single, Roc, 45 RPM
 rating: 
 released: 1966
 year: 1966
@@ -30,7 +30,7 @@ By The Sidekicks
 - Catalog #: 47-8864
 - Label: RCA Victor
 - Formats: Vinyl, Rockaway Pressing
-- Format: 7", Single, Roc
+- Format: 7", Single, Roc, 45 RPM
 - Rating: 
 - Released: 1966
 - Year: 1966

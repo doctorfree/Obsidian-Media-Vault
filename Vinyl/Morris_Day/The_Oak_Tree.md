@@ -4,7 +4,7 @@ title: The Oak Tree
 artist: Morris Day
 label: Warner Bros. Records, Warner Bros. Records
 formats: Vinyl
-format: 7"
+format: 7", 45 RPM
 rating: 
 released: 1985
 year: 1985
@@ -30,7 +30,7 @@ By Morris Day
 - Catalog #: 7-28899, 9 28899-7
 - Label: Warner Bros. Records, Warner Bros. Records
 - Formats: Vinyl
-- Format: 7"
+- Format: 7", 45 RPM
 - Rating: 
 - Released: 1985
 - Year: 1985

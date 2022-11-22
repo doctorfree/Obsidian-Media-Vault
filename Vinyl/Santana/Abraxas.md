@@ -4,7 +4,7 @@ title: Abraxas
 artist: Santana
 label: Sundazed Music, Columbia
 formats: Vinyl, Gatefold
-format: LP, Album, RE, Gat
+format: LP, Album, RE, Gat, Reissue, Stereo
 rating: 
 released: 2009
 year: 1970
@@ -30,7 +30,7 @@ By Santana
 - Catalog #: LP 5264, P 735218
 - Label: Sundazed Music, Columbia
 - Formats: Vinyl, Gatefold
-- Format: LP, Album, RE, Gat
+- Format: LP, Album, RE, Gat, Reissue, Stereo
 - Rating: 
 - Released: 2009
 - Year: 1970

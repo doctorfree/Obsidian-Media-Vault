@@ -4,7 +4,7 @@ title: Melancholy Me / Somebody Bad Stole De Wedding Bell
 artist: Ella Fitzgerald
 label: Decca
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1954
 year: 1954
@@ -30,7 +30,7 @@ By Ella Fitzgerald
 - Catalog #: 9-29008
 - Label: Decca
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1954
 - Year: 1954

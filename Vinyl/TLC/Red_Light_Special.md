@@ -4,7 +4,7 @@ title: Red Light Special
 artist: TLC
 label: LaFace Records
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1995
 year: 1995
@@ -30,7 +30,7 @@ By TLC
 - Catalog #: 73008-24097-7
 - Label: LaFace Records
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1995
 - Year: 1995

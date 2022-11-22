@@ -4,7 +4,7 @@ title: Hocus Pocus
 artist: Focus
 label: Sire
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1973
 year: 1973
@@ -30,7 +30,7 @@ By Focus
 - Catalog #: SAA-704
 - Label: Sire
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1973
 - Year: 1973

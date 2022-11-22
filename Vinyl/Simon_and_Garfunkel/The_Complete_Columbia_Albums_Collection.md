@@ -4,7 +4,7 @@ title: The Complete Columbia Albums Collection
 artist: Simon & Garfunkel
 label: Columbia, Legacy
 formats: Box Set
-format: Box, Ltd, Num, RM + LP, Album, RE + LP, Album, RE 
+format: Box, Ltd, Num, RM + LP, Album, RE + LP, Album, RE , Limited Edition, Numbered, Remastered, Reissue, Reissue, Reissue, Reissue, Reissue, Compilation, Reissue
 rating: 
 released: 2015
 year: 2015
@@ -30,7 +30,7 @@ By Simon & Garfunkel
 - Catalog #: 88875049671
 - Label: Columbia, Legacy
 - Formats: Box Set
-- Format: Box, Ltd, Num, RM + LP, Album, RE + LP, Album, RE 
+- Format: Box, Ltd, Num, RM + LP, Album, RE + LP, Album, RE , Limited Edition, Numbered, Remastered, Reissue, Reissue, Reissue, Reissue, Reissue, Compilation, Reissue
 - Rating: 
 - Released: 2015
 - Year: 2015

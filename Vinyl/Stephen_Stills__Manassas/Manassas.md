@@ -4,7 +4,7 @@ title: Manassas
 artist: "Stephen Stills, Manassas"
 label: Atlantic
 formats: Vinyl, 180G
-format: 2xLP, Album, RE, 180
+format: 2xLP, Album, RE, 180, Reissue
 rating: 
 released: 2010
 year: 1972
@@ -30,7 +30,7 @@ By "Stephen Stills, Manassas"
 - Catalog #: RA1 903
 - Label: Atlantic
 - Formats: Vinyl, 180G
-- Format: 2xLP, Album, RE, 180
+- Format: 2xLP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2010
 - Year: 1972

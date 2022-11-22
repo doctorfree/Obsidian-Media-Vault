@@ -4,7 +4,7 @@ title: At Home
 artist: Shocking Blue
 label: Music On Vinyl, Red Bullet
 formats: Vinyl, Blue, 180 Gram, Gatefold
-format: LP, Album, Ltd, Num, RE, Blu
+format: LP, Album, Ltd, Num, RE, Blu, Limited Edition, Numbered, Reissue
 rating: 
 released: 2017
 year: 1969
@@ -30,7 +30,7 @@ By Shocking Blue
 - Catalog #: MOVLP119, RB 33195
 - Label: Music On Vinyl, Red Bullet
 - Formats: Vinyl, Blue, 180 Gram, Gatefold
-- Format: LP, Album, Ltd, Num, RE, Blu
+- Format: LP, Album, Ltd, Num, RE, Blu, Limited Edition, Numbered, Reissue
 - Rating: 
 - Released: 2017
 - Year: 1969

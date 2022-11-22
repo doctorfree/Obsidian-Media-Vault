@@ -4,7 +4,7 @@ title: Bachman-Turner Overdrive II
 artist: Bachman-Turner Overdrive
 label: Mercury
 formats: Vinyl
-format: LP, Album
+format: LP, Album, Stereo
 rating: 
 released: 0
 year: 1973
@@ -30,7 +30,7 @@ By Bachman-Turner Overdrive
 - Catalog #: SRM-1-696
 - Label: Mercury
 - Formats: Vinyl
-- Format: LP, Album
+- Format: LP, Album, Stereo
 - Rating: 
 - Released: 0
 - Year: 1973

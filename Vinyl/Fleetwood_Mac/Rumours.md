@@ -4,7 +4,7 @@ title: Rumours
 artist: Fleetwood Mac
 label: Reprise Records
 formats: Vinyl
-format: LP, Album, RE
+format: LP, Album, RE, Reissue
 rating: 
 released: 2011
 year: 1977
@@ -30,7 +30,7 @@ By Fleetwood Mac
 - Catalog #: 517786-1
 - Label: Reprise Records
 - Formats: Vinyl
-- Format: LP, Album, RE
+- Format: LP, Album, RE, Reissue
 - Rating: 
 - Released: 2011
 - Year: 1977

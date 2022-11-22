@@ -4,7 +4,7 @@ title: "Silent Night, Holy Night / Mary's Little Boy Chile"
 artist: Mahalia Jackson
 label: Columbia
 formats: Vinyl
-format: 7", Single
+format: 7", Single, 45 RPM
 rating: 
 released: 1956
 year: 0
@@ -30,7 +30,7 @@ By Mahalia Jackson
 - Catalog #: 4-40777
 - Label: Columbia
 - Formats: Vinyl
-- Format: 7", Single
+- Format: 7", Single, 45 RPM
 - Rating: 
 - Released: 1956
 - Year: 0

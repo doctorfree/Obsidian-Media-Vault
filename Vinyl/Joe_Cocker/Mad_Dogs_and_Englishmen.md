@@ -4,7 +4,7 @@ title: Mad Dogs & Englishmen
 artist: Joe Cocker
 label: Music On Vinyl, A&M Records
 formats: Vinyl, 180 Gram
-format: 2xLP, Album, RE, 180
+format: 2xLP, Album, RE, 180, Reissue
 rating: 
 released: 2011
 year: 1970
@@ -30,7 +30,7 @@ By Joe Cocker
 - Catalog #: MOVLP355
 - Label: Music On Vinyl, A&M Records
 - Formats: Vinyl, 180 Gram
-- Format: 2xLP, Album, RE, 180
+- Format: 2xLP, Album, RE, 180, Reissue
 - Rating: 
 - Released: 2011
 - Year: 1970

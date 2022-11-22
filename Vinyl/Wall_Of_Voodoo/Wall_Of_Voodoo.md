@@ -4,7 +4,7 @@ title: Wall Of Voodoo
 artist: Wall Of Voodoo
 label: Index
 formats: Vinyl
-format: 12", EP
+format: 12", EP, 33 ⅓ RPM
 rating: 
 released: 1980
 year: 1980
@@ -30,7 +30,7 @@ By Wall Of Voodoo
 - Catalog #: SP 70401
 - Label: Index
 - Formats: Vinyl
-- Format: 12", EP
+- Format: 12", EP, 33 ⅓ RPM
 - Rating: 
 - Released: 1980
 - Year: 1980
