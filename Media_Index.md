@@ -83,6 +83,7 @@ banner_y: 0.35
 
 ## Vinyl Records
 
+- [Discogs User Profile](Discogs_User_Profile.md)
 - [Vinyl Artists](Vinyl_Artists.md)
 - [Vinyl by Artist](Vinyl_by_Artist.md)
 - [Vinyl by Title](Vinyl_by_Title.md)
