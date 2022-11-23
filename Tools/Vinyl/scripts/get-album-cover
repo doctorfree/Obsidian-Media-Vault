@@ -1,0 +1,44 @@
+#!/bin/bash
+#
+# get-album-cover
+#
+# Get an album cover for a release from your Discogs collection
+
+TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+URL="https://api.discogs.com/releases"
+AGE="github.com/doctorfree/MusicPlayerPlus"
+UAG="--user-agent \"MusicPlayerPlus/3.0\""
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+
+# Find the Discogs release id for the newly added album and put it here:
+releaseid=5589433
+# Alternately, the release id can be provided as the first argument to the command
+[ "$1" ] && releaseid="$1"
+
+# Optionally set the album name and artist name
+# title="Moses Live"
+# artist="Moses"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+[ -d json ] || mkdir json
+
+[ -s "json/${releaseid}.json" ] || {
+  curl --stderr /dev/null \
+    -A "${AGE}" "${URL}/${releaseid}" \
+    -H "Authorization: Discogs token=${token}" | jq -r '.' > "json/${releaseid}.json"
+}
+
+[ "${title}" ] || {
+  title=`cat "json/${releaseid}.json" | jq '.title' | sed -e "s/\"//g"`
+}
+
+filename=`echo "${title}" | sed -e "s/ /_/g"`
+
+pic=$(cat "json/${releaseid}.json" | jq -r '.images[0].resource_url') 
+
+echo "$pic"
+echo "$filename"

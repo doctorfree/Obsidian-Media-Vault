@@ -13,6 +13,9 @@
 
 Tools/*/tmp/*
 Tools/*/scripts/tmp/*
+Tools/Vinyl/scripts/json/*
+Tools/Vinyl/scripts/*.md
+Tools/Vinyl/scripts/*.png
 
 .index
 tmp/*
