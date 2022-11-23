@@ -1480,6 +1480,10 @@ banner_y: 0.7
 
 - [The Oak Tree](Vinyl/Morris_Day/The_Oak_Tree.md)
 
+#### Moses
+
+- [Moses Live](Vinyl/Moses/Moses_Live.md)
+
 #### Mott The Hoople
 
 - [All The Young Dudes](Vinyl/Mott_The_Hoople/All_The_Young_Dudes.md)

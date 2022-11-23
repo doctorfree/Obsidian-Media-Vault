@@ -1,3 +1,6 @@
+# get-new-album
+
+```shell
 #!/bin/bash
 #
 # get-new-album
@@ -287,3 +290,4 @@ rm -f /tmp/foo$$ /tmp/__insert__
 [ -d "${TOP}/${artistname}" ] || mkdir -p "${TOP}/${artistname}"
 cp "${markdown}" "${TOP}/${artistname}/${markdown}"
 rm -f "${markdown}"
+```

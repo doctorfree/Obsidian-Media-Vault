@@ -541,6 +541,7 @@ banner_y: 0.7
 - [Monster](Vinyl/Steppenwolf/Monster.md) by **Steppenwolf**
 - [Monterey](Vinyl/Eric_Burdon_and_The_Animals/Monterey.md) by **Eric Burdon & The Animals**
 - [More Songs About Buildings And Food](Vinyl/Talking_Heads/More_Songs_About_Buildings_And_Food.md) by **Talking Heads**
+- [Moses Live](Vinyl/Moses/Moses_Live.md) by **Moses**
 - [Mother's Milk](Vinyl/Red_Hot_Chili_Peppers/Mothers_Milk.md) by **Red Hot Chili Peppers**
 - [Mott](Vinyl/Mott_The_Hoople/Mott.md) by **Mott The Hoople**
 
