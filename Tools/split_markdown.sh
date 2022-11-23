@@ -7,7 +7,15 @@
 # assumes the first two lines of the input file are table heading and divider
 
 inputFile=$1
+[ -f "${inputFile}" ] || {
+  echo "Missing input file ${inputFile}. Exiting."
+  exit 1
+}
 numFiles=$2
+[ "${numFiles}" ] && [ ${numFiles} -gt 1 ] || {
+  echo "numFiles = ${numFiles} missing or not greater than 1. Exiting."
+  exit 1
+}
 numLines=`cat ${inputFile} | wc -l`
 baseFile=`echo ${inputFile} | sed -e "s/\.md//"`
 
