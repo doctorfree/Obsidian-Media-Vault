@@ -1,0 +1,183 @@
+#!/bin/bash
+
+VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+TOP="${VAULT}/Discogs"
+TOOLS="${VAULT}/Tools/Vinyl"
+ASSETS="${VAULT}/assets/artists"
+OUT="Discogs_Artists.md"
+username="doctorfree"
+
+# URL="https://api.discogs.com/releases"
+URL="https://api.discogs.com"
+ART="${URL}/artists"
+
+AGE="github.com/doctorfree/MusicPlayerPlus"
+UAG="--user-agent \"MusicPlayerPlus/3.0\""
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+cd "${TOP}"
+[ -d "${VAULT}/assets" ] || mkdir "${VAULT}/assets"
+[ -d "${VAULT}/assets/artists" ] || mkdir "${VAULT}/assets/artists"
+[ -d "${TOOLS}/json" ] || mkdir "${TOOLS}/json"
+[ -d "${TOOLS}/json/artists" ] || mkdir "${TOOLS}/json/artists"
+
+mkartists=
+numcols=1
+overwrite=
+remove=
+[ "$1" == "-f" ] && overwrite=1
+[ "$1" == "-r" ] && remove=1
+
+[ "${remove}" ] || [ "${overwrite}" ] && rm -f ../${OUT}
+
+[ -f ../${OUT} ] || {
+  mkartists=1
+  echo "# Discogs Artists" > ../${OUT}
+  echo "" >> ../${OUT}
+  echo "## List of Discogs Artists in Vault" >> ../${OUT}
+  echo "" >> ../${OUT}
+  echo "| **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** | **Artist Name** |" >> ../${OUT}
+  echo "|--|--|--|--|--|" >> ../${OUT}
+}
+
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  album="${artist}"
+  [ -f ${artist}/${artist}.md ] && {
+    grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+  }
+  [ "${remove}" ] && {
+    rm -f ${artist}/${album}.md
+    continue
+  }
+  if [ "${overwrite}" ]
+  then
+    [ -f ${artist}/${album}.md ] && {
+      grep "title:" ${artist}/${album}.md > /dev/null && continue
+    }
+    rm -f ${artist}/${album}.md
+  else
+    [ -f ${artist}/${album}.md ] && continue
+  fi
+  cd "${artist}"
+  echo "Creating artist markdown for ${artist}"
+  echo "" > /tmp/sa$$
+  echo "## See also" >> /tmp/sa$$
+  echo "" >> /tmp/sa$$
+  artistname=
+  release_id=
+  for disc in *.md
+  do
+    [ "${disc}" == "*.md" ] && continue
+    [ "${disc}" == "${album}.md" ] && continue
+    [ "${artistname}" ] || {
+      artistname=`grep "artist:" ${disc} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+    }
+    [ "${release_id}" ] || {
+      release_id=`grep "releaseid:" ${disc} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      [ -s "${TOOLS}/json/${release_id}/${release_id}.json" ] || release_id=
+    }
+    title=`grep "title:" ${disc} | awk -F ':' ' { print $2 } ' | \
+      sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+    echo "- [${title}](${disc})" >> /tmp/sa$$
+  done
+  wikilink=`echo ${artistname} | sed -e "s/ /_/g"`
+  echo "# ${artistname}" > /tmp/au$$
+  echo "" >> /tmp/au$$
+  [ -s "${TOOLS}/json/${release_id}/${release_id}.json" ] && {
+    artist_id=`cat "${TOOLS}/json/${release_id}/${release_id}.json" | \
+      jq -r '.artists[0].id'`
+    # Retrieve artist profile
+    artist_profile=$(curl --stderr /dev/null \
+      -A "${AGE}" "${ART}/${artist_id}" \
+      -H "Accept: application/vnd.discogs.v2.plaintext+json" \
+      -H "Authorization: Discogs token=${token}" | \
+      jq -r '.')
+    sleep 1
+    echo "${artist_profile}" > "${TOOLS}/json/artists/${artist_id}.json"
+    [ -f "${artist}.png" ] || {
+      avatar_url=`echo ${artist_profile} | jq -r '.images[0].uri'`
+      wget -q -O "${artist}.jpg" "${avatar_url}"
+      [ -s "${artist}.jpg" ] && {
+        convert "${artist}.jpg" "${artist}.png"
+      }
+      rm -f ${artist}.jpg
+    }
+
+    [ -f ${artist}.png ] && {
+      mv "${artist}.png" ../../assets/artists
+      echo "![](../../asssets/artists/${artist}.png)" >> /tmp/au$$
+      echo "" >> /tmp/au$$
+    }
+
+    echo "## Artist Profile" >> /tmp/au$$
+    echo "" >> /tmp/au$$
+    description=`echo ${artist_profile} | jq -r '.profile_plaintext'`
+    echo "${description}" >> /tmp/au$$
+    echo "" >> /tmp/au$$
+
+    echo "## Artist Links" >> /tmp/au$$
+    echo "" >> /tmp/au$$
+    while read url
+    do
+      echo "- [${url}](${url})" >> /tmp/au$$
+    done < <(echo ${artist_profile} | jq -r '.urls[]?')
+    echo "" >> /tmp/au$$
+  }
+  cat /tmp/au$$ /tmp/sa$$ > ${album}.md
+  rm -f /tmp/au$$ /tmp/sa$$
+  cd ..
+done
+
+cd "${TOP}"
+for artist in *
+do
+  [ "${artist}" == "*" ] && continue
+  [ -d "${artist}" ] || continue
+  [ "${mkartists}" ] && {
+    album="${artist}"
+    [ -f ${artist}/${artist}.md ] && {
+      grep "title:" ${artist}/${artist}.md > /dev/null && album="${artist}_index"
+    }
+    [ -f "${artist}/${album}.md" ] && {
+      for disc in ${artist}/*.md
+      do
+        [ "${disc}" == "${artist}/*.md" ] && continue
+        [ "${disc}" == "${artist}/${album}.md" ] && continue
+        grep "artist:" ${disc} > /dev/null && {
+          artistname=`grep "artist:" ${disc} | head -1 | \
+            awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          break
+        }
+      done
+      [ "${artistname}" ] && {
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${artistname}](Discogs/${artist}/${album}.md) |\n" >> ../${OUT}
+          numcols=1
+        else
+          printf "| [${artistname}](Discogs/${artist}/${album}.md) " >> ../${OUT}
+          numcols=$((numcols+1))
+        fi
+      }
+    }
+  }
+done
+
+[ "${mkartists}" ] && {
+  while [ ${numcols} -lt 4 ]
+  do
+    printf "| " >> ../${OUT}
+    numcols=$((numcols+1))
+  done
+  printf "|\n" >> ../${OUT}
+}

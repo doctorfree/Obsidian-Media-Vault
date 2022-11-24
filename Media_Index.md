@@ -36,6 +36,13 @@ banner_y: 0.35
 - [Table of CD by Artist](Table_of_CD_by_Artist.md)
 - [Table of CD by Title](Table_of_CD_by_Title.md)
 
+## Discogs Collection
+
+- [Discogs Artists](Discogs_Artists.md)
+- [Discogs by Artist](Discogs_by_Artist.md)
+- [Discogs by Title](Discogs_by_Title.md)
+- [Discogs User Profile](Discogs_User_Profile.md)
+
 ## [Digital Music Libraries](Digital_Music_Libraries.md)
 
 ### Apple Music
@@ -83,7 +90,6 @@ banner_y: 0.35
 
 ## Vinyl Records
 
-- [Discogs User Profile](Discogs_User_Profile.md)
 - [Vinyl Artists](Vinyl_Artists.md)
 - [Vinyl by Artist](Vinyl_by_Artist.md)
 - [Vinyl by Title](Vinyl_by_Title.md)
