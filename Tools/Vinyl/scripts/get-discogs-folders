@@ -1,0 +1,82 @@
+#!/bin/bash
+#
+# get-discogs-folders
+#
+# Get your Discogs collection folders
+
+# Set to the username of the Discogs collection to query
+username="doctorfree"
+
+# URL="https://api.discogs.com/releases"
+URL="https://api.discogs.com"
+USR="${URL}/users/${username}"
+FDR="${URL}/users/${username}/collection/folders"
+
+AGE="github.com/doctorfree/MusicPlayerPlus"
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+
+[ -d json ] || mkdir json
+
+# Retrieve collection folders
+folders=$(curl --stderr /dev/null \
+  -A "${AGE}" "${FDR}" \
+  -H "Authorization: Discogs token=${token}" | \
+  jq -r '.')
+
+echo "${folders}" > "json/doctorfree_folders.json"
+# minimum=`echo ${values} | jq '.minimum' | sed -e "s/\"//g"`
+# median=`echo ${values} | jq '.median' | sed -e "s/\"//g"`
+# maximum=`echo ${values} | jq '.maximum' | sed -e "s/\"//g"`
+# 
+# filename="Discogs_User_Profile.md"
+# echo "# Discogs User Profile" > "${filename}"
+# echo "" >> "${filename}"
+# [ -f ${username}_discogs_avatar.png ] && {
+#   echo "![](assets/${username}_discogs_avatar.png)" >> "${filename}"
+#   echo "" >> "${filename}"
+# }
+# echo "" >> "${filename}"
+# echo "## Discogs user ${username} collection value" >> "${filename}"
+# echo "" >> "${filename}"
+# echo "| **Minimum** | **Median** | **Maximum** |" >> "${filename}"
+# echo "|-------------|------------|-------------|" >> "${filename}"
+# echo "| ${minimum} | ${median} | ${maximum} |" >> "${filename}"
+# echo "## Discogs user ${username} profile" >> "${filename}"
+# echo "" >> "${filename}"
+# 
+# id=`echo ${profile} | jq '.id' | sed -e "s/\"//g"`
+# uri=`echo ${profile} | jq '.uri' | sed -e "s/\"//g"`
+# name=`echo ${profile} | jq '.name' | sed -e "s/\"//g"`
+# home_page=`echo ${profile} | jq '.home_page' | sed -e "s/\"//g"`
+# location=`echo ${profile} | jq '.location' | sed -e "s/\"//g"`
+# desc=`echo ${profile} | jq '.profile' | sed -e "s/\"//g"`
+# num=`echo ${profile} | jq '.num_collection' | sed -e "s/\"//g"`
+# email=`echo ${profile} | jq '.email' | sed -e "s/\"//g"`
+# rank=`echo ${profile} | jq '.rank' | sed -e "s/\"//g"`
+# releases_contributed=`echo ${profile} | jq '.releases_contributed' | sed -e "s/\"//g"`
+# buyer_rating=`echo ${profile} | jq '.buyer_rating' | sed -e "s/\"//g"`
+# buyer_rating_stars=`echo ${profile} | jq '.buyer_rating_stars' | sed -e "s/\"//g"`
+# seller_rating=`echo ${profile} | jq '.seller_rating' | sed -e "s/\"//g"`
+# seller_rating_stars=`echo ${profile} | jq '.seller_rating_stars' | sed -e "s/\"//g"`
+# 
+# echo "Discogs user **${username}** has the following profile:" >> "${filename}"
+# echo "" >> "${filename}"
+# echo "${desc}" >> "${filename}"
+# echo "" >> "${filename}"
+# echo "- **Discogs ID:** ${id}" >> "${filename}"
+# echo "- **Discogs URL:** ${uri}" >> "${filename}"
+# echo "- **Name:** ${name}" >> "${filename}"
+# echo "- **Home Page:** ${home_page}" >> "${filename}"
+# echo "- **Location:** ${location}" >> "${filename}"
+# echo "- **Email:** ${email}" >> "${filename}"
+# echo "- **Number of items in Discogs collection:** ${num}" >> "${filename}"
+# echo "- **Discogs Rank:** ${rank}" >> "${filename}"
+# echo "- **Discogs Releases Contributed:** ${releases_contributed}" >> "${filename}"
+# echo "- **Discogs Buyer Rating:** ${buyer_rating}" >> "${filename}"
+# echo "- **Discogs Buyer Rating Stars:** ${buyer_rating_stars}" >> "${filename}"
+# echo "- **Discogs Seller Rating:** ${seller_rating}" >> "${filename}"
+# echo "- **Discogs Seller Rating Stars:** ${seller_rating_stars}" >> "${filename}"
+# echo "" >> "${filename}"
+# 
+# mv "${filename}" ../../..
+# mv ${username}_discogs_avatar.png ../../../assets/${username}_discogs_avatar.png

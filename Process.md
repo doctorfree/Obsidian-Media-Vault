@@ -19,6 +19,7 @@ See the [See also](#see_also) section below for links to some of these other tec
 - [Beets library](#beets_library)
 - [Books library](#books_library)
 - [Vinyl library](#vinyl_library)
+    - [Discogs](#discogs)
 - [CD library](#cd_library)
 - [Apple Music](#apple_music)
 - [Roon library](#roon_library)
@@ -1594,6 +1595,373 @@ done
 
 </Details>
 
+### Discogs
+
+Automation for generating markdown from a user's [Discogs](https://discogs.com) collection has been implemented in the `Tools/Vinyl/gen_discogs_albums` script. This script uses the Discogs API to retrieve album/artist data and generate the markdown and cover art for all items in a user's Discogs collection:
+
+```console
+cd Tools/Vinyl
+vi gen_discogs_albums # Set the 'username' variable to your Discogs username
+./gen_discogs_albums
+```
+
+The resulting markdown and cover art can be found in the `./Discogs` and `./assets` folders.
+
+**[Note:]** For large Discogs collections this process can take hours.
+
+<Details markdown="block">
+
+See the script [Tools/Vinyl/gen_discogs_albums](Tools/Vinyl/gen_discogs_albums.md):
+
+#### [Tools/Vinyl/gen_discogs_albums](Tools/Vinyl/gen_discogs_albums.md) (click to collapse/expand)
+
+```shell
+
+#!/bin/bash
+#
+# gen_discogs_albums
+#
+# Generate markdown for every item in your Discogs collection
+
+# Set to the username of the Discogs collection to query
+username="doctorfree"
+
+URL="https://api.discogs.com"
+REL="${URL}/releases"
+MRL="${URL}/masters"
+# Not yet used, these are for custom collection fields
+FLD="${URL}/users/${username}/collection/fields"
+USR="${URL}/users/${username}/collection/releases"
+FDR="${URL}/users/${username}/collection/folders"
+
+HERE=`pwd`
+TOP="${HERE}/Discogs"
+AGE="github.com/doctorfree/MusicPlayerPlus"
+UAG="--user-agent \"MusicPlayerPlus/3.0\""
+token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
+coverfolder="${HERE}/assets/albumcovers"
+
+[ -d "${TOP}" ] || mkdir -p "${TOP}"
+[ -d "${coverfolder}" ] || {
+  [ -d "${HERE}/assets" ] || mkdir -p "${HERE}/assets"
+  mkdir -p "${coverfolder}"
+}
+
+make_release_markdown() {
+    while read releaseid
+    do
+      [ -d json/${releaseid} ] || mkdir json/${releaseid}
+
+      [ -s "json/${releaseid}/${releaseid}.json" ] || {
+        curl --stderr /dev/null \
+          -A "${AGE}" "${REL}/${releaseid}" \
+          -H "Authorization: Discogs token=${token}" | \
+          jq -r '.' > "json/${releaseid}/${releaseid}.json"
+        sleep 1
+      }
+
+      [ -s "json/${releaseid}/${releaseid}_genres.json" ] || {
+        cat "json/${releaseid}/${releaseid}.json" | jq -r '.genres[]?' > \
+          "json/${releaseid}/${releaseid}_genres.json"
+      }
+      [ -s "json/${releaseid}/${releaseid}_styles.json" ] || {
+        cat "json/${releaseid}/${releaseid}.json" | jq -r '.styles[]?' > \
+          "json/${releaseid}/${releaseid}_styles.json"
+      }
+
+      title=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.title'`
+      titlename=`echo ${title} | \
+                 sed -e "s% %_%g" \
+                     -e "s%,%_%g" \
+                     -e "s%(%%g" \
+                     -e "s%)%%g" \
+                     -e "s%:%-%g" \
+                     -e "s%\#%%g" \
+                     -e "s%\.%%g" \
+                     -e "s%\"%%g" \
+                     -e "s%\&%and%g" \
+                     -e "s%\?%%g" \
+                     -e "s%\\'%%g" \
+                     -e "s%'%%g" \
+                     -e "s%/%-%g"`
+
+      artist=`cat "json/${releaseid}/${releaseid}.json" | \
+        jq -r '.artists[0].name' | sed -e 's/ ([[:digit:]]\+)//'`
+      artistname=`echo ${artist} | \
+                  sed -e "s% %_%g" \
+                      -e "s%,%_%g" \
+                      -e "s%(%%g" \
+                      -e "s%)%%g" \
+                      -e "s%:%-%g" \
+                      -e "s%\#%%g" \
+                      -e "s%\.%%g" \
+                      -e "s%\"%%g" \
+                      -e "s%\&%and%g" \
+                      -e "s%\?%%g" \
+                      -e "s%\\'%%g" \
+                      -e "s%'%%g" \
+                      -e "s%/%-%g"`
+
+      filename="${artistname}-${titlename}"
+      markdown="${filename}.md"
+
+      [ -f "${filename}.png" ] || {
+        coverurl=$(cat "json/${releaseid}/${releaseid}.json" | \
+          jq -r '.images[0].resource_url')
+        suffix=`echo "${coverurl}" | awk -F '/' ' { print $NF } ' | \
+                                     awk -F '.' ' { print $NF } '`
+        wget -q -O "${filename}.${suffix}" "${coverurl}"
+        [ "${suffix}" == "png" ] || {
+          convert "${filename}.${suffix}" "${filename}.png"
+          rm -f "${filename}.${suffix}"
+        }
+      }
+      [ -s "${filename}.png" ] && {
+        [ -d "${coverfolder}" ] && {
+          mv "${filename}.png" "${coverfolder}/${filename}.png"
+        }
+      }
+      rm -f "${filename}.png"
+
+      label=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.labels[].name'`
+
+      echo "---" > "${markdown}"
+      echo "title: ${title}" >> "${markdown}"
+      echo "artist: ${artist}" >> "${markdown}"
+      echo "label: ${label}" >> "${markdown}"
+
+      formats=`cat "json/${releaseid}/${releaseid}.json" | \
+               jq -r '.formats[]' | jq -r '.name'`
+      cat "json/${releaseid}/${releaseid}.json" | \
+               jq -r '.formats[]' | \
+               jq -r '.descriptions[]' > "${releaseid}_formats.txt"
+
+      # Insert format data for this album
+      while read format
+      do
+        [ "${format}" == "null" ] && format=
+        [ "${format}" ] || continue
+        formats="${formats}, ${format}"
+      done < <(/bin/cat "${releaseid}_formats.txt")
+      rm -f ${releaseid}_formats.txt
+      echo "formats: ${formats}" >> "${markdown}"
+
+      # Insert genre/styles data for this album
+      first=1
+      genres=
+      while read genre
+      do
+        genre=`echo "${genre}" | sed -e "s/\"//g"`
+        [ "${genre}" == "null" ] && genre=
+        [ "${genre}" ] || continue
+        if [ "${first}" ]
+        then
+          genres="${genre}"
+          first=
+        else
+          genres="${genres}, ${genre}"
+        fi
+      done < <(/bin/cat "json/${releaseid}/${releaseid}_genres.json")
+
+      while read style
+      do
+        style=`echo "${style}" | sed -e "s/\"//g"`
+        [ "${style}" == "null" ] && style=
+        [ "${style}" ] || continue
+        genres="${genres}, ${style}"
+      done < <(/bin/cat "json/${releaseid}/${releaseid}_styles.json")
+      echo "genres: ${genres}" >> "${markdown}"
+
+      rating=`cat "json/${releaseid}/${releaseid}.json" | \
+        jq '.community.rating.average'`
+      echo "rating: ${rating}" >> "${markdown}"
+
+      released=`cat "json/${releaseid}/${releaseid}.json" | \
+        jq -r '.released'`
+      echo "released: ${released}" >> "${markdown}"
+
+      # Get year from master release if there is one, otherwise use year of release
+      year=
+      [ -s json/${releaseid}/${releaseid}_master.json ] || {
+        masterid=`cat "json/${releaseid}/${releaseid}.json" | \
+          jq -r '.master_id'`
+        [ -z ${masterid} ] || {
+          curl --stderr /dev/null \
+            -A "${AGE}" "${MRL}/${masterid}" \
+            -H "Authorization: Discogs token=${token}" | \
+            jq -r '.' > json/${releaseid}/${releaseid}_master.json
+          sleep 1
+        }
+      }
+      [ -f "json/${releaseid}/${releaseid}_master.json" ] && {
+        year=`cat "json/${releaseid}/${releaseid}_master.json" | \
+          jq -r '.year'`
+      }
+      [ "${year}" == "null" ] && year=
+      [ "${year}" ] || {
+        year=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.year'`
+      }
+      echo "year: ${year}" >> "${markdown}"
+
+      echo "releaseid: ${releaseid}" >> "${markdown}"
+
+      # TODO: loop through custom fields, get name of field, get value
+
+      # Retrieve custom collection fields
+      # [ -s "json/custom_fields.json" ] || {
+      #   curl --stderr /dev/null \
+      #     -A "${AGE}" "${FLD}" \
+      #     -H "Authorization: Discogs token=${token}" | \
+      #       jq -r '.' > "json/custom_fields.json"
+      #   sleep 1
+      # }
+
+      # Retrieve custom field settings for this release
+      # [ -s "json/${releaseid}/${releaseid}_user.json" ] || {
+      #   curl --stderr /dev/null \
+      #     -A "${AGE}" "${USR}/${releaseid}" \
+      #     -H "Authorization: Discogs token=${token}" | \
+      #       jq -r '.' > "json/${releaseid}/${releaseid}_user.json"
+      #   sleep 1
+      # }
+
+      # These are the custom collection fields for my collection
+      echo "mediacondition: ${mediacondition}" >> "${markdown}"
+      echo "sleevecondition: ${sleevecondition}" >> "${markdown}"
+      echo "speed: ${speed}" >> "${markdown}"
+      echo "weight: ${weight}" >> "${markdown}"
+      echo "notes: ${notes}" >> "${markdown}"
+      echo "---" >> "${markdown}"
+      echo "" >> "${markdown}"
+
+      echo "# ${title}" >> "${markdown}"
+      echo "" >> "${markdown}"
+
+      echo "By ${artist}" >> "${markdown}"
+      echo "" >> "${markdown}"
+
+      [ -f "${coverfolder}/${filename}.png" ] && {
+        echo "![](../../assets/albumcovers/${filename}.png)" >> "${markdown}"
+        echo "" >> "${markdown}"
+      }
+
+      echo "## Album Data" >> "${markdown}"
+      echo "" >> "${markdown}"
+
+      uri=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.uri'`
+      echo "[Discogs URL](${uri})" >> "${markdown}"
+      echo "" >> "${markdown}"
+
+      echo "- Label: ${label}" >> "${markdown}"
+      echo "- Formats: ${formats}" >> "${markdown}"
+      echo "- Genres: ${genres}" >> "${markdown}"
+      echo "- Rating: ${rating}" >> "${markdown}"
+      echo "- Released: ${released}" >> "${markdown}"
+      echo "- Year: ${year}" >> "${markdown}"
+      echo "- Release ID: ${releaseid}" >> "${markdown}"
+      echo "- Media condition: ${mediacondition}" >> "${markdown}"
+      echo "- Sleeve condition: ${sleevecondition}" >> "${markdown}"
+      echo "- Speed: ${speed}" >> "${markdown}"
+      echo "- Weight: ${weight}" >> "${markdown}"
+      echo "- Notes: ${notes}" >> "${markdown}"
+      echo "" >> "${markdown}"
+
+      [ -s "json/${releaseid}/${releaseid}_tracks.json" ] || {
+        cat "json/${releaseid}/${releaseid}.json" | \
+          jq -r '.tracklist[] | "\(.position)%\(.title)%\(.duration)"' > \
+          "json/${releaseid}/${releaseid}_tracks.json"
+      }
+
+      # Create track list for this album
+      echo "## Album Tracks" > /tmp/__insert__
+      echo "" >> /tmp/__insert__
+      echo "| **Position** | **Title** | **Duration** |" >> /tmp/__insert__
+      echo "|--------------|-----------|--------------|" >> /tmp/__insert__
+      cat "json/${releaseid}/${releaseid}_tracks.json" | while read track
+      do
+        [ "${track}" ] || continue
+        position=`echo "${track}" | awk -F '%' ' { print $1 } '`
+        title=`echo "${track}" | awk -F '%' ' { print $2 } '`
+        duration=`echo "${track}" | awk -F '%' ' { print $3 } '`
+        echo "| ${position} | **${title}** | ${duration} |" >> /tmp/__insert__
+      done
+      echo "" >> /tmp/__insert__
+      cat ${markdown} /tmp/__insert__ > /tmp/foo$$
+      cp /tmp/foo$$ ${markdown}
+      rm -f /tmp/foo$$ /tmp/__insert__ 
+
+      [ -s "json/${releaseid}/${releaseid}_extra.json" ] || {
+        cat "json/${releaseid}/${releaseid}.json" | \
+          jq -r '.extraartists[] | "\(.name)%\(.role)"' > \
+          "json/${releaseid}/${releaseid}_extra.json"
+      }
+      [ -s "json/${releaseid}/${releaseid}_extra.json" ] && {
+        # Insert artist roles list for this album
+        echo "## Artist Roles" > /tmp/__insert__
+        echo "" >> /tmp/__insert__
+        echo "| **Name** | **Role** |" >> /tmp/__insert__
+        echo "|----------|----------|" >> /tmp/__insert__
+        cat "json/${releaseid}/${releaseid}_extra.json" | while read artistrole
+        do
+          [ "${artistrole}" ] || continue
+          name=`echo "${artistrole}" | awk -F '%' ' { print $1 } '`
+          role=`echo "${artistrole}" | awk -F '%' ' { print $2 } '`
+          echo "| **${name}** | ${role} |" >> /tmp/__insert__
+        done
+        echo "" >> /tmp/__insert__
+        cat ${markdown} /tmp/__insert__ > /tmp/foo$$
+        cp /tmp/foo$$ ${markdown}
+        rm -f /tmp/foo$$ /tmp/__insert__
+        echo "" >> "${markdown}"
+      }
+
+      [ -d "${TOP}/${artistname}" ] || mkdir -p "${TOP}/${artistname}"
+      cp "${markdown}" "${TOP}/${artistname}/${markdown}"
+      rm -f "${markdown}"
+    done < <(/bin/cat "json/releases/releases_$1.json" | jq -r '.releases[].id')
+}
+
+[ -d json ] || mkdir json
+[ -d json/releases ] || mkdir json/releases
+
+# Get the first page and set pages
+page=1
+[ -s "json/releases/releases_${page}.json" ] || {
+  curl --stderr /dev/null \
+    -A "${AGE}" "${FDR}/0/releases?page=${page}" \
+    -H "Authorization: Discogs token=${token}" | \
+    jq -r '.' > "json/releases/releases_${page}.json"
+  sleep 1
+}
+[ -s "json/releases/releases_${page}.json" ] && make_release_markdown ${page}
+pages=`cat "json/releases/releases_${page}.json" | jq -r '.pagination.pages'`
+
+# Get the rest of the pages
+[ ${page} -lt ${pages} ] && {
+  page=2
+  while true
+  do
+    [ -s "json/releases/releases_${page}.json" ] || {
+      curl --stderr /dev/null \
+        -A "${AGE}" "${FDR}/0/releases?page=${page}" \
+        -H "Authorization: Discogs token=${token}" | \
+        jq -r '.' > "json/releases/releases_${page}.json"
+      sleep 1
+    }
+    [ -s "json/releases/releases_${page}.json" ] && make_release_markdown ${page}
+    if [ ${page} -lt ${pages} ]
+    then
+      page=$((page + 1))
+    else
+      break
+    fi
+  done
+}
+
+```
+
+</Details>
+
 ## CD_library
 
 My CDs are catalogued in [Collectorz](https://cloud.collectorz.com). To export a Collectorz library:
@@ -2237,17 +2605,18 @@ Playlists from the Roon Audio System were generated using the [RoonCommandLine](
 
 ## Updates
 
-Updating the vault with new markdown for albums, cds, books, or other media added to your collections is currently in development. Some automation for this task has been initiated in the `Tools/Vinyl/scripts` folder for updating the Vinyl records markdown and cover art with newly added entries to a Discogs collection. This is largely done by querying the Discogs API. To update the Vinyl markdown and cover art for a newly added Discogs album:
+Updating the vault with new markdown for albums, cds, books, or other media added to your collections is currently in development. Some automation for this task has been initiated in the `Tools/Vinyl/` folder for updating the Vinyl records markdown and cover art with newly added entries to a Discogs collection. This is largely done by querying the Discogs API. To update the Vinyl markdown and cover art for a newly added Discogs album:
 
 ```console
-cd Tools/Vinyl/scripts
+cd Tools/Vinyl
 ./get-new-album <discogs_release_id>
 ```
 
 <Details markdown="block">
-See the script `Tools/Vinyl/scripts/get-new-album`:
 
-### [Tools/Vinyl/scripts/get-new-album](Tools/Vinyl/scripts/get-new-album.md) (click to collapse/expand)
+See the script [Tools/Vinyl/get-new-album](Tools/Vinyl/get-new-album.md):
+
+### [Tools/Vinyl/get-new-album](Tools/Vinyl/get-new-album.md) (click to collapse/expand)
 
 ```shell
 
@@ -2268,9 +2637,6 @@ releaseid=5589433
 # title="Moses Live"
 # artist="Moses"
 
-# Path to album cover art folder, relative to current folder
-coverfolder="../../../assets/albumcovers"
-
 # URL="https://api.discogs.com/releases"
 URL="https://api.discogs.com"
 REL="${URL}/releases"
@@ -2279,14 +2645,17 @@ MRL="${URL}/masters"
 FLD="${URL}/users/${username}/collection/fields"
 USR="${URL}/users/${username}/collection/releases"
 
-TOP="${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Vinyl"
+HERE=`pwd`
+TOP="${HERE}/Discogs"
 AGE="github.com/doctorfree/MusicPlayerPlus"
 UAG="--user-agent \"MusicPlayerPlus/3.0\""
+coverfolder="${HERE}/assets/albumcovers"
 token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 
-[ -d "${TOP}" ] || {
-  echo "$TOP does not exist or is not a directory. Exiting."
-  exit 1
+[ -d "${TOP}" ] || mkdir -p "${TOP}"
+[ -d "${coverfolder}" ] || {
+  [ -d "${HERE}/assets" ] || mkdir -p "${HERE}/assets"
+  mkdir -p "${coverfolder}"
 }
 
 [ -d json ] || mkdir json
@@ -2300,26 +2669,51 @@ token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 }
 
 [ -s "json/${releaseid}/${releaseid}_genres.json" ] || {
-  cat "json/${releaseid}/${releaseid}.json" | jq '.genres[]' > \
+  cat "json/${releaseid}/${releaseid}.json" | jq -r '.genres[]' > \
     "json/${releaseid}/${releaseid}_genres.json"
 }
 [ -s "json/${releaseid}/${releaseid}_styles.json" ] || {
-  cat "json/${releaseid}/${releaseid}.json" | jq '.styles[]' > \
+  cat "json/${releaseid}/${releaseid}.json" | jq -r '.styles[]' > \
     "json/${releaseid}/${releaseid}_styles.json"
 }
 
 [ "${title}" ] || {
-  title=`cat "json/${releaseid}/${releaseid}.json" | \
-  jq '.title' | sed -e "s/\"//g"`
+  title=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.title'`
 }
-titlename=`echo "${title}" | sed -e "s/ /_/g"`
+titlename=`echo ${title} | \
+           sed -e "s% %_%g" \
+               -e "s%,%_%g" \
+               -e "s%(%%g" \
+               -e "s%)%%g" \
+               -e "s%:%-%g" \
+               -e "s%\#%%g" \
+               -e "s%\.%%g" \
+               -e "s%\"%%g" \
+               -e "s%\&%and%g" \
+               -e "s%\?%%g" \
+               -e "s%\\'%%g" \
+               -e "s%'%%g" \
+               -e "s%/%-%g"`
 
 [ "${artist}" ] || {
   artist=`cat "json/${releaseid}/${releaseid}.json" | \
-    jq '.artists_sort' | \
-    sed -e 's/ ([[:digit:]]\+)//' -e "s/\"//g"`
+    jq -r '.artists[0].name' | sed -e 's/ ([[:digit:]]\+)//'`
 }
-artistname=`echo "${artist}" | sed -e "s/ /_/g"`
+artistname=`echo ${artist} | \
+            sed -e "s% %_%g" \
+                -e "s%,%_%g" \
+                -e "s%(%%g" \
+                -e "s%)%%g" \
+                -e "s%:%-%g" \
+                -e "s%\#%%g" \
+                -e "s%\.%%g" \
+                -e "s%\"%%g" \
+                -e "s%\&%and%g" \
+                -e "s%\?%%g" \
+                -e "s%\\'%%g" \
+                -e "s%'%%g" \
+                -e "s%/%-%g"`
+
 filename="${artistname}-${titlename}"
 markdown="${filename}.md"
 
@@ -2336,12 +2730,11 @@ markdown="${filename}.md"
 }
 [ -s "${filename}.png" ] && {
   [ -d "${coverfolder}" ] && {
-    cp "${filename}.png" "${coverfolder}/${filename}.png"
+    mv "${filename}.png" "${coverfolder}/${filename}.png"
   }
 }
 
-label=`cat "json/${releaseid}/${releaseid}.json" | \
-  jq '.labels[].name' | sed -e "s/\"//g"`
+label=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.labels[].name'`
 
 echo "---" > "${markdown}"
 echo "title: ${title}" >> "${markdown}"
@@ -2349,8 +2742,7 @@ echo "artist: ${artist}" >> "${markdown}"
 echo "label: ${label}" >> "${markdown}"
 
 formats=`cat "json/${releaseid}/${releaseid}.json" | \
-         jq -r '.formats[]' | \
-         jq -r '.name' | sed -e "s/\"//g"`
+         jq -r '.formats[]' | jq -r '.name'`
 cat "json/${releaseid}/${releaseid}.json" | \
          jq -r '.formats[]' | \
          jq -r '.descriptions[]' > "${releaseid}_formats.txt"
@@ -2391,19 +2783,16 @@ do
 done < <(/bin/cat "json/${releaseid}/${releaseid}_styles.json")
 echo "genres: ${genres}" >> "${markdown}"
 
-rating=`cat "json/${releaseid}/${releaseid}.json" | \
-  jq '.community.rating.average'`
+rating=`cat "json/${releaseid}/${releaseid}.json" | jq '.community.rating.average'`
 echo "rating: ${rating}" >> "${markdown}"
 
-released=`cat "json/${releaseid}/${releaseid}.json" | \
-  jq '.released' | sed -e "s/\"//g"`
+released=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.released'`
 echo "released: ${released}" >> "${markdown}"
 
 # Get year from master release if there is one, otherwise use year of release
 year=
 [ -s json/${releaseid}/${releaseid}_master.json ] || {
-  masterid=`cat "json/${releaseid}/${releaseid}.json" | \
-    jq -r '.master_id' | sed -e "s/\"//g"`
+  masterid=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.master_id'`
   [ -z ${masterid} ] || {
     curl --stderr /dev/null \
       -A "${AGE}" "${MRL}/${masterid}" \
@@ -2412,13 +2801,11 @@ year=
   }
 }
 [ -f "json/${releaseid}/${releaseid}_master.json" ] && {
-  year=`cat "json/${releaseid}/${releaseid}_master.json" | \
-    jq -r '.year' | sed -e "s/\"//g"`
+  year=`cat "json/${releaseid}/${releaseid}_master.json" | jq -r '.year'`
 }
 [ "${year}" == "null" ] && year=
 [ "${year}" ] || {
-  year=`cat "json/${releaseid}/${releaseid}.json" | \
-    jq -r '.year' | sed -e "s/\"//g"`
+  year=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.year'`
 }
 echo "year: ${year}" >> "${markdown}"
 
@@ -2457,7 +2844,7 @@ echo "" >> "${markdown}"
 echo "By ${artist}" >> "${markdown}"
 echo "" >> "${markdown}"
 
-[ -f "${filename}.png" ] && {
+[ -f "${coverfolder}/${filename}.png" ] && {
   echo "![](../../assets/albumcovers/${filename}.png)" >> "${markdown}"
   echo "" >> "${markdown}"
 }
@@ -2465,8 +2852,7 @@ echo "" >> "${markdown}"
 echo "## Album Data" >> "${markdown}"
 echo "" >> "${markdown}"
 
-uri=`cat "json/${releaseid}/${releaseid}.json" | \
-     jq '.uri' | sed -e "s/\"//g" -e "s/,//g"`
+uri=`cat "json/${releaseid}/${releaseid}.json" | jq -r '.uri'`
 echo "[Discogs URL](${uri})" >> "${markdown}"
 echo "" >> "${markdown}"
 
@@ -2539,6 +2925,7 @@ rm -f /tmp/foo$$ /tmp/__insert__
 
 [ -d "${TOP}/${artistname}" ] || mkdir -p "${TOP}/${artistname}"
 cp "${markdown}" "${TOP}/${artistname}/${markdown}"
+rm -f "${markdown}"
 
 ```
 
