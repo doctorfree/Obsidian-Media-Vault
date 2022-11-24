@@ -36,13 +36,6 @@ banner_y: 0.35
 - [Table of CD by Artist](Table_of_CD_by_Artist.md)
 - [Table of CD by Title](Table_of_CD_by_Title.md)
 
-## Discogs Collection
-
-- [Discogs Artists](Discogs_Artists.md)
-- [Discogs by Artist](Discogs_by_Artist.md)
-- [Discogs by Title](Discogs_by_Title.md)
-- [Discogs User Profile](Discogs_User_Profile.md)
-
 ## [Digital Music Libraries](Digital_Music_Libraries.md)
 
 ### Apple Music
@@ -88,7 +81,20 @@ banner_y: 0.35
 
 - [Roon Albums](Dataviews/Roon_Albums.md)
 
+## Discogs Collection
+
+The 'Discogs Collection' markdown was produced using the Discogs API and results in much higher quality information on albums and artists. This area repeats, to some extent, the information provided in the 'Vinyl Records' section below.
+
+- [Discogs Artists](Discogs_Artists.md)
+- [Discogs by Artist](Discogs_by_Artist.md)
+- [Discogs by Title](Discogs_by_Title.md)
+- [Discogs User Profile](Discogs_User_Profile.md)
+- [Table of Discogs by Title](Table_of_Discogs_by_Title.md)
+- [Table of Discogs by Artist](Table_of_Discogs_by_Artist.md)
+
 ## Vinyl Records
+
+The 'Vinyl Records' markdown was produced by exporting a Discogs collection to CSV format and parsing the CSV. This area repeats, to some extent, the information provided in the 'Discogs Collection' section above. If starting from scratch, use the Discogs API rather than an exported CSV file. Live and Learn.
 
 - [Vinyl Artists](Vinyl_Artists.md)
 - [Vinyl by Artist](Vinyl_by_Artist.md)
