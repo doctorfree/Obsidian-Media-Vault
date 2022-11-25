@@ -1,27 +1,101 @@
+---
+title: The Ozark Mountain Daredevils
+artist: The Ozark Mountain Daredevils
+label: A&M Records
+A&M Records
+formats: Vinyl, LP, Album
+genres: Rock, Country Rock, Southern Rock
+rating: 3.75
+released: 1973
+year: 1973
+releaseid: 990950
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # The Ozark Mountain Daredevils
 
-![](../../asssets/artists/The_Ozark_Mountain_Daredevils.png)
+By The Ozark Mountain Daredevils
 
-## Artist Profile
+![](../../assets/albumcovers/The_Ozark_Mountain_Daredevils-The_Ozark_Mountain_Daredevils.png)
 
-The Ozark Mountain Daredevils are a Southern rock band formed in 1971 at Springfield, Missouri. They are most widely known for their singles "If You Wanna Get To Heaven" in 1973 and "Jackie Blue" in 1974. Some have described the band's sound as a "countrified Steely Dan".
-The "Daredevils" name has much to do with the long hair and beards sported by the band in the 1970s, a rejection of the more conservative style of their native South during that decade. They are still around today with a cult like following. 
+## Album Data
 
-Buddy Brayfield (1972 – 1976)
-John Dillon (1971 – present)
-Larry Lee (1971 – 1979)
-Randle Chowning (1971 – 1976)
-Rune Walle (1976 – 1979)
-Steve Cash (1971 – present
-Molly Healey
+[Discogs URL](https://www.discogs.com/release/990950-The-Ozark-Mountain-Daredevils-The-Ozark-Mountain-Daredevils)
 
-## Artist Links
+- Label: A&M Records
+A&M Records
+- Formats: Vinyl, LP, Album
+- Genres: Rock, Country Rock, Southern Rock
+- Rating: 3.75
+- Released: 1973
+- Year: 1973
+- Release ID: 990950
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-- [http://www.theozarkmountaindaredevils.com](http://www.theozarkmountaindaredevils.com)
-- [http://www.onamrecords.com/myartists.php?artist=Ozark%20Mountain%20Daredevils](http://www.onamrecords.com/myartists.php?artist=Ozark%20Mountain%20Daredevils)
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Country Girl** | 3:14 |
+| A2 | **Spaceship Orion** | 3:10 |
+| A3 | **If You Wanna Get To Heaven** | 3:04 |
+| A4 | **Chicken Train** | 3:36 |
+| A5 | **Colorado Song** | 5:06 |
+| B1 | **Standing On The Rock** | 3:54 |
+| B2 | **Road To Glory** | 4:54 |
+| B3 | **Black Sky** | 3:05 |
+| B4 | **Within Without** | 4:25 |
+| B5 | **Beauty In The River** | 3:53 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **John Dillon (3)** | Acoustic Guitar |
+| **Larry Lee (3)** | Acoustic Guitar |
+| **Randle Chowning** | Acoustic Guitar |
+| **Mike Doud (2)** | Art Direction |
+| **John Dillon (3)** | Autoharp |
+| **Michael Granda** | Bass |
+| **Mike Dempsey (2)** | Design |
+| **Larry Lee (3)** | Drums |
+| **John Dillon (3)** | Dulcimer |
+| **John Dillon (3)** | Electric Guitar |
+| **John Dillon (3)** | Fiddle |
+| **Randle Chowning** | Harmonica [Harp] |
+| **Steve Cash** | Harmonica [Harp] |
+| **Buddy Brayfield** | Harpsichord |
+| **John Dillon (3)** | Jew's Harp [Mouthbow] |
+| **Randle Chowning** | Lead Guitar [Electric] |
+| **John Dillon (3)** | Mandolin |
+| **Buddy Brayfield** | Organ |
+| **Buddy Brayfield** | Percussion |
+| **John Dillon (3)** | Percussion |
+| **Larry Lee (3)** | Percussion |
+| **Michael Granda** | Percussion |
+| **Steve Cash** | Percussion |
+| **Bill Higgins** | Photography By |
+| **Kansas Film Works** | Photography By |
+| **Jeremy Parkin** | Photography By [Sleeve] |
+| **Buddy Brayfield** | Piano |
+| **David Anderle** | Producer |
+| **Glyn Johns** | Producer |
+| **Randle Chowning** | Resonator Guitar [National Steel] |
+| **Larry Lee (3)** | Saw |
+| **Michael Granda** | Sounds [Chicken Squawks] |
+| **Buddy Brayfield** | Vocals |
+| **John Dillon (3)** | Vocals |
+| **Larry Lee (3)** | Vocals |
+| **Michael Granda** | Vocals |
+| **Randle Chowning** | Vocals |
+| **Steve Cash** | Vocals |
 
 
-## See also
-
-- [It'll Shine When It Shines](The_Ozark_Mountain_Daredevils-Itll_Shine_When_It_Shines.md)
-- [The Ozark Mountain Daredevils](The_Ozark_Mountain_Daredevils-The_Ozark_Mountain_Daredevils.md)

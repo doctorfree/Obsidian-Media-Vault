@@ -1,25 +1,66 @@
+---
+title: Mystic Braves
+artist: Mystic Braves
+label: Not On Label
+formats: Vinyl, LP, Album, Reissue
+genres: Rock, Psychedelic Rock, Garage Rock, Folk Rock, Country Rock
+rating: 4.39
+released: 2013
+year: 2013
+releaseid: 5653506
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Mystic Braves
 
-![](../../asssets/artists/Mystic_Braves.png)
+By Mystic Braves
 
-## Artist Profile
+![](../../assets/albumcovers/Mystic_Braves-Mystic_Braves.png)
 
-Mystic Braves is an American pop / rock & roll / psychedelic / country band formed by Julian Ducatenzeiler & Tony Malacara in 2011. The band sites The Seeds, The Zombies, The Beatles, Ultimate Spinach, Garage Rock and Surf Rock as influences.
+## Album Data
 
-Julian Ducantenzeiler – lead vocals, guitar, (2011–present)
-Cameron Gartung – drums, percussion, electronics (2012–present)
-Shane Stotsenburg – guitar, backing vocals (2011–present)
-Ignacio Gonzales – organ, guitar, vocals, tambourine (2013–present)
-Tony Malacara – vocalist/bassist (2011–2019)
+[Discogs URL](https://www.discogs.com/release/5653506-Mystic-Braves-Mystic-Braves)
 
-## Artist Links
+- Label: Not On Label
+- Formats: Vinyl, LP, Album, Reissue
+- Genres: Rock, Psychedelic Rock, Garage Rock, Folk Rock, Country Rock
+- Rating: 4.39
+- Released: 2013
+- Year: 2013
+- Release ID: 5653506
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-- [http://www.mysticbraves.com](http://www.mysticbraves.com)
-- [https://en.wikipedia.org/wiki/Mystic_Braves](https://en.wikipedia.org/wiki/Mystic_Braves)
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Mystic Rabbit** |  |
+| A2 | **Trippin' Like I Do** |  |
+| A3 | **Open Up Your Heart** |  |
+| A4 | **Misery Loves Company** |  |
+| A5 | **Oh So Fine** |  |
+| B1 | **Cloud 9** |  |
+| B2 | **Strange Lovers** |  |
+| B3 | **Vicious Cycle** |  |
+| B4 | **High N'Dry ** |  |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Tony Malacara** | Bass, Vocals |
+| **Cameron Gartung** | Drums, Percussion |
+| **Julian Ducatenzeiler** | Guitar, Vocals |
+| **Shane Stotsenberg** | Guitar, Vocals |
+| **Julian Ducatenzeiler** | Songwriter |
+| **Tony Malacara** | Songwriter |
 
 
-## See also
-
-- [Desert Island](Mystic_Braves-Desert_Island.md)
-- [Mystic Braves](Mystic_Braves-Mystic_Braves.md)
-- [Please Let Me Know](Mystic_Braves-Please_Let_Me_Know.md)

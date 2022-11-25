@@ -1,34 +1,66 @@
+---
+title: Joan Armatrading
+artist: Joan Armatrading
+label: A&M Records
+formats: Vinyl, LP, Album, Stereo
+genres: Rock, Folk Rock
+rating: 4
+released: 1976
+year: 1976
+releaseid: 8248373
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Joan Armatrading
 
-![](../../asssets/artists/Joan_Armatrading.png)
+By Joan Armatrading
 
-## Artist Profile
+![](../../assets/albumcovers/Joan_Armatrading-Joan_Armatrading.png)
 
-British singer, songwriter, and guitarist born December 9, 1950 in Basseterre, Saint Kitts and Nevis in the West Indies. Armatrading moved with her family to Birmingham, England, United Kingdom, in 1957 and in the early 1970s, moved to London to perform in a repertory production of "Hair".
+## Album Data
 
-Armatrading has been nominated twice for a Brit award as best female vocalist and has received an Ivor Novello Award for Outstanding Contemporary Song Collection in 1996. She has been nominated three times for a Grammy Award, including being the first UK female artist to be nominated in the Grammy Blues category for her 2007 release "Into The Blues". She was made a Member of the Order of the British Empire (MBE) in 2001.
+[Discogs URL](https://www.discogs.com/release/8248373-Joan-Armatrading-Joan-Armatrading)
 
-Armatrading was part of Cyndi Lauper's "True Colors" Tour 2008.
+- Label: A&M Records
+- Formats: Vinyl, LP, Album, Stereo
+- Genres: Rock, Folk Rock
+- Rating: 4
+- Released: 1976
+- Year: 1976
+- Release ID: 8248373
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-Owner of Bumpkin Studios, a purpose built recording facility in the grounds of her home, in Surrey, where she has recorded most of her albums since "Sleight of Hand".
-She and girlfriend Maggie Butler entered a civil partnership on 2 May 2011, in the Shetland Isles.
+## Album Tracks
 
-## Artist Links
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Down To Zero** | 3:49 |
+| A2 | **Help Yourself** | 4:03 |
+| A3 | **Water With The Wine** | 2:48 |
+| A4 | **Love And Affection** | 4:28 |
+| A5 | **Save Me** | 3:37 |
+| B1 | **Join The Boys** | 4:49 |
+| B2 | **People** | 3:29 |
+| B3 | **Somebody Who Loves You** | 3:34 |
+| B4 | **Like Fire** | 5:11 |
+| B5 | **Tall In The Saddle** | 5:45 |
 
-- [https://www.joanarmatrading.com/](https://www.joanarmatrading.com/)
-- [https://www.onamrecords.com/artists/joan-armatrading](https://www.onamrecords.com/artists/joan-armatrading)
-- [https://www.facebook.com/joanarmatrading](https://www.facebook.com/joanarmatrading)
-- [https://twitter.com/ArmatradingJoan](https://twitter.com/ArmatradingJoan)
-- [https://en.wikipedia.org/wiki/Joan_Armatrading](https://en.wikipedia.org/wiki/Joan_Armatrading)
-- [https://www.britannica.com/biography/Joan-Armatrading](https://www.britannica.com/biography/Joan-Armatrading)
-- [https://musicianbio.org/joan-armatrading/](https://musicianbio.org/joan-armatrading/)
-- [https://www.musicianguide.com/biographies/1608000765/Joan-Armatrading.html](https://www.musicianguide.com/biographies/1608000765/Joan-Armatrading.html)
-- [https://www.famousbirthdays.com/people/joan-armatrading.html](https://www.famousbirthdays.com/people/joan-armatrading.html)
-- [https://www.youtube.com/channel/UC0ZcO-9E9mdN5e3scBCAGvg](https://www.youtube.com/channel/UC0ZcO-9E9mdN5e3scBCAGvg)
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Fabio Nicoli** | Art Direction |
+| **Nick Marshall (7)** | Design |
+| **Clive Arrowsmith** | Photography By |
+| **Glyn Johns** | Producer, Engineer |
+| **Joan Armatrading** | Written-By |
 
 
-## See also
-
-- [Joan Armatrading](Joan_Armatrading-Joan_Armatrading.md)
-- [Me Myself I](Joan_Armatrading-Me_Myself_I.md)
-- [Track Record](Joan_Armatrading-Track_Record.md)

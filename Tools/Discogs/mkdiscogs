@@ -10,7 +10,7 @@ VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
 TOP="${VAULT}/Discogs"
 
 usage() {
-  printf "\nUsage: mkdiscogs [-A] [-T] [-f] [-p /path/to/Discogs] [-t] [-u]"
+  printf "\nUsage: mkdiscogs [-A] [-T] [-f] [-p /path/to/Discogs] [-t] [-h]"
   printf "\nWhere:"
   printf "\n\t-A indicates sort by Artist"
   printf "\n\t-T indicates sort by Title (default)"
@@ -18,7 +18,7 @@ usage() {
   printf "\n\t-p /path/to/Discogs specifies the full path to the Discogs folder"
   printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Discogs)"
   printf "\n\t-t indicates create a table rather than listing"
-  printf "\n\t-u displays this usage message and exits\n\n"
+  printf "\n\t-h displays this usage message and exits\n\n"
   exit 1
 }
 
@@ -26,7 +26,7 @@ mktable=
 overwrite=
 sortorder="title"
 
-while getopts "ATfp:tu" flag; do
+while getopts "ATfp:th" flag; do
     case $flag in
         A)
             sortorder="artist"
@@ -44,7 +44,7 @@ while getopts "ATfp:tu" flag; do
             mktable=1
             numcols=1
             ;;
-        u)
+        h)
             usage
             ;;
     esac

@@ -1,32 +1,78 @@
+---
+title: The Doors
+artist: The Doors
+label: Elektra
+Rhino Records (2)
+Rhino Vinyl
+formats: Vinyl, LP, Album, Reissue, Stereo
+genres: Rock, Psychedelic Rock, Classic Rock
+rating: 4.73
+released: 2009-09-14
+year: 1967
+releaseid: 2441353
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # The Doors
 
-![](../../asssets/artists/The_Doors.png)
+By The Doors
 
-## Artist Profile
+![](../../assets/albumcovers/The_Doors-The_Doors.png)
 
-American psychedelic rock/blues rock band formed from "Rick And The Ravens" in July, 1965 in Los Angeles, CA, United States by Jim Morrison and Ray Manzarek. After the death of Jim Morrison on July 3, 1971 in Paris, the other band members released two more albums, but they were not very successful. In April 1973 the band broke up.
+## Album Data
 
-Inducted into Rock And Roll Hall of Fame in 1993 (Performer).
+[Discogs URL](https://www.discogs.com/release/2441353-The-Doors-The-Doors)
 
-## Artist Links
+- Label: Elektra
+Rhino Records (2)
+Rhino Vinyl
+- Formats: Vinyl, LP, Album, Reissue, Stereo
+- Genres: Rock, Psychedelic Rock, Classic Rock
+- Rating: 4.73
+- Released: 2009-09-14
+- Year: 1967
+- Release ID: 2441353
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-- [https://thedoors.com/](https://thedoors.com/)
-- [https://www.facebook.com/thedoors](https://www.facebook.com/thedoors)
-- [https://twitter.com/thedoors](https://twitter.com/thedoors)
-- [https://www.instagram.com/thedoors/](https://www.instagram.com/thedoors/)
-- [https://www.youtube.com/user/thedoors](https://www.youtube.com/user/thedoors)
-- [https://thedoors.tumblr.com/](https://thedoors.tumblr.com/)
-- [https://myspace.com/thedoors](https://myspace.com/thedoors)
-- [https://en.wikipedia.org/wiki/The_Doors](https://en.wikipedia.org/wiki/The_Doors)
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Break On Through (To The Other Side)** | 2:25 |
+| A2 | **Soul Kitchen** | 3:30 |
+| A3 | **The Crystal Ship** | 2:30 |
+| A4 | **Twentieth Century Fox** | 2:30 |
+| A5 | **Alabama Song (Whisky Bar)** | 3:15 |
+| A6 | **Light My Fire** | 6:50 |
+| B1 | **Back Door Man** | 3:30 |
+| B2 | **I Looked At You** | 2:18 |
+| B3 | **End Of The Night** | 2:49 |
+| B4 | **Take It As It Comes** | 2:13 |
+| B5 | **The End** | 11:35 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **William S. Harvey** | Art Direction, Design |
+| **John Densmore** | Drums |
+| **Bruce Botnick** | Engineer |
+| **Robby Krieger** | Guitar |
+| **Bernie Grundman** | Lacquer Cut By |
+| **Ray Manzarek** | Organ, Piano, Bass |
+| **Joel Brodsky** | Photography By [Back Cover Photo] |
+| **Guy Webster** | Photography By [Front Cover Photo] |
+| **Paul A. Rothchild** | Producer |
+| **Jac Holzman** | Supervised By [Production Supervisor] |
+| **Jim Morrison** | Vocals |
+| **The Doors** | Words By, Music By |
 
 
-## See also
-
-- [Alive, She Cried](The_Doors-Alive__She_Cried.md)
-- [Hello, I Love You, Won't You Tell Me Your Name?](The_Doors-Hello__I_Love_You__Wont_You_Tell_Me_Your_Name.md)
-- [L.A. Woman](The_Doors-LA_Woman.md)
-- [Live At The Hollywood Bowl](The_Doors-Live_At_The_Hollywood_Bowl.md)
-- [Love Me Two Times](The_Doors-Love_Me_Two_Times.md)
-- [Strange Days](The_Doors-Strange_Days.md)
-- [The Doors](The_Doors-The_Doors.md)
-- [The Soft Parade](The_Doors-The_Soft_Parade.md)

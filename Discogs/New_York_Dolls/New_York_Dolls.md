@@ -1,18 +1,80 @@
+---
+title: New York Dolls
+artist: New York Dolls
+label: Mercury
+formats: Vinyl, LP, Album, Reissue
+genres: Rock, Glam
+rating: 4.41
+released: null
+year: 1973
+releaseid: 1801495
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # New York Dolls
 
-![](../../asssets/artists/New_York_Dolls.png)
+By New York Dolls
 
-## Artist Profile
+![](../../assets/albumcovers/New_York_Dolls-New_York_Dolls.png)
 
-New York City-based band formed in December 1971 and active until early 1975. Johnny Thunders (guitar) and Rick Rivets (guitar), Arthur Kane (bass), and Billy Murcia (drums) were joined by David Johansen (vocals) in the initial lineup, named Actress (3). In 1972, Sylvain Sylvain replaced Rivets and the band began to regularly play venues in Lower Manhattan, particularly at the Mercer Arts Center. The band had varying levels of success, but were never widely accepted in the US outside the New York City area, primarily due to their appearance. Thunders and Nolan left the band while on tour in Florida in early 1975, and the band soldiered on, often being billed as "The Dolls" for a few more months with fill-in musicians. The New York Dolls reunited from 2004 to 2011, with Johansen and Sylvain anchoring a fluid lineup of backing musicians.
+## Album Data
 
-## Artist Links
+[Discogs URL](https://www.discogs.com/release/1801495-New-York-Dolls-New-York-Dolls)
 
-- [https://www.facebook.com/nydolls/?fref=ts](https://www.facebook.com/nydolls/?fref=ts)
-- [https://en.wikipedia.org/wiki/New_York_Dolls](https://en.wikipedia.org/wiki/New_York_Dolls)
-- [http://www.fromthearchives.org/nyd/chronology.html](http://www.fromthearchives.org/nyd/chronology.html)
+- Label: Mercury
+- Formats: Vinyl, LP, Album, Reissue
+- Genres: Rock, Glam
+- Rating: 4.41
+- Released: null
+- Year: 1973
+- Release ID: 1801495
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
+
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Personality Crisis** | 3:41 |
+| A2 | **Looking For A Kiss** | 3:19 |
+| A3 | **Vietnamese Baby** | 3:38 |
+| A4 | **Lonely Planet Boy** | 4:09 |
+| A5 | **Frankenstein  (Orig.)** | 6:00 |
+| B1 | **Trash** | 3:08 |
+| B2 | **Bad Girl** | 3:04 |
+| B3 | **Subway Train** | 4:21 |
+| B4 | **Pills** | 2:48 |
+| B5 | **Private World** | 3:39 |
+| B6 | **Jet Boy** | 4:41 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **New York Dolls** | Arranged By |
+| **Arthur Kane** | Bass |
+| **Jerry Nolan** | Drums |
+| **Ed Sprigg** | Engineer |
+| **Jack Douglas** | Engineer |
+| **David Krebs** | Executive-Producer |
+| **Marty Thau** | Executive-Producer |
+| **Paul Nelson** | Executive-Producer |
+| **Steve Leber** | Executive-Producer |
+| **Johnny Thunders** | Guitar, Vocals |
+| **Sylvain Sylvain** | Guitar, Vocals, Piano |
+| **Todd Rundgren** | Producer, Piano [Additional], Synthesizer [Moog] |
+| **The Fantastic Buddy Bowser** | Saxophone |
+| **David Johansen** | Vocals, Harmonica, Gong |
+| **Arthur Kane** | Written-By |
+| **David Johansen** | Written-By |
+| **Johnny Thunders** | Written-By |
+| **Sylvain Sylvain** | Written-By |
 
 
-## See also
-
-- [New York Dolls](New_York_Dolls-New_York_Dolls.md)

@@ -1,27 +1,66 @@
+---
+title: The Flying Lizards
+artist: The Flying Lizards
+label: Virgin
+formats: Vinyl, LP, Album
+genres: Electronic, Rock, Leftfield, Synth-pop
+rating: 4.17
+released: 1979
+year: 1980
+releaseid: 6177512
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # The Flying Lizards
 
-![](../../asssets/artists/The_Flying_Lizards.png)
+By The Flying Lizards
 
-## Artist Profile
+![](../../assets/albumcovers/The_Flying_Lizards-The_Flying_Lizards.png)
 
-Experimental 'pop' group led by producer David Cunningham, joined by various rotating personnel on instruments and vocals, most notably Patti Palladin of Snatch (3). 
+## Album Data
 
-The band formed in 1976 in England and disbanded 1984.
+[Discogs URL](https://www.discogs.com/release/6177512-The-Flying-Lizards-The-Flying-Lizards)
 
-Vocalists on the three studio albums were:
-Deborah Evans-Stickland on The Flying Lizards (1979)
-Patti Palladin on The Fourth Wall (1981)
-Sally Peterson on Top Ten (1984)
+- Label: Virgin
+- Formats: Vinyl, LP, Album
+- Genres: Electronic, Rock, Leftfield, Synth-pop
+- Rating: 4.17
+- Released: 1979
+- Year: 1980
+- Release ID: 6177512
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
+
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Der Song Von Mandelay** | 2:27 |
+| A2 | **Her Story** | 4:37 |
+| A3 | **TV** | 3:51 |
+| A4 | **Russia** | 6:11 |
+| A5 | **Summertime Blues** | 3:09 |
+| B1 | **Money (That's What I Want)** | 5:52 |
+| B2 | **The Flood** | 4:57 |
+| B3 | **Trouble** | 2:46 |
+| B4 | **Events During Flood** | 3:25 |
+| B5 | **The Window** | 4:52 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Laurie-Rae Chamberlain** | Artwork [Xerography] |
+| **Dave Hunt** | Engineer |
+| **David Cunningham** | Engineer |
+| **Richard Rayner-Canham** | Photography By |
+| **David Cunningham** | Producer |
 
 
-## Artist Links
-
-- [http://www.markallencam.com/theflyinglizards.html](http://www.markallencam.com/theflyinglizards.html)
-- [http://www.myspace.com/flyinglizards](http://www.myspace.com/flyinglizards)
-- [http://en.wikipedia.org/wiki/The_Flying_Lizards](http://en.wikipedia.org/wiki/The_Flying_Lizards)
-- [https://www.imdb.com/name/nm3058544/](https://www.imdb.com/name/nm3058544/)
-
-
-## See also
-
-- [The Flying Lizards](The_Flying_Lizards-The_Flying_Lizards.md)

@@ -1,44 +1,86 @@
+---
+title: Blood, Sweat And Tears
+artist: Blood, Sweat And Tears
+label: Friday Music
+formats: Vinyl, LP, Limited Edition, Reissue, Remastered, Stereo
+genres: Rock, Blues Rock
+rating: 4.71
+released: 2015-03-17
+year: 1968
+releaseid: 6960242
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Blood, Sweat And Tears
 
-![](../../asssets/artists/Blood__Sweat_And_Tears.png)
+By Blood, Sweat And Tears
 
-## Artist Profile
+![](../../assets/albumcovers/Blood__Sweat_And_Tears-Blood__Sweat_And_Tears.png)
 
-American jazz-rock group, formed in 1967 in New York City, New York, USA, noted for their combination of brass and rock band instrumentation. Since their beginnings, the band has gone through numerous iterations with varying personnel and has encompassed a multitude of musical styles.
-1969 Grammy Awards for Album Of The Year (Blood, Sweat And Tears) and Best Contemporary Instrumental Performance ("Variations On A Theme By Eric Satie").
+## Album Data
 
-The band name, according to their album covers, is Blood, Sweat & Tears .
+[Discogs URL](https://www.discogs.com/release/6960242-Blood-Sweat-And-Tears-Blood-Sweat-And-Tears)
 
-The original founding members were:
-Randy Brecker - trumpet, flugelhorn (1967-1968)
-Bobby Colomby - drums (1967-1977)
-Jim Fielder - bass (1967-1974)
-Richard Halligan - keyboards, trombone, flute (1967-1972)
-Steve Katz - guitar, harmonica, lute, mandolin, vocals (1967-1973, 2008-2010)
-Al Kooper - keyboards, vocals (1967-1968)
-Fred Lipsius - alto sax, piano (1967-1972)
-Jerry Weiss - trumpet, flugelhorn (1967-1968)
+- Label: Friday Music
+- Formats: Vinyl, LP, Limited Edition, Reissue, Remastered, Stereo
+- Genres: Rock, Blues Rock
+- Rating: 4.71
+- Released: 2015-03-17
+- Year: 1968
+- Release ID: 6960242
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-## Artist Links
+## Album Tracks
 
-- [https://bloodsweatandtears.com/](https://bloodsweatandtears.com/)
-- [https://myspace.com/bloodsweatandtears1968](https://myspace.com/bloodsweatandtears1968)
-- [https://www.facebook.com/BloodSweatAndTearsBand/](https://www.facebook.com/BloodSweatAndTearsBand/)
-- [https://twitter.com/bsandtband](https://twitter.com/bsandtband)
-- [https://www.facebook.com/groups/253708251485464/](https://www.facebook.com/groups/253708251485464/)
-- [https://en.wikipedia.org/wiki/Blood,_Sweat_%26_Tears](https://en.wikipedia.org/wiki/Blood,_Sweat_%26_Tears)
-- [https://web.archive.org/web/20021026091419/http://www.classicwebs.com/bs%26t.htm](https://web.archive.org/web/20021026091419/http://www.classicwebs.com/bs%26t.htm)
-- [https://web.archive.org/web/20021014213224/http://www.rdrop.com/users/rickert/bst.html](https://web.archive.org/web/20021014213224/http://www.rdrop.com/users/rickert/bst.html)
-- [https://web.archive.org/web/20071229055239/http://www.replay-records.net/biography/blood-sweat-tears.htm](https://web.archive.org/web/20071229055239/http://www.replay-records.net/biography/blood-sweat-tears.htm)
-- [https://www.jorgenand.se/bst/bst.html](https://www.jorgenand.se/bst/bst.html)
-- [http://www.rdrop.com/users/rickert/bst.html](http://www.rdrop.com/users/rickert/bst.html)
-- [https://cubanbridge.wordpress.com/2017/04/21/an-unauthorized-bio-of-blood-sweat-tears-1967-2017-next-to-its-40th-touring-anniversary/](https://cubanbridge.wordpress.com/2017/04/21/an-unauthorized-bio-of-blood-sweat-tears-1967-2017-next-to-its-40th-touring-anniversary/)
-- [https://musicianbio.org/blood-sweat-tears/](https://musicianbio.org/blood-sweat-tears/)
-- [https://www.musicianguide.com/biographies/1608000189/Blood-Sweat-and-Tears.html](https://www.musicianguide.com/biographies/1608000189/Blood-Sweat-and-Tears.html)
-- [https://www.grammy.com/grammys/artists/blood-sweat-and-tears/7131](https://www.grammy.com/grammys/artists/blood-sweat-and-tears/7131)
-- [https://www.imdb.com/name/nm1513364/](https://www.imdb.com/name/nm1513364/)
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Variations On A Theme By Erik Satie (1st And 2nd Movements)** | 2:33 |
+| A2 | **Smiling Phases** | 5:08 |
+| A3 | **Sometimes In Winter** | 3:08 |
+| A4 | **More And More** | 3:03 |
+| A5 | **And When I Die** | 4:04 |
+| A6 | **God Bless The Child** | 5:57 |
+| B1 | **Spinning Wheel** | 4:06 |
+| B2 | **You've Made Me So Very Happy** | 4:18 |
+| B3 | **Blues - Part II** | 11:55 |
+| B4 | **Variation On A Theme By Erik Satie (1st Movement)** | 1:37 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Fred Lipsius** | Alto Saxophone, Piano |
+| **Al Kooper** | Arranged By |
+| **Blood, Sweat And Tears** | Arranged By |
+| **Dick Halligan** | Arranged By |
+| **Fred Lipsius** | Arranged By |
+| **Bob Cato** | Artwork [Inside Art] |
+| **Jim Fielder** | Bass |
+| **Bobby Colomby** | Chorus [BS&T Chorus] |
+| **Dick Halligan** | Chorus [BS&T Chorus] |
+| **Timothy Quay** | Cover [Cover Art] |
+| **John Berg** | Design |
+| **Bobby Colomby** | Drums, Percussion, Vocals |
+| **Fred Catero** | Engineer [BS&T Engineering Department] |
+| **Roy Halee** | Engineer [BS&T Engineering Department] |
+| **Steve Katz** | Guitar, Harmonica, Vocals |
+| **David Clayton-Thomas** | Lead Vocals |
+| **Bennett Glotzer** | Management [Personal Management] |
+| **Dennis Katz** | Management [Personal Management] |
+| **Dick Halligan** | Organ, Piano, Flute, Trombone, Vocals |
+| **Harrie George** | Photography By [Back Cover Photo] |
+| **Bob Cato** | Photography By [Photo Collage] |
+| **James William Guercio** | Producer |
+| **Jerry Hyman** | Trombone, Recorder |
+| **Chuck Winfield** | Trumpet, Flugelhorn [Flügelhorn] |
+| **Lew Soloff** | Trumpet, Flugelhorn [Flügelhorn] |
 
 
-## See also
-
-- [Blood, Sweat And Tears](Blood__Sweat_And_Tears-Blood__Sweat_And_Tears.md)

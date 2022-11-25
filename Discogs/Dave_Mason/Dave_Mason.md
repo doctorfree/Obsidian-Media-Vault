@@ -1,24 +1,69 @@
+---
+title: Dave Mason
+artist: Dave Mason
+label: Columbia
+formats: Vinyl, LP, Album
+genres: Rock, Pop, Folk Rock
+rating: 3.53
+released: 1974
+year: 1974
+releaseid: 1734107
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Dave Mason
 
-![](../../asssets/artists/Dave_Mason.png)
+By Dave Mason
 
-## Artist Profile
+![](../../assets/albumcovers/Dave_Mason-Dave_Mason.png)
 
-English singer-songwriter and guitarist born May 10, 1946 in Worcester, UK. Co-founder of seminal group Traffic, Rock and Roll Hall of Fame Inductee.
+## Album Data
 
-Mason's tenure with Traffic was disjointed. He was a founding member of the group, but left following the release of their debut album, Mr. Fantasy (1967), only to rejoin halfway through the sessions for their next album, Traffic (1968), after which he left again. Last Exit (1969), a compilation of odds and ends, features little material by Mason apart from his song "Just for You". Traffic later re-formed without Mason, although he briefly began working with the band for a third time, touring with them in 1971 and playing on Welcome to the Canteen. In his brief spells with the group, Mason never quite fit in; Steve Winwood later recalled. In 1970, Mason was slated to be the second guitarist for Derek and the Dominos. He played on their early studio sessions, including the Phil Spector production of "Tell the Truth", which was later withdrawn from sale (and is now a collectors item). He also played at their first gig at the London Lyceum but left the group soon after that. 
+[Discogs URL](https://www.discogs.com/release/1734107-Dave-Mason-Dave-Mason)
 
-For a brief period in the mid 1990s, Mason joined Fleetwood Mac and released the album Time with them in 1995. He toured with them over the course of 1994–95. Over the course of his career, Mason has played and recorded with many notable pop and rock musicians, including Jimi Hendrix, the Rolling Stones (e.g. on Street Fighting Man), George Harrison (appearing on All Things Must Pass), Paul McCartney, Eric Clapton, Michael Jackson, David Crosby, Graham Nash, Steve Winwood, Fleetwood Mac, Delaney & Bonnie, Leon Russell and Cass Elliot. One of Mason's best known songs is "Feelin' Alright", recorded by Traffic in 1968 and later by many other performers, including Joe Cocker, whose version of the song was a hit in 1969. For Traffic, he also wrote "Hole in My Shoe", a psychedelic pop song that became a hit in its own right. "We Just Disagree", Mason's 1977 solo US hit, written by Jim Krueger, has become a staple of US classic hits and adult contemporary radio playlists.
+- Label: Columbia
+- Formats: Vinyl, LP, Album
+- Genres: Rock, Pop, Folk Rock
+- Rating: 3.53
+- Released: 1974
+- Year: 1974
+- Release ID: 1734107
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-In 2004, Mason was inducted into the Rock and Roll Hall of Fame as a founding member of Traffic. Within the same year, Mason started a new electric guitar company with business partner and industrial designer Ravi Sawhney.
+## Album Tracks
 
-## Artist Links
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Show Me Some Affection** | 4:18 |
+| A2 | **Get Ahold On Love** | 2:45 |
+| A3 | **Every Woman** | 3:01 |
+| A4 | **It Can't Make Any Difference To Me** | 2:17 |
+| A5 | **All Along The Watchtower** | 4:03 |
+| B1 | **Bring It On Home To Me** | 2:55 |
+| B2 | **Harmony & Melody** | 3:35 |
+| B3 | **Relation Ships** | 5:02 |
+| B4 | **You Can't Take It When You Go** | 4:08 |
 
-- [https://www.davemasonmusic.com/](https://www.davemasonmusic.com/)
-- [https://www.facebook.com/DaveMasonMusic](https://www.facebook.com/DaveMasonMusic)
-- [https://en.wikipedia.org/wiki/Dave_Mason](https://en.wikipedia.org/wiki/Dave_Mason)
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bob Glaub** | Bass |
+| **Lorrie Sullivan** | Design, Photography By |
+| **Rick Jaeger** | Drums |
+| **Linda Tyler** | Engineer [Assistant] |
+| **Al Schmitt** | Engineer [Recording & Mixing] |
+| **Jim Krueger** | Guitar, Vocals |
+| **Mike Finnigan** | Keyboards, Vocals |
+| **Arnie Acosta** | Mastered By |
+| **Dave Mason** | Producer, Guitar, Lead Vocals, Design |
 
 
-## See also
-
-- [Dave Mason](Dave_Mason-Dave_Mason.md)

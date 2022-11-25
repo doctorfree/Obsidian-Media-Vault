@@ -89,8 +89,6 @@ The 'Discogs Collection' markdown was produced using the Discogs API and results
 - [Discogs by Artist](Discogs_by_Artist.md)
 - [Discogs by Title](Discogs_by_Title.md)
 - [Discogs User Profile](Discogs_User_Profile.md)
-- [Table of Discogs by Title](Table_of_Discogs_by_Title.md)
-- [Table of Discogs by Artist](Table_of_Discogs_by_Artist.md)
 
 ## Vinyl Records
 

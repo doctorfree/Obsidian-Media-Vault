@@ -1,24 +1,83 @@
+---
+title: St. Vincent
+artist: St. Vincent
+label: Loma Vista
+Republic Records
+formats: Vinyl, LP, Album
+genres: Electronic, Rock, Art Rock, Indie Rock
+rating: 4.35
+released: 2014-02-25
+year: 2014
+releaseid: 5433829
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # St. Vincent
 
-![](../../asssets/artists/St_Vincent.png)
+By St. Vincent
 
-## Artist Profile
+![](../../assets/albumcovers/St_Vincent-St_Vincent.png)
 
-Annie Clark (born September 28, 1982 in Tulsa, Oklahoma) is a singer / multi-instrumentalist and performs under the name St. Vincent. She began learning guitar at the age of 12, having been influenced by her uncle, Tuck Andress, of the jazz duo Tuck &amp; Patti. Clark plays piano, organ, drums, bass guitar, theremin, and vibraphone. Has collaborated and/or toured with The Polyphonic Spree, David Byrne, The Black Keys, and Sufjan Stevens, among others. In 2013, Clark received the Smithsonian American Ingenuity Award, and in 2014, she performed with remaining members of Nirvana at their Rock and Roll Hall of Fame induction. St. Vincent won the 2015 Grammy Award for Best Alternative Music Album.
+## Album Data
 
-## Artist Links
+[Discogs URL](https://www.discogs.com/release/5433829-St-Vincent-St-Vincent)
 
-- [http://www.ilovestvincent.com/](http://www.ilovestvincent.com/)
-- [http://www.facebook.com/St.Vincent](http://www.facebook.com/St.Vincent)
-- [http://twitter.com/st_vincent](http://twitter.com/st_vincent)
-- [http://instagram.com/st_vincent](http://instagram.com/st_vincent)
-- [http://myspace.com/stvincent](http://myspace.com/stvincent)
-- [http://soundcloud.com/st_vincent](http://soundcloud.com/st_vincent)
-- [http://www.youtube.com/user/ilovestvincent1](http://www.youtube.com/user/ilovestvincent1)
-- [http://vimeo.com/ilovestvincent](http://vimeo.com/ilovestvincent)
+- Label: Loma Vista
+Republic Records
+- Formats: Vinyl, LP, Album
+- Genres: Electronic, Rock, Art Rock, Indie Rock
+- Rating: 4.35
+- Released: 2014-02-25
+- Year: 2014
+- Release ID: 5433829
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
+
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Rattlesnake** | 3:34 |
+| A2 | **Birth In Reverse** | 3:15 |
+| A3 | **Prince Johnny** | 4:36 |
+| A4 | **Huey Newton** | 4:37 |
+| A5 | **Digital Witness** | 3:22 |
+| A6 | **I Prefer Your Love** | 3:36 |
+| B1 | **Regret** | 3:21 |
+| B2 | **Bring Me Your Loves** | 3:15 |
+| B3 | **Psychopath** | 3:32 |
+| B4 | **Every Tear Disappears** | 3:15 |
+| B5 | **Severed Crossed Fingers** | 3:42 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Willo Perron** | Creative Director |
+| **Brian Roettinger** | Design |
+| **Homer Steinweiss** | Drums |
+| **McKenzie Smith** | Drums |
+| **Daniel Mintseris** | Harpsichord |
+| **Ralph Carney** | Horns |
+| **Adam Pickrell** | Keyboards |
+| **Ray Janos** | Lacquer Cut By |
+| **Greg Calbi** | Mastered By |
+| **John Congleton** | Mixed By |
+| **Renata Raksha** | Photography By |
+| **Daniel Mintseris** | Piano |
+| **John Congleton** | Producer |
+| **John Congleton** | Recorded By |
+| **Annie Clark** | Songwriter |
+| **Daniel Mintseris** | Synthesizer |
+| **Adam Pickrell** | Synthesizer [Minimoog] |
+| **Bobby Sparks** | Synthesizer [Minimoog] |
+| **Annie Clark** | Vocals, Guitar |
 
 
-## See also
-
-- [Masseduction](St_Vincent-Masseduction.md)
-- [St. Vincent](St_Vincent-St_Vincent.md)

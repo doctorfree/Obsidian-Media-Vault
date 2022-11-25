@@ -1,42 +1,71 @@
+---
+title: Deep Purple
+artist: Deep Purple
+label: Harvest
+Harvest
+formats: Vinyl, LP, Album, Reissue, Remastered, Stereo
+genres: Rock, Hard Rock, Psychedelic Rock, Prog Rock
+rating: 4.39
+released: 2016-06-24
+year: 1969
+releaseid: 8694981
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Deep Purple
 
-![](../../asssets/artists/Deep_Purple.png)
+By Deep Purple
 
-## Artist Profile
+![](../../assets/albumcovers/Deep_Purple-Deep_Purple.png)
 
-Hard Rock band from England, United Kingdom.
+## Album Data
 
-The band formed in 1968. Along with Led Zeppelin and Black Sabbath, they are considered to be among the pioneers of heavy metal and modern hard rock, although some band members believe that their music cannot be categorised as belonging to any one genre. They were once listed by the Guinness Book of World Records as "the loudest pop group", and have sold over 100 million albums worldwide. Deep Purple were ranked #22 on VH1's Greatest Artists of Hard Rock programme.
+[Discogs URL](https://www.discogs.com/release/8694981-Deep-Purple-Deep-Purple)
 
-Deep Purple were inducted into the Rock and Roll Hall of Fame in 2016.
+- Label: Harvest
+Harvest
+- Formats: Vinyl, LP, Album, Reissue, Remastered, Stereo
+- Genres: Rock, Hard Rock, Psychedelic Rock, Prog Rock
+- Rating: 4.39
+- Released: 2016-06-24
+- Year: 1969
+- Release ID: 8694981
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-## Artist Links
+## Album Tracks
 
-- [https://deeppurple.com/](https://deeppurple.com/)
-- [https://www.facebook.com/officialdeeppurple](https://www.facebook.com/officialdeeppurple)
-- [https://myspace.com/deeppurple](https://myspace.com/deeppurple)
-- [https://www.instagram.com/deeppurple_official/](https://www.instagram.com/deeppurple_official/)
-- [https://twitter.com/_DeepPurple](https://twitter.com/_DeepPurple)
-- [https://www.youtube.com/channel/UChFONkdHg3zrt3zaHmx1bKA](https://www.youtube.com/channel/UChFONkdHg3zrt3zaHmx1bKA)
-- [https://www.youtube.com/user/DeepPurpleVEVO](https://www.youtube.com/user/DeepPurpleVEVO)
-- [https://www.deeppurple-whoosh.com/](https://www.deeppurple-whoosh.com/)
-- [https://www.deeppurple-infinite.com/](https://www.deeppurple-infinite.com/)
-- [https://deeppurple.tmstor.es/](https://deeppurple.tmstor.es/)
-- [https://en.wikipedia.org/wiki/Deep_Purple](https://en.wikipedia.org/wiki/Deep_Purple)
-- [https://www.thehighwaystar.com/](https://www.thehighwaystar.com/)
-- [http://deep-purple.net/](http://deep-purple.net/)
-- [https://vk.com/deep_purple](https://vk.com/deep_purple)
-- [https://www.deep-purple.ru/](https://www.deep-purple.ru/)
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Chasing Shadows** |  |
+| A2 | **Blind** |  |
+| A3 | **Lalena** |  |
+| A4 (a) | **Fault Line** |  |
+| A4 (b) | **The Painter** |  |
+| B1 | **Why Didn't Rosemary?** |  |
+| B2 | **Bird Has Flown** |  |
+| B3 | **April** |  |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Deep Purple** | Arranged By [And Devised By] |
+| **Michael Savino (2)** | Art Direction |
+| **Jon Lord** | Composed By [String And Woodwind Section], Arranged By [String And Woodwind Section] |
+| **Barry Ainsworth** | Engineer |
+| **Sean Magee** | Lacquer Cut By [Runout Etching i…i] |
+| **Deep Purple** | Liner Notes |
+| **Hieronymus Bosch (3)** | Painting |
+| **David Anthony (7)** | Photography By |
+| **Derek Lawrence** | Producer |
+| **Peter Mew** | Remastered By |
 
 
-## See also
-
-- [Burn](Deep_Purple-Burn.md)
-- [Deep Purple](Deep_Purple-Deep_Purple.md)
-- [Fireball](Deep_Purple-Fireball.md)
-- [In Concert '72](Deep_Purple-In_Concert_72.md)
-- [In Rock](Deep_Purple-In_Rock.md)
-- [Machine Head](Deep_Purple-Machine_Head.md)
-- [Made In Japan](Deep_Purple-Made_In_Japan.md)
-- [Shades Of Deep Purple](Deep_Purple-Shades_Of_Deep_Purple.md)
-- [Who Do We Think We Are](Deep_Purple-Who_Do_We_Think_We_Are.md)

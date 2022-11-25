@@ -1,34 +1,72 @@
+---
+title: Elton John
+artist: Elton John
+label: Mercury
+DJM Records (2)
+formats: Vinyl, LP, Album, Reissue, Remastered
+genres: Rock, Pop Rock, Classic Rock
+rating: 4.54
+released: 2017-04-14
+year: 1970
+releaseid: 10231422
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Elton John
 
-![](../../asssets/artists/Elton_John.png)
+By Elton John
 
-## Artist Profile
+![](../../assets/albumcovers/Elton_John-Elton_John.png)
 
-Note: Please use the entry Elton John &amp; Bernie Taupin when just the two of them are credited together.
+## Album Data
 
-English singer-songwriter, composer and pianist, born March 25, 1947, Pinner, Middlesex.
-Elton John has been one of the dominant forces in rock and popular music, especially during the 1970s. He has sold over 200 million records, making him one of the most successful artists of all time. He has more than 50 Top 40 hits including seven consecutive No. 1 U.S. albums, 59 Top 40 singles, 16 Top 10, four No. 2 hits, and nine No. 1 hits. He has won five Grammy awards and two Academy Awards. His success has had a profound impact on popular music and has contributed to the continued popularity of the piano in rock and roll.
+[Discogs URL](https://www.discogs.com/release/10231422-Elton-John-Elton-John)
 
-Inducted into Songwriters Hall of Fame in 1992 and Rock And Roll Hall of Fame in 1994 (as performer).
+- Label: Mercury
+DJM Records (2)
+- Formats: Vinyl, LP, Album, Reissue, Remastered
+- Genres: Rock, Pop Rock, Classic Rock
+- Rating: 4.54
+- Released: 2017-04-14
+- Year: 1970
+- Release ID: 10231422
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-## Artist Links
+## Album Tracks
 
-- [https://www.eltonjohn.com/](https://www.eltonjohn.com/)
-- [https://www.facebook.com/EltonJohn](https://www.facebook.com/EltonJohn)
-- [https://myspace.com/eltonjohn](https://myspace.com/eltonjohn)
-- [https://eltonjohn.tumblr.com/](https://eltonjohn.tumblr.com/)
-- [https://twitter.com/eltonofficial](https://twitter.com/eltonofficial)
-- [https://en.wikipedia.org/wiki/Elton_John](https://en.wikipedia.org/wiki/Elton_John)
-- [https://www.britannica.com/biography/Elton-John](https://www.britannica.com/biography/Elton-John)
-- [https://www.imdb.com/name/nm0005056/](https://www.imdb.com/name/nm0005056/)
-- [https://www.youtube.com/eltonjohn](https://www.youtube.com/eltonjohn)
-- [https://www.instagram.com/eltonjohn/](https://www.instagram.com/eltonjohn/)
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Your Song** |  |
+| A2 | **I Need You To Turn To** |  |
+| A3 | **Take Me To The Pilot** |  |
+| A4 | **No Shoe Strings On Louise** |  |
+| A5 | **First Episode At Hienton** |  |
+| B1 | **Sixty Years On** |  |
+| B2 | **Border Song** |  |
+| B3 | **The Greatest Discovery** |  |
+| B4 | **The Cage** |  |
+| B5 | **The King Must Die** |  |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Paul Buckmaster** | Arranged By, Conductor |
+| **David Larkham** | Art Direction |
+| **Bernie Taupin** | Composed By, Lyrics By |
+| **Elton John** | Composed By, Vocals, Piano |
+| **Stephen Brown (2)** | Coordinator |
+| **Jim Goff** | Design [Sleeve Production] |
+| **Robin Geoffrey Cable** | Engineer |
+| **Stowell Stanford** | Photography By |
+| **Gus Dudgeon** | Producer |
 
 
-## See also
-
-- [Captain Fantastic And The Brown Dirt Cowboy](Elton_John-Captain_Fantastic_And_The_Brown_Dirt_Cowboy.md)
-- [Don't Shoot Me I'm Only The Piano Player](Elton_John-Dont_Shoot_Me_Im_Only_The_Piano_Player.md)
-- [Elton John](Elton_John-Elton_John.md)
-- [Goodbye Yellow Brick Road](Elton_John-Goodbye_Yellow_Brick_Road.md)
-- [Madman Across The Water](Elton_John-Madman_Across_The_Water.md)

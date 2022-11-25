@@ -1,25 +1,78 @@
+---
+title: Leon Russell
+artist: Leon Russell
+label: Audio Fidelity (3)
+Universal Music Special Markets
+Capitol Records
+formats: Vinyl, LP, Album, Limited Edition, Numbered, Remastered
+genres: Rock
+rating: 4.86
+released: 2017-04-00
+year: 1970
+releaseid: 10139037
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Leon Russell
 
-![](../../asssets/artists/Leon_Russell.png)
+By Leon Russell
 
-## Artist Profile
+![](../../assets/albumcovers/Leon_Russell-Leon_Russell.png)
 
-American musician and songwriter, who recorded as a session musician, sideman, and maintained a solo career in music. He was born April 2nd 1942, Lawton, Oklahoma, USA, died November 13th 2016, Nashville, Tennessee, USA.
+## Album Data
 
-Inducted into Songwriters Hall of Fame in 2011.
-Inducted into Rock & Roll Hall of Fame in 2011.
+[Discogs URL](https://www.discogs.com/release/10139037-Leon-Russell-Leon-Russell)
 
-## Artist Links
+- Label: Audio Fidelity (3)
+Universal Music Special Markets
+Capitol Records
+- Formats: Vinyl, LP, Album, Limited Edition, Numbered, Remastered
+- Genres: Rock
+- Rating: 4.86
+- Released: 2017-04-00
+- Year: 1970
+- Release ID: 10139037
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-- [https://www.leonrussell.com/](https://www.leonrussell.com/)
-- [https://en.wikipedia.org/wiki/Leon_Russell](https://en.wikipedia.org/wiki/Leon_Russell)
-- [https://www.songhall.org/profile/leon_russell](https://www.songhall.org/profile/leon_russell)
-- [https://www.rockhall.com/inductees/leon-russell](https://www.rockhall.com/inductees/leon-russell)
-- [https://www.facebook.com/LeonRussellMusic](https://www.facebook.com/LeonRussellMusic)
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **A Song For You** | 4:00 |
+| A2 | **Dixie Lullaby** | 2:30 |
+| A3 | **I Put A Spell On You** | 4:10 |
+| A4 | **Shoot Out On The Plantation** | 3:10 |
+| A5 | **Hummingbird** | 3:57 |
+| B1 | **Delta Lady** | 4:00 |
+| B2 | **Prince Of Peace** | 3:05 |
+| B3 | **Give Peace A Chance** | 2:15 |
+| B4 | **Hurtsome Body** | 3:35 |
+| B5 | **Pisces Apple Lady** | 2:50 |
+| B6 | **Roll Away The Stone** | 3:06 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Roberta Ballard** | Coordinator [Production Coordinator] |
+| **Tom Wilkes (2)** | Design |
+| **Bob Wynne Graphics** | Design [Reissue] |
+| **Glyn Johns** | Engineer, Mixed By |
+| **Kevin Gray** | Mastered By |
+| **Jim McCrary** | Photography By |
+| **Denny Cordell** | Producer |
+| **Leon Russell** | Producer |
+| **Bonnie Bramlett** | Written-By |
+| **Chris Stainton** | Written-By |
+| **Greg Dempsey** | Written-By |
+| **Leon Russell** | Written-By |
 
 
-## See also
-
-- [Carney](Leon_Russell-Carney.md)
-- [Hank Wilson's Back Vol. I](Leon_Russell-Hank_Wilsons_Back_Vol_I.md)
-- [Leon Russell](Leon_Russell-Leon_Russell.md)

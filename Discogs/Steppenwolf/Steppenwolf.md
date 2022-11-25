@@ -1,34 +1,74 @@
+---
+title: Steppenwolf
+artist: Steppenwolf
+label: Analogue Productions
+Dunhill
+Dunhill
+Universal Music Special Markets
+formats: Vinyl, LP, Album, Reissue, Remastered, Stereo
+genres: Rock, Hard Rock, Psychedelic Rock
+rating: 4.82
+released: 2013
+year: 1968
+releaseid: 4721059
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Steppenwolf
 
-![](../../asssets/artists/Steppenwolf.png)
+By Steppenwolf
 
-## Artist Profile
+![](../../assets/albumcovers/Steppenwolf-Steppenwolf.png)
 
-Steppenwolf was a highly-influential American hard rock band, based in Los Angeles, CA from 1968-1976. They have sold well over 25 million record sales worldwide, releasing eight gold albums and twelve Billboard Hot 100 singles of which six were Top 40 hits, including three Top 10.
+## Album Data
 
-Original line-up: 
-Jerry Edmonton (real name: Gerald Michael McCrohan) – drums (1967–1976)
-John Kay (real name: Joachim Krauledat) – lead vocals, rhythm guitar, harmonica (1967–1972, 1974–1976, 1980–present)
-Goldy McJohn (real name: John Raymond Goadsby) – keyboards, organ (1967–1974)
-Michael Monarch – guitar (1967–1969)
-Rushton Moreve (real name: John Russell Morgan) – bass (1967-1968)
+[Discogs URL](https://www.discogs.com/release/4721059-Steppenwolf-Steppenwolf)
 
-Current line-up:
-Ron Hurst – drums (1984–present)
-Danny Johnson – lead guitar, backing vocals (1996–present)
-John Kay – lead vocals, rhythm guitar, harmonica (1967–1972, 1974–1976, 1980–present)
-Gary Link – bass (1982–1984, 2009–present)
-Michael Wilk – keyboards (1982–present)
+- Label: Analogue Productions
+Dunhill
+Dunhill
+Universal Music Special Markets
+- Formats: Vinyl, LP, Album, Reissue, Remastered, Stereo
+- Genres: Rock, Hard Rock, Psychedelic Rock
+- Rating: 4.82
+- Released: 2013
+- Year: 1968
+- Release ID: 4721059
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-## Artist Links
+## Album Tracks
 
-- [https://steppenwolf.com/](https://steppenwolf.com/)
-- [https://www.facebook.com/steppenwolf/](https://www.facebook.com/steppenwolf/)
-- [https://en.wikipedia.org/wiki/Steppenwolf_(band)](https://en.wikipedia.org/wiki/Steppenwolf_(band))
-- [https://myspace.com/steppenwolfofficial](https://myspace.com/steppenwolfofficial)
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Sookie Sookie** | 3:09 |
+| A2 | **Everybody's Next One** | 2:53 |
+| A3 | **Berry Rides Again** | 2:45 |
+| A4 | **Hootchie Kootchie Man** | 5:07 |
+| A5 | **Born To Be Wild** | 3:28 |
+| A6 | **Your Wall's Too High** | 5:40 |
+| B1 | **Desperation** | 5:35 |
+| B2 | **The Pusher** | 5:43 |
+| B3 | **A Girl I Knew** | 2:38 |
+| B4 | **Take What You Need** | 3:28 |
+| B5 | **The Ostrich** | 5:43 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Gary Burden** | Artwork [Cover, Liner Design] |
+| **Bill Cooper** | Engineer |
+| **Richard Podolor** | Engineer |
+| **Kevin Gray** | Lacquer Cut By |
+| **Tom Gundelfinger** | Photography By |
+| **Gabriel Mekler** | Producer |
 
 
-## See also
-
-- [Monster](Steppenwolf-Monster.md)
-- [Steppenwolf](Steppenwolf-Steppenwolf.md)

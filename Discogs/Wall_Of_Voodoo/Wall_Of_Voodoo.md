@@ -1,37 +1,68 @@
+---
+title: Wall Of Voodoo
+artist: Wall Of Voodoo
+label: Index
+formats: Vinyl, 12", 33 ⅓ RPM, EP
+genres: Electronic, Rock, Alternative Rock, New Wave
+rating: 4.21
+released: 1980-11-00
+year: 1980
+releaseid: 1080848
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Wall Of Voodoo
 
-![](../../asssets/artists/Wall_Of_Voodoo.png)
+By Wall Of Voodoo
 
-## Artist Profile
+![](../../assets/albumcovers/Wall_Of_Voodoo-Wall_Of_Voodoo.png)
 
-Formed: 1977 // Los Angeles, CA, United States 
-Disbanded: 1988 
-Members:
-Stan Ridgway (vocals, 1977-83)
-Andy Prieboy (vocals, 1983-88)
-Marc Moreland (guitar, 1977-88)
-Bruce Moreland (bass, 1977-82)
-Bill Noland (bass, 1982-88)
-Chas T. Gray (keyboards, 1979-88)
-Joe Nanini (percussion, 1979-83)
-Ned Leukhardt (drums, 1983-88) 
+## Album Data
 
-Wall of Voodoo had its roots in Acme Soundtracks, a film score business started by Stan Ridgway, who was later the vocalist and harmonica player for Wall of Voodoo. Acme Soundtracks' office was across the street from the Hollywood punk club The Masque and Ridgway was soon drawn into the emerging punk/new wave scene there. Marc Moreland, guitarist for local group The Skulls, began jamming with Ridgway at the Acme Soundtracks office and the soundtrack company soon morphed into a new wave band. In 1977, with the addition of Skulls members Bruce Moreland (Marc Moreland's brother) as bassist and Chas T. Gray as keyboardist, along with Joe Nanini (who had been the drummer for Black Randy and the Metrosquad) the first lineup of Wall of Voodoo was born.
+[Discogs URL](https://www.discogs.com/release/1080848-Wall-Of-Voodoo-Wall-Of-Voodoo)
 
-The band was named Wall of Voodoo before their first gig in reference to a comment made by Ridgway's friend, bassist Joe Ramirez. Ramirez was listening to some of the Acme Soundtracks music Ridgway and Moreland had created in their studio. When Ridgway jokingly compared the multiple-drum-machine-and Farfisa-organ-laden recordings to Phil Spector's legendary "wall of sound" production style, Ramirez commented it sounded more like a "wall of voodoo", and the name stuck.
+- Label: Index
+- Formats: Vinyl, 12", 33 ⅓ RPM, EP
+- Genres: Electronic, Rock, Alternative Rock, New Wave
+- Rating: 4.21
+- Released: 1980-11-00
+- Year: 1980
+- Release ID: 1080848
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-## Artist Links
+## Album Tracks
 
-- [http://www.wallofvoodoo.net](http://www.wallofvoodoo.net)
-- [http://www.myspace.com/wallofvoodoo](http://www.myspace.com/wallofvoodoo)
-- [http://www.trouserpress.com/entry.php?a=wall_of_voodoo](http://www.trouserpress.com/entry.php?a=wall_of_voodoo)
-- [http://www.wallofvoodoo.com/disco.htm](http://www.wallofvoodoo.com/disco.htm)
-- [http://en.wikipedia.org/wiki/Wall_Of_Voodoo](http://en.wikipedia.org/wiki/Wall_Of_Voodoo)
-- [https://books.discogs.com/credit/661328-wall-of-voodoo](https://books.discogs.com/credit/661328-wall-of-voodoo)
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Longarm** | 3:44 |
+| A2 | **The Passenger** | 4:07 |
+| B1 | **Can't Make Love** | 3:47 |
+| B2 | **Struggle** | 2:14 |
+| B3 | **Ring Of Fire** | 4:59 |
+| B4 | **Granma's House** | 0:55 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Bruce Moreland** | Bass, Piano |
+| **Index Images** | Design |
+| **Jim Hill** | Engineer |
+| **Marc Moreland** | Guitar |
+| **Jeff Sanders** | Mastered By |
+| **Joe Nanini** | Percussion |
+| **Scott Lindgren** | Photography By |
+| **Wall Of Voodoo** | Producer, Cover [Cover Concept] |
+| **Chas T. Gray** | Synthesizer |
+| **Stan Ridgway** | Vocals, Organ |
+| **Wall Of Voodoo** | Written-By |
 
 
-## See also
-
-- [Dark Continent](Wall_Of_Voodoo-Dark_Continent.md)
-- [Mexican Radio](Wall_Of_Voodoo-Mexican_Radio.md)
-- [Wall Of Voodoo](Wall_Of_Voodoo-Wall_Of_Voodoo.md)

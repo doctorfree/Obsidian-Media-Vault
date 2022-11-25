@@ -1,0 +1,271 @@
+# mkdiscogs
+
+```shell
+#!/bin/bash
+#
+# mkdiscogs
+#
+# Generate various indexes into the Markdown format files created in the
+# Obsidian vault with the previous script. This script can generate lists
+# of records sorted by artist or title in list or table format.
+
+VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
+TOP="${VAULT}/Discogs"
+
+usage() {
+  printf "\nUsage: mkdiscogs [-A] [-T] [-f] [-p /path/to/Discogs] [-t] [-h]"
+  printf "\nWhere:"
+  printf "\n\t-A indicates sort by Artist"
+  printf "\n\t-T indicates sort by Title (default)"
+  printf "\n\t-f indicates overwrite any pre-existing Discogs index markdown"
+  printf "\n\t-p /path/to/Discogs specifies the full path to the Discogs folder"
+  printf "\n\t(default: ${HOME}/Documents/Obsidian/Obsidian-Media-Vault/Discogs)"
+  printf "\n\t-t indicates create a table rather than listing"
+  printf "\n\t-h displays this usage message and exits\n\n"
+  exit 1
+}
+
+mktable=
+overwrite=
+sortorder="title"
+
+while getopts "ATfp:th" flag; do
+    case $flag in
+        A)
+            sortorder="artist"
+            ;;
+        T)
+            sortorder="title"
+            ;;
+        f)
+            overwrite=1
+            ;;
+        p)
+            TOP="${OPTARG}"
+            ;;
+        t)
+            mktable=1
+            numcols=1
+            ;;
+        h)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
+[ -d "${TOP}" ] || {
+  echo "$TOP does not exist or is not a directory. Exiting."
+  exit 1
+}
+
+if [ "${mktable}" ]
+then
+  if [ "${sortorder}" == "title" ]
+  then
+    discogs_index="Table_of_Discogs_by_Title"
+  else
+    discogs_index="Table_of_Discogs_by_Artist"
+  fi
+else
+  if [ "${sortorder}" == "title" ]
+  then
+    discogs_index="Discogs_by_Title"
+  else
+    discogs_index="Discogs_by_Artist"
+  fi
+fi
+
+cd "${TOP}"
+
+[ "${overwrite}" ] && rm -f ${VAULT}/${discogs_index}.md
+
+if [ -f ${VAULT}/${discogs_index}.md ]
+then
+  echo "${discogs_index}.md already exists. Use '-f' to overwrite an existing index."
+  echo "Exiting without changes."
+  exit 1
+else
+  echo "# Discogs" > ${VAULT}/${discogs_index}.md
+  echo "" >> ${VAULT}/${discogs_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Table of Discogs by Title" >> ${VAULT}/${discogs_index}.md
+    else
+      echo "## Table of Discogs by Artist" >> ${VAULT}/${discogs_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "## Index of Discogs by Title" >> ${VAULT}/${discogs_index}.md
+    else
+      echo "## Index of Discogs by Artist" >> ${VAULT}/${discogs_index}.md
+    fi
+    echo "" >> ${VAULT}/${discogs_index}.md
+    echo "| **[A](#a)** | **[B](#b)** | **[C](#c)** | **[D](#d)** | **[E](#e)** | **[F](#f)** | **[G](#g)** | **[H](#h)** | **[I](#i)** | **[J](#j)** | **[K](#k)** | **[L](#l)** | **[M](#m)** | **[N](#n)** | **[O](#o)** | **[P](#p)** | **[Q](#q)** | **[R](#r)** | **[S](#s)** | **[T](#t)** | **[U](#u)** | **[V](#v)** | **[W](#w)** | **[X](#x)** | **[Y](#y)** | **[Z](#z)** |" >> ${VAULT}/${discogs_index}.md
+    echo "|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|" >> ${VAULT}/${discogs_index}.md
+    echo "" >> ${VAULT}/${discogs_index}.md
+  fi
+  echo "" >> ${VAULT}/${discogs_index}.md
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      echo "| **Title by Artist** | **Title by Artist** | **Title by Artist** | **Title by Artist** | **Title by Artist** |" >> ${VAULT}/${discogs_index}.md
+    else
+      echo "| **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** | **Artist: Title** |" >> ${VAULT}/${discogs_index}.md
+    fi
+    echo "|--|--|--|--|--|" >> ${VAULT}/${discogs_index}.md
+  else
+    heading="0-9"
+    artist_heading=
+    echo "### ${heading}" >> ${VAULT}/${discogs_index}.md
+    echo "" >> ${VAULT}/${discogs_index}.md
+  fi
+
+  if [ "${mktable}" ]
+  then
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/discogss$$
+      while read discogs
+      do
+        artist=`echo ${discogs} | awk -F '/' ' { print $1 } '`
+        filename=`echo ${discogs} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+        [ "${artist}" == "${filename}" ] && continue
+        artistname=`grep "artist:" ${discogs} | head -1 | \
+          awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+        [ "${artistname}" ] || {
+          echo "${discogs} needs an artist: tag. Skipping."
+          continue
+        }
+        title=`grep "title:" ${discogs} | awk -F ':' ' { print $2 } ' | \
+          sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+        [ "${title}" ] || {
+          echo "${discogs} needs a title: tag. Skipping."
+          continue
+        }
+        if [ ${numcols} -gt 4 ]
+        then
+          printf "| [${title}](Discogs/${discogs}) by ${artistname} |\n" >> ${VAULT}/${discogs_index}.md
+          numcols=1
+        else
+          printf "| [${title}](Discogs/${discogs}) by ${artistname} " >> ${VAULT}/${discogs_index}.md
+          numcols=$((numcols+1))
+        fi
+      done < <(cat /tmp/discogss$$)
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${discogs_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${discogs_index}.md
+      rm -f /tmp/discogss$$
+    else
+      for artist in *
+      do
+        [ "${artist}" == "*" ] && continue
+        [ -d "${artist}" ] || continue
+        cd "${artist}"
+        artistname=
+        for discogs in *.md
+        do
+          [ "${discogs}" == "*.md" ] && continue
+          [ "${discogs}" == "${artist}.md" ] && continue
+          [ "${artistname}" ] || {
+            artistname=`grep "artist:" ${discogs} | head -1 | \
+              awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+          }
+          title=`grep "title:" ${discogs} | awk -F ':' ' { print $2 } ' | \
+            sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+          if [ ${numcols} -gt 4 ]
+          then
+            printf "| ${artistname}: [${title}](Discogs/${artist}/${discogs}) |\n" >> ${VAULT}/${discogs_index}.md
+            numcols=1
+          else
+            printf "| ${artistname}: [${title}](Discogs/${artist}/${discogs}) " >> ${VAULT}/${discogs_index}.md
+            numcols=$((numcols+1))
+          fi
+        done
+        cd ..
+      done
+
+      while [ ${numcols} -lt 5 ]
+      do
+        printf "| " >> ${VAULT}/${discogs_index}.md
+        numcols=$((numcols+1))
+      done
+      printf "|\n" >> ${VAULT}/${discogs_index}.md
+    fi
+  else
+    if [ "${sortorder}" == "title" ]
+    then
+      ls -1 */*.md | sort -k 2 -t'/' > /tmp/discogss$$
+    else
+      ls -1 */*.md | sort -k 1 -t'/' > /tmp/discogss$$
+    fi
+    while read discogs
+    do
+      artist=`echo ${discogs} | awk -F '/' ' { print $1 } '`
+      filename=`echo ${discogs} | awk -F '/' ' { print $2 } ' | sed -e "s/\.md//"`
+      [ "${artist}" == "${filename}" ] && continue
+      artistname=`grep "artist:" ${discogs} | head -1 | \
+        awk -F ':' ' { print $2 } ' | sed -e 's/^ *//' -e 's/ *$//'`
+      [ "${artistname}" ] || {
+        echo "${discogs} needs an artist: tag. Skipping."
+        continue
+      }
+      title=`grep "title:" ${discogs} | awk -F ':' ' { print $2 } ' | \
+        sed -e 's/^ *//' -e 's/ *$//' -e "s/^\"//" -e "s/\"$//"`
+      [ "${title}" ] || {
+        echo "${discogs} needs a title: tag. Skipping."
+        continue
+      }
+      if [ "${sortorder}" == "title" ]
+      then
+        first=${title:0:1}
+      else
+        first=${artistname:0:1}
+      fi
+      if [ "${heading}" == "0-9" ]
+      then
+        [ "${first}" -eq "${first}" ] 2> /dev/null || {
+          [ "${first}" == "#" ] || {
+            [ "${first}" == "?" ] || {
+              [ "${first}" == "_" ] || {
+                heading=${first}
+                echo "" >> ${VAULT}/${discogs_index}.md
+                echo "### ${heading}" >> ${VAULT}/${discogs_index}.md
+                echo "" >> ${VAULT}/${discogs_index}.md
+              }
+            }
+          }
+        }
+      else
+        [ "${first}" == "${heading}" ] || {
+          heading=${first}
+          echo "" >> ${VAULT}/${discogs_index}.md
+          echo "### ${heading}" >> ${VAULT}/${discogs_index}.md
+          echo "" >> ${VAULT}/${discogs_index}.md
+        }
+      fi
+      if [ "${sortorder}" == "title" ]
+      then
+        echo "- [${title}](Discogs/${discogs}) by **${artistname}**" >> ${VAULT}/${discogs_index}.md
+      else
+        [ "${artistname}" == "${artist_heading}" ] || {
+          artist_heading=${artistname}
+          echo "" >> ${VAULT}/${discogs_index}.md
+          echo "#### ${artist_heading}" >> ${VAULT}/${discogs_index}.md
+          echo "" >> ${VAULT}/${discogs_index}.md
+        }
+        echo "- [${title}](Discogs/${discogs})" >> ${VAULT}/${discogs_index}.md
+      fi
+    done < <(cat /tmp/discogss$$)
+    rm -f /tmp/discogss$$
+  fi
+fi
+```

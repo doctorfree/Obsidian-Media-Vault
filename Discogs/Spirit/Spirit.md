@@ -1,28 +1,76 @@
+---
+title: Spirit
+artist: Spirit
+label: Sundazed Music
+formats: Vinyl, LP, Album, Reissue, Mono
+genres: Rock, Psychedelic Rock, Prog Rock
+rating: 4.53
+released: 2005
+year: 1968
+releaseid: 2958004
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Spirit
 
-![](../../asssets/artists/Spirit.png)
+By Spirit
 
-## Artist Profile
+![](../../assets/albumcovers/Spirit-Spirit.png)
 
-Spirit was an American rock band founded in 1967 and based in Los Angeles, California. Their most commercially successful single in the United States was "I Got a Line on You". They were also known for their albums, including their self-titled debut album, The Family That Plays Together, Clear, and Twelve Dreams of Dr. Sardonicus.
+## Album Data
 
-Original lineup
-Randy California - guitar, vocals (1967–72, 1972–73, 1974–79, 1982–97; died 1997)
-Ed Cassidy - drums (1967–72, 1972–73, 1974–79, 1982–97; died 2012)
-John Locke - keyboards (1967–72, 1976, 1982–85, 1988–89; died 2006)
-Mark Andes - bass (1967–71, 1974, 1976, 1982–85, 1988–89)
-Jay Ferguson - vocals, percussion (1967–71, 1976, 1982–85)
+[Discogs URL](https://www.discogs.com/release/2958004-Spirit-Spirit)
 
-## Artist Links
+- Label: Sundazed Music
+- Formats: Vinyl, LP, Album, Reissue, Mono
+- Genres: Rock, Psychedelic Rock, Prog Rock
+- Rating: 4.53
+- Released: 2005
+- Year: 1968
+- Release ID: 2958004
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-- [http://randycaliforniaandspirit.com/](http://randycaliforniaandspirit.com/)
-- [https://en.wikipedia.org/wiki/Spirit_(band)](https://en.wikipedia.org/wiki/Spirit_(band))
-- [http://www.progarchives.com/artist.asp?id=2643](http://www.progarchives.com/artist.asp?id=2643)
-- [https://www.imdb.com/name/nm3083211/](https://www.imdb.com/name/nm3083211/)
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fresh-Garbage** | 3:10 |
+| A2 | **Uncle Jack** | 2:46 |
+| A3 | **Mechanical World** | 5:15 |
+| A4 | **Taurus** | 2:35 |
+| A5 | **Girl In Your Eye** | 3:15 |
+| A6 | **Straight Arrow** | 2:46 |
+| B1 | **Topanga Windows** | 3:36 |
+| B2 | **Gramophone Man** | 2:46 |
+| B3 | **Water Woman** | 2:05 |
+| B4 | **The Great Canyon Fire In General** | 2:50 |
+| B5 | **Elijah** | 10:45 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Marty Paich** | Arranged By [Strings, Horns] |
+| **Tom Wilkes (2)** | Art Direction |
+| **Mark Andes** | Bass, Vocals |
+| **Corporate Head** | Design [Album Design] |
+| **Ed Cassidy** | Drums, Percussion |
+| **Armin Steiner** | Engineer |
+| **Eirik W. Wangberg** | Engineer |
+| **Michael Lietz** | Engineer |
+| **Randy California** | Guitar |
+| **John Locke** | Keyboards |
+| **Jay Thompson (4)** | Photography By [Back Cover] |
+| **Guy Webster** | Photography By [Cover] |
+| **Lou Adler** | Producer |
+| **Jay Ferguson** | Vocals, Percussion |
 
 
-## See also
-
-- [Clear](Spirit-Clear.md)
-- [Spirit](Spirit-Spirit.md)
-- [Twelve Dreams Of Dr. Sardonicus](Spirit-Twelve_Dreams_Of_Dr_Sardonicus.md)

@@ -1,34 +1,68 @@
+---
+title: Commodores
+artist: Commodores
+label: Motown
+formats: Vinyl, LP, Album
+genres: Funk / Soul, Funk, Soul
+rating: 3.88
+released: 1977-03-15
+year: 1977
+releaseid: 4157801
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Commodores
 
-![](../../asssets/artists/Commodores.png)
+By Commodores
 
-## Artist Profile
+![](../../assets/albumcovers/Commodores-Commodores.png)
 
-American funk soul band of the 1970s and 1980s.
+## Album Data
 
-They formed as freshmen in Tuskegee University, Alabama, in 1968.
-They signed to Motown in 1972, starting with a support stint in The Jackson 5 tour.
-They started recording in 1969 in a career that lasted to early 90's.
-They have sold in total over 75 million records. 
-Their peak years commercially were in the late 70's with ballads like "Easy", "Still" and "Three Times a Lady" that defined the style of Lionel Richie's solo career as well.
-They are known for the dance funk numbers like "Machine Gun", "Brick House", "The Bump", "Fancy Dancer", and "Too Hot Ta Trot".
-Their best work is produced by their permanent producer James Anthony Carmichael.
-In 1978 they made a brief appearance in the disco movie "Thank God It's Friday".
-When Lionel Richie left for a solo career, Heatwave's J.D. Nicholas replaced him.
-Their first Grammy award came in 1985 with their Marvin Gaye tribute "Nightshift".
-In 1982, Thomas McClary left the band and was replaced by Sheldon Reynolds.
-In 1983 Skyler Jett replaced Lionel Richie for their world tour.
+[Discogs URL](https://www.discogs.com/release/4157801-Commodores-Commodores)
 
-## Artist Links
+- Label: Motown
+- Formats: Vinyl, LP, Album
+- Genres: Funk / Soul, Funk, Soul
+- Rating: 3.88
+- Released: 1977-03-15
+- Year: 1977
+- Release ID: 4157801
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-- [https://www.commodoreslive.com/](https://www.commodoreslive.com/)
-- [https://www.facebook.com/TheCommodores/](https://www.facebook.com/TheCommodores/)
-- [https://www.whosampled.com/Commodores/](https://www.whosampled.com/Commodores/)
-- [https://classic.motown.com/artist/the-commodores/](https://classic.motown.com/artist/the-commodores/)
-- [https://en.wikipedia.org/wiki/Commodores](https://en.wikipedia.org/wiki/Commodores)
-- [https://myspace.com/thecommodoresnow](https://myspace.com/thecommodoresnow)
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Squeeze The Fruit** | 2:58 |
+| A2 | **Funny Feelings** | 4:50 |
+| A3 | **Heaven Knows** | 4:48 |
+| A4 | **Zoom** | 6:43 |
+| B1 | **Won't You Come Dance With Me** | 3:49 |
+| B2 | **Brick House** | 3:28 |
+| B3 | **Funky Situation** | 3:44 |
+| B4 | **Patch It Up** | 3:59 |
+| B5 | **Easy** | 4:14 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Jack Andrews** | Engineer [Mastering] |
+| **Cal Harris** | Engineer [Recording] |
+| **Jane Clark** | Engineer [Recording] |
+| **Darrell Jones (2)** | Guitar [Pickin' And Finger Slickin'], Other [Very Special Thanks] |
+| **Jack Andrews** | Lacquer Cut By |
+| **Cal Harris** | Mixed By, Synthesizer [Godfather Of], Other [Very Special Thanks] |
+| **James Anthony Carmichael** | Producer, Arranged By |
+| **Commodores** | Producer, Arranged By, Written-By |
 
 
-## See also
-
-- [Commodores](Commodores-Commodores.md)

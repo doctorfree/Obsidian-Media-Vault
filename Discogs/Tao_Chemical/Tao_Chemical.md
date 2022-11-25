@@ -1,19 +1,76 @@
+---
+title: Tao Chemical
+artist: Tao Chemical
+label: Tao Vinyl
+formats: Vinyl, LP, Album
+genres: Rock, New Wave, Alternative Rock
+rating: 5
+released: 1982
+year: 1982
+releaseid: 2311973
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Tao Chemical
 
-![](../../asssets/artists/Tao_Chemical.png)
+By Tao Chemical
 
-## Artist Profile
+![](../../assets/albumcovers/Tao_Chemical-Tao_Chemical.png)
 
-Tao Chemical was a Santa Cruz new age-punk band comprised of Rob Brezsny (a.k.a. Ray Foreplay, a.k.a. Pope Artaud) (vox), Not Michael (guitar), Rick Walker (drums), Bill Walker (5) (guitar), Jim Rutledge (2) (bass), Janet Ring (sound engineering and backing vox), and Marina Shoupe (lighting and stage design).
+## Album Data
 
-The quintessential art band, they called themselves "avant-gauche prague rock" and "pagan gospel muzak." They were known for their musical intensity, theatrical stage show, and psychosexual lyrics that seemed intended to provoke everyone, including punks (e.g., "You call me a faggot / But you're homophobic / You don't understand / I'm a lesbian man").
+[Discogs URL](https://www.discogs.com/release/2311973-Tao-Chemical-Tao-Chemical)
 
-The band had its origins in the late 1970s as Mystery Spot, which soon re-formed as Youth In Asia. Rob, Michael, Rick, and Jim started playing under the name Tao Chemical in late 1979, later softening their sound a bit with the addition of Janet and Bill. A host of offshoot groups -- The Siblings, Not Noise, Tao Rhythmical, Breakfast of Amazons -- suggest the complexity of the Tao "family." Tellingly, even as Tao was holding court at punk venues -- at one point they were banned from Shellie's Too for obscenity -- Rick and Jim continued playing in one of Santa Cruz's top new age bands, led by a singer/dancer named Fantuzzi.
+- Label: Tao Vinyl
+- Formats: Vinyl, LP, Album
+- Genres: Rock, New Wave, Alternative Rock
+- Rating: 5
+- Released: 1982
+- Year: 1982
+- Release ID: 2311973
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-## Artist Links
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Ain't It Always** |  |
+| A2 | **Too Polite** |  |
+| A3 | **Mom Said** |  |
+| B1 | **Small Town** |  |
+| B2 | **Scare Me** |  |
+| B3 | **Sick Of Food** |  |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Janet Ring** | Backing Vocals, Engineer |
+| **Jim Rutledge (2)** | Bass Guitar, Backing Vocals |
+| **B. Modern** | Design [Album] |
+| **Beth Regardz** | Design [Album] |
+| **Tao Chemical** | Design [Album] |
+| **Rick Walker** | Drums, Percussion |
+| **Justin Mayer** | Engineer [Basic Tracks, Additional Engineering] |
+| **Janet Ring** | Engineer [Basic Tracks] |
+| **Noel Gott** | Engineer [Basic Tracks] |
+| **Janet Ring** | Engineer [Mixdown, Assisted By] |
+| **Rick Walker** | Engineer [Mixdown] |
+| **Bill Walker (5)** | Guitar |
+| **Not Michael** | Guitar |
+| **Rob Brezsny** | Lead Vocals |
+| **Marina Shoupe** | Lighting, Set Designer [Stage Design] |
+| **Paul Schraub** | Photography By |
+| **Bruce Gay (2)** | Technician [Tao Technical] |
+| **Paul Abouti** | Technician [Tao Technical] |
+| **Tao Chemical** | Written-By, Arranged By, Producer |
 
 
-
-## See also
-
-- [Tao Chemical](Tao_Chemical-Tao_Chemical.md)

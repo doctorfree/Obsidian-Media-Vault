@@ -1,22 +1,49 @@
+---
+title: Brenda Lee
+artist: Brenda Lee
+label: Decca
+formats: Vinyl, 7", 45 RPM, EP
+genres: Folk, World, & Country, Country
+rating: 0
+released: 1961
+year: 1961
+releaseid: 9729611
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Brenda Lee
 
-![](../../asssets/artists/Brenda_Lee.png)
+By Brenda Lee
 
-## Artist Profile
+![](../../assets/albumcovers/Brenda_Lee-Brenda_Lee.png)
 
-American performer who sang rockabilly, pop and country music, born December 11, 1944 in Atlanta, Georgia, USA.
+## Album Data
 
-Inducted into Rock And Roll Hall of Fame in 2002 (Performer).
+[Discogs URL](https://www.discogs.com/release/9729611-Brenda-Lee-Brenda-Lee)
 
-Married to Ronnie Shacklett.
+- Label: Decca
+- Formats: Vinyl, 7", 45 RPM, EP
+- Genres: Folk, World, & Country, Country
+- Rating: 0
+- Released: 1961
+- Year: 1961
+- Release ID: 9729611
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
 
-## Artist Links
+## Album Tracks
 
-- [http://www.brendalee.com](http://www.brendalee.com)
-- [http://en.wikipedia.org/wiki/Brenda_Lee](http://en.wikipedia.org/wiki/Brenda_Lee)
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Fool #1** |  |
+| A2 | **Anybody But Me** |  |
+| B1 | **You Can Depend On Me** |  |
+| B2 | **It's Never Too Late** |  |
 
-
-## See also
-
-- [Brenda Lee](Brenda_Lee-Brenda_Lee.md)
-- [I'm Sorry](Brenda_Lee-Im_Sorry.md)

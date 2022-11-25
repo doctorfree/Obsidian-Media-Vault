@@ -1,20 +1,74 @@
+---
+title: Black Oak Arkansas
+artist: Black Oak Arkansas
+label: Music On Vinyl
+formats: Vinyl, LP, Album, Reissue
+genres: Rock, Rock & Roll, Southern Rock
+rating: 4.25
+released: 2015-06-08
+year: 1971
+releaseid: 7092381
+mediacondition: 
+sleevecondition: 
+speed: 
+weight: 
+notes: 
+---
+
 # Black Oak Arkansas
 
-![](../../asssets/artists/Black_Oak_Arkansas.png)
+By Black Oak Arkansas
 
-## Artist Profile
+![](../../assets/albumcovers/Black_Oak_Arkansas-Black_Oak_Arkansas.png)
 
-Black Oak Arkansas is an American Southern rock band named after the band's hometown of Black Oak, Arkansas. The band reached the height of its fame in the 1970s with ten charting albums released in that decade. Their style is punctuated by multiple guitar players and the raspy voice and on-stage antics of vocalist Jim "Dandy" Mangrum.
-Following continued diminishing record sales, Jim "Dandy" Mangrum dropped "Arkansas" from the group's name (in an attempt to downplay their Southern-ness).
-As "Black Oak" released two albums on Capricorn Records, 'Race with the Devil' in 1977 and 'I'd Rather Be Sailing' in 1978.
+## Album Data
 
-## Artist Links
+[Discogs URL](https://www.discogs.com/release/7092381-Black-Oak-Arkansas-Black-Oak-Arkansas)
 
-- [http://www.blackoakarkansas.net/](http://www.blackoakarkansas.net/)
-- [https://en.wikipedia.org/wiki/Black_Oak_Arkansas](https://en.wikipedia.org/wiki/Black_Oak_Arkansas)
-- [https://www.facebook.com/officialblackoakarkansas/](https://www.facebook.com/officialblackoakarkansas/)
+- Label: Music On Vinyl
+- Formats: Vinyl, LP, Album, Reissue
+- Genres: Rock, Rock & Roll, Southern Rock
+- Rating: 4.25
+- Released: 2015-06-08
+- Year: 1971
+- Release ID: 7092381
+- Media condition: 
+- Sleeve condition: 
+- Speed: 
+- Weight: 
+- Notes: 
+
+## Album Tracks
+
+| **Position** | **Title** | **Duration** |
+|--------------|-----------|--------------|
+| A1 | **Uncle Lijiah** | 3:17 |
+| A2 | **Memories At The Window** | 3:05 |
+| A3 | **The Hills Of Arkansas** | 3:45 |
+| A4 | **I Could Love You** | 6:10 |
+| B1 | **Hot And Nasty** | 2:55 |
+| B2 | **Singing The Blues** | 2:17 |
+| B3 | **Lord Have Mercy On My Soul** | 6:15 |
+| B4 | **When Electricity Came To Arkansas** | 4:26 |
+
+## Artist Roles
+
+| **Name** | **Role** |
+|----------|----------|
+| **Pat Daugherty** | Bass Guitar, Vocals |
+| **Eve Babitz** | Design, Photography By |
+| **Wayne Evans** | Drums |
+| **Brian Bruderlin** | Engineer |
+| **Lee D. Weisel** | Executive-Producer |
+| **Sheldon Krechman** | Executive-Producer |
+| **Harvey Jett** | Lead Guitar, Banjo, Piano, Vocals |
+| **Stanley Knight** | Lead Guitar, Steel Guitar, Organ, Vocals |
+| **Jim Dandy** | Lead Vocals, Washboard |
+| **Doc Siegel** | Mixed By |
+| **Jay Senter** | Mixed By |
+| **Lee Dorman** | Producer |
+| **Mike Pinera** | Producer |
+| **Rick Reynolds** | Twelve-String Guitar [Rhythm], Vocals |
+| **Black Oak Arkansas** | Written-By, Arranged By |
 
 
-## See also
-
-- [Black Oak Arkansas](Black_Oak_Arkansas-Black_Oak_Arkansas.md)
