@@ -19,7 +19,7 @@ See the [See also](#see_also) section below for links to some of these other tec
 - [Beets library](#beets_library)
 - [Books library](#books_library)
 - [Vinyl library](#vinyl_library)
-    - [Discogs](#discogs)
+- [Discogs Collection](#discogs_collection)
 - [CD library](#cd_library)
 - [Apple Music](#apple_music)
 - [Roon library](#roon_library)
@@ -1595,14 +1595,14 @@ done
 
 </Details>
 
-### Discogs
+## Discogs_Collection
 
-Automation for generating markdown from a user's [Discogs](https://discogs.com) collection has been implemented in the `Tools/Vinyl/gen_discogs_albums` script. This script uses the Discogs API to retrieve album/artist data and generate the markdown and cover art for all items in a user's Discogs collection:
+Automation for generating markdown from a user's [Discogs](https://discogs.com) collection has been implemented in the `Tools/Discogs/albums2markdown` script. This script uses the Discogs API to retrieve album/artist data and generate the markdown and cover art for all items in a user's Discogs collection:
 
 ```console
-cd Tools/Vinyl
-vi gen_discogs_albums # Set the 'username' variable to your Discogs username
-./gen_discogs_albums
+cd Tools/Discogs
+vi albums2markdown # Set the 'DISCOGS_TOKEN' variable to your Discogs API token
+./albums2markdown
 ```
 
 The resulting markdown and cover art can be found in the `./Discogs` and `./assets` folders.
@@ -1611,35 +1611,79 @@ The resulting markdown and cover art can be found in the `./Discogs` and `./asse
 
 <Details markdown="block">
 
-See the script [Tools/Vinyl/gen_discogs_albums](Tools/Vinyl/gen_discogs_albums.md):
+See the script [Tools/Discogs/albums2markdown](Tools/Discogs/albums2markdown.md):
 
-#### [Tools/Vinyl/gen_discogs_albums](Tools/Vinyl/gen_discogs_albums.md) (click to collapse/expand)
+#### [Tools/Discogs/albums2markdown](Tools/Discogs/albums2markdown.md) (click to collapse/expand)
 
 ```shell
 
 #!/bin/bash
 #
-# gen_discogs_albums
+# discogs2markdown - written by Ronald Joe Record <ronaldrecord@gmail.com>
 #
 # Generate markdown for every item in your Discogs collection
-
-# Set to the username of the Discogs collection to query
-username="doctorfree"
+#
+# Set your Discogs username and API token in ~/.config/mpprc as:
+# DISCOGS_USER and DISCOGS_TOKEN
+# Alternately, they can be provided on the command line or set here.
+#
+#-----------SET DISCOGS USERNAME-----------------------
+DISCOGS_USER=
+#
+# Discogs API token
+# See https://www.discogs.com/settings/developers
+# API requests are throttled to 60 per minute for authenticated
+# requests and 25 per minute for unauthenticated requests.
+#
+#-----------SET DISCOGS API TOKEN-----------------------
+DISCOGS_TOKEN=
+#
+# A Discogs username and token are not required. However, API requests for
+# unauthenticated users are throttled to 25 per minute and images are not
+# available to unauthenticated users.
 
 URL="https://api.discogs.com"
 REL="${URL}/releases"
 MRL="${URL}/masters"
-# Not yet used, these are for custom collection fields
-FLD="${URL}/users/${username}/collection/fields"
-USR="${URL}/users/${username}/collection/releases"
-FDR="${URL}/users/${username}/collection/folders"
 
 HERE=`pwd`
 TOP="${HERE}/Discogs"
 AGE="github.com/doctorfree/MusicPlayerPlus"
 UAG="--user-agent \"MusicPlayerPlus/3.0\""
-token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 coverfolder="${HERE}/assets/albumcovers"
+
+# Dot in the user configuration file if it exists
+[ -f ${HOME}/.config/mpprc ] && . ${HOME}/.config/mpprc
+
+usage() {
+  printf "\nUsage: discogs2markdown [-u username] [-t token] [-h]"
+  printf "\nWhere:"
+  printf "\n\t-u 'username' specifies your Discogs username"
+  printf "\n\t-t 'token' specifies your Discogs API token"
+  printf "\n\t-h displays this usage message and exits\n\n"
+  exit 1
+}
+
+# Command line arguments override config file settings
+while getopts "u:t:h" flag; do
+    case $flag in
+        u)
+            DISCOGS_USER="$OPTARG"
+            ;;
+        t)
+            DISCOGS_TOKEN="$OPTARG"
+            ;;
+        h)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
+# Not yet used, these are for custom collection fields
+FLD="${URL}/users/${DISCOGS_USER}/collection/fields"
+USR="${URL}/users/${DISCOGS_USER}/collection/releases"
+FDR="${URL}/users/${DISCOGS_USER}/collection/folders"
 
 [ -d "${TOP}" ] || mkdir -p "${TOP}"
 [ -d "${coverfolder}" ] || {
@@ -1653,11 +1697,19 @@ make_release_markdown() {
       [ -d json/${releaseid} ] || mkdir json/${releaseid}
 
       [ -s "json/${releaseid}/${releaseid}.json" ] || {
-        curl --stderr /dev/null \
-          -A "${AGE}" "${REL}/${releaseid}" \
-          -H "Authorization: Discogs token=${token}" | \
-          jq -r '.' > "json/${releaseid}/${releaseid}.json"
-        sleep 1
+        if [ "${DISCOGS_TOKEN}" ]
+        then
+          curl --stderr /dev/null \
+            -A "${AGE}" "${REL}/${releaseid}" \
+            -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
+            jq -r '.' > "json/${releaseid}/${releaseid}.json"
+          sleep 1
+        else
+          curl --stderr /dev/null \
+            -A "${AGE}" "${REL}/${releaseid}" \
+            jq -r '.' > "json/${releaseid}/${releaseid}.json"
+          sleep 2.4
+        fi
       }
 
       [ -s "json/${releaseid}/${releaseid}_genres.json" ] || {
@@ -1786,11 +1838,19 @@ make_release_markdown() {
         masterid=`cat "json/${releaseid}/${releaseid}.json" | \
           jq -r '.master_id'`
         [ -z ${masterid} ] || {
-          curl --stderr /dev/null \
-            -A "${AGE}" "${MRL}/${masterid}" \
-            -H "Authorization: Discogs token=${token}" | \
-            jq -r '.' > json/${releaseid}/${releaseid}_master.json
-          sleep 1
+          if [ "${DISCOGS_TOKEN}" ]
+          then
+            curl --stderr /dev/null \
+              -A "${AGE}" "${MRL}/${masterid}" \
+              -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
+              jq -r '.' > json/${releaseid}/${releaseid}_master.json
+            sleep 1
+          else
+            curl --stderr /dev/null \
+              -A "${AGE}" "${MRL}/${masterid}" \
+              jq -r '.' > json/${releaseid}/${releaseid}_master.json
+            sleep 2.4
+          fi
         }
       }
       [ -f "json/${releaseid}/${releaseid}_master.json" ] && {
@@ -1811,7 +1871,7 @@ make_release_markdown() {
       # [ -s "json/custom_fields.json" ] || {
       #   curl --stderr /dev/null \
       #     -A "${AGE}" "${FLD}" \
-      #     -H "Authorization: Discogs token=${token}" | \
+      #     -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       #       jq -r '.' > "json/custom_fields.json"
       #   sleep 1
       # }
@@ -1820,7 +1880,7 @@ make_release_markdown() {
       # [ -s "json/${releaseid}/${releaseid}_user.json" ] || {
       #   curl --stderr /dev/null \
       #     -A "${AGE}" "${USR}/${releaseid}" \
-      #     -H "Authorization: Discogs token=${token}" | \
+      #     -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       #       jq -r '.' > "json/${releaseid}/${releaseid}_user.json"
       #   sleep 1
       # }
@@ -1927,11 +1987,19 @@ make_release_markdown() {
 # Get the first page and set pages
 page=1
 [ -s "json/releases/releases_${page}.json" ] || {
-  curl --stderr /dev/null \
-    -A "${AGE}" "${FDR}/0/releases?page=${page}" \
-    -H "Authorization: Discogs token=${token}" | \
-    jq -r '.' > "json/releases/releases_${page}.json"
-  sleep 1
+  if [ "${DISCOGS_TOKEN}" ]
+  then
+    curl --stderr /dev/null \
+      -A "${AGE}" "${FDR}/0/releases?page=${page}" \
+      -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
+      jq -r '.' > "json/releases/releases_${page}.json"
+    sleep 1
+  else
+    curl --stderr /dev/null \
+      -A "${AGE}" "${FDR}/0/releases?page=${page}" \
+      jq -r '.' > "json/releases/releases_${page}.json"
+    sleep 2.4
+  fi
 }
 [ -s "json/releases/releases_${page}.json" ] && make_release_markdown ${page}
 pages=`cat "json/releases/releases_${page}.json" | jq -r '.pagination.pages'`
@@ -1942,11 +2010,19 @@ pages=`cat "json/releases/releases_${page}.json" | jq -r '.pagination.pages'`
   while true
   do
     [ -s "json/releases/releases_${page}.json" ] || {
-      curl --stderr /dev/null \
-        -A "${AGE}" "${FDR}/0/releases?page=${page}" \
-        -H "Authorization: Discogs token=${token}" | \
-        jq -r '.' > "json/releases/releases_${page}.json"
-      sleep 1
+      if [ "${DISCOGS_TOKEN}" ]
+      then
+        curl --stderr /dev/null \
+          -A "${AGE}" "${FDR}/0/releases?page=${page}" \
+          -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
+          jq -r '.' > "json/releases/releases_${page}.json"
+        sleep 1
+      else
+        curl --stderr /dev/null \
+          -A "${AGE}" "${FDR}/0/releases?page=${page}" \
+          jq -r '.' > "json/releases/releases_${page}.json"
+        sleep 2.4
+      fi
     }
     [ -s "json/releases/releases_${page}.json" ] && make_release_markdown ${page}
     if [ ${page} -lt ${pages} ]
@@ -1957,6 +2033,7 @@ pages=`cat "json/releases/releases_${page}.json" | jq -r '.pagination.pages'`
     fi
   done
 }
+
 
 ```
 
@@ -2605,18 +2682,18 @@ Playlists from the Roon Audio System were generated using the [RoonCommandLine](
 
 ## Updates
 
-Updating the vault with new markdown for albums, cds, books, or other media added to your collections is currently in development. Some automation for this task has been initiated in the `Tools/Vinyl/` folder for updating the Vinyl records markdown and cover art with newly added entries to a Discogs collection. This is largely done by querying the Discogs API. To update the Vinyl markdown and cover art for a newly added Discogs album:
+Updating the vault with new markdown for albums, cds, books, or other media added to your collections is currently in development. Some automation for this task has been initiated in the `Tools/Discogs/` folder for updating the Discogs records markdown and cover art with newly added entries to a Discogs collection. This is largely done by querying the Discogs API. To update the Discogs markdown and cover art for a newly added Discogs album:
 
 ```console
-cd Tools/Vinyl
+cd Tools/Discogs
 ./get-new-album <discogs_release_id>
 ```
 
 <Details markdown="block">
 
-See the script [Tools/Vinyl/get-new-album](Tools/Vinyl/get-new-album.md):
+See the script [Tools/Discogs/get-new-album](Tools/Discogs/get-new-album.md):
 
-### [Tools/Vinyl/get-new-album](Tools/Vinyl/get-new-album.md) (click to collapse/expand)
+### [Tools/Discogs/get-new-album](Tools/Discogs/get-new-album.md) (click to collapse/expand)
 
 ```shell
 

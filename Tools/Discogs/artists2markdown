@@ -1,11 +1,61 @@
 #!/bin/bash
+#
+# artists2markdown - written by Ronald Joe Record <ronaldrecord@gmail.com>
+#
+# Generate a markdown format profile for every artist in your Discogs collection
+#
+# Set your Discogs username and API token in ~/.config/mpprc as:
+# DISCOGS_USER and DISCOGS_TOKEN
+# Alternately, they can be provided on the command line or set here.
+#
+#-----------SET DISCOGS USERNAME-----------------------
+DISCOGS_USER=
+#
+# Discogs API token
+# See https://www.discogs.com/settings/developers
+# API requests are throttled to 60 per minute for authenticated
+# requests and 25 per minute for unauthenticated requests.
+#
+#-----------SET DISCOGS API TOKEN-----------------------
+DISCOGS_TOKEN=
+#
+# A Discogs username and token are not required. However, API requests for
+# unauthenticated users are throttled to 25 per minute and images are not
+# available to unauthenticated users.
+
+# Dot in the user configuration file if it exists
+[ -f ${HOME}/.config/mpprc ] && . ${HOME}/.config/mpprc
+
+usage() {
+  printf "\nUsage: artists2markdown [-u username] [-t token] [-h]"
+  printf "\nWhere:"
+  printf "\n\t-u 'username' specifies your Discogs username"
+  printf "\n\t-t 'token' specifies your Discogs API token"
+  printf "\n\t-h displays this usage message and exits\n\n"
+  exit 1
+}
+
+# Command line arguments override config file settings
+while getopts "u:t:h" flag; do
+    case $flag in
+        u)
+            DISCOGS_USER="$OPTARG"
+            ;;
+        t)
+            DISCOGS_TOKEN="$OPTARG"
+            ;;
+        h)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
 
 VAULT="${HOME}/Documents/Obsidian/Obsidian-Media-Vault"
 TOP="${VAULT}/Discogs"
 TOOLS="${VAULT}/Tools/Vinyl"
 ASSETS="${VAULT}/assets/artists"
 OUT="Discogs_Artists.md"
-username="doctorfree"
 
 # URL="https://api.discogs.com/releases"
 URL="https://api.discogs.com"
@@ -13,7 +63,6 @@ ART="${URL}/artists"
 
 AGE="github.com/doctorfree/MusicPlayerPlus"
 UAG="--user-agent \"MusicPlayerPlus/3.0\""
-token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 
 [ -d "${TOP}" ] || {
   echo "$TOP does not exist or is not a directory. Exiting."
@@ -97,12 +146,21 @@ do
     artist_id=`cat "${TOOLS}/json/${release_id}/${release_id}.json" | \
       jq -r '.artists[0].id'`
     # Retrieve artist profile
-    artist_profile=$(curl --stderr /dev/null \
-      -A "${AGE}" "${ART}/${artist_id}" \
-      -H "Accept: application/vnd.discogs.v2.plaintext+json" \
-      -H "Authorization: Discogs token=${token}" | \
-      jq -r '.')
-    sleep 1
+    if [ "${DISCOGS_TOKEN}" ]
+    then
+      artist_profile=$(curl --stderr /dev/null \
+        -A "${AGE}" "${ART}/${artist_id}" \
+        -H "Accept: application/vnd.discogs.v2.plaintext+json" \
+        -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
+        jq -r '.')
+      sleep 1
+    else
+      artist_profile=$(curl --stderr /dev/null \
+        -A "${AGE}" "${ART}/${artist_id}" \
+        -H "Accept: application/vnd.discogs.v2.plaintext+json" \
+        jq -r '.')
+      sleep 2.4
+    fi
     echo "${artist_profile}" > "${TOOLS}/json/artists/${artist_id}.json"
     [ -f "${artist}.png" ] || {
       avatar_url=`echo ${artist_profile} | jq -r '.images[0].uri'`

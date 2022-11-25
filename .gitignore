@@ -13,11 +13,15 @@
 
 Tools/*/tmp/*
 Tools/*/scripts/tmp/*
+Tools/Discogs/scripts/json/*
+Tools/Discogs/scripts/*.png
+Tools/Discogs/Discogs/*
+Tools/Discogs/assets/*
+Tools/Discogs/json/*
+Tools/Discogs/json-bak/*
 Tools/Vinyl/scripts/json/*
 Tools/Vinyl/scripts/*.png
-Tools/Vinyl/Discogs/*
 Tools/Vinyl/assets/*
-Tools/Vinyl/json/*
 
 .index
 tmp/*
