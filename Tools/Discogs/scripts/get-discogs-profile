@@ -24,10 +24,15 @@ profile=$(curl --stderr /dev/null \
   -H "Authorization: Discogs token=${token}" | \
   jq -r '.')
 
+echo "${profile}" > json/doctorfree-profile.json
+
 avatar_url=`echo ${profile} | jq '.avatar_url' | sed -e "s/\"//g"`
 wget -q -O "${username}_discogs_avatar.jpg" "${avatar_url}"
-convert "${username}_discogs_avatar.jpg" "${username}_discogs_avatar.png"
-# rm -f ${username}_discogs_avatar.jpg
+[ -f "${username}_discogs_avatar.jpg" ] && {
+  convert "${username}_discogs_avatar.jpg" \
+          "${username}_discogs_avatar.png" 2> /dev/null
+}
+rm -f ${username}_discogs_avatar.jpg
 
 # Retrieve collection value fields
 values=$(curl --stderr /dev/null \
@@ -90,4 +95,7 @@ echo "- **Discogs Seller Rating Stars:** ${seller_rating_stars}" >> "${filename}
 echo "" >> "${filename}"
 
 mv "${filename}" ../../..
-mv ${username}_discogs_avatar.png ../../../assets/${username}_discogs_avatar.png
+[ -f ${username}_discogs_avatar.png ] && {
+  mv ${username}_discogs_avatar.png \
+     ../../../assets/${username}_discogs_avatar.png
+}

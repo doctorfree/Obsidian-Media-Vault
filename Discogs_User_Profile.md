@@ -7,7 +7,7 @@
 
 | **Minimum** | **Median** | **Maximum** |
 |-------------|------------|-------------|
-| $8,281.17 | $17,073.64 | $36,690.54 |
+| $8,283.23 | $17,084.34 | $36,724.50 |
 ## Discogs user doctorfree profile
 
 Discogs user **doctorfree** has the following profile:
