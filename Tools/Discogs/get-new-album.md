@@ -6,9 +6,93 @@
 # get-new-album
 #
 # Get info on an album just added to your Discogs collection
+#
+# Set your Discogs username and API token in ~/.config/mpprc as:
+# DISCOGS_USER and DISCOGS_TOKEN
+# Alternately, they can be provided on the command line or set here.
+#
+#-----------SET DISCOGS USERNAME-----------------------
+DISCOGS_USER=
+#
+# Discogs API token
+# See https://www.discogs.com/settings/developers
+# API requests are throttled to 60 per minute for authenticated
+# requests and 25 per minute for unauthenticated requests.
+#
+#-----------SET DISCOGS API TOKEN-----------------------
+DISCOGS_TOKEN=
+#
+# A Discogs username is required.
+#
+# A Discogs API token is not required. However, API requests for
+# unauthenticated users are throttled to 25 per minute and images
+# are not available to unauthenticated users.
+
+# Dot in the user configuration file if it exists
+[ -f ${HOME}/.config/mpprc ] && . ${HOME}/.config/mpprc
+
+usage() {
+  printf "\nUsage: get-new-album [-F] [-N] [-U] [-u username] [-t token] [-h]"
+  printf "\nWhere:"
+  printf "\n\t-F indicates force overwrite of previously generated files."
+  printf "\n\t-N indicates do not use a Discogs API token."
+  printf "\n\t-U indicates run an update, only newly added Discogs items will be processed."
+  printf "\n\t-u 'username' specifies your Discogs username."
+  printf "\n\t-t 'token' specifies your Discogs API token."
+  printf "\n\t-h displays this usage message and exits.\n"
+  printf "\nA Discogs username is required."
+  printf "\nA Discogs username and token can be added to ~/.config/mpprc as the variables"
+  printf "\n\tDISCOGS_USER and DISCOGS_TOKEN"
+  printf "\nor specified on the command line with '-u username' and '-t token'\n"
+  printf "\nUpdates can be accomplished either with the '-U' option or '-F' option."
+  printf "\nAn update scenario is when 'discogs2markdown' has previously been run"
+  printf "\nbut new items have been added to the Discogs collection since then."
+  printf "\nUpdating with '-U' is faster as it does not generate markdown for existing items."
+  printf "\nIf both '-F' and '-U' are provided, only '-F' is used.\n\n"
+  exit 1
+}
+
+overwrite=
+update=
+usetoken=1
+# Command line arguments override config file settings
+while getopts "FNUu:t:h" flag; do
+    case $flag in
+        F)
+            overwrite=1
+            ;;
+        N)
+            usetoken=
+            ;;
+        U)
+            update=1
+            ;;
+        u)
+            DISCOGS_USER="$OPTARG"
+            ;;
+        t)
+            DISCOGS_TOKEN="$OPTARG"
+            ;;
+        h)
+            usage
+            ;;
+    esac
+done
+shift $(( OPTIND - 1 ))
+
+[ "${usetoken}" ] || DISCOGS_TOKEN=
+[ "${overwrite}" ] && update=
+
+[ "${DISCOGS_USER}" ] || {
+  echo "Discogs username required."
+  echo "Set DISCOGS_USER in ${HOME}/.config/mpprc or on the command line."
+  echo "Exiting."
+  exit 1
+}
+
 
 # Set to the username of the Discogs collection to query
-username="doctorfree"
+username="${DISCOGS_USER}"
 # Find the Discogs release id for the newly added album and put it here:
 releaseid=5589433
 # Alternately, the release id can be provided as the first argument to the command
@@ -29,9 +113,7 @@ USR="${URL}/users/${username}/collection/releases"
 HERE=`pwd`
 TOP="${HERE}/Discogs"
 AGE="github.com/doctorfree/MusicPlayerPlus"
-UAG="--user-agent \"MusicPlayerPlus/3.0\""
 coverfolder="${HERE}/assets/albumcovers"
-token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 
 [ -d "${TOP}" ] || mkdir -p "${TOP}"
 [ -d "${coverfolder}" ] || {
@@ -45,7 +127,7 @@ token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 [ -s "json/${releaseid}/${releaseid}.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${REL}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
     jq -r '.' > "json/${releaseid}/${releaseid}.json"
 }
 
@@ -177,7 +259,7 @@ year=
   [ -z ${masterid} ] || {
     curl --stderr /dev/null \
       -A "${AGE}" "${MRL}/${masterid}" \
-      -H "Authorization: Discogs token=${token}" | \
+      -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       jq '.' > json/${releaseid}/${releaseid}_master.json
   }
 }
@@ -196,7 +278,7 @@ echo "releaseid: ${releaseid}" >> "${markdown}"
 [ -s "json/custom_fields.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${FLD}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       jq -r '.' > "json/custom_fields.json"
 }
 
@@ -204,7 +286,7 @@ echo "releaseid: ${releaseid}" >> "${markdown}"
 [ -s "json/${releaseid}/${releaseid}_user.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${USR}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       jq -r '.' > "json/${releaseid}/${releaseid}_user.json"
 }
 
@@ -254,7 +336,7 @@ echo "" >> "${markdown}"
 [ -s "json/${releaseid}/${releaseid}_tracks.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${REL}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
     jq -r '.tracklist[] | "\(.position)%\(.title)%\(.duration)"' > \
     "json/${releaseid}/${releaseid}_tracks.json"
 }
@@ -280,7 +362,7 @@ rm -f /tmp/foo$$ /tmp/__insert__
 [ -s "json/${releaseid}/${releaseid}_extra.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${REL}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
     jq -r '.extraartists[] | "\(.name)%\(.role)"' > \
     "json/${releaseid}/${releaseid}_extra.json"
 }

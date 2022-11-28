@@ -35,7 +35,6 @@ MRL="${URL}/masters"
 HERE=`pwd`
 TOP="${HERE}/Discogs"
 AGE="github.com/doctorfree/MusicPlayerPlus"
-UAG="--user-agent \"MusicPlayerPlus/3.0\""
 coverfolder="${HERE}/assets/albumcovers"
 
 # Dot in the user configuration file if it exists

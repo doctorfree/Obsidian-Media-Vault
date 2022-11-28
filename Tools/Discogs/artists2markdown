@@ -94,12 +94,9 @@ TOOLS="${VAULT}/Tools/Discogs"
 ASSETS="${VAULT}/assets/artists"
 OUT="Discogs_Artists.md"
 
-# URL="https://api.discogs.com/releases"
 URL="https://api.discogs.com"
 ART="${URL}/artists"
-
 AGE="github.com/doctorfree/MusicPlayerPlus"
-UAG="--user-agent \"MusicPlayerPlus/3.0\""
 
 [ -d "${TOP}" ] || mkdir -p "${TOP}"
 

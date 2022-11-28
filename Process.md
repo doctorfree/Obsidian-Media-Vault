@@ -1649,7 +1649,6 @@ MRL="${URL}/masters"
 HERE=`pwd`
 TOP="${HERE}/Discogs"
 AGE="github.com/doctorfree/MusicPlayerPlus"
-UAG="--user-agent \"MusicPlayerPlus/3.0\""
 coverfolder="${HERE}/assets/albumcovers"
 
 # Dot in the user configuration file if it exists
@@ -2725,9 +2724,7 @@ USR="${URL}/users/${username}/collection/releases"
 HERE=`pwd`
 TOP="${HERE}/Discogs"
 AGE="github.com/doctorfree/MusicPlayerPlus"
-UAG="--user-agent \"MusicPlayerPlus/3.0\""
 coverfolder="${HERE}/assets/albumcovers"
-token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 
 [ -d "${TOP}" ] || mkdir -p "${TOP}"
 [ -d "${coverfolder}" ] || {
@@ -2741,7 +2738,7 @@ token="CtvkGQluyminrZuarkmuFJZjXFEvUFpNDxkjNnVP"
 [ -s "json/${releaseid}/${releaseid}.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${REL}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
     jq -r '.' > "json/${releaseid}/${releaseid}.json"
 }
 
@@ -2873,7 +2870,7 @@ year=
   [ -z ${masterid} ] || {
     curl --stderr /dev/null \
       -A "${AGE}" "${MRL}/${masterid}" \
-      -H "Authorization: Discogs token=${token}" | \
+      -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       jq '.' > json/${releaseid}/${releaseid}_master.json
   }
 }
@@ -2892,7 +2889,7 @@ echo "releaseid: ${releaseid}" >> "${markdown}"
 [ -s "json/custom_fields.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${FLD}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       jq -r '.' > "json/custom_fields.json"
 }
 
@@ -2900,7 +2897,7 @@ echo "releaseid: ${releaseid}" >> "${markdown}"
 [ -s "json/${releaseid}/${releaseid}_user.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${USR}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
       jq -r '.' > "json/${releaseid}/${releaseid}_user.json"
 }
 
@@ -2950,7 +2947,7 @@ echo "" >> "${markdown}"
 [ -s "json/${releaseid}/${releaseid}_tracks.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${REL}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
     jq -r '.tracklist[] | "\(.position)%\(.title)%\(.duration)"' > \
     "json/${releaseid}/${releaseid}_tracks.json"
 }
@@ -2976,7 +2973,7 @@ rm -f /tmp/foo$$ /tmp/__insert__
 [ -s "json/${releaseid}/${releaseid}_extra.json" ] || {
   curl --stderr /dev/null \
     -A "${AGE}" "${REL}/${releaseid}" \
-    -H "Authorization: Discogs token=${token}" | \
+    -H "Authorization: Discogs token=${DISCOGS_TOKEN}" | \
     jq -r '.extraartists[] | "\(.name)%\(.role)"' > \
     "json/${releaseid}/${releaseid}_extra.json"
 }
