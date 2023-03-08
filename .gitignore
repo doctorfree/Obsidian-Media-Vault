@@ -8,6 +8,10 @@
 .obsidian/themes/Doctorfree/*
 !.obsidian/themes/Doctorfree/manifest.json
 !.obsidian/themes/Doctorfree/theme.css
+!.obsidian/themes/AnuPpuccin
+.obsidian/themes/AnuPpuccin/*
+!.obsidian/themes/AnuPpuccin/manifest.json
+!.obsidian/themes/AnuPpuccin/theme.css
 !.obsidian/plugins
 !.obsidian/plugins/*
 
